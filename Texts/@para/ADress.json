@@ -1,0 +1,26 @@
+[
+  {
+    "key": "ADress-displayName",
+    "original": "Aria Steelwind",
+    "translation": null,
+    "context": "{\"Name\": \"ADress\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "ADress-description",
+    "original": "",
+    "translation": null,
+    "context": "{\"Name\": \"ADress\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "ADress-occupation",
+    "original": "Prosecutor",
+    "translation": null,
+    "context": "{\"Name\": \"ADress\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "ADress-arcaneArt",
+    "original": "Evocation",
+    "translation": null,
+    "context": "{\"Name\": \"ADress\", \"Attr\": \"arcaneArt\"}"
+  }
+]

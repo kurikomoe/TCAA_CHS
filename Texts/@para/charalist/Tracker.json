@@ -1,0 +1,26 @@
+[
+  {
+    "key": "Tracker-displayName",
+    "original": "Tracker",
+    "translation": null,
+    "context": "{\"Name\": \"Tracker\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Tracker-description",
+    "original": "",
+    "translation": null,
+    "context": "{\"Name\": \"Tracker\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Tracker-occupation",
+    "original": "Dog",
+    "translation": null,
+    "context": "{\"Name\": \"Tracker\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Tracker-arcaneArt",
+    "original": "Conjuration",
+    "translation": null,
+    "context": "{\"Name\": \"Tracker\", \"Attr\": \"arcaneArt\"}"
+  }
+]
