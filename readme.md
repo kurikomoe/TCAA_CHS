@@ -6,13 +6,17 @@
 
 ![中文测试](docs/first_scene.png)
 
+![人物名称](./docs/charaname.png)
+
 
 
 ## 计划
 
 程序媛一只，不会翻译，希望能找到人。
 
-文本可能会用  https://paratranz.cn 进行汉化协作。
+文本目前在 https://paratranz.cn/projects/12747 上进行汉化协作。可以自行提交加入申请。
+
+汉化组工作群：862399169 (QQ)，需要翻译，校对，修图（大概）。
 
 
 
@@ -22,18 +26,30 @@
 ### 文本汉化
 
 - [x] 找出所有的 m_text
-  - [ ] 主界面文本在 level0 中，剩下大部分在 resource 中。
+  - [x] 主界面文本在 level0 中，剩下大部分在 resource 中。
+  - [x] 导出到 paratranz 脚本
+  - [ ] paratranz 导入游戏脚本
+- [x] 找出所有的人物介绍 （CharacterLibrary-level0-599.json）
+  - [x] 导出到 paratranz 脚本
+  - [ ] paratranz 导入游戏脚本
 
-- [ ] default(en) 的剧本文件修改
-  - [ ] 绝赞招人中
-  - [ ] 直接编辑即可。
+- [ ] 物品描述文本（SpellLibrary-level0-602.json）
+  - [ ] 导出到 paratranz 脚本
+  - [ ] paratranz 导入游戏脚本。
+- [ ] default(en) 的剧本文件
+  - [x] 导出到 paratranz 脚本
+  - [ ] paratranz 导入游戏脚本。
+- [ ] 其他待定
 
 
 
 ### 图片汉化（目前不涉及）
 
 - [ ] 如果修的图少： UABEA 直接导入 png
+
 - [ ] 如果修的图多：导出后修正 resS 文件再批量导入。
+
+  
 
 
 ### 字库替换（完成）
