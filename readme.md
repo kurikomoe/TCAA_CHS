@@ -32,13 +32,17 @@
 - [x] 找出所有的人物介绍 （CharacterLibrary-level0-599.json）
   - [x] 导出到 paratranz 脚本
   - [ ] paratranz 导入游戏脚本
-
 - [ ] 物品描述文本（SpellLibrary-level0-602.json）
   - [ ] 导出到 paratranz 脚本
   - [ ] paratranz 导入游戏脚本。
 - [ ] default(en) 的剧本文件
   - [x] 导出到 paratranz 脚本
   - [ ] paratranz 导入游戏脚本。
+- [ ] Case 内部文本，例如教程等
+  - [ ] 这部分文本内嵌在 yarn script 中。位于 `Case 1-sharedassets0.assets-154.json` 这种文件内部的 compiledYarnProgram 字节码内。经过看 yarnspinner 源代码可知，这部分脚本通过虚拟机执行，通过观察发现，这些其实是 protobuf 编译后的二进制，因此可以使用 `protoscope` 直接编辑文本。
+  - [ ] 汉化方法：导出文本后
+    - [ ] <del>直接 hook 对应的显示函数，替换文本</del> 不行，发现要 hook 的地方还挺多的（>2)
+    - [ ] 利用 protoscope 重新编译后导入到资源文件中 (见 samples 文件夹)
 - [ ] 其他待定
 
 
