@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Child-displayName",
+    "original": "Child",
+    "translation": "孩童",
+    "stage": 1,
+    "context": "{\"Name\": \"Child\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Child-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Child\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Child-arcaneArt",
+    "original": "???",
+    "translation": "???",
+    "stage": 1,
+    "context": "{\"Name\": \"Child\", \"Attr\": \"arcaneArt\"}"
+  }
+]

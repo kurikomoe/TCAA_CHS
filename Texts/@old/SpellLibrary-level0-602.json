@@ -1,0 +1,357 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 50
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 292
+  },
+  "m_Name": "",
+  "spellList": {
+    "Array": [
+      {
+        "name": "Mage Blade",
+        "displayName": "Mage Blade",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_14.png",
+        "description": "For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.",
+        "spellSchool": 1,
+        "incantation": "\"Ar-kan\"",
+        "gesture": "None",
+        "duration": "1 minute",
+        "concentration": 1
+      },
+      {
+        "name": "Conjure Light",
+        "displayName": "Conjure Light",
+        "iconPath": "Assets/Visuals/Resources/Icons/Priestskill_08.png",
+        "description": "For the duration of this spell, a mote of magical light appears in the caster’s hand. The colour of the light is chosen by the caster and can be changed at will for the spell's duration. This mote of light provides illumination up to 15ft of the caster (and no further).",
+        "spellSchool": 2,
+        "incantation": "\"Lux-o\"",
+        "gesture": "None",
+        "duration": "1 hour",
+        "concentration": 1
+      },
+      {
+        "name": "Prestidigitation",
+        "displayName": "Prestidigitation",
+        "iconPath": "Assets/Visuals/Resources/Icons/Priestskill_47.png",
+        "description": "The caster creates a simple and harmless visual effect around their hand. This effect will last for as long as they maintain concentration on this spell.",
+        "spellSchool": 0,
+        "incantation": "None",
+        "gesture": "A snap of the fingers",
+        "duration": "Indefinitely",
+        "concentration": 1
+      },
+      {
+        "name": "Conjure Water",
+        "displayName": "Conjure Water",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_10.png",
+        "description": "Causes water to magically flow out of the caster’s hand. This water will flow so long as the caster maintains concentration on the spell.",
+        "spellSchool": 2,
+        "incantation": "\"Aq-ui-o\"",
+        "gesture": "Outstretched Palm",
+        "duration": "Indefinitely",
+        "concentration": 1
+      },
+      {
+        "name": "Frost Wave",
+        "displayName": "Frost Wave",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_2.png",
+        "description": "Anything caught within range is hit with a blast of extremely cold air. Liquids hit will be immediately frozen and organic life will immediately enter stages of hypothermia.",
+        "spellSchool": 1,
+        "incantation": "None",
+        "gesture": "Outstretch both hands",
+        "duration": "Instant",
+        "concentration": 0
+      },
+      {
+        "name": "Shape Liquid",
+        "displayName": "Shape Liquid",
+        "iconPath": "Assets/Visuals/Resources/Icons/Shamanskill_18.png",
+        "description": "While concentrating on this spell, the caster can magically manipulate up to 10L of liquid and form it into complex shapes. At any time, the caster can choose to freeze the liquid and solidify its current shape. While frozen, the caster can also choose to make the liquid instantaneously melt.",
+        "spellSchool": 1,
+        "incantation": "Fig-aq-u-a",
+        "gesture": "Point index finger at the target",
+        "duration": "Indefinitely",
+        "concentration": 1
+      },
+      {
+        "name": "Mend Wounds",
+        "displayName": "Mend Wounds",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_30.png",
+        "description": "Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.",
+        "spellSchool": 6,
+        "incantation": "\"Men-as\"",
+        "gesture": "None",
+        "duration": "1 minute",
+        "concentration": 0
+      },
+      {
+        "name": "Illusory Disguise",
+        "displayName": "Illusory Disguise",
+        "iconPath": "Assets/Visuals/Resources/Icons/Paladinskill_37.png",
+        "description": "Places an illusion on the target to completely change their visual appearance. The disguise moves with the target for the duration.\n\nThe disguise can make the target look 1ft larger or smaller. Elements hidden by the spell are made invisible. And elements created by the spell are purely visual. You cannot make physical contact with it.\r",
+        "spellSchool": 4,
+        "incantation": "\"Ill-us-io\"",
+        "gesture": "None",
+        "duration": "1 hour",
+        "concentration": 0
+      },
+      {
+        "name": "Major Illusion",
+        "displayName": "Major Illusion",
+        "iconPath": "Assets/Visuals/Resources/Icons/Assassinskill_31.png",
+        "description": "Creates a three-dimensional illusion. The illusion can take the form of any object or creature that can be contained in a 10ft cube. While concentrating, the caster can animate and move the image to a different location within range. The illusion is purely visual and can’t be physically touched.",
+        "spellSchool": 4,
+        "incantation": "\"Mill-us-o\"",
+        "gesture": "None",
+        "duration": "Until Dispelled",
+        "concentration": 1
+      },
+      {
+        "name": "Revive",
+        "displayName": "Revive",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_127.png",
+        "description": "Floods the target with life energy in an attempt to resuscitate them. It does not heal wounds sustained. Results may vary. But it cannot resuscitate someone who has been dead for more than a minute.",
+        "spellSchool": 6,
+        "incantation": "\"Viv-if-fy\"",
+        "gesture": "None",
+        "duration": "Instant",
+        "concentration": 0
+      },
+      {
+        "name": "Animate Corpse",
+        "displayName": "Animate Corpse",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_80.png",
+        "description": "Reanimates the target using life energy, creating an undead minion for the duration. The minion follows the caster’s orders. But its intelligence is limited and it cannot speak. The minion can end the spell prematurely but will only do so if ordered to by the caster.\n\nOnce the spell has ended, the undead will return to being a dead body.",
+        "spellSchool": 6,
+        "incantation": "\"Nec-cross\"",
+        "gesture": "None",
+        "duration": "8 hours",
+        "concentration": 0
+      },
+      {
+        "name": "Necrotic Blight",
+        "displayName": "Necrotic Blight",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_81.png",
+        "description": "Pulls all of the life energy from the target, resulting in instant death. This spell does not wound the target, nor does it leave any physical evidence (but it still leaves a magical trace).",
+        "spellSchool": 6,
+        "incantation": "\"Bligh-to\"",
+        "gesture": "Point index finger",
+        "duration": "Instant",
+        "concentration": 0
+      },
+      {
+        "name": "Send Message",
+        "displayName": "Send Message",
+        "iconPath": "Assets/Visuals/Resources/Icons/Archerskill_14.png",
+        "description": "For the duration of this spell, the caster projects their voice to communicate with a target. Anyone within a 30ft radius of the target can hear the caster’s voice. The caster can also hear sounds close to the target, allowing for two-way communication.\n\nThe target must be a person known to the caster. That person must also be conscious. Otherwise, the spell will fail. Alternatively, the target can be an object that is attuned to the caster’s magic.",
+        "spellSchool": 2,
+        "incantation": "\"Mal-um\"",
+        "gesture": "None",
+        "duration": "1 hour",
+        "concentration": 0
+      },
+      {
+        "name": "Familial Bond",
+        "displayName": "Familial Bond",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_39.png",
+        "description": "The caster forms a magical unbreakable bond with the target creature, connecting them to the caster’s magic. While this bond exists, the caster can telepathically communicate with the target over any distance. The caster can also choose to see through the target’s eyes as long as they concentrate. And lastly, the caster can also cast spells from the location of the target creature instead of their own location. \n\nOnce this bond is formed, neither the caster nor the target can form bonds with any other creature. This bond can only be broken in death.",
+        "spellSchool": 3,
+        "incantation": "\"Ret-er-rum\"",
+        "gesture": "None",
+        "duration": "Indefinitely",
+        "concentration": 0
+      },
+      {
+        "name": "Anti-Magic Field",
+        "displayName": "Anti-Magic Field",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_47_Grey.png",
+        "description": "While concentrating on this spell, the caster forms a 10ft radius sphere that nullifies all magic within it. Any spell effect that enters the sphere instantly dissipates. And any mage that tries to cast a spell within this zone will fail to do so.\n\nIf this zone of anti-magic overlaps with any other magical nullification effect, the two effects will cancel each other out.\n",
+        "spellSchool": 5,
+        "incantation": "\"Cout-ter-i-a\"",
+        "gesture": "None",
+        "duration": "Indefinitely",
+        "concentration": 1
+      },
+      {
+        "name": "Feign Death",
+        "displayName": "Feign Death",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_82.png",
+        "description": "The caster must target a creature that’s already unconscious. While they concentrate on this spell, the target will appear to be dead. The target creature will stop breathing and their heart will stop beating. However, the life energies of this spell will keep them alive for the duration.",
+        "spellSchool": 6,
+        "incantation": "\"Fal-nor-ma\"",
+        "gesture": "None",
+        "duration": "Indefinitely",
+        "concentration": 1
+      },
+      {
+        "name": "Invisibility",
+        "displayName": "Invisibility",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_75.png",
+        "description": "One of the highest forms of illusion magic. This spell makes the target creature or object completely invisible. While invisible, the target will be completely transparent and undetectable visually. If targeting a creature, this spell will also affect anything that the creature is wearing or holding.",
+        "spellSchool": 4,
+        "incantation": "\"O-kult-arr-ae\"",
+        "gesture": "Clap both hands together",
+        "duration": "1 hour",
+        "concentration": 0
+      },
+      {
+        "name": "Force Cage",
+        "displayName": "Force Cage",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_47_Grey.png",
+        "description": "For the duration, the caster creates a magical 10ftx10ftx10ft cube around a target within 30ft of them. The walls of this cube are impenetrable and can’t be destroyed by anything. Not even by spells that can normally dispel spell effects. Furthermore, any attempts to magically teleport into or out of the cube will fail.\r\n\r\nIf there is more than one creature in the target’s space, they will be pushed away from the center of the cube.\r",
+        "spellSchool": 5,
+        "incantation": "\"For-zar-ay\"",
+        "gesture": "Point index finger at the target",
+        "duration": "1 Hour",
+        "concentration": 0
+      },
+      {
+        "name": "Contingent Spell",
+        "displayName": "Glyph of Contingency",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_47.png",
+        "description": "When casting this spell, the caster must choose another spell they know. The caster casts that spell, but the contingent spell doesn’t come into effect. Instead, it takes effect when a certain condition (specified by the caster upon casting this spell) is fulfilled. The contingent spell takes effect immediately when that condition is fulfilled.",
+        "spellSchool": 0,
+        "incantation": "\"Col-tin-jen\"",
+        "gesture": "The gesture of the contingent spell",
+        "duration": "24 Hours",
+        "concentration": 0
+      },
+      {
+        "name": "Sleep",
+        "displayName": "Sleep",
+        "iconPath": "Assets/Visuals/Resources/Icons/Priestskill_42.png",
+        "description": "The caster conjures a magical mist in the direction that they stretch their palm. This magical mist will travel up to 30ft before dissipating. Any creature who inhales the mist will fall into a magical slumber. An affected creature will be woken from their slumber if they are violently shaken or experience any sort of pain.",
+        "spellSchool": 2,
+        "incantation": "\"Som-ni-ah\"",
+        "gesture": "An outstretched palm",
+        "duration": "While concentrating",
+        "concentration": 1
+      },
+      {
+        "name": "Foresight",
+        "displayName": "Foresight",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_21.png",
+        "description": "The caster invokes the ultimate form of <b>divination</b> magic to see brief glimpses of the near future. While this spell is active, the caster is able to sense danger seconds before it actually happens.",
+        "spellSchool": 3,
+        "incantation": "\"For-heim\"",
+        "gesture": "Form a triangle with both hands",
+        "duration": "24 hours",
+        "concentration": 0
+      },
+      {
+        "name": "Slow Fall",
+        "displayName": "Slow Fall",
+        "iconPath": "Assets/Visuals/Resources/Icons/Priestskill_36.png",
+        "description": "The caster counteracts the force of gravity affecting them, causing them to fall significantly slower when airborne for the duration.",
+        "spellSchool": 1,
+        "incantation": "\"Fe-thu-ra\"",
+        "gesture": "Point index finger downwards",
+        "duration": "1 hour",
+        "concentration": 0
+      },
+      {
+        "name": "Strike True",
+        "displayName": "Strike True",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_58.png",
+        "description": "The caster increases their ability to predict the results of all of their actions for the duration. This is useful for the purposes of aiming or doing other activities that rely on dexterity and skill.",
+        "spellSchool": 3,
+        "incantation": "\"Non-op-ti-ma\"",
+        "gesture": "Make a circle with thumb and index finger",
+        "duration": "10 minutes",
+        "concentration": 1
+      },
+      {
+        "name": "Detect Magic",
+        "displayName": "Detect Magic",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_87.png",
+        "description": "While concentrating, the caster can see the normally invisible magical traces left by magic. Magical traces are created two times when a spell is cast. The first is created at the position of the caster when the spell is cast. The second is created when the spell effect resolves or dissipates. The caster can identify the school of magic of any trace by color.\r\n\r\nEvocation: Red\r\nTransmutation: Yellow\r\nConjuration: Cyan\r\nDivination: Pink\r\nAbjuration: White\r\nNecromancy: Purple\r\nIllusion: Green\r",
+        "spellSchool": 3,
+        "incantation": "\"Rep-er-i-o Ar-kaen-num\"",
+        "gesture": "None",
+        "duration": "While concentrating",
+        "concentration": 1
+      },
+      {
+        "name": "Stone Skin",
+        "displayName": "Stone Skin",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_119.png",
+        "description": "The caster creates a thick layer of stone around their body. This stone layer will deflect and protect the caster from any physical trauma. The stone layer can be slowly broken through continuous attacks. But as long as the caster concentrates on this spell, the stone layer will instantaneously repair itself.",
+        "spellSchool": 1,
+        "incantation": "\"Ter-pro-tec\"",
+        "gesture": "Create an X with both arms",
+        "duration": "While concentrating",
+        "concentration": 1
+      },
+      {
+        "name": "Hold Creature",
+        "displayName": "Hold Creature",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_31.png",
+        "description": "The caster completely restricts the movement of the target. While concentrating on this spell, the target will be unable to move any part of their body. Even subtle movements (such as the gestures required to cast certain spells) are impossible. As a result, the target will also be unable to move their mouth to speak.",
+        "spellSchool": 0,
+        "incantation": "\"Ho-dl\"",
+        "gesture": "Point at the target",
+        "duration": "While concentrating",
+        "concentration": 1
+      },
+      {
+        "name": "Steelwind Strike",
+        "displayName": "Steelwind Strike",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_74.png",
+        "description": "The caster strikes targets of their choice within a 40ft radius with a slashing force. Each slash has the might and power of a <b>Mage Blade</b>, and can cut through thick metal armour. It’s the ultimate spell of House Steelwind and its spell formula is a closely guarded secret.",
+        "spellSchool": 0,
+        "incantation": "\"Vul-nus\"",
+        "gesture": "Raise index finger and pinky",
+        "duration": "Instant",
+        "concentration": 0
+      },
+      {
+        "name": "Fire Bolt",
+        "displayName": "Fire Bolt",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_40.png",
+        "description": "The caster launches a fiery projectile that’s hot enough to inflict third-degree burns. This projectile can travel 120ft without collision before its magic dissipates. Once it collides with something, it will set the object ablaze if it’s flammable.",
+        "spellSchool": 0,
+        "incantation": "\"Bol-to\"",
+        "gesture": "Point index finger at the target",
+        "duration": "Instant",
+        "concentration": 0
+      },
+      {
+        "name": "Polymorph",
+        "displayName": "Polymorph",
+        "iconPath": "Assets/Visuals/Resources/Icons/Engineerskill_44.png",
+        "description": "The caster transforms a target within 30ft of them into an animal. The animal can be any creature that can fit within a 2ftx2ftx2ft cube. For the duration, the target’s senses and intellect will also be changed to match that of the animal they are transformed into.",
+        "spellSchool": 1,
+        "incantation": "\"Drom-li\"",
+        "gesture": "Point index finger at the target",
+        "duration": "1 hour",
+        "concentration": 0
+      },
+      {
+        "name": "Dispel Magic",
+        "displayName": "Dispel Magic",
+        "iconPath": "Assets/Visuals/Resources/Icons/Dispel.png",
+        "description": "Choose any magical effect within 120ft. The spell that is creating that effect immediately ends (unless the targeted spell is immune to being dispelled). However, this only ends the spell’s effects. It does not undo the effects of the spell. For example, dispelling a <b>Shape Liquid</b> on an affected liquid will only prevent the caster from further manipulating the liquid. It will not unfreeze the liquid or change its shape back to normal.",
+        "spellSchool": 5,
+        "incantation": "\"A-bu-ri-o\"",
+        "gesture": "Point index finger at the target",
+        "duration": "Instant",
+        "concentration": 0
+      },
+      {
+        "name": "Shatter",
+        "displayName": "Shatter",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_47.png",
+        "description": "Channels the caster's magic into any physical object they are touching with their hands. If enough magic is channeled, the object may shatter or break. \n\nThe intensity of this spell will exponentially increase while they are concentrating. However, channelling larger quantities of magic will slowly drain the caster's stamina and possibly cause Mageblight.",
+        "spellSchool": 0,
+        "incantation": "\"Cre-te-ah\"",
+        "gesture": "None",
+        "duration": "While concentrating",
+        "concentration": 1
+      }
+    ]
+  }
+}

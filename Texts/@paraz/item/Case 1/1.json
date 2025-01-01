@@ -1,0 +1,14 @@
+[
+  {
+    "key": "Item-Case 1-1-Store-Bought Orange Juice-displayName",
+    "original": "Store-Bought Apple Juice",
+    "translation": null,
+    "context": "{\"Name\": \"Store-Bought Orange Juice\", \"Idx\": 1, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-1-Store-Bought Orange Juice-description",
+    "original": "The Kornhaven merchant has a bottle of store-bought apple juice. It’s resting on a table inside his shop. It’s suspiciously empty…",
+    "translation": null,
+    "context": "{\"Name\": \"Store-Bought Orange Juice\", \"Idx\": 1, \"Attr\": \"description\"}"
+  }
+]

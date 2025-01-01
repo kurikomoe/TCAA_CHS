@@ -1,0 +1,37 @@
+[
+  {
+    "key": "Catherine Bellwether-displayName",
+    "original": "Catherine Bellwether",
+    "translation": "凯瑟琳·贝尔维瑟",
+    "stage": 1,
+    "context": "{\"Name\": \"Catherine Bellwether\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Catherine Bellwether-description",
+    "original": "A professor at the Imperial Academy who clearly has an abrasive personality. She seems to have quite the disdain for your party <i>and</i> Wallace Chillgrave.",
+    "translation": "帝国学院的教授，性格粗暴。看起来很鄙视你们一行人<i>和</i> 沃勒斯。",
+    "stage": 1,
+    "context": "{\"Name\": \"Catherine Bellwether\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Catherine Bellwether-occupation",
+    "original": "Professor",
+    "translation": "教授",
+    "stage": 1,
+    "context": "{\"Name\": \"Catherine Bellwether\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Catherine Bellwether-arcaneArt",
+    "original": "Illusion",
+    "translation": "幻象",
+    "stage": 1,
+    "context": "{\"Name\": \"Catherine Bellwether\", \"Attr\": \"arcaneArt\"}"
+  },
+  {
+    "key": "Catherine Bellwether-altDescriptions-0",
+    "original": "A professor at the Imperial Academy who clearly had an abrasive personality. She seems to have had quite the disdain for your party <i>and</i> Wallace Chillgrave.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Catherine Bellwether\", \"Attr\": \"altDescriptions\", \"idx\": 0}"
+  }
+]

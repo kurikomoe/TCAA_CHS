@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-2-Prestidigitation-displayName",
+    "original": "Prestidigitation",
+    "translation": null,
+    "context": "{\"Name\": \"Prestidigitation\", \"Idx\": 2, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-2-Prestidigitation-description",
+    "original": "The caster creates a simple and harmless visual effect around their hand. This effect will last for as long as they maintain concentration on this spell.",
+    "translation": null,
+    "context": "{\"Name\": \"Prestidigitation\", \"Idx\": 2, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-2-Prestidigitation-incantation",
+    "original": "None",
+    "translation": null,
+    "context": "{\"Name\": \"Prestidigitation\", \"Idx\": 2, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-2-Prestidigitation-gesture",
+    "original": "A snap of the fingers",
+    "translation": null,
+    "context": "{\"Name\": \"Prestidigitation\", \"Idx\": 2, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-2-Prestidigitation-duration",
+    "original": "Indefinitely",
+    "translation": null,
+    "context": "{\"Name\": \"Prestidigitation\", \"Idx\": 2, \"Attr\": \"duration\"}"
+  }
+]

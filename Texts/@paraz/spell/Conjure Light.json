@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-1-Conjure Light-displayName",
+    "original": "Conjure Light",
+    "translation": null,
+    "context": "{\"Name\": \"Conjure Light\", \"Idx\": 1, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-1-Conjure Light-description",
+    "original": "For the duration of this spell, a mote of magical light appears in the caster’s hand. The colour of the light is chosen by the caster and can be changed at will for the spell's duration. This mote of light provides illumination up to 15ft of the caster (and no further).",
+    "translation": null,
+    "context": "{\"Name\": \"Conjure Light\", \"Idx\": 1, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-1-Conjure Light-incantation",
+    "original": "\"Lux-o\"",
+    "translation": null,
+    "context": "{\"Name\": \"Conjure Light\", \"Idx\": 1, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-1-Conjure Light-gesture",
+    "original": "None",
+    "translation": null,
+    "context": "{\"Name\": \"Conjure Light\", \"Idx\": 1, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-1-Conjure Light-duration",
+    "original": "1 hour",
+    "translation": null,
+    "context": "{\"Name\": \"Conjure Light\", \"Idx\": 1, \"Attr\": \"duration\"}"
+  }
+]

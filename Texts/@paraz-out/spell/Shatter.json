@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-30-Shatter-displayName",
+    "original": "Shatter",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Shatter\", \"Idx\": 30, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-30-Shatter-description",
+    "original": "Channels the caster's magic into any physical object they are touching with their hands. If enough magic is channeled, the object may shatter or break. \\n\\nThe intensity of this spell will exponentially increase while they are concentrating. However, channelling larger quantities of magic will slowly drain the caster's stamina and possibly cause Mageblight.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Shatter\", \"Idx\": 30, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-30-Shatter-incantation",
+    "original": "\"Cre-te-ah\"",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Shatter\", \"Idx\": 30, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-30-Shatter-gesture",
+    "original": "None",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Shatter\", \"Idx\": 30, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-30-Shatter-duration",
+    "original": "While concentrating",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Shatter\", \"Idx\": 30, \"Attr\": \"duration\"}"
+  }
+]

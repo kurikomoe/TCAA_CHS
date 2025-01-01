@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-17-Celeste's Occupation-displayName",
+    "original": "Celeste's Occupation",
+    "translation": "塞莱斯特的职业",
+    "stage": 1,
+    "context": "{\"Name\": \"Celeste's Occupation\", \"Idx\": 17, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-17-Celeste's Occupation-description",
+    "original": "Celeste McCoy learned magic so she could support her family as a mercenary. Apparently, many people will pay extra for a mercenary that can use magic.",
+    "translation": "塞莱斯特·麦考伊学习魔法成为雇佣兵来撑起家里的开销。 显然会魔法的雇佣兵能赚的更多。",
+    "stage": 1,
+    "context": "{\"Name\": \"Celeste's Occupation\", \"Idx\": 17, \"Attr\": \"description\"}"
+  }
+]

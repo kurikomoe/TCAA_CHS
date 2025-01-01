@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-4-Frost Wave-displayName",
+    "original": "Frost Wave",
+    "translation": "霜波",
+    "stage": 1,
+    "context": "{\"Name\": \"Frost Wave\", \"Idx\": 4, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-4-Frost Wave-description",
+    "original": "Anything caught within range is hit with a blast of extremely cold air. Liquids hit will be immediately frozen and organic life will immediately enter stages of hypothermia.",
+    "translation": "在范围内的任何物体将会受到一股极寒空气的冲击。液体会立刻冻结，有机生物会立即患上低温症。",
+    "stage": 1,
+    "context": "{\"Name\": \"Frost Wave\", \"Idx\": 4, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-4-Frost Wave-incantation",
+    "original": "None",
+    "translation": "无",
+    "stage": 1,
+    "context": "{\"Name\": \"Frost Wave\", \"Idx\": 4, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-4-Frost Wave-gesture",
+    "original": "Outstretch both hands",
+    "translation": "伸出双手",
+    "stage": 1,
+    "context": "{\"Name\": \"Frost Wave\", \"Idx\": 4, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-4-Frost Wave-duration",
+    "original": "Instant",
+    "translation": "瞬间",
+    "stage": 1,
+    "context": "{\"Name\": \"Frost Wave\", \"Idx\": 4, \"Attr\": \"duration\"}"
+  }
+]

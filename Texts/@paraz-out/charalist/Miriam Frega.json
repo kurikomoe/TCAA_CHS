@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Miriam Frega-displayName",
+    "original": "Miriam Frega",
+    "translation": "米莉亚姆·弗雷加",
+    "stage": 1,
+    "context": "{\"Name\": \"Miriam Frega\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Miriam Frega-description",
+    "original": "A student at the Wyverngarde Imperial Academy and a member of the prestigious House Frega. She clearly thinks too highly of herself and appears to be quite arrogant. She looks difficult to deal with…",
+    "translation": "维文加德帝国学院的学生，享有盛誉的弗雷加家族一员。自视甚高，甚至到了傲慢的程度。看起来不好应对……",
+    "stage": 1,
+    "context": "{\"Name\": \"Miriam Frega\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Miriam Frega-occupation",
+    "original": "Student",
+    "translation": "学生",
+    "stage": 1,
+    "context": "{\"Name\": \"Miriam Frega\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Miriam Frega-arcaneArt",
+    "original": "Conjuration",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Miriam Frega\", \"Attr\": \"arcaneArt\"}"
+  }
+]

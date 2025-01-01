@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Marrunath-displayName",
+    "original": "Marrunath",
+    "translation": "马鲁纳斯",
+    "stage": 1,
+    "context": "{\"Name\": \"Marrunath\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Marrunath-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Marrunath\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Marrunath-occupation",
+    "original": "Demonic Familiar",
+    "translation": "恶魔使魔",
+    "stage": 1,
+    "context": "{\"Name\": \"Marrunath\", \"Attr\": \"occupation\"}"
+  }
+]

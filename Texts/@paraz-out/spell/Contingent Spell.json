@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-18-Contingent Spell-displayName",
+    "original": "Glyph of Contingency",
+    "translation": "有备无患",
+    "stage": 1,
+    "context": "{\"Name\": \"Contingent Spell\", \"Idx\": 18, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-18-Contingent Spell-description",
+    "original": "When casting this spell, the caster must choose another spell they know. The caster casts that spell, but the contingent spell doesn’t come into effect. Instead, it takes effect when a certain condition (specified by the caster upon casting this spell) is fulfilled. The contingent spell takes effect immediately when that condition is fulfilled.",
+    "translation": "施法时，施法者可以选择另一个自己所知的法术。施法之后，有备无患法术不会立刻生效。但在施法者提供的条件满足时（条件于施展有备无患时提供），有备无患法术就会立刻生效。",
+    "stage": 1,
+    "context": "{\"Name\": \"Contingent Spell\", \"Idx\": 18, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-18-Contingent Spell-incantation",
+    "original": "\"Col-tin-jen\"",
+    "translation": "\"Col-tin-jen\"",
+    "stage": 1,
+    "context": "{\"Name\": \"Contingent Spell\", \"Idx\": 18, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-18-Contingent Spell-gesture",
+    "original": "The gesture of the contingent spell",
+    "translation": "有备无患法术的手势",
+    "stage": 1,
+    "context": "{\"Name\": \"Contingent Spell\", \"Idx\": 18, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-18-Contingent Spell-duration",
+    "original": "24 Hours",
+    "translation": "24小时",
+    "stage": 1,
+    "context": "{\"Name\": \"Contingent Spell\", \"Idx\": 18, \"Attr\": \"duration\"}"
+  }
+]

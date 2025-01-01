@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-4-Crime Scene Picture (Flinhart McCoy)-displayName",
+    "original": "Crime Scene Picture",
+    "translation": "犯罪现场的照片",
+    "stage": 1,
+    "context": "{\"Name\": \"Crime Scene Picture (Flinhart McCoy)\", \"Idx\": 4, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-4-Crime Scene Picture (Flinhart McCoy)-description",
+    "original": "A picture of Flinhart McCoy after he was murdered.",
+    "translation": "一张弗林哈特·麦考伊尸体的照片。",
+    "stage": 1,
+    "context": "{\"Name\": \"Crime Scene Picture (Flinhart McCoy)\", \"Idx\": 4, \"Attr\": \"description\"}"
+  }
+]

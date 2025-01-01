@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Townsfolk-displayName",
+    "original": "Townsfolk",
+    "translation": "镇民",
+    "stage": 1,
+    "context": "{\"Name\": \"Townsfolk\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Townsfolk-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Townsfolk\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Townsfolk-arcaneArt",
+    "original": "???",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Townsfolk\", \"Attr\": \"arcaneArt\"}"
+  }
+]

@@ -1,0 +1,1523 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 50
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 942
+  },
+  "m_Name": "",
+  "characterList": {
+    "Array": [
+      {
+        "name": "Tyrion Cuthbert",
+        "displayName": "Tyrion Cuthbert",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Tyrion.png",
+        "description": "Tyrion Cuthbert is a defense attorney who primarily defends mages among the commonfolk. After witnessing Wyverngarde’s judicial corruption first-hand, he began studying law under the infamous Ruby Tymora. Under her tutelage, he became a full-fledged defense attorney at the young age of twenty.",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "Defense Attorney",
+        "age": "20",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Frey Cuthbert",
+        "displayName": "Frey Cuthbert",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Cora Sibyl Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Gallery",
+        "displayName": "Gallery",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Bailiff",
+        "displayName": "Bailiff",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Prisoners",
+        "displayName": "Prisoners",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Townsfolk",
+        "displayName": "Townsfolk",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Mercenaries",
+        "displayName": "Mercenaries",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Celeste McCoy",
+        "displayName": "Celeste McCoy",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
+        "description": "Celeste McCoy is the adopted daughter of Flinhart and Jolene McCoy. Using her immense physical strength and natural talent for magic, she traveled the world as a mercenary to support her family. Her many feats earned her the name: “Crimson Demon” by those who feared her. However, she doesn’t exactly <i>enjoy</i> being called by that nickname.",
+        "altDescriptions": {
+          "Array": [
+            "Celeste McCoy is the daughter of Flinhart and Jolene McCoy. After the McCoy Tavern was shut down, she became a mercenary to support her family and keep them afloat."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Celeste McCoy Variant.prefab",
+        "occupation": "Bodyguard",
+        "age": "19",
+        "arcaneArt": "Transmutation",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Celeste.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "CDress",
+        "displayName": "Celeste McCoy",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Celeste McCoy (Dress) Variant.prefab",
+        "occupation": "Bodyguard",
+        "age": "19",
+        "arcaneArt": "Transmutation",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "CSteel",
+        "displayName": "Celeste \"Steelwind\"",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Celeste McCoy Variant.prefab",
+        "occupation": "Bodyguard",
+        "age": "19",
+        "arcaneArt": "Transmutation",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "CAria",
+        "displayName": "Celeste \"Steelwind\"",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Aria Steelwind.prefab",
+        "occupation": "Mercenary",
+        "age": "19",
+        "arcaneArt": "Transmutation",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.4620726,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Aria Steelwind",
+        "displayName": "Aria Steelwind",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+        "description": "Aria Steelwind is the daughter of the prestigious Steelwind noble house. House Steelwind primarily controls the Wyverngarde’s military forces and law enforcement. Despite her lineage, she has chosen to become a prosecutor who works with the Arcane Inquisition.\r",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Aria Steelwind.prefab",
+        "occupation": "Prosecutor",
+        "age": "18",
+        "arcaneArt": "Evocation",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.4620726,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "ADress",
+        "displayName": "Aria Steelwind",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Aria Steelwind (Dress).prefab",
+        "occupation": "Prosecutor",
+        "age": "18",
+        "arcaneArt": "Evocation",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.4620726,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Judge",
+        "displayName": "Judge",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Judge Variant.prefab",
+        "occupation": "Judge",
+        "age": "80",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.20392159,
+          "g": 0.13725491,
+          "b": 0.098039225,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Eris Illmater",
+        "displayName": "Eris Illmater",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Eris.png",
+        "description": "A mysterious woman who seems to have taken an interest in Tyrion… Her motivations are unknown.",
+        "altDescriptions": {
+          "Array": [
+            "A demon commonly referred to as “the Empress of Discord”. She is the Lord of the Sixth Circle of Hell who has taken a human form on the Mortal Plan. She posses quite a sadistic nature."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Eris Illmater Variant.prefab",
+        "occupation": "Student",
+        "age": "16",
+        "arcaneArt": "Illusion",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Eris.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.79593945,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Jolene McCoy",
+        "displayName": "Jolene McCoy",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Jolene.png",
+        "description": "Celeste’s adopted mother and the widow of Flinhart McCoy. She wanted the best for her family, but she was ultimately unable to quell Flinhart’s hatred of the nobility and the King.",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Jolene McCoy Variant.prefab",
+        "occupation": "Unemployed",
+        "age": "46",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.66,
+          "g": 0.54545456,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Flinhart McCoy",
+        "displayName": "Flinhart McCoy",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Flinhart.png",
+        "description": "A former tavern owner turned revolutionary. He is well known for voicing his displeasure against the King of Wyverngarde. He truly hates the nobility and the mages that use their magic.",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Flinhart McCoy Variant.prefab",
+        "occupation": "Unemployed",
+        "age": "52",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.33,
+          "g": 0.2733728,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Garrick Pierce",
+        "displayName": "Garrick Pierce",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Garrick.png",
+        "description": "The pompous noble lord who rules over the town of Kornhaven. He wants to see this trial resolved as soon as possible. But Tyrion will <i>not</i> allow that to happen.",
+        "altDescriptions": {
+          "Array": [
+            "After being indicted and convicted for the murder of Flinhart McCoy, Pierce now awaits public execution, as per Wyverngarde’s laws. However, he seems to be desperate to avoid that outcome."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Garrick Pierce Variant.prefab",
+        "occupation": "Nobleman",
+        "age": "38",
+        "arcaneArt": "Transmutation",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Garrick.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.5896226,
+          "g": 1.0,
+          "b": 0.9955206,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Orym White",
+        "displayName": "Orym White",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Orym.png",
+        "description": "The gruff and somewhat cynical commander of the Arcane Inquisition. He's a no-nonsense individual with a clear bias against mages from the nobility and the commonfolk.",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Orym White Variant.prefab",
+        "occupation": "Knight",
+        "age": "64",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Orym.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.475,
+          "g": 0.30820602,
+          "b": 0.12444998,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Rhys Rudolf",
+        "displayName": "Rhys Rudolf",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Rhys.png",
+        "description": "A loyal servant who appears to serve the nobility. He apparently has an eidetic memory.",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Rhys Rudolf Variant.prefab",
+        "occupation": "Servant",
+        "age": "34",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Rudolf.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.55,
+          "g": 0.55,
+          "b": 0.55,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "TRhys",
+        "displayName": "Tyrion Cuthbert",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Rhys Rudolf Variant.prefab",
+        "occupation": "Defense Attorney",
+        "age": "20",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.55,
+          "g": 0.55,
+          "b": 0.55,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Ruby Tymora",
+        "displayName": "Ruby Tymora",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Ruby.png",
+        "description": "An infamous defense attorney who defends mages among the commonfolk. She's deeply hated by the nobility, and she's been the center of many rumours that accuse her of participating in forgery, bribery, and blackmail.",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Ruby Tymora Variant.prefab",
+        "occupation": "Attorney",
+        "age": "46",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Child",
+        "displayName": "Child",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Child NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Knight",
+        "displayName": "Knight",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Knight NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Merchant",
+        "displayName": "Merchant",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Merchant NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Nobleman",
+        "displayName": "Nobleman",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Nobleman NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Executor",
+        "displayName": "Executor",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Nobleman NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Noblewoman",
+        "displayName": "Noblewoman",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Noblewoman NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Arcane Construct",
+        "displayName": "Arcane Construct",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Construct NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Construct.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Catherine Bellwether",
+        "displayName": "Catherine Bellwether",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Catherine.png",
+        "description": "A professor at the Imperial Academy who clearly has an abrasive personality. She seems to have quite the disdain for your party <i>and</i> Wallace Chillgrave.",
+        "altDescriptions": {
+          "Array": [
+            "A professor at the Imperial Academy who clearly had an abrasive personality. She seems to have had quite the disdain for your party <i>and</i> Wallace Chillgrave."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Catherine Variant.prefab",
+        "occupation": "Professor",
+        "age": "34",
+        "arcaneArt": "Illusion",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.5,
+          "b": 0.8784313,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Jan Hughes",
+        "displayName": "Jan Hughes",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Jan.png",
+        "description": "A custodian who appears to have a rather lazy disposition. But if he’s kept a job for <i>this</i> long, he must be competent.",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Jan Hughes Variant.prefab",
+        "occupation": "Custodian",
+        "age": "36",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Jan.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.101960786,
+          "g": 0.4,
+          "b": 0.43529412,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Miriam Frega",
+        "displayName": "Miriam Frega",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Mirriam.png",
+        "description": "A student at the Wyverngarde Imperial Academy and a member of the prestigious House Frega. She clearly thinks too highly of herself and appears to be quite arrogant. She looks difficult to deal with…",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Miriam Frega Variant.prefab",
+        "occupation": "Student",
+        "age": "17",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Miriam.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.23921569,
+          "g": 0.91764706,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Valentina Ianus",
+        "displayName": "Valentina Ianus",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Valentina.png",
+        "description": "A member of the kitchen staff at the Imperial Academy. She’s an identical twin to her sister Valerie. They both physically look the same.",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Valentina Ianus Variant.prefab",
+        "occupation": "Kitchen Staff",
+        "age": "19",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Valentina.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.93333334,
+          "g": 0.6431373,
+          "b": 0.39215687,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Valerie Ianus",
+        "displayName": "Valerie Ianus",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Valerie.png",
+        "description": "A member of the kitchen staff at the Imperial Academy. She’s an identical twin to her sister Valentina. They both physically look the same.",
+        "altDescriptions": {
+          "Array": [
+            "A member of the kitchen staff at the Imperial Academy. She’s an identical twin to her sister Valentina. They both physically look the same.\n\nShe's secretly been hiding the fact that she's a mage. This is illegal under the laws of Wyverngarde."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Valerie Ianus.prefab",
+        "occupation": "Kitchen Staff",
+        "age": "19",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Valentina.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.93333334,
+          "g": 0.6431373,
+          "b": 0.39215687,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Theodore Redmond",
+        "displayName": "Theodore Redmond",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Theodore.png",
+        "description": "The headmaster of the Imperial Academy. He's supposedly had this position for many decades.\n\nHe's sympathetic to mages of the commonfolk and allows them to enroll at the academy without having to pay tuition. However, the nobility and their sympathizers don't approve of this.",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Theodore Redmond Variant.prefab",
+        "occupation": "Headmaster",
+        "age": "88",
+        "arcaneArt": "Illusion",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Theodore.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.43529412,
+          "g": 0.27450982,
+          "b": 0.101960786,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Wallace Chillgrave",
+        "displayName": "Wallace Nightgrave",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Wallace.png",
+        "description": "A student at the Imperial Academy. He seems to be in a constant state of nervousness and anxiety...",
+        "altDescriptions": {
+          "Array": [
+            "A former student at the Imperial Academy. He was expelled for studying high-level necromancy. But since then, the necromancer Lazarick Asclepius has taken him as his ward."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Wallace Chillgrave Variant.prefab",
+        "occupation": "Student",
+        "age": "16",
+        "arcaneArt": "Necromancy",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.4627451,
+          "g": 0.5019608,
+          "b": 0.69803923,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Justin Waye",
+        "displayName": "Justin Waye",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "Refinery Worker",
+        "age": "22",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.99215686,
+          "b": 0.8980392,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Aster de Wyverngarde",
+        "displayName": "Aster de Wyverngarde",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aster.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Aster Wyverngarde Variant.prefab",
+        "occupation": "Prince",
+        "age": "26",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Aster.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.99215686,
+          "b": 0.8980392,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Gavin Cromwell",
+        "displayName": "Gavin Cralen",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Gavin.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Gavin Cromwell Variant.prefab",
+        "occupation": "None",
+        "age": "16",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.99215686,
+          "b": 0.8980392,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Lloyd von Sanctus",
+        "displayName": "Lloyd von Sanctus",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Lloyd.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Lloyd von Sanctus Variant.prefab",
+        "occupation": "Nobleman",
+        "age": "45",
+        "arcaneArt": "Abjuration",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Lloyd.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.5424528,
+          "g": 0.9835751,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Mosourika Tudor",
+        "displayName": "Mosourika Tudor",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Mosourika.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Mosourika Tudor Variant.prefab",
+        "occupation": "Merchant",
+        "age": "19",
+        "arcaneArt": "Evocation",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Mosourika.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.9575472,
+          "b": 0.4481132,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Noah Morrison",
+        "displayName": "Noah Morrison",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Noah.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Noah Morrison Variant.prefab",
+        "occupation": "Harbourmaster",
+        "age": "64",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Noah.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.4716981,
+          "b": 0.2944728,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Stefanic Dracogen",
+        "displayName": "Stefanic Dracogen",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Stefanic.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Stefanic Dracogen Variant.prefab",
+        "occupation": "Guildmaster",
+        "age": "70",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.7169812,
+          "g": 0.26429895,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Wyatt Miller",
+        "displayName": "Wyatt Ernell",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Wyatt.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Wyatt Miller Variant.prefab",
+        "occupation": "None",
+        "age": "17",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.70352554,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Beatrice Frega",
+        "displayName": "Beatrice Frega",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Beatrice.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Beatrice Frega Variant.prefab",
+        "occupation": "Freelancer",
+        "age": "23",
+        "arcaneArt": "Illusion",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Beatrice.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.23921567,
+          "g": 0.48299637,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Marrunath",
+        "displayName": "Marrunath",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Marrunath.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Marrunath Variant.prefab",
+        "occupation": "Demonic Familiar",
+        "age": "???",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Marrunath.png",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.19257641,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "MBeatrice",
+        "displayName": "Beatrice Frega",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Marrunath.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Beatrice and Marrunath.prefab",
+        "occupation": "Freelancer",
+        "age": "23",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Beatrice and Marrunath.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "Marrunath",
+        "colour": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.19257641,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "William Frega",
+        "displayName": "William Frega",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Wilfred.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Wilfred Frega Variant.prefab",
+        "occupation": "Nobleman",
+        "age": "62",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.3195877,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Alaric de Wyverngarde",
+        "displayName": "Alaric de Wyverngarde",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Aleric.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Aleric de Wyverngade.prefab",
+        "occupation": "Prince",
+        "age": "7",
+        "arcaneArt": "Evocation",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Alaric.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Liafal Frega",
+        "displayName": "Laefe Frega",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Liafal.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Liafall Frega Variant.prefab",
+        "occupation": "Noble",
+        "age": "18",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Liafal.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.4803925,
+          "g": 1.0,
+          "b": 0.254902,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Tracker",
+        "displayName": "Tracker",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Cormac.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Cormac Variant.prefab",
+        "occupation": "Dog",
+        "age": "3",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Lazarick Asclepius",
+        "displayName": "Lazarick Asclepius",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Lazarick.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Lazar Asclepius Variant.prefab",
+        "occupation": "Nobleman",
+        "age": "27",
+        "arcaneArt": "Necromancy",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.319,
+          "b": 0.30356455,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Lucio Steelwind",
+        "displayName": "Lucio Steelwind",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Lucio.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Lucio Steelwind Variant.prefab",
+        "occupation": "Grand General",
+        "age": "76",
+        "arcaneArt": "Evocation",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.24446917,
+          "b": 0.5283019,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Eyetaker",
+        "displayName": "Eyetaker",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Eyetaker.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Eyetaker Variant.prefab",
+        "occupation": "Boss",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.39,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Remus",
+        "displayName": "Remus Virgilae",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Rathyn.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Rathazure de Wyverngarde Variant.prefab",
+        "occupation": "Royal Advisor",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Remus.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.9698839,
+          "b": 0.6084906,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Rath",
+        "displayName": "Rathallion the Scaled Lord",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Rathallion.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Dragon Variant.prefab",
+        "occupation": "Scaled Lord",
+        "age": "1203",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.9698839,
+          "b": 0.6084906,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "RathIntro",
+        "displayName": "Rathallion the Scaled Lord",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Rathallion.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Rathallion.prefab",
+        "occupation": "Scaled Lord",
+        "age": "1203",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.67290825,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Harold Haroldson",
+        "displayName": "Harold Haroldson",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Harold.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Harold Haroldson Variant.prefab",
+        "occupation": "Historian",
+        "age": "???",
+        "arcaneArt": "Transmutation",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Harold.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.9322865,
+          "b": 0.6367924,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Eugene Haroldson",
+        "displayName": "Eugene Haroldson",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Eugene.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Eugene Haroldson Variant.prefab",
+        "occupation": "Monkey",
+        "age": "20",
+        "arcaneArt": "Transmutation",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Eugene.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.3901304,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Coraline Sibyl",
+        "displayName": "Coraline Sibyl",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Coraline.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Cora Sibyl Variant.prefab",
+        "occupation": "Noble",
+        "age": "38",
+        "arcaneArt": "Divination",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.9272408,
+          "g": 0.5235849,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Theon Archeus",
+        "displayName": "Theon Archeus",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Theon.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Theon Arkrius Variant.prefab",
+        "occupation": "High Speaker",
+        "age": "81",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Theon.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.9450925,
+          "b": 0.6556604,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "FEris",
+        "displayName": "Empress of Discord",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "Lord of the Sixth",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.49297905,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Miles Varyn kal Galad",
+        "displayName": "Miles Varyn kal Galad",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "Archsentinel",
+        "age": "27",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.49297905,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Illia Stormwake",
+        "displayName": "Illia Stormwake",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "High Inquisitor",
+        "age": "23",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.49297905,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Asmodeus",
+        "displayName": "Asmodeus",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "Lord of the Ninth",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.49297905,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      }
+    ]
+  }
+}

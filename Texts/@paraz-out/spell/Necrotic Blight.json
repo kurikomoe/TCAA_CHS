@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-11-Necrotic Blight-displayName",
+    "original": "Necrotic Blight",
+    "translation": "索命咒",
+    "stage": 1,
+    "context": "{\"Name\": \"Necrotic Blight\", \"Idx\": 11, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-11-Necrotic Blight-description",
+    "original": "Pulls all of the life energy from the target, resulting in instant death. This spell does not wound the target, nor does it leave any physical evidence (but it still leaves a magical trace).",
+    "translation": "抽出目标所有的生命力，使其即时死亡。该法术不会对目标造成创伤等任何实物证据（但仍然会残留魔法痕迹）。",
+    "stage": 1,
+    "context": "{\"Name\": \"Necrotic Blight\", \"Idx\": 11, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-11-Necrotic Blight-incantation",
+    "original": "\"Bligh-to\"",
+    "translation": "\"Bligh-to\"",
+    "stage": 1,
+    "context": "{\"Name\": \"Necrotic Blight\", \"Idx\": 11, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-11-Necrotic Blight-gesture",
+    "original": "Point index finger",
+    "translation": "将食指指向目标",
+    "stage": 1,
+    "context": "{\"Name\": \"Necrotic Blight\", \"Idx\": 11, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-11-Necrotic Blight-duration",
+    "original": "Instant",
+    "translation": "瞬间",
+    "stage": 1,
+    "context": "{\"Name\": \"Necrotic Blight\", \"Idx\": 11, \"Attr\": \"duration\"}"
+  }
+]

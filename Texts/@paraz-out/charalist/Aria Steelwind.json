@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Aria Steelwind-displayName",
+    "original": "Aria Steelwind",
+    "translation": "阿莉亚·斯蒂尔文德",
+    "stage": 1,
+    "context": "{\"Name\": \"Aria Steelwind\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Aria Steelwind-description",
+    "original": "Aria Steelwind is the daughter of the prestigious Steelwind noble house. House Steelwind primarily controls the Wyverngarde’s military forces and law enforcement. Despite her lineage, she has chosen to become a prosecutor who works with the Arcane Inquisition.\r",
+    "translation": "阿莉亚·斯蒂尔文德是声名远扬的斯蒂尔文德家的长女。斯蒂尔文德家族掌管维文加德王国的军事力量与执法机关。虽然出身于这样的家族，她却选择成为一名与奥术裁判所共事的检察官。",
+    "stage": 1,
+    "context": "{\"Name\": \"Aria Steelwind\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Aria Steelwind-occupation",
+    "original": "Prosecutor",
+    "translation": "检察官",
+    "stage": 1,
+    "context": "{\"Name\": \"Aria Steelwind\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Aria Steelwind-arcaneArt",
+    "original": "Evocation",
+    "translation": "召唤",
+    "stage": 1,
+    "context": "{\"Name\": \"Aria Steelwind\", \"Attr\": \"arcaneArt\"}"
+  }
+]

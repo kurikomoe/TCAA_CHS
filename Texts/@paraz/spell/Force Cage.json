@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-17-Force Cage-displayName",
+    "original": "Force Cage",
+    "translation": null,
+    "context": "{\"Name\": \"Force Cage\", \"Idx\": 17, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-17-Force Cage-description",
+    "original": "For the duration, the caster creates a magical 10ftx10ftx10ft cube around a target within 30ft of them. The walls of this cube are impenetrable and can’t be destroyed by anything. Not even by spells that can normally dispel spell effects. Furthermore, any attempts to magically teleport into or out of the cube will fail.\r\n\r\nIf there is more than one creature in the target’s space, they will be pushed away from the center of the cube.\r",
+    "translation": null,
+    "context": "{\"Name\": \"Force Cage\", \"Idx\": 17, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-17-Force Cage-incantation",
+    "original": "\"For-zar-ay\"",
+    "translation": null,
+    "context": "{\"Name\": \"Force Cage\", \"Idx\": 17, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-17-Force Cage-gesture",
+    "original": "Point index finger at the target",
+    "translation": null,
+    "context": "{\"Name\": \"Force Cage\", \"Idx\": 17, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-17-Force Cage-duration",
+    "original": "1 Hour",
+    "translation": null,
+    "context": "{\"Name\": \"Force Cage\", \"Idx\": 17, \"Attr\": \"duration\"}"
+  }
+]

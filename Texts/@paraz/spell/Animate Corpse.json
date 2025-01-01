@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-10-Animate Corpse-displayName",
+    "original": "Animate Corpse",
+    "translation": null,
+    "context": "{\"Name\": \"Animate Corpse\", \"Idx\": 10, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-10-Animate Corpse-description",
+    "original": "Reanimates the target using life energy, creating an undead minion for the duration. The minion follows the caster’s orders. But its intelligence is limited and it cannot speak. The minion can end the spell prematurely but will only do so if ordered to by the caster.\n\nOnce the spell has ended, the undead will return to being a dead body.",
+    "translation": null,
+    "context": "{\"Name\": \"Animate Corpse\", \"Idx\": 10, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-10-Animate Corpse-incantation",
+    "original": "\"Nec-cross\"",
+    "translation": null,
+    "context": "{\"Name\": \"Animate Corpse\", \"Idx\": 10, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-10-Animate Corpse-gesture",
+    "original": "None",
+    "translation": null,
+    "context": "{\"Name\": \"Animate Corpse\", \"Idx\": 10, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-10-Animate Corpse-duration",
+    "original": "8 hours",
+    "translation": null,
+    "context": "{\"Name\": \"Animate Corpse\", \"Idx\": 10, \"Attr\": \"duration\"}"
+  }
+]

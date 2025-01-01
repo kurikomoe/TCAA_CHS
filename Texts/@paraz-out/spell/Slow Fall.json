@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-21-Slow Fall-displayName",
+    "original": "Slow Fall",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Slow Fall\", \"Idx\": 21, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-21-Slow Fall-description",
+    "original": "The caster counteracts the force of gravity affecting them, causing them to fall significantly slower when airborne for the duration.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Slow Fall\", \"Idx\": 21, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-21-Slow Fall-incantation",
+    "original": "\"Fe-thu-ra\"",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Slow Fall\", \"Idx\": 21, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-21-Slow Fall-gesture",
+    "original": "Point index finger downwards",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Slow Fall\", \"Idx\": 21, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-21-Slow Fall-duration",
+    "original": "1 hour",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Slow Fall\", \"Idx\": 21, \"Attr\": \"duration\"}"
+  }
+]

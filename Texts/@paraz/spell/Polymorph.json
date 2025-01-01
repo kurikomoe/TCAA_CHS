@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-28-Polymorph-displayName",
+    "original": "Polymorph",
+    "translation": null,
+    "context": "{\"Name\": \"Polymorph\", \"Idx\": 28, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-28-Polymorph-description",
+    "original": "The caster transforms a target within 30ft of them into an animal. The animal can be any creature that can fit within a 2ftx2ftx2ft cube. For the duration, the target’s senses and intellect will also be changed to match that of the animal they are transformed into.",
+    "translation": null,
+    "context": "{\"Name\": \"Polymorph\", \"Idx\": 28, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-28-Polymorph-incantation",
+    "original": "\"Drom-li\"",
+    "translation": null,
+    "context": "{\"Name\": \"Polymorph\", \"Idx\": 28, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-28-Polymorph-gesture",
+    "original": "Point index finger at the target",
+    "translation": null,
+    "context": "{\"Name\": \"Polymorph\", \"Idx\": 28, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-28-Polymorph-duration",
+    "original": "1 hour",
+    "translation": null,
+    "context": "{\"Name\": \"Polymorph\", \"Idx\": 28, \"Attr\": \"duration\"}"
+  }
+]

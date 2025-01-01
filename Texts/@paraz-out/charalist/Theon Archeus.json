@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Theon Archeus-displayName",
+    "original": "Theon Archeus",
+    "translation": "希恩·阿契厄斯",
+    "stage": 1,
+    "context": "{\"Name\": \"Theon Archeus\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Theon Archeus-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Theon Archeus\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Theon Archeus-occupation",
+    "original": "High Speaker",
+    "translation": "议长",
+    "stage": 1,
+    "context": "{\"Name\": \"Theon Archeus\", \"Attr\": \"occupation\"}"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-16-Invisibility-displayName",
+    "original": "Invisibility",
+    "translation": null,
+    "context": "{\"Name\": \"Invisibility\", \"Idx\": 16, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-16-Invisibility-description",
+    "original": "One of the highest forms of illusion magic. This spell makes the target creature or object completely invisible. While invisible, the target will be completely transparent and undetectable visually. If targeting a creature, this spell will also affect anything that the creature is wearing or holding.",
+    "translation": null,
+    "context": "{\"Name\": \"Invisibility\", \"Idx\": 16, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-16-Invisibility-incantation",
+    "original": "\"O-kult-arr-ae\"",
+    "translation": null,
+    "context": "{\"Name\": \"Invisibility\", \"Idx\": 16, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-16-Invisibility-gesture",
+    "original": "Clap both hands together",
+    "translation": null,
+    "context": "{\"Name\": \"Invisibility\", \"Idx\": 16, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-16-Invisibility-duration",
+    "original": "1 hour",
+    "translation": null,
+    "context": "{\"Name\": \"Invisibility\", \"Idx\": 16, \"Attr\": \"duration\"}"
+  }
+]

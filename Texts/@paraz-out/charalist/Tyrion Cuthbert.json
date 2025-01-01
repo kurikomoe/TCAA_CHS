@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Tyrion Cuthbert-displayName",
+    "original": "Tyrion Cuthbert",
+    "translation": "提利昂·卡斯伯特",
+    "stage": 1,
+    "context": "{\"Name\": \"Tyrion Cuthbert\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Tyrion Cuthbert-description",
+    "original": "Tyrion Cuthbert is a defense attorney who primarily defends mages among the commonfolk. After witnessing Wyverngarde’s judicial corruption first-hand, he began studying law under the infamous Ruby Tymora. Under her tutelage, he became a full-fledged defense attorney at the young age of twenty.",
+    "translation": "提利昂·卡斯伯特是个辩护律师，主要为平民法师们辩护。在亲身体会过维文加德的司法腐败后，他跟着臭名昭著的鲁比·泰摩拉学习法律。在她的指点下，提利昂在20岁就成为了成熟的辩护律师。",
+    "stage": 1,
+    "context": "{\"Name\": \"Tyrion Cuthbert\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Tyrion Cuthbert-occupation",
+    "original": "Defense Attorney",
+    "translation": "辩护律师",
+    "stage": 1,
+    "context": "{\"Name\": \"Tyrion Cuthbert\", \"Attr\": \"occupation\"}"
+  }
+]

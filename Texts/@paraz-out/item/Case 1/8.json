@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-8-Crime Scene Map (McCoy Tavern) 2-displayName",
+    "original": "Crime Scene Map (McCoy Tavern)",
+    "translation": "犯罪现场地图（麦考伊酒馆）",
+    "stage": 1,
+    "context": "{\"Name\": \"Crime Scene Map (McCoy Tavern) 2\", \"Idx\": 8, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-8-Crime Scene Map (McCoy Tavern) 2-description",
+    "original": "A geometrically scaled map of the Crime Scene. Flinhart died at the location of the V marker. This was also the location of where the murder must have occurred.",
+    "translation": "犯罪现场的比例缩小地图。死者的位置在图上用V标识。这一定是第一案发现场。",
+    "stage": 1,
+    "context": "{\"Name\": \"Crime Scene Map (McCoy Tavern) 2\", \"Idx\": 8, \"Attr\": \"description\"}"
+  }
+]

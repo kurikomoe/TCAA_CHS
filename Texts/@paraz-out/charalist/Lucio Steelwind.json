@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Lucio Steelwind-displayName",
+    "original": "Lucio Steelwind",
+    "translation": "卢西奥·斯蒂尔文德",
+    "stage": 1,
+    "context": "{\"Name\": \"Lucio Steelwind\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Lucio Steelwind-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Lucio Steelwind\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Lucio Steelwind-occupation",
+    "original": "Grand General",
+    "translation": "大将军",
+    "stage": 1,
+    "context": "{\"Name\": \"Lucio Steelwind\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Lucio Steelwind-arcaneArt",
+    "original": "Evocation",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Lucio Steelwind\", \"Attr\": \"arcaneArt\"}"
+  }
+]

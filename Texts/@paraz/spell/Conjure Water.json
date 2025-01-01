@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-3-Conjure Water-displayName",
+    "original": "Conjure Water",
+    "translation": null,
+    "context": "{\"Name\": \"Conjure Water\", \"Idx\": 3, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-3-Conjure Water-description",
+    "original": "Causes water to magically flow out of the caster’s hand. This water will flow so long as the caster maintains concentration on the spell.",
+    "translation": null,
+    "context": "{\"Name\": \"Conjure Water\", \"Idx\": 3, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-3-Conjure Water-incantation",
+    "original": "\"Aq-ui-o\"",
+    "translation": null,
+    "context": "{\"Name\": \"Conjure Water\", \"Idx\": 3, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-3-Conjure Water-gesture",
+    "original": "Outstretched Palm",
+    "translation": null,
+    "context": "{\"Name\": \"Conjure Water\", \"Idx\": 3, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-3-Conjure Water-duration",
+    "original": "Indefinitely",
+    "translation": null,
+    "context": "{\"Name\": \"Conjure Water\", \"Idx\": 3, \"Attr\": \"duration\"}"
+  }
+]

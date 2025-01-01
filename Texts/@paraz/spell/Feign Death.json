@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-15-Feign Death-displayName",
+    "original": "Feign Death",
+    "translation": null,
+    "context": "{\"Name\": \"Feign Death\", \"Idx\": 15, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-15-Feign Death-description",
+    "original": "The caster must target a creature that’s already unconscious. While they concentrate on this spell, the target will appear to be dead. The target creature will stop breathing and their heart will stop beating. However, the life energies of this spell will keep them alive for the duration.",
+    "translation": null,
+    "context": "{\"Name\": \"Feign Death\", \"Idx\": 15, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-15-Feign Death-incantation",
+    "original": "\"Fal-nor-ma\"",
+    "translation": null,
+    "context": "{\"Name\": \"Feign Death\", \"Idx\": 15, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-15-Feign Death-gesture",
+    "original": "None",
+    "translation": null,
+    "context": "{\"Name\": \"Feign Death\", \"Idx\": 15, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-15-Feign Death-duration",
+    "original": "Indefinitely",
+    "translation": null,
+    "context": "{\"Name\": \"Feign Death\", \"Idx\": 15, \"Attr\": \"duration\"}"
+  }
+]

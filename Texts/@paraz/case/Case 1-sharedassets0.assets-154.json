@@ -1,0 +1,374 @@
+[
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-CelesteArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"CelesteArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Ending-67-0",
+    "original": "Episode End",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Ending\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"TitleCard \\\\\\\"Episode End\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode End\\\\\\\"\\\"\\n\", \"cmd\": [\"TitleCard\", \"Episode End\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument2-3-0",
+    "original": "It was selfish of me to learn magic.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Celeste_Argument2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"It was selfish of me to learn magic.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"It was selfish of me to learn magic.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"It was selfish of me to learn magic.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument-3-0",
+    "original": "Start an ARGUMENT with Celeste McCoy?",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Celeste_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Celeste McCoy?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Celeste McCoy?\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Celeste McCoy?\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument-25-0",
+    "original": "He’s always hated magic. There’s no reason behind it.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Celeste_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"He’s always hated magic. There’s no reason behind it.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"He’s always hated magic. There’s no reason behind it.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"He’s always hated magic. There’s no reason behind it.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-14-0",
+    "original": "How did the bottle shatter?",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did the bottle shatter?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did the bottle shatter?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How did the bottle shatter?\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-17-0",
+    "original": "Celeste,The killer,Flinhart",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Celeste,The killer,Flinhart\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Celeste,The killer,Flinhart\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Celeste,The killer,Flinhart\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-18-0",
+    "original": "dropped,threw,placed",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"dropped,threw,placed\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"dropped,threw,placed\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"dropped,threw,placed\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-19-0",
+    "original": "the bottle,the sword,the killer",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the bottle,the sword,the killer\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the bottle,the sword,the killer\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the bottle,the sword,the killer\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-20-0",
+    "original": "during the attack,after the attack,before the attack",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"during the attack,after the attack,before the attack\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"during the attack,after the attack,before the attack\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"during the attack,after the attack,before the attack\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-21-0",
+    "original": "How did the bottle shatter?",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How did the bottle shatter?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did the bottle shatter?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How did the bottle shatter?\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-OrymArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"OrymArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument-4-0",
+    "original": "Arguments",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Merchant_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Tutorial.png\\\\\\\" \\\\\\\"Arguments\\\\\\\" \\\\\\\"You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Tutorial.png\\\\\\\" \\\\\\\"Arguments\\\\\\\" \\\\\\\"You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Argument Tutorial.png\", \"Arguments\", \"You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument-4-1",
+    "original": "You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Merchant_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Tutorial.png\\\\\\\" \\\\\\\"Arguments\\\\\\\" \\\\\\\"You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Tutorial.png\\\\\\\" \\\\\\\"Arguments\\\\\\\" \\\\\\\"You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Argument Tutorial.png\", \"Arguments\", \"You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument-8-0",
+    "original": "I only trade organic products.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Merchant_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I only trade organic products.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I only trade organic products.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I only trade organic products.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-MerchantArgument_Fail-3-0",
+    "original": "You lost the argument...",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"MerchantArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Lobby1-9-0",
+    "original": "Assistance",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Check_Events_Lobby1\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Assist Tutorial.png\\\\\\\" \\\\\\\"Assistance\\\\\\\" \\\\\\\"Sometimes it helps to speak with someone about the investigation. One character will almost always be able to ASSIST you. You can speak with them about the investigation or ask them where to go next. Right now, Ruby Tymora is assisting you. But who knows? Maybe someone else might help you in the future.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Assist Tutorial.png\\\\\\\" \\\\\\\"Assistance\\\\\\\" \\\\\\\"Sometimes it helps to speak with someone about the investigation. One character will almost always be able to ASSIST you. You can speak with them about the investigation or ask them where to go next. Right now, Ruby Tymora is assisting you. But who knows? Maybe someone else might help you in the future.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Assist Tutorial.png\", \"Assistance\", \"Sometimes it helps to speak with someone about the investigation. One character will almost always be able to ASSIST you. You can speak with them about the investigation or ask them where to go next. Right now, Ruby Tymora is assisting you. But who knows? Maybe someone else might help you in the future.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Lobby1-9-1",
+    "original": "Sometimes it helps to speak with someone about the investigation. One character will almost always be able to ASSIST you. You can speak with them about the investigation or ask them where to go next. Right now, Ruby Tymora is assisting you. But who knows? Maybe someone else might help you in the future.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Check_Events_Lobby1\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Assist Tutorial.png\\\\\\\" \\\\\\\"Assistance\\\\\\\" \\\\\\\"Sometimes it helps to speak with someone about the investigation. One character will almost always be able to ASSIST you. You can speak with them about the investigation or ask them where to go next. Right now, Ruby Tymora is assisting you. But who knows? Maybe someone else might help you in the future.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Assist Tutorial.png\\\\\\\" \\\\\\\"Assistance\\\\\\\" \\\\\\\"Sometimes it helps to speak with someone about the investigation. One character will almost always be able to ASSIST you. You can speak with them about the investigation or ask them where to go next. Right now, Ruby Tymora is assisting you. But who knows? Maybe someone else might help you in the future.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Assist Tutorial.png\", \"Assistance\", \"Sometimes it helps to speak with someone about the investigation. One character will almost always be able to ASSIST you. You can speak with them about the investigation or ask them where to go next. Right now, Ruby Tymora is assisting you. But who knows? Maybe someone else might help you in the future.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument3-3-0",
+    "original": "I have no reason to trust you.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Argument3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I have no reason to trust you.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I have no reason to trust you.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I have no reason to trust you.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-18-0",
+    "original": "What can we infer about the state of the crime scene?",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What can we infer about the state of the crime scene?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What can we infer about the state of the crime scene?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What can we infer about the state of the crime scene?\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-21-0",
+    "original": "The crime scene,The town,The basement",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The crime scene,The town,The basement\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The crime scene,The town,The basement\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The crime scene,The town,The basement\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-22-0",
+    "original": "had no lighting,had no customers, had no witnesses",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"had no lighting,had no customers, had no witnesses\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"had no lighting,had no customers, had no witnesses\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"had no lighting,had no customers, had no witnesses\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-23-0",
+    "original": "before,during,after",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"before,during,after\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"before,during,after\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"before,during,after\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-24-0",
+    "original": "the murder,the trial,the investigation",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the murder,the trial,the investigation\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the murder,the trial,the investigation\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the murder,the trial,the investigation\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-25-0",
+    "original": "What can we infer about the state of the crime scene?",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What can we infer about the state of the crime scene?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What can we infer about the state of the crime scene?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What can we infer about the state of the crime scene?\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Present-0-0",
+    "original": "Presenting During Arguments",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Merchant_Present\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\\\\\\\" \\\\\\\"Presenting During Arguments\\\\\\\" \\\\\\\"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\\\\\\\" \\\\\\\"Presenting During Arguments\\\\\\\" \\\\\\\"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\", \"Presenting During Arguments\", \"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Present-0-1",
+    "original": "For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Merchant_Present\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\\\\\\\" \\\\\\\"Presenting During Arguments\\\\\\\" \\\\\\\"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\\\\\\\" \\\\\\\"Presenting During Arguments\\\\\\\" \\\\\\\"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\", \"Presenting During Arguments\", \"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickAfterEye-7-0",
+    "original": "There is no evidence of a liquified weapon at the crime scene.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"GarrickAfterEye\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"There is no evidence of a liquified weapon at the crime scene.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"There is no evidence of a liquified weapon at the crime scene.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"There is no evidence of a liquified weapon at the crime scene.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Aria_Retort-60-0",
+    "original": "Which spell did Lord Pierce use to commit murder?",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Aria_Retort\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Which spell did Lord Pierce use to commit murder?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Which spell did Lord Pierce use to commit murder?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Which spell did Lord Pierce use to commit murder?\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Talk_Tavern-56-0",
+    "original": "Psychological Profiles",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Talk_Tavern\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Psych Profile Tutorial.png\\\\\\\" \\\\\\\"Psychological Profiles\\\\\\\" \\\\\\\"It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you\\\\'ll receive more information during any ARGUMENTS against him.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Psych Profile Tutorial.png\\\\\\\" \\\\\\\"Psychological Profiles\\\\\\\" \\\\\\\"It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you\\\\'ll receive more information during any ARGUMENTS against him.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Psych Profile Tutorial.png\", \"Psychological Profiles\", \"It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you'll receive more information during any ARGUMENTS against him.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Talk_Tavern-56-1",
+    "original": "It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you'll receive more information during any ARGUMENTS against him.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Talk_Tavern\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Psych Profile Tutorial.png\\\\\\\" \\\\\\\"Psychological Profiles\\\\\\\" \\\\\\\"It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you\\\\'ll receive more information during any ARGUMENTS against him.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Psych Profile Tutorial.png\\\\\\\" \\\\\\\"Psychological Profiles\\\\\\\" \\\\\\\"It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you\\\\'ll receive more information during any ARGUMENTS against him.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Psych Profile Tutorial.png\", \"Psychological Profiles\", \"It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you'll receive more information during any ARGUMENTS against him.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-IntroScene-25-0",
+    "original": "Episode I/nThe Coldhearted Aristocrat",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"IntroScene\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"TitleCard \\\\\\\"Episode I/nThe Coldhearted Aristocrat\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode I/nThe Coldhearted Aristocrat\\\\\\\"\\\"\\n\", \"cmd\": [\"TitleCard\", \"Episode I/nThe Coldhearted Aristocrat\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered-9-0",
+    "original": "I saw the murder! I witnessed everything!",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"GarrickCornered\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I saw the murder! I witnessed everything!\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I saw the murder! I witnessed everything!\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I saw the murder! I witnessed everything!\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered3-7-0",
+    "original": "I came here to reveal the truth and testify against that criminal!",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"GarrickCornered3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I came here to reveal the truth and testify against that criminal!\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I came here to reveal the truth and testify against that criminal!\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I came here to reveal the truth and testify against that criminal!\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered2-23-0",
+    "original": "She was wielding her sword after the murder!",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"GarrickCornered2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"She was wielding her sword after the murder!\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"She was wielding her sword after the murder!\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"She was wielding her sword after the murder!\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-86-0",
+    "original": "What can we tell about how Flinhart died?",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Check_Events_Tavern\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What can we tell about how Flinhart died?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What can we tell about how Flinhart died?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What can we tell about how Flinhart died?\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-90-0",
+    "original": "Celeste,The killer,Flinhart",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Check_Events_Tavern\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Celeste,The killer,Flinhart\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Celeste,The killer,Flinhart\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Celeste,The killer,Flinhart\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-91-0",
+    "original": "didn't move,attacked Flinhart,framed Celeste",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Check_Events_Tavern\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"didn\\\\'t move,attacked Flinhart,framed Celeste\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"didn\\\\'t move,attacked Flinhart,framed Celeste\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"didn't move,attacked Flinhart,framed Celeste\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-92-0",
+    "original": "after,during,before",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Check_Events_Tavern\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"after,during,before\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"after,during,before\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"after,during,before\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-93-0",
+    "original": "the murder,the investigation,the trial",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Check_Events_Tavern\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the murder,the investigation,the trial\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the murder,the investigation,the trial\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the murder,the investigation,the trial\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-94-0",
+    "original": "What can we tell about how Flinhart died?",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Check_Events_Tavern\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What can we tell about how Flinhart died?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What can we tell about how Flinhart died?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What can we tell about how Flinhart died?\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Testimony_Orym2-35-0",
+    "original": "Pressing Statements",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Testimony_Orym2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Testimony Press Tutorial.png\\\\\\\" \\\\\\\"Pressing Statements\\\\\\\" \\\\\\\"During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Testimony Press Tutorial.png\\\\\\\" \\\\\\\"Pressing Statements\\\\\\\" \\\\\\\"During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Testimony Press Tutorial.png\", \"Pressing Statements\", \"During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Testimony_Orym2-35-1",
+    "original": "During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Testimony_Orym2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Testimony Press Tutorial.png\\\\\\\" \\\\\\\"Pressing Statements\\\\\\\" \\\\\\\"During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Testimony Press Tutorial.png\\\\\\\" \\\\\\\"Pressing Statements\\\\\\\" \\\\\\\"During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Testimony Press Tutorial.png\", \"Pressing Statements\", \"During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered_Fail-4-0",
+    "original": "You lost the argument...",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"GarrickCornered_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument3-9-0",
+    "original": "In his final moments, he could only think of how I betrayed him.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Celeste_Argument3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"In his final moments, he could only think of how I betrayed him.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"In his final moments, he could only think of how I betrayed him.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"In his final moments, he could only think of how I betrayed him.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument2-4-0",
+    "original": "This juice is worth far more than what I’m offering.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Merchant_Argument2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"This juice is worth far more than what I’m offering.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"This juice is worth far more than what I’m offering.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"This juice is worth far more than what I’m offering.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered4-78-0",
+    "original": "Empowered Eye",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"GarrickCornered4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Empowered Eye Tutorial.png\\\\\\\" \\\\\\\"Empowered Eye\\\\\\\" \\\\\\\"You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Empowered Eye Tutorial.png\\\\\\\" \\\\\\\"Empowered Eye\\\\\\\" \\\\\\\"You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Empowered Eye Tutorial.png\", \"Empowered Eye\", \"You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered4-78-1",
+    "original": "You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"GarrickCornered4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Empowered Eye Tutorial.png\\\\\\\" \\\\\\\"Empowered Eye\\\\\\\" \\\\\\\"You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Empowered Eye Tutorial.png\\\\\\\" \\\\\\\"Empowered Eye\\\\\\\" \\\\\\\"You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Empowered Eye Tutorial.png\", \"Empowered Eye\", \"You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Trial1_Intro7-13-0",
+    "original": "Cross-Examinations",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Trial1_Intro7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Testimony Tutorial.png\\\\\\\" \\\\\\\"Cross-Examinations\\\\\\\" \\\\\\\"You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Testimony Tutorial.png\\\\\\\" \\\\\\\"Cross-Examinations\\\\\\\" \\\\\\\"You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Testimony Tutorial.png\", \"Cross-Examinations\", \"You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Trial1_Intro7-13-1",
+    "original": "You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Trial1_Intro7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Testimony Tutorial.png\\\\\\\" \\\\\\\"Cross-Examinations\\\\\\\" \\\\\\\"You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Testimony Tutorial.png\\\\\\\" \\\\\\\"Cross-Examinations\\\\\\\" \\\\\\\"You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Testimony Tutorial.png\", \"Cross-Examinations\", \"You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-TownIntroScene4-12-0",
+    "original": "Notes",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"TownIntroScene4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Clue Tutorial.png\\\\\\\" \\\\\\\"Notes\\\\\\\" \\\\\\\"Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Clue Tutorial.png\\\\\\\" \\\\\\\"Notes\\\\\\\" \\\\\\\"Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Clue Tutorial.png\", \"Notes\", \"Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-TownIntroScene4-12-1",
+    "original": "Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"TownIntroScene4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Clue Tutorial.png\\\\\\\" \\\\\\\"Notes\\\\\\\" \\\\\\\"Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Clue Tutorial.png\\\\\\\" \\\\\\\"Notes\\\\\\\" \\\\\\\"Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Clue Tutorial.png\", \"Notes\", \"Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument2-2-0",
+    "original": "You’re just another crook.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Argument2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"You’re just another crook.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"You’re just another crook.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"You’re just another crook.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-6-0",
+    "original": "Start an ARGUMENT with Orym White?",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Orym White?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Orym White?\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Orym White?\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-9-0",
+    "original": "Start an ARGUMENT with Orym White?/nYou haven't completed his PSYCHOLOGICAL PROFILE.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Orym White?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Orym White?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Orym White?/nYou haven't completed his PSYCHOLOGICAL PROFILE.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-33-0",
+    "original": "Commander White is stubborn and stuck in his ways. He seems to have a grudge against Ruby Tymora and will react negatively if you try to defend her. However, he will respect you if you defend yourself against personal attacks.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"LoadArgueProfile \\\\\\\"Commander White is stubborn and stuck in his ways. He seems to have a grudge against Ruby Tymora and will react negatively if you try to defend her. However, he will respect you if you defend yourself against personal attacks.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"LoadArgueProfile \\\\\\\"Commander White is stubborn and stuck in his ways. He seems to have a grudge against Ruby Tymora and will react negatively if you try to defend her. However, he will respect you if you defend yourself against personal attacks.\\\\\\\"\\\"\\n\", \"cmd\": [\"LoadArgueProfile\", \"Commander White is stubborn and stuck in his ways. He seems to have a grudge against Ruby Tymora and will react negatively if you try to defend her. However, he will respect you if you defend yourself against personal attacks.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-41-0",
+    "original": "Ruby Tymora is a crooked lawyer.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Ruby Tymora is a crooked lawyer.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Ruby Tymora is a crooked lawyer.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Ruby Tymora is a crooked lawyer.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-43-0",
+    "original": "Elocutions in Arguments",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Elocution.png\\\\\\\" \\\\\\\"Elocutions in Arguments\\\\\\\" \\\\\\\"ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Elocution.png\\\\\\\" \\\\\\\"Elocutions in Arguments\\\\\\\" \\\\\\\"ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Argument Elocution.png\", \"Elocutions in Arguments\", \"ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-43-1",
+    "original": "ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Elocution.png\\\\\\\" \\\\\\\"Elocutions in Arguments\\\\\\\" \\\\\\\"ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Elocution.png\\\\\\\" \\\\\\\"Elocutions in Arguments\\\\\\\" \\\\\\\"ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Argument Elocution.png\", \"Elocutions in Arguments\", \"ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Interpret-0-0",
+    "original": "Interpreting During Arguments",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Merchant_Interpret\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Interpret Tutorial.png\\\\\\\" \\\\\\\"Interpreting During Arguments\\\\\\\" \\\\\\\"For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Interpret Tutorial.png\\\\\\\" \\\\\\\"Interpreting During Arguments\\\\\\\" \\\\\\\"For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Argument Interpret Tutorial.png\", \"Interpreting During Arguments\", \"For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Interpret-0-1",
+    "original": "For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Merchant_Interpret\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Interpret Tutorial.png\\\\\\\" \\\\\\\"Interpreting During Arguments\\\\\\\" \\\\\\\"For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Argument Interpret Tutorial.png\\\\\\\" \\\\\\\"Interpreting During Arguments\\\\\\\" \\\\\\\"For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.\\\\\\\"\\\"\\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Argument Interpret Tutorial.png\", \"Interpreting During Arguments\", \"For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.\"]}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Interpret-1-0",
+    "original": "Heh… I usually only sell this stuff for 5sp a flask.",
+    "translation": null,
+    "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Merchant_Interpret\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"InterpretPrompt \\\\\\\"Heh… I usually only sell this stuff for 5sp a flask.\\\\\\\" \\\\\\\"\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"InterpretPrompt \\\\\\\"Heh… I usually only sell this stuff for 5sp a flask.\\\\\\\" \\\\\\\"\\\\\\\"\\\"\\n\", \"cmd\": [\"InterpretPrompt\", \"Heh… I usually only sell this stuff for 5sp a flask.\", \"\"]}"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Mercenaries-displayName",
+    "original": "Mercenaries",
+    "translation": "雇佣兵",
+    "stage": 1,
+    "context": "{\"Name\": \"Mercenaries\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Mercenaries-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Mercenaries\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Mercenaries-arcaneArt",
+    "original": "???",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Mercenaries\", \"Attr\": \"arcaneArt\"}"
+  }
+]

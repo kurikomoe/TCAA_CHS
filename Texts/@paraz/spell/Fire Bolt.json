@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-27-Fire Bolt-displayName",
+    "original": "Fire Bolt",
+    "translation": null,
+    "context": "{\"Name\": \"Fire Bolt\", \"Idx\": 27, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-27-Fire Bolt-description",
+    "original": "The caster launches a fiery projectile that’s hot enough to inflict third-degree burns. This projectile can travel 120ft without collision before its magic dissipates. Once it collides with something, it will set the object ablaze if it’s flammable.",
+    "translation": null,
+    "context": "{\"Name\": \"Fire Bolt\", \"Idx\": 27, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-27-Fire Bolt-incantation",
+    "original": "\"Bol-to\"",
+    "translation": null,
+    "context": "{\"Name\": \"Fire Bolt\", \"Idx\": 27, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-27-Fire Bolt-gesture",
+    "original": "Point index finger at the target",
+    "translation": null,
+    "context": "{\"Name\": \"Fire Bolt\", \"Idx\": 27, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-27-Fire Bolt-duration",
+    "original": "Instant",
+    "translation": null,
+    "context": "{\"Name\": \"Fire Bolt\", \"Idx\": 27, \"Attr\": \"duration\"}"
+  }
+]

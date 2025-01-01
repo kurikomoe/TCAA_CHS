@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-0-Mage Blade-displayName",
+    "original": "Mage Blade",
+    "translation": null,
+    "context": "{\"Name\": \"Mage Blade\", \"Idx\": 0, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-0-Mage Blade-description",
+    "original": "For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.",
+    "translation": null,
+    "context": "{\"Name\": \"Mage Blade\", \"Idx\": 0, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-0-Mage Blade-incantation",
+    "original": "\"Ar-kan\"",
+    "translation": null,
+    "context": "{\"Name\": \"Mage Blade\", \"Idx\": 0, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-0-Mage Blade-gesture",
+    "original": "None",
+    "translation": null,
+    "context": "{\"Name\": \"Mage Blade\", \"Idx\": 0, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-0-Mage Blade-duration",
+    "original": "1 minute",
+    "translation": null,
+    "context": "{\"Name\": \"Mage Blade\", \"Idx\": 0, \"Attr\": \"duration\"}"
+  }
+]

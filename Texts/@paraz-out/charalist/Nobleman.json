@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Nobleman-displayName",
+    "original": "Nobleman",
+    "translation": "贵族",
+    "stage": 1,
+    "context": "{\"Name\": \"Nobleman\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Nobleman-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Nobleman\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Nobleman-arcaneArt",
+    "original": "???",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Nobleman\", \"Attr\": \"arcaneArt\"}"
+  }
+]

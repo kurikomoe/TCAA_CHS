@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Coraline Sibyl-displayName",
+    "original": "Coraline Sibyl",
+    "translation": "卡洛琳·希比尔",
+    "stage": 1,
+    "context": "{\"Name\": \"Coraline Sibyl\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Coraline Sibyl-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Coraline Sibyl\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Coraline Sibyl-occupation",
+    "original": "Noble",
+    "translation": "贵族",
+    "stage": 1,
+    "context": "{\"Name\": \"Coraline Sibyl\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Coraline Sibyl-arcaneArt",
+    "original": "Divination",
+    "translation": "占卜术",
+    "stage": 1,
+    "context": "{\"Name\": \"Coraline Sibyl\", \"Attr\": \"arcaneArt\"}"
+  }
+]

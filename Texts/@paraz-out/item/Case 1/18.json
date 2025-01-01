@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-18-Perjury by Garrick Pierce-displayName",
+    "original": "Perjury by Garrick Pierce",
+    "translation": "加里克·皮尔斯的伪证",
+    "stage": 1,
+    "context": "{\"Name\": \"Perjury by Garrick Pierce\", \"Idx\": 18, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-18-Perjury by Garrick Pierce-description",
+    "original": "Garrick Pierce has openly admitted to committing perjury in the courtroom. His lies haven’t gone unnoticed.",
+    "translation": "加里克·皮尔斯公开承认在法庭上做了伪证。他的暴论还没有被公众忘却。",
+    "stage": 1,
+    "context": "{\"Name\": \"Perjury by Garrick Pierce\", \"Idx\": 18, \"Attr\": \"description\"}"
+  }
+]

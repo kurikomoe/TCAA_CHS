@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-12-Send Message-displayName",
+    "original": "Send Message",
+    "translation": null,
+    "context": "{\"Name\": \"Send Message\", \"Idx\": 12, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-12-Send Message-description",
+    "original": "For the duration of this spell, the caster projects their voice to communicate with a target. Anyone within a 30ft radius of the target can hear the caster’s voice. The caster can also hear sounds close to the target, allowing for two-way communication.\n\nThe target must be a person known to the caster. That person must also be conscious. Otherwise, the spell will fail. Alternatively, the target can be an object that is attuned to the caster’s magic.",
+    "translation": null,
+    "context": "{\"Name\": \"Send Message\", \"Idx\": 12, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-12-Send Message-incantation",
+    "original": "\"Mal-um\"",
+    "translation": null,
+    "context": "{\"Name\": \"Send Message\", \"Idx\": 12, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-12-Send Message-gesture",
+    "original": "None",
+    "translation": null,
+    "context": "{\"Name\": \"Send Message\", \"Idx\": 12, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-12-Send Message-duration",
+    "original": "1 hour",
+    "translation": null,
+    "context": "{\"Name\": \"Send Message\", \"Idx\": 12, \"Attr\": \"duration\"}"
+  }
+]

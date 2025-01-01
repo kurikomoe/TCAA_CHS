@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Illia Stormwake-displayName",
+    "original": "Illia Stormwake",
+    "translation": "伊利亚·斯托姆维克",
+    "stage": 1,
+    "context": "{\"Name\": \"Illia Stormwake\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Illia Stormwake-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Illia Stormwake\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Illia Stormwake-occupation",
+    "original": "High Inquisitor",
+    "translation": "最高审判官",
+    "stage": 1,
+    "context": "{\"Name\": \"Illia Stormwake\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Illia Stormwake-arcaneArt",
+    "original": "???",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Illia Stormwake\", \"Attr\": \"arcaneArt\"}"
+  }
+]

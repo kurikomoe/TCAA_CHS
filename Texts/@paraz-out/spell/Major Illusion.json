@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-8-Major Illusion-displayName",
+    "original": "Major Illusion",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Major Illusion\", \"Idx\": 8, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-8-Major Illusion-description",
+    "original": "Creates a three-dimensional illusion. The illusion can take the form of any object or creature that can be contained in a 10ft cube. While concentrating, the caster can animate and move the image to a different location within range. The illusion is purely visual and can’t be physically touched.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Major Illusion\", \"Idx\": 8, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-8-Major Illusion-incantation",
+    "original": "\"Mill-us-o\"",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Major Illusion\", \"Idx\": 8, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-8-Major Illusion-gesture",
+    "original": "None",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Major Illusion\", \"Idx\": 8, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-8-Major Illusion-duration",
+    "original": "Until Dispelled",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Major Illusion\", \"Idx\": 8, \"Attr\": \"duration\"}"
+  }
+]

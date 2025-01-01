@@ -1,0 +1,30 @@
+[
+  {
+    "key": "CAria-displayName",
+    "original": "Celeste \"Steelwind\"",
+    "translation": "塞莱斯特·“斯蒂尔文德”",
+    "stage": 1,
+    "context": "{\"Name\": \"CAria\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "CAria-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"CAria\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "CAria-occupation",
+    "original": "Mercenary",
+    "translation": "雇佣兵",
+    "stage": 1,
+    "context": "{\"Name\": \"CAria\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "CAria-arcaneArt",
+    "original": "Transmutation",
+    "translation": "形变",
+    "stage": 1,
+    "context": "{\"Name\": \"CAria\", \"Attr\": \"arcaneArt\"}"
+  }
+]

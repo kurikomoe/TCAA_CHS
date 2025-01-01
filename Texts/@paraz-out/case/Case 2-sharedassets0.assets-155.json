@@ -1,0 +1,590 @@
+[
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce3-6-0",
+    "original": "Which spell do they think Wallace used?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Which spell do they think Wallace used?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Which spell do they think Wallace used?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Which spell do they think Wallace used?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce3-10-0",
+    "original": "Necrotic Blight,Prestidigitation,Animate Corpse",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Necrotic Blight,Prestidigitation,Animate Corpse\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Necrotic Blight,Prestidigitation,Animate Corpse\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Necrotic Blight,Prestidigitation,Animate Corpse\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce3-11-0",
+    "original": "Which spell do they think Wallace used?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Which spell do they think Wallace used?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Which spell do they think Wallace used?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Which spell do they think Wallace used?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-6-0",
+    "original": "Start an ARGUMENT with Valentina Ianus?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val_Argument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Valentina Ianus?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Valentina Ianus?\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Valentina Ianus?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-9-0",
+    "original": "Start an ARGUMENT with Valentina Ianus?/nYou haven't completed her PSYCHOLOGICAL PROFILE.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val_Argument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Valentina Ianus?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Valentina Ianus?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Valentina Ianus?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-33-0",
+    "original": "Valentina is more concerned with protecting herself than doing the right thing. She will continue to hide her secrets unless she thinks that doing so is dangerous for her. She sees Wallace as a villainous necromancer and will not feel pity for him. ",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val_Argument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"LoadArgueProfile \\\\\\\"Valentina is more concerned with protecting herself than doing the right thing. She will continue to hide her secrets unless she thinks that doing so is dangerous for her. She sees Wallace as a villainous necromancer and will not feel pity for him. \\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"LoadArgueProfile \\\\\\\"Valentina is more concerned with protecting herself than doing the right thing. She will continue to hide her secrets unless she thinks that doing so is dangerous for her. She sees Wallace as a villainous necromancer and will not feel pity for him. \\\\\\\"\\\"\n\", \"cmd\": [\"LoadArgueProfile\", \"Valentina is more concerned with protecting herself than doing the right thing. She will continue to hide her secrets unless she thinks that doing so is dangerous for her. She sees Wallace as a villainous necromancer and will not feel pity for him. \"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-39-0",
+    "original": "My conscience is clear.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val_Argument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"My conscience is clear.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"My conscience is clear.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"My conscience is clear.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-53-0",
+    "original": "Why doesn’t Valentina know that the spell was necromancy?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Talk_Kitchen\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why doesn’t Valentina know that the spell was necromancy?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why doesn’t Valentina know that the spell was necromancy?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why doesn’t Valentina know that the spell was necromancy?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-56-0",
+    "original": "The spell,The weapon,The witness,The room",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Talk_Kitchen\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The spell,The weapon,The witness,The room\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The spell,The weapon,The witness,The room\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The spell,The weapon,The witness,The room\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-57-0",
+    "original": "cast,swung,who saw,contained",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Talk_Kitchen\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 1 \\\\\\\"cast,swung,who saw,contained\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"cast,swung,who saw,contained\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"cast,swung,who saw,contained\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-58-0",
+    "original": "on Valentina,at Bellwether,within the lecture hall,during the murder",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Talk_Kitchen\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 2 \\\\\\\"on Valentina,at Bellwether,within the lecture hall,during the murder\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"on Valentina,at Bellwether,within the lecture hall,during the murder\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"on Valentina,at Bellwether,within the lecture hall,during the murder\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-59-0",
+    "original": "healed her,killed her,hid her,attacked her",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Talk_Kitchen\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 3 \\\\\\\"healed her,killed her,hid her,attacked her\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"healed her,killed her,hid her,attacked her\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"healed her,killed her,hid her,attacked her\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-60-0",
+    "original": "Why doesn’t Valentina know that the spell was necromancy?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Talk_Kitchen\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why doesn’t Valentina know that the spell was necromancy?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why doesn’t Valentina know that the spell was necromancy?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why doesn’t Valentina know that the spell was necromancy?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye-7-0",
+    "original": "What stopped the Construct from leaving the Locker Room?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoAfterEye\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"What stopped the Construct from leaving the Locker Room?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"What stopped the Construct from leaving the Locker Room?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"What stopped the Construct from leaving the Locker Room?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-ValArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"ValArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-OrymObj-22-0",
+    "original": "Which spell would leave a trace of [i]necromancy[/i]?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"OrymObj\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Which spell would leave a trace of [i]necromancy[/i]?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Which spell would leave a trace of [i]necromancy[/i]?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Which spell would leave a trace of [i]necromancy[/i]?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument3-1-0",
+    "original": "Why would I act in such a way?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Aria_Argument3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Why would I act in such a way?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Why would I act in such a way?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Why would I act in such a way?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-6-0",
+    "original": "Why does Steelwind trust us this time?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why does Steelwind trust us this time?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why does Steelwind trust us this time?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why does Steelwind trust us this time?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-10-0",
+    "original": "Tyrion,Wallace,Steelwind,The Headmaster",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Tyrion,Wallace,Steelwind,The Headmaster\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Tyrion,Wallace,Steelwind,The Headmaster\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Tyrion,Wallace,Steelwind,The Headmaster\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-11-0",
+    "original": "isn't, is,isn't,is",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 1 \\\\\\\"isn\\\\'t, is,isn\\\\'t,is\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"isn\\\\'t, is,isn\\\\'t,is\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"isn't, is,isn't,is\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-12-0",
+    "original": "controlled by,capable of,a member of,an employee of",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 2 \\\\\\\"controlled by,capable of,a member of,an employee of\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"controlled by,capable of,a member of,an employee of\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"controlled by,capable of,a member of,an employee of\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-13-0",
+    "original": "the nobility,using magic,the faculty,the Inquisition",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the nobility,using magic,the faculty,the Inquisition\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the nobility,using magic,the faculty,the Inquisition\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the nobility,using magic,the faculty,the Inquisition\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-14-0",
+    "original": "Why does Steelwind trust us this time?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why does Steelwind trust us this time?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why does Steelwind trust us this time?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why does Steelwind trust us this time?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-9-0",
+    "original": "How did the twins trick the Inquisition?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val2Obj_1\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did the twins trick the Inquisition?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did the twins trick the Inquisition?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"How did the twins trick the Inquisition?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-12-0",
+    "original": "Valentina,Wallace,Bellwether,Orym",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val2Obj_1\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Valentina,Wallace,Bellwether,Orym\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Valentina,Wallace,Bellwether,Orym\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Valentina,Wallace,Bellwether,Orym\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-13-0",
+    "original": "switched,hid,incorrectly,healed",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val2Obj_1\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 1 \\\\\\\"switched,hid,incorrectly,healed\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"switched,hid,incorrectly,healed\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"switched,hid,incorrectly,healed\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-14-0",
+    "original": "places with,from,spoke with,the wounds of",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val2Obj_1\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 2 \\\\\\\"places with,from,spoke with,the wounds of\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"places with,from,spoke with,the wounds of\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"places with,from,spoke with,the wounds of\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-15-0",
+    "original": "Valerie,Wallace,Bellwether,Orym",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val2Obj_1\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 3 \\\\\\\"Valerie,Wallace,Bellwether,Orym\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"Valerie,Wallace,Bellwether,Orym\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"Valerie,Wallace,Bellwether,Orym\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-16-0",
+    "original": "How did the twins trick the Inquisition?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val2Obj_1\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"How did the twins trick the Inquisition?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did the twins trick the Inquisition?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"How did the twins trick the Inquisition?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered3-4-0",
+    "original": "I wouldn’t have the construct linger around the library.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoCornered3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I wouldn’t have the construct linger around the library.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I wouldn’t have the construct linger around the library.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I wouldn’t have the construct linger around the library.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-7-0",
+    "original": "How does the evidence implicate Wallace?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"How does the evidence implicate Wallace?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How does the evidence implicate Wallace?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"How does the evidence implicate Wallace?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-11-0",
+    "original": "A magical trace,A bloody weapon,A rancid smell,A witness",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"A magical trace,A bloody weapon,A rancid smell,A witness\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"A magical trace,A bloody weapon,A rancid smell,A witness\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"A magical trace,A bloody weapon,A rancid smell,A witness\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-12-0",
+    "original": "of necromancy,of alchemy,of illusion,of steel,from the academy",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 1 \\\\\\\"of necromancy,of alchemy,of illusion,of steel,from the academy\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"of necromancy,of alchemy,of illusion,of steel,from the academy\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"of necromancy,of alchemy,of illusion,of steel,from the academy\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-13-0",
+    "original": "was found,was smelled,was hidden,was destroyed",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 2 \\\\\\\"was found,was smelled,was hidden,was destroyed\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"was found,was smelled,was hidden,was destroyed\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"was found,was smelled,was hidden,was destroyed\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-14-0",
+    "original": "on the body,in the classroom,in the hallway,outside the academy",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 3 \\\\\\\"on the body,in the classroom,in the hallway,outside the academy\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"on the body,in the classroom,in the hallway,outside the academy\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"on the body,in the classroom,in the hallway,outside the academy\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-15-0",
+    "original": "How does the evidence implicate Wallace?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"How does the evidence implicate Wallace?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How does the evidence implicate Wallace?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"How does the evidence implicate Wallace?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument5-4-0",
+    "original": "I don’t know anyone who can use magic.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val_Argument5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I don’t know anyone who can use magic.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I don’t know anyone who can use magic.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I don’t know anyone who can use magic.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-13-0",
+    "original": "What is wrong with the crime scene?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What is wrong with the crime scene?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What is wrong with the crime scene?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What is wrong with the crime scene?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-15-0",
+    "original": "Bellwether's,Lecture Hall 2-B's,The Academy's,Wallace's",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Bellwether\\\\'s,Lecture Hall 2-B\\\\'s,The Academy\\\\'s,Wallace\\\\'s\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Bellwether\\\\'s,Lecture Hall 2-B\\\\'s,The Academy\\\\'s,Wallace\\\\'s\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Bellwether's,Lecture Hall 2-B's,The Academy's,Wallace's\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-16-0",
+    "original": "body,Spell Compendium,employees,floor",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 1 \\\\\\\"body,Spell Compendium,employees,floor\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"body,Spell Compendium,employees,floor\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"body,Spell Compendium,employees,floor\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-17-0",
+    "original": "was covered,was destroyed,was missing,was found",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 2 \\\\\\\"was covered,was destroyed,was missing,was found\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"was covered,was destroyed,was missing,was found\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"was covered,was destroyed,was missing,was found\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-18-0",
+    "original": "in blood,by Wallace,before the lockdown,during the murder",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 3 \\\\\\\"in blood,by Wallace,before the lockdown,during the murder\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"in blood,by Wallace,before the lockdown,during the murder\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"in blood,by Wallace,before the lockdown,during the murder\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-19-0",
+    "original": "What is wrong with the crime scene?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"WallaceDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What is wrong with the crime scene?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What is wrong with the crime scene?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What is wrong with the crime scene?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-AriaArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"AriaArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument5-3-0",
+    "original": "My investigation doesn’t involve the Fregas.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Aria_Argument5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"My investigation doesn’t involve the Fregas.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"My investigation doesn’t involve the Fregas.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"My investigation doesn’t involve the Fregas.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-ConstPresAfter_3-19-0",
+    "original": "Who ordered the Construct to hide the body?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"ConstPresAfter_3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Who ordered the Construct to hide the body?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who ordered the Construct to hide the body?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Who ordered the Construct to hide the body?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered_Fail-4-0",
+    "original": "You lost the argument...",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoCornered_Fail\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Examine_Classroom-21-0",
+    "original": "Detect Magic",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Examine_Classroom\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Detect Magic Tutorial.png\\\\\\\" \\\\\\\"Detect Magic\\\\\\\" \\\\\\\"Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Detect Magic Tutorial.png\\\\\\\" \\\\\\\"Detect Magic\\\\\\\" \\\\\\\"Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.\\\\\\\"\\\"\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Detect Magic Tutorial.png\", \"Detect Magic\", \"Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Examine_Classroom-21-1",
+    "original": "Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Examine_Classroom\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Detect Magic Tutorial.png\\\\\\\" \\\\\\\"Detect Magic\\\\\\\" \\\\\\\"Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Tutorial \\\\\\\"Assets/Visuals/Resources/Tutorials/Detect Magic Tutorial.png\\\\\\\" \\\\\\\"Detect Magic\\\\\\\" \\\\\\\"Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.\\\\\\\"\\\"\n\", \"cmd\": [\"Tutorial\", \"Assets/Visuals/Resources/Tutorials/Detect Magic Tutorial.png\", \"Detect Magic\", \"Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered4-0-0",
+    "original": "Luckily, Lady Frega can’t tell night from day.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoCornered4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"InterpretPrompt \\\\\\\"Luckily, Lady Frega can’t tell night from day.\\\\\\\" \\\\\\\"Angry,Fear\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"InterpretPrompt \\\\\\\"Luckily, Lady Frega can’t tell night from day.\\\\\\\" \\\\\\\"Angry,Fear\\\\\\\"\\\"\n\", \"cmd\": [\"InterpretPrompt\", \"Luckily, Lady Frega can’t tell night from day.\", \"Angry,Fear\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce-13-0",
+    "original": "What is motivating Steelwind to keep secrets?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What is motivating Steelwind to keep secrets?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What is motivating Steelwind to keep secrets?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What is motivating Steelwind to keep secrets?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce-16-0",
+    "original": "Arrogance,Paranoia,Logic",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Arrogance,Paranoia,Logic\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Arrogance,Paranoia,Logic\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Arrogance,Paranoia,Logic\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce-17-0",
+    "original": "What is motivating Steelwind to keep secrets?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What is motivating Steelwind to keep secrets?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What is motivating Steelwind to keep secrets?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What is motivating Steelwind to keep secrets?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument3-4-0",
+    "original": "I don't have to tell you anything.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val_Argument3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I don\\\\'t have to tell you anything.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I don\\\\'t have to tell you anything.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I don't have to tell you anything.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-4-0",
+    "original": "Whose locker had the most suspicious evidence?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"AfterLockerDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Whose locker had the most suspicious evidence?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Whose locker had the most suspicious evidence?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Whose locker had the most suspicious evidence?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-7-0",
+    "original": "Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"AfterLockerDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-8-0",
+    "original": "Whose locker had the most suspicious evidence?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"AfterLockerDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Whose locker had the most suspicious evidence?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Whose locker had the most suspicious evidence?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Whose locker had the most suspicious evidence?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Start-17-0",
+    "original": "Episode II/nThe Walking Dead",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Start\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"TitleCard \\\\\\\"Episode II/nThe Walking Dead\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode II/nThe Walking Dead\\\\\\\"\\\"\n\", \"cmd\": [\"TitleCard\", \"Episode II/nThe Walking Dead\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered7-7-0",
+    "original": "There’s no reason I would make a mistake like that!",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoCornered7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"There’s no reason I would make a mistake like that!\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"There’s no reason I would make a mistake like that!\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"There’s no reason I would make a mistake like that!\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered5-3-0",
+    "original": "I wouldn’t have placed incriminating evidence in that locker.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoCornered5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I wouldn’t have placed incriminating evidence in that locker.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I wouldn’t have placed incriminating evidence in that locker.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I wouldn’t have placed incriminating evidence in that locker.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-JanObj_2-16-0",
+    "original": "What created Bellwether's voice?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"JanObj_2\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"What created Bellwether\\\\'s voice?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"What created Bellwether\\\\'s voice?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"What created Bellwether's voice?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_13-24-0",
+    "original": "Episode End",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoAfterEye_13\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"TitleCard \\\\\\\"Episode End\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode End\\\\\\\"\\\"\n\", \"cmd\": [\"TitleCard\", \"Episode End\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce3-9-0",
+    "original": "Who has Steelwind trusted for this case?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Who has Steelwind trusted for this case?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Who has Steelwind trusted for this case?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Who has Steelwind trusted for this case?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce3-12-0",
+    "original": "Tyrion and Celeste,The Headmaster,Wallace,Commander White",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Tyrion and Celeste,The Headmaster,Wallace,Commander White\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Tyrion and Celeste,The Headmaster,Wallace,Commander White\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Tyrion and Celeste,The Headmaster,Wallace,Commander White\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce3-13-0",
+    "original": "Who has Steelwind trusted for this case?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Who has Steelwind trusted for this case?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Who has Steelwind trusted for this case?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Who has Steelwind trusted for this case?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-2-0",
+    "original": "How did the lockdown affect the Construct's actions?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoAfterEye_3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did the lockdown affect the Construct\\\\'s actions?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did the lockdown affect the Construct\\\\'s actions?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"How did the lockdown affect the Construct's actions?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-5-0",
+    "original": "Redmond's,Bellwether's,Frega's,Wallace's",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoAfterEye_3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Redmond\\\\'s,Bellwether\\\\'s,Frega\\\\'s,Wallace\\\\'s\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Redmond\\\\'s,Bellwether\\\\'s,Frega\\\\'s,Wallace\\\\'s\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Redmond's,Bellwether's,Frega's,Wallace's\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-6-0",
+    "original": "series of commands,rapier,body,Compendium",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoAfterEye_3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 1 \\\\\\\"series of commands,rapier,body,Compendium\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"series of commands,rapier,body,Compendium\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"series of commands,rapier,body,Compendium\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-7-0",
+    "original": "was interrupted,was planted,was stolen,was destroyed",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoAfterEye_3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 2 \\\\\\\"was interrupted,was planted,was stolen,was destroyed\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"was interrupted,was planted,was stolen,was destroyed\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"was interrupted,was planted,was stolen,was destroyed\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-8-0",
+    "original": "by the lockdown,by Redmond,by Steelwind,by Wallace",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoAfterEye_3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 3 \\\\\\\"by the lockdown,by Redmond,by Steelwind,by Wallace\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"by the lockdown,by Redmond,by Steelwind,by Wallace\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"by the lockdown,by Redmond,by Steelwind,by Wallace\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-9-0",
+    "original": "How did the lockdown affect the Construct's actions?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoAfterEye_3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"How did the lockdown affect the Construct\\\\'s actions?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did the lockdown affect the Construct\\\\'s actions?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"How did the lockdown affect the Construct's actions?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-5-0",
+    "original": "What can you infer about the secret witness?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What can you infer about the secret witness?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What can you infer about the secret witness?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What can you infer about the secret witness?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-9-0",
+    "original": "The witness,Steelwind",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The witness,Steelwind\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The witness,Steelwind\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The witness,Steelwind\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-10-0",
+    "original": "is a,isn't a,is a,isn't a",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 1 \\\\\\\"is a,isn\\\\'t a,is a,isn\\\\'t a\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"is a,isn\\\\'t a,is a,isn\\\\'t a\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"is a,isn't a,is a,isn't a\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-11-0",
+    "original": "noble,murderer,student,suspect",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 2 \\\\\\\"noble,murderer,student,suspect\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"noble,murderer,student,suspect\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"noble,murderer,student,suspect\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-12-0",
+    "original": "What can you infer about the secret witness?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"LockerDeduce7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What can you infer about the secret witness?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What can you infer about the secret witness?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What can you infer about the secret witness?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-5-0",
+    "original": "Start an ARGUMENT with Aria Steelwind?",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Aria_Argument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Aria Steelwind?\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-8-0",
+    "original": "Start an ARGUMENT with Aria Steelwind?/nYou haven't completed his PSYCHOLOGICAL PROFILE.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Aria_Argument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?/nYou haven\\\\'t completed his PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Aria Steelwind?/nYou haven't completed his PSYCHOLOGICAL PROFILE.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-32-0",
+    "original": "Steelwind is extremely logical and won’t accept arguments that aren’t supported by evidence. However, she has become secretive lately, and her actions seem to stem from paranoia./n/n She’s uneasy about case elements that relate to Miriam Frega. And she’s very inclined to hide Frega’s involvement from the court at all costs.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Aria_Argument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"LoadArgueProfile \\\\\\\"Steelwind is extremely logical and won’t accept arguments that aren’t supported by evidence. However, she has become secretive lately, and her actions seem to stem from paranoia./n/n She’s uneasy about case elements that relate to Miriam Frega. And she’s very inclined to hide Frega’s involvement from the court at all costs.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"LoadArgueProfile \\\\\\\"Steelwind is extremely logical and won’t accept arguments that aren’t supported by evidence. However, she has become secretive lately, and her actions seem to stem from paranoia./n/n She’s uneasy about case elements that relate to Miriam Frega. And she’s very inclined to hide Frega’s involvement from the court at all costs.\\\\\\\"\\\"\n\", \"cmd\": [\"LoadArgueProfile\", \"Steelwind is extremely logical and won’t accept arguments that aren’t supported by evidence. However, she has become secretive lately, and her actions seem to stem from paranoia./n/n She’s uneasy about case elements that relate to Miriam Frega. And she’s very inclined to hide Frega’s involvement from the court at all costs.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-39-0",
+    "original": "Nothing about my behavior has changed.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Aria_Argument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Nothing about my behavior has changed.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Nothing about my behavior has changed.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Nothing about my behavior has changed.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered-6-0",
+    "original": "I was alone and had nothing to overpower Bellwether with.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoCornered\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I was alone and had nothing to overpower Bellwether with.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I was alone and had nothing to overpower Bellwether with.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I was alone and had nothing to overpower Bellwether with.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument2-0-0",
+    "original": "I need to stay calm.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Val_Argument2\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"InterpretPrompt \\\\\\\"I need to stay calm.\\\\\\\" \\\\\\\"Fear\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"InterpretPrompt \\\\\\\"I need to stay calm.\\\\\\\" \\\\\\\"Fear\\\\\\\"\\\"\n\", \"cmd\": [\"InterpretPrompt\", \"I need to stay calm.\", \"Fear\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument7-7-0",
+    "original": "You can’t prove that piece of evidence exists.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"Aria_Argument7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"You can’t prove that piece of evidence exists.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"You can’t prove that piece of evidence exists.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"You can’t prove that piece of evidence exists.\"]}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered9-11-0",
+    "original": "There's no evidence of my orders!",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"case\": \"Case 2-sharedassets0.assets-155.json\", \"node_name\": \"TheoCornered9\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"There\\\\'s no evidence of my orders!\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"There\\\\'s no evidence of my orders!\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"There's no evidence of my orders!\"]}"
+  }
+]

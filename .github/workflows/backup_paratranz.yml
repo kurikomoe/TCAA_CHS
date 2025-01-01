@@ -1,0 +1,46 @@
+name: Paratranz2Github
+on: [ workflow_run ]
+jobs:
+  Paratranz2Github:
+    name: "Downlaod Paratranz Artifacts"
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      PARAZ_PROJECT_ID: ${{ secrets.PARAZ_PROJECT_ID }}
+      PARAZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: extractions/setup-just@v2
+
+      - uses: actions/setup-python@v5.3.0
+        with:
+          python-version: '3.12'
+
+      - uses: snok/install-poetry@v1.4.1
+
+      - name: Cache Poetry Env
+        uses: actions/cache@v4.2.0
+        with:
+          path: ./.venv
+          key: venv-${{ hashFiles('poetry.lock') }}
+
+      - uses: openapi-generators/openapitools-generator-action@v1.5.0
+        with:
+          generator: python
+          # openapi-url: "https://paratranz.cn/api-docs?raw=1"
+          openapi-file: .github/workflows/paratranz-openapi.json
+          output-dir: /tmp/openapi
+
+      - name: "Instal Python Deps"
+        run: poetry install
+
+      # - name: "Download Translation from Paratranz"
+      #   run: |
+      #     python scripts/download_para.py
+
+  # paratranz2release:
+  #   name: "Release Based on paratranz"
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: action/checkout@v4

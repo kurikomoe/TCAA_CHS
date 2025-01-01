@@ -1,0 +1,30 @@
+[
+  {
+    "key": "MBeatrice-displayName",
+    "original": "Beatrice Frega",
+    "translation": "比亚特丽丝·芙蕾嘉",
+    "stage": 1,
+    "context": "{\"Name\": \"MBeatrice\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "MBeatrice-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"MBeatrice\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "MBeatrice-occupation",
+    "original": "Freelancer",
+    "translation": "无业",
+    "stage": 1,
+    "context": "{\"Name\": \"MBeatrice\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "MBeatrice-arcaneArt",
+    "original": "Conjuration",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"MBeatrice\", \"Attr\": \"arcaneArt\"}"
+  }
+]

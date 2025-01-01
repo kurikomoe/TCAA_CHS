@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "tcaa-chs"
+version = "0.1.0"
+description = ""
+authors = ["KurikoMoe <kurikomoe@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pydantic = "^2.10.4"
+# Please use just init to init the api
+openapi-client = {path = "third/openapi-python"}
+requests = "^2.32.3"
+coloredlogs = "^15.0.1"
+protobuf = "^5.29.2"
+types-protobuf = "^5.29.1.20241207"
+types-requests = "^2.32.0.20241016"
+mypy-protobuf = "^3.6.0"
+python-slugify = "^8.0.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.flake8]
+max-line-length = 120
+
+[tool.mypy]
+ignore_missing_imports = true
+exclude = [
+    ".*yarn_spinner_pb2.py"
+]

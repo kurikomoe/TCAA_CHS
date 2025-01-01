@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Prisoners-displayName",
+    "original": "Prisoners",
+    "translation": "囚犯",
+    "stage": 1,
+    "context": "{\"Name\": \"Prisoners\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Prisoners-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Prisoners\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Prisoners-arcaneArt",
+    "original": "???",
+    "translation": "???",
+    "stage": 1,
+    "context": "{\"Name\": \"Prisoners\", \"Attr\": \"arcaneArt\"}"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-9-Revive-displayName",
+    "original": "Revive",
+    "translation": null,
+    "context": "{\"Name\": \"Revive\", \"Idx\": 9, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-9-Revive-description",
+    "original": "Floods the target with life energy in an attempt to resuscitate them. It does not heal wounds sustained. Results may vary. But it cannot resuscitate someone who has been dead for more than a minute.",
+    "translation": null,
+    "context": "{\"Name\": \"Revive\", \"Idx\": 9, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-9-Revive-incantation",
+    "original": "\"Viv-if-fy\"",
+    "translation": null,
+    "context": "{\"Name\": \"Revive\", \"Idx\": 9, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-9-Revive-gesture",
+    "original": "None",
+    "translation": null,
+    "context": "{\"Name\": \"Revive\", \"Idx\": 9, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-9-Revive-duration",
+    "original": "Instant",
+    "translation": null,
+    "context": "{\"Name\": \"Revive\", \"Idx\": 9, \"Attr\": \"duration\"}"
+  }
+]

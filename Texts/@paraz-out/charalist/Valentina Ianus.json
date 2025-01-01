@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Valentina Ianus-displayName",
+    "original": "Valentina Ianus",
+    "translation": "瓦伦蒂娜·伊努斯",
+    "stage": 1,
+    "context": "{\"Name\": \"Valentina Ianus\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Valentina Ianus-description",
+    "original": "A member of the kitchen staff at the Imperial Academy. She’s an identical twin to her sister Valerie. They both physically look the same.",
+    "translation": "帝国学院厨房的工作人员之一。瓦莱丽的同胞姐妹，看起来一模一样。",
+    "stage": 1,
+    "context": "{\"Name\": \"Valentina Ianus\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Valentina Ianus-occupation",
+    "original": "Kitchen Staff",
+    "translation": "厨房工作人员",
+    "stage": 1,
+    "context": "{\"Name\": \"Valentina Ianus\", \"Attr\": \"occupation\"}"
+  }
+]

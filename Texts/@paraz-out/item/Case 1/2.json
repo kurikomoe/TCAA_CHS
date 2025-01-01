@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-2-Autopsy Report: Flinhart McCoy-displayName",
+    "original": "Autopsy Report: Flinhart McCoy",
+    "translation": "尸检报告：弗林哈特·麦考伊",
+    "stage": 1,
+    "context": "{\"Name\": \"Autopsy Report: Flinhart McCoy\", \"Idx\": 2, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-2-Autopsy Report: Flinhart McCoy-description",
+    "original": "\"Died after being stabbed from behind with a magical blade. Fatal wound shows heavy traces of <b>transmutation</b> magic.\"",
+    "translation": "“死者死于魔法剑刃从背后穿刺造成的刺伤，致命伤口上呈现了巨量<b>形变魔法</b>的痕迹。”",
+    "stage": 1,
+    "context": "{\"Name\": \"Autopsy Report: Flinhart McCoy\", \"Idx\": 2, \"Attr\": \"description\"}"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Rhys Rudolf-displayName",
+    "original": "Rhys Rudolf",
+    "translation": "瑞斯·雷吉纳德·鲁道夫",
+    "stage": 1,
+    "context": "{\"Name\": \"Rhys Rudolf\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Rhys Rudolf-description",
+    "original": "A loyal servant who appears to serve the nobility. He apparently has an eidetic memory.",
+    "translation": "服侍贵族的忠诚仆从。他貌似有着异常清晰的记忆力。",
+    "stage": 1,
+    "context": "{\"Name\": \"Rhys Rudolf\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Rhys Rudolf-occupation",
+    "original": "Servant",
+    "translation": "仆从",
+    "stage": 1,
+    "context": "{\"Name\": \"Rhys Rudolf\", \"Attr\": \"occupation\"}"
+  }
+]

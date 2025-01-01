@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Remus-displayName",
+    "original": "Remus Virgilae",
+    "translation": "雷穆斯·维吉莱",
+    "stage": 1,
+    "context": "{\"Name\": \"Remus\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Remus-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Remus\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Remus-occupation",
+    "original": "Royal Advisor",
+    "translation": "皇家顾问",
+    "stage": 1,
+    "context": "{\"Name\": \"Remus\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Remus-arcaneArt",
+    "original": "???",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Remus\", \"Attr\": \"arcaneArt\"}"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-13-Familial Bond-displayName",
+    "original": "Familial Bond",
+    "translation": "使魔契约",
+    "stage": 1,
+    "context": "{\"Name\": \"Familial Bond\", \"Idx\": 13, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-13-Familial Bond-description",
+    "original": "The caster forms a magical unbreakable bond with the target creature, connecting them to the caster’s magic. While this bond exists, the caster can telepathically communicate with the target over any distance. The caster can also choose to see through the target’s eyes as long as they concentrate. And lastly, the caster can also cast spells from the location of the target creature instead of their own location. \\n\\nOnce this bond is formed, neither the caster nor the target can form bonds with any other creature. This bond can only be broken in death.",
+    "translation": "施法者创造无法被破坏的魔力纽带，将目标生物与施法者的魔力相联系。纽带存在时，施法者可以与使魔远程通信，也可以在集中时通过使魔的双眼观察外界。最后，施法者还可以从使魔所在地施法，无需被局限于自己的所在位置。\\n\\n纽带一旦成立，施法者与使魔双方都不能再与其他生物联系纽带。纽带只有在死亡时才会接触。",
+    "stage": 1,
+    "context": "{\"Name\": \"Familial Bond\", \"Idx\": 13, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-13-Familial Bond-incantation",
+    "original": "\"Ret-er-rum\"",
+    "translation": "\"Ret-er-rum\"",
+    "stage": 1,
+    "context": "{\"Name\": \"Familial Bond\", \"Idx\": 13, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-13-Familial Bond-gesture",
+    "original": "None",
+    "translation": "无",
+    "stage": 1,
+    "context": "{\"Name\": \"Familial Bond\", \"Idx\": 13, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-13-Familial Bond-duration",
+    "original": "Indefinitely",
+    "translation": "无限期",
+    "stage": 1,
+    "context": "{\"Name\": \"Familial Bond\", \"Idx\": 13, \"Attr\": \"duration\"}"
+  }
+]

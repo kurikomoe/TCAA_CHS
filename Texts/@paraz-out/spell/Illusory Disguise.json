@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-7-Illusory Disguise-displayName",
+    "original": "Illusory Disguise",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Illusory Disguise\", \"Idx\": 7, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-7-Illusory Disguise-description",
+    "original": "Places an illusion on the target to completely change their visual appearance. The disguise moves with the target for the duration.\\n\\nThe disguise can make the target look 1ft larger or smaller. Elements hidden by the spell are made invisible. And elements created by the spell are purely visual. You cannot make physical contact with it.\r",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Illusory Disguise\", \"Idx\": 7, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-7-Illusory Disguise-incantation",
+    "original": "\"Ill-us-io\"",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Illusory Disguise\", \"Idx\": 7, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-7-Illusory Disguise-gesture",
+    "original": "None",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Illusory Disguise\", \"Idx\": 7, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-7-Illusory Disguise-duration",
+    "original": "1 hour",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Illusory Disguise\", \"Idx\": 7, \"Attr\": \"duration\"}"
+  }
+]

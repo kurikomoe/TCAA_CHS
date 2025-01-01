@@ -1,0 +1,23 @@
+[
+  {
+    "key": "TRhys-displayName",
+    "original": "Tyrion Cuthbert",
+    "translation": "提利昂·卡斯伯特",
+    "stage": 1,
+    "context": "{\"Name\": \"TRhys\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "TRhys-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"TRhys\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "TRhys-occupation",
+    "original": "Defense Attorney",
+    "translation": "辩护律师",
+    "stage": 1,
+    "context": "{\"Name\": \"TRhys\", \"Attr\": \"occupation\"}"
+  }
+]

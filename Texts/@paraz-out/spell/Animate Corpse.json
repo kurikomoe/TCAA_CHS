@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-10-Animate Corpse-displayName",
+    "original": "Animate Corpse",
+    "translation": "活化死尸",
+    "stage": 1,
+    "context": "{\"Name\": \"Animate Corpse\", \"Idx\": 10, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-10-Animate Corpse-description",
+    "original": "Reanimates the target using life energy, creating an undead minion for the duration. The minion follows the caster’s orders. But its intelligence is limited and it cannot speak. The minion can end the spell prematurely but will only do so if ordered to by the caster.\\n\\nOnce the spell has ended, the undead will return to being a dead body.",
+    "translation": "利用生命力将目标活化，使其成为持续一定时间的亡灵奴役。亡灵将遵从施法者的指令。但亡灵本身智力有限，无法说话。亡灵也可以提前使法术失效，但必须是在施法者命令下。\\n\\n法术失效后，亡灵会重回尸体状态。",
+    "stage": 1,
+    "context": "{\"Name\": \"Animate Corpse\", \"Idx\": 10, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-10-Animate Corpse-incantation",
+    "original": "\"Nec-cross\"",
+    "translation": "\"Nec-cross\"",
+    "stage": 1,
+    "context": "{\"Name\": \"Animate Corpse\", \"Idx\": 10, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-10-Animate Corpse-gesture",
+    "original": "None",
+    "translation": "无",
+    "stage": 1,
+    "context": "{\"Name\": \"Animate Corpse\", \"Idx\": 10, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-10-Animate Corpse-duration",
+    "original": "8 hours",
+    "translation": "8小时",
+    "stage": 1,
+    "context": "{\"Name\": \"Animate Corpse\", \"Idx\": 10, \"Attr\": \"duration\"}"
+  }
+]

@@ -1,0 +1,1575 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 50
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1097
+  },
+  "m_Name": "",
+  "items": {
+    "Array": [
+      {
+        "name": "Test",
+        "itemList": {
+          "Array": [
+            {
+              "name": "Test1",
+              "displayName": "Test1",
+              "iconPath": "Assets/Visuals/Resources/Icons/Alchemy_11_magic_mixture.png",
+              "description": "This is Test1.",
+              "viewable": "Assets/Visuals/Resources/Backgrounds/Case 1/Ballroom Waiting Room.png",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Test2",
+              "displayName": "Test2",
+              "iconPath": "Assets/Visuals/Resources/Icons/Cooking_35_wine.png",
+              "description": "This is Test2.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Test3",
+              "displayName": "Test3",
+              "iconPath": "Assets/Visuals/Resources/Icons/Engineering_14_gear.png",
+              "description": "This is Test3.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Test4",
+              "displayName": "Test4",
+              "iconPath": "Assets/Visuals/Resources/Icons/Engineering_14_gear.png",
+              "description": "This is Test4.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            }
+          ]
+        }
+      },
+      {
+        "name": "Case 1",
+        "itemList": {
+          "Array": [
+            {
+              "name": "Attorney's Runestone",
+              "displayName": "Attorney's Runestone",
+              "iconPath": "Assets/Visuals/Resources/Icons/Enchantment_57_runecrystal.png",
+              "description": "A magical runestone that allows you to take pictures of crime scenes and write notes telepathically. Every attorney has one. It’s almost like a badge for them.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Store-Bought Orange Juice",
+              "displayName": "Store-Bought Apple Juice",
+              "iconPath": "Assets/Visuals/Resources/Icons/Cooking_04_apple.png",
+              "description": "The Kornhaven merchant has a bottle of store-bought apple juice. It’s resting on a table inside his shop. It’s suspiciously empty…",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Autopsy Report: Flinhart McCoy",
+              "displayName": "Autopsy Report: Flinhart McCoy",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Flinhart.png",
+              "description": "\"Died after being stabbed from behind with a magical blade. Fatal wound shows heavy traces of <b>transmutation</b> magic.\"",
+              "viewable": "",
+              "label": 1,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Celeste's Sword",
+              "displayName": "Celeste's Sword",
+              "iconPath": "Assets/Visuals/Resources/Icons/Celeste Sword.png",
+              "description": "The alleged murder weapon. It's an ornately designed sword, but it has no magical properties.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Crime Scene Picture (Flinhart McCoy)",
+              "displayName": "Crime Scene Picture",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_28.png",
+              "description": "A picture of Flinhart McCoy after he was murdered.",
+              "viewable": "Assets/Visuals/Resources/CGs/Case 1/Finhart Stabbed Photo.png",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Celeste's Spell Compendium",
+              "displayName": "Celeste's Spell Compendium",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
+              "description": "It’s Celeste McCoy’s Spell Compendium. It contains the formula for the following spell: Mage Blade.",
+              "viewable": "",
+              "label": 2,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Lord Pierce's Spell Compendium",
+              "displayName": "Garrick Pierce's Spell Compendium",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Garrick.png",
+              "description": "Garrick Pierce's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Conjure Light, Conjure Water, Frost Wave, and Shape Liquid.",
+              "viewable": "",
+              "label": 2,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Crime Scene Map (McCoy Tavern)",
+              "displayName": "Crime Scene Map (McCoy Tavern)",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_40.png",
+              "description": "A geometrically scaled map of the Crime Scene.",
+              "viewable": "Assets/Visuals/Resources/CGs/Case 1/Tavern Map.png",
+              "label": 5,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Crime Scene Map (McCoy Tavern) 2",
+              "displayName": "Crime Scene Map (McCoy Tavern)",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_40.png",
+              "description": "A geometrically scaled map of the Crime Scene. Flinhart died at the location of the V marker. This was also the location of where the murder must have occurred.",
+              "viewable": "Assets/Visuals/Resources/CGs/Case 1/Tavern Map 2.png",
+              "label": 5,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Crime Scene Map (McCoy Tavern) 3",
+              "displayName": "Crime Scene Map (McCoy Tavern)",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_40.png",
+              "description": "A geometrically scaled map of the Crime Scene. Flinhart died at the location of the V marker. Garrick Pierce <i>claims</i> to have witnessed the murder from the W marker. But that's impossible, as he wouldn’t have had proper lighting.",
+              "viewable": "Assets/Visuals/Resources/CGs/Case 1/Tavern Map 3.png",
+              "label": 5,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Broken Power Cell",
+              "displayName": "Broken Power Cell",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_104.png",
+              "description": "The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Broken Power Cell 2",
+              "displayName": "Broken Power Cell",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_104.png",
+              "description": "The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on. This means that the lights were not operational during the murder.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Shattered Bottle of Lotus Juice",
+              "displayName": "Shattered Bottle of Lotus Juice",
+              "iconPath": "Assets/Visuals/Resources/Icons/Cooking_35_wine.png",
+              "description": "The shattered remains of a glass bottle. You found it next to Flinhart McCoy’s body. The label says the words: \"Lotus Juice\".",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Shattered Bottle of Lotus Juice 2",
+              "displayName": "Shattered Bottle of Lotus Juice",
+              "iconPath": "Assets/Visuals/Resources/Icons/Cooking_35_wine.png",
+              "description": "The shattered remains of a glass bottle. Flinhart McCoy was holding this bottle and dropped it during the murder. The label says the words: \"Lotus Juice\".",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Shattered Bottle of Lotus Juice 3",
+              "displayName": "Shattered Bottle of Lotus Juice",
+              "iconPath": "Assets/Visuals/Resources/Icons/Cooking_35_wine.png",
+              "description": "The shattered remains of a glass bottle. Flinhart McCoy was holding this bottle and dropped it during the murder. It contained Celeste's favorite drink: Lotus Juice.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Celeste's Bedroom Key",
+              "displayName": "Celeste's Bedroom Key",
+              "iconPath": "Assets/Visuals/Resources/Icons/Loot_54.png",
+              "description": "The key to Celeste McCoy's bedroom in the McCoy Tavern.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Flinhart's Sister",
+              "displayName": "Flinhart's Sister",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Flinhart.png",
+              "description": "Flinhart’s sister died during an accident involving Garrick Pierce and his magic. Ever since then, he has hated magic and the mages who wield them.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Celeste's Occupation",
+              "displayName": "Celeste's Occupation",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
+              "description": "Celeste McCoy learned magic so she could support her family as a mercenary. Apparently, many people will pay extra for a mercenary that can use magic.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Perjury by Garrick Pierce",
+              "displayName": "Perjury by Garrick Pierce",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Garrick.png",
+              "description": "Garrick Pierce has openly admitted to committing perjury in the courtroom. His lies haven’t gone unnoticed.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            }
+          ]
+        }
+      },
+      {
+        "name": "Case 2",
+        "itemList": {
+          "Array": [
+            {
+              "name": "Attorney's Runestone",
+              "displayName": "Attorney's Runestone",
+              "iconPath": "Assets/Visuals/Resources/Icons/Enchantment_57_runecrystal.png",
+              "description": "A magical runestone that allows you to take pictures of crime scenes and write notes telepathically. Every attorney has one. It’s almost like a badge for them.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Imperial Academy Map",
+              "displayName": "Imperial Academy Map",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_40.png",
+              "description": "A map of the Imperial Academy. It displays the general area where Catherine Bellwether was seen that day.",
+              "viewable": "Assets/Visuals/Resources/CGs/Case 2/Academy Map.png",
+              "label": 5,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Foul Classroom Smell",
+              "displayName": "Foul Classroom Smell",
+              "iconPath": "Assets/Visuals/Resources/Icons/Alchemy_11_magic_mixture.png",
+              "description": "Weeks ago, the headmaster performed an alchemy experiment incorrectly in Lecture Hall 2-B. The resulting chemical reaction produced a rancid yet harmless vapour that still lingers in the room.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Bloodstain Under the Body (Case 2)",
+              "displayName": "Bloodstain Under the Body",
+              "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_133.png",
+              "description": "There is a pool of blood where Catherine Bellwether’s body was. The location implies that she bled from her abdominal area.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Bloodstain Under the Body (Case 2) 2",
+              "displayName": "Bloodstain Under the Body",
+              "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_133.png",
+              "description": "There is a pool of blood where Catherine Bellwether’s body was. This is strange because she wouldn’t have been wounded by <b>Necrotic Blight</b>.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Who Discovered the Body?",
+              "displayName": "Who Discovered the Body?",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_41.png",
+              "description": "The body was discovered in Lecture Hall 2-B by Valentina and Valerie Ianus: two members of the kitchen staff. According to Commander Orym White, they were being hyperactive during questioning.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Autopsy Report: Catherine Bellwether",
+              "displayName": "Autopsy Report: Catherine Bellwether",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Catherine.png",
+              "description": "“Died at 2:01PM. Body shows no signs of cuts or bruising. The Alchemist Report has verified that death was not caused by poison or disease. \r\n\r\nBody shows traces of <i>necromancy</i> and <i>illusion</i> magic. Cause of death is not apparent but very likely caused by necromancy magic.”\r",
+              "viewable": "",
+              "label": 1,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Steelwind's Uneasiness",
+              "displayName": "Steelwind's Uneasiness",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+              "description": "There’s an element of this case that is making Aria Steelwind uneasy. But she refuses to elaborate on what this is.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Headmaster's Actions",
+              "displayName": "The Headmaster's Actions",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Theodore.png",
+              "description": "The headmaster activated the academy’s lockdown system in response to receiving a call from security. This call reported that Catherine Bellwether had been fatally wounded.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Academy Lockdown System",
+              "displayName": "The Academy Lockdown System",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_41.png",
+              "description": "The academy’s lockdown is a system of artificery that covers the entire academy building. Once activated, it creates magical barriers that isolate and protect each room in the building. These barriers can’t be breached with physical or magical force. They also block mages from teleporting through them.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Unattuned Spell Compendium",
+              "displayName": "Unattuned Spell Compendium",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_39.png",
+              "description": "An Unattuned Spell Compendium. If a mage keeps this on their person for ten minutes, it will attune to their magic and display what spells they can cast. Once it attunes to a person, it can’t attune to anyone else.",
+              "viewable": "",
+              "label": 2,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Bellwether’s Reputation",
+              "displayName": "Bellwether’s Reputation",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Catherine.png",
+              "description": "Catherine Bellwether had a tense relation with just about everyone in the academy. She had a history of bullying students from the commonfolk and mistreating the academy staff. For several years, she used her position to curry favour with the noble houses.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Wallace's Spell Compendium",
+              "displayName": "Wallace's Spell Compendium",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Wallace.png",
+              "description": "Wallace Nightgrave's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Mend Wounds, Illusory Disguise, Revive, Animate Corpse, and Necrotic Blight.",
+              "viewable": "",
+              "label": 2,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Jan's Statement",
+              "displayName": "Jan's Statement",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Jan.png",
+              "description": "Thirty minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Bellwether’s Plan",
+              "displayName": "Bellwether’s Plan",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Catherine.png",
+              "description": "Supposedly, Bellwether told the headmaster that she was planning to fire all of the academy staff and replace them with Arcane Constructs. This plan was overheard by Jan Hughes “a few weeks ago”.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Bellwether's Plan 2",
+              "displayName": "Bellwether's Plan",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Catherine.png",
+              "description": "House Frega was planning to fire Headmaster Theodore Redmond and replace him with Catherine Bellwether. They were also planning to fire all of the academy staff and replace them with Arcane Constructs.\r\n\r\nThis was supposed to be kept a secret. But according to Jan, Bellwether revealed this plan to the headmaster during a meeting a “few weeks ago”.\r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Valentina's Magical Trace",
+              "displayName": "Valentina's Magical Trace",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Valentina.png",
+              "description": "Valentina has a magical trace of <b>necromancy</b> on her. Someone cast a <b>necromancy</b> spell on her within the last forty-eight hours.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Bellwether Disguise",
+              "displayName": "Jan's Statement",
+              "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_82.png",
+              "description": "30 minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though, Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.\r\n\r\nThe “Bellwether” witnessed by Jan Hughes must have been disguised with an illusion. In addition to that, whoever he saw that day was <i>physically</i> there.\r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Steelwind’s Orders",
+              "displayName": "Steelwind’s Orders",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+              "description": "With the exception of you and Celeste McCoy, Prosecutor Steelwind isn’t allowing anyone inside key areas of the academy. She isn’t even allowing the knights of the Inquisition within these areas. She appears to be conducting the investigation singlehandedly.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Big Four",
+              "displayName": "The Four Pillar Families",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_39.png",
+              "description": "\"The four pillars\" refer to the four most powerful noble houses. These houses are House Steelwind, House Frega, House von Sanctus, and House Sibyl.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Blood in the Locker",
+              "displayName": "Evidence in the Locker",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_39.png",
+              "description": "There’s a stain of blood inside the locker with Miriam Frega’s ID number.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Blood in the Locker 2",
+              "displayName": "Evidence in the Locker",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_39.png",
+              "description": "There’s a stain of blood inside the locker with Miriam Frega’s ID number. This locker actually belongs to Wallace Nightgrave. Someone must have switched the ID numbers with Miriam’s locker.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Evidence of Academic Dishonesty",
+              "displayName": "Evidence of Academic Dishonesty",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_40.png",
+              "description": "A tightly packed folder containing several documents. The documents contain evidence detailing multiple instances of plagiarism, fraud, bribery of school officials, and various other offenses committed by Miriam Frega.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Bloody Rapier",
+              "displayName": "Bloody Rapier",
+              "iconPath": "Assets/Visuals/Resources/Icons/Sword_31.png",
+              "description": "A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was reported stolen by Miriam Frega weeks before the murder.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Bloody Rapier 2",
+              "displayName": "Bloody Rapier",
+              "iconPath": "Assets/Visuals/Resources/Icons/Sword_31.png",
+              "description": "A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was report stolen by Miriam Frega weeks before the murder.\r\n\r\nMiriam’s dorm room is abjured against teleportation. So, the thief could only have broken into her room through nonmagical means. \r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Arcane Construct’s Logic Limitation",
+              "displayName": "Construct’s Logic Limitation",
+              "iconPath": "Assets/Visuals/Resources/Icons/Engineering_14_gear.png",
+              "description": "Arcane Constructs process tasks in the order that they are given. If a Construct is ordered to complete tasks A, B, and C, it will process each of those tasks individually. If task B is impossible, the Construct won’t realize this until it reaches task B. When it reaches task B, it will deem the entire series of commands as impossible and stop what it’s doing (without even attempting to complete task C).",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Steelwind's Deduction",
+              "displayName": "Steelwind's Deduction",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_41.png",
+              "description": "The prosecution’s theory lays out the following timeline for Catherine Bellwether’s movements on the day of the murder.\r\n12:00pm-1:00pm: Theodore Redmond has a meeting with Bellwether.\r\n1:00pm: Miriam Frega saw Bellwether walking in the hallways.\r\n1:00pm-2:00pm: Bellwether spent time in the library.\r\n2:00pm-2:30pm: Wallace Nightgrave murdered Bellwether.\r\n2:30pm: Jan Hughes witnessed Bellwether walking towards Lecture Hall 2-B.\r\n3:00pm: The Ianus sisters discovered Bellwether’s body.  \r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Construct In the Locker Room",
+              "displayName": "Construct In the Locker Room",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Construct.png",
+              "description": "There appears to be an inactive Arcane Construct in the Academy Locker Room.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Arcane Construct",
+              "displayName": "Arcane Constructs",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Construct.png",
+              "description": "Arcane Constructs are suits of armour that are animated using artificery. They can carry out simple tasks when ordered to. The ones in the Imperial Academy speak using the voice of Catherine Bellwether. These voice lines can only be changed or adjusted by the academy headmaster.\r\n\r\nEvery command given to a Construct is stored in its command log. However, this command log must be cleared regularly.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            }
+          ]
+        }
+      },
+      {
+        "name": "Case 3",
+        "itemList": {
+          "Array": [
+            {
+              "name": "Attorney's Runestone",
+              "displayName": "Attorney's Runestone",
+              "iconPath": "Assets/Visuals/Resources/Icons/Enchantment_57_runecrystal.png",
+              "description": "A magical runestone that allows you to take pictures of crime scenes and write notes telepathically. Every attorney has one. It’s almost like a badge for them.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Aurinax Blockade",
+              "displayName": "Aurinax Blockade",
+              "iconPath": "Assets/Visuals/Resources/Icons/Blacksmith_34_chain.png",
+              "description": "A blockade has been created around the city of Aurinax. This blockade is preventing anyone from leaving or entering the city. The Kingsguard have taken careful note of everyone that is currently contained within the blockade.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Justin's Job",
+              "displayName": "Rika Helped Justin",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Mosourika.png",
+              "description": "Mosourika Tudor supposedly begged Stefanic Dracogen to hire Justin Waye. She wanted Justin to \"turn his life around\". Supposedly, he used to spend a lot of time with some \"local delinquents\". But has turned his life around since then.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Justin Followed the Rules",
+              "displayName": "Justin's Job",
+              "iconPath": "Assets/Visuals/Resources/Icons/Engineering_14_gear.png",
+              "description": "Justin Waye was a star employee. He was always known to follow all of Stefanic Dracogen's rules and regulations. He worked in an entirely different department and wasn't supposed to be anywhere near the refinery walkway. Dracogen has no idea why he was in the refinery before the accident.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Transmutation Magic on the Guard Rails",
+              "displayName": "Transmutation on the Guard Rails",
+              "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_127.png",
+              "description": "There are magical traces of <i>transmutation</i> on the guard rail that Justin supposedly broke before falling. These traces are <i>only</i> on the rails that Justin broke. They aren't anywhere else on the walkway…",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Transmutation Magic on the Guard Rails 2",
+              "displayName": "Transmutation on the Guard Rails",
+              "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_127.png",
+              "description": "There are magical traces of <i>transmutation</i> on the guard rail that Justin supposedly broke before falling. These traces are <i>only</i> on the rails that Justin broke. They aren't anywhere else on the walkway…\r\n\r\nA mage must have sabotaged the guard rail within the last 48 hours. They clearly intended for someone to break the rail and fall into the vat.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Transmutation Traces",
+              "displayName": "Transmutation in the Refinery",
+              "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_127.png",
+              "description": "There are magical traces of <i>transmutation</i> on the guard rail that Justin supposedly broke before falling. These traces are <i>only</i> on the rails that Justin broke. They aren't anywhere else on the walkway…\r\n\r\nA mage must have sabotaged the guard rail within the last 48 hours. They clearly intended for someone to break the rail and fall into the vat. \r\nTraces of <b>transmutation</b> were also found in several locations in the refinery. Every place where these traces were located, the surrounding machines and vats were rusted.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Aster Morrison Witness",
+              "displayName": "Morrison's Testimony",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Noah.png",
+              "description": "On the night of the accident, Mosourika Tudor frantically approached Noah Morrison and a man named Aster. She tried to tell them something. However, they couldn’t hear her over the noise produced by the refinery machines. \r\n\r\nThey noticed that Mosourika was pointing at the walkway, so they looked there. There, they saw a figure lean on a guard rail and break it. The figure fell from the walkway and into the vat of corrosive chemicals. \r\n",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Aster Morrison Witness 2",
+              "displayName": "Aster and Morrison's Testimony",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Noah.png",
+              "description": "On the night of the accident, Mosourika Tudor frantically approached Noah Morrison and a man named Aster. She tried to tell them something. However, they couldn’t hear her over the noise produced by the refinery machines. \r\n\r\nThey noticed that Mosourika was pointing at the walkway, so they looked there. There, they saw a figure lean on a guard rail and break it. The figure fell from the walkway and into the vat of corrosive chemicals. \r\n\r\nBoth Noah and Aster’s testimonies match each other identically.\r\n",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Rika Witness",
+              "displayName": "Mosourika's Testimony",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Mosourika.png",
+              "description": "On the night of the accident, Mosourika Tudor saw Justin Waye fall off of the walkway. After seeing him fall, she tried to get the attention of Aster and Noah Morrison. But they couldn’t understand her because of how loud the refinery machines were.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Rika Food Deliver",
+              "displayName": "Mosourika's Food Delivery",
+              "iconPath": "Assets/Visuals/Resources/Icons/Cooking_47_fish_ready.png",
+              "description": "Mosourika Tudor was delivering food to Justin Waye during the time of the accident. Justin apparently never had time to make food for himself. So, she delivered his dinner to him everyday.\r\n\r\nMosourika didn’t find Justin in the freight area that day. So, she went looking for him and spotted him in the refinery building before he fell.\r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Justin's Meeting",
+              "displayName": "Justin's Meeting?",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_40.png",
+              "description": "Mosourika Tudor briefly interacted with Justin Waye before the accident. Justin supposedly told her that he was on his way to a scheduled meeting with Stefanic Dracogen. But Dracogen never mentioned this meeting. ",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Justin's Planned Robbery",
+              "displayName": "Justin's Planned Robbery",
+              "iconPath": "Assets/Visuals/Resources/Icons/Mining_54_gold_ingot.png",
+              "description": "According to Wyatt Ernell, Justin Waye owed gold to someone. Justin owned a set of lockpicking and safe-cracking tools that could disable mundane and magical locks. He was planning to break into the Refinery Building, then use his safe-cracking skills to rob the safe in Dracogen’s office.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Justin's Planned Robbery 2",
+              "displayName": "Justin's Planned Robbery",
+              "iconPath": "Assets/Visuals/Resources/Icons/Mining_54_gold_ingot.png",
+              "description": "According to Wyatt Ernell, Justin Waye owed gold to a criminal nicknamed the Eyetaker. Justin owned a set of lockpicking and safe-cracking tools that could disable mundane and magical locks. He was planning to break into the Refinery Building, then use his safe-cracking skills to rob the safe in Dracogen’s office.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Eyetaker",
+              "displayName": "The Eyetaker?",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Eyetaker.png",
+              "description": "Justin Waye supposedly owed a non-trivial amount of gold to an individual named “The Eyetaker”. Perhaps one of the citizens of Aurinax can tell you more about this person.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Vat Contents",
+              "displayName": "Vat Contents",
+              "iconPath": "Assets/Visuals/Resources/Icons/Mining_30_jaspillite.png",
+              "description": "The Inquisition was able to fish out several pieces of bone matter and metallic shards from the vat that Justin Waye fell into. <b>Divination</b> magic confirms that the bones belong to him. None of the bone matter found belonged to another person.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "All Employees Present",
+              "displayName": "All Employees Present",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_41.png",
+              "description": "Aside from Justin Waye, every employee who works at the Arcane Refinery is accounted for. Justin is the only Dracogen employee who fell into the vat of corrosive chemicals.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Metal Shards",
+              "displayName": "Metallic Shards",
+              "iconPath": "Assets/Visuals/Resources/Icons/Mining_46_ancient_shards.png",
+              "description": "A large, unknown metal object fell into the vat around the time that Justin Waye fell into it. The magical liquid reduced it to several small metallic shards.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Metal Shards 2",
+              "displayName": "Metallic Shards",
+              "iconPath": "Assets/Visuals/Resources/Icons/Mining_46_ancient_shards.png",
+              "description": "A large, unknown metal object fell into the vat around the time that Justin Waye fell into it. The magical liquid reduced it to several small metallic shards. One of the shards has the crest of House von Sanctus: the noble family that controls the city of Aurinax.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Metal Shards 3",
+              "displayName": "Metallic Shards",
+              "iconPath": "Assets/Visuals/Resources/Icons/Mining_46_ancient_shards.png",
+              "description": "A large, unknown metal object fell into the vat around the time that Justin Waye fell into it. The magical liquid reduced it to several small metallic shards. One of the shards has the crest of House von Sanctus: the noble family that controls the city of Aurinax.\r\n\r\nVon Sanctus Industries places its crest on all of its products. Therefore, this shard could have potentially come from a product produced by Von Sanctus Industries.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Neutralizing Liquid",
+              "displayName": "Neutralizing Liquid",
+              "iconPath": "Assets/Visuals/Resources/Icons/Alchemy_26_immortal_potion.png",
+              "description": "When Noah Morrison and Aster de Wyverngarde reported the accident, the refinery workers poured a yellow alchemical solution into the vat. This solution neutralized the destructive magic of the vat liquids and turned it green (they are usually blue). If they hadn't neutralized the liquid, everything in the vat would have been completely destroyed.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Tools From Von Sanctus",
+              "displayName": "Products From Von Sanctus",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Lloyd.png",
+              "description": "Lloyd von Sanctus personally sold several industrial tools to Stefanic Dracogen on behalf of Von Sanctus Industries. A lot of these tools were present in the Arcane Refinery. Von Sanctus Industries also created the security system for the Refinery.\r\n\r\nVon Sanctus attempted to sell Dracogen a few Arcane Constructs: a product that is not available to anyone else in Aurinax. However, Stefanic Dracogen did not trust the Constructs’ ability to performs tasks effectively. He did not purchase any.\r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Rod of Mending",
+              "displayName": "Rod of Mending",
+              "iconPath": "Assets/Visuals/Resources/Icons/Engineering_56_magic_charge.png",
+              "description": "An artificery tool that channels <b>transmutation</b> magic to repair objects. It’s possible to reverse its magic and cause it to weaken objects instead of repairing them.\r\n\r\nIt’s quite large and requires two people to properly carry and use it.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Magical Door",
+              "displayName": "Magical Door",
+              "iconPath": "Assets/Visuals/Resources/Icons/Blacksmith_42_magic_lock.png",
+              "description": "The only entrance to the Refinery Building is a door with an artificery lock. Magical keys can be used to unlock the door for 5 seconds. After these 5 seconds, the lock automatically closes the door and engages the lock. The lock can only be disabled by Stefanic Dracogen.\r\n\r\nThe door could be physically prevented from closing, but this would trigger an alarm within the Refinery’s security system.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            }
+          ]
+        }
+      },
+      {
+        "name": "Case 4",
+        "itemList": {
+          "Array": [
+            {
+              "name": "Attorney's Runestone",
+              "displayName": "Attorney's Runestone",
+              "iconPath": "Assets/Visuals/Resources/Icons/Enchantment_57_runecrystal.png",
+              "description": "A magical runestone that allows you to take pictures of crime scenes and write notes telepathically. Every attorney has one. It’s almost like a badge for them.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Beatrice's Inheritance 0",
+              "displayName": "Beatrice's Story",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Beatrice.png",
+              "description": "Beatrice Frega fled from her family five years ago and went into hiding. Until the night of the murder, many of her friends and family members hadn’t seen or heard from her.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Beatrice's Inheritance 1",
+              "displayName": "William Frega's Inheritance",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Wilfred.png",
+              "description": "Beatrice Frega fled from her family five years ago and went into hiding. Until the night of the murder, many of her friends and family members hadn’t seen or heard from her.\r\n\r\nOn the night of the murder, Beatrice finally returned to her home. She arranged a meeting with her father. This meeting didn’t end as planned. And Beatrice angered William Frega enough for him to declare that he would be disinheriting her that night.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Beatrice's Inheritance",
+              "displayName": "William Fregas's Inheritance?",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Wilfred.png",
+              "description": "“Beatrice Frega fled from her family five years ago and went into hiding. In retaliation, William Frega told Miriam Frega that he would remove Beatrice from his will. As a result, she wouldn’t receive any inheritance after his death.”\n\nAs per your agreement, this testimony will be confirmed by Miriam Frega in court. ",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Autopsy Report: William Frega",
+              "displayName": "Autopsy Report: William Frega",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Wilfred.png",
+              "description": "\"Died at 3:12 AM. Cause of death was blood loss after his throat was slashed open. Both carotid arteries were severed, meaning that death must have followed mere seconds after the wound was inflicted.\n\nBody shows several scratch marks on the face and back. Traces of <i>illusion</i> magic were also found on the body.”",
+              "viewable": "",
+              "label": 1,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Beatrice's Blindness",
+              "displayName": "Beatrice's Blindness",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Beatrice.png",
+              "description": "Beatrice Frega is completely blind. She is unable to see anything through her eyes. This has been verified through several medical reports and qualified chirurgeons.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Sword of Spell Eating",
+              "displayName": "Sword of Spell Eating",
+              "iconPath": "Assets/Visuals/Resources/Icons/Sword of Spell Eating.png",
+              "description": "The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Sword of Spell Eating 2",
+              "displayName": "Sword of Spell Eating",
+              "iconPath": "Assets/Visuals/Resources/Icons/Sword of Spell Eating.png",
+              "description": "The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.\r\n\r\nIt was stolen on the night of the murder and found in Beatrice Frega's old room.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Sword of Spell Eating 3",
+              "displayName": "Sword of Spell Eating",
+              "iconPath": "Assets/Visuals/Resources/Icons/Sword of Spell Eating.png",
+              "description": "The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.\r\n\r\nOn the night of the murder, someone used a powerful spell to completely shatter the magically protected glass that was containing it. It was later found in Beatrice Frega's old room.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Earrings of Vitality",
+              "displayName": "Earrings of Vitality",
+              "iconPath": "Assets/Visuals/Resources/Icons/Enchantment_60_runecrystal.png",
+              "description": "The Earrings of Vitality are an ancient artifact. When worn by a creature, that creature’s wounds will slowly heal over time. Furthermore, its holder’s lifespan increases tenfold for as long as they’re worn.  Legends say that it was created by the Scaled Lord himself.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Armbands of Intellect",
+              "displayName": "Armbands of Intellect",
+              "iconPath": "Assets/Visuals/Resources/Icons/Belt_26.png",
+              "description": "The Armbands of Intellect are an ancient artifact. When worn by a creature, that creature’s intelligence would be increased beyond the limits of an average human. Legends say that it was forged by a member of House Frega to further their study of magic.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Armbands of Intellect 2",
+              "displayName": "Armbands of Intellect",
+              "iconPath": "Assets/Visuals/Resources/Icons/Belt_26.png",
+              "description": "The Armbands of Intellect are an ancient artifact. When worn by a creature, that creature’s intelligence would be increased beyond the limits of an average human. Legends say that it was forged by a member of House Frega to further their study of magic.\r\n\r\nOn the night of the murder, Harold Haroldson discovered that the Armbands of Intellect were also stolen. The glass case holding the Armbands <i>wasn't</i> shattered. And the Armbands were replaced with a very convincing replica.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Haroldson's Security",
+              "displayName": "Haroldson's Security",
+              "iconPath": "Assets/Visuals/Resources/Icons/Blacksmith_34_chain.png",
+              "description": "The artifacts on display at the Lords’ Ball were protected by layers of abjuration spells. Even a highly skilled mage would have trouble breaking into them.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Haroldson's Security 2",
+              "displayName": "Haroldson's Security",
+              "iconPath": "Assets/Visuals/Resources/Icons/Blacksmith_34_chain.png",
+              "description": "The artifacts on display at the Lords’ Ball were protected by layers of abjuration spells. Even a highly skilled mage would have trouble breaking into them.\r\n\r\nThe spells that guard the displays can be temporarily disabled using a spoken password. Harold Haroldson is supposedly the only person who knows this password.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Missing Sword",
+              "displayName": "Celeste's Missing Sword",
+              "iconPath": "Assets/Visuals/Resources/Icons/Celeste Sword.png",
+              "description": "When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Murder Weapon",
+              "displayName": "Murder Weapon",
+              "iconPath": "Assets/Visuals/Resources/Icons/Dagger_16.png",
+              "description": "The murder weapon was a letter opener with House Frega’s crest on it. It must have been owned by the victim. Its handle was completely shattered. It would have taken a tremendous amount of force to crush it like that.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Lockdown System",
+              "displayName": "Lockdown System",
+              "iconPath": "Assets/Visuals/Resources/Icons/Blacksmith_34_chain.png",
+              "description": "The lockdown system covers the entire manor. Once activated, it creates magical barriers that prevent anyone from leaving or teleporting out of the building. In addition to this, it covers the entire manor in an <b>Anti-Magic Field</b>. Within this field, any and all magical effects are nullified and disabled.\r\n\r\nHowever, anyone physically or magically connected to the Sword of Spell Eating would be immune to the effects of the <b>Anti-Magic Fields</b>.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Method of Entry",
+              "displayName": "Method of Entry",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_125.png",
+              "description": "The murderer somehow entered William Frega’s study despite it being protected with abjurative wards. These wards magically locked the only door leading into the room. They also prevented teleportation in and out of the room. It’s possible to temporarily nullify these wards with the Sword of Spell Eating.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "What Jan Heard",
+              "displayName": "What Jan Heard",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Jan.png",
+              "description": "Jan Hughes was trapped in a storage room near William Frega’s study. He took a nap but was awoken to the sounds of some kind of physical struggle. He heard Frega shout “Who are you?! What do you want?!”. After a few more seconds he heard the sound of someone being stabbed.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Rats in the Vents",
+              "displayName": "Rats in the Vents",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_125.png",
+              "description": "The servants have been frequently complaining about the sound of rats running through the vents. Jan tried to track one of them down and followed it to the Storage Room.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Celeste's Sword",
+              "displayName": "Celeste's Sword",
+              "iconPath": "Assets/Visuals/Resources/Icons/Celeste Sword.png",
+              "description": "When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.\r\n\r\nYou later found the missing sword was found in Beatrice’s bedroom. This was also the room where the Sword of Spell Eating was found after it was stolen. Are these two elements related somehow?\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Liafal's Engagement",
+              "displayName": "Laefe's Engagement",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Lloyd.png",
+              "description": "Laefe Frega was due to be married to Jaiden von Sanctus. This arranged marriage was facilitated by William Frega and Lloyd von Sanctus. As part of this diplomatic marriage, House von Sanctus would be absorbed by House Frega. In return, Jaiden would inherit the entirety of House Frega from William.\r\n\r\nLaefe knew how this marriage would affect the future of House Frega. She has expressed resistance to the diplomatic marriage and has been stalling for time. Lloyd von Sanctus worries that William Frega's death could cancel the marriage altogether. \r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Liafal's Testimony",
+              "displayName": "Laefe's Testimony",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Liafal.png",
+              "description": "After his meeting with Beatrice Frega, William Frega retreated into his Study and locked himself within it. He refused to speak with almost everyone who tried to disturb him.\r\n\r\nThe only person he spoke to was Laefe Frega. She told him about the theft of the Sword of Spell Eating a little after 1:00AM. But William didn’t seem to care and returned to his business. \r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Liafal's Testimony 2",
+              "displayName": "Laefe's Testimony",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Liafal.png",
+              "description": "After his meeting with Beatrice Frega, William Frega retreated into his Study and locked himself within it. He refused to speak with almost everyone who tried to disturb him. \r\n\r\nThe only person he spoke to was Laefe Frega. She told him about the theft of the Sword of Spell Eating a little after 1:00AM. But William didn’t seem to care and returned to his business.\r\n\r\nThrough Laefe’s thoughts, you know that he entered the study to make some sort of adjustment to his will.\r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "William's Modified Will",
+              "displayName": "William's Modified Will",
+              "iconPath": "Assets/Visuals/Resources/Icons/Enchantment_30_writing_instruments.png",
+              "description": "On the night of the murder, William Frega retreated into his study to modify his will. He died before this will could be submitted. So, it’s not valid.\r\n\r\nThe draft was supposedly stolen during the lockdown. It’s likely that the murderer took and/or destroyed it.\r\n",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Frega Manor Floor 1",
+              "displayName": "Frega Manor - Floor 1",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_40.png",
+              "description": "It's a map of the ground floor of Frega Manor. It shows the rooms relevant to the case.",
+              "viewable": "Assets/Visuals/Resources/CGs/Case 4/Frega Manor Floor 1.png",
+              "label": 5,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Frega Manor Floor 2",
+              "displayName": "Frega Manor - Floor 2",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_40.png",
+              "description": "It's a map of the second floor of Frega Manor. It shows the rooms relevant to the case.",
+              "viewable": "Assets/Visuals/Resources/CGs/Case 4/Frega Manor Floor 2.png",
+              "label": 5,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Beatrice's Alibi",
+              "displayName": "Beatrice's \"Alibi\"",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Beatrice.png",
+              "description": "Beatrice Frega was seen speaking with Aster de Wyverngarde and Alaric de Wyverngarde during the Lords’ Ball. She spent the entire night speaking with them. She was also accounted for before the Sword of Spell Eating was reported missing. \r\n\r\nLucio Steelwind, Aster, and several members of the Kingsguard can confirm this.\r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Tracker's Testimony",
+              "displayName": "Tracker's Testimony",
+              "iconPath": "Assets/Visuals/ResoAssets/Visuals/Resources/Character Icons/Case 4/Cormac.pngrces/Icons/Quest_125.png",
+              "description": "On the night of the murder, Tracker smelled something strange and followed the scent to the hallway north of Beatrice’s Bedroom. There he saw a “flying rat” come out from the northern air vent. Tracker barked at this “rat” and scared it away. \r\n\r\nWhen this happened, “rat” supposedly dropped the Sword of Spell Eating. Tracker took the sword and brought it back to Beatrice’s Room.\r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Marrunath's Blood Contract",
+              "displayName": "Beatrice's Blood Contract",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Beatrice.png",
+              "description": "It’s a legal document written in blood… It’s also 50 pages long. Luckily, you somehow know the excerpt of the exact section you need.\r\n\r\n“Marrunath is prohibited from killing or injuring any and all humans. Beatrice Frega can designate individuals that are exempt from this rule. And exempted individuals will only remain so for 24 hours. After that, Marrunath cannot harm them unless told otherwise.” \r",
+              "viewable": "",
+              "label": 4,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            }
+          ]
+        }
+      },
+      {
+        "name": "Case 5",
+        "itemList": {
+          "Array": [
+            {
+              "name": "Attorney's Runestone",
+              "displayName": "Attorney's Runestone",
+              "iconPath": "Assets/Visuals/Resources/Icons/Enchantment_57_runecrystal.png",
+              "description": "A magical runestone that allows you to take pictures of crime scenes and write notes telepathically. Every attorney has one. It’s almost like a badge for them.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Letter from Garrick Pierce",
+              "displayName": "Letter from Garrick Pierce",
+              "iconPath": "Assets/Visuals/Resources/Icons/Enchantment_21_parchment.png",
+              "description": "Garrick Pierce sent you a letter. But the paper is torn in the middle. The contents read as such:\n“I hope you understand... I would've never contacted you unless I had no other choice. I know the truth behind McCoy's <i>true</i> parentage. And I'm aware of how vital this information is to you. As you know, my execution is scheduled for next month. And I'm running out of time. I want to trade this information with you. In exchange, you <i>will</i> grant me my freedom. Meet me within the private Prayer Room within the Grand Cathedral of the Scaled Lord at 2:00 PM. You <i>will</i> save me from my fate, or else”",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Map of the Grand Cathedral",
+              "displayName": "Map of the Grand Cathedral",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_40.png",
+              "description": "It's a map of the cathedral grounds.",
+              "viewable": "Assets/Visuals/Resources/CGs/Case 5/Grand Cathedral Map.png",
+              "label": 5,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Comatose Knights",
+              "displayName": "Comatose Knights",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Knight.png",
+              "description": "Several knights from the Kingsguard were found unconscious after the bodies were found. They have been unresponsive since the massacre. And due to a lack of magical traces, they are clearly not being affected by any kind of arcane spell.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Celeste's Testimony",
+              "displayName": "Celeste's Testimony",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
+              "description": "During the afternoon of the murder, Celeste McCoy heard a suspicious sound and investigated the hallway leading to the Prayer Room. There she saw Aria Steelwind fighting the guards. \r\n\r\nAria didn’t respond to Celeste’s questions and attacked her as well. The two fought to a standstill and Aria pushed past her. When Celeste arrived at the Prayer Room, she found Tyrion and Aria unconscious. And Pierce was already dead. She didn’t see Beatrice Frega at any point during the altercation.\r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Autopsy Report: Lloyd von Sanctus",
+              "displayName": "Autopsy Report: Lloyd von Sanctus",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Lloyd.png",
+              "description": "\"Died at 2:05PM. The cause of death was suffocation. The fire in the Common Room burnt the body too much to discern any specific wounds he might have suffered. However, a small trace of <b>evocation</b> magic and a burn mark were found on the victim’s left shoulder. This implies the body was hit with a fire-based <b>evocation</b> spell.\r\n\r\nTraces of <i>abjuration</i> magic were found on and around the body.”\r",
+              "viewable": "",
+              "label": 1,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Autopsy Report: Coraline Sibyl",
+              "displayName": "Autopsy Report: Coraline Sibyl",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Coraline.png",
+              "description": "\"Died at 2:18PM. Cause of death was suffocation. Her body was found floating in a nearby lake outside of the Grand Cathedral.\r\n\r\nTraces of <b>transmutation</b>, <b>evocation</b>, and <b>necromancy</b> magic were found on the body.” \r",
+              "viewable": "",
+              "label": 1,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Autopsy Report: Garrick Pierce",
+              "displayName": "Autopsy Report: Garrick Pierce",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Garrick.png",
+              "description": "\"Died at 2:45PM, in the Prayer Room. Cause of death was blood loss. A shard of frozen liquid was found stabbed through his heart. It is very likely that this was the murder weapon. \r\n\r\nThe wound also shows heavy traces of <b>transmutation</b> magic. And traces of <b>conjuration</b> magic were found throughout the room.”\r",
+              "viewable": "",
+              "label": 1,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Murderer's Route",
+              "displayName": "The Murderer's Route",
+              "iconPath": "Assets/Visuals/Resources/Icons/Quest_41.png",
+              "description": "Judging from each time of death, the murderer went from the Common Room to the Balcony, and then to the Prayer Room. In that order. But that wasn’t the most direct route. There has to be an explanation for that.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Von Sanctus: Traces of Abjuration",
+              "displayName": "Von Sanctus: Traces of Abjuration",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Lloyd.png",
+              "description": "There are traces of <b>abjuration</b> magic that form a perfect square around the body. The area within the square seems far less burnt too.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Murder of Von Sanctus",
+              "displayName": "The Murder of Von Sanctus",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Lloyd.png",
+              "description": "Aria Steelwind attacked von Sanctus with a <b>Fire Bolt</b> in the Common Room. He reacted by casting <b>Force Cage</b> to protect himself. Seeing that she couldn’t break through it, she started a fire to eat all of the oxygen in the room. Von Sanctus was probably helpless as he suffocated from a lack of oxygen.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Murder of Garrick Pierce",
+              "displayName": "The Murder of Garrick Pierce",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Garrick.png",
+              "description": "The Inquisition found a frozen blade impaling Garrick Pierce through his heart. There were traces of <b>transmutation</b> on his blood. This implies that the murderer used <b>Shape Liquid</b> to create this blade and murder him. Which is oddly similar to how Pierce murdered Flinhart McCoy.\r\n\r\nBut why would the murderer do this when they clearly had more lethal spells at their disposal? Pierce used this method during Flinhart’s murder to leave as little evidence as possible. However, it’s clear the murderer wanted to frame Aria and leave as <i>much</i> evidence as possible.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Pierce's Spell Compendium",
+              "displayName": "Garrick Pierce's Spell Compendium",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Garrick.png",
+              "description": "Garrick Pierce's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Conjure Light, Conjure Water, Frost Wave, and Shape Liquid.",
+              "viewable": "",
+              "label": 2,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Sibyl's Spell Compendium",
+              "displayName": "Sibyl's Spell Compendium",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Coraline.png",
+              "description": "Coraline Sibyl’s Spell Compendium. It contains the formulas for the following spells: Slow Fall, Foresight, Strike True, Detect Magic, Stone Skin, and Mend Wounds.",
+              "viewable": "",
+              "label": 2,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Aria's Spell Compendium",
+              "displayName": "Aria's Spell Compendium",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+              "description": "Aria Steelwind’s Spell Compendium. It contains the formulas for the following spells: Mend Wounds, Fire Bolt, Shape Liquid, Dispel Magic, Steelwind Strike, Detect Magic, Polymorph, and Hold Creature.",
+              "viewable": "",
+              "label": 2,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Von Sanctus's Spell Compendium",
+              "displayName": "Von Sanctus's Spell Compendium",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Lloyd.png",
+              "description": "Lloyd Von Sanctus’s Spell Compendium. It contains the formulas for the following spells: Mage Blade, Force Cage, Send Message, and Mend Wounds.",
+              "viewable": "",
+              "label": 2,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Beatrice's Spell Compendium",
+              "displayName": "Beatrice's Spell Compendium",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Beatrice.png",
+              "description": "Beatrice Frega’s Spell Compendium. It contains the formulas for the following spells: Familial Bond, Sleep, Mend Wounds, Send Message, Animate Corpse, Necrotic Blight, Shatter, Invisibility, Feign Death, and Illusory Disguise.",
+              "viewable": "",
+              "label": 2,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Marriage Meeting",
+              "displayName": "Marriage Meeting",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+              "description": "From 1:15PM-1:40PM, Aster de Wyverngarde and Aria Steelwind spoke with High Speaker Theon Archeus, about their upcoming wedding. At 1:40PM Steelwind abruptly left the meeting and didn’t answer Aster when asked where she was going.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Trapped King",
+              "displayName": "The Trapped King",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aster.png",
+              "description": "At 2:00PM, Aster de Wyverngarde went to pay his respects at his father’s coffin. Unbeknownst to him, however, there was a <b>Glyph of Contingency</b> set to trap him inside a <b>Force Cage</b>. The trap triggered and Aster was trapped in that magical cage for its duration.\n\nThis caused the Kingsguard to consolidate their forces at Aster’s location. As a result, Lloyd von Sanctus, Coraline Sibyl, and Garrick Pierce were left with far fewer guards defending them.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Trapped King 2",
+              "displayName": "The Trapped King",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aster.png",
+              "description": "At 2:00 PM, Aster de Wyverngarde went to pay his respects at his father’s coffin. Unbeknownst to him, however, there was a <b>Glyph of Contingency</b> set to trap him inside a <b>Force Cage</b>. The trap triggered and Aster was trapped in that magical cage for its duration. Aster attempted to break the <b>Force Cage</b> by casting <b>Fire Bolt</b>. This created fresh traces of <b>evocation</b> which makes it impossible to tell when the <b>Glyph of Contingency</b> was placed.\n\nThere were traces of <b>illusion</b> magic at the crime scene. This might imply that someone hid themselves from the guards as they set this trap.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Archeus's Encounter",
+              "displayName": "Archeus's Encounter",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Theon.png",
+              "description": "Theon Archeus was on his way to the Prayer Room to recite his prayers. On his way there, he spotted Aria Steelwind throwing something off of the west balcony. \n\nHe wasn’t able to see what she threw. But after Coraline Sibyl’s body was found in Lake Galakrond, he assumed the object must have been Sibyl’s body. However, he could have sworn that he saw something “darker”. But he’s still not sure.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Archeus's Encounter 2",
+              "displayName": "Archeus's Testimony",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Theon.png",
+              "description": "Theon Archeus was on his way to the Prayer Room to recite his prayers. On his way there, he spotted Aria Steelwind throwing something off of the west balcony. \n\nHe wasn’t able to see what she threw. But after Coraline Sibyl’s body was found in Lake Galakrond, he assumed the object must have been Sibyl’s body. However, he could have sworn that he saw something “darker”. But he’s still not sure.\n\nAfter witnessing this, he attempted to enter the Prayer Room but was turned away by the knights guarding it.\n",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Report",
+              "displayName": "The Report",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Orym.png",
+              "description": "The Inquisition discovered something was wrong when Alaric de Wyverngarde reported that a fire had broken out in the Common Room. He also told them that Aria Steelwind cast a spell on him earlier that severely debilitated his senses.\r\n\r\nWhen the Inquisition arrived at the scene, they spotted the unconscious guards outside the Prayer Room. They did not see Celeste McCoy and Aria Steelwind. This all happened at 3:10PM.\r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Soundproof Room",
+              "displayName": "Soundproof Room",
+              "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_38.png",
+              "description": "Supposedly, Theon Archeus suffers from chronic insomnia and can be woken by even the smallest sound. As such, the walls of the High Speaker’s Quarters are completely soundproof once he closes the door. This should explain why Archeus didn’t hear the fight between Celeste McCoy and Aria Steelwind.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Debris Near the Balcony",
+              "displayName": "Debris Near the Balcony",
+              "iconPath": "Assets/Visuals/Resources/Icons/Enchantment_46_stoune.png",
+              "description": "You found some bits of earth-like debris near the west-ward balcony. They have traces of <b>transmutation</b> magic on them. This also happens to be where Theon Archeus saw Aria Steelwind dumping Coraline Sibyl’s body.",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Beatrice's Actions",
+              "displayName": "Beatrice's Actions",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Beatrice.png",
+              "description": "You saw Beatrice Frega as you were losing consciousness. You only saw her for a brief moment. So, it could have been an illusion. Regardless, that means that she somehow entered the Prayer Room at 2:30PM.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Beatrice's Actions 2",
+              "displayName": "Beatrice's Actions",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Beatrice.png",
+              "description": "You saw Beatrice Frega as you were losing consciousness. You only saw her for a brief moment. So, it could have been an illusion. Regardless, that means that she somehow entered the Prayer Room at 2:30PM.\r\n\r\nA knight was assigned to guard Beatrice and kill her if Marrunath attempted to escape. He was later found comatose in front of the Prayer Room. Eris Illmater, who was also with Beatrice when she disappeared, has been missing since the massacre.\r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Virgilae's Alibi",
+              "displayName": "Virgilae's Alibi",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Rathyn.png",
+              "description": "The demon Marrunath called Archduke Remus Virgilae to meet with him at 1:50PM. He apparently had very important information that Virgilae couldn’t ignore. Virgilae spoke with Marrunath until 3:10PM. The members of the Kingsguard guarding the demon can verify this.",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Alaric's Testimony",
+              "displayName": "Alaric's Testimony",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Aleric.png",
+              "description": "Alaric de Wyverngarde saw Aria Steelwind exiting the Common Room. He saw that a fire had started there. But when he asked Steelwind what was going on, she cast a <b>transmutation</b> spell on him.\n\n\nThis spell blurred his vision and put him in a daze. His ears were ringing, and he was unable to speak or walk properly. He could only move by crawling on the ground. Strangely, no one saw him while he was in this state.\n",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Steelwind's Testimony",
+              "displayName": "Steelwind's Testimony",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+              "description": "Aria Steelwind has no memories of what happened after she left her meeting with Theon Archeus and Aster de Wyverngarde. After she left the meeting, she began heading to the Nave to meet with her father. However, she suddenly felt nauseous and went to the westward balcony. She lost consciousness soon after.\r\n\r\nShe later regained consciousness in the Prayer Room when she heard Celeste McCoy crying over your unconscious body. She did not cast ANY magic before she fell unconscious. \r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Liafal's Testimony",
+              "displayName": "Laefe's Testimony",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Liafal.png",
+              "description": "Beatrice Frega and Eris Illmater were accounted for in the Garden until 2:00PM. But after that, they both went missing. Eris supposedly lost track of Beatrice and searched for her in the Garden.\r\n\r\nLaefe Frega, Miriam Frega, and Lazarick Asclepius were together and were about to search for Beatrice at 2:05PM. However, they were stopped by the Kingsguard who reported that a <b>Glyph of Contingency</b> had just trapped Aster de Wyverngarde in a <b>Force Cage</b>. \r",
+              "viewable": "",
+              "label": 3,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "The Purple Mark",
+              "displayName": "The Purple Mark",
+              "iconPath": "Assets/Visuals/Resources/CGs/Eris Symbol.png",
+              "description": "It’s some sort of strange symbol. Aria Steelwind calls it the “Purple Mark”. She thinks it has some relation to her mind control conspiracy.\r\n\r\nSupposedly, this mark has been found at the scenes of several gruesome murders throughout Wyverngarde. Aria felt she was getting close to the truth. When she regained consciousness after the massacre, she found a paper with the symbol in her pocket.\r",
+              "viewable": "",
+              "label": 0,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Aria's Blood Contract",
+              "displayName": "Aria's Blood Contract",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+              "description": "The Blood Contract seems strange… Unlike Beatrice’s contract, it’s only one page. Even stranger, there’s a large empty space at the top half of the page. There are only a few sentences at the bottom.\r\n\r\n“For the intentions of this contract, the person who hands the contract to Aria Steelwind will be referred to as ‘the Patron’. By signing this contract, Aria Steelwind surrenders her mind, body, and soul to the Patron. This contract will bind Aria Steelwind to the Patron so long as they both live.”\r\n\r\nIt’s signed with Aria’s signature…\r",
+              "viewable": "",
+              "label": 4,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Aria's Blood Contract 2",
+              "displayName": "Aria's Blood Contract",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+              "description": "The Blood Contract seems strange… Unlike Beatrice’s contract, it’s only one page. Even stranger, there’s a large empty space at the top half of the page. There are only a few sentences at the bottom.\r\n\r\n“For the intentions of this contract, the person who hands the contract to Aria Steelwind will be referred to as ‘the Patron’. By signing this contract, Aria Steelwind surrenders her mind, body, and soul to the Patron. This contract will bind Aria Steelwind to the Patron so long as they both live.”\r\n\r\nIt’s signed with Aria’s signature…\r\n\r\nCeleste McCoy saw Aria drop this Contract before she entered the Prayer room with Tyrion. Due to the Empress of Discord changing her memories, she can’t remember what was written on this Contract.  \r\n",
+              "viewable": "",
+              "label": 4,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Celeste's Blood Contract",
+              "displayName": "Celeste's Blood Contract",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
+              "description": "\"With the apparent death of Tyrion Cuthbert, the Empress of Discord shall revive him, contingent upon the eternal servitude of Celeste McCoy. Henceforth, Celeste McCoy's soul shall be eternally bound to the Abyssal Hells.\r\n\r\nAs a part of her servitude, Celeste McCoy shall engage in actions deemed necessary to secure the compliance and cooperation of Aria Steelwind in the Empress’s endeavours.\r\n\r\nAnd lastly, it is stipulated that Celeste McCoy, of her own volition and agency, shall bring about the demise of Garrick Pierce by her own hand. Afterwards, Tyrion Cuthbert's consciousness will be restored.\"  \r",
+              "viewable": "",
+              "label": 4,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "Ruby's Blood Contract",
+              "displayName": "Ruby's Blood Contract",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Ruby.png",
+              "description": "“Upon signing this Contract, Ruby Tymora grants the Empress of Discord access to her memories. At any time, the Empress may view any and all of Tymora’s memories. In addition to that, the Empress may instantaneously change and alter her memories whenever she wishes.”\n\nIt's signed with Ruby Tymora's name.",
+              "viewable": "",
+              "label": 4,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            },
+            {
+              "name": "No Blood Contract",
+              "displayName": "No Blood Contract",
+              "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aster.png",
+              "description": "Aster de Wyverngarde has no Blood Contract with the Empress of Discord... obviously.",
+              "viewable": "",
+              "label": 4,
+              "isBattleMap": 0,
+              "isAxiom": 0
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "erisAxioms": {
+    "name": "",
+    "itemList": {
+      "Array": [
+        {
+          "name": "Flawless Contract",
+          "displayName": "\"My Contract was written without flaw.\"",
+          "iconPath": "",
+          "description": "\"My Contract was written without flaw.\"",
+          "viewable": "",
+          "label": 0,
+          "isBattleMap": 0,
+          "isAxiom": 1
+        },
+        {
+          "name": "Liafal Unreliable",
+          "displayName": "\"Liafal Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion\"",
+          "iconPath": "",
+          "description": "\"Liafal Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion that renders their testimonies unreliable.\"",
+          "viewable": "",
+          "label": 0,
+          "isBattleMap": 0,
+          "isAxiom": 1
+        },
+        {
+          "name": "No Aster Cage",
+          "displayName": "\"An activated Force Cage did not target Aster de Wyverngarde during or after 1:50PM.\"",
+          "iconPath": "",
+          "description": "\"An activated Force Cage did not target Aster de Wyverngarde during or after 1:50PM.\"",
+          "viewable": "",
+          "label": 0,
+          "isBattleMap": 0,
+          "isAxiom": 1
+        },
+        {
+          "name": "Kingsguard Contracts",
+          "displayName": "\"The Empress of Discord made Contracts with multiple members of the Kingsguard and I tampered with their memories.\"",
+          "iconPath": "",
+          "description": "\"The Empress of Discord made Contracts with multiple members of the Kingsguard and I tampered with their memories.\"",
+          "viewable": "",
+          "label": 0,
+          "isBattleMap": 0,
+          "isAxiom": 1
+        },
+        {
+          "name": "Hypothetical",
+          "displayName": "\"It's possible that I have a Blood Contract with everyone present during the massacre.\"",
+          "iconPath": "",
+          "description": "\"It's possible that I have a Blood Contract with everyone present during the massacre.\"",
+          "viewable": "",
+          "label": 0,
+          "isBattleMap": 0,
+          "isAxiom": 1
+        },
+        {
+          "name": "Missing Beatrice",
+          "displayName": "\"Beatrice Frega did not go missing before 2:00PM.\"",
+          "iconPath": "",
+          "description": "\"Beatrice Frega did not go missing before 2:00PM.\"",
+          "viewable": "",
+          "label": 0,
+          "isBattleMap": 0,
+          "isAxiom": 1
+        },
+        {
+          "name": "Celeste Memories",
+          "displayName": "\"Celeste McCoy remembered the attack occurring much earlier than it actually did.\"",
+          "iconPath": "",
+          "description": "\"Celeste McCoy remembered the attack occurring much earlier than it actually did.\"",
+          "viewable": "",
+          "label": 0,
+          "isBattleMap": 0,
+          "isAxiom": 1
+        },
+        {
+          "name": "Celeste gave Contract",
+          "displayName": "\"Celeste McCoy was the person who gave Aria Steelwind that Blood Contract\"",
+          "iconPath": "",
+          "description": "\"Celeste McCoy was the person who gave Aria Steelwind that Blood Contract\"",
+          "viewable": "",
+          "label": 0,
+          "isBattleMap": 0,
+          "isAxiom": 1
+        }
+      ]
+    }
+  }
+}

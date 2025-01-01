@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Jan Hughes-displayName",
+    "original": "Jan Hughes",
+    "translation": "简·休斯",
+    "stage": 1,
+    "context": "{\"Name\": \"Jan Hughes\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Jan Hughes-description",
+    "original": "A custodian who appears to have a rather lazy disposition. But if he’s kept a job for <i>this</i> long, he must be competent.",
+    "translation": "看起来无所事事的管理人。但他既然能工作<i>这么久</i>，一定很能干吧。",
+    "stage": 1,
+    "context": "{\"Name\": \"Jan Hughes\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Jan Hughes-occupation",
+    "original": "Custodian",
+    "translation": "管理人",
+    "stage": 1,
+    "context": "{\"Name\": \"Jan Hughes\", \"Attr\": \"occupation\"}"
+  }
+]

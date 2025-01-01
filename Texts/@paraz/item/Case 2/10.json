@@ -1,0 +1,14 @@
+[
+  {
+    "key": "Item-Case 2-10-Unattuned Spell Compendium-displayName",
+    "original": "Unattuned Spell Compendium",
+    "translation": null,
+    "context": "{\"Name\": \"Unattuned Spell Compendium\", \"Idx\": 10, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 2-10-Unattuned Spell Compendium-description",
+    "original": "An Unattuned Spell Compendium. If a mage keeps this on their person for ten minutes, it will attune to their magic and display what spells they can cast. Once it attunes to a person, it can’t attune to anyone else.",
+    "translation": null,
+    "context": "{\"Name\": \"Unattuned Spell Compendium\", \"Idx\": 10, \"Attr\": \"description\"}"
+  }
+]

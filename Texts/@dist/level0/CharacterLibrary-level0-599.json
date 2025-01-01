@@ -1,0 +1,1523 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 50
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 942
+  },
+  "m_Name": "",
+  "characterList": {
+    "Array": [
+      {
+        "name": "Tyrion Cuthbert",
+        "displayName": "提利昂·卡斯伯特",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Tyrion.png",
+        "description": "提利昂·卡斯伯特是个辩护律师，主要为平民法师们辩护。在亲身体会过维文加德的司法腐败后，他跟着臭名昭著的鲁比·泰摩拉学习法律。在她的指点下，提利昂在20岁就成为了成熟的辩护律师。",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "辩护律师",
+        "age": "20",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Frey Cuthbert",
+        "displayName": "芙雷·卡斯伯特",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Cora Sibyl Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Gallery",
+        "displayName": "Gallery",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Bailiff",
+        "displayName": "法警",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Prisoners",
+        "displayName": "囚犯",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Townsfolk",
+        "displayName": "镇民",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Mercenaries",
+        "displayName": "雇佣兵",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.82289803,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Celeste McCoy",
+        "displayName": "塞莱斯特·麦考伊",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
+        "description": "塞莱斯特·麦考伊是弗林哈特和朱莲尼收养的女儿。她凭借着如龙般的体力与力量和对于魔法惊人的天然适应性周游了整个世界，在此过程中作为雇佣兵来补贴家用。她凭借战场上的事迹就轻松的从畏惧她的人那里斩获了“猩红恶魔”的称号。不过，她本人不是很<i>喜欢</i>那个称号。",
+        "altDescriptions": {
+          "Array": [
+            "Celeste McCoy is the daughter of Flinhart and Jolene McCoy. After the McCoy Tavern was shut down, she became a mercenary to support her family and keep them afloat."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Celeste McCoy Variant.prefab",
+        "occupation": "贴身护卫",
+        "age": "19",
+        "arcaneArt": "形变",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Celeste.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "CDress",
+        "displayName": "塞莱斯特·麦考伊",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Celeste McCoy (Dress) Variant.prefab",
+        "occupation": "贴身护卫",
+        "age": "19",
+        "arcaneArt": "形变",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "CSteel",
+        "displayName": "塞莱斯特·“斯蒂尔文德”",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Celeste McCoy Variant.prefab",
+        "occupation": "贴身护卫",
+        "age": "19",
+        "arcaneArt": "形变",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "CAria",
+        "displayName": "塞莱斯特·“斯蒂尔文德”",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Aria Steelwind.prefab",
+        "occupation": "雇佣兵",
+        "age": "19",
+        "arcaneArt": "形变",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.4620726,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Aria Steelwind",
+        "displayName": "阿莉亚·斯蒂尔文德",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+        "description": "阿莉亚·斯蒂尔文德是声名远扬的斯蒂尔文德家的长女。斯蒂尔文德家族掌管维文加德王国的军事力量与执法机关。虽然出身于这样的家族，她却选择成为一名与奥术裁判所共事的检察官。",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Aria Steelwind.prefab",
+        "occupation": "检察官",
+        "age": "18",
+        "arcaneArt": "召唤",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.4620726,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "ADress",
+        "displayName": "阿莉亚·斯蒂尔文德",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aria.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Aria Steelwind (Dress).prefab",
+        "occupation": "检察官",
+        "age": "18",
+        "arcaneArt": "召唤",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.4620726,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Judge",
+        "displayName": "法官",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Judge Variant.prefab",
+        "occupation": "法官",
+        "age": "80",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.20392159,
+          "g": 0.13725491,
+          "b": 0.098039225,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Eris Illmater",
+        "displayName": "厄莉斯·伊尔马特",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Eris.png",
+        "description": "神秘的女性，看起来对提利昂兴味盎然……动机不明。",
+        "altDescriptions": {
+          "Array": [
+            "A demon commonly referred to as “the Empress of Discord”. She is the Lord of the Sixth Circle of Hell who has taken a human form on the Mortal Plan. She posses quite a sadistic nature."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Eris Illmater Variant.prefab",
+        "occupation": "学生",
+        "age": "16",
+        "arcaneArt": "Illusion",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Eris.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.79593945,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Jolene McCoy",
+        "displayName": "朱莲尼·麦考伊",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Jolene.png",
+        "description": "塞莱斯特的养母，弗林哈特·麦考伊的遗孀。她祈祷着家庭的平安美满，但她最终还是没能平息弗林哈特对于贵族和国王的怨恨。",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Jolene McCoy Variant.prefab",
+        "occupation": "无业",
+        "age": "46",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.66,
+          "g": 0.54545456,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Flinhart McCoy",
+        "displayName": "弗林哈特·麦考伊",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Flinhart.png",
+        "description": "曾经的酒吧老板，现在已经成为了革命的一员。声讨对维文加德国王的不满而被世人所熟知。他对贵族以及能使用魔法的魔法使深恶痛疾。",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Flinhart McCoy Variant.prefab",
+        "occupation": "无业",
+        "age": "52",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.33,
+          "g": 0.2733728,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Garrick Pierce",
+        "displayName": "加里克·皮尔斯",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Garrick.png",
+        "description": "统治着科尔哈文的狂妄贵族领主。他比谁都盼望着这场审判能早些结案。但提利昂<i>可不会</i>让他如愿。",
+        "altDescriptions": {
+          "Array": [
+            "After being indicted and convicted for the murder of Flinhart McCoy, Pierce now awaits public execution, as per Wyverngarde’s laws. However, he seems to be desperate to avoid that outcome."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Garrick Pierce Variant.prefab",
+        "occupation": "贵族",
+        "age": "38",
+        "arcaneArt": "形变",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Garrick.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.5896226,
+          "g": 1.0,
+          "b": 0.9955206,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Orym White",
+        "displayName": "奥蒙·怀特",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Orym.png",
+        "description": "不耐烦又有点愤世嫉俗的奥术裁判所指挥官。除开他对魔法使和贵族的偏见，他还算是个务实严肃的人。",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Orym White Variant.prefab",
+        "occupation": "骑士",
+        "age": "64",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Orym.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.475,
+          "g": 0.30820602,
+          "b": 0.12444998,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Rhys Rudolf",
+        "displayName": "瑞斯·雷吉纳德·鲁道夫",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Rhys.png",
+        "description": "服侍贵族的忠诚仆从。他貌似有着异常清晰的记忆力。",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Rhys Rudolf Variant.prefab",
+        "occupation": "仆从",
+        "age": "34",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Rudolf.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.55,
+          "g": 0.55,
+          "b": 0.55,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "TRhys",
+        "displayName": "提利昂·卡斯伯特",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Rhys Rudolf Variant.prefab",
+        "occupation": "辩护律师",
+        "age": "20",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.55,
+          "g": 0.55,
+          "b": 0.55,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Ruby Tymora",
+        "displayName": "鲁比·泰摩拉",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Ruby.png",
+        "description": "臭名昭著的为平民出身的魔法使所进行辩护的律师。她痛恨贵族。与此同时，她一直身处伪造证据、贿赂、勒索等谣言的中心。",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Ruby Tymora Variant.prefab",
+        "occupation": "律师",
+        "age": "46",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Child",
+        "displayName": "孩童",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Child NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Knight",
+        "displayName": "骑士",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Knight NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Merchant",
+        "displayName": "商人",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Merchant NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Nobleman",
+        "displayName": "贵族",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Nobleman NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Executor",
+        "displayName": "遗嘱执行人",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Nobleman NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Noblewoman",
+        "displayName": "贵族",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Noblewoman NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Arcane Construct",
+        "displayName": "奥术铸体",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/NPCs/Construct NPC Variant.prefab",
+        "occupation": "???",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Construct.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 0.0
+        }
+      },
+      {
+        "name": "Catherine Bellwether",
+        "displayName": "凯瑟琳·贝尔维瑟",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Catherine.png",
+        "description": "帝国学院的教授，性格粗暴。看起来很鄙视你们一行人<i>和</i> 沃勒斯。",
+        "altDescriptions": {
+          "Array": [
+            "A professor at the Imperial Academy who clearly had an abrasive personality. She seems to have had quite the disdain for your party <i>and</i> Wallace Chillgrave."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Catherine Variant.prefab",
+        "occupation": "教授",
+        "age": "34",
+        "arcaneArt": "幻象",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.5,
+          "b": 0.8784313,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Jan Hughes",
+        "displayName": "简·休斯",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Jan.png",
+        "description": "看起来无所事事的管理人。但他既然能工作<i>这么久</i>，一定很能干吧。",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Jan Hughes Variant.prefab",
+        "occupation": "管理人",
+        "age": "36",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Jan.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.101960786,
+          "g": 0.4,
+          "b": 0.43529412,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Miriam Frega",
+        "displayName": "米莉亚姆·弗雷加",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Mirriam.png",
+        "description": "维文加德帝国学院的学生，享有盛誉的弗雷加家族一员。自视甚高，甚至到了傲慢的程度。看起来不好应对……",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Miriam Frega Variant.prefab",
+        "occupation": "学生",
+        "age": "17",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Miriam.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.23921569,
+          "g": 0.91764706,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Valentina Ianus",
+        "displayName": "瓦伦蒂娜·伊努斯",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Valentina.png",
+        "description": "帝国学院厨房的工作人员之一。瓦莱丽的同胞姐妹，看起来一模一样。",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Valentina Ianus Variant.prefab",
+        "occupation": "厨房工作人员",
+        "age": "19",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Valentina.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.93333334,
+          "g": 0.6431373,
+          "b": 0.39215687,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Valerie Ianus",
+        "displayName": "瓦莱丽·伊努斯",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Valerie.png",
+        "description": "帝国学院厨房的工作人员之一。瓦伦蒂娜的同胞姐妹，看起来一模一样。",
+        "altDescriptions": {
+          "Array": [
+            "A member of the kitchen staff at the Imperial Academy. She’s an identical twin to her sister Valentina. They both physically look the same.\n\nShe's secretly been hiding the fact that she's a mage. This is illegal under the laws of Wyverngarde."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Valerie Ianus.prefab",
+        "occupation": "厨房工作人员",
+        "age": "19",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Valentina.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.93333334,
+          "g": 0.6431373,
+          "b": 0.39215687,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Theodore Redmond",
+        "displayName": "西奥多·雷德蒙",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Theodore.png",
+        "description": "帝国学院校长。已经在位数十年。\n\n对平民法师态度和善，允许他们免费入学。但贵族和支持者对他的做法并不认同。",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Theodore Redmond Variant.prefab",
+        "occupation": "校长",
+        "age": "88",
+        "arcaneArt": "Illusion",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Theodore.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.43529412,
+          "g": 0.27450982,
+          "b": 0.101960786,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Wallace Chillgrave",
+        "displayName": "华莱士·奈特格雷夫",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Wallace.png",
+        "description": "帝国学院的学生。一直处于紧张不安的状态……",
+        "altDescriptions": {
+          "Array": [
+            "A former student at the Imperial Academy. He was expelled for studying high-level necromancy. But since then, the necromancer Lazarick Asclepius has taken him as his ward."
+          ]
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Wallace Chillgrave Variant.prefab",
+        "occupation": "学生",
+        "age": "16",
+        "arcaneArt": "死灵术",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.4627451,
+          "g": 0.5019608,
+          "b": 0.69803923,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Justin Waye",
+        "displayName": "贾斯汀·维耶",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "炼油厂工人",
+        "age": "22",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.99215686,
+          "b": 0.8980392,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Aster de Wyverngarde",
+        "displayName": "阿斯特·维文加德",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Aster.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Aster Wyverngarde Variant.prefab",
+        "occupation": "王子",
+        "age": "26",
+        "arcaneArt": "祈祷",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Aster.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.99215686,
+          "b": 0.8980392,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Gavin Cromwell",
+        "displayName": "加文·克莱伦",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Gavin.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Gavin Cromwell Variant.prefab",
+        "occupation": "None",
+        "age": "16",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.99215686,
+          "b": 0.8980392,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Lloyd von Sanctus",
+        "displayName": "洛伊德·冯·桑克图斯",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Lloyd.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Lloyd von Sanctus Variant.prefab",
+        "occupation": "贵族",
+        "age": "45",
+        "arcaneArt": "Abjuration",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Lloyd.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.5424528,
+          "g": 0.9835751,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Mosourika Tudor",
+        "displayName": "莫苏里卡·都铎",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Mosourika.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Mosourika Tudor Variant.prefab",
+        "occupation": "商人",
+        "age": "19",
+        "arcaneArt": "Evocation",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Mosourika.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.9575472,
+          "b": 0.4481132,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Noah Morrison",
+        "displayName": "诺亚·莫里森",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Noah.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Noah Morrison Variant.prefab",
+        "occupation": "港务长",
+        "age": "64",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Noah.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.4716981,
+          "b": 0.2944728,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Stefanic Dracogen",
+        "displayName": "斯蒂芬尼克·德拉科根",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Stefanic.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Stefanic Dracogen Variant.prefab",
+        "occupation": "公会长",
+        "age": "70",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.7169812,
+          "g": 0.26429895,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Wyatt Miller",
+        "displayName": "怀亚特·埃内尔",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 3/Wyatt.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Wyatt Miller Variant.prefab",
+        "occupation": "None",
+        "age": "17",
+        "arcaneArt": "None",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.70352554,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Beatrice Frega",
+        "displayName": "比亚特丽丝·弗雷加",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Beatrice.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Beatrice Frega Variant.prefab",
+        "occupation": "无业",
+        "age": "23",
+        "arcaneArt": "幻象",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Beatrice.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.23921567,
+          "g": 0.48299637,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Marrunath",
+        "displayName": "马鲁纳斯",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Marrunath.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Marrunath Variant.prefab",
+        "occupation": "恶魔使魔",
+        "age": "???",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Marrunath.png",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.19257641,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "MBeatrice",
+        "displayName": "比亚特丽丝·芙蕾嘉",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Marrunath.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Beatrice and Marrunath.prefab",
+        "occupation": "无业",
+        "age": "23",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Beatrice and Marrunath.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "Marrunath",
+        "colour": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.19257641,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "William Frega",
+        "displayName": "威廉·弗雷加",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Wilfred.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Wilfred Frega Variant.prefab",
+        "occupation": "贵族",
+        "age": "62",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.3195877,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Alaric de Wyverngarde",
+        "displayName": "阿拉里克·维文加德",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Aleric.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Aleric de Wyverngade.prefab",
+        "occupation": "王子",
+        "age": "7",
+        "arcaneArt": "召唤",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Alaric.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Liafal Frega",
+        "displayName": "拉菲·弗雷加",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Liafal.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Liafall Frega Variant.prefab",
+        "occupation": "贵族",
+        "age": "18",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Liafal.png",
+        "voiceHigh": 1,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.4803925,
+          "g": 1.0,
+          "b": 0.254902,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Tracker",
+        "displayName": "追迹者",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Cormac.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Cormac Variant.prefab",
+        "occupation": "狗",
+        "age": "3",
+        "arcaneArt": "Conjuration",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Lazarick Asclepius",
+        "displayName": "拉扎瑞克·阿斯克勒庇俄斯",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Lazarick.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Lazar Asclepius Variant.prefab",
+        "occupation": "贵族",
+        "age": "27",
+        "arcaneArt": "Necromancy",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.319,
+          "b": 0.30356455,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Lucio Steelwind",
+        "displayName": "卢西奥·斯蒂尔文德",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Lucio.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Lucio Steelwind Variant.prefab",
+        "occupation": "大将军",
+        "age": "76",
+        "arcaneArt": "Evocation",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.0,
+          "g": 0.24446917,
+          "b": 0.5283019,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Eyetaker",
+        "displayName": "夺眼者",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Eyetaker.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Eyetaker Variant.prefab",
+        "occupation": "老板",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.39,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Remus",
+        "displayName": "雷穆斯·维吉莱",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Rathyn.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Rathazure de Wyverngarde Variant.prefab",
+        "occupation": "皇家顾问",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Remus.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.9698839,
+          "b": 0.6084906,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Rath",
+        "displayName": "鳞甲领主拉萨利昂",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Rathallion.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Dragon Variant.prefab",
+        "occupation": "鳞甲领主",
+        "age": "1203",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.9698839,
+          "b": 0.6084906,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "RathIntro",
+        "displayName": "鳞甲领主拉萨利昂",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Rathallion.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Rathallion.prefab",
+        "occupation": "鳞甲领主",
+        "age": "1203",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.67290825,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Harold Haroldson",
+        "displayName": "哈罗德·哈罗德森",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Harold.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Harold Haroldson Variant.prefab",
+        "occupation": "历史学家",
+        "age": "???",
+        "arcaneArt": "Transmutation",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Harold.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.9322865,
+          "b": 0.6367924,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Eugene Haroldson",
+        "displayName": "尤金·哈罗德森",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 4/Eugene.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Eugene Haroldson Variant.prefab",
+        "occupation": "猴子",
+        "age": "20",
+        "arcaneArt": "Transmutation",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Eugene.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.3901304,
+          "b": 0.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Coraline Sibyl",
+        "displayName": "卡洛琳·希比尔",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Coraline.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Cora Sibyl Variant.prefab",
+        "occupation": "贵族",
+        "age": "38",
+        "arcaneArt": "占卜术",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.9272408,
+          "g": 0.5235849,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Theon Archeus",
+        "displayName": "希恩·阿契厄斯",
+        "iconPath": "Assets/Visuals/Resources/Character Icons/Case 5/Theon.png",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "Assets/Prefabs/Resources/Characters/Theon Arkrius Variant.prefab",
+        "occupation": "议长",
+        "age": "81",
+        "arcaneArt": "None",
+        "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Theon.png",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 1.0,
+          "g": 0.9450925,
+          "b": 0.6556604,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "FEris",
+        "displayName": "无序女皇",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "第六层领主",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.49297905,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Miles Varyn kal Galad",
+        "displayName": "迈尔斯·瓦林·卡尔·加拉德",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "哨兵长",
+        "age": "27",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 0,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.49297905,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Illia Stormwake",
+        "displayName": "伊利亚·斯托姆维克",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "最高审判官",
+        "age": "23",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.49297905,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "name": "Asmodeus",
+        "displayName": "阿斯摩蒂斯",
+        "iconPath": "",
+        "description": "",
+        "altDescriptions": {
+          "Array": []
+        },
+        "prefab": "",
+        "occupation": "恶魔之王",
+        "age": "???",
+        "arcaneArt": "???",
+        "witnessImg": "",
+        "voiceHigh": 0,
+        "demonVoice": 1,
+        "duoPartnerName": "",
+        "colour": {
+          "r": 0.49297905,
+          "g": 0.0,
+          "b": 1.0,
+          "a": 1.0
+        }
+      }
+    ]
+  }
+}

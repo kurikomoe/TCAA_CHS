@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Lazarick Asclepius-displayName",
+    "original": "Lazarick Asclepius",
+    "translation": "拉扎瑞克·阿斯克勒庇俄斯",
+    "stage": 1,
+    "context": "{\"Name\": \"Lazarick Asclepius\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Lazarick Asclepius-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Lazarick Asclepius\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Lazarick Asclepius-occupation",
+    "original": "Nobleman",
+    "translation": "贵族",
+    "stage": 1,
+    "context": "{\"Name\": \"Lazarick Asclepius\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Lazarick Asclepius-arcaneArt",
+    "original": "Necromancy",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Lazarick Asclepius\", \"Attr\": \"arcaneArt\"}"
+  }
+]

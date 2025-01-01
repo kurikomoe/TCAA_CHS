@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-1-Conjure Light-displayName",
+    "original": "Conjure Light",
+    "translation": "祈愿光芒",
+    "stage": 1,
+    "context": "{\"Name\": \"Conjure Light\", \"Idx\": 1, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-1-Conjure Light-description",
+    "original": "For the duration of this spell, a mote of magical light appears in the caster’s hand. The colour of the light is chosen by the caster and can be changed at will for the spell's duration. This mote of light provides illumination up to 15ft of the caster (and no further).",
+    "translation": "此法术生效时，一些细小的魔法粉尘从施法者手上出现，光的颜色由施法者决定，并可以在生效期间任意改变。这些细小的魔法粉尘提供以施法者为中心最大15立方英尺的光照范围（无法照亮15英尺外的事物）。",
+    "stage": 1,
+    "context": "{\"Name\": \"Conjure Light\", \"Idx\": 1, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-1-Conjure Light-incantation",
+    "original": "\"Lux-o\"",
+    "translation": "\"Lux-o\"",
+    "stage": 1,
+    "context": "{\"Name\": \"Conjure Light\", \"Idx\": 1, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-1-Conjure Light-gesture",
+    "original": "None",
+    "translation": "无",
+    "stage": 1,
+    "context": "{\"Name\": \"Conjure Light\", \"Idx\": 1, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-1-Conjure Light-duration",
+    "original": "1 hour",
+    "translation": "1小时",
+    "stage": 1,
+    "context": "{\"Name\": \"Conjure Light\", \"Idx\": 1, \"Attr\": \"duration\"}"
+  }
+]

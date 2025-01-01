@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-27-Fire Bolt-displayName",
+    "original": "Fire Bolt",
+    "translation": "火焰箭",
+    "stage": 1,
+    "context": "{\"Name\": \"Fire Bolt\", \"Idx\": 27, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-27-Fire Bolt-description",
+    "original": "The caster launches a fiery projectile that’s hot enough to inflict third-degree burns. This projectile can travel 120ft without collision before its magic dissipates. Once it collides with something, it will set the object ablaze if it’s flammable.",
+    "translation": "施法者射出足以造成三级烧伤的火焰箭。在无冲撞前提下，火焰箭魔力耗尽前可以飞行120英尺。如果可燃，被冲撞物就会起火。",
+    "stage": 1,
+    "context": "{\"Name\": \"Fire Bolt\", \"Idx\": 27, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-27-Fire Bolt-incantation",
+    "original": "\"Bol-to\"",
+    "translation": "\"Bol-to\"",
+    "stage": 1,
+    "context": "{\"Name\": \"Fire Bolt\", \"Idx\": 27, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-27-Fire Bolt-gesture",
+    "original": "Point index finger at the target",
+    "translation": "将食指指向目标",
+    "stage": 1,
+    "context": "{\"Name\": \"Fire Bolt\", \"Idx\": 27, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-27-Fire Bolt-duration",
+    "original": "Instant",
+    "translation": "瞬间",
+    "stage": 1,
+    "context": "{\"Name\": \"Fire Bolt\", \"Idx\": 27, \"Attr\": \"duration\"}"
+  }
+]

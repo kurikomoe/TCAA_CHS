@@ -1,0 +1,14 @@
+[
+  {
+    "key": "Item-Case 3-6-Transmutation Traces-displayName",
+    "original": "Transmutation in the Refinery",
+    "translation": null,
+    "context": "{\"Name\": \"Transmutation Traces\", \"Idx\": 6, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 3-6-Transmutation Traces-description",
+    "original": "There are magical traces of <i>transmutation</i> on the guard rail that Justin supposedly broke before falling. These traces are <i>only</i> on the rails that Justin broke. They aren't anywhere else on the walkway…\r\n\r\nA mage must have sabotaged the guard rail within the last 48 hours. They clearly intended for someone to break the rail and fall into the vat. \r\nTraces of <b>transmutation</b> were also found in several locations in the refinery. Every place where these traces were located, the surrounding machines and vats were rusted.\r",
+    "translation": null,
+    "context": "{\"Name\": \"Transmutation Traces\", \"Idx\": 6, \"Attr\": \"description\"}"
+  }
+]

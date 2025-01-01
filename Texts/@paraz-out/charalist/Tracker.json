@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Tracker-displayName",
+    "original": "Tracker",
+    "translation": "追迹者",
+    "stage": 1,
+    "context": "{\"Name\": \"Tracker\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Tracker-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Tracker\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Tracker-occupation",
+    "original": "Dog",
+    "translation": "狗",
+    "stage": 1,
+    "context": "{\"Name\": \"Tracker\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Tracker-arcaneArt",
+    "original": "Conjuration",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Tracker\", \"Attr\": \"arcaneArt\"}"
+  }
+]

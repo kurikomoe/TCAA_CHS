@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-3-Celeste's Sword-displayName",
+    "original": "Celeste's Sword",
+    "translation": "塞莱斯特的剑",
+    "stage": 1,
+    "context": "{\"Name\": \"Celeste's Sword\", \"Idx\": 3, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-3-Celeste's Sword-description",
+    "original": "The alleged murder weapon. It's an ornately designed sword, but it has no magical properties.",
+    "translation": "控方声称的凶器，这是一把设计精美的剑，没有任何的魔法属性。",
+    "stage": 1,
+    "context": "{\"Name\": \"Celeste's Sword\", \"Idx\": 3, \"Attr\": \"description\"}"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-15-Feign Death-displayName",
+    "original": "Feign Death",
+    "translation": "假死",
+    "stage": 1,
+    "context": "{\"Name\": \"Feign Death\", \"Idx\": 15, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-15-Feign Death-description",
+    "original": "The caster must target a creature that’s already unconscious. While they concentrate on this spell, the target will appear to be dead. The target creature will stop breathing and their heart will stop beating. However, the life energies of this spell will keep them alive for the duration.",
+    "translation": "施法者只能对已经失去意识的生物施法。集中注意力施法时，目标看起来会像是已经死去。目标生物会停止呼吸，心脏停止跳动。法术内含的生命力会保持目标生物不死。",
+    "stage": 1,
+    "context": "{\"Name\": \"Feign Death\", \"Idx\": 15, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-15-Feign Death-incantation",
+    "original": "\"Fal-nor-ma\"",
+    "translation": "\"Fal-nor-ma\"",
+    "stage": 1,
+    "context": "{\"Name\": \"Feign Death\", \"Idx\": 15, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-15-Feign Death-gesture",
+    "original": "None",
+    "translation": "无",
+    "stage": 1,
+    "context": "{\"Name\": \"Feign Death\", \"Idx\": 15, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-15-Feign Death-duration",
+    "original": "Indefinitely",
+    "translation": "无限期",
+    "stage": 1,
+    "context": "{\"Name\": \"Feign Death\", \"Idx\": 15, \"Attr\": \"duration\"}"
+  }
+]

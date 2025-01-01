@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-5-Shape Liquid-displayName",
+    "original": "Shape Liquid",
+    "translation": null,
+    "context": "{\"Name\": \"Shape Liquid\", \"Idx\": 5, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-5-Shape Liquid-description",
+    "original": "While concentrating on this spell, the caster can magically manipulate up to 10L of liquid and form it into complex shapes. At any time, the caster can choose to freeze the liquid and solidify its current shape. While frozen, the caster can also choose to make the liquid instantaneously melt.",
+    "translation": null,
+    "context": "{\"Name\": \"Shape Liquid\", \"Idx\": 5, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-5-Shape Liquid-incantation",
+    "original": "Fig-aq-u-a",
+    "translation": null,
+    "context": "{\"Name\": \"Shape Liquid\", \"Idx\": 5, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-5-Shape Liquid-gesture",
+    "original": "Point index finger at the target",
+    "translation": null,
+    "context": "{\"Name\": \"Shape Liquid\", \"Idx\": 5, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-5-Shape Liquid-duration",
+    "original": "Indefinitely",
+    "translation": null,
+    "context": "{\"Name\": \"Shape Liquid\", \"Idx\": 5, \"Attr\": \"duration\"}"
+  }
+]

@@ -1,0 +1,680 @@
+[
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument3-10-0",
+    "original": "I was not involved in this!",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I was not involved in this!\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I was not involved in this!\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I was not involved in this!\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-6-0",
+    "original": "What did Tracker hear when he woke up?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What did Tracker hear when he woke up?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What did Tracker hear when he woke up?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What did Tracker hear when he woke up?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-9-0",
+    "original": "Tracker,Beatrice,Harold,The thief",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Tracker,Beatrice,Harold,The thief\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Tracker,Beatrice,Harold,The thief\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Tracker,Beatrice,Harold,The thief\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-10-0",
+    "original": "heard,saw,hid,caused",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"heard,saw,hid,caused\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"heard,saw,hid,caused\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"heard,saw,hid,caused\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-11-0",
+    "original": "rats running,the lockdown,glass shattering,a dog barking",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"rats running,the lockdown,glass shattering,a dog barking\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"rats running,the lockdown,glass shattering,a dog barking\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"rats running,the lockdown,glass shattering,a dog barking\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-12-0",
+    "original": "in the vents,during the Lords' Ball,from the gallery,in William's Study",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"in the vents,during the Lords\\\\' Ball,from the gallery,in William\\\\'s Study\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"in the vents,during the Lords\\\\' Ball,from the gallery,in William\\\\'s Study\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"in the vents,during the Lords' Ball,from the gallery,in William's Study\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-13-0",
+    "original": "What did Tracker hear when he woke up?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What did Tracker hear when he woke up?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What did Tracker hear when he woke up?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What did Tracker hear when he woke up?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-16-0",
+    "original": "How did the Sword of Spell Eating end up in that hallway?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did the Sword of Spell Eating end up in that hallway?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did the Sword of Spell Eating end up in that hallway?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How did the Sword of Spell Eating end up in that hallway?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-19-0",
+    "original": "The thief,Beatrice,Eugene,Tracker",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The thief,Beatrice,Eugene,Tracker\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The thief,Beatrice,Eugene,Tracker\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The thief,Beatrice,Eugene,Tracker\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-20-0",
+    "original": "dropped,hid,stole,nullified",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"dropped,hid,stole,nullified\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"dropped,hid,stole,nullified\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"dropped,hid,stole,nullified\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-21-0",
+    "original": "the Sword,the drafted will,the Armbands,the Anti-Magic Field",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the Sword,the drafted will,the Armbands,the Anti-Magic Field\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the Sword,the drafted will,the Armbands,the Anti-Magic Field\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the Sword,the drafted will,the Armbands,the Anti-Magic Field\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-22-0",
+    "original": "in the hallway,from the gallery,in William's Study,in the Ballroom",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"in the hallway,from the gallery,in William\\\\'s Study,in the Ballroom\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"in the hallway,from the gallery,in William\\\\'s Study,in the Ballroom\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"in the hallway,from the gallery,in William's Study,in the Ballroom\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-23-0",
+    "original": "How did the Sword of Spell Eating end up in that hallway?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How did the Sword of Spell Eating end up in that hallway?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did the Sword of Spell Eating end up in that hallway?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How did the Sword of Spell Eating end up in that hallway?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-4-0",
+    "original": "What is unique about Beatrice's relationship with Marrunath?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14b\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What is unique about Beatrice\\\\'s relationship with Marrunath?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What is unique about Beatrice\\\\'s relationship with Marrunath?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What is unique about Beatrice's relationship with Marrunath?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-7-0",
+    "original": "Their connection,Their crimes,Their mutual allies,Their evidence",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14b\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Their connection,Their crimes,Their mutual allies,Their evidence\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Their connection,Their crimes,Their mutual allies,Their evidence\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Their connection,Their crimes,Their mutual allies,Their evidence\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-8-0",
+    "original": "is facilitated through,were committed by,were hidden by,were killed by",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14b\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"is facilitated through,were committed by,were hidden by,were killed by\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"is facilitated through,were committed by,were hidden by,were killed by\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"is facilitated through,were committed by,were hidden by,were killed by\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-9-0",
+    "original": "a Pact,a weapon,an artifact,a spell",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14b\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"a Pact,a weapon,an artifact,a spell\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"a Pact,a weapon,an artifact,a spell\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"a Pact,a weapon,an artifact,a spell\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-10-0",
+    "original": "What is unique about Beatrice's relationship with Marrunath?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14b\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What is unique about Beatrice\\\\'s relationship with Marrunath?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What is unique about Beatrice\\\\'s relationship with Marrunath?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What is unique about Beatrice's relationship with Marrunath?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-16-0",
+    "original": "Where did the murder weapon come from?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Where did the murder weapon come from?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Where did the murder weapon come from?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Where did the murder weapon come from?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-20-0",
+    "original": "The murderer,Jan,Laefe,Lord Frega",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The murderer,Jan,Laefe,Lord Frega\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The murderer,Jan,Laefe,Lord Frega\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The murderer,Jan,Laefe,Lord Frega\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-21-0",
+    "original": "took,hid,destroyed,heard",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"took,hid,destroyed,heard\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"took,hid,destroyed,heard\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"took,hid,destroyed,heard\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-22-0",
+    "original": "the murder weapon,the murder,the altercation,the artifact",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the murder weapon,the murder,the altercation,the artifact\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the murder weapon,the murder,the altercation,the artifact\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the murder weapon,the murder,the altercation,the artifact\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-23-0",
+    "original": "in Frega's Study,outside the manor,in Beatrice's room,in the storage room",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"in Frega\\\\'s Study,outside the manor,in Beatrice\\\\'s room,in the storage room\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"in Frega\\\\'s Study,outside the manor,in Beatrice\\\\'s room,in the storage room\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"in Frega's Study,outside the manor,in Beatrice's room,in the storage room\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-24-0",
+    "original": "Where did the murder weapon come from?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Where did the murder weapon come from?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Where did the murder weapon come from?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Where did the murder weapon come from?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-3-0",
+    "original": "How do you prove that Beatrice ordered Marrunath?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How do you prove that Beatrice ordered Marrunath?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How do you prove that Beatrice ordered Marrunath?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How do you prove that Beatrice ordered Marrunath?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-6-0",
+    "original": "Use physical evidence,Use testimony,Use deduction,Tell a lie",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Use physical evidence,Use testimony,Use deduction,Tell a lie\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Use physical evidence,Use testimony,Use deduction,Tell a lie\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Use physical evidence,Use testimony,Use deduction,Tell a lie\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-7-0",
+    "original": "that connects,that kills,that acquits,that separates",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"that connects,that kills,that acquits,that separates\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"that connects,that kills,that acquits,that separates\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"that connects,that kills,that acquits,that separates\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-8-0",
+    "original": "Beatrice,Laefe,Tyrion,Harold",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"Beatrice,Laefe,Tyrion,Harold\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"Beatrice,Laefe,Tyrion,Harold\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"Beatrice,Laefe,Tyrion,Harold\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-9-0",
+    "original": "and Marrunath,and Tracker,and Eugene,and Ruby",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"and Marrunath,and Tracker,and Eugene,and Ruby\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"and Marrunath,and Tracker,and Eugene,and Ruby\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"and Marrunath,and Tracker,and Eugene,and Ruby\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-10-0",
+    "original": "How do you prove that Beatrice ordered Marrunath?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How do you prove that Beatrice ordered Marrunath?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How do you prove that Beatrice ordered Marrunath?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How do you prove that Beatrice ordered Marrunath?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument7-2-0",
+    "original": "I can't trust you.",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I can\\\\'t trust you.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I can\\\\'t trust you.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I can't trust you.\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Start4-5-0",
+    "original": "Episode IV/nSevered Ties",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Start4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"TitleCard \\\\\\\"Episode IV/nSevered Ties\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode IV/nSevered Ties\\\\\\\"\\\"\\n\", \"cmd\": [\"TitleCard\", \"Episode IV/nSevered Ties\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-7-0",
+    "original": "What is flawed with the prosecution's case?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What is flawed with the prosecution\\\\'s case?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What is flawed with the prosecution\\\\'s case?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What is flawed with the prosecution's case?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-9-0",
+    "original": "Beatrice Frega,William Frega,Laefe Frega,Aria Steelwind",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Beatrice Frega,William Frega,Laefe Frega,Aria Steelwind\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Beatrice Frega,William Frega,Laefe Frega,Aria Steelwind\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Beatrice Frega,William Frega,Laefe Frega,Aria Steelwind\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-10-0",
+    "original": "is completely,is partially,is not,is secretly",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"is completely,is partially,is not,is secretly\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"is completely,is partially,is not,is secretly\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"is completely,is partially,is not,is secretly\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-11-0",
+    "original": "blind,a noble,wealthy,a mystery",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"blind,a noble,wealthy,a mystery\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"blind,a noble,wealthy,a mystery\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"blind,a noble,wealthy,a mystery\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-12-0",
+    "original": "What is flawed with the prosecution's case?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What is flawed with the prosecution\\\\'s case?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What is flawed with the prosecution\\\\'s case?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What is flawed with the prosecution's case?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14d-2-0",
+    "original": "Who told you something about demonic pacts?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14d\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Who told you something about demonic pacts?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who told you something about demonic pacts?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Who told you something about demonic pacts?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LialfalArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LialfalArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-7-0",
+    "original": "Start an ARGUMENT with Laefe Frega?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Laefe Frega?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Laefe Frega?\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Laefe Frega?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-10-0",
+    "original": "Start an ARGUMENT with Laefe Frega?/nYou haven't completed her PSYCHOLOGICAL PROFILE.",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Laefe Frega?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Laefe Frega?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Laefe Frega?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-34-0",
+    "original": "You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"LoadArgueProfile \\\\\\\"You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"LoadArgueProfile \\\\\\\"You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.\\\\\\\"\\\"\\n\", \"cmd\": [\"LoadArgueProfile\", \"You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-42-0",
+    "original": "I have no idea what my father was doing.",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I have no idea what my father was doing.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I have no idea what my father was doing.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I have no idea what my father was doing.\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-End8-28-0",
+    "original": "Episode End",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"End8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"TitleCard \\\\\\\"Episode End\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode End\\\\\\\"\\\"\\n\", \"cmd\": [\"TitleCard\", \"Episode End\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-7-0",
+    "original": "When did the murder occur?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"When did the murder occur?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"When did the murder occur?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"When did the murder occur?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-12-0",
+    "original": "The murder,The theft,The arrest,The Lords' Ball",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The murder,The theft,The arrest,The Lords\\\\' Ball\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The murder,The theft,The arrest,The Lords\\\\' Ball\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The murder,The theft,The arrest,The Lords' Ball\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-13-0",
+    "original": "occurred during,caused,occurred before,occurred after",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"occurred during,caused,occurred before,occurred after\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"occurred during,caused,occurred before,occurred after\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"occurred during,caused,occurred before,occurred after\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-14-0",
+    "original": "the lockdown,Beatrice's departure,The Sword was found,last night",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the lockdown,Beatrice\\\\'s departure,The Sword was found,last night\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the lockdown,Beatrice\\\\'s departure,The Sword was found,last night\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the lockdown,Beatrice's departure,The Sword was found,last night\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-15-0",
+    "original": "When did the murder occur?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"When did the murder occur?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"When did the murder occur?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"When did the murder occur?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj15-30-0",
+    "original": "What did Beatrice use to commit the murder?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj15\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"What did Beatrice use to commit the murder?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"What did Beatrice use to commit the murder?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"What did Beatrice use to commit the murder?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-4-0",
+    "original": "Why wouldn't Marrunath simply lie?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why wouldn\\\\'t Marrunath simply lie?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why wouldn\\\\'t Marrunath simply lie?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why wouldn't Marrunath simply lie?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-8-0",
+    "original": "Demons,Humans,Dragons,Mages",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Demons,Humans,Dragons,Mages\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Demons,Humans,Dragons,Mages\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Demons,Humans,Dragons,Mages\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-9-0",
+    "original": "are not able to,are able to,are not able to,are able to",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"are not able to,are able to,are not able to,are able to\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"are not able to,are able to,are not able to,are able to\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"are not able to,are able to,are not able to,are able to\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-10-0",
+    "original": "lie,use magic,murder,steal",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"lie,use magic,murder,steal\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"lie,use magic,murder,steal\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"lie,use magic,murder,steal\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-11-0",
+    "original": "Why wouldn't Marrunath simply lie?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why wouldn\\\\'t Marrunath simply lie?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why wouldn\\\\'t Marrunath simply lie?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why wouldn't Marrunath simply lie?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered_Fail-3-0",
+    "original": "You lost the argument...",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered-7-0",
+    "original": "I didn't bring anything dangerous into Frega Manor.",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I didn\\\\'t bring anything dangerous into Frega Manor.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I didn\\\\'t bring anything dangerous into Frega Manor.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I didn't bring anything dangerous into Frega Manor.\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-18-0",
+    "original": "Why didn't Laefe answer Tracker's message?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t Laefe answer Tracker\\\\'s message?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t Laefe answer Tracker\\\\'s message?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why didn't Laefe answer Tracker's message?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-22-0",
+    "original": "The Familial Bond,Beatrice,Tracker,Laefe",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The Familial Bond,Beatrice,Tracker,Laefe\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The Familial Bond,Beatrice,Tracker,Laefe\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The Familial Bond,Beatrice,Tracker,Laefe\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-23-0",
+    "original": "was nullified,was distracted,was ignored,was created",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"was nullified,was distracted,was ignored,was created\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"was nullified,was distracted,was ignored,was created\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"was nullified,was distracted,was ignored,was created\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-24-0",
+    "original": "by Anti-Magic Field,by Beatrice,by Laefe,by the Inquisition",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"by Anti-Magic Field,by Beatrice,by Laefe,by the Inquisition\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"by Anti-Magic Field,by Beatrice,by Laefe,by the Inquisition\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"by Anti-Magic Field,by Beatrice,by Laefe,by the Inquisition\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-25-0",
+    "original": "Why didn't Laefe answer Tracker's message?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t Laefe answer Tracker\\\\'s message?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t Laefe answer Tracker\\\\'s message?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why didn't Laefe answer Tracker's message?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-13-0",
+    "original": "Why did Tracker finally hear Laefe?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why did Tracker finally hear Laefe?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why did Tracker finally hear Laefe?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why did Tracker finally hear Laefe?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-17-0",
+    "original": "The stick,The sword,The weapon,The will",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The stick,The sword,The weapon,The will\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The stick,The sword,The weapon,The will\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The stick,The sword,The weapon,The will\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-18-0",
+    "original": "that Tracker obtained,that was stolen,that William drafted,that the killer used",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"that Tracker obtained,that was stolen,that William drafted,that the killer used\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"that Tracker obtained,that was stolen,that William drafted,that the killer used\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"that Tracker obtained,that was stolen,that William drafted,that the killer used\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-19-0",
+    "original": "was actually,was not,was actually,was not",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"was actually,was not,was actually,was not\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"was actually,was not,was actually,was not\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"was actually,was not,was actually,was not\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-20-0",
+    "original": "the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice's room",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice\\\\'s room\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice\\\\'s room\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice's room\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-21-0",
+    "original": "Why did Tracker finally hear Laefe?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why did Tracker finally hear Laefe?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why did Tracker finally hear Laefe?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why did Tracker finally hear Laefe?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered3-12-0",
+    "original": "I did not commit any crimes during the Lords' Ball.",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I did not commit any crimes during the Lords\\\\' Ball.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I did not commit any crimes during the Lords\\\\' Ball.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I did not commit any crimes during the Lords' Ball.\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-6-0",
+    "original": "Why was the thief in that hallway?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why was the thief in that hallway?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why was the thief in that hallway?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why was the thief in that hallway?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-8-0",
+    "original": "The thief,Beatrice,Eugene,Tracker",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The thief,Beatrice,Eugene,Tracker\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The thief,Beatrice,Eugene,Tracker\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The thief,Beatrice,Eugene,Tracker\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-9-0",
+    "original": "was sneaking,was walking,was breaking,was tunneling",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"was sneaking,was walking,was breaking,was tunneling\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"was sneaking,was walking,was breaking,was tunneling\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"was sneaking,was walking,was breaking,was tunneling\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-10-0",
+    "original": "through,on top of,outside of,under",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"through,on top of,outside of,under\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"through,on top of,outside of,under\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"through,on top of,outside of,under\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-11-0",
+    "original": "the air vents,William's Study,the hallway,the manor",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the air vents,William\\\\'s Study,the hallway,the manor\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the air vents,William\\\\'s Study,the hallway,the manor\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the air vents,William's Study,the hallway,the manor\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-12-0",
+    "original": "Why was the thief in that hallway?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why was the thief in that hallway?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why was the thief in that hallway?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why was the thief in that hallway?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-16-0",
+    "original": "Why is Marrunath using the term \"master\"?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why is Marrunath using the term \\\\\\\\\\\\\\\"master\\\\\\\\\\\\\\\"?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why is Marrunath using the term \\\\\\\\\\\\\\\"master\\\\\\\\\\\\\\\"?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why is Marrunath using the term \\\"master\\\"?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-19-0",
+    "original": "Beatrice,Tymora,William,Marrunath",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Beatrice,Tymora,William,Marrunath\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Beatrice,Tymora,William,Marrunath\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Beatrice,Tymora,William,Marrunath\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-20-0",
+    "original": "is not,is,is not,is",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"is not,is,is not,is\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"is not,is,is not,is\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"is not,is,is not,is\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-21-0",
+    "original": "Marrunath's,Beatrice's,Tymora's,William's",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"Marrunath\\\\'s,Beatrice\\\\'s,Tymora\\\\'s,William\\\\'s\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"Marrunath\\\\'s,Beatrice\\\\'s,Tymora\\\\'s,William\\\\'s\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"Marrunath's,Beatrice's,Tymora's,William's\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-22-0",
+    "original": "master,client,daughter,familiar",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"master,client,daughter,familiar\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"master,client,daughter,familiar\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"master,client,daughter,familiar\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-23-0",
+    "original": "Why is Marrunath using the term \"master\"?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why is Marrunath using the term \\\\\\\\\\\\\\\"master\\\\\\\\\\\\\\\"?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why is Marrunath using the term \\\\\\\\\\\\\\\"master\\\\\\\\\\\\\\\"?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why is Marrunath using the term \\\"master\\\"?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-22-0",
+    "original": "Who did Tracker see in the air vent?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Who did Tracker see in the air vent?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Who did Tracker see in the air vent?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Who did Tracker see in the air vent?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-24-0",
+    "original": "Eugene Haroldson,Another Familiar,Eugene Haroldson,Another Familiar",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Eugene Haroldson,Another Familiar,Eugene Haroldson,Another Familiar\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Eugene Haroldson,Another Familiar,Eugene Haroldson,Another Familiar\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Eugene Haroldson,Another Familiar,Eugene Haroldson,Another Familiar\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-25-0",
+    "original": "Who did Tracker see in the air vent?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Who did Tracker see in the air vent?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Who did Tracker see in the air vent?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Who did Tracker see in the air vent?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument5-1-0",
+    "original": "I was never aware of the details of my father's will.",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I was never aware of the details of my father\\\\'s will.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I was never aware of the details of my father\\\\'s will.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I was never aware of the details of my father's will.\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered5-5-0",
+    "original": "Marrunath will take the fall on Beatrice's behalf.",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Marrunath will take the fall on Beatrice\\\\'s behalf.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Marrunath will take the fall on Beatrice\\\\'s behalf.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Marrunath will take the fall on Beatrice's behalf.\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-7-0",
+    "original": "Where are the Armbands of Intellect right now?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"EugeneObj2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Where are the Armbands of Intellect right now?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Where are the Armbands of Intellect right now?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Where are the Armbands of Intellect right now?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-11-0",
+    "original": "Eugene,Beatrice,William,Tracker",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"EugeneObj2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Eugene,Beatrice,William,Tracker\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Eugene,Beatrice,William,Tracker\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Eugene,Beatrice,William,Tracker\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-12-0",
+    "original": "is wearing,found,stole,hid",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"EugeneObj2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"is wearing,found,stole,hid\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"is wearing,found,stole,hid\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"is wearing,found,stole,hid\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-13-0",
+    "original": "the Armbands,the Sword,the murder weapon,Celeste's sword",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"EugeneObj2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the Armbands,the Sword,the murder weapon,Celeste\\\\'s sword\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the Armbands,the Sword,the murder weapon,Celeste\\\\'s sword\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the Armbands,the Sword,the murder weapon,Celeste's sword\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-14-0",
+    "original": "at this moment,under Beatrice's bed,somewhere in Frega Manor,from the gallery",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"EugeneObj2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"at this moment,under Beatrice\\\\'s bed,somewhere in Frega Manor,from the gallery\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"at this moment,under Beatrice\\\\'s bed,somewhere in Frega Manor,from the gallery\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"at this moment,under Beatrice's bed,somewhere in Frega Manor,from the gallery\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-15-0",
+    "original": "Where are the Armbands of Intellect right now?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"EugeneObj2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Where are the Armbands of Intellect right now?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Where are the Armbands of Intellect right now?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Where are the Armbands of Intellect right now?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-6-0",
+    "original": "Why was Eugene in the air vents?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why was Eugene in the air vents?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why was Eugene in the air vents?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why was Eugene in the air vents?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-10-0",
+    "original": "Eugene,Tracker,Harold,Beatrice",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Eugene,Tracker,Harold,Beatrice\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Eugene,Tracker,Harold,Beatrice\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Eugene,Tracker,Harold,Beatrice\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-11-0",
+    "original": "was acting,was not acting,was acting,was not acting",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"was acting,was not acting,was acting,was not acting\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"was acting,was not acting,was acting,was not acting\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"was acting,was not acting,was acting,was not acting\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-12-0",
+    "original": "of their own free will,because of blackmail,to frame Beatrice,to frame Harold",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"of their own free will,because of blackmail,to frame Beatrice,to frame Harold\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"of their own free will,because of blackmail,to frame Beatrice,to frame Harold\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"of their own free will,because of blackmail,to frame Beatrice,to frame Harold\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-13-0",
+    "original": "Why was Eugene in the air vents?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why was Eugene in the air vents?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why was Eugene in the air vents?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why was Eugene in the air vents?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-9-0",
+    "original": "How could Eugene have carried out this plan independently?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How could Eugene have carried out this plan independently?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How could Eugene have carried out this plan independently?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How could Eugene have carried out this plan independently?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-15-0",
+    "original": "Eugene,Tracker,Harold,Beatrice",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Eugene,Tracker,Harold,Beatrice\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Eugene,Tracker,Harold,Beatrice\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Eugene,Tracker,Harold,Beatrice\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-16-0",
+    "original": "wore,stole,framed,murdered",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"wore,stole,framed,murdered\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"wore,stole,framed,murdered\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"wore,stole,framed,murdered\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-17-0",
+    "original": "the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-18-0",
+    "original": "How could Eugene have carried out this plan independently?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How could Eugene have carried out this plan independently?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How could Eugene have carried out this plan independently?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How could Eugene have carried out this plan independently?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-14-0",
+    "original": "What does this tell us about William Frega?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What does this tell us about William Frega?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What does this tell us about William Frega?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What does this tell us about William Frega?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-17-0",
+    "original": "William,Beatrice,Harold,Laefe",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"William,Beatrice,Harold,Laefe\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"William,Beatrice,Harold,Laefe\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"William,Beatrice,Harold,Laefe\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-18-0",
+    "original": "died,was arrested,planted the Sword,met Aster",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"died,was arrested,planted the Sword,met Aster\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"died,was arrested,planted the Sword,met Aster\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"died,was arrested,planted the Sword,met Aster\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-19-0",
+    "original": "before,at the moment,after",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"before,at the moment,after\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"before,at the moment,after\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"before,at the moment,after\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-20-0",
+    "original": "the lockdown activated,the body was found,the theft was reported,the lockdown was lifted",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the lockdown activated,the body was found,the theft was reported,the lockdown was lifted\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the lockdown activated,the body was found,the theft was reported,the lockdown was lifted\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the lockdown activated,the body was found,the theft was reported,the lockdown was lifted\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-21-0",
+    "original": "What does this tell us about William Frega?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What does this tell us about William Frega?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What does this tell us about William Frega?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What does this tell us about William Frega?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-3-0",
+    "original": "What do we know about the thief of the Sword of Spell Eating?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What do we know about the thief of the Sword of Spell Eating?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What do we know about the thief of the Sword of Spell Eating?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What do we know about the thief of the Sword of Spell Eating?\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-6-0",
+    "original": "The thief,Beatrice,Harold,Steelwind",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The thief,Beatrice,Harold,Steelwind\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The thief,Beatrice,Harold,Steelwind\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The thief,Beatrice,Harold,Steelwind\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-7-0",
+    "original": "is a,is not a,might be",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"is a,is not a,might be\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"is a,is not a,might be\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"is a,is not a,might be\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-8-0",
+    "original": "powerful mage,demon,noble,master rogue",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"powerful mage,demon,noble,master rogue\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"powerful mage,demon,noble,master rogue\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"powerful mage,demon,noble,master rogue\"]}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-9-0",
+    "original": "What do we know about the thief of the Sword of Spell Eating?",
+    "translation": null,
+    "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What do we know about the thief of the Sword of Spell Eating?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What do we know about the thief of the Sword of Spell Eating?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What do we know about the thief of the Sword of Spell Eating?\"]}"
+  }
+]

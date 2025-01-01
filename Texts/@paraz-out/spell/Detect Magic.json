@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-23-Detect Magic-displayName",
+    "original": "Detect Magic",
+    "translation": "法术探测",
+    "stage": 1,
+    "context": "{\"Name\": \"Detect Magic\", \"Idx\": 23, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-23-Detect Magic-description",
+    "original": "While concentrating, the caster can see the normally invisible magical traces left by magic. Magical traces are created two times when a spell is cast. The first is created at the position of the caster when the spell is cast. The second is created when the spell effect resolves or dissipates. The caster can identify the school of magic of any trace by color.\r\\n\r\\nEvocation: Red\r\\nTransmutation: Yellow\r\\nConjuration: Cyan\r\\nDivination: Pink\r\\nAbjuration: White\r\\nNecromancy: Purple\r\\nIllusion: Green\r",
+    "translation": "当注意力集中时，施放者可以看到本来不可见的魔法痕迹。魔法痕迹会在法术施放时于两处生成。第一处是施放者施放法术的位置。第二处是法术效应产生或消退的位置。法术探测的施放者可以通过每个痕迹的颜色辨认法术的类别：\\n\\n\\n\\n召唤：红色\\n\\n形变：黄色\\n\\n",
+    "stage": 2,
+    "context": "{\"Name\": \"Detect Magic\", \"Idx\": 23, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-23-Detect Magic-incantation",
+    "original": "\"Rep-er-i-o Ar-kaen-num\"",
+    "translation": "\"Rep-er-i-o Ar-kaen-num\"",
+    "stage": 1,
+    "context": "{\"Name\": \"Detect Magic\", \"Idx\": 23, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-23-Detect Magic-gesture",
+    "original": "None",
+    "translation": "无",
+    "stage": 1,
+    "context": "{\"Name\": \"Detect Magic\", \"Idx\": 23, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-23-Detect Magic-duration",
+    "original": "While concentrating",
+    "translation": "注意力集中时",
+    "stage": 1,
+    "context": "{\"Name\": \"Detect Magic\", \"Idx\": 23, \"Attr\": \"duration\"}"
+  }
+]

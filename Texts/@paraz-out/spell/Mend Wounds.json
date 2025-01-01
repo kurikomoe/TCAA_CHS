@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-6-Mend Wounds-displayName",
+    "original": "Mend Wounds",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Mend Wounds\", \"Idx\": 6, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-6-Mend Wounds-description",
+    "original": "Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Mend Wounds\", \"Idx\": 6, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-6-Mend Wounds-incantation",
+    "original": "\"Men-as\"",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Mend Wounds\", \"Idx\": 6, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-6-Mend Wounds-gesture",
+    "original": "None",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Mend Wounds\", \"Idx\": 6, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-6-Mend Wounds-duration",
+    "original": "1 minute",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Mend Wounds\", \"Idx\": 6, \"Attr\": \"duration\"}"
+  }
+]

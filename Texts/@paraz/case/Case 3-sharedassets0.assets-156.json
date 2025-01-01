@@ -1,0 +1,416 @@
+[
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-RikaObj3_1-16-0",
+    "original": "This was clearly an accident.",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"RikaObj3_1\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"This was clearly an accident.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"This was clearly an accident.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"This was clearly an accident.\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-22-0",
+    "original": "Which piece of evidence would connect the murder to von Sanctus?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"BeforeEmpEye_2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Which piece of evidence would connect the murder to von Sanctus?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Which piece of evidence would connect the murder to von Sanctus?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Which piece of evidence would connect the murder to von Sanctus?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-26-0",
+    "original": "The object,The Rod of Mending,The vat,The guard rail",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"BeforeEmpEye_2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The object,The Rod of Mending,The vat,The guard rail\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The object,The Rod of Mending,The vat,The guard rail\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The object,The Rod of Mending,The vat,The guard rail\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-27-0",
+    "original": "that,that,that",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"BeforeEmpEye_2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"that,that,that\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"that,that,that\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"that,that,that\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-28-0",
+    "original": "Lloyd von Sanctus,Justin Waye,Stefanic Dracogen,Mosourika Tudor",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"BeforeEmpEye_2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"Lloyd von Sanctus,Justin Waye,Stefanic Dracogen,Mosourika Tudor\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"Lloyd von Sanctus,Justin Waye,Stefanic Dracogen,Mosourika Tudor\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"Lloyd von Sanctus,Justin Waye,Stefanic Dracogen,Mosourika Tudor\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-29-0",
+    "original": "attuned to,broke,stole,fell into",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"BeforeEmpEye_2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"attuned to,broke,stole,fell into\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"attuned to,broke,stole,fell into\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"attuned to,broke,stole,fell into\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-30-0",
+    "original": "Which piece of evidence would connect the murder to von Sanctus?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"BeforeEmpEye_2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Which piece of evidence would connect the murder to von Sanctus?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Which piece of evidence would connect the murder to von Sanctus?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Which piece of evidence would connect the murder to von Sanctus?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-RikaC2B_Obj_1-19-0",
+    "original": "Who sent the Arcane Construct?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"RikaC2B_Obj_1\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Who sent the Arcane Construct?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who sent the Arcane Construct?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Who sent the Arcane Construct?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered2-4-0",
+    "original": "I've sold Constructs to other individuals.",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"SanctusCornered2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I\\\\'ve sold Constructs to other individuals.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I\\\\'ve sold Constructs to other individuals.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I've sold Constructs to other individuals.\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-end5-4-0",
+    "original": "Episode End",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"end5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"TitleCard \\\\\\\"Episode End\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode End\\\\\\\"\\\"\\n\", \"cmd\": [\"TitleCard\", \"Episode End\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered3-3-0",
+    "original": "The saboteur could be someone who secretly entered Aurinax",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"SanctusCornered3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"The saboteur could be someone who secretly entered Aurinax\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"The saboteur could be someone who secretly entered Aurinax\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"The saboteur could be someone who secretly entered Aurinax\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered-11-0",
+    "original": "Someone else could have sent that Construct!",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"SanctusCornered\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Someone else could have sent that Construct!\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Someone else could have sent that Construct!\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Someone else could have sent that Construct!\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument3-2-0",
+    "original": "He always kept his past a secret from me.",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Rika_Argument3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"He always kept his past a secret from me.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"He always kept his past a secret from me.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"He always kept his past a secret from me.\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-4-0",
+    "original": "How did metallic shards appear in the vat?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did metallic shards appear in the vat?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did metallic shards appear in the vat?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How did metallic shards appear in the vat?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-7-0",
+    "original": "A metal object,Justin Waye,Mosourika Tudor,The killer",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"A metal object,Justin Waye,Mosourika Tudor,The killer\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"A metal object,Justin Waye,Mosourika Tudor,The killer\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"A metal object,Justin Waye,Mosourika Tudor,The killer\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-8-0",
+    "original": "was thrown into,jumped into,sabotaged,murdered",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"was thrown into,jumped into,sabotaged,murdered\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"was thrown into,jumped into,sabotaged,murdered\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"was thrown into,jumped into,sabotaged,murdered\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-9-0",
+    "original": "the vat,the killer,Justin Waye,the refinery",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the vat,the killer,Justin Waye,the refinery\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the vat,the killer,Justin Waye,the refinery\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the vat,the killer,Justin Waye,the refinery\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-10-0",
+    "original": "How did metallic shards appear in the vat?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How did metallic shards appear in the vat?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did metallic shards appear in the vat?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How did metallic shards appear in the vat?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument4-7-0",
+    "original": "There wasn't anything strange about the way he was acting.",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Rika_Argument4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"There wasn\\\\'t anything strange about the way he was acting.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"There wasn\\\\'t anything strange about the way he was acting.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"There wasn't anything strange about the way he was acting.\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Sanctus_Interpret2-0-0",
+    "original": "If only... It would be too dangerous to sell it to anyone else...",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Sanctus_Interpret2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"InterpretPrompt \\\\\\\"If only... It would be too dangerous to sell it to anyone else...\\\\\\\" \\\\\\\"Fear\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"InterpretPrompt \\\\\\\"If only... It would be too dangerous to sell it to anyone else...\\\\\\\" \\\\\\\"Fear\\\\\\\"\\\"\\n\", \"cmd\": [\"InterpretPrompt\", \"If only... It would be too dangerous to sell it to anyone else...\", \"Fear\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Check_Events_House-68-0",
+    "original": "5 minutes later",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Check_Events_House\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"TitleCard \\\\\\\"5 minutes later\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"5 minutes later\\\\\\\"\\\"\\n\", \"cmd\": [\"TitleCard\", \"5 minutes later\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Start-9-0",
+    "original": "Episode III/nThe Origins of Horus",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Start\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"TitleCard \\\\\\\"Episode III/nThe Origins of Horus\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode III/nThe Origins of Horus\\\\\\\"\\\"\\n\", \"cmd\": [\"TitleCard\", \"Episode III/nThe Origins of Horus\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-RikaArgument_Fail-6-0",
+    "original": "You lost the argument...",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"RikaArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-13-0",
+    "original": "How could von Sanctus easily destroy the evidence?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How could von Sanctus easily destroy the evidence?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How could von Sanctus easily destroy the evidence?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How could von Sanctus easily destroy the evidence?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-18-0",
+    "original": "The evidence,Justin Waye,The Rod of Mending,The guard rail",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The evidence,Justin Waye,The Rod of Mending,The guard rail\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The evidence,Justin Waye,The Rod of Mending,The guard rail\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The evidence,Justin Waye,The Rod of Mending,The guard rail\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-19-0",
+    "original": "was thrown,was hidden,was stolen,was taken back",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"was thrown,was hidden,was stolen,was taken back\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"was thrown,was hidden,was stolen,was taken back\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"was thrown,was hidden,was stolen,was taken back\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-20-0",
+    "original": "into the vat,to the Manor,from the Refinery",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"into the vat,to the Manor,from the Refinery\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"into the vat,to the Manor,from the Refinery\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"into the vat,to the Manor,from the Refinery\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-21-0",
+    "original": "of volatile liquid,of Von Sanctus,owned by Dracogen",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"of volatile liquid,of Von Sanctus,owned by Dracogen\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"of volatile liquid,of Von Sanctus,owned by Dracogen\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"of volatile liquid,of Von Sanctus,owned by Dracogen\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-22-0",
+    "original": "How could von Sanctus easily destroy the evidence?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How could von Sanctus easily destroy the evidence?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How could von Sanctus easily destroy the evidence?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How could von Sanctus easily destroy the evidence?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-29-0",
+    "original": "Why did von Sanctus sabotage the guard rail?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why did von Sanctus sabotage the guard rail?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why did von Sanctus sabotage the guard rail?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why did von Sanctus sabotage the guard rail?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-33-0",
+    "original": "Von Sanctus wanted,Dracogen wanted,Justin wanted,Mosourika wanted",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Von Sanctus wanted,Dracogen wanted,Justin wanted,Mosourika wanted\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Von Sanctus wanted,Dracogen wanted,Justin wanted,Mosourika wanted\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Von Sanctus wanted,Dracogen wanted,Justin wanted,Mosourika wanted\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-34-0",
+    "original": "Justin's death,The broken guard rail,The sabotage,The Construct",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"Justin\\\\'s death,The broken guard rail,The sabotage,The Construct\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"Justin\\\\'s death,The broken guard rail,The sabotage,The Construct\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"Justin's death,The broken guard rail,The sabotage,The Construct\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-35-0",
+    "original": "to look like,to be hidden from,to send a message to",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"to look like,to be hidden from,to send a message to\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"to look like,to be hidden from,to send a message to\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"to look like,to be hidden from,to send a message to\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-36-0",
+    "original": "an accident,nothing,The Inquisition,Stefanic Dracogen",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"an accident,nothing,The Inquisition,Stefanic Dracogen\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"an accident,nothing,The Inquisition,Stefanic Dracogen\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"an accident,nothing,The Inquisition,Stefanic Dracogen\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-37-0",
+    "original": "Why did von Sanctus sabotage the guard rail?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why did von Sanctus sabotage the guard rail?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why did von Sanctus sabotage the guard rail?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why did von Sanctus sabotage the guard rail?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce4-20-0",
+    "original": "What piece of evidence would von Sanctus also dispose of?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What piece of evidence would von Sanctus also dispose of?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What piece of evidence would von Sanctus also dispose of?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What piece of evidence would von Sanctus also dispose of?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce4-23-0",
+    "original": "The Guard Rail,The Arcane Construct,Any Witnesses,Justin Waye",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The Guard Rail,The Arcane Construct,Any Witnesses,Justin Waye\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The Guard Rail,The Arcane Construct,Any Witnesses,Justin Waye\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The Guard Rail,The Arcane Construct,Any Witnesses,Justin Waye\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce4-24-0",
+    "original": "What piece of evidence would von Sanctus also dispose of?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Last_Deduce4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What piece of evidence would von Sanctus also dispose of?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What piece of evidence would von Sanctus also dispose of?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What piece of evidence would von Sanctus also dispose of?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-5-0",
+    "original": "Why wasn't the metal object fully destroyed?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why wasn\\\\'t the metal object fully destroyed?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why wasn\\\\'t the metal object fully destroyed?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why wasn't the metal object fully destroyed?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-8-0",
+    "original": "The vat liquid,Noah Morrison,Justin Waye,Stefanic Dracogen",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The vat liquid,Noah Morrison,Justin Waye,Stefanic Dracogen\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The vat liquid,Noah Morrison,Justin Waye,Stefanic Dracogen\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The vat liquid,Noah Morrison,Justin Waye,Stefanic Dracogen\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-9-0",
+    "original": "was neutralized,died,fell into the vat,called for help",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"was neutralized,died,fell into the vat,called for help\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"was neutralized,died,fell into the vat,called for help\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"was neutralized,died,fell into the vat,called for help\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-10-0",
+    "original": "shortly after,shortly before,today,the night of",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"shortly after,shortly before,today,the night of\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"shortly after,shortly before,today,the night of\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"shortly after,shortly before,today,the night of\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-11-0",
+    "original": "the accident was reported,Mosourika arrived,the refinery opened,Orym arrived",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the accident was reported,Mosourika arrived,the refinery opened,Orym arrived\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the accident was reported,Mosourika arrived,the refinery opened,Orym arrived\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the accident was reported,Mosourika arrived,the refinery opened,Orym arrived\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-12-0",
+    "original": "Why didn't the metal object fully dissolve?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t the metal object fully dissolve?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t the metal object fully dissolve?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why didn't the metal object fully dissolve?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument2-3-0",
+    "original": "I only helped him because I'm a generous person.",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Rika_Argument2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I only helped him because I\\\\'m a generous person.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I only helped him because I\\\\'m a generous person.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I only helped him because I'm a generous person.\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-5-0",
+    "original": "What [i]should[/i] the magical liquid have done to the object?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What [i]should[/i] the magical liquid have done to the object?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What [i]should[/i] the magical liquid have done to the object?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What [i]should[/i] the magical liquid have done to the object?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-9-0",
+    "original": "The vat liquid,Justin Waye,Stefanic Dracogen,Mosourika Tudor",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The vat liquid,Justin Waye,Stefanic Dracogen,Mosourika Tudor\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The vat liquid,Justin Waye,Stefanic Dracogen,Mosourika Tudor\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The vat liquid,Justin Waye,Stefanic Dracogen,Mosourika Tudor\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-10-0",
+    "original": "should have completely,should have partially,should not have",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"should have completely,should have partially,should not have\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"should have completely,should have partially,should not have\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"should have completely,should have partially,should not have\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-11-0",
+    "original": "destroyed,sabotaged,saved,killed",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"destroyed,sabotaged,saved,killed\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"destroyed,sabotaged,saved,killed\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"destroyed,sabotaged,saved,killed\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-12-0",
+    "original": "the metal object,the guard rail,Justin Waye,the vat liquid",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the metal object,the guard rail,Justin Waye,the vat liquid\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the metal object,the guard rail,Justin Waye,the vat liquid\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the metal object,the guard rail,Justin Waye,the vat liquid\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-13-0",
+    "original": "What [i]should[/i] the magical liquid have done to the object?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"VatDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What [i]should[/i] the magical liquid have done to the object?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What [i]should[/i] the magical liquid have done to the object?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What [i]should[/i] the magical liquid have done to the object?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-5-0",
+    "original": "What was the intention of weakening the guard rails?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What was the intention of weakening the guard rails?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What was the intention of weakening the guard rails?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What was the intention of weakening the guard rails?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-9-0",
+    "original": "The unknown mage,Justin Waye,Stefanic Dracogen",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The unknown mage,Justin Waye,Stefanic Dracogen\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The unknown mage,Justin Waye,Stefanic Dracogen\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The unknown mage,Justin Waye,Stefanic Dracogen\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-10-0",
+    "original": "wanted,didn't want,accidentally caused",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"wanted,didn\\\\'t want,accidentally caused\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"wanted,didn\\\\'t want,accidentally caused\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"wanted,didn't want,accidentally caused\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-11-0",
+    "original": "someone to fall,someone to discover,Stefanic to fall",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"someone to fall,someone to discover,Stefanic to fall\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"someone to fall,someone to discover,Stefanic to fall\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"someone to fall,someone to discover,Stefanic to fall\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-12-0",
+    "original": "into the vat,off of the walkway,the body",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"into the vat,off of the walkway,the body\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"into the vat,off of the walkway,the body\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"into the vat,off of the walkway,the body\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-13-0",
+    "original": "How did the transmutation spell affect the guard rail?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How did the transmutation spell affect the guard rail?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did the transmutation spell affect the guard rail?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How did the transmutation spell affect the guard rail?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-6-0",
+    "original": "Start an ARGUMENT with Mosourika Tudor?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Rika_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Mosourika Tudor?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Mosourika Tudor?\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Mosourika Tudor?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-9-0",
+    "original": "Start an ARGUMENT with Mosourika Tudor?/nYou haven't completed her PSYCHOLOGICAL PROFILE.",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Rika_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Mosourika Tudor?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Mosourika Tudor?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Mosourika Tudor?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-33-0",
+    "original": "Mosourika Tudor will perform questionable acts to protect the people she cares about. She has your best interests at heart and will always act in a way that she thinks is beneficial for your well-being./n/nShe isn’t very good at deception. She will often revert to her dramatic “chuuni” personality when trying to hide the truth from you.",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Rika_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"LoadArgueProfile \\\\\\\"Mosourika Tudor will perform questionable acts to protect the people she cares about. She has your best interests at heart and will always act in a way that she thinks is beneficial for your well-being./n/nShe isn’t very good at deception. She will often revert to her dramatic “chuuni” personality when trying to hide the truth from you.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"LoadArgueProfile \\\\\\\"Mosourika Tudor will perform questionable acts to protect the people she cares about. She has your best interests at heart and will always act in a way that she thinks is beneficial for your well-being./n/nShe isn’t very good at deception. She will often revert to her dramatic “chuuni” personality when trying to hide the truth from you.\\\\\\\"\\\"\\n\", \"cmd\": [\"LoadArgueProfile\", \"Mosourika Tudor will perform questionable acts to protect the people she cares about. She has your best interests at heart and will always act in a way that she thinks is beneficial for your well-being./n/nShe isn’t very good at deception. She will often revert to her dramatic “chuuni” personality when trying to hide the truth from you.\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-40-0",
+    "original": "I wasn't that close to Justin Waye.",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Rika_Argument\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"I wasn\\\\'t that close to Justin Waye.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I wasn\\\\'t that close to Justin Waye.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"I wasn't that close to Justin Waye.\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered_Fail-3-0",
+    "original": "You lost the argument...",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"SanctusCornered_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-3-0",
+    "original": "How did the transmutation spell affect the guard rail?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did the transmutation spell affect the guard rail?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did the transmutation spell affect the guard rail?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How did the transmutation spell affect the guard rail?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-7-0",
+    "original": "The spell,Justin Waye,The rust,Stefanic Dracogen",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The spell,Justin Waye,The rust,Stefanic Dracogen\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The spell,Justin Waye,The rust,Stefanic Dracogen\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The spell,Justin Waye,The rust,Stefanic Dracogen\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-8-0",
+    "original": "weakened,strengthened,repaired,covered",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"weakened,strengthened,repaired,covered\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"weakened,strengthened,repaired,covered\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"weakened,strengthened,repaired,covered\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-9-0",
+    "original": "the structural integrity of,the corrosiveness of,the body of,the business of",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the structural integrity of,the corrosiveness of,the body of,the business of\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the structural integrity of,the corrosiveness of,the body of,the business of\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the structural integrity of,the corrosiveness of,the body of,the business of\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-10-0",
+    "original": "the guard rails,the chemical vat,the walkway,Justin Waye,Stefanic Dracogen",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the guard rails,the chemical vat,the walkway,Justin Waye,Stefanic Dracogen\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the guard rails,the chemical vat,the walkway,Justin Waye,Stefanic Dracogen\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the guard rails,the chemical vat,the walkway,Justin Waye,Stefanic Dracogen\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-11-0",
+    "original": "How did the transmutation spell affect the guard rail?",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"WalkwayDeduce\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How did the transmutation spell affect the guard rail?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did the transmutation spell affect the guard rail?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How did the transmutation spell affect the guard rail?\"]}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Interpret-0-0",
+    "original": "It's sort of true... We knew each other for years before he told me about it.",
+    "translation": null,
+    "context": "{\"case\": \"Case 3-sharedassets0.assets-156.json\", \"node_name\": \"Rika_Interpret\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"InterpretPrompt \\\\\\\"It\\\\'s sort of true... We knew each other for years before he told me about it.\\\\\\\" \\\\\\\"Sad\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"InterpretPrompt \\\\\\\"It\\\\'s sort of true... We knew each other for years before he told me about it.\\\\\\\" \\\\\\\"Sad\\\\\\\"\\\"\\n\", \"cmd\": [\"InterpretPrompt\", \"It's sort of true... We knew each other for years before he told me about it.\", \"Sad\"]}"
+  }
+]

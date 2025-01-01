@@ -1,0 +1,357 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 50
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 292
+  },
+  "m_Name": "",
+  "spellList": {
+    "Array": [
+      {
+        "name": "Mage Blade",
+        "displayName": "法术剑刃",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_14.png",
+        "description": "在此法术持续时间内，物体的边缘（通常是剑刃）变得异常锋利，使其更容易斩穿金属物体。同时在法术生效时，物体释放出金黄色的显著光芒。施法对象必须小于5立方英尺。",
+        "spellSchool": 1,
+        "incantation": "\"Ar-kan\"",
+        "gesture": "无",
+        "duration": "一分钟",
+        "concentration": 1
+      },
+      {
+        "name": "Conjure Light",
+        "displayName": "祈愿光芒",
+        "iconPath": "Assets/Visuals/Resources/Icons/Priestskill_08.png",
+        "description": "此法术生效时，一些细小的魔法粉尘从施法者手上出现，光的颜色由施法者决定，并可以在生效期间任意改变。这些细小的魔法粉尘提供以施法者为中心最大15立方英尺的光照范围（无法照亮15英尺外的事物）。",
+        "spellSchool": 2,
+        "incantation": "\"Lux-o\"",
+        "gesture": "无",
+        "duration": "1小时",
+        "concentration": 1
+      },
+      {
+        "name": "Prestidigitation",
+        "displayName": "Prestidigitation",
+        "iconPath": "Assets/Visuals/Resources/Icons/Priestskill_47.png",
+        "description": "The caster creates a simple and harmless visual effect around their hand. This effect will last for as long as they maintain concentration on this spell.",
+        "spellSchool": 0,
+        "incantation": "None",
+        "gesture": "A snap of the fingers",
+        "duration": "Indefinitely",
+        "concentration": 1
+      },
+      {
+        "name": "Conjure Water",
+        "displayName": "造水术",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_10.png",
+        "description": "使水奇迹般的从施法者手上涌出。只要施法者集中注意力，水流将会一直涌出。",
+        "spellSchool": 2,
+        "incantation": "\"Aq-ui-o\"",
+        "gesture": "伸出手掌",
+        "duration": "无限期",
+        "concentration": 1
+      },
+      {
+        "name": "Frost Wave",
+        "displayName": "霜波",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_2.png",
+        "description": "在范围内的任何物体将会受到一股极寒空气的冲击。液体会立刻冻结，有机生物会立即患上低温症。",
+        "spellSchool": 1,
+        "incantation": "无",
+        "gesture": "伸出双手",
+        "duration": "瞬间",
+        "concentration": 0
+      },
+      {
+        "name": "Shape Liquid",
+        "displayName": "形变液体",
+        "iconPath": "Assets/Visuals/Resources/Icons/Shamanskill_18.png",
+        "description": "当集中注意力施法时，施法者能够操纵最大10升的液体并把它们变成特定的形状。施法者能随时固化或改变液体的形状。当被控液体被冷冻时，施法者亦可使液体瞬间融化。",
+        "spellSchool": 1,
+        "incantation": "Fig-aq-u-a",
+        "gesture": "将食指指向目标",
+        "duration": "无限期",
+        "concentration": 1
+      },
+      {
+        "name": "Mend Wounds",
+        "displayName": "Mend Wounds",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_30.png",
+        "description": "Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.",
+        "spellSchool": 6,
+        "incantation": "\"Men-as\"",
+        "gesture": "None",
+        "duration": "1 minute",
+        "concentration": 0
+      },
+      {
+        "name": "Illusory Disguise",
+        "displayName": "Illusory Disguise",
+        "iconPath": "Assets/Visuals/Resources/Icons/Paladinskill_37.png",
+        "description": "Places an illusion on the target to completely change their visual appearance. The disguise moves with the target for the duration.\n\nThe disguise can make the target look 1ft larger or smaller. Elements hidden by the spell are made invisible. And elements created by the spell are purely visual. You cannot make physical contact with it.\r",
+        "spellSchool": 4,
+        "incantation": "\"Ill-us-io\"",
+        "gesture": "None",
+        "duration": "1 hour",
+        "concentration": 0
+      },
+      {
+        "name": "Major Illusion",
+        "displayName": "Major Illusion",
+        "iconPath": "Assets/Visuals/Resources/Icons/Assassinskill_31.png",
+        "description": "Creates a three-dimensional illusion. The illusion can take the form of any object or creature that can be contained in a 10ft cube. While concentrating, the caster can animate and move the image to a different location within range. The illusion is purely visual and can’t be physically touched.",
+        "spellSchool": 4,
+        "incantation": "\"Mill-us-o\"",
+        "gesture": "None",
+        "duration": "Until Dispelled",
+        "concentration": 1
+      },
+      {
+        "name": "Revive",
+        "displayName": "Revive",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_127.png",
+        "description": "Floods the target with life energy in an attempt to resuscitate them. It does not heal wounds sustained. Results may vary. But it cannot resuscitate someone who has been dead for more than a minute.",
+        "spellSchool": 6,
+        "incantation": "\"Viv-if-fy\"",
+        "gesture": "None",
+        "duration": "Instant",
+        "concentration": 0
+      },
+      {
+        "name": "Animate Corpse",
+        "displayName": "活化死尸",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_80.png",
+        "description": "利用生命力将目标活化，使其成为持续一定时间的亡灵奴役。亡灵将遵从施法者的指令。但亡灵本身智力有限，无法说话。亡灵也可以提前使法术失效，但必须是在施法者命令下。\n\n法术失效后，亡灵会重回尸体状态。",
+        "spellSchool": 6,
+        "incantation": "\"Nec-cross\"",
+        "gesture": "无",
+        "duration": "8小时",
+        "concentration": 0
+      },
+      {
+        "name": "Necrotic Blight",
+        "displayName": "索命咒",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_81.png",
+        "description": "抽出目标所有的生命力，使其即时死亡。该法术不会对目标造成创伤等任何实物证据（但仍然会残留魔法痕迹）。",
+        "spellSchool": 6,
+        "incantation": "\"Bligh-to\"",
+        "gesture": "将食指指向目标",
+        "duration": "瞬间",
+        "concentration": 0
+      },
+      {
+        "name": "Send Message",
+        "displayName": "Send Message",
+        "iconPath": "Assets/Visuals/Resources/Icons/Archerskill_14.png",
+        "description": "For the duration of this spell, the caster projects their voice to communicate with a target. Anyone within a 30ft radius of the target can hear the caster’s voice. The caster can also hear sounds close to the target, allowing for two-way communication.\n\nThe target must be a person known to the caster. That person must also be conscious. Otherwise, the spell will fail. Alternatively, the target can be an object that is attuned to the caster’s magic.",
+        "spellSchool": 2,
+        "incantation": "\"Mal-um\"",
+        "gesture": "None",
+        "duration": "1 hour",
+        "concentration": 0
+      },
+      {
+        "name": "Familial Bond",
+        "displayName": "使魔契约",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_39.png",
+        "description": "施法者创造无法被破坏的魔力纽带，将目标生物与施法者的魔力相联系。纽带存在时，施法者可以与使魔远程通信，也可以在集中时通过使魔的双眼观察外界。最后，施法者还可以从使魔所在地施法，无需被局限于自己的所在位置。\n\n纽带一旦成立，施法者与使魔双方都不能再与其他生物联系纽带。纽带只有在死亡时才会接触。",
+        "spellSchool": 3,
+        "incantation": "\"Ret-er-rum\"",
+        "gesture": "无",
+        "duration": "无限期",
+        "concentration": 0
+      },
+      {
+        "name": "Anti-Magic Field",
+        "displayName": "抗魔力场",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_47_Grey.png",
+        "description": "集中注意力施法时，施法者可创造一个半径10英尺的球体，并使球体内部所有魔法无效化。任何进入球体内的法术效果都会被立刻驱散。试图在球体范围内部施法的法师也只会铩羽而归。\n\n如果抗魔力场的范围与其他任何驱魔效果重合，两者就会互相抵消。\n",
+        "spellSchool": 5,
+        "incantation": "\"Cout-ter-i-a\"",
+        "gesture": "无",
+        "duration": "无限期",
+        "concentration": 1
+      },
+      {
+        "name": "Feign Death",
+        "displayName": "假死",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_82.png",
+        "description": "施法者只能对已经失去意识的生物施法。集中注意力施法时，目标看起来会像是已经死去。目标生物会停止呼吸，心脏停止跳动。法术内含的生命力会保持目标生物不死。",
+        "spellSchool": 6,
+        "incantation": "\"Fal-nor-ma\"",
+        "gesture": "无",
+        "duration": "无限期",
+        "concentration": 1
+      },
+      {
+        "name": "Invisibility",
+        "displayName": "Invisibility",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_75.png",
+        "description": "One of the highest forms of illusion magic. This spell makes the target creature or object completely invisible. While invisible, the target will be completely transparent and undetectable visually. If targeting a creature, this spell will also affect anything that the creature is wearing or holding.",
+        "spellSchool": 4,
+        "incantation": "\"O-kult-arr-ae\"",
+        "gesture": "Clap both hands together",
+        "duration": "1 hour",
+        "concentration": 0
+      },
+      {
+        "name": "Force Cage",
+        "displayName": "坚牢术",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_47_Grey.png",
+        "description": "法术生效时间内，施法者可针对自己30英尺范围内的目标，创造一个长宽高10英尺的立方体。立方体的表面不可被物理手段破坏，也不受驱魔效果影响。另外，试图空间传送进入/离开立方体也只是徒劳。\n\n\n\n\n如果目标周围还有其他生物，这些生物会被驱离出立方体。\n",
+        "spellSchool": 5,
+        "incantation": "\"For-zar-ay\"",
+        "gesture": "将食指指向目标",
+        "duration": "1小时",
+        "concentration": 0
+      },
+      {
+        "name": "Contingent Spell",
+        "displayName": "有备无患",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_47.png",
+        "description": "施法时，施法者可以选择另一个自己所知的法术。施法之后，有备无患法术不会立刻生效。但在施法者提供的条件满足时（条件于施展有备无患时提供），有备无患法术就会立刻生效。",
+        "spellSchool": 0,
+        "incantation": "\"Col-tin-jen\"",
+        "gesture": "有备无患法术的手势",
+        "duration": "24小时",
+        "concentration": 0
+      },
+      {
+        "name": "Sleep",
+        "displayName": "Sleep",
+        "iconPath": "Assets/Visuals/Resources/Icons/Priestskill_42.png",
+        "description": "The caster conjures a magical mist in the direction that they stretch their palm. This magical mist will travel up to 30ft before dissipating. Any creature who inhales the mist will fall into a magical slumber. An affected creature will be woken from their slumber if they are violently shaken or experience any sort of pain.",
+        "spellSchool": 2,
+        "incantation": "\"Som-ni-ah\"",
+        "gesture": "An outstretched palm",
+        "duration": "While concentrating",
+        "concentration": 1
+      },
+      {
+        "name": "Foresight",
+        "displayName": "Foresight",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_21.png",
+        "description": "The caster invokes the ultimate form of <b>divination</b> magic to see brief glimpses of the near future. While this spell is active, the caster is able to sense danger seconds before it actually happens.",
+        "spellSchool": 3,
+        "incantation": "\"For-heim\"",
+        "gesture": "Form a triangle with both hands",
+        "duration": "24 hours",
+        "concentration": 0
+      },
+      {
+        "name": "Slow Fall",
+        "displayName": "Slow Fall",
+        "iconPath": "Assets/Visuals/Resources/Icons/Priestskill_36.png",
+        "description": "The caster counteracts the force of gravity affecting them, causing them to fall significantly slower when airborne for the duration.",
+        "spellSchool": 1,
+        "incantation": "\"Fe-thu-ra\"",
+        "gesture": "Point index finger downwards",
+        "duration": "1 hour",
+        "concentration": 0
+      },
+      {
+        "name": "Strike True",
+        "displayName": "精准打击",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_58.png",
+        "description": "The caster increases their ability to predict the results of all of their actions for the duration. This is useful for the purposes of aiming or doing other activities that rely on dexterity and skill.",
+        "spellSchool": 3,
+        "incantation": "\"Non-op-ti-ma\"",
+        "gesture": "Make a circle with thumb and index finger",
+        "duration": "10 minutes",
+        "concentration": 1
+      },
+      {
+        "name": "Detect Magic",
+        "displayName": "法术探测",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_87.png",
+        "description": "当注意力集中时，施放者可以看到本来不可见的魔法痕迹。魔法痕迹会在法术施放时于两处生成。第一处是施放者施放法术的位置。第二处是法术效应产生或消退的位置。法术探测的施放者可以通过每个痕迹的颜色辨认法术的类别：\n\n\n\n召唤：红色\n\n形变：黄色\n\n",
+        "spellSchool": 3,
+        "incantation": "\"Rep-er-i-o Ar-kaen-num\"",
+        "gesture": "无",
+        "duration": "注意力集中时",
+        "concentration": 1
+      },
+      {
+        "name": "Stone Skin",
+        "displayName": "Stone Skin",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_119.png",
+        "description": "The caster creates a thick layer of stone around their body. This stone layer will deflect and protect the caster from any physical trauma. The stone layer can be slowly broken through continuous attacks. But as long as the caster concentrates on this spell, the stone layer will instantaneously repair itself.",
+        "spellSchool": 1,
+        "incantation": "\"Ter-pro-tec\"",
+        "gesture": "Create an X with both arms",
+        "duration": "While concentrating",
+        "concentration": 1
+      },
+      {
+        "name": "Hold Creature",
+        "displayName": "Hold Creature",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_31.png",
+        "description": "The caster completely restricts the movement of the target. While concentrating on this spell, the target will be unable to move any part of their body. Even subtle movements (such as the gestures required to cast certain spells) are impossible. As a result, the target will also be unable to move their mouth to speak.",
+        "spellSchool": 0,
+        "incantation": "\"Ho-dl\"",
+        "gesture": "Point at the target",
+        "duration": "While concentrating",
+        "concentration": 1
+      },
+      {
+        "name": "Steelwind Strike",
+        "displayName": "Steelwind Strike",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_74.png",
+        "description": "The caster strikes targets of their choice within a 40ft radius with a slashing force. Each slash has the might and power of a <b>Mage Blade</b>, and can cut through thick metal armour. It’s the ultimate spell of House Steelwind and its spell formula is a closely guarded secret.",
+        "spellSchool": 0,
+        "incantation": "\"Vul-nus\"",
+        "gesture": "Raise index finger and pinky",
+        "duration": "Instant",
+        "concentration": 0
+      },
+      {
+        "name": "Fire Bolt",
+        "displayName": "火焰箭",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_40.png",
+        "description": "施法者射出足以造成三级烧伤的火焰箭。在无冲撞前提下，火焰箭魔力耗尽前可以飞行120英尺。如果可燃，被冲撞物就会起火。",
+        "spellSchool": 0,
+        "incantation": "\"Bol-to\"",
+        "gesture": "将食指指向目标",
+        "duration": "瞬间",
+        "concentration": 0
+      },
+      {
+        "name": "Polymorph",
+        "displayName": "Polymorph",
+        "iconPath": "Assets/Visuals/Resources/Icons/Engineerskill_44.png",
+        "description": "The caster transforms a target within 30ft of them into an animal. The animal can be any creature that can fit within a 2ftx2ftx2ft cube. For the duration, the target’s senses and intellect will also be changed to match that of the animal they are transformed into.",
+        "spellSchool": 1,
+        "incantation": "\"Drom-li\"",
+        "gesture": "Point index finger at the target",
+        "duration": "1 hour",
+        "concentration": 0
+      },
+      {
+        "name": "Dispel Magic",
+        "displayName": "驱魔术",
+        "iconPath": "Assets/Visuals/Resources/Icons/Dispel.png",
+        "description": "可以选择120英尺内的任一魔法效果。产生该效果的魔法会被立刻终止（除非目标法术免疫驱魔效果）。但终止不等同于撤销魔法效果。举例而言，<b>形变液体</b>的施法者无法再继续让液体形状变化，但液体本身也无法回复被施法前的状态。",
+        "spellSchool": 5,
+        "incantation": "\"A-bu-ri-o\"",
+        "gesture": "将食指指向目标",
+        "duration": "瞬间",
+        "concentration": 0
+      },
+      {
+        "name": "Shatter",
+        "displayName": "Shatter",
+        "iconPath": "Assets/Visuals/Resources/Icons/icon_128x128_47.png",
+        "description": "Channels the caster's magic into any physical object they are touching with their hands. If enough magic is channeled, the object may shatter or break. \n\nThe intensity of this spell will exponentially increase while they are concentrating. However, channelling larger quantities of magic will slowly drain the caster's stamina and possibly cause Mageblight.",
+        "spellSchool": 0,
+        "incantation": "\"Cre-te-ah\"",
+        "gesture": "None",
+        "duration": "While concentrating",
+        "concentration": 1
+      }
+    ]
+  }
+}

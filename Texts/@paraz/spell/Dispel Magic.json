@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-29-Dispel Magic-displayName",
+    "original": "Dispel Magic",
+    "translation": null,
+    "context": "{\"Name\": \"Dispel Magic\", \"Idx\": 29, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-29-Dispel Magic-description",
+    "original": "Choose any magical effect within 120ft. The spell that is creating that effect immediately ends (unless the targeted spell is immune to being dispelled). However, this only ends the spell’s effects. It does not undo the effects of the spell. For example, dispelling a <b>Shape Liquid</b> on an affected liquid will only prevent the caster from further manipulating the liquid. It will not unfreeze the liquid or change its shape back to normal.",
+    "translation": null,
+    "context": "{\"Name\": \"Dispel Magic\", \"Idx\": 29, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-29-Dispel Magic-incantation",
+    "original": "\"A-bu-ri-o\"",
+    "translation": null,
+    "context": "{\"Name\": \"Dispel Magic\", \"Idx\": 29, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-29-Dispel Magic-gesture",
+    "original": "Point index finger at the target",
+    "translation": null,
+    "context": "{\"Name\": \"Dispel Magic\", \"Idx\": 29, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-29-Dispel Magic-duration",
+    "original": "Instant",
+    "translation": null,
+    "context": "{\"Name\": \"Dispel Magic\", \"Idx\": 29, \"Attr\": \"duration\"}"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "key": "Garrick Pierce-displayName",
+    "original": "Garrick Pierce",
+    "translation": "加里克·皮尔斯",
+    "stage": 1,
+    "context": "{\"Name\": \"Garrick Pierce\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Garrick Pierce-description",
+    "original": "The pompous noble lord who rules over the town of Kornhaven. He wants to see this trial resolved as soon as possible. But Tyrion will <i>not</i> allow that to happen.",
+    "translation": "统治着科尔哈文的狂妄贵族领主。他比谁都盼望着这场审判能早些结案。但提利昂<i>可不会</i>让他如愿。",
+    "stage": 1,
+    "context": "{\"Name\": \"Garrick Pierce\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Garrick Pierce-occupation",
+    "original": "Nobleman",
+    "translation": "贵族",
+    "stage": 1,
+    "context": "{\"Name\": \"Garrick Pierce\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Garrick Pierce-arcaneArt",
+    "original": "Transmutation",
+    "translation": "形变",
+    "stage": 1,
+    "context": "{\"Name\": \"Garrick Pierce\", \"Attr\": \"arcaneArt\"}"
+  },
+  {
+    "key": "Garrick Pierce-altDescriptions-0",
+    "original": "After being indicted and convicted for the murder of Flinhart McCoy, Pierce now awaits public execution, as per Wyverngarde’s laws. However, he seems to be desperate to avoid that outcome.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Garrick Pierce\", \"Attr\": \"altDescriptions\", \"idx\": 0}"
+  }
+]

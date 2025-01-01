@@ -1,0 +1,14 @@
+[
+  {
+    "key": "Item-Case 2-25-Arcane Construct’s Logic Limitation-displayName",
+    "original": "Construct’s Logic Limitation",
+    "translation": null,
+    "context": "{\"Name\": \"Arcane Construct’s Logic Limitation\", \"Idx\": 25, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 2-25-Arcane Construct’s Logic Limitation-description",
+    "original": "Arcane Constructs process tasks in the order that they are given. If a Construct is ordered to complete tasks A, B, and C, it will process each of those tasks individually. If task B is impossible, the Construct won’t realize this until it reaches task B. When it reaches task B, it will deem the entire series of commands as impossible and stop what it’s doing (without even attempting to complete task C).",
+    "translation": null,
+    "context": "{\"Name\": \"Arcane Construct’s Logic Limitation\", \"Idx\": 25, \"Attr\": \"description\"}"
+  }
+]

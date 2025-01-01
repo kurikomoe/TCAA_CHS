@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-14-Anti-Magic Field-displayName",
+    "original": "Anti-Magic Field",
+    "translation": "抗魔力场",
+    "stage": 1,
+    "context": "{\"Name\": \"Anti-Magic Field\", \"Idx\": 14, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-14-Anti-Magic Field-description",
+    "original": "While concentrating on this spell, the caster forms a 10ft radius sphere that nullifies all magic within it. Any spell effect that enters the sphere instantly dissipates. And any mage that tries to cast a spell within this zone will fail to do so.\\n\\nIf this zone of anti-magic overlaps with any other magical nullification effect, the two effects will cancel each other out.\\n",
+    "translation": "集中注意力施法时，施法者可创造一个半径10英尺的球体，并使球体内部所有魔法无效化。任何进入球体内的法术效果都会被立刻驱散。试图在球体范围内部施法的法师也只会铩羽而归。\\n\\n如果抗魔力场的范围与其他任何驱魔效果重合，两者就会互相抵消。\\n",
+    "stage": 1,
+    "context": "{\"Name\": \"Anti-Magic Field\", \"Idx\": 14, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-14-Anti-Magic Field-incantation",
+    "original": "\"Cout-ter-i-a\"",
+    "translation": "\"Cout-ter-i-a\"",
+    "stage": 1,
+    "context": "{\"Name\": \"Anti-Magic Field\", \"Idx\": 14, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-14-Anti-Magic Field-gesture",
+    "original": "None",
+    "translation": "无",
+    "stage": 1,
+    "context": "{\"Name\": \"Anti-Magic Field\", \"Idx\": 14, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-14-Anti-Magic Field-duration",
+    "original": "Indefinitely",
+    "translation": "无限期",
+    "stage": 1,
+    "context": "{\"Name\": \"Anti-Magic Field\", \"Idx\": 14, \"Attr\": \"duration\"}"
+  }
+]

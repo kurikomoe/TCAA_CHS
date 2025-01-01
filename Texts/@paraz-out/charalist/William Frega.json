@@ -1,0 +1,30 @@
+[
+  {
+    "key": "William Frega-displayName",
+    "original": "William Frega",
+    "translation": "威廉·弗雷加",
+    "stage": 1,
+    "context": "{\"Name\": \"William Frega\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "William Frega-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"William Frega\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "William Frega-occupation",
+    "original": "Nobleman",
+    "translation": "贵族",
+    "stage": 1,
+    "context": "{\"Name\": \"William Frega\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "William Frega-arcaneArt",
+    "original": "Conjuration",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"William Frega\", \"Attr\": \"arcaneArt\"}"
+  }
+]

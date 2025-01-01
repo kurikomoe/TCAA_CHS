@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-5-Shape Liquid-displayName",
+    "original": "Shape Liquid",
+    "translation": "形变液体",
+    "stage": 1,
+    "context": "{\"Name\": \"Shape Liquid\", \"Idx\": 5, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-5-Shape Liquid-description",
+    "original": "While concentrating on this spell, the caster can magically manipulate up to 10L of liquid and form it into complex shapes. At any time, the caster can choose to freeze the liquid and solidify its current shape. While frozen, the caster can also choose to make the liquid instantaneously melt.",
+    "translation": "当集中注意力施法时，施法者能够操纵最大10升的液体并把它们变成特定的形状。施法者能随时固化或改变液体的形状。当被控液体被冷冻时，施法者亦可使液体瞬间融化。",
+    "stage": 1,
+    "context": "{\"Name\": \"Shape Liquid\", \"Idx\": 5, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-5-Shape Liquid-incantation",
+    "original": "Fig-aq-u-a",
+    "translation": "Fig-aq-u-a",
+    "stage": 1,
+    "context": "{\"Name\": \"Shape Liquid\", \"Idx\": 5, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-5-Shape Liquid-gesture",
+    "original": "Point index finger at the target",
+    "translation": "将食指指向目标",
+    "stage": 1,
+    "context": "{\"Name\": \"Shape Liquid\", \"Idx\": 5, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-5-Shape Liquid-duration",
+    "original": "Indefinitely",
+    "translation": "无限期",
+    "stage": 1,
+    "context": "{\"Name\": \"Shape Liquid\", \"Idx\": 5, \"Attr\": \"duration\"}"
+  }
+]

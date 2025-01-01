@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-9-Crime Scene Map (McCoy Tavern) 3-displayName",
+    "original": "Crime Scene Map (McCoy Tavern)",
+    "translation": "犯罪现场地图（麦考伊酒馆）",
+    "stage": 1,
+    "context": "{\"Name\": \"Crime Scene Map (McCoy Tavern) 3\", \"Idx\": 9, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-9-Crime Scene Map (McCoy Tavern) 3-description",
+    "original": "A geometrically scaled map of the Crime Scene. Flinhart died at the location of the V marker. Garrick Pierce <i>claims</i> to have witnessed the murder from the W marker. But that's impossible, as he wouldn’t have had proper lighting.",
+    "translation": "按几何比例绘制的犯罪现场图。弗林哈特死亡的位置用“V”标记。加里克·皮尔斯<i>宣称</i>他在“W”标记的位置目击了谋杀过程。但那是不可能的，因为他没有合适的光源。",
+    "stage": 1,
+    "context": "{\"Name\": \"Crime Scene Map (McCoy Tavern) 3\", \"Idx\": 9, \"Attr\": \"description\"}"
+  }
+]

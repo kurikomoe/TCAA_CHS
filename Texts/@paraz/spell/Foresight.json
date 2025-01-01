@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-20-Foresight-displayName",
+    "original": "Foresight",
+    "translation": null,
+    "context": "{\"Name\": \"Foresight\", \"Idx\": 20, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-20-Foresight-description",
+    "original": "The caster invokes the ultimate form of <b>divination</b> magic to see brief glimpses of the near future. While this spell is active, the caster is able to sense danger seconds before it actually happens.",
+    "translation": null,
+    "context": "{\"Name\": \"Foresight\", \"Idx\": 20, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-20-Foresight-incantation",
+    "original": "\"For-heim\"",
+    "translation": null,
+    "context": "{\"Name\": \"Foresight\", \"Idx\": 20, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-20-Foresight-gesture",
+    "original": "Form a triangle with both hands",
+    "translation": null,
+    "context": "{\"Name\": \"Foresight\", \"Idx\": 20, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-20-Foresight-duration",
+    "original": "24 hours",
+    "translation": null,
+    "context": "{\"Name\": \"Foresight\", \"Idx\": 20, \"Attr\": \"duration\"}"
+  }
+]

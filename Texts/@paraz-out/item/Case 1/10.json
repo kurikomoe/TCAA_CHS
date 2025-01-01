@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-10-Broken Power Cell-displayName",
+    "original": "Broken Power Cell",
+    "translation": "没电的电池",
+    "stage": 1,
+    "context": "{\"Name\": \"Broken Power Cell\", \"Idx\": 10, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-10-Broken Power Cell-description",
+    "original": "The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on.",
+    "translation": "麦考伊旅馆配置了几盏奥术能源驱动的灯。然而，因为奥术电池已经坏了好几周了，这些灯无法点亮。",
+    "stage": 1,
+    "context": "{\"Name\": \"Broken Power Cell\", \"Idx\": 10, \"Attr\": \"description\"}"
+  }
+]

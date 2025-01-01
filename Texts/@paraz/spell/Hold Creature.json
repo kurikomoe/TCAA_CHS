@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-25-Hold Creature-displayName",
+    "original": "Hold Creature",
+    "translation": null,
+    "context": "{\"Name\": \"Hold Creature\", \"Idx\": 25, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-25-Hold Creature-description",
+    "original": "The caster completely restricts the movement of the target. While concentrating on this spell, the target will be unable to move any part of their body. Even subtle movements (such as the gestures required to cast certain spells) are impossible. As a result, the target will also be unable to move their mouth to speak.",
+    "translation": null,
+    "context": "{\"Name\": \"Hold Creature\", \"Idx\": 25, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-25-Hold Creature-incantation",
+    "original": "\"Ho-dl\"",
+    "translation": null,
+    "context": "{\"Name\": \"Hold Creature\", \"Idx\": 25, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-25-Hold Creature-gesture",
+    "original": "Point at the target",
+    "translation": null,
+    "context": "{\"Name\": \"Hold Creature\", \"Idx\": 25, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-25-Hold Creature-duration",
+    "original": "While concentrating",
+    "translation": null,
+    "context": "{\"Name\": \"Hold Creature\", \"Idx\": 25, \"Attr\": \"duration\"}"
+  }
+]

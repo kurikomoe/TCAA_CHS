@@ -1,0 +1,14 @@
+[
+  {
+    "key": "Item-Case 1-9-Crime Scene Map (McCoy Tavern) 3-displayName",
+    "original": "Crime Scene Map (McCoy Tavern)",
+    "translation": null,
+    "context": "{\"Name\": \"Crime Scene Map (McCoy Tavern) 3\", \"Idx\": 9, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-9-Crime Scene Map (McCoy Tavern) 3-description",
+    "original": "A geometrically scaled map of the Crime Scene. Flinhart died at the location of the V marker. Garrick Pierce <i>claims</i> to have witnessed the murder from the W marker. But that's impossible, as he wouldn’t have had proper lighting.",
+    "translation": null,
+    "context": "{\"Name\": \"Crime Scene Map (McCoy Tavern) 3\", \"Idx\": 9, \"Attr\": \"description\"}"
+  }
+]

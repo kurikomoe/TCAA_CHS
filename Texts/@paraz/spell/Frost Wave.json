@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-4-Frost Wave-displayName",
+    "original": "Frost Wave",
+    "translation": null,
+    "context": "{\"Name\": \"Frost Wave\", \"Idx\": 4, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-4-Frost Wave-description",
+    "original": "Anything caught within range is hit with a blast of extremely cold air. Liquids hit will be immediately frozen and organic life will immediately enter stages of hypothermia.",
+    "translation": null,
+    "context": "{\"Name\": \"Frost Wave\", \"Idx\": 4, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-4-Frost Wave-incantation",
+    "original": "None",
+    "translation": null,
+    "context": "{\"Name\": \"Frost Wave\", \"Idx\": 4, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-4-Frost Wave-gesture",
+    "original": "Outstretch both hands",
+    "translation": null,
+    "context": "{\"Name\": \"Frost Wave\", \"Idx\": 4, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-4-Frost Wave-duration",
+    "original": "Instant",
+    "translation": null,
+    "context": "{\"Name\": \"Frost Wave\", \"Idx\": 4, \"Attr\": \"duration\"}"
+  }
+]

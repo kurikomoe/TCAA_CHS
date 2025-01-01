@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-22-Strike True-displayName",
+    "original": "Strike True",
+    "translation": "精准打击",
+    "stage": 1,
+    "context": "{\"Name\": \"Strike True\", \"Idx\": 22, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-22-Strike True-description",
+    "original": "The caster increases their ability to predict the results of all of their actions for the duration. This is useful for the purposes of aiming or doing other activities that rely on dexterity and skill.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Strike True\", \"Idx\": 22, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-22-Strike True-incantation",
+    "original": "\"Non-op-ti-ma\"",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Strike True\", \"Idx\": 22, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-22-Strike True-gesture",
+    "original": "Make a circle with thumb and index finger",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Strike True\", \"Idx\": 22, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-22-Strike True-duration",
+    "original": "10 minutes",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Strike True\", \"Idx\": 22, \"Attr\": \"duration\"}"
+  }
+]

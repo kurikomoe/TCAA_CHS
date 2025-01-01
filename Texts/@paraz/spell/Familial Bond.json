@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-13-Familial Bond-displayName",
+    "original": "Familial Bond",
+    "translation": null,
+    "context": "{\"Name\": \"Familial Bond\", \"Idx\": 13, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-13-Familial Bond-description",
+    "original": "The caster forms a magical unbreakable bond with the target creature, connecting them to the caster’s magic. While this bond exists, the caster can telepathically communicate with the target over any distance. The caster can also choose to see through the target’s eyes as long as they concentrate. And lastly, the caster can also cast spells from the location of the target creature instead of their own location. \n\nOnce this bond is formed, neither the caster nor the target can form bonds with any other creature. This bond can only be broken in death.",
+    "translation": null,
+    "context": "{\"Name\": \"Familial Bond\", \"Idx\": 13, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-13-Familial Bond-incantation",
+    "original": "\"Ret-er-rum\"",
+    "translation": null,
+    "context": "{\"Name\": \"Familial Bond\", \"Idx\": 13, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-13-Familial Bond-gesture",
+    "original": "None",
+    "translation": null,
+    "context": "{\"Name\": \"Familial Bond\", \"Idx\": 13, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-13-Familial Bond-duration",
+    "original": "Indefinitely",
+    "translation": null,
+    "context": "{\"Name\": \"Familial Bond\", \"Idx\": 13, \"Attr\": \"duration\"}"
+  }
+]

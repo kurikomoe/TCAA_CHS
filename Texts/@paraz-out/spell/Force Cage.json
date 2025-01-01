@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-17-Force Cage-displayName",
+    "original": "Force Cage",
+    "translation": "坚牢术",
+    "stage": 1,
+    "context": "{\"Name\": \"Force Cage\", \"Idx\": 17, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-17-Force Cage-description",
+    "original": "For the duration, the caster creates a magical 10ftx10ftx10ft cube around a target within 30ft of them. The walls of this cube are impenetrable and can’t be destroyed by anything. Not even by spells that can normally dispel spell effects. Furthermore, any attempts to magically teleport into or out of the cube will fail.\r\\n\r\\nIf there is more than one creature in the target’s space, they will be pushed away from the center of the cube.\r",
+    "translation": "法术生效时间内，施法者可针对自己30英尺范围内的目标，创造一个长宽高10英尺的立方体。立方体的表面不可被物理手段破坏，也不受驱魔效果影响。另外，试图空间传送进入/离开立方体也只是徒劳。\\n\\n\\n\\n\\n如果目标周围还有其他生物，这些生物会被驱离出立方体。\\n",
+    "stage": 1,
+    "context": "{\"Name\": \"Force Cage\", \"Idx\": 17, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-17-Force Cage-incantation",
+    "original": "\"For-zar-ay\"",
+    "translation": "\"For-zar-ay\"",
+    "stage": 1,
+    "context": "{\"Name\": \"Force Cage\", \"Idx\": 17, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-17-Force Cage-gesture",
+    "original": "Point index finger at the target",
+    "translation": "将食指指向目标",
+    "stage": 1,
+    "context": "{\"Name\": \"Force Cage\", \"Idx\": 17, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-17-Force Cage-duration",
+    "original": "1 Hour",
+    "translation": "1小时",
+    "stage": 1,
+    "context": "{\"Name\": \"Force Cage\", \"Idx\": 17, \"Attr\": \"duration\"}"
+  }
+]

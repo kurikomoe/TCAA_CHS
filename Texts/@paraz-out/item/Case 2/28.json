@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 2-28-Arcane Construct-displayName",
+    "original": "Arcane Constructs",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Arcane Construct\", \"Idx\": 28, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 2-28-Arcane Construct-description",
+    "original": "Arcane Constructs are suits of armour that are animated using artificery. They can carry out simple tasks when ordered to. The ones in the Imperial Academy speak using the voice of Catherine Bellwether. These voice lines can only be changed or adjusted by the academy headmaster.\r\\n\r\\nEvery command given to a Construct is stored in its command log. However, this command log must be cleared regularly.\r",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Arcane Construct\", \"Idx\": 28, \"Attr\": \"description\"}"
+  }
+]

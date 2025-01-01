@@ -1,0 +1,32 @@
+[
+  {
+    "key": "SpellLibrary-19-Sleep-displayName",
+    "original": "Sleep",
+    "translation": null,
+    "context": "{\"Name\": \"Sleep\", \"Idx\": 19, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-19-Sleep-description",
+    "original": "The caster conjures a magical mist in the direction that they stretch their palm. This magical mist will travel up to 30ft before dissipating. Any creature who inhales the mist will fall into a magical slumber. An affected creature will be woken from their slumber if they are violently shaken or experience any sort of pain.",
+    "translation": null,
+    "context": "{\"Name\": \"Sleep\", \"Idx\": 19, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-19-Sleep-incantation",
+    "original": "\"Som-ni-ah\"",
+    "translation": null,
+    "context": "{\"Name\": \"Sleep\", \"Idx\": 19, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-19-Sleep-gesture",
+    "original": "An outstretched palm",
+    "translation": null,
+    "context": "{\"Name\": \"Sleep\", \"Idx\": 19, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-19-Sleep-duration",
+    "original": "While concentrating",
+    "translation": null,
+    "context": "{\"Name\": \"Sleep\", \"Idx\": 19, \"Attr\": \"duration\"}"
+  }
+]

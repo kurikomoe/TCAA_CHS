@@ -1,0 +1,30 @@
+[
+  {
+    "key": "ADress-displayName",
+    "original": "Aria Steelwind",
+    "translation": "阿莉亚·斯蒂尔文德",
+    "stage": 1,
+    "context": "{\"Name\": \"ADress\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "ADress-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"ADress\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "ADress-occupation",
+    "original": "Prosecutor",
+    "translation": "检察官",
+    "stage": 1,
+    "context": "{\"Name\": \"ADress\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "ADress-arcaneArt",
+    "original": "Evocation",
+    "translation": "召唤",
+    "stage": 1,
+    "context": "{\"Name\": \"ADress\", \"Attr\": \"arcaneArt\"}"
+  }
+]

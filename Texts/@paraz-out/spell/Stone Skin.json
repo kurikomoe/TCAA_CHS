@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-24-Stone Skin-displayName",
+    "original": "Stone Skin",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Stone Skin\", \"Idx\": 24, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "SpellLibrary-24-Stone Skin-description",
+    "original": "The caster creates a thick layer of stone around their body. This stone layer will deflect and protect the caster from any physical trauma. The stone layer can be slowly broken through continuous attacks. But as long as the caster concentrates on this spell, the stone layer will instantaneously repair itself.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Stone Skin\", \"Idx\": 24, \"Attr\": \"description\"}"
+  },
+  {
+    "key": "SpellLibrary-24-Stone Skin-incantation",
+    "original": "\"Ter-pro-tec\"",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Stone Skin\", \"Idx\": 24, \"Attr\": \"incantation\"}"
+  },
+  {
+    "key": "SpellLibrary-24-Stone Skin-gesture",
+    "original": "Create an X with both arms",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Stone Skin\", \"Idx\": 24, \"Attr\": \"gesture\"}"
+  },
+  {
+    "key": "SpellLibrary-24-Stone Skin-duration",
+    "original": "While concentrating",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Stone Skin\", \"Idx\": 24, \"Attr\": \"duration\"}"
+  }
+]

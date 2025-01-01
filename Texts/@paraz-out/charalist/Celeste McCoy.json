@@ -1,0 +1,37 @@
+[
+  {
+    "key": "Celeste McCoy-displayName",
+    "original": "Celeste McCoy",
+    "translation": "塞莱斯特·麦考伊",
+    "stage": 1,
+    "context": "{\"Name\": \"Celeste McCoy\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Celeste McCoy-description",
+    "original": "Celeste McCoy is the adopted daughter of Flinhart and Jolene McCoy. Using her immense physical strength and natural talent for magic, she traveled the world as a mercenary to support her family. Her many feats earned her the name: “Crimson Demon” by those who feared her. However, she doesn’t exactly <i>enjoy</i> being called by that nickname.",
+    "translation": "塞莱斯特·麦考伊是弗林哈特和朱莲尼收养的女儿。她凭借着如龙般的体力与力量和对于魔法惊人的天然适应性周游了整个世界，在此过程中作为雇佣兵来补贴家用。她凭借战场上的事迹就轻松的从畏惧她的人那里斩获了“猩红恶魔”的称号。不过，她本人不是很<i>喜欢</i>那个称号。",
+    "stage": 1,
+    "context": "{\"Name\": \"Celeste McCoy\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Celeste McCoy-occupation",
+    "original": "Bodyguard",
+    "translation": "贴身护卫",
+    "stage": 1,
+    "context": "{\"Name\": \"Celeste McCoy\", \"Attr\": \"occupation\"}"
+  },
+  {
+    "key": "Celeste McCoy-arcaneArt",
+    "original": "Transmutation",
+    "translation": "形变",
+    "stage": 1,
+    "context": "{\"Name\": \"Celeste McCoy\", \"Attr\": \"arcaneArt\"}"
+  },
+  {
+    "key": "Celeste McCoy-altDescriptions-0",
+    "original": "Celeste McCoy is the daughter of Flinhart and Jolene McCoy. After the McCoy Tavern was shut down, she became a mercenary to support her family and keep them afloat.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Celeste McCoy\", \"Attr\": \"altDescriptions\", \"idx\": 0}"
+  }
+]

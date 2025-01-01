@@ -1,0 +1,14 @@
+[
+  {
+    "key": "Item-Case 1-11-Broken Power Cell 2-displayName",
+    "original": "Broken Power Cell",
+    "translation": null,
+    "context": "{\"Name\": \"Broken Power Cell 2\", \"Idx\": 11, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-11-Broken Power Cell 2-description",
+    "original": "The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on. This means that the lights were not operational during the murder.",
+    "translation": null,
+    "context": "{\"Name\": \"Broken Power Cell 2\", \"Idx\": 11, \"Attr\": \"description\"}"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Noblewoman-displayName",
+    "original": "Noblewoman",
+    "translation": "贵族",
+    "stage": 1,
+    "context": "{\"Name\": \"Noblewoman\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Noblewoman-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Noblewoman\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Noblewoman-arcaneArt",
+    "original": "???",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Noblewoman\", \"Attr\": \"arcaneArt\"}"
+  }
+]

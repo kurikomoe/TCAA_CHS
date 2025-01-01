@@ -1,0 +1,26 @@
+[
+  {
+    "key": "Valerie Ianus-displayName",
+    "original": "Valerie Ianus",
+    "translation": null,
+    "context": "{\"Name\": \"Valerie Ianus\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Valerie Ianus-description",
+    "original": "A member of the kitchen staff at the Imperial Academy. She’s an identical twin to her sister Valentina. They both physically look the same.",
+    "translation": null,
+    "context": "{\"Name\": \"Valerie Ianus\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Valerie Ianus-altDescriptions-0",
+    "original": "A member of the kitchen staff at the Imperial Academy. She’s an identical twin to her sister Valentina. They both physically look the same.\n\nShe's secretly been hiding the fact that she's a mage. This is illegal under the laws of Wyverngarde.",
+    "translation": null,
+    "context": "{\"Name\": \"Valerie Ianus\", \"Attr\": \"altDescriptions\", \"idx\": 0}"
+  },
+  {
+    "key": "Valerie Ianus-occupation",
+    "original": "Kitchen Staff",
+    "translation": null,
+    "context": "{\"Name\": \"Valerie Ianus\", \"Attr\": \"occupation\"}"
+  }
+]

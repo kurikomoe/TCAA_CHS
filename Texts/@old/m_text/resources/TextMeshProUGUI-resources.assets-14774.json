@@ -1,0 +1,173 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3806
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 2265
+  },
+  "m_Name": "",
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_RaycastTarget": 0,
+  "m_RaycastPadding": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Maskable": 1,
+  "m_OnCullStateChanged": {
+    "m_PersistentCalls": {
+      "m_Calls": {
+        "Array": []
+      }
+    }
+  },
+  "m_text": "Detect Magic",
+  "m_isRightToLeft": 0,
+  "m_fontAsset": {
+    "m_FileID": 2,
+    "m_PathID": 137
+  },
+  "m_sharedMaterial": {
+    "m_FileID": 2,
+    "m_PathID": 11
+  },
+  "m_fontSharedMaterials": {
+    "Array": []
+  },
+  "m_fontMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_fontMaterials": {
+    "Array": []
+  },
+  "m_fontColor32": {
+    "rgba": 4293262847
+  },
+  "m_fontColor": {
+    "r": 1.0,
+    "g": 0.99215686,
+    "b": 0.8980392,
+    "a": 1.0
+  },
+  "m_enableVertexGradient": 0,
+  "m_colorMode": 3,
+  "m_fontColorGradient": {
+    "topLeft": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "topRight": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "bottomLeft": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "bottomRight": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    }
+  },
+  "m_fontColorGradientPreset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_spriteAsset": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_tintAllSprites": 0,
+  "m_StyleSheet": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_TextStyleHashCode": -1183493901,
+  "m_overrideHtmlColors": 0,
+  "m_faceColor": {
+    "rgba": 4294967295
+  },
+  "m_fontSize": 47.7,
+  "m_fontSizeBase": 24.0,
+  "m_fontWeight": 400,
+  "m_enableAutoSizing": 1,
+  "m_fontSizeMin": 18.0,
+  "m_fontSizeMax": 72.0,
+  "m_fontStyle": 0,
+  "m_HorizontalAlignment": 2,
+  "m_VerticalAlignment": 512,
+  "m_textAlignment": 65535,
+  "m_characterSpacing": 0.0,
+  "m_wordSpacing": 0.0,
+  "m_lineSpacing": 0.0,
+  "m_lineSpacingMax": 0.0,
+  "m_paragraphSpacing": 0.0,
+  "m_charWidthMaxAdj": 0.0,
+  "m_enableWordWrapping": 1,
+  "m_wordWrappingRatios": 0.4,
+  "m_overflowMode": 0,
+  "m_linkedTextComponent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "parentLinkedComponent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_enableKerning": 1,
+  "m_enableExtraPadding": 0,
+  "checkPaddingRequired": 0,
+  "m_isRichText": 1,
+  "m_parseCtrlCharacters": 1,
+  "m_isOrthographic": 1,
+  "m_isCullingEnabled": 0,
+  "m_horizontalMapping": 0,
+  "m_verticalMapping": 0,
+  "m_uvLineOffset": 0.0,
+  "m_geometrySortingOrder": 0,
+  "m_IsTextObjectScaleStatic": 0,
+  "m_VertexBufferAutoSizeReduction": 0,
+  "m_useMaxVisibleDescender": 1,
+  "m_pageToDisplay": 1,
+  "m_margin": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_isUsingLegacyAnimationComponent": 0,
+  "m_isVolumetricText": 0,
+  "m_hasFontAssetChanged": 0,
+  "m_baseMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_maskOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  }
+}

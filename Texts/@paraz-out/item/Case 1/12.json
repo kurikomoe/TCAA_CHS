@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-12-Shattered Bottle of Lotus Juice-displayName",
+    "original": "Shattered Bottle of Lotus Juice",
+    "translation": "已经摔成碎片的莲之水饮料瓶",
+    "stage": 1,
+    "context": "{\"Name\": \"Shattered Bottle of Lotus Juice\", \"Idx\": 12, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-12-Shattered Bottle of Lotus Juice-description",
+    "original": "The shattered remains of a glass bottle. You found it next to Flinhart McCoy’s body. The label says the words: \"Lotus Juice\".",
+    "translation": "玻璃瓶残留的碎片。你在弗林哈特·麦考伊的尸体边上发现了它。商标上有如下字样：“莲之水”。",
+    "stage": 1,
+    "context": "{\"Name\": \"Shattered Bottle of Lotus Juice\", \"Idx\": 12, \"Attr\": \"description\"}"
+  }
+]

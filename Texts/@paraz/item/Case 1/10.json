@@ -1,0 +1,14 @@
+[
+  {
+    "key": "Item-Case 1-10-Broken Power Cell-displayName",
+    "original": "Broken Power Cell",
+    "translation": null,
+    "context": "{\"Name\": \"Broken Power Cell\", \"Idx\": 10, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 1-10-Broken Power Cell-description",
+    "original": "The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on.",
+    "translation": null,
+    "context": "{\"Name\": \"Broken Power Cell\", \"Idx\": 10, \"Attr\": \"description\"}"
+  }
+]

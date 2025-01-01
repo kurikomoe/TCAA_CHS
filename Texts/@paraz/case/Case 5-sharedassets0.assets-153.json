@@ -1,0 +1,1190 @@
+[
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-0-0",
+    "original": "How did Aria suffocate von Sanctus?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did Aria suffocate von Sanctus?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did Aria suffocate von Sanctus?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How did Aria suffocate von Sanctus?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-4-0",
+    "original": "The fire,Aria,von Sanctus,the Patron",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The fire,Aria,von Sanctus,the Patron\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The fire,Aria,von Sanctus,the Patron\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The fire,Aria,von Sanctus,the Patron\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-5-0",
+    "original": "consumed,cast,fled from,tricked",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"consumed,cast,fled from,tricked\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"consumed,cast,fled from,tricked\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"consumed,cast,fled from,tricked\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-6-0",
+    "original": "all the oxygen,a spell to bypass,von Sanctus,Aria",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"all the oxygen,a spell to bypass,von Sanctus,Aria\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"all the oxygen,a spell to bypass,von Sanctus,Aria\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"all the oxygen,a spell to bypass,von Sanctus,Aria\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-7-0",
+    "original": "in the Common Room,the Cage,into the hallway,inside the Cage",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"in the Common Room,the Cage,into the hallway,inside the Cage\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"in the Common Room,the Cage,into the hallway,inside the Cage\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"in the Common Room,the Cage,into the hallway,inside the Cage\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-8-0",
+    "original": "How did Aria suffocate von Sanctus?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How did Aria suffocate von Sanctus?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did Aria suffocate von Sanctus?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How did Aria suffocate von Sanctus?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-5-0",
+    "original": "Who is Eris Illmater?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Who is Eris Illmater?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Who is Eris Illmater?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Who is Eris Illmater?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-7-0",
+    "original": "Eris Illmater,Aria Steelwind,The Patron,Ruby Tymora",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Eris Illmater,Aria Steelwind,The Patron,Ruby Tymora\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Eris Illmater,Aria Steelwind,The Patron,Ruby Tymora\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Eris Illmater,Aria Steelwind,The Patron,Ruby Tymora\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-8-0",
+    "original": "is,is not,is,is not",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"is,is not,is,is not\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"is,is not,is,is not\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"is,is not,is,is not\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-9-0",
+    "original": "the Empress of Discord,a qualified attorney,the Patron,a noble",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the Empress of Discord,a qualified attorney,the Patron,a noble\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the Empress of Discord,a qualified attorney,the Patron,a noble\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the Empress of Discord,a qualified attorney,the Patron,a noble\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-10-0",
+    "original": "Who is Eris Illmater?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Who is Eris Illmater?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Who is Eris Illmater?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Who is Eris Illmater?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisCornered-6-0",
+    "original": "My Contract was written without flaw.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"My Contract was written without flaw.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"My Contract was written without flaw.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"My Contract was written without flaw.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-3-0",
+    "original": "Start an ARGUMENT with Aria Steelwind?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Aria Steelwind?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-23-0",
+    "original": "Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"LoadArgueProfile \\\\\\\"Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"LoadArgueProfile \\\\\\\"Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.\\\\\\\"\\\"\\n\", \"cmd\": [\"LoadArgueProfile\", \"Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-27-0",
+    "original": "A villain controlled my mind.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"A villain controlled my mind.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"A villain controlled my mind.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"A villain controlled my mind.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-3-0",
+    "original": "Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered17\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-10-0",
+    "original": "Celeste McCoy had complete control of her actions when Pierce died.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered17\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy had complete control of her actions when Pierce died.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy had complete control of her actions when Pierce died.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy had complete control of her actions when Pierce died.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-16-0",
+    "original": "Garrick Pierce's death was not an accident. It was intentional and committed with malice.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered17\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Garrick Pierce\\\\'s death was not an accident. It was intentional and committed with malice.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Garrick Pierce\\\\'s death was not an accident. It was intentional and committed with malice.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Garrick Pierce's death was not an accident. It was intentional and committed with malice.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-19-0",
+    "original": "The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered17\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-9-0",
+    "original": "Why did Sibyl cast [b]Stone Skin[/b] on herself?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why did Sibyl cast [b]Stone Skin[/b] on herself?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why did Sibyl cast [b]Stone Skin[/b] on herself?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why did Sibyl cast [b]Stone Skin[/b] on herself?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-11-0",
+    "original": "Sibyl,Aria,The Patron,Archeus",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Sibyl,Aria,The Patron,Archeus\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Sibyl,Aria,The Patron,Archeus\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Sibyl,Aria,The Patron,Archeus\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-12-0",
+    "original": "cast [b]Stone Skin[/b],tricked Archeus,cast [b]Illusory Image[/b],was still alive",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"cast [b]Stone Skin[/b],tricked Archeus,cast [b]Illusory Image[/b],was still alive\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"cast [b]Stone Skin[/b],tricked Archeus,cast [b]Illusory Image[/b],was still alive\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"cast [b]Stone Skin[/b],tricked Archeus,cast [b]Illusory Image[/b],was still alive\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-13-0",
+    "original": "before,after,before,after",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"before,after,before,after\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"before,after,before,after\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"before,after,before,after\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-14-0",
+    "original": "being thrown into the lake,hitting the lake,they were attacked,the murders",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"being thrown into the lake,hitting the lake,they were attacked,the murders\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"being thrown into the lake,hitting the lake,they were attacked,the murders\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"being thrown into the lake,hitting the lake,they were attacked,the murders\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-15-0",
+    "original": "Why did Sibyl cast [b]Stone Skin[/b] on herself?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why did Sibyl cast [b]Stone Skin[/b] on herself?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why did Sibyl cast [b]Stone Skin[/b] on herself?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why did Sibyl cast [b]Stone Skin[/b] on herself?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered13-0-0",
+    "original": "The Empress of Discord can't resurrect people easily.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered13\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"The Empress of Discord can\\\\'t resurrect people easily.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"The Empress of Discord can\\\\'t resurrect people easily.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"The Empress of Discord can't resurrect people easily.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered13-19-0",
+    "original": "What could have created this scenario?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered13\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"What could have created this scenario?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"What could have created this scenario?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"What could have created this scenario?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymObj-15-0",
+    "original": "What implies that von Sanctus cast [b]Force Cage[/b]?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymObj\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"What implies that von Sanctus cast [b]Force Cage[/b]?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"What implies that von Sanctus cast [b]Force Cage[/b]?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"What implies that von Sanctus cast [b]Force Cage[/b]?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-11-0",
+    "original": "Why would Celeste hand Aria a Blood Contract?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why would Celeste hand Aria a Blood Contract?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why would Celeste hand Aria a Blood Contract?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why would Celeste hand Aria a Blood Contract?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-17-0",
+    "original": "Aria,Eris,Celeste,Beatrice",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Aria,Eris,Celeste,Beatrice\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Aria,Eris,Celeste,Beatrice\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Aria,Eris,Celeste,Beatrice\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-18-0",
+    "original": "dropped,hid,killed,tricked",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"dropped,hid,killed,tricked\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"dropped,hid,killed,tricked\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"dropped,hid,killed,tricked\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-19-0",
+    "original": "the Contract,Aria,Garrick Pierce,evidence",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the Contract,Aria,Garrick Pierce,evidence\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the Contract,Aria,Garrick Pierce,evidence\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the Contract,Aria,Garrick Pierce,evidence\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-20-0",
+    "original": "in front of Celeste,into signing the Contract,from Tyrion,using a spell",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"in front of Celeste,into signing the Contract,from Tyrion,using a spell\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"in front of Celeste,into signing the Contract,from Tyrion,using a spell\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"in front of Celeste,into signing the Contract,from Tyrion,using a spell\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-21-0",
+    "original": "Why would Celeste hand Aria a Blood Contract?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why would Celeste hand Aria a Blood Contract?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why would Celeste hand Aria a Blood Contract?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why would Celeste hand Aria a Blood Contract?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj13a-11-0",
+    "original": "Who did Eris make a Blood Contract with on the day of the murder?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj13a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Who did Eris make a Blood Contract with on the day of the murder?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered18-4-0",
+    "original": "Garrick Pierce's death occurred because of Celeste McCoy's actions.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered18\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Garrick Pierce\\\\'s death occurred because of Celeste McCoy\\\\'s actions.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Garrick Pierce\\\\'s death occurred because of Celeste McCoy\\\\'s actions.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Garrick Pierce's death occurred because of Celeste McCoy's actions.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered18-27-0",
+    "original": "Who killed Garrick Pierce?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered18\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Who killed Garrick Pierce?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who killed Garrick Pierce?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Who killed Garrick Pierce?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj10-2-0",
+    "original": "Which spell did Aria cast on Sibyl?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Which spell did Aria cast on Sibyl?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Which spell did Aria cast on Sibyl?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Which spell did Aria cast on Sibyl?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelObj11-11-0",
+    "original": "Celeste McCoy's Contract was written without flaw.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj11\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy\\\\'s Contract was written without flaw.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy\\\\'s Contract was written without flaw.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy's Contract was written without flaw.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisCornered4-5-0",
+    "original": "What else proves Beatrice didn't disappear until 2:00 PM?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"What else proves Beatrice didn\\\\'t disappear until 2:00 PM?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"What else proves Beatrice didn\\\\'t disappear until 2:00 PM?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"What else proves Beatrice didn't disappear until 2:00 PM?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered9-8-0",
+    "original": "Celeste McCoy is not the Patron described in Aria Steelwind's Blood Contract.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy is not the Patron described in Aria Steelwind\\\\'s Blood Contract.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy is not the Patron described in Aria Steelwind\\\\'s Blood Contract.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy is not the Patron described in Aria Steelwind's Blood Contract.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisCornered3-12-0",
+    "original": "Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj13-8-0",
+    "original": "Who did Eris make a Blood Contract with on the day of the murder?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj13\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Who did Eris make a Blood Contract with on the day of the murder?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-Start-20-0",
+    "original": "Episode V/nAttorney of the Arcane",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"Start\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"TitleCard \\\\\\\"Episode V/nAttorney of the Arcane\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode V/nAttorney of the Arcane\\\\\\\"\\\"\\n\", \"cmd\": [\"TitleCard\", \"Episode V/nAttorney of the Arcane\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj8-17-0",
+    "original": "What part of the plan required Aster's physical involvement?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What part of the plan required Aster\\\\'s physical involvement?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What part of the plan required Aster\\\\'s physical involvement?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What part of the plan required Aster's physical involvement?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj8-21-0",
+    "original": "Aster,Aria,Celeste,Eris",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Aster,Aria,Celeste,Eris\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Aster,Aria,Celeste,Eris\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Aster,Aria,Celeste,Eris\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj8-22-0",
+    "original": "was tricked into,was forced to,was allowed to,didn't want to",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"was tricked into,was forced to,was allowed to,didn\\\\'t want to\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"was tricked into,was forced to,was allowed to,didn\\\\'t want to\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"was tricked into,was forced to,was allowed to,didn't want to\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj8-23-0",
+    "original": "signing,destroying,murdering,hiding",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"signing,destroying,murdering,hiding\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"signing,destroying,murdering,hiding\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"signing,destroying,murdering,hiding\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj8-24-0",
+    "original": "the Blood Contract,the crimes,the Force Cage,the victims",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the Blood Contract,the crimes,the Force Cage,the victims\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the Blood Contract,the crimes,the Force Cage,the victims\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the Blood Contract,the crimes,the Force Cage,the victims\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj8-25-0",
+    "original": "What part of the plan required Aster's physical involvement?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What part of the plan required Aster\\\\'s physical involvement?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What part of the plan required Aster\\\\'s physical involvement?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What part of the plan required Aster's physical involvement?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-AriaArgue5-2-0",
+    "original": "The perpetrator didn't need to enter the cathedral to commit the murders.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"The perpetrator didn\\\\'t need to enter the cathedral to commit the murders.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"The perpetrator didn\\\\'t need to enter the cathedral to commit the murders.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"The perpetrator didn't need to enter the cathedral to commit the murders.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj5-13-0",
+    "original": "Who killed Garrick Pierce?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Who killed Garrick Pierce?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Who killed Garrick Pierce?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Who killed Garrick Pierce?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj5-16-0",
+    "original": "An unknown person,Aria Steelwind,Beatrice Frega,Eris Illmater",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"An unknown person,Aria Steelwind,Beatrice Frega,Eris Illmater\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"An unknown person,Aria Steelwind,Beatrice Frega,Eris Illmater\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"An unknown person,Aria Steelwind,Beatrice Frega,Eris Illmater\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj5-17-0",
+    "original": "Who killed Garrick Pierce?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Who killed Garrick Pierce?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Who killed Garrick Pierce?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Who killed Garrick Pierce?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj10-11-0",
+    "original": "What did Aria think she was signing?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What did Aria think she was signing?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What did Aria think she was signing?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What did Aria think she was signing?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj10-16-0",
+    "original": "Aria,Aster,Eris,Celeste",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Aria,Aster,Eris,Celeste\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Aria,Aster,Eris,Celeste\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Aria,Aster,Eris,Celeste\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj10-17-0",
+    "original": "signed,cast,destroyed,stole",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"signed,cast,destroyed,stole\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"signed,cast,destroyed,stole\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"signed,cast,destroyed,stole\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj10-18-0",
+    "original": "a marriage,a demonic,an arcane,an illegal",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"a marriage,a demonic,an arcane,an illegal\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"a marriage,a demonic,an arcane,an illegal\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"a marriage,a demonic,an arcane,an illegal\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj10-19-0",
+    "original": "license,spell,object,familiar",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"license,spell,object,familiar\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"license,spell,object,familiar\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"license,spell,object,familiar\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj10-20-0",
+    "original": "What did Aria think she was signing?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What did Aria think she was signing?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What did Aria think she was signing?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What did Aria think she was signing?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered11-6-0",
+    "original": "Celeste McCoy did, in fact, observe that Tyrion Cuthbert was dead.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered11\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy did, in fact, observe that Tyrion Cuthbert was dead.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy did, in fact, observe that Tyrion Cuthbert was dead.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy did, in fact, observe that Tyrion Cuthbert was dead.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered11-20-0",
+    "original": "Beings of my power are able to resurrect people from the dead.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered11\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Beings of my power are able to resurrect people from the dead.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Beings of my power are able to resurrect people from the dead.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Beings of my power are able to resurrect people from the dead.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisCornered_Fail-5-0",
+    "original": "Your soul has been claimed by the Abyss...",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Your soul has been claimed by the Abyss...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Your soul has been claimed by the Abyss...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Your soul has been claimed by the Abyss...\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj13b-11-0",
+    "original": "Who did Eris make a Blood Contract with on the day of the murder?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj13b\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Who did Eris make a Blood Contract with on the day of the murder?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj12-7-0",
+    "original": "How did Sibyl suffocate?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did Sibyl suffocate?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did Sibyl suffocate?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How did Sibyl suffocate?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj12-11-0",
+    "original": "Sibyl,Aria,the Patron,Archeus",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Sibyl,Aria,the Patron,Archeus\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Sibyl,Aria,the Patron,Archeus\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Sibyl,Aria,the Patron,Archeus\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj12-12-0",
+    "original": "drowned,wasn't aware of,was choked by,was attacked by",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"drowned,wasn\\\\'t aware of,was choked by,was attacked by\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"drowned,wasn\\\\'t aware of,was choked by,was attacked by\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"drowned,wasn't aware of,was choked by,was attacked by\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj12-13-0",
+    "original": "in Lake Galakrond,the massacre,a magic spell,Aria",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"in Lake Galakrond,the massacre,a magic spell,Aria\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"in Lake Galakrond,the massacre,a magic spell,Aria\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"in Lake Galakrond,the massacre,a magic spell,Aria\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj12-14-0",
+    "original": "How did Sibyl suffocate?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How did Sibyl suffocate?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did Sibyl suffocate?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How did Sibyl suffocate?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered3-3-0",
+    "original": "Celeste McCoy remembered the attack occurring much earlier than it actually did.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy remembered the attack occurring much earlier than it actually did.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy remembered the attack occurring much earlier than it actually did.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy remembered the attack occurring much earlier than it actually did.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered3-15-0",
+    "original": "An event occurred that required Eris to change Celeste's memories.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"An event occurred that required Eris to change Celeste\\\\'s memories.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"An event occurred that required Eris to change Celeste\\\\'s memories.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"An event occurred that required Eris to change Celeste's memories.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-17-0",
+    "original": "What do we already know about the Patron through the first two murders?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What do we already know about the Patron through the first two murders?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What do we already know about the Patron through the first two murders?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What do we already know about the Patron through the first two murders?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-21-0",
+    "original": "The Patron,Eris,Aria,Beatrice",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The Patron,Eris,Aria,Beatrice\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The Patron,Eris,Aria,Beatrice\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The Patron,Eris,Aria,Beatrice\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-22-0",
+    "original": "is,is not,is,is not",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"is,is not,is,is not\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"is,is not,is,is not\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"is,is not,is,is not\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-23-0",
+    "original": "experienced in,guilty of,innocent of,ignorant of",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"experienced in,guilty of,innocent of,ignorant of\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"experienced in,guilty of,innocent of,ignorant of\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"experienced in,guilty of,innocent of,ignorant of\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-24-0",
+    "original": "using lethal magic,national politics,making deals with demons,physical activity",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"using lethal magic,national politics,making deals with demons,physical activity\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"using lethal magic,national politics,making deals with demons,physical activity\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"using lethal magic,national politics,making deals with demons,physical activity\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj8-25-0",
+    "original": "What do we already know about the Patron through the first two murders?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What do we already know about the Patron through the first two murders?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What do we already know about the Patron through the first two murders?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What do we already know about the Patron through the first two murders?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce5a-2-0",
+    "original": "What's strange about the order of the murders?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce5a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What\\\\'s strange about the order of the murders?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What\\\\'s strange about the order of the murders?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What's strange about the order of the murders?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce5a-7-0",
+    "original": "The murderer,Steelwind,Sibyl,Archeus",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce5a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The murderer,Steelwind,Sibyl,Archeus\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The murderer,Steelwind,Sibyl,Archeus\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The murderer,Steelwind,Sibyl,Archeus\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce5a-8-0",
+    "original": "could have,accidentally,purposefully,quickly",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce5a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"could have,accidentally,purposefully,quickly\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"could have,accidentally,purposefully,quickly\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"could have,accidentally,purposefully,quickly\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce5a-9-0",
+    "original": "killed Pierce,killed Sibyl,killed von Sanctus,killed Archeus",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce5a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"killed Pierce,killed Sibyl,killed von Sanctus,killed Archeus\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"killed Pierce,killed Sibyl,killed von Sanctus,killed Archeus\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"killed Pierce,killed Sibyl,killed von Sanctus,killed Archeus\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce5a-10-0",
+    "original": "second,easily,with magic,with a weapon",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce5a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"second,easily,with magic,with a weapon\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"second,easily,with magic,with a weapon\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"second,easily,with magic,with a weapon\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce5a-11-0",
+    "original": "What's strange about the order of the murders?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce5a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What\\\\'s strange about the order of the murders?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What\\\\'s strange about the order of the murders?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What's strange about the order of the murders?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered-12-0",
+    "original": "Why did Eris change Celeste's memories?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why did Eris change Celeste\\\\'s memories?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why did Eris change Celeste\\\\'s memories?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why did Eris change Celeste's memories?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered-15-0",
+    "original": "Eris needed,Celeste wanted,Eris forced,Aria wanted",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Eris needed,Celeste wanted,Eris forced,Aria wanted\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Eris needed,Celeste wanted,Eris forced,Aria wanted\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Eris needed,Celeste wanted,Eris forced,Aria wanted\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered-16-0",
+    "original": "Celeste to believe,Tyrion to realize,Aria to attack,Aria to believe",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"Celeste to believe,Tyrion to realize,Aria to attack,Aria to believe\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"Celeste to believe,Tyrion to realize,Aria to attack,Aria to believe\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"Celeste to believe,Tyrion to realize,Aria to attack,Aria to believe\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered-17-0",
+    "original": "the events,the truth,a lie,the victims,the Blood Contract",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the events,the truth,a lie,the victims,the Blood Contract\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the events,the truth,a lie,the victims,the Blood Contract\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the events,the truth,a lie,the victims,the Blood Contract\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered-18-0",
+    "original": "occurred earlier,never actually happened,was a normal document,quickly and efficiently",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"occurred earlier,never actually happened,was a normal document,quickly and efficiently\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"occurred earlier,never actually happened,was a normal document,quickly and efficiently\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"occurred earlier,never actually happened,was a normal document,quickly and efficiently\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered-19-0",
+    "original": "Why did Eris change Celeste's memories?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why did Eris change Celeste\\\\'s memories?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why did Eris change Celeste\\\\'s memories?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why did Eris change Celeste's memories?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj12-17-0",
+    "original": "Who did Eris make a Blood Contract with on the day of the murder?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Who did Eris make a Blood Contract with on the day of the murder?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj7-6-0",
+    "original": "How could something demonic control Beatrice?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How could something demonic control Beatrice?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How could something demonic control Beatrice?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How could something demonic control Beatrice?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj7-10-0",
+    "original": "Beatrice,Aria,The other murderers,Marrunath",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Beatrice,Aria,The other murderers,Marrunath\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Beatrice,Aria,The other murderers,Marrunath\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Beatrice,Aria,The other murderers,Marrunath\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj7-11-0",
+    "original": "lost,killed,forgot,unveiled",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"lost,killed,forgot,unveiled\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"lost,killed,forgot,unveiled\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"lost,killed,forgot,unveiled\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj7-12-0",
+    "original": "control of their actions,their memories,the victims,the conspiracy",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"control of their actions,their memories,the victims,the conspiracy\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"control of their actions,their memories,the victims,the conspiracy\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"control of their actions,their memories,the victims,the conspiracy\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj7-13-0",
+    "original": "due to a Blood Contract,against their will,during the massacre,before the trial",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"due to a Blood Contract,against their will,during the massacre,before the trial\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"due to a Blood Contract,against their will,during the massacre,before the trial\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"due to a Blood Contract,against their will,during the massacre,before the trial\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj7-14-0",
+    "original": "How could something demonic control Beatrice?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How could something demonic control Beatrice?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How could something demonic control Beatrice?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How could something demonic control Beatrice?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelFinObj19-84-0",
+    "original": "Who is Celeste's father?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj19\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Who is Celeste\\\\'s father?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who is Celeste\\\\'s father?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Who is Celeste's father?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj3-30-0",
+    "original": "What event was Beatrice referring to?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What event was Beatrice referring to?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What event was Beatrice referring to?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What event was Beatrice referring to?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj3-33-0",
+    "original": "Marrunath,Lucio,Tyrion,Beatrice",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Marrunath,Lucio,Tyrion,Beatrice\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Marrunath,Lucio,Tyrion,Beatrice\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Marrunath,Lucio,Tyrion,Beatrice\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj3-34-0",
+    "original": "hid,denied,presented,revealed",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"hid,denied,presented,revealed\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"hid,denied,presented,revealed\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"hid,denied,presented,revealed\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj3-35-0",
+    "original": "the Purple Mark,the conspiracy,a contradiction, a lie",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the Purple Mark,the conspiracy,a contradiction, a lie\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the Purple Mark,the conspiracy,a contradiction, a lie\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the Purple Mark,the conspiracy,a contradiction, a lie\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj3-36-0",
+    "original": "from Beatrice,despite the evidence,in the testimony,during the massacre",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"from Beatrice,despite the evidence,in the testimony,during the massacre\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"from Beatrice,despite the evidence,in the testimony,during the massacre\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"from Beatrice,despite the evidence,in the testimony,during the massacre\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj3-37-0",
+    "original": "What event was Beatrice referring to?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What event was Beatrice referring to?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What event was Beatrice referring to?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What event was Beatrice referring to?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisCornered12-4-0",
+    "original": "Beatrice Frega did not go missing before 2:00 PM.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered12\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Beatrice Frega did not go missing before 2:00 PM.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Beatrice Frega did not go missing before 2:00 PM.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Beatrice Frega did not go missing before 2:00 PM.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj9-3-0",
+    "original": "What does this tell us about Aria?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What does this tell us about Aria?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What does this tell us about Aria?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What does this tell us about Aria?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj9-7-0",
+    "original": "Aria,Beatrice,Marrunath,The mastermind",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Aria,Beatrice,Marrunath,The mastermind\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Aria,Beatrice,Marrunath,The mastermind\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Aria,Beatrice,Marrunath,The mastermind\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj9-8-0",
+    "original": "lost,killed,hid,created",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"lost,killed,hid,created\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"lost,killed,hid,created\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"lost,killed,hid,created\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj9-9-0",
+    "original": "control of their mind,a forged document,the mastermind,a victim",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"control of their mind,a forged document,the mastermind,a victim\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"control of their mind,a forged document,the mastermind,a victim\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"control of their mind,a forged document,the mastermind,a victim\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj9-10-0",
+    "original": "due to a Blood Contract,from the Inquisition,during the investigation,which promised vengeance",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"due to a Blood Contract,from the Inquisition,during the investigation,which promised vengeance\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"due to a Blood Contract,from the Inquisition,during the investigation,which promised vengeance\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"due to a Blood Contract,from the Inquisition,during the investigation,which promised vengeance\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj9-11-0",
+    "original": "What does this tell us about Aria?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What does this tell us about Aria?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What does this tell us about Aria?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What does this tell us about Aria?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered14-12-0",
+    "original": "Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered14\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj2-1-0",
+    "original": "Which phrase did Eris use to mislead you?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Which phrase did Eris use to mislead you?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Which phrase did Eris use to mislead you?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Which phrase did Eris use to mislead you?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-AriaArgue7-7-0",
+    "original": "Fighting this will put people in danger.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Fighting this will put people in danger.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Fighting this will put people in danger.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Fighting this will put people in danger.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered_Fail-4-0",
+    "original": "Your soul has been claimed by the Abyss...",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"Your soul has been claimed by the Abyss...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Your soul has been claimed by the Abyss...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"Your soul has been claimed by the Abyss...\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-AriaArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisCornered6-3-0",
+    "original": "An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisCornered6-11-0",
+    "original": "The Empress of Discord made Contracts with multiple knights of the Kingsguard.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered6\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"The Empress of Discord made Contracts with multiple knights of the Kingsguard.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"The Empress of Discord made Contracts with multiple knights of the Kingsguard.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"The Empress of Discord made Contracts with multiple knights of the Kingsguard.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj16-17-0",
+    "original": "Why didn't the Patron target Lucio Steelwind?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj16\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t the Patron target Lucio Steelwind?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t the Patron target Lucio Steelwind?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why didn't the Patron target Lucio Steelwind?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj16-19-0",
+    "original": "The Patron,Aria,Lucio,Rathallion",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj16\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The Patron,Aria,Lucio,Rathallion\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The Patron,Aria,Lucio,Rathallion\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The Patron,Aria,Lucio,Rathallion\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj16-20-0",
+    "original": "wanted to frame,wanted to save,wanted to hide,wanted to kill",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj16\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"wanted to frame,wanted to save,wanted to hide,wanted to kill\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"wanted to frame,wanted to save,wanted to hide,wanted to kill\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"wanted to frame,wanted to save,wanted to hide,wanted to kill\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj16-21-0",
+    "original": "House Steelwind,the victims,Tyrion,Aria",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj16\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"House Steelwind,the victims,Tyrion,Aria\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"House Steelwind,the victims,Tyrion,Aria\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"House Steelwind,the victims,Tyrion,Aria\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj16-22-0",
+    "original": "for the murders,to make them suffer,from the nobility,using Aria",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj16\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"for the murders,to make them suffer,from the nobility,using Aria\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"for the murders,to make them suffer,from the nobility,using Aria\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"for the murders,to make them suffer,from the nobility,using Aria\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj16-23-0",
+    "original": "Why didn't the Patron target Lucio Steelwind?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj16\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t the Patron target Lucio Steelwind?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t the Patron target Lucio Steelwind?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why didn't the Patron target Lucio Steelwind?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisReveal3-2-0",
+    "original": "Why are Ruby's memories different from yours?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why are Ruby\\\\'s memories different from yours?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why are Ruby\\\\'s memories different from yours?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why are Ruby's memories different from yours?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisReveal3-4-0",
+    "original": "Ruby,Tyrion,Eris,Aria",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Ruby,Tyrion,Eris,Aria\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Ruby,Tyrion,Eris,Aria\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Ruby,Tyrion,Eris,Aria\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisReveal3-5-0",
+    "original": "signed,destroyed,hid,fabricated",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"signed,destroyed,hid,fabricated\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"signed,destroyed,hid,fabricated\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"signed,destroyed,hid,fabricated\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisReveal3-6-0",
+    "original": "a Blood Contract,their own death,evidence,a birth certificate",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"a Blood Contract,their own death,evidence,a birth certificate\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"a Blood Contract,their own death,evidence,a birth certificate\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"a Blood Contract,their own death,evidence,a birth certificate\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisReveal3-7-0",
+    "original": "Why are Ruby's memories different from yours?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why are Ruby\\\\'s memories different from yours?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why are Ruby\\\\'s memories different from yours?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why are Ruby's memories different from yours?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelObj4-12-0",
+    "original": "What explains Celeste's contradicting memories of what happened?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What explains Celeste\\\\'s contradicting memories of what happened?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What explains Celeste\\\\'s contradicting memories of what happened?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What explains Celeste's contradicting memories of what happened?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelObj4-15-0",
+    "original": "Eris Illmater,Celeste McCoy,Aria Steelwind,Beatrice Frega",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Eris Illmater,Celeste McCoy,Aria Steelwind,Beatrice Frega\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Eris Illmater,Celeste McCoy,Aria Steelwind,Beatrice Frega\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Eris Illmater,Celeste McCoy,Aria Steelwind,Beatrice Frega\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelObj4-16-0",
+    "original": "changed,destroyed,revealed,hid",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"changed,destroyed,revealed,hid\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"changed,destroyed,revealed,hid\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"changed,destroyed,revealed,hid\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelObj4-17-0",
+    "original": "the memories of,the crime scene of,the weapon of,the evidence left by",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the memories of,the crime scene of,the weapon of,the evidence left by\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the memories of,the crime scene of,the weapon of,the evidence left by\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the memories of,the crime scene of,the weapon of,the evidence left by\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelObj4-18-0",
+    "original": "Celeste McCoy,Aria Steelwind,Lloyd von Sanctus,Coraline Sibyl",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"Celeste McCoy,Aria Steelwind,Lloyd von Sanctus,Coraline Sibyl\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"Celeste McCoy,Aria Steelwind,Lloyd von Sanctus,Coraline Sibyl\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"Celeste McCoy,Aria Steelwind,Lloyd von Sanctus,Coraline Sibyl\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelObj4-19-0",
+    "original": "What explains Celeste's contradicting memories of what happened?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What explains Celeste\\\\'s contradicting memories of what happened?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What explains Celeste\\\\'s contradicting memories of what happened?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What explains Celeste's contradicting memories of what happened?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj20-2-0",
+    "original": "Who did Pierce originally send that letter to?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj20\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Who did Pierce originally send that letter to?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Who did Pierce originally send that letter to?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Who did Pierce originally send that letter to?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj20-4-0",
+    "original": "The Patron,Lloyd von Sanctus,Lucio Steelwind,Coraline Sibyl",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj20\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The Patron,Lloyd von Sanctus,Lucio Steelwind,Coraline Sibyl\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The Patron,Lloyd von Sanctus,Lucio Steelwind,Coraline Sibyl\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The Patron,Lloyd von Sanctus,Lucio Steelwind,Coraline Sibyl\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj20-5-0",
+    "original": "Who did Pierce originally send that letter to?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj20\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Who did Pierce originally send that letter to?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Who did Pierce originally send that letter to?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Who did Pierce originally send that letter to?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered20-11-0",
+    "original": "Celeste McCoy did not bring about the demise of Garrick Pierce by her own hand.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered20\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy did not bring about the demise of Garrick Pierce by her own hand.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy did not bring about the demise of Garrick Pierce by her own hand.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy did not bring about the demise of Garrick Pierce by her own hand.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj14a-18-0",
+    "original": "What's similar about some of the targets?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj14a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"What\\\\'s similar about some of the targets?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What\\\\'s similar about some of the targets?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"What's similar about some of the targets?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj14a-22-0",
+    "original": "Von Sanctus,Sibyl,Aria,Pierce",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj14a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Von Sanctus,Sibyl,Aria,Pierce\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Von Sanctus,Sibyl,Aria,Pierce\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Von Sanctus,Sibyl,Aria,Pierce\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj14a-23-0",
+    "original": "and von Sanctus,and Sibyl,and Aria,and Pierce",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj14a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"and von Sanctus,and Sibyl,and Aria,and Pierce\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"and von Sanctus,and Sibyl,and Aria,and Pierce\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"and von Sanctus,and Sibyl,and Aria,and Pierce\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj14a-24-0",
+    "original": "are House leaders,are convicted murderers,are friends,are enemies",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj14a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"are House leaders,are convicted murderers,are friends,are enemies\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"are House leaders,are convicted murderers,are friends,are enemies\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"are House leaders,are convicted murderers,are friends,are enemies\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj14a-25-0",
+    "original": "of Pillar Families,of a lesser noble house,of Aria,of the commonfolk",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj14a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"of Pillar Families,of a lesser noble house,of Aria,of the commonfolk\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"of Pillar Families,of a lesser noble house,of Aria,of the commonfolk\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"of Pillar Families,of a lesser noble house,of Aria,of the commonfolk\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj14a-26-0",
+    "original": "What's similar about some of the targets?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj14a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"What\\\\'s similar about some of the targets?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What\\\\'s similar about some of the targets?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"What's similar about some of the targets?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj8-10-0",
+    "original": "Why was Sibyl motionless despite being conscious?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why was Sibyl motionless despite being conscious?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why was Sibyl motionless despite being conscious?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why was Sibyl motionless despite being conscious?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj8-13-0",
+    "original": "Sibyl,Aria,Archeus,Rudolf",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Sibyl,Aria,Archeus,Rudolf\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Sibyl,Aria,Archeus,Rudolf\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Sibyl,Aria,Archeus,Rudolf\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj8-14-0",
+    "original": "was affected,was blinded,was knocked out,was tricked",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"was affected,was blinded,was knocked out,was tricked\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"was affected,was blinded,was knocked out,was tricked\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"was affected,was blinded,was knocked out,was tricked\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj8-15-0",
+    "original": "by a spell,by the Patron,by the afternoon sun,with an illusion",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"by a spell,by the Patron,by the afternoon sun,with an illusion\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"by a spell,by the Patron,by the afternoon sun,with an illusion\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"by a spell,by the Patron,by the afternoon sun,with an illusion\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj8-16-0",
+    "original": "Why was Sibyl motionless despite being conscious?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj8\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why was Sibyl motionless despite being conscious?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why was Sibyl motionless despite being conscious?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why was Sibyl motionless despite being conscious?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj18-21-0",
+    "original": "Why did the Patron target Garrick Pierce?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj18\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why did the Patron target Garrick Pierce?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why did the Patron target Garrick Pierce?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why did the Patron target Garrick Pierce?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj18-24-0",
+    "original": "Pierce,Rudolf,Aria,The Patron",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj18\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Pierce,Rudolf,Aria,The Patron\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Pierce,Rudolf,Aria,The Patron\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Pierce,Rudolf,Aria,The Patron\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj18-25-0",
+    "original": "knew,hid,created,signed",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj18\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"knew,hid,created,signed\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"knew,hid,created,signed\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"knew,hid,created,signed\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj18-26-0",
+    "original": "the identity,the Blood Contract,the foundations,the [b]Spell Compendiums[/b]",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj18\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"the identity,the Blood Contract,the foundations,the [b]Spell Compendiums[/b]\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"the identity,the Blood Contract,the foundations,the [b]Spell Compendiums[/b]\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"the identity,the Blood Contract,the foundations,the [b]Spell Compendiums[/b]\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj18-27-0",
+    "original": "of Celeste's parents,of Aria,of magic,of the Scaled Lord",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj18\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"of Celeste\\\\'s parents,of Aria,of magic,of the Scaled Lord\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"of Celeste\\\\'s parents,of Aria,of magic,of the Scaled Lord\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"of Celeste's parents,of Aria,of magic,of the Scaled Lord\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj18-28-0",
+    "original": "Why did the Patron target Garrick Pierce?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj18\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why did the Patron target Garrick Pierce?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why did the Patron target Garrick Pierce?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why did the Patron target Garrick Pierce?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-AriaArgue3-2-0",
+    "original": "The person responsible was just a sadistic killer.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue3\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"The person responsible was just a sadistic killer.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"The person responsible was just a sadistic killer.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"The person responsible was just a sadistic killer.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce1-10-0",
+    "original": "How did Sibyl's body end up in the lake?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce1\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did Sibyl\\\\'s body end up in the lake?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did Sibyl\\\\'s body end up in the lake?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"How did Sibyl's body end up in the lake?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce1-12-0",
+    "original": "The murderer,Sibyl,Steelwind,von Sanctus",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce1\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The murderer,Sibyl,Steelwind,von Sanctus\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The murderer,Sibyl,Steelwind,von Sanctus\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The murderer,Sibyl,Steelwind,von Sanctus\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce1-13-0",
+    "original": "threw,hid,killed,burned",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce1\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"threw,hid,killed,burned\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"threw,hid,killed,burned\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"threw,hid,killed,burned\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce1-14-0",
+    "original": "Sibyl,Steelwind,von Sanctus,Pierce",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce1\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"Sibyl,Steelwind,von Sanctus,Pierce\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"Sibyl,Steelwind,von Sanctus,Pierce\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"Sibyl,Steelwind,von Sanctus,Pierce\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce1-15-0",
+    "original": "from the balcony,with a spell,inside a vacant room,completely",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce1\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"from the balcony,with a spell,inside a vacant room,completely\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"from the balcony,with a spell,inside a vacant room,completely\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"from the balcony,with a spell,inside a vacant room,completely\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce1-16-0",
+    "original": "How did Sibyl's body end up in the lake?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce1\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"How did Sibyl\\\\'s body end up in the lake?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did Sibyl\\\\'s body end up in the lake?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"How did Sibyl's body end up in the lake?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered5-16-0",
+    "original": "Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EdictAttempt5-5-0",
+    "original": "Why did the Divine Edict harm you?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EdictAttempt5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why did the Divine Edict harm you?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why did the Divine Edict harm you?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why did the Divine Edict harm you?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EdictAttempt5-7-0",
+    "original": "Aster,The Patron,Tyrion,Aria",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EdictAttempt5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Aster,The Patron,Tyrion,Aria\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Aster,The Patron,Tyrion,Aria\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Aster,The Patron,Tyrion,Aria\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EdictAttempt5-8-0",
+    "original": "does not have,has,does not have,has",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EdictAttempt5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"does not have,has,does not have,has\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"does not have,has,does not have,has\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"does not have,has,does not have,has\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EdictAttempt5-9-0",
+    "original": "a Blood Contract with,a deal with,control of,protection from",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EdictAttempt5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"a Blood Contract with,a deal with,control of,protection from\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"a Blood Contract with,a deal with,control of,protection from\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"a Blood Contract with,a deal with,control of,protection from\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EdictAttempt5-10-0",
+    "original": "the Empress of Discord,Beatrice,Aria,Tyrion",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EdictAttempt5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"the Empress of Discord,Beatrice,Aria,Tyrion\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"the Empress of Discord,Beatrice,Aria,Tyrion\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"the Empress of Discord,Beatrice,Aria,Tyrion\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EdictAttempt5-11-0",
+    "original": "Why did the Divine Edict harm you?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EdictAttempt5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why did the Divine Edict harm you?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why did the Divine Edict harm you?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why did the Divine Edict harm you?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-TheonObj4-12-0",
+    "original": "Which spell did Sibyl cast on herself?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj4\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Which spell did Sibyl cast on herself?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Which spell did Sibyl cast on herself?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Which spell did Sibyl cast on herself?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj9-20-0",
+    "original": "Why didn't Eris use Beatrice to kill Pierce?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t Eris use Beatrice to kill Pierce?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t Eris use Beatrice to kill Pierce?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why didn't Eris use Beatrice to kill Pierce?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj9-23-0",
+    "original": "The murderer,Eris,Beatrice,Aria",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The murderer,Eris,Beatrice,Aria\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The murderer,Eris,Beatrice,Aria\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The murderer,Eris,Beatrice,Aria\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj9-24-0",
+    "original": "wanted to,was forced to,wasn't able to,forgot to",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"wanted to,was forced to,wasn\\\\'t able to,forgot to\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"wanted to,was forced to,wasn\\\\'t able to,forgot to\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"wanted to,was forced to,wasn't able to,forgot to\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj9-25-0",
+    "original": "kill Pierce,fight Celeste,betray the Patron,hide the murders",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"kill Pierce,fight Celeste,betray the Patron,hide the murders\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"kill Pierce,fight Celeste,betray the Patron,hide the murders\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"kill Pierce,fight Celeste,betray the Patron,hide the murders\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj9-26-0",
+    "original": "personally,reluctantly,quickly,stealthily",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"personally,reluctantly,quickly,stealthily\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"personally,reluctantly,quickly,stealthily\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"personally,reluctantly,quickly,stealthily\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisObj9-27-0",
+    "original": "Why didn't Eris use Beatrice to kill Pierce?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj9\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t Eris use Beatrice to kill Pierce?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t Eris use Beatrice to kill Pierce?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why didn't Eris use Beatrice to kill Pierce?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-AfterCredits-38-0",
+    "original": "To be continued...",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AfterCredits\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"TitleCard \\\\\\\"To be continued...\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"To be continued...\\\\\\\"\\\"\\n\", \"cmd\": [\"TitleCard\", \"To be continued...\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered10-7-0",
+    "original": "Neither Aria Steelwind nor Beatrice Frega was directly responsible for the death of Garrick Pierce.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered10\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Neither Aria Steelwind nor Beatrice Frega was directly responsible for the death of Garrick Pierce.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Neither Aria Steelwind nor Beatrice Frega was directly responsible for the death of Garrick Pierce.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Neither Aria Steelwind nor Beatrice Frega was directly responsible for the death of Garrick Pierce.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj5-2-0",
+    "original": "Why would Marrunath interfere?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why would Marrunath interfere?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why would Marrunath interfere?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why would Marrunath interfere?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj5-7-0",
+    "original": "The Purple Mark,The mastermind,Marrunath,Aria",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The Purple Mark,The mastermind,Marrunath,Aria\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The Purple Mark,The mastermind,Marrunath,Aria\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The Purple Mark,The mastermind,Marrunath,Aria\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj5-8-0",
+    "original": "is,is not,has been,hasn't been",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"is,is not,has been,hasn\\\\'t been\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"is,is not,has been,hasn\\\\'t been\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"is,is not,has been,hasn't been\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj5-9-0",
+    "original": "related to,investigating,hiding,lying about",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"related to,investigating,hiding,lying about\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"related to,investigating,hiding,lying about\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"related to,investigating,hiding,lying about\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj5-10-0",
+    "original": "a demon,the nobility,the ancient dragons,an urban myth",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"a demon,the nobility,the ancient dragons,an urban myth\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"a demon,the nobility,the ancient dragons,an urban myth\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"a demon,the nobility,the ancient dragons,an urban myth\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj5-11-0",
+    "original": "Why would Marrunath interfere?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj5\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why would Marrunath interfere?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why would Marrunath interfere?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why would Marrunath interfere?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj11-13-0",
+    "original": "Which demon did Aria make a Blood Contract with?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj11\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Which demon did Aria make a Blood Contract with?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Which demon did Aria make a Blood Contract with?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Which demon did Aria make a Blood Contract with?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj11-17-0",
+    "original": "The Empress of Discord,Marrunath,Eugene Haroldson,An unknown demon",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj11\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"The Empress of Discord,Marrunath,Eugene Haroldson,An unknown demon\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"The Empress of Discord,Marrunath,Eugene Haroldson,An unknown demon\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"The Empress of Discord,Marrunath,Eugene Haroldson,An unknown demon\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj11-18-0",
+    "original": "Which demon did Aria make a Blood Contract with?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj11\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Which demon did Aria make a Blood Contract with?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Which demon did Aria make a Blood Contract with?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Which demon did Aria make a Blood Contract with?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj17a-29-0",
+    "original": "Who else was responsible for Aria's actions?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj17a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Who else was responsible for Aria\\\\'s actions?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Who else was responsible for Aria\\\\'s actions?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Who else was responsible for Aria's actions?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj17a-31-0",
+    "original": "Aria,Marrunath,Lucio,The Patron",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj17a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Aria,Marrunath,Lucio,The Patron\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Aria,Marrunath,Lucio,The Patron\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Aria,Marrunath,Lucio,The Patron\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj17a-32-0",
+    "original": "Who else was responsible for Aria's actions?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj17a\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Who else was responsible for Aria\\\\'s actions?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Who else was responsible for Aria\\\\'s actions?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Who else was responsible for Aria's actions?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-ErisCornered7-17-0",
+    "original": "It's possible that I have a Blood Contract with everyone present during the massacre.",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered7\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"It\\\\'s possible that I have a Blood Contract with everyone present during the massacre.\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"It\\\\'s possible that I have a Blood Contract with everyone present during the massacre.\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"It's possible that I have a Blood Contract with everyone present during the massacre.\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-CelObj2-8-0",
+    "original": "Which physical piece of evidence contradicts Celeste's memories?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj2\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Typewriter \\\\\\\"Which physical piece of evidence contradicts Celeste\\\\'s memories?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Which physical piece of evidence contradicts Celeste\\\\'s memories?\\\\\\\"\\\"\\n\", \"cmd\": [\"Typewriter\", \"Which physical piece of evidence contradicts Celeste's memories?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj15-21-0",
+    "original": "Why would Aria sign this contract?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj15\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why would Aria sign this contract?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why would Aria sign this contract?\\\\\\\"\\\"\\n\", \"cmd\": [\"DeduceTypewriter\", \"Why would Aria sign this contract?\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj15-23-0",
+    "original": "Aria,Marrunath,The Empress of Discord,The Patron",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj15\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Aria,Marrunath,The Empress of Discord,The Patron\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Aria,Marrunath,The Empress of Discord,The Patron\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Aria,Marrunath,The Empress of Discord,The Patron\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj15-24-0",
+    "original": "signed the contract,created the contract,helped the Patron,masterminded this scenario",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj15\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 1 \\\\\\\"signed the contract,created the contract,helped the Patron,masterminded this scenario\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 1 \\\\\\\"signed the contract,created the contract,helped the Patron,masterminded this scenario\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"1\", \"signed the contract,created the contract,helped the Patron,masterminded this scenario\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj15-25-0",
+    "original": "because it looked like,to exact revenge on,because she placed her trust in,because she was threatened by",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj15\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 2 \\\\\\\"because it looked like,to exact revenge on,because she placed her trust in,because she was threatened by\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 2 \\\\\\\"because it looked like,to exact revenge on,because she placed her trust in,because she was threatened by\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"2\", \"because it looked like,to exact revenge on,because she placed her trust in,because she was threatened by\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj15-26-0",
+    "original": "a normal document,the nobility,Lord Steelwind,Beatrice",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj15\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"SetDeductionField 3 \\\\\\\"a normal document,the nobility,Lord Steelwind,Beatrice\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"SetDeductionField 3 \\\\\\\"a normal document,the nobility,Lord Steelwind,Beatrice\\\\\\\"\\\"\\n\", \"cmd\": [\"SetDeductionField\", \"3\", \"a normal document,the nobility,Lord Steelwind,Beatrice\"]}"
+  },
+  {
+    "key": "Case 5-sharedassets0.assets-153.json-BeatObj15-27-0",
+    "original": "Why would Aria sign this contract?",
+    "translation": null,
+    "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj15\", \"inst\": \"opcode: RUN_COMMAND\\noperands {\\n  string_value: \\\"Deduction \\\\\\\"Why would Aria sign this contract?\\\\\\\"\\\"\\n}\\noperands {\\n  float_value: 0\\n}\\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why would Aria sign this contract?\\\\\\\"\\\"\\n\", \"cmd\": [\"Deduction\", \"Why would Aria sign this contract?\"]}"
+  }
+]

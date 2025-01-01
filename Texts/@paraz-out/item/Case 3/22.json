@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 3-22-Rod of Mending-displayName",
+    "original": "Rod of Mending",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Rod of Mending\", \"Idx\": 22, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 3-22-Rod of Mending-description",
+    "original": "An artificery tool that channels <b>transmutation</b> magic to repair objects. It’s possible to reverse its magic and cause it to weaken objects instead of repairing them.\r\\n\r\\nIt’s quite large and requires two people to properly carry and use it.\r",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"Rod of Mending\", \"Idx\": 22, \"Attr\": \"description\"}"
+  }
+]

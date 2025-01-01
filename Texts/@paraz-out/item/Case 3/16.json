@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 3-16-All Employees Present-displayName",
+    "original": "All Employees Present",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"All Employees Present\", \"Idx\": 16, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 3-16-All Employees Present-description",
+    "original": "Aside from Justin Waye, every employee who works at the Arcane Refinery is accounted for. Justin is the only Dracogen employee who fell into the vat of corrosive chemicals.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\"Name\": \"All Employees Present\", \"Idx\": 16, \"Attr\": \"description\"}"
+  }
+]

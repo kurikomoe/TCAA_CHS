@@ -1,0 +1,14 @@
+[
+  {
+    "key": "Item-Case 4-16-Lockdown System-displayName",
+    "original": "Lockdown System",
+    "translation": null,
+    "context": "{\"Name\": \"Lockdown System\", \"Idx\": 16, \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Item-Case 4-16-Lockdown System-description",
+    "original": "The lockdown system covers the entire manor. Once activated, it creates magical barriers that prevent anyone from leaving or teleporting out of the building. In addition to this, it covers the entire manor in an <b>Anti-Magic Field</b>. Within this field, any and all magical effects are nullified and disabled.\r\n\r\nHowever, anyone physically or magically connected to the Sword of Spell Eating would be immune to the effects of the <b>Anti-Magic Fields</b>.\r",
+    "translation": null,
+    "context": "{\"Name\": \"Lockdown System\", \"Idx\": 16, \"Attr\": \"description\"}"
+  }
+]

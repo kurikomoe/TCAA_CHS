@@ -1,0 +1,23 @@
+[
+  {
+    "key": "Judge-displayName",
+    "original": "Judge",
+    "translation": "法官",
+    "stage": 1,
+    "context": "{\"Name\": \"Judge\", \"Attr\": \"displayName\"}"
+  },
+  {
+    "key": "Judge-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\"Name\": \"Judge\", \"Attr\": \"description\"}"
+  },
+  {
+    "key": "Judge-occupation",
+    "original": "Judge",
+    "translation": "法官",
+    "stage": 1,
+    "context": "{\"Name\": \"Judge\", \"Attr\": \"occupation\"}"
+  }
+]
