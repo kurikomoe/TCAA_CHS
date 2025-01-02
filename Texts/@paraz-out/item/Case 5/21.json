@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-21-Archeus's Encounter 2-displayName",
     "original": "Archeus's Testimony",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿契厄斯的证言",
+    "stage": 1,
     "context": "{\"Name\": \"Archeus's Encounter 2\", \"Idx\": 21, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-21-Archeus's Encounter 2-description",
     "original": "Theon Archeus was on his way to the Prayer Room to recite his prayers. On his way there, he spotted Aria Steelwind throwing something off of the west balcony. \\n\\nHe wasn’t able to see what she threw. But after Coraline Sibyl’s body was found in Lake Galakrond, he assumed the object must have been Sibyl’s body. However, he could have sworn that he saw something “darker”. But he’s still not sure.\\n\\nAfter witnessing this, he attempted to enter the Prayer Room but was turned away by the knights guarding it.\\n",
-    "translation": "",
-    "stage": 0,
+    "translation": "希恩·阿契厄斯在去祷告室诵经的路上，看见阿莉亚·斯蒂尔文德正从西侧阳台往下扔东西。\\n\\n他看不清具体扔了什么。但在迦拉克隆湖中发现卡洛琳·希比尔的尸体后，希恩认为那个物体是希比尔的尸体。不过，他认为自己看见的东西“更暗”，但也不百分百确定。\\n\\n目击此事之后，他尝试进入祷告室，但被负责守卫的骑士拒绝了。\\n",
+    "stage": 1,
     "context": "{\"Name\": \"Archeus's Encounter 2\", \"Idx\": 21, \"Attr\": \"description\"}"
   }
 ]

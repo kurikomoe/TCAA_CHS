@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-31-The Purple Mark-displayName",
     "original": "The Purple Mark",
-    "translation": "",
-    "stage": 0,
+    "translation": "紫色标记",
+    "stage": 1,
     "context": "{\"Name\": \"The Purple Mark\", \"Idx\": 31, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-31-The Purple Mark-description",
     "original": "It’s some sort of strange symbol. Aria Steelwind calls it the “Purple Mark”. She thinks it has some relation to her mind control conspiracy.\r\\n\r\\nSupposedly, this mark has been found at the scenes of several gruesome murders throughout Wyverngarde. Aria felt she was getting close to the truth. When she regained consciousness after the massacre, she found a paper with the symbol in her pocket.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "一个奇怪的符号。阿莉亚·斯蒂尔文德称之“紫色标记”，认为这和自己被操控意识相关。\\n\\n这一标志也出现在维文加德领土内数起残忍谋杀案的现场。阿莉亚认为她十分接近真相了。屠杀后恢复意识时，她在自己的口袋里发现了这个符号。",
+    "stage": 1,
     "context": "{\"Name\": \"The Purple Mark\", \"Idx\": 31, \"Attr\": \"description\"}"
   }
 ]

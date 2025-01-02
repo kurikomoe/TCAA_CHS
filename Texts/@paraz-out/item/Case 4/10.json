@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-10-Armbands of Intellect-displayName",
     "original": "Armbands of Intellect",
-    "translation": "",
-    "stage": 0,
+    "translation": "智慧臂章",
+    "stage": 1,
     "context": "{\"Name\": \"Armbands of Intellect\", \"Idx\": 10, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-10-Armbands of Intellect-description",
     "original": "The Armbands of Intellect are an ancient artifact. When worn by a creature, that creature’s intelligence would be increased beyond the limits of an average human. Legends say that it was forged by a member of House Frega to further their study of magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "智慧臂章是一件远古遗物。被生物佩戴时，该生物的智力会被提升至远超普通人类的水平。传说这是由弗雷加一族的成员打造，意在辅助魔法学习。",
+    "stage": 1,
     "context": "{\"Name\": \"Armbands of Intellect\", \"Idx\": 10, \"Attr\": \"description\"}"
   }
 ]

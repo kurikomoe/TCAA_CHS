@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-18-Steelwind’s Orders-displayName",
     "original": "Steelwind’s Orders",
-    "translation": "",
-    "stage": 0,
+    "translation": "斯蒂尔文德的命令",
+    "stage": 1,
     "context": "{\"Name\": \"Steelwind’s Orders\", \"Idx\": 18, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-18-Steelwind’s Orders-description",
     "original": "With the exception of you and Celeste McCoy, Prosecutor Steelwind isn’t allowing anyone inside key areas of the academy. She isn’t even allowing the knights of the Inquisition within these areas. She appears to be conducting the investigation singlehandedly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "除了你和塞莱斯特·麦考伊，斯蒂尔文德检察官没有允许任何人进入学院的重要区域。就连裁判所的骑士都没有获得许可。她看起来是在独立搜查案件。",
+    "stage": 1,
     "context": "{\"Name\": \"Steelwind’s Orders\", \"Idx\": 18, \"Attr\": \"description\"}"
   }
 ]

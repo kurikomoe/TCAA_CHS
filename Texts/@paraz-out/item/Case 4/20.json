@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-20-Celeste's Sword-displayName",
     "original": "Celeste's Sword",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特的剑",
+    "stage": 1,
     "context": "{\"Name\": \"Celeste's Sword\", \"Idx\": 20, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-20-Celeste's Sword-description",
     "original": "When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.\r\\n\r\\nYou later found the missing sword was found in Beatrice’s bedroom. This was also the room where the Sword of Spell Eating was found after it was stolen. Are these two elements related somehow?\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特在衣帽间更衣时，得知她的佩剑不见了。有人拿走了这把剑。\\n\\n\\n\\n你后来在比亚特丽丝的卧室找到了失踪的剑。这同时也是失窃的噬法之剑被找到的地方。这两件事有关系吗？",
+    "stage": 1,
     "context": "{\"Name\": \"Celeste's Sword\", \"Idx\": 20, \"Attr\": \"description\"}"
   }
 ]

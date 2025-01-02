@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-1-Aurinax Blockade-displayName",
     "original": "Aurinax Blockade",
-    "translation": "",
-    "stage": 0,
+    "translation": "欧奥耐克斯被封锁",
+    "stage": 1,
     "context": "{\"Name\": \"Aurinax Blockade\", \"Idx\": 1, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-1-Aurinax Blockade-description",
     "original": "A blockade has been created around the city of Aurinax. This blockade is preventing anyone from leaving or entering the city. The Kingsguard have taken careful note of everyone that is currently contained within the blockade.",
-    "translation": "",
-    "stage": 0,
+    "translation": "欧奥耐克斯全城被封锁了。这一行动阻止了任何人出入城市。国王卫队正在盘查城内被封锁的所有人。",
+    "stage": 1,
     "context": "{\"Name\": \"Aurinax Blockade\", \"Idx\": 1, \"Attr\": \"description\"}"
   }
 ]

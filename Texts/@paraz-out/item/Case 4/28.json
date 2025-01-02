@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-28-Tracker's Testimony-displayName",
     "original": "Tracker's Testimony",
-    "translation": "",
-    "stage": 0,
+    "translation": "追迹者的证言",
+    "stage": 1,
     "context": "{\"Name\": \"Tracker's Testimony\", \"Idx\": 28, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-28-Tracker's Testimony-description",
     "original": "On the night of the murder, Tracker smelled something strange and followed the scent to the hallway north of Beatrice’s Bedroom. There he saw a “flying rat” come out from the northern air vent. Tracker barked at this “rat” and scared it away. \r\\n\r\\nWhen this happened, “rat” supposedly dropped the Sword of Spell Eating. Tracker took the sword and brought it back to Beatrice’s Room.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "谋杀发生当晚，追迹者闻到了奇怪的气味，并一路追查到了比亚特丽丝卧室北侧的走廊。之后他看见一只“会飞的老鼠”从北部通风管出现。追迹者对着“老鼠”吠叫，把它吓跑了。\\n\\n\\n\\n这些发生时，“老鼠”掉落了噬法之剑。追迹者把剑带回了比亚特丽丝的卧室。",
+    "stage": 1,
     "context": "{\"Name\": \"Tracker's Testimony\", \"Idx\": 28, \"Attr\": \"description\"}"
   }
 ]

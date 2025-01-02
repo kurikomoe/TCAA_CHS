@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-4-Bloodstain Under the Body (Case 2) 2-displayName",
     "original": "Bloodstain Under the Body",
-    "translation": "",
-    "stage": 0,
+    "translation": "尸体下的血迹",
+    "stage": 1,
     "context": "{\"Name\": \"Bloodstain Under the Body (Case 2) 2\", \"Idx\": 4, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-4-Bloodstain Under the Body (Case 2) 2-description",
     "original": "There is a pool of blood where Catherine Bellwether’s body was. This is strange because she wouldn’t have been wounded by <b>Necrotic Blight</b>.",
-    "translation": "",
-    "stage": 0,
+    "translation": "凯瑟琳·贝尔维瑟的尸体曾在的地方有一滩血迹。有点蹊跷，因为<b>索命咒</b>不会让她受伤。",
+    "stage": 1,
     "context": "{\"Name\": \"Bloodstain Under the Body (Case 2) 2\", \"Idx\": 4, \"Attr\": \"description\"}"
   }
 ]

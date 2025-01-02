@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-30-Shatter-displayName",
     "original": "Shatter",
-    "translation": "",
-    "stage": 0,
+    "translation": "破碎术",
+    "stage": 1,
     "context": "{\"Name\": \"Shatter\", \"Idx\": 30, \"Attr\": \"displayName\"}"
   },
   {
     "key": "SpellLibrary-30-Shatter-description",
     "original": "Channels the caster's magic into any physical object they are touching with their hands. If enough magic is channeled, the object may shatter or break. \\n\\nThe intensity of this spell will exponentially increase while they are concentrating. However, channelling larger quantities of magic will slowly drain the caster's stamina and possibly cause Mageblight.",
-    "translation": "",
-    "stage": 0,
+    "translation": "将施法者的魔力输入施法者手中持有的物体。魔力达到一定量后，物体可能破碎。\\n\\n法术的效果会在施法者集中时指数级增长。但是，输入大量魔力也会使施法者疲劳，可能造成法师之疫。",
+    "stage": 1,
     "context": "{\"Name\": \"Shatter\", \"Idx\": 30, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-30-Shatter-incantation",
     "original": "\"Cre-te-ah\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"Cre-te-ah\"",
+    "stage": 1,
     "context": "{\"Name\": \"Shatter\", \"Idx\": 30, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-30-Shatter-gesture",
     "original": "None",
-    "translation": "",
-    "stage": 0,
+    "translation": "无",
+    "stage": 1,
     "context": "{\"Name\": \"Shatter\", \"Idx\": 30, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-30-Shatter-duration",
     "original": "While concentrating",
-    "translation": "",
-    "stage": 0,
+    "translation": "注意力集中时",
+    "stage": 1,
     "context": "{\"Name\": \"Shatter\", \"Idx\": 30, \"Attr\": \"duration\"}"
   }
 ]

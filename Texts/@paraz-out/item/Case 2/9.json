@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-9-The Academy Lockdown System-displayName",
     "original": "The Academy Lockdown System",
-    "translation": "",
-    "stage": 0,
+    "translation": "学院的封锁系统",
+    "stage": 1,
     "context": "{\"Name\": \"The Academy Lockdown System\", \"Idx\": 9, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-9-The Academy Lockdown System-description",
     "original": "The academy’s lockdown is a system of artificery that covers the entire academy building. Once activated, it creates magical barriers that isolate and protect each room in the building. These barriers can’t be breached with physical or magical force. They also block mages from teleporting through them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "学院的封锁系统会利用奥术能源覆盖整栋教学楼。被激活后，封锁系统会创造魔法屏障，将教学楼的每个房间独立保护起来。这些屏障无法被物理或魔法手段突破，也能阻止法师进行传送。",
+    "stage": 1,
     "context": "{\"Name\": \"The Academy Lockdown System\", \"Idx\": 9, \"Attr\": \"description\"}"
   }
 ]

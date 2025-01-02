@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-16-Valentina's Magical Trace-displayName",
     "original": "Valentina's Magical Trace",
-    "translation": "",
-    "stage": 0,
+    "translation": "瓦伦蒂娜的魔法痕迹",
+    "stage": 1,
     "context": "{\"Name\": \"Valentina's Magical Trace\", \"Idx\": 16, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-16-Valentina's Magical Trace-description",
     "original": "Valentina has a magical trace of <b>necromancy</b> on her. Someone cast a <b>necromancy</b> spell on her within the last forty-eight hours.",
-    "translation": "",
-    "stage": 0,
+    "translation": "瓦伦蒂娜身上有<b>死灵术</b>的魔法痕迹。有人在最近48小时内对她用过<b>死灵术</b>。",
+    "stage": 1,
     "context": "{\"Name\": \"Valentina's Magical Trace\", \"Idx\": 16, \"Attr\": \"description\"}"
   }
 ]

@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-10-Unattuned Spell Compendium-displayName",
     "original": "Unattuned Spell Compendium",
-    "translation": "",
-    "stage": 0,
+    "translation": "尚未绑定的法术汇编",
+    "stage": 1,
     "context": "{\"Name\": \"Unattuned Spell Compendium\", \"Idx\": 10, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-10-Unattuned Spell Compendium-description",
     "original": "An Unattuned Spell Compendium. If a mage keeps this on their person for ten minutes, it will attune to their magic and display what spells they can cast. Once it attunes to a person, it can’t attune to anyone else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一本还没有绑定的法术汇编。如果某位法师随身携带法术汇编超过10分钟，法术汇编就会与法师的魔力绑定，展示出他们所能施展的法术。一旦绑定后，就无法再与其他法师绑定。",
+    "stage": 1,
     "context": "{\"Name\": \"Unattuned Spell Compendium\", \"Idx\": 10, \"Attr\": \"description\"}"
   }
 ]

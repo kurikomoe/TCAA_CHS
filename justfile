@@ -4,6 +4,14 @@ init:
     cp Texts/@old/case/yarn_spinner_pb2.py Texts/@old/case/yarn_spinner.proto Texts/utils/
     openapi-generator-cli generate -i .github/workflows/paratranz-openapi.json -g python -o third/openapi-python
 
+charset:
+    python Texts/get_chars.py \
+        --input-orig third/charset_orig.txt \
+        --input-base third/chinese.txt \
+        --input-base third/3500常用汉字.txt \
+        --inputs Texts/@paraz-out \
+        --output Texts/chinese.txt
+
 fonts:
     rm -rf Fonts/@build
     cd Fonts && \

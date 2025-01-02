@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-12-Haroldson's Security-displayName",
     "original": "Haroldson's Security",
-    "translation": "",
-    "stage": 0,
+    "translation": "哈罗德森的安全措施",
+    "stage": 1,
     "context": "{\"Name\": \"Haroldson's Security\", \"Idx\": 12, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-12-Haroldson's Security-description",
     "original": "The artifacts on display at the Lords’ Ball were protected by layers of abjuration spells. Even a highly skilled mage would have trouble breaking into them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "勋爵的舞会上展出的遗物都施加了多层防护法术。顶尖法师也要费一番功夫才能突破。",
+    "stage": 1,
     "context": "{\"Name\": \"Haroldson's Security\", \"Idx\": 12, \"Attr\": \"description\"}"
   }
 ]

@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-16-Beatrice's Spell Compendium-displayName",
     "original": "Beatrice's Spell Compendium",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝的法术汇编",
+    "stage": 1,
     "context": "{\"Name\": \"Beatrice's Spell Compendium\", \"Idx\": 16, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-16-Beatrice's Spell Compendium-description",
     "original": "Beatrice Frega’s Spell Compendium. It contains the formulas for the following spells: Familial Bond, Sleep, Mend Wounds, Send Message, Animate Corpse, Necrotic Blight, Shatter, Invisibility, Feign Death, and Illusory Disguise.",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝·弗雷加的法术汇编。包含了以下法术：使魔契约、睡眠术、疗愈术、通信术、活化死尸、索命咒、破碎术、隐形术、假死和幻象伪装。",
+    "stage": 1,
     "context": "{\"Name\": \"Beatrice's Spell Compendium\", \"Idx\": 16, \"Attr\": \"description\"}"
   }
 ]

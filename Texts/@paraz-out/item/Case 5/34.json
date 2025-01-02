@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-34-Celeste's Blood Contract-displayName",
     "original": "Celeste's Blood Contract",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特的血契",
+    "stage": 1,
     "context": "{\"Name\": \"Celeste's Blood Contract\", \"Idx\": 34, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-34-Celeste's Blood Contract-description",
     "original": "\"With the apparent death of Tyrion Cuthbert, the Empress of Discord shall revive him, contingent upon the eternal servitude of Celeste McCoy. Henceforth, Celeste McCoy's soul shall be eternally bound to the Abyssal Hells.\r\\n\r\\nAs a part of her servitude, Celeste McCoy shall engage in actions deemed necessary to secure the compliance and cooperation of Aria Steelwind in the Empress’s endeavours.\r\\n\r\\nAnd lastly, it is stipulated that Celeste McCoy, of her own volition and agency, shall bring about the demise of Garrick Pierce by her own hand. Afterwards, Tyrion Cuthbert's consciousness will be restored.\"  \r",
-    "translation": "",
-    "stage": 0,
+    "translation": "“提利昂·卡斯伯特虽然死亡，但无序女皇可以将之复活，代价是塞莱斯特·麦考伊要永世服从。今后，塞莱斯特·麦考伊将永远被困在深渊地狱中。\\n\\n作为服从的一部分，塞莱斯特·麦考伊也要确保阿莉亚·斯蒂尔文德服从，协助女皇的行为。\\n\\n最后，契约规定塞莱斯特·麦考伊要在自主前提下，亲手了结加里克·皮尔斯。之后，提利昂·卡斯伯特的意识就可以被复原。”",
+    "stage": 1,
     "context": "{\"Name\": \"Celeste's Blood Contract\", \"Idx\": 34, \"Attr\": \"description\"}"
   }
 ]

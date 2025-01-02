@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-15-Von Sanctus's Spell Compendium-displayName",
     "original": "Von Sanctus's Spell Compendium",
-    "translation": "",
-    "stage": 0,
+    "translation": "冯·桑克图斯的法术汇编",
+    "stage": 1,
     "context": "{\"Name\": \"Von Sanctus's Spell Compendium\", \"Idx\": 15, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-15-Von Sanctus's Spell Compendium-description",
     "original": "Lloyd Von Sanctus’s Spell Compendium. It contains the formulas for the following spells: Mage Blade, Force Cage, Send Message, and Mend Wounds.",
-    "translation": "",
-    "stage": 0,
+    "translation": "洛伊德·冯·桑克图斯的法术汇编。包含了以下法术：法术剑刃、坚牢术、通信术和疗愈术。",
+    "stage": 1,
     "context": "{\"Name\": \"Von Sanctus's Spell Compendium\", \"Idx\": 15, \"Attr\": \"description\"}"
   }
 ]

@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-21-Slow Fall-displayName",
     "original": "Slow Fall",
-    "translation": "",
-    "stage": 0,
+    "translation": "缓降术",
+    "stage": 1,
     "context": "{\"Name\": \"Slow Fall\", \"Idx\": 21, \"Attr\": \"displayName\"}"
   },
   {
     "key": "SpellLibrary-21-Slow Fall-description",
     "original": "The caster counteracts the force of gravity affecting them, causing them to fall significantly slower when airborne for the duration.",
-    "translation": "",
-    "stage": 0,
+    "translation": "施法者可以抵抗引力，法术生效期间于空中减缓降落速度。",
+    "stage": 1,
     "context": "{\"Name\": \"Slow Fall\", \"Idx\": 21, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-21-Slow Fall-incantation",
     "original": "\"Fe-thu-ra\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"Fe-thu-ra\"",
+    "stage": 1,
     "context": "{\"Name\": \"Slow Fall\", \"Idx\": 21, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-21-Slow Fall-gesture",
     "original": "Point index finger downwards",
-    "translation": "",
-    "stage": 0,
+    "translation": "食指指向下方",
+    "stage": 1,
     "context": "{\"Name\": \"Slow Fall\", \"Idx\": 21, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-21-Slow Fall-duration",
     "original": "1 hour",
-    "translation": "",
-    "stage": 0,
+    "translation": "1小时",
+    "stage": 1,
     "context": "{\"Name\": \"Slow Fall\", \"Idx\": 21, \"Attr\": \"duration\"}"
   }
 ]

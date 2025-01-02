@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-11-The Murder of Garrick Pierce-displayName",
     "original": "The Murder of Garrick Pierce",
-    "translation": "",
-    "stage": 0,
+    "translation": "加里克·皮尔斯谋杀案",
+    "stage": 1,
     "context": "{\"Name\": \"The Murder of Garrick Pierce\", \"Idx\": 11, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-11-The Murder of Garrick Pierce-description",
     "original": "The Inquisition found a frozen blade impaling Garrick Pierce through his heart. There were traces of <b>transmutation</b> on his blood. This implies that the murderer used <b>Shape Liquid</b> to create this blade and murder him. Which is oddly similar to how Pierce murdered Flinhart McCoy.\r\\n\r\\nBut why would the murderer do this when they clearly had more lethal spells at their disposal? Pierce used this method during Flinhart’s murder to leave as little evidence as possible. However, it’s clear the murderer wanted to frame Aria and leave as <i>much</i> evidence as possible.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "裁判所找到了一把穿透加里克·皮尔斯心脏的冰冻剑刃。他的血液里有<b>形变</b>魔法的痕迹。这意味着凶手用<b>形变液体</b>创造了这把剑，杀害了皮尔斯。和皮尔斯杀害弗林哈特·麦考伊的方法如出一辙。\\n\\n\\n\\n但凶手为什么不用自己会的更为致命的法术呢？皮尔斯用这招杀害弗林哈特，是为了尽量不留下证据。但这次的凶手明显想陷害阿莉亚，留下了尽可能多的证据。",
+    "stage": 1,
     "context": "{\"Name\": \"The Murder of Garrick Pierce\", \"Idx\": 11, \"Attr\": \"description\"}"
   }
 ]

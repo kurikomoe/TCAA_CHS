@@ -2522,14 +2522,14 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-360",
     "original": "ERIS: At the time,[p/] the headmaster was reaching out to mages among the commonfolk.",
-    "translation": "ERIS: 那时候，校长还向平民中的魔法使伸出援手。",
+    "translation": "ERIS: 那时候，校长还向平民中的法师伸出援手。",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-361",
     "original": "ERIS: He had started a program to admit these mages to the academy without having to pay tuition.",
-    "translation": "ERIS: 他创始了一个补助项目，允许这些魔法使免学费就读。",
+    "translation": "ERIS: 他创始了一个补助项目，允许这些法师免学费就读。",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
@@ -2585,7 +2585,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-369",
     "original": "ERIS: The Imperial Academy teaches the best mages in the kingdom.",
-    "translation": "ERIS: 帝国学院为王国培养最优秀的魔法使。",
+    "translation": "ERIS: 帝国学院为王国培养最优秀的法师。",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
@@ -3089,43 +3089,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-441",
     "original": "Eris: I’m mainly interested in why he would go so far as to include the commonfolk in the academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我个人比较好奇他为什么愿意向普通人开放学院。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-442",
     "original": "Eris: His generosity is clearly a vice sometimes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 他的慷慨有时是种恶习。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-443",
     "original": "Tyrion: What do you mean?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 此话怎讲？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-444",
     "original": "Eris: Enrolling commonfolk mages into the academy was already a controversial move.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 吸纳平民出身的法师本就是个很有争议的决策。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-445",
     "original": "Eris: But teaching one of them [b]necromancy[/b]...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 更别说传授[b]死灵术[/b]这种禁术了...",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-446",
     "original": "Eris: Even [i]if[/i] Wallace is acquitted,[p/] I don't see things getting easier for him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 就算华莱士能逃过这次，[p/]我想他以后也不会好过。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -3138,36 +3138,36 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-448",
     "original": "Tyrion: What do you think about this, Eris?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 厄莉斯，你对这个有什么想法吗？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-449",
     "original": "Eris: Really, now?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 真的？现在？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-450",
     "original": "Eris: I can't tell you [i]everything[/i] you need to get through this case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我不能什么都告诉你，有些东西你得自己去弄明白。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-451",
     "original": "Eris: What would be the fun in that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 要是什么都告诉你就没意思了嘛",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-452",
     "original": "Tyrion: Um...[p/] Okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃...[p/] 好吧...？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -3180,197 +3180,197 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-454",
     "original": "CELESTE: Tyrion…?[p/] What are we doing here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 提利昂...？[p/]我们来这干嘛？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-455",
     "original": "TYRION: I’m…[p/] not sure.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我...[p/]我也不太清楚..",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-456",
     "original": "For some reason,[p/] you felt drawn to this place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不知怎的，[p/]这里好像有种神奇的魔力吸引着你。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-457",
     "original": "CELESTE: Wait…[p/][s/] Is that Eris?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 等下....[p/][s/]那是厄莉斯吧？！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-458",
     "original": "Celeste points further into the cemetery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特指向墓园深处。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-459",
     "original": "There,[p/] you see Eris standing in front of a gravestone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "顺着她指尖的方向你看到厄莉斯正站在一个墓碑前。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-460",
     "original": "She’s placing flowers on it and appears to be chanting a short prayer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她轻轻地放了几束花，同时嘴里说着什么，像是在轻声祷告。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-461",
     "original": "CELESTE: Well…[p/] We found her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 总之....[p/] 我们找到她了。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-462",
     "original": "TYRION: We…[p/] should probably talk to her later.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我们还是....[p/] 待会再打扰她比较好。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-463",
     "original": "TYRION: It would be rude to disturb her now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 现在上前问话有些不合时宜。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-464",
     "original": "As you’re about to leave,[p/] Eris suddenly turns to face you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "正当你打算离开这里时，[p/] 厄莉斯突然看向你。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-465",
     "original": "She’s far away,[p/] but you can see her beckoning you over.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然她站在离你很远的地方，[p/] 但你能看清她在招呼你过去。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-466",
     "original": "ERIS: Oh, hello there.[p/] Were you two looking for me?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 嗨，你们好啊。[p/] 你们两个是在找我吗？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-467",
     "original": "TYRION: S-[p/]Sorry.[p/] We [i]were[/i] looking for you…",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 抱-[p/]抱歉[p/] 我们确实在找你...",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-468",
     "original": "TYRION: But we understand if you’d rather talk later...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我们能理解你需要些时间...",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-469",
     "original": "ERIS: No.[p/] I was just finishing up here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 没事的，[p/] 我已经悼念过了。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-470",
     "original": "ERIS: Did you have something you wanted to talk to me about?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 找我一定是有话要说吧？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-471",
     "original": "TYRION: Well…[p/] We wanted to ask you some questions about the case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 是的...[p/] 我们想问你一些关于此案的细节。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-472",
     "original": "ERIS: Oh?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 哦？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-473",
     "original": "CELESTE: Oh, Tyrion![p/] I almost forgot!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 哦对！提利昂，[p/]我差点都忘了！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-474",
     "original": "CELESTE: Since this is our first official case together,[p/] I wanted to show you something that I learned.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 既然这是我们第一次官方合作，[p/]我想给你展示一下我新学的技能！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-475",
     "original": "TYRION: Okay…[p/] What is it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 好...[p/]你新学到了什么呢？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-476",
     "original": "CELESTE: ...[i]REPERIO…[p/][s/] ARCANUM[i]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ...[i]REPERIO…[p/][s/] ARCANUM[i]！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-477",
     "original": "ARIA: …!",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: …!",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-478",
     "original": "TYRION: W-[p/][s/]What was that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 哈-[p/][s/]哈？！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-479",
     "original": "CELESTE: [i]That[/i] is the incantation for the [b]Detect Magic[/b] spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 那是[b]法术探测/b]的咒语。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-480",
     "original": "TYRION: [b]Detect Magic[/b]...?[p/] Wait…[p/][s/] Does that mean-?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION:  [b]法术探测[/b]...？[p/] 等下....[p/][s/]你该不会...？！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-481",
     "original": "CELESTE: Yep![p/][s/] We can see magical traces while we're EXAMINING crime scenes now!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 没错！[p/][s/] 我现在能辅佐你在调查犯罪现场时探测是否存在魔法痕迹了！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -3383,50 +3383,50 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-483",
     "original": "Tyrion: It's a painting of some sort of musician.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 某个音乐家的画作。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-484",
     "original": "Tyrion: There's some text written below it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 下面写着什么。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-485",
     "original": "Tyrion: \"Doctor Nicolas Goussu:[p/] Inventor of the Arcane Engine.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “Nicolas Goussu博士:[p/] 奥术引擎之父。”",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-486",
     "original": "Tyrion: \"His work revolutionized trade and travel across the seas.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “他的辛勤付出彻底改善了全世界的海上贸易与旅行的方式。”",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-487",
     "original": "Tyrion: \"He was well known for not discriminating between the commonfolk and the nobility,[p/] judging his assistants based purely on their merit.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “他因对贵族平民一视同仁而为世人所传颂，[p/]并且完全凭借功绩来进行评价他的助手。”",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-488",
     "original": "Tyrion: \"When he wasn't conducting research within the Imperial Academy,[p/] he was known to compose symphonies for the King in his free time.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “在帝国学院研究以外的时间里，他会为国王创作交响曲。”",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-489",
     "original": "Looks like he was a man of many talents.",
-    "translation": "",
-    "stage": 0,
+    "translation": "听起来是个才华横溢的男人。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -3439,78 +3439,78 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-491",
     "original": "CELESTE: I can’t believe the professor is dead…",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我还是接受不了教授已经死了的事实....",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-492",
     "original": "CELESTE: We just saw her this morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我们今早还见过她。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-493",
     "original": "Tyrion: There's a chalk outline around where her body was.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 粉笔画出了她尸体的轮廓。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-494",
     "original": "Tyrion: It appears that most of this blood came from her abdomen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 看起来她腹部大量出血。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-495",
     "original": "Tyrion: Is that where the fatal wound was?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 致命伤是在腹部上吗？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-496",
     "original": "ARIA: …",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: …",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-497",
     "original": "TYRION: There’s a lot of blood in this puddle…[p/] but there’s no trail leading to it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 这个坑里有很多血...[p/] 但没有指向那的痕迹。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-498",
     "original": "TYRION: And there aren't any magical traces anywhere else in the room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 房间里除了这也没有别的魔法痕迹。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-499",
     "original": "Tyrion: I doubt the murderer used magic to clean it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我怀疑凶手用魔法清理过。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-500",
     "original": "CELESTE: Does that mean that the murderer attacked her in this room?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 那这里会是第一案发现场吗？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-501",
     "original": "TYRION: Maybe…[p/] But it’s hard to say for certain.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 可能是...[p/]很难确定。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -3530,71 +3530,71 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-504",
     "original": "Tyrion: The lecture hall has a window with a view.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 讲堂有扇窗。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-505",
     "original": "Celeste: I feel like I'd just stare outside all day if I had to attend class here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我要是在这上课肯定会看着窗外走神一节课。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-506",
     "original": "Tyrion: You're not much of a student, are you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 看来你不是那种品学兼优的好学生",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-507",
     "original": "Celeste: Ugh...[p/] I just can't spend hours sitting in one place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 呃啊...[p/]我只是坐不住而已。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-508",
     "original": "Celeste: I need to move around.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我是那种喜欢跑来跑去的类型。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-509",
     "original": "She [i]was[/i] pretty antsy while you were studying in the library earlier.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这么一想刚才在图书馆的时候她就一直毛毛躁躁的。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-510",
     "original": "Aria: ...How have you learned so many spells if you're so distractible?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ...既然你这么容易分心，那你是怎么学会这么多法术的？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-511",
     "original": "Celeste: I don't know.[p/] I just learn the spell formula and...[p/] cast stuff.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我自己也不太清楚。[p/] 我就记住了公式然后就...能施法。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-512",
     "original": "Aria: I...[p/] see.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 行....[p/]吧。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-513",
     "original": "Celeste: …Is that not normal?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: …难道其他人不是这样的吗？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -3607,43 +3607,43 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-515",
     "original": "Celeste: There's a trace of [b]illusion[/b] magic next to the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 尸体旁有[b]幻觉[/b]魔法的痕迹。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-516",
     "original": "Aria: We believe that the suspect donned an [b]Illusory Disguise[/b] immediately after murdering the victim.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我们有理由怀疑嫌犯在谋杀受害者之后对着自己施展了[b]幻象伪装[/b]。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-517",
     "original": "Aria: Using his disguise,[p/] he discreetly made his way back to the library unnoticed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 凭借着伪装的效果不被人发现的回到了图书馆。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-518",
     "original": "Assuming that Wallace [i]isn't[/i] the murderer,[p/] the real killer must have used a similar disguise.",
-    "translation": "",
-    "stage": 0,
+    "translation": "以华莱士不是真凶为前提，真凶一定用了相同的法术。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-519",
     "original": "Which means that no one would have seen them leave this classroom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也就是说没有人看见他们离开教室。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-520",
     "original": "It'll be harder to find any witnesses that saw the perpetrator.",
-    "translation": "",
-    "stage": 0,
+    "translation": "寻找目击证人这条路大概率走不通。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -3656,22 +3656,22 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-522",
     "original": "Celeste: Oh![p/] They have books here too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 哇哦！[p/] 这里也有书。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-523",
     "original": "Tyrion: They appear to be textbooks about alchemy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 看起来是炼金术相关的教科书。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-524",
     "original": "Celeste: Aw...[p/] Lame.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 啊呜...[p/]",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -3684,64 +3684,64 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-526",
     "original": "Tyrion: This must be where the students sit during lectures.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这里是学生坐的座位。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-527",
     "original": "Celeste: Ugh...[p/] I can't imagine sitting in one place all day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 唔....[p/] 我可受不了在这坐一整天。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-528",
     "original": "Tyrion: Have you never attended a school before?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你以前上过学吗？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-529",
     "original": "Celeste: No.[p/] We never had a proper school in Kornhaven.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 没有哦，[p/]科尔哈文可没有学校。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-530",
     "original": "Celeste: I mainly got my education from books that my parents bought from traveling merchants.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我的学识水平都来自于父母从旅行商人那买的书。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-531",
     "original": "Celeste: What about you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你呢？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-532",
     "original": "Tyrion: ...I used to attend a public school in my hometown.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ...我在家乡那边上过公立学校。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-533",
     "original": "Tyrion: But after Ms. Tymora adopted me,[p/] she handled my education personally.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 自从泰摩拉女士收养我之后，[p/] 她便接管了我的学习。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-534",
     "original": "Aria: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ...",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -3754,120 +3754,120 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-536",
     "original": "There's a trace of [b]necromancy[/b] on the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "尸体上有[b]死灵术[/b]的魔法痕迹。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-537",
     "original": "According to Steelwind,[p/] that's the primary piece of evidence they're using to implicate Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "根据斯蒂尔文德所说，[p/]这是证明华莱士与此案有关的主要证据。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-538",
     "original": "CELESTE: ...What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ...什么？！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-539",
     "original": "TYRION: What’s wrong?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 怎么了？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-540",
     "original": "CELESTE: There’s a trace of [b]necromancy[/b] on the body!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 尸体上有[b]死灵术[/b]的魔法痕迹！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-541",
     "original": "TYRION: [b]Necromancy[/b]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: [b]死灵术[/b]？！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-542",
     "original": "CELESTE: Isn’t [b]necromancy[/b] the type of magic that creates undead?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: [b]死灵术[/b]不是那种能生成僵尸的那种法术嘛？！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-543",
     "original": "CELESTE: S-[p/][s/]She’s not just going to get up and walk away…[p/][s/] right?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 她-[p/][s/]她应该不会突然站起来然后到处走吧？！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-544",
     "original": "ARIA: …We’re honestly not sure.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: …关于这个我们也不确定。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-545",
     "original": "Aria: That’s part of the reason why I’ve stationed myself here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 这也是我为什么驻守在尸体旁的原因之一。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-546",
     "original": "TYRION: But what does [i]that[/i] have to do with Wallace?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但这和华莱士有什么关系呢？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-547",
     "original": "ARIA: Oh?[p/] You didn’t know?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 哦？[p/]你不知道吗？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-548",
     "original": "ARIA: Wallace Nightgrave is a necromancer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 华莱士·奈特格雷夫是个死灵术士。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-549",
     "original": "CELESTE: He’s a what?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 啥？！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-550",
     "original": "ARIA: We believe that he drained her life force completely using a [b]necromancy[/b] spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 我们怀疑他用[b]死灵术[/b]吸干了受害者的生命力。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-551",
     "original": "ARIA: That's why there are no visible wounds.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 这也解释了为什么尸体没有外伤。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-552",
     "original": "Aria: Here is the Autopsy Report.[p/] It will tell you everything that you need to know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 这是尸检报告，[p/] 尽管拿去用吧。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -3880,169 +3880,169 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-554",
     "original": "ARIA: But in the modern day,[p/] even the Inquisition doesn’t commonly deal with [b]necromancy[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 由于记录在案的[b]死灵术[/b]犯罪很少，裁判所也很缺乏这方面的调查经验。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-555",
     "original": "ARIA: They’re all on edge about what other spells he might have used.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 我们都很担心是否还有什么其他法术涉及其中。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-556",
     "original": "ARIA: So…[p/] I’m here to make sure that nothing…[p/] [i]unholy[/i] happens to the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 所以说....[p/]我得在这守着确保不会有什么....[p/]危险的事发生。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-557",
     "original": "You can’t believe it…[p/] You’ve heard stories of necromancers before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "难以置信....[p/] 你曾听说过一些关于死灵术士的故事。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-558",
     "original": "But why would Wallace be studying something like that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么华莱士要学习这些东西呢？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-559",
     "original": "TYRION: But even if Wallace [i]is[/i] a necromancer,[p/] aren’t there plenty of other mages who can cast [b]necromancy[/b] spells?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 退一步讲，就算华莱士是个死灵术士，学院里不是还有不少会[b]死灵术[/b] 的法师吗？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-560",
     "original": "Tyrion: This [i]is[/i] an academy for mages, after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 毕竟这是法师学院。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-561",
     "original": "ARIA: No.[p/] There are no laws against it.[p/] But the knowledge required to learn [b]necromancy[/b] is heavily controlled.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 虽然说想学习什么法术没有明确禁止，[p/] 但是有关[b]死灵术[/b]的相关书籍是受严格管制的。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-562",
     "original": "ARIA: No one in their right mind would dare teach [b]necromancy[/b] beyond basic healing magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 但凡脑子正常的家伙都只敢教授和学习[b]死灵术[/b]中最基础的治愈魔法。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-563",
     "original": "ARIA: Frankly,[p/] I’m surprised even [i]one[/i] student at this school was allowed to learn it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 说实话我真没想到在这种情况下竟然还能有一位学生被允许深入学习死灵术。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-564",
     "original": "Celeste: I can see why...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我可能知道为什么...",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-565",
     "original": "ARIA: But because of this specific piece of evidence,[p/] we know that he’s the murderer. [mind=\"But it’s still too convenient…\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 由于这份独特的证据，[p/] 所以我们判断他就是凶手。 [mind=\"总感觉还是太草率了…\" /]",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-566",
     "original": "TYRION: …!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: …!",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-567",
     "original": "That’s the first time you’ve seen a thought from Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这还是你第一次看到斯蒂尔文德的心声。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-568",
     "original": "Normally,[p/] you can only see thoughts from people who are stressed or excited…",
-    "translation": "",
-    "stage": 0,
+    "translation": "通常来说，[p/]人会在疲惫或兴奋的状态下流露出内心的想法...",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-569",
     "original": "You doubt that Ms. Steelwind is excited…[p/] So, is something causing her to be stressed?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她是不是很兴奋....[p/] 还是说有什么事导致她很疲惫？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-570",
     "original": "TYRION: ...Is there something you’re not telling us, Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 斯蒂尔文德...你还知道些什么别的吗？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-571",
     "original": "TYRION: Because something tells me that this case isn’t as straightforward as you claim it is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 因为我感觉你和我的想法一致，这案子没那么简单。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-572",
     "original": "ARIA: …",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: …",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-573",
     "original": "ARIA: If you truly believe that,[p/] then why don’t you prove it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 要是你真觉得没那么简单，[p/]那你就证明给我看。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-574",
     "original": "TYRION: …",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: …",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-575",
     "original": "The Eye can’t see any more thoughts from her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "荷鲁斯之眼看不出什么她的想法了。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-576",
     "original": "She must be subconsciously guarding her mind now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她一定在潜意识里控制着自己的思想。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-577",
     "original": "But she's clearly hiding something.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但她一定有什么没说...",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -4062,239 +4062,239 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-580",
     "original": "ARIA: Ms. McCoy.[p/] It’s my understanding that you were adopted.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 麦考伊，[p/] 据我所知你是被收养的。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-581",
     "original": "ARIA: Would you happen to know who your birth parents are?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 你对你的亲生父母有什么印象吗？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-582",
     "original": "TYRION: H-[p/][s/]Hey![p/][s/] Isn’t that too personal of a question?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 诶-[p/][s/]喂！[p/][s/]这问的再怎么说也太....",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-583",
     "original": "ARIA: You agreed to answer my questions, didn't you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 你明明答应过我要回答我的问题的。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-584",
     "original": "TYRION: B-[p/][s/]But,[p/] I didn’t think you meant-",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 话-[p/][s/]话是这么说，[p/]但是我没想到你..",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-585",
     "original": "CELESTE: I-[p/]It’s fine, Tyrion.[p/] I'm fine with answering if it helps Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 没-[p/]没事的，提利昂。[p/] 要是能为你辩护华莱士帮忙的话...",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-586",
     "original": "CELESTE: …",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: …",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-587",
     "original": "CELESTE: I don’t know who my birth parents are.[p/] I’ve never tried looking for them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 说实话我不知道我亲生父母是谁，[p/] 我也从没想过要去找他们。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-588",
     "original": "ARIA: …I see.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: …我知道了。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-589",
     "original": "ARIA: If I recall correctly,[p/] your [b]Spell Compendium[/b] only contained one spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 我记得你的[b]法术汇编[/b]显示你只会一种法术。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-590",
     "original": "ARIA: Considering your upbringing,[p/] how did you learn [b]Mage Blade[/b] in the first place?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 考虑到你的教育水平，[p/]你当初是怎么学会 [b]法术剑刃[/b]的？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-591",
     "original": "CELESTE: I bought a scroll from a merchant a few years ago.[p/] It had [b]Mage Blade's[/b] spell formula on it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 几年前我从一个商人那里买到了一个卷轴。[p/]上面有写到[b]法术剑刃[/b]的施法咒语。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-592",
     "original": "CELESTE: But I know more than one spell now.[p/] I actually just learned a few new spells today.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 但我现在不只会那一种法术了，[p/]其实我今天新学会了好几种。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-593",
     "original": "Aria: I’m sorry…[p/] “spells”?[p/] As in plural?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 不好意思...[p/] “好几种”是？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-594",
     "original": "Aria: …How long did it take you to learn these spells?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: …你学这些新法术用了多久？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-595",
     "original": "CELESTE: A few hours, I think.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 可能只有几小时吧....？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-596",
     "original": "ARIA: … [mind=\"She learned multiple spell formulas within a few hours?!\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: … [mind=\"她几小时就学会了好几种新法术？！\" /]",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-597",
     "original": "What was that just now?",
-    "translation": "",
-    "stage": 0,
+    "translation": "刚才那是什么情况？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-598",
     "original": "ARIA: I...[p/] see.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 我...[p/]明白了。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-599",
     "original": "Aria: Well...[p/] I think that’s all I need to ask for now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 好吧....[p/]我想问的已经问完了。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-600",
     "original": "CELESTE: Um…[p/] okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 唔....[p/] 好的。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-601",
     "original": "She’s sharing information about the investigation for [i]that[/i]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她就想问点这些？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-602",
     "original": "Why is she so interested in Celeste all of a sudden?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她怎么突然对塞莱斯特这么感兴趣？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-603",
     "original": "Rancid Smell",
-    "translation": "",
-    "stage": 0,
+    "translation": "恶臭",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-604",
     "original": "CELESTE: Agh![p/][s/] I can’t take it anymore!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 呃啊啊！[p/][s/]真是受不了了！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-605",
     "original": "CELESTE: That smell is driving me crazy!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 好臭，好恶心！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-606",
     "original": "CELESTE: What [i]is[/i] that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 为什么教室里这么臭？！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-607",
     "original": "ARIA: From what I understand,[p/] there was a bit of an accident a few days ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 据我所知，[p/]几天前这里出了些意外事故。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-608",
     "original": "ARIA: It happened during one of the classes that the headmaster was teaching.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 当时校长正在授课。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-609",
     "original": "ARIA: He misread the instructions for an alchemy experiment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 他读错了炼金术的实验说明。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-610",
     "original": "ARIA: And as a result,[p/] he accidentally produced this rancid-smelling vapor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 结果就是，[p/] 生成了一些...不是很好闻的气体。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-611",
     "original": "TYRION: V-[p/][s/]Vapour?![p/][s/] It’s not poisonous, is it?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 气体？！[p/][s/]没有毒性对吧？！",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-612",
     "original": "ARIA: Of course, not.[p/] I wouldn’t be standing here if it were.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 当然没有，[p/] 要是有的话我就不会站在这了。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-613",
     "original": "ARIA: …It’s just extremely unpleasant to the senses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: …确实很摧残嗅觉。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
@@ -4314,29 +4314,29 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-145-616",
     "original": "TYRION: Do you know what happened here, Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 斯蒂尔文德，这里发生了什么？",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-617",
     "original": "ARIA: Well,[p/] it all began when the City Watch received a call from the academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 嘛..[p/] 事情要从应急事件响应中心收到学院的电话开始。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-618",
     "original": "ARIA: Supposedly,[p/] there was an attack on campus grounds and the entire building was put on lockdown.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 据报警所述，校园内发生了一起恐怖袭击而且所有设施都封锁了。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {
     "key": "Default (en-US)-sharedassets0.assets-145-619",
     "original": "ARIA: The city watch set up a perimeter around the building while they waited for the system to deactivate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 应急事件响应中心派人赶到现场并在周围设立警戒线，同时等待封锁解除。",
+    "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
   {

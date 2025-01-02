@@ -16,15 +16,15 @@
   {
     "key": "Illia Stormwake-occupation",
     "original": "High Inquisitor",
-    "translation": "最高审判官",
+    "translation": "最高裁判官",
     "stage": 1,
     "context": "{\"Name\": \"Illia Stormwake\", \"Attr\": \"occupation\"}"
   },
   {
     "key": "Illia Stormwake-arcaneArt",
     "original": "???",
-    "translation": "",
-    "stage": 0,
+    "translation": "???",
+    "stage": 1,
     "context": "{\"Name\": \"Illia Stormwake\", \"Attr\": \"arcaneArt\"}"
   }
 ]

@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-8-The Murderer's Route-displayName",
     "original": "The Murderer's Route",
-    "translation": "",
-    "stage": 0,
+    "translation": "凶手的路线",
+    "stage": 1,
     "context": "{\"Name\": \"The Murderer's Route\", \"Idx\": 8, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-8-The Murderer's Route-description",
     "original": "Judging from each time of death, the murderer went from the Common Room to the Balcony, and then to the Prayer Room. In that order. But that wasn’t the most direct route. There has to be an explanation for that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "根据死亡时间判断，凶手的行动顺序推测如下：从公共休息室出发，先到阳台，再去祷告室。但这并不是最短路线，肯定得有什么原因。",
+    "stage": 1,
     "context": "{\"Name\": \"The Murderer's Route\", \"Idx\": 8, \"Attr\": \"description\"}"
   }
 ]

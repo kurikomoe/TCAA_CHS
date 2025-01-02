@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-6-Mend Wounds-displayName",
     "original": "Mend Wounds",
-    "translation": "",
-    "stage": 0,
+    "translation": "疗愈术",
+    "stage": 1,
     "context": "{\"Name\": \"Mend Wounds\", \"Idx\": 6, \"Attr\": \"displayName\"}"
   },
   {
     "key": "SpellLibrary-6-Mend Wounds-description",
     "original": "Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在施法期间治愈目标的伤势。目标不会留下任何伤疤或淤青。这一法术无法再生残肢，也不能复活已死之人。",
+    "stage": 1,
     "context": "{\"Name\": \"Mend Wounds\", \"Idx\": 6, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-6-Mend Wounds-incantation",
     "original": "\"Men-as\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"Men-as\"",
+    "stage": 1,
     "context": "{\"Name\": \"Mend Wounds\", \"Idx\": 6, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-6-Mend Wounds-gesture",
     "original": "None",
-    "translation": "",
-    "stage": 0,
+    "translation": "无",
+    "stage": 1,
     "context": "{\"Name\": \"Mend Wounds\", \"Idx\": 6, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-6-Mend Wounds-duration",
     "original": "1 minute",
-    "translation": "",
-    "stage": 0,
+    "translation": "1分钟",
+    "stage": 1,
     "context": "{\"Name\": \"Mend Wounds\", \"Idx\": 6, \"Attr\": \"duration\"}"
   }
 ]

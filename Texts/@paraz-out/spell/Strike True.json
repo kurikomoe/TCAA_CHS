@@ -9,29 +9,29 @@
   {
     "key": "SpellLibrary-22-Strike True-description",
     "original": "The caster increases their ability to predict the results of all of their actions for the duration. This is useful for the purposes of aiming or doing other activities that rely on dexterity and skill.",
-    "translation": "",
-    "stage": 0,
+    "translation": "法术生效期间内，提升施法者的能力。施法者可以预估自己行动的后果。对瞄准之类要求熟练度与灵巧度的行动非常有用。",
+    "stage": 1,
     "context": "{\"Name\": \"Strike True\", \"Idx\": 22, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-22-Strike True-incantation",
     "original": "\"Non-op-ti-ma\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"Non-op-ti-ma\"",
+    "stage": 1,
     "context": "{\"Name\": \"Strike True\", \"Idx\": 22, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-22-Strike True-gesture",
     "original": "Make a circle with thumb and index finger",
-    "translation": "",
-    "stage": 0,
+    "translation": "用拇指和食指做出圆圈",
+    "stage": 1,
     "context": "{\"Name\": \"Strike True\", \"Idx\": 22, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-22-Strike True-duration",
     "original": "10 minutes",
-    "translation": "",
-    "stage": 0,
+    "translation": "10分钟",
+    "stage": 1,
     "context": "{\"Name\": \"Strike True\", \"Idx\": 22, \"Attr\": \"duration\"}"
   }
 ]

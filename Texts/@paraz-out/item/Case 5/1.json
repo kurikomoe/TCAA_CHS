@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-1-Letter from Garrick Pierce-displayName",
     "original": "Letter from Garrick Pierce",
-    "translation": "",
-    "stage": 0,
+    "translation": "来自加里克·皮尔斯的信",
+    "stage": 1,
     "context": "{\"Name\": \"Letter from Garrick Pierce\", \"Idx\": 1, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-1-Letter from Garrick Pierce-description",
     "original": "Garrick Pierce sent you a letter. But the paper is torn in the middle. The contents read as such:\\n“I hope you understand... I would've never contacted you unless I had no other choice. I know the truth behind McCoy's <i>true</i> parentage. And I'm aware of how vital this information is to you. As you know, my execution is scheduled for next month. And I'm running out of time. I want to trade this information with you. In exchange, you <i>will</i> grant me my freedom. Meet me within the private Prayer Room within the Grand Cathedral of the Scaled Lord at 2:00 PM. You <i>will</i> save me from my fate, or else”",
-    "translation": "",
-    "stage": 0,
+    "translation": "加里克·皮尔斯给你寄了一封信。但信纸被从中间撕破了，内容如下：\\n“我希望你理解……除非别无选择，我不会主动联系你。我知道麦考伊<i>真正</i>血统背后的事实了。我也知道这一信息对你多么重要。你也知道，我下个月就要被执行死刑了。留给我的时间不多了。我想和你做个交易，你<i>要</i>保我自由，下午两点，鳞甲领主大教堂的私人祷告室内见。你<i>会</i>把我从宿命中救出来的，不然”",
+    "stage": 1,
     "context": "{\"Name\": \"Letter from Garrick Pierce\", \"Idx\": 1, \"Attr\": \"description\"}"
   }
 ]

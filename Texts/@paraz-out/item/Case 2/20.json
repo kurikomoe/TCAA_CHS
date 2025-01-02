@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-20-Blood in the Locker-displayName",
     "original": "Evidence in the Locker",
-    "translation": "",
-    "stage": 0,
+    "translation": "储物柜里的证据",
+    "stage": 1,
     "context": "{\"Name\": \"Blood in the Locker\", \"Idx\": 20, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-20-Blood in the Locker-description",
     "original": "There’s a stain of blood inside the locker with Miriam Frega’s ID number.",
-    "translation": "",
-    "stage": 0,
+    "translation": "与米莉亚姆·弗雷加证件号码吻合的储物柜里有血迹。",
+    "stage": 1,
     "context": "{\"Name\": \"Blood in the Locker\", \"Idx\": 20, \"Attr\": \"description\"}"
   }
 ]

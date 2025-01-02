@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-1-Imperial Academy Map-displayName",
     "original": "Imperial Academy Map",
-    "translation": "",
-    "stage": 0,
+    "translation": "帝国学院地图",
+    "stage": 1,
     "context": "{\"Name\": \"Imperial Academy Map\", \"Idx\": 1, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-1-Imperial Academy Map-description",
     "original": "A map of the Imperial Academy. It displays the general area where Catherine Bellwether was seen that day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "帝国学院的地图。能显示凯瑟琳·贝尔维瑟当日被目击的地点。",
+    "stage": 1,
     "context": "{\"Name\": \"Imperial Academy Map\", \"Idx\": 1, \"Attr\": \"description\"}"
   }
 ]

@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-9-Revive-displayName",
     "original": "Revive",
-    "translation": "",
-    "stage": 0,
+    "translation": "复活术",
+    "stage": 1,
     "context": "{\"Name\": \"Revive\", \"Idx\": 9, \"Attr\": \"displayName\"}"
   },
   {
     "key": "SpellLibrary-9-Revive-description",
     "original": "Floods the target with life energy in an attempt to resuscitate them. It does not heal wounds sustained. Results may vary. But it cannot resuscitate someone who has been dead for more than a minute.",
-    "translation": "",
-    "stage": 0,
+    "translation": "对目标灌输大量生命力以使其复活。无法治愈已存在的伤势。法术不一定成功。死亡一分钟以上的目标无法被复活。",
+    "stage": 1,
     "context": "{\"Name\": \"Revive\", \"Idx\": 9, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-9-Revive-incantation",
     "original": "\"Viv-if-fy\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"Viv-if-fy\"",
+    "stage": 1,
     "context": "{\"Name\": \"Revive\", \"Idx\": 9, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-9-Revive-gesture",
     "original": "None",
-    "translation": "",
-    "stage": 0,
+    "translation": "无",
+    "stage": 1,
     "context": "{\"Name\": \"Revive\", \"Idx\": 9, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-9-Revive-duration",
     "original": "Instant",
-    "translation": "",
-    "stage": 0,
+    "translation": "瞬间",
+    "stage": 1,
     "context": "{\"Name\": \"Revive\", \"Idx\": 9, \"Attr\": \"duration\"}"
   }
 ]

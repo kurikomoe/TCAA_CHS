@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-29-Steelwind's Testimony-displayName",
     "original": "Steelwind's Testimony",
-    "translation": "",
-    "stage": 0,
+    "translation": "斯蒂尔文德的证言",
+    "stage": 1,
     "context": "{\"Name\": \"Steelwind's Testimony\", \"Idx\": 29, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-29-Steelwind's Testimony-description",
     "original": "Aria Steelwind has no memories of what happened after she left her meeting with Theon Archeus and Aster de Wyverngarde. After she left the meeting, she began heading to the Nave to meet with her father. However, she suddenly felt nauseous and went to the westward balcony. She lost consciousness soon after.\r\\n\r\\nShe later regained consciousness in the Prayer Room when she heard Celeste McCoy crying over your unconscious body. She did not cast ANY magic before she fell unconscious. \r",
-    "translation": "",
-    "stage": 0,
+    "translation": "以离开与希恩·阿契厄斯和阿斯特·维文加德的会面为界，阿莉亚·斯蒂尔文德失去了这之后的记忆。离场后，阿莉亚前往中殿与自己的父亲会面。但她突然感觉恶心，就去了西侧阳台，在那里很快失去了意识。\\n\\n在祷告室，塞莱斯特·麦考伊对着失去意识的你哭喊，也让阿莉亚恢复了意识。在昏迷前，阿莉亚没有用过任何魔法。",
+    "stage": 1,
     "context": "{\"Name\": \"Steelwind's Testimony\", \"Idx\": 29, \"Attr\": \"description\"}"
   }
 ]

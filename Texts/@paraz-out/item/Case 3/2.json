@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-2-Justin's Job-displayName",
     "original": "Rika Helped Justin",
-    "translation": "",
-    "stage": 0,
+    "translation": "里卡帮了贾斯汀",
+    "stage": 1,
     "context": "{\"Name\": \"Justin's Job\", \"Idx\": 2, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-2-Justin's Job-description",
     "original": "Mosourika Tudor supposedly begged Stefanic Dracogen to hire Justin Waye. She wanted Justin to \"turn his life around\". Supposedly, he used to spend a lot of time with some \"local delinquents\". But has turned his life around since then.",
-    "translation": "",
-    "stage": 0,
+    "translation": "莫苏里卡·都铎央求斯蒂芬尼克·德拉科根雇佣贾斯汀·维耶。她希望贾斯汀能“重回正轨”。贾斯汀以前经常和“当地流氓”混在一起，但现在已经改过自新。",
+    "stage": 1,
     "context": "{\"Name\": \"Justin's Job\", \"Idx\": 2, \"Attr\": \"description\"}"
   }
 ]

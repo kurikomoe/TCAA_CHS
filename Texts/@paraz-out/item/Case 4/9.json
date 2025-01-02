@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-9-Earrings of Vitality-displayName",
     "original": "Earrings of Vitality",
-    "translation": "",
-    "stage": 0,
+    "translation": "活力耳环",
+    "stage": 1,
     "context": "{\"Name\": \"Earrings of Vitality\", \"Idx\": 9, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-9-Earrings of Vitality-description",
     "original": "The Earrings of Vitality are an ancient artifact. When worn by a creature, that creature’s wounds will slowly heal over time. Furthermore, its holder’s lifespan increases tenfold for as long as they’re worn.  Legends say that it was created by the Scaled Lord himself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "活力耳环是一件远古遗物。被生物佩戴时，该生物的伤势会随时间经过慢慢愈合。此外，只要一直佩戴，持有者的寿命也会变为原本的十倍。传说这是鳞甲领主亲自创造的。",
+    "stage": 1,
     "context": "{\"Name\": \"Earrings of Vitality\", \"Idx\": 9, \"Attr\": \"description\"}"
   }
 ]

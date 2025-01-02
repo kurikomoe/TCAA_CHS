@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-3-Comatose Knights-displayName",
     "original": "Comatose Knights",
-    "translation": "",
-    "stage": 0,
+    "translation": "昏迷的骑士们",
+    "stage": 1,
     "context": "{\"Name\": \"Comatose Knights\", \"Idx\": 3, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-3-Comatose Knights-description",
     "original": "Several knights from the Kingsguard were found unconscious after the bodies were found. They have been unresponsive since the massacre. And due to a lack of magical traces, they are clearly not being affected by any kind of arcane spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "发现尸体后，数名国王卫队的骑士也在昏迷状态下被发现。屠杀后他们一直没有醒来。由于没有魔法痕迹，影响他们的应该不是某种法术。",
+    "stage": 1,
     "context": "{\"Name\": \"Comatose Knights\", \"Idx\": 3, \"Attr\": \"description\"}"
   }
 ]

@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-16-Invisibility-displayName",
     "original": "Invisibility",
-    "translation": "",
-    "stage": 0,
+    "translation": "隐形术",
+    "stage": 1,
     "context": "{\"Name\": \"Invisibility\", \"Idx\": 16, \"Attr\": \"displayName\"}"
   },
   {
     "key": "SpellLibrary-16-Invisibility-description",
     "original": "One of the highest forms of illusion magic. This spell makes the target creature or object completely invisible. While invisible, the target will be completely transparent and undetectable visually. If targeting a creature, this spell will also affect anything that the creature is wearing or holding.",
-    "translation": "",
-    "stage": 0,
+    "translation": "幻觉魔法的最高阶法术之一。法术可以让目标生物/物体完全隐形。被隐形时，目标将完全透明，无法被肉眼观测到。如果对生物施法，法术可以同时让目标持有、穿戴的物体隐形。",
+    "stage": 1,
     "context": "{\"Name\": \"Invisibility\", \"Idx\": 16, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-16-Invisibility-incantation",
     "original": "\"O-kult-arr-ae\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"O-kult-arr-ae\"",
+    "stage": 1,
     "context": "{\"Name\": \"Invisibility\", \"Idx\": 16, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-16-Invisibility-gesture",
     "original": "Clap both hands together",
-    "translation": "",
-    "stage": 0,
+    "translation": "双手拍击",
+    "stage": 1,
     "context": "{\"Name\": \"Invisibility\", \"Idx\": 16, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-16-Invisibility-duration",
     "original": "1 hour",
-    "translation": "",
-    "stage": 0,
+    "translation": "1小时",
+    "stage": 1,
     "context": "{\"Name\": \"Invisibility\", \"Idx\": 16, \"Attr\": \"duration\"}"
   }
 ]

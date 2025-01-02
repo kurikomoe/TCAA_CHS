@@ -45,7 +45,7 @@
     "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-17-0",
     "original": "Celeste,The killer,Flinhart",
     "translation": "",
-    "stage": 1,
+    "stage": 0,
     "context": "{\"case\": \"Case 1-sharedassets0.assets-154.json\", \"node_name\": \"Orym_Deduce2\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"SetDeductionField 0 \\\\\\\"Celeste,The killer,Flinhart\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"SetDeductionField 0 \\\\\\\"Celeste,The killer,Flinhart\\\\\\\"\\\"\n\", \"cmd\": [\"SetDeductionField\", \"0\", \"Celeste,The killer,Flinhart\"]}"
   },
   {

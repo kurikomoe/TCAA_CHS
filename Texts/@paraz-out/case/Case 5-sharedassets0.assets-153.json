@@ -2,8 +2,8 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-0-0",
     "original": "How did Aria suffocate von Sanctus?",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚怎么让冯·桑克图斯窒息的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymObj4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did Aria suffocate von Sanctus?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did Aria suffocate von Sanctus?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"How did Aria suffocate von Sanctus?\"]}"
   },
   {
@@ -37,15 +37,15 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj4-8-0",
     "original": "How did Aria suffocate von Sanctus?",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚怎么让冯·桑克图斯窒息的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymObj4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"How did Aria suffocate von Sanctus?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did Aria suffocate von Sanctus?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"How did Aria suffocate von Sanctus?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-5-0",
     "original": "Who is Eris Illmater?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谁是厄莉斯·伊尔马特？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Who is Eris Illmater?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Who is Eris Illmater?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Who is Eris Illmater?\"]}"
   },
   {
@@ -72,71 +72,71 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal4-10-0",
     "original": "Who is Eris Illmater?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谁是厄莉斯·伊尔马特？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Who is Eris Illmater?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Who is Eris Illmater?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Who is Eris Illmater?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisCornered-6-0",
     "original": "My Contract was written without flaw.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我的契约没有漏洞。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"My Contract was written without flaw.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"My Contract was written without flaw.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"My Contract was written without flaw.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-3-0",
     "original": "Start an ARGUMENT with Aria Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "是否开始说服阿莉亚·斯蒂尔文德？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Aria Steelwind?\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Aria Steelwind?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-23-0",
     "original": "Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.",
-    "translation": "",
-    "stage": 0,
+    "translation": "斯蒂尔文德为了王国的利益行动，不顾自己会承受多少痛苦。她深爱着阿斯特，为了保护他不惜一切代价。但她依然保有理性，愿意听取逻辑完善的意见。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"LoadArgueProfile \\\\\\\"Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"LoadArgueProfile \\\\\\\"Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.\\\\\\\"\\\"\n\", \"cmd\": [\"LoadArgueProfile\", \"Steelwind acts for the greater good of the kingdom, regardless of the amount of suffering she must endure in doing so. She’s deeply in love with Aster and will do anything to protect him. However, she’s still a rational person and will be receptive to logical arguments.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgue-27-0",
     "original": "A villain controlled my mind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "有坏人操控了我的意识。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"A villain controlled my mind.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"A villain controlled my mind.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"A villain controlled my mind.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-3-0",
     "original": "Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "无序女皇，阿莉亚·斯蒂尔文德，比亚特丽丝·弗雷加都不是杀害加里克·皮尔斯的人。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered17\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-10-0",
     "original": "Celeste McCoy had complete control of her actions when Pierce died.",
-    "translation": "",
-    "stage": 0,
+    "translation": "皮尔斯死时，塞莱斯特·麦考伊可以完全自控。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered17\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy had complete control of her actions when Pierce died.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy had complete control of her actions when Pierce died.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy had complete control of her actions when Pierce died.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-16-0",
     "original": "Garrick Pierce's death was not an accident. It was intentional and committed with malice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "加里克·皮尔斯的死不是事故。是带有恶意的蓄意谋杀。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered17\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Garrick Pierce\\\\'s death was not an accident. It was intentional and committed with malice.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Garrick Pierce\\\\'s death was not an accident. It was intentional and committed with malice.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Garrick Pierce's death was not an accident. It was intentional and committed with malice.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered17-19-0",
     "original": "The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.",
-    "translation": "",
-    "stage": 0,
+    "translation": "加里克·皮尔斯死在祷告室时，其他在场的人只有：无序女皇，塞莱斯特·麦考伊，提利昂·卡斯伯特，比亚特丽丝·弗雷加和阿莉亚·斯蒂尔文德。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered17\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"The Empress of Discord, Celeste McCoy, Tyrion Cuthbert, Beatrice Frega, and Aria Steelwind were the only people in the Prayer Room with Garrick Pierce when he died.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-9-0",
     "original": "Why did Sibyl cast [b]Stone Skin[/b] on herself?",
-    "translation": "",
-    "stage": 0,
+    "translation": "希比尔为什么对自己用了[b]岩石护甲[/b]？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj6\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why did Sibyl cast [b]Stone Skin[/b] on herself?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why did Sibyl cast [b]Stone Skin[/b] on herself?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why did Sibyl cast [b]Stone Skin[/b] on herself?\"]}"
   },
   {
@@ -170,36 +170,36 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj6-15-0",
     "original": "Why did Sibyl cast [b]Stone Skin[/b] on herself?",
-    "translation": "",
-    "stage": 0,
+    "translation": "希比尔为什么对自己用了[b]岩石护甲[/b]？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj6\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why did Sibyl cast [b]Stone Skin[/b] on herself?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why did Sibyl cast [b]Stone Skin[/b] on herself?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why did Sibyl cast [b]Stone Skin[/b] on herself?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered13-0-0",
     "original": "The Empress of Discord can't resurrect people easily.",
-    "translation": "",
-    "stage": 0,
+    "translation": "无序女皇也没法轻易复活别人。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered13\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"The Empress of Discord can\\\\'t resurrect people easily.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"The Empress of Discord can\\\\'t resurrect people easily.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"The Empress of Discord can't resurrect people easily.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered13-19-0",
     "original": "What could have created this scenario?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谁有可能促成这个场景？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered13\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"What could have created this scenario?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"What could have created this scenario?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"What could have created this scenario?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymObj-15-0",
     "original": "What implies that von Sanctus cast [b]Force Cage[/b]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "什么能证明冯·桑克图斯用了[b]坚牢术[/b]？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymObj\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"What implies that von Sanctus cast [b]Force Cage[/b]?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"What implies that von Sanctus cast [b]Force Cage[/b]?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"What implies that von Sanctus cast [b]Force Cage[/b]?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-11-0",
     "original": "Why would Celeste hand Aria a Blood Contract?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么塞莱斯特会给阿莉亚一份血契？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered6\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why would Celeste hand Aria a Blood Contract?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why would Celeste hand Aria a Blood Contract?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why would Celeste hand Aria a Blood Contract?\"]}"
   },
   {
@@ -233,85 +233,85 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered6-21-0",
     "original": "Why would Celeste hand Aria a Blood Contract?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么塞莱斯特会给阿莉亚一份血契？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered6\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why would Celeste hand Aria a Blood Contract?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why would Celeste hand Aria a Blood Contract?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why would Celeste hand Aria a Blood Contract?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj13a-11-0",
     "original": "Who did Eris make a Blood Contract with on the day of the murder?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谋杀当天，厄莉斯和谁签订了血契？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj13a\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Who did Eris make a Blood Contract with on the day of the murder?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered18-4-0",
     "original": "Garrick Pierce's death occurred because of Celeste McCoy's actions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "加里克·皮尔斯的死源自塞莱斯特·麦考伊的行动。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered18\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Garrick Pierce\\\\'s death occurred because of Celeste McCoy\\\\'s actions.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Garrick Pierce\\\\'s death occurred because of Celeste McCoy\\\\'s actions.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Garrick Pierce's death occurred because of Celeste McCoy's actions.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered18-27-0",
     "original": "Who killed Garrick Pierce?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谁杀了加里克·皮尔斯？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered18\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Who killed Garrick Pierce?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who killed Garrick Pierce?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Who killed Garrick Pierce?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj10-2-0",
     "original": "Which spell did Aria cast on Sibyl?",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚对希比尔用了什么法术？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj10\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Which spell did Aria cast on Sibyl?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Which spell did Aria cast on Sibyl?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Which spell did Aria cast on Sibyl?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-CelObj11-11-0",
     "original": "Celeste McCoy's Contract was written without flaw.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特·麦考伊的契约没有漏洞。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj11\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy\\\\'s Contract was written without flaw.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy\\\\'s Contract was written without flaw.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy's Contract was written without flaw.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisCornered4-5-0",
     "original": "What else proves Beatrice didn't disappear until 2:00 PM?",
-    "translation": "",
-    "stage": 0,
+    "translation": "还有其他表明比亚特丽丝下午2:00才失踪的证据吗？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"What else proves Beatrice didn\\\\'t disappear until 2:00 PM?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"What else proves Beatrice didn\\\\'t disappear until 2:00 PM?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"What else proves Beatrice didn't disappear until 2:00 PM?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered9-8-0",
     "original": "Celeste McCoy is not the Patron described in Aria Steelwind's Blood Contract.",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚·斯蒂尔文德的血契里提到的签约人不是塞莱斯特·麦考伊。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered9\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy is not the Patron described in Aria Steelwind\\\\'s Blood Contract.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy is not the Patron described in Aria Steelwind\\\\'s Blood Contract.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy is not the Patron described in Aria Steelwind's Blood Contract.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisCornered3-12-0",
     "original": "Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "拉菲·弗雷加、米莉亚姆·弗雷加和拉扎瑞克·阿斯克勒庇俄斯遇见了幻觉。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj13-8-0",
     "original": "Who did Eris make a Blood Contract with on the day of the murder?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谋杀当天，厄莉斯和谁签订了血契？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj13\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Who did Eris make a Blood Contract with on the day of the murder?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-Start-20-0",
     "original": "Episode V/nAttorney of the Arcane",
-    "translation": "",
-    "stage": 0,
+    "translation": "第五章/n奥术律师",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"Start\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"TitleCard \\\\\\\"Episode V/nAttorney of the Arcane\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode V/nAttorney of the Arcane\\\\\\\"\\\"\n\", \"cmd\": [\"TitleCard\", \"Episode V/nAttorney of the Arcane\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-CelFinObj8-17-0",
     "original": "What part of the plan required Aster's physical involvement?",
-    "translation": "",
-    "stage": 0,
+    "translation": "计划的哪一部分需要阿斯特物理介入？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj8\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What part of the plan required Aster\\\\'s physical involvement?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What part of the plan required Aster\\\\'s physical involvement?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What part of the plan required Aster's physical involvement?\"]}"
   },
   {
@@ -345,8 +345,8 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-CelFinObj8-25-0",
     "original": "What part of the plan required Aster's physical involvement?",
-    "translation": "",
-    "stage": 0,
+    "translation": "计划的哪一部分需要阿斯特物理介入？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj8\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What part of the plan required Aster\\\\'s physical involvement?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What part of the plan required Aster\\\\'s physical involvement?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What part of the plan required Aster's physical involvement?\"]}"
   },
   {
@@ -576,15 +576,15 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce5a-11-0",
     "original": "What's strange about the order of the murders?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谋杀的顺序哪里奇怪？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce5a\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What\\\\'s strange about the order of the murders?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What\\\\'s strange about the order of the murders?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What's strange about the order of the murders?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered-12-0",
     "original": "Why did Eris change Celeste's memories?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么厄莉斯要修改塞莱斯特的记忆？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why did Eris change Celeste\\\\'s memories?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why did Eris change Celeste\\\\'s memories?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why did Eris change Celeste's memories?\"]}"
   },
   {
@@ -618,22 +618,22 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered-19-0",
     "original": "Why did Eris change Celeste's memories?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么厄莉斯要修改塞莱斯特的记忆？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why did Eris change Celeste\\\\'s memories?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why did Eris change Celeste\\\\'s memories?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why did Eris change Celeste's memories?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj12-17-0",
     "original": "Who did Eris make a Blood Contract with on the day of the murder?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谋杀当天，厄莉斯和谁签订了血契？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj12\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who did Eris make a Blood Contract with on the day of the murder?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Who did Eris make a Blood Contract with on the day of the murder?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj7-6-0",
     "original": "How could something demonic control Beatrice?",
-    "translation": "",
-    "stage": 0,
+    "translation": "恶魔是怎么控制比亚特丽丝的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"How could something demonic control Beatrice?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How could something demonic control Beatrice?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"How could something demonic control Beatrice?\"]}"
   },
   {
@@ -667,22 +667,22 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj7-14-0",
     "original": "How could something demonic control Beatrice?",
-    "translation": "",
-    "stage": 0,
+    "translation": "恶魔是怎么控制比亚特丽丝的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"How could something demonic control Beatrice?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How could something demonic control Beatrice?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"How could something demonic control Beatrice?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-CelFinObj19-84-0",
     "original": "Who is Celeste's father?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谁是塞莱斯特的父亲？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelFinObj19\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Who is Celeste\\\\'s father?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who is Celeste\\\\'s father?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Who is Celeste's father?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj3-30-0",
     "original": "What event was Beatrice referring to?",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝指的什么事件？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What event was Beatrice referring to?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What event was Beatrice referring to?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What event was Beatrice referring to?\"]}"
   },
   {
@@ -716,22 +716,22 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj3-37-0",
     "original": "What event was Beatrice referring to?",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝指的什么事件？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What event was Beatrice referring to?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What event was Beatrice referring to?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What event was Beatrice referring to?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisCornered12-4-0",
     "original": "Beatrice Frega did not go missing before 2:00 PM.",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝·弗雷加直到下午2:00才失踪。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered12\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Beatrice Frega did not go missing before 2:00 PM.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Beatrice Frega did not go missing before 2:00 PM.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Beatrice Frega did not go missing before 2:00 PM.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj9-3-0",
     "original": "What does this tell us about Aria?",
-    "translation": "",
-    "stage": 0,
+    "translation": "这能说明什么关于阿莉亚的事？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj9\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What does this tell us about Aria?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What does this tell us about Aria?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What does this tell us about Aria?\"]}"
   },
   {
@@ -765,64 +765,64 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj9-11-0",
     "original": "What does this tell us about Aria?",
-    "translation": "",
-    "stage": 0,
+    "translation": "这能说明什么关于阿莉亚的事？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj9\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What does this tell us about Aria?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What does this tell us about Aria?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What does this tell us about Aria?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered14-12-0",
     "original": "Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝·弗雷加对提利昂·卡斯伯特用了[b]假死[/b]。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered14\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj2-1-0",
     "original": "Which phrase did Eris use to mislead you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "厄莉斯用了什么修辞来误导你？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj2\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Which phrase did Eris use to mislead you?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Which phrase did Eris use to mislead you?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Which phrase did Eris use to mislead you?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgue7-7-0",
     "original": "Fighting this will put people in danger.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这种斗争会让人们陷入危险。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Fighting this will put people in danger.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Fighting this will put people in danger.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Fighting this will put people in danger.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered_Fail-4-0",
     "original": "Your soul has been claimed by the Abyss...",
-    "translation": "",
-    "stage": 0,
+    "translation": "你的灵魂已经归属深渊……",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered_Fail\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"Your soul has been claimed by the Abyss...\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Your soul has been claimed by the Abyss...\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"Your soul has been claimed by the Abyss...\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgument_Fail-5-0",
     "original": "You lost the argument...",
-    "translation": "",
-    "stage": 0,
+    "translation": "你输掉了辩论……",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisCornered6-3-0",
     "original": "An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.",
-    "translation": "",
-    "stage": 0,
+    "translation": "下午1:50及之后，被激活的[b]坚牢术[/b]没有困住阿斯特·维文加德。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered6\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisCornered6-11-0",
     "original": "The Empress of Discord made Contracts with multiple knights of the Kingsguard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "无序女皇和国王卫队的多名骑士签了契约。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered6\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"The Empress of Discord made Contracts with multiple knights of the Kingsguard.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"The Empress of Discord made Contracts with multiple knights of the Kingsguard.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"The Empress of Discord made Contracts with multiple knights of the Kingsguard.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj16-17-0",
     "original": "Why didn't the Patron target Lucio Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么签约人没有攻击卢西奥·斯蒂尔文德？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj16\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t the Patron target Lucio Steelwind?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t the Patron target Lucio Steelwind?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why didn't the Patron target Lucio Steelwind?\"]}"
   },
   {
@@ -856,15 +856,15 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj16-23-0",
     "original": "Why didn't the Patron target Lucio Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么签约人没有攻击卢西奥·斯蒂尔文德？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj16\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t the Patron target Lucio Steelwind?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t the Patron target Lucio Steelwind?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why didn't the Patron target Lucio Steelwind?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal3-2-0",
     "original": "Why are Ruby's memories different from yours?",
-    "translation": "",
-    "stage": 0,
+    "translation": "鲁比的记忆为什么和你不同？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why are Ruby\\\\'s memories different from yours?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why are Ruby\\\\'s memories different from yours?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why are Ruby's memories different from yours?\"]}"
   },
   {
@@ -891,15 +891,15 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisReveal3-7-0",
     "original": "Why are Ruby's memories different from yours?",
-    "translation": "",
-    "stage": 0,
+    "translation": "鲁比的记忆为什么和你不同？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisReveal3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why are Ruby\\\\'s memories different from yours?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why are Ruby\\\\'s memories different from yours?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why are Ruby's memories different from yours?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-CelObj4-12-0",
     "original": "What explains Celeste's contradicting memories of what happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "什么能解释塞莱斯特的记忆与实际冲突？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What explains Celeste\\\\'s contradicting memories of what happened?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What explains Celeste\\\\'s contradicting memories of what happened?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What explains Celeste's contradicting memories of what happened?\"]}"
   },
   {
@@ -1087,15 +1087,15 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-AriaArgue3-2-0",
     "original": "The person responsible was just a sadistic killer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "凶手是个喜欢施虐的杀手。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AriaArgue3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"The person responsible was just a sadistic killer.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"The person responsible was just a sadistic killer.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"The person responsible was just a sadistic killer.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce1-10-0",
     "original": "How did Sibyl's body end up in the lake?",
-    "translation": "",
-    "stage": 0,
+    "translation": "希比尔的尸体怎么到湖里的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce1\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did Sibyl\\\\'s body end up in the lake?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did Sibyl\\\\'s body end up in the lake?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"How did Sibyl's body end up in the lake?\"]}"
   },
   {
@@ -1129,22 +1129,22 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-OrymDeduce1-16-0",
     "original": "How did Sibyl's body end up in the lake?",
-    "translation": "",
-    "stage": 0,
+    "translation": "希比尔的尸体怎么到湖里的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"OrymDeduce1\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"How did Sibyl\\\\'s body end up in the lake?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did Sibyl\\\\'s body end up in the lake?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"How did Sibyl's body end up in the lake?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered5-16-0",
     "original": "Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特·麦考伊是给阿莉亚·斯蒂尔文德血契的人。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EdictAttempt5-5-0",
     "original": "Why did the Divine Edict harm you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "神谕为什么会伤害你？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EdictAttempt5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why did the Divine Edict harm you?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why did the Divine Edict harm you?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why did the Divine Edict harm you?\"]}"
   },
   {
@@ -1178,22 +1178,22 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-EdictAttempt5-11-0",
     "original": "Why did the Divine Edict harm you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "神谕为什么会伤害你？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EdictAttempt5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why did the Divine Edict harm you?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why did the Divine Edict harm you?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why did the Divine Edict harm you?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-TheonObj4-12-0",
     "original": "Which spell did Sibyl cast on herself?",
-    "translation": "",
-    "stage": 0,
+    "translation": "希比尔对自己用了什么法术？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"TheonObj4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Which spell did Sibyl cast on herself?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Which spell did Sibyl cast on herself?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Which spell did Sibyl cast on herself?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj9-20-0",
     "original": "Why didn't Eris use Beatrice to kill Pierce?",
-    "translation": "",
-    "stage": 0,
+    "translation": "厄莉斯为什么不利用比亚特丽丝杀害皮尔斯？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj9\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t Eris use Beatrice to kill Pierce?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t Eris use Beatrice to kill Pierce?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why didn't Eris use Beatrice to kill Pierce?\"]}"
   },
   {
@@ -1227,29 +1227,29 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisObj9-27-0",
     "original": "Why didn't Eris use Beatrice to kill Pierce?",
-    "translation": "",
-    "stage": 0,
+    "translation": "厄莉斯为什么不利用比亚特丽丝杀害皮尔斯？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisObj9\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t Eris use Beatrice to kill Pierce?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t Eris use Beatrice to kill Pierce?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why didn't Eris use Beatrice to kill Pierce?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-AfterCredits-38-0",
     "original": "To be continued...",
-    "translation": "",
-    "stage": 0,
+    "translation": "未完待续……",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"AfterCredits\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"TitleCard \\\\\\\"To be continued...\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"To be continued...\\\\\\\"\\\"\n\", \"cmd\": [\"TitleCard\", \"To be continued...\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-EmpressCornered10-7-0",
     "original": "Neither Aria Steelwind nor Beatrice Frega was directly responsible for the death of Garrick Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚·斯蒂尔文德和比亚特丽丝·弗雷加都没有直接导致加里克·皮尔斯之死。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"EmpressCornered10\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Neither Aria Steelwind nor Beatrice Frega was directly responsible for the death of Garrick Pierce.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Neither Aria Steelwind nor Beatrice Frega was directly responsible for the death of Garrick Pierce.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Neither Aria Steelwind nor Beatrice Frega was directly responsible for the death of Garrick Pierce.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj5-2-0",
     "original": "Why would Marrunath interfere?",
-    "translation": "",
-    "stage": 0,
+    "translation": "马鲁纳斯为什么要干涉？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why would Marrunath interfere?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why would Marrunath interfere?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why would Marrunath interfere?\"]}"
   },
   {
@@ -1283,15 +1283,15 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj5-11-0",
     "original": "Why would Marrunath interfere?",
-    "translation": "",
-    "stage": 0,
+    "translation": "马鲁纳斯为什么要干涉？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why would Marrunath interfere?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why would Marrunath interfere?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why would Marrunath interfere?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj11-13-0",
     "original": "Which demon did Aria make a Blood Contract with?",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚和哪个恶魔签订了血契？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj11\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Which demon did Aria make a Blood Contract with?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Which demon did Aria make a Blood Contract with?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Which demon did Aria make a Blood Contract with?\"]}"
   },
   {
@@ -1304,15 +1304,15 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj11-18-0",
     "original": "Which demon did Aria make a Blood Contract with?",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚和哪个恶魔签订了血契？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj11\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Which demon did Aria make a Blood Contract with?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Which demon did Aria make a Blood Contract with?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Which demon did Aria make a Blood Contract with?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj17a-29-0",
     "original": "Who else was responsible for Aria's actions?",
-    "translation": "",
-    "stage": 0,
+    "translation": "还有谁要对阿莉亚的行为负责？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj17a\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Who else was responsible for Aria\\\\'s actions?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Who else was responsible for Aria\\\\'s actions?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Who else was responsible for Aria's actions?\"]}"
   },
   {
@@ -1325,29 +1325,29 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj17a-32-0",
     "original": "Who else was responsible for Aria's actions?",
-    "translation": "",
-    "stage": 0,
+    "translation": "还有谁要对阿莉亚的行为负责？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj17a\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Who else was responsible for Aria\\\\'s actions?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Who else was responsible for Aria\\\\'s actions?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Who else was responsible for Aria's actions?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-ErisCornered7-17-0",
     "original": "It's possible that I have a Blood Contract with everyone present during the massacre.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我可能和屠杀现场的所有人都签了血契。",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"ErisCornered7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"It\\\\'s possible that I have a Blood Contract with everyone present during the massacre.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"It\\\\'s possible that I have a Blood Contract with everyone present during the massacre.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"It's possible that I have a Blood Contract with everyone present during the massacre.\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-CelObj2-8-0",
     "original": "Which physical piece of evidence contradicts Celeste's memories?",
-    "translation": "",
-    "stage": 0,
+    "translation": "哪件实体证物和塞莱斯特的记忆冲突？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"CelObj2\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Which physical piece of evidence contradicts Celeste\\\\'s memories?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Which physical piece of evidence contradicts Celeste\\\\'s memories?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Which physical piece of evidence contradicts Celeste's memories?\"]}"
   },
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj15-21-0",
     "original": "Why would Aria sign this contract?",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚为什么会签约？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj15\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why would Aria sign this contract?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why would Aria sign this contract?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why would Aria sign this contract?\"]}"
   },
   {
@@ -1381,8 +1381,8 @@
   {
     "key": "Case 5-sharedassets0.assets-153.json-BeatObj15-27-0",
     "original": "Why would Aria sign this contract?",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚为什么会签约？",
+    "stage": 1,
     "context": "{\"case\": \"Case 5-sharedassets0.assets-153.json\", \"node_name\": \"BeatObj15\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why would Aria sign this contract?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why would Aria sign this contract?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why would Aria sign this contract?\"]}"
   }
 ]

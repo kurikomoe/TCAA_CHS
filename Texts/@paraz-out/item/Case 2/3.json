@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-3-Bloodstain Under the Body (Case 2)-displayName",
     "original": "Bloodstain Under the Body",
-    "translation": "",
-    "stage": 0,
+    "translation": "尸体下的血迹",
+    "stage": 1,
     "context": "{\"Name\": \"Bloodstain Under the Body (Case 2)\", \"Idx\": 3, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-3-Bloodstain Under the Body (Case 2)-description",
     "original": "There is a pool of blood where Catherine Bellwether’s body was. The location implies that she bled from her abdominal area.",
-    "translation": "",
-    "stage": 0,
+    "translation": "凯瑟琳·贝尔维瑟的尸体曾在的地方有一滩血迹。位置上看，血迹来自腹部区域。",
+    "stage": 1,
     "context": "{\"Name\": \"Bloodstain Under the Body (Case 2)\", \"Idx\": 3, \"Attr\": \"description\"}"
   }
 ]

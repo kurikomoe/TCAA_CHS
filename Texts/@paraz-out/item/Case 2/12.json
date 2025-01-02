@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-12-Wallace's Spell Compendium-displayName",
     "original": "Wallace's Spell Compendium",
-    "translation": "",
-    "stage": 0,
+    "translation": "华莱士的法术汇编",
+    "stage": 1,
     "context": "{\"Name\": \"Wallace's Spell Compendium\", \"Idx\": 12, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-12-Wallace's Spell Compendium-description",
     "original": "Wallace Nightgrave's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Mend Wounds, Illusory Disguise, Revive, Animate Corpse, and Necrotic Blight.",
-    "translation": "",
-    "stage": 0,
+    "translation": "华莱士·奈特格雷夫的法术汇编。包含了以下法术：魔术戏法、疗愈术、幻象伪装、复活术、活化死尸、以及索命咒。",
+    "stage": 1,
     "context": "{\"Name\": \"Wallace's Spell Compendium\", \"Idx\": 12, \"Attr\": \"description\"}"
   }
 ]

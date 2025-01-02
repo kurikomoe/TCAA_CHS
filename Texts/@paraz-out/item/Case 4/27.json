@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-27-Beatrice's Alibi-displayName",
     "original": "Beatrice's \"Alibi\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝的“不在场证明”",
+    "stage": 1,
     "context": "{\"Name\": \"Beatrice's Alibi\", \"Idx\": 27, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-27-Beatrice's Alibi-description",
     "original": "Beatrice Frega was seen speaking with Aster de Wyverngarde and Alaric de Wyverngarde during the Lords’ Ball. She spent the entire night speaking with them. She was also accounted for before the Sword of Spell Eating was reported missing. \r\\n\r\\nLucio Steelwind, Aster, and several members of the Kingsguard can confirm this.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "勋爵的舞会期间，有人看见比亚特丽丝·弗雷加在与阿斯特·维文加德和阿拉里克·维文加德交谈。她整晚都在和这两人谈话。噬法之剑失踪之前，她的行动也有确认。\\n\\n\\n\\n卢西奥·斯蒂尔文德，阿斯特，国王卫队的数名成员都能作证。",
+    "stage": 1,
     "context": "{\"Name\": \"Beatrice's Alibi\", \"Idx\": 27, \"Attr\": \"description\"}"
   }
 ]

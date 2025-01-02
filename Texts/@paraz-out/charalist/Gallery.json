@@ -2,8 +2,8 @@
   {
     "key": "Gallery-displayName",
     "original": "Gallery",
-    "translation": "",
-    "stage": 0,
+    "translation": "旁听席",
+    "stage": 1,
     "context": "{\"Name\": \"Gallery\", \"Attr\": \"displayName\"}"
   },
   {
@@ -16,8 +16,8 @@
   {
     "key": "Gallery-arcaneArt",
     "original": "???",
-    "translation": "",
-    "stage": 0,
+    "translation": "???",
+    "stage": 1,
     "context": "{\"Name\": \"Gallery\", \"Attr\": \"arcaneArt\"}"
   }
 ]

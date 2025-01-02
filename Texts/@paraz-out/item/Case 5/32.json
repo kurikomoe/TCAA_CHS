@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-32-Aria's Blood Contract-displayName",
     "original": "Aria's Blood Contract",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚的血契",
+    "stage": 1,
     "context": "{\"Name\": \"Aria's Blood Contract\", \"Idx\": 32, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-32-Aria's Blood Contract-description",
     "original": "The Blood Contract seems strange… Unlike Beatrice’s contract, it’s only one page. Even stranger, there’s a large empty space at the top half of the page. There are only a few sentences at the bottom.\r\\n\r\\n“For the intentions of this contract, the person who hands the contract to Aria Steelwind will be referred to as ‘the Patron’. By signing this contract, Aria Steelwind surrenders her mind, body, and soul to the Patron. This contract will bind Aria Steelwind to the Patron so long as they both live.”\r\\n\r\\nIt’s signed with Aria’s signature…\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "这份血契有点怪……和比亚特丽丝的不同，只有一页长。更奇怪的是，上半部有大片空白，只有底部有几行字。\\n\\n“在本契约里，交给阿莉亚·斯蒂尔文德契约的人会被称作‘签约人’。签订契约后，阿莉亚·斯蒂尔文德将自己的意识，躯体，灵魂都交给签约人。双方皆生存期间，这一契约会一直让阿莉亚·斯蒂尔文德与签约人绑定。“\\n\\n附有阿莉亚的签名……",
+    "stage": 1,
     "context": "{\"Name\": \"Aria's Blood Contract\", \"Idx\": 32, \"Attr\": \"description\"}"
   }
 ]

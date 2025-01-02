@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-6-Autopsy Report: Coraline Sibyl-displayName",
     "original": "Autopsy Report: Coraline Sibyl",
-    "translation": "",
-    "stage": 0,
+    "translation": "尸检报告：卡洛琳·希比尔",
+    "stage": 1,
     "context": "{\"Name\": \"Autopsy Report: Coraline Sibyl\", \"Idx\": 6, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-6-Autopsy Report: Coraline Sibyl-description",
     "original": "\"Died at 2:18PM. Cause of death was suffocation. Her body was found floating in a nearby lake outside of the Grand Cathedral.\r\\n\r\\nTraces of <b>transmutation</b>, <b>evocation</b>, and <b>necromancy</b> magic were found on the body.” \r",
-    "translation": "",
-    "stage": 0,
+    "translation": "“死亡时间下午2:18。死因窒息。尸体被发现漂浮于大教堂外的湖面。\\n\\n尸体上发现了<b>形变</b>，<b>塑能</b>和<b>死灵术</b>的痕迹。",
+    "stage": 1,
     "context": "{\"Name\": \"Autopsy Report: Coraline Sibyl\", \"Idx\": 6, \"Attr\": \"description\"}"
   }
 ]

@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-19-The Trapped King 2-displayName",
     "original": "The Trapped King",
-    "translation": "",
-    "stage": 0,
+    "translation": "被困的国王",
+    "stage": 1,
     "context": "{\"Name\": \"The Trapped King 2\", \"Idx\": 19, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-19-The Trapped King 2-description",
     "original": "At 2:00 PM, Aster de Wyverngarde went to pay his respects at his father’s coffin. Unbeknownst to him, however, there was a <b>Glyph of Contingency</b> set to trap him inside a <b>Force Cage</b>. The trap triggered and Aster was trapped in that magical cage for its duration. Aster attempted to break the <b>Force Cage</b> by casting <b>Fire Bolt</b>. This created fresh traces of <b>evocation</b> which makes it impossible to tell when the <b>Glyph of Contingency</b> was placed.\\n\\nThere were traces of <b>illusion</b> magic at the crime scene. This might imply that someone hid themselves from the guards as they set this trap.",
-    "translation": "",
-    "stage": 0,
+    "translation": "下午2:00，阿斯特·维文加德在父亲遗棺前悼念。但他并不知道，那里设下了附加<b>坚牢术</b>的<b>有备无患法术</b>。陷阱被触发后，阿斯特在法术生效期间一直被关在魔法牢笼内。阿斯特曾尝试用<b>火焰箭</b>破坏<b>坚牢术</b>，也因此留下了<b>塑能</b>魔法的痕迹，导致<b>有备无患</b>法术的具体位置难以确定。\\n\\n犯罪现场留有<b>幻觉</b>魔法的痕迹。可能意味着设下陷阱的人曾尝试躲避守卫。",
+    "stage": 1,
     "context": "{\"Name\": \"The Trapped King 2\", \"Idx\": 19, \"Attr\": \"description\"}"
   }
 ]

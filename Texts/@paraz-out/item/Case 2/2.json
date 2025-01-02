@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-2-Foul Classroom Smell-displayName",
     "original": "Foul Classroom Smell",
-    "translation": "",
-    "stage": 0,
+    "translation": "教室里的臭味",
+    "stage": 1,
     "context": "{\"Name\": \"Foul Classroom Smell\", \"Idx\": 2, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-2-Foul Classroom Smell-description",
     "original": "Weeks ago, the headmaster performed an alchemy experiment incorrectly in Lecture Hall 2-B. The resulting chemical reaction produced a rancid yet harmless vapour that still lingers in the room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "数周前，校长在2-B讲堂进行实验时犯了错。炼金反应产生了酸臭但无害的气味，至今仍在室内留存。",
+    "stage": 1,
     "context": "{\"Name\": \"Foul Classroom Smell\", \"Idx\": 2, \"Attr\": \"description\"}"
   }
 ]

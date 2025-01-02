@@ -23,15 +23,15 @@
   {
     "key": "Eris Illmater-arcaneArt",
     "original": "Illusion",
-    "translation": "",
-    "stage": 0,
+    "translation": "幻觉",
+    "stage": 1,
     "context": "{\"Name\": \"Eris Illmater\", \"Attr\": \"arcaneArt\"}"
   },
   {
     "key": "Eris Illmater-altDescriptions-0",
     "original": "A demon commonly referred to as “the Empress of Discord”. She is the Lord of the Sixth Circle of Hell who has taken a human form on the Mortal Plan. She posses quite a sadistic nature.",
-    "translation": "",
-    "stage": 0,
+    "translation": "被称为“无序女皇”的恶魔。第六层地狱之主，在凡人界伪装成人类形态。性喜施虐。",
+    "stage": 1,
     "context": "{\"Name\": \"Eris Illmater\", \"Attr\": \"altDescriptions\", \"idx\": 0}"
   }
 ]

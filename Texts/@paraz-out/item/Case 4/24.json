@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-24-William's Modified Will-displayName",
     "original": "William's Modified Will",
-    "translation": "",
-    "stage": 0,
+    "translation": "威廉修改过的遗嘱",
+    "stage": 1,
     "context": "{\"Name\": \"William's Modified Will\", \"Idx\": 24, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-24-William's Modified Will-description",
     "original": "On the night of the murder, William Frega retreated into his study to modify his will. He died before this will could be submitted. So, it’s not valid.\r\\n\r\\nThe draft was supposedly stolen during the lockdown. It’s likely that the murderer took and/or destroyed it.\r\\n",
-    "translation": "",
-    "stage": 0,
+    "translation": "谋杀发生当晚，威廉·弗雷加回书房要修改自己的遗嘱。他在提交遗嘱前就死了，所以遗嘱无效。\\n\\n\\n\\n草稿似乎在封锁期间被偷，可能被凶手拿走并/或毁掉了。",
+    "stage": 1,
     "context": "{\"Name\": \"William's Modified Will\", \"Idx\": 24, \"Attr\": \"description\"}"
   }
 ]

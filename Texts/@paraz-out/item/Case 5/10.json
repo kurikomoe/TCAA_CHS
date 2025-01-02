@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-10-The Murder of Von Sanctus-displayName",
     "original": "The Murder of Von Sanctus",
-    "translation": "",
-    "stage": 0,
+    "translation": "冯·桑克图斯谋杀案",
+    "stage": 1,
     "context": "{\"Name\": \"The Murder of Von Sanctus\", \"Idx\": 10, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-10-The Murder of Von Sanctus-description",
     "original": "Aria Steelwind attacked von Sanctus with a <b>Fire Bolt</b> in the Common Room. He reacted by casting <b>Force Cage</b> to protect himself. Seeing that she couldn’t break through it, she started a fire to eat all of the oxygen in the room. Von Sanctus was probably helpless as he suffocated from a lack of oxygen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在公共休息室，阿莉亚·斯蒂尔文德用<b>火焰箭</b>攻击了冯·桑克图斯。冯·桑克图斯尝试使用<b>坚牢术</b>自保。发现无法突破法术之后，阿莉亚纵火燃尽了室内氧气。冯·桑克图斯只能无助地因缺氧而窒息身亡。",
+    "stage": 1,
     "context": "{\"Name\": \"The Murder of Von Sanctus\", \"Idx\": 10, \"Attr\": \"description\"}"
   }
 ]

@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-23-Magical Door-displayName",
     "original": "Magical Door",
-    "translation": "",
-    "stage": 0,
+    "translation": "魔法门",
+    "stage": 1,
     "context": "{\"Name\": \"Magical Door\", \"Idx\": 23, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-23-Magical Door-description",
     "original": "The only entrance to the Refinery Building is a door with an artificery lock. Magical keys can be used to unlock the door for 5 seconds. After these 5 seconds, the lock automatically closes the door and engages the lock. The lock can only be disabled by Stefanic Dracogen.\r\\n\r\\nThe door could be physically prevented from closing, but this would trigger an alarm within the Refinery’s security system.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "炼油厂唯一的入口，有奥术能源锁。可以用魔法钥匙解锁5秒。5秒之后，门会自动关闭并上锁。锁只能被斯蒂芬尼克·德拉科根禁用。\\n\\n\\n\\n物理手段也可以阻止门关上，但这样做会触发炼油厂安保系统的警报。",
+    "stage": 1,
     "context": "{\"Name\": \"Magical Door\", \"Idx\": 23, \"Attr\": \"description\"}"
   }
 ]

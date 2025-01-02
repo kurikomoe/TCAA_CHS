@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-5-Autopsy Report: Lloyd von Sanctus-displayName",
     "original": "Autopsy Report: Lloyd von Sanctus",
-    "translation": "",
-    "stage": 0,
+    "translation": "尸检报告：洛伊德·冯·桑克图斯",
+    "stage": 1,
     "context": "{\"Name\": \"Autopsy Report: Lloyd von Sanctus\", \"Idx\": 5, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-5-Autopsy Report: Lloyd von Sanctus-description",
     "original": "\"Died at 2:05PM. The cause of death was suffocation. The fire in the Common Room burnt the body too much to discern any specific wounds he might have suffered. However, a small trace of <b>evocation</b> magic and a burn mark were found on the victim’s left shoulder. This implies the body was hit with a fire-based <b>evocation</b> spell.\r\\n\r\\nTraces of <i>abjuration</i> magic were found on and around the body.”\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "“死亡时间下午2:05。死因窒息。公共休息室的火势让尸体严重毁损，无法确定他是否曾有外伤。但是，尸体左肩留有一点<b>塑能</b>魔法的痕迹，还有烧焦痕迹。被害者可能曾被火系<b>塑能</b>法术攻击。\\n\\n尸体上和周围还留有<i>防护</i>魔法的痕迹。”",
+    "stage": 1,
     "context": "{\"Name\": \"Autopsy Report: Lloyd von Sanctus\", \"Idx\": 5, \"Attr\": \"description\"}"
   }
 ]

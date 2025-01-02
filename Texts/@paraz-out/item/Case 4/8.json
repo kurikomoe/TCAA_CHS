@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-8-Sword of Spell Eating 3-displayName",
     "original": "Sword of Spell Eating",
-    "translation": "",
-    "stage": 0,
+    "translation": "噬法之剑",
+    "stage": 1,
     "context": "{\"Name\": \"Sword of Spell Eating 3\", \"Idx\": 8, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-8-Sword of Spell Eating 3-description",
     "original": "The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.\r\\n\r\\nOn the night of the murder, someone used a powerful spell to completely shatter the magically protected glass that was containing it. It was later found in Beatrice Frega's old room.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "噬法之剑是一件远古遗物。被生物使用时，生物以及与之有物理/魔法联系的任何物品都会免疫其他有害魔法效果。传说这是通过法师与恶魔的血契打造而成。\\n\\n\\n谋杀发生当晚，有人使用了强力法术，完全破坏了有魔力保护的玻璃展柜。之后在原本属于比亚特丽丝·弗雷加的房间里找到。\\n",
+    "stage": 1,
     "context": "{\"Name\": \"Sword of Spell Eating 3\", \"Idx\": 8, \"Attr\": \"description\"}"
   }
 ]

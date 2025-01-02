@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-5-Who Discovered the Body?-displayName",
     "original": "Who Discovered the Body?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谁发现了尸体？",
+    "stage": 1,
     "context": "{\"Name\": \"Who Discovered the Body?\", \"Idx\": 5, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-5-Who Discovered the Body?-description",
     "original": "The body was discovered in Lecture Hall 2-B by Valentina and Valerie Ianus: two members of the kitchen staff. According to Commander Orym White, they were being hyperactive during questioning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "两个厨房工作人员：瓦伦蒂娜·伊努斯和瓦莱丽·伊努斯在2-B讲堂发现了尸体。根据奥蒙·怀特指挥官所言，两人在被询问时躁动异常。",
+    "stage": 1,
     "context": "{\"Name\": \"Who Discovered the Body?\", \"Idx\": 5, \"Attr\": \"description\"}"
   }
 ]

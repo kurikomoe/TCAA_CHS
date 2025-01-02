@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-14-Aria's Spell Compendium-displayName",
     "original": "Aria's Spell Compendium",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚的法术汇编",
+    "stage": 1,
     "context": "{\"Name\": \"Aria's Spell Compendium\", \"Idx\": 14, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-14-Aria's Spell Compendium-description",
     "original": "Aria Steelwind’s Spell Compendium. It contains the formulas for the following spells: Mend Wounds, Fire Bolt, Shape Liquid, Dispel Magic, Steelwind Strike, Detect Magic, Polymorph, and Hold Creature.",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚·斯蒂尔文德的法术汇编。包含了以下法术：疗愈术、火焰箭、形变液体、驱魔术、斯蒂尔文德轰炸、法术探测、变形术和定身术。",
+    "stage": 1,
     "context": "{\"Name\": \"Aria's Spell Compendium\", \"Idx\": 14, \"Attr\": \"description\"}"
   }
 ]

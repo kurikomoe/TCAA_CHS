@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-12-Justin's Planned Robbery-displayName",
     "original": "Justin's Planned Robbery",
-    "translation": "",
-    "stage": 0,
+    "translation": "贾斯汀的抢劫计划",
+    "stage": 1,
     "context": "{\"Name\": \"Justin's Planned Robbery\", \"Idx\": 12, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-12-Justin's Planned Robbery-description",
     "original": "According to Wyatt Ernell, Justin Waye owed gold to someone. Justin owned a set of lockpicking and safe-cracking tools that could disable mundane and magical locks. He was planning to break into the Refinery Building, then use his safe-cracking skills to rob the safe in Dracogen’s office.",
-    "translation": "",
-    "stage": 0,
+    "translation": "怀亚特·埃内尔作证称，贾斯汀·维耶欠人金子。贾斯汀持有一套工具，对普通的锁和附魔锁都有效。他原计划入侵炼油厂，用自己的撬锁技巧洗劫德拉科根办公室里的保险箱。",
+    "stage": 1,
     "context": "{\"Name\": \"Justin's Planned Robbery\", \"Idx\": 12, \"Attr\": \"description\"}"
   }
 ]

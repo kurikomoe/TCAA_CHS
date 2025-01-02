@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-12-Send Message-displayName",
     "original": "Send Message",
-    "translation": "",
-    "stage": 0,
+    "translation": "通信术",
+    "stage": 1,
     "context": "{\"Name\": \"Send Message\", \"Idx\": 12, \"Attr\": \"displayName\"}"
   },
   {
     "key": "SpellLibrary-12-Send Message-description",
     "original": "For the duration of this spell, the caster projects their voice to communicate with a target. Anyone within a 30ft radius of the target can hear the caster’s voice. The caster can also hear sounds close to the target, allowing for two-way communication.\\n\\nThe target must be a person known to the caster. That person must also be conscious. Otherwise, the spell will fail. Alternatively, the target can be an object that is attuned to the caster’s magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "法术生效期间，施法者可以通过让目标听见自己的声音来联络。目标30英尺内的任何人都能听见施法者的声音。施法者也能听见目标周围的声音，保证双向联络。\\n\\n目标必须是施法者认识的人，且存有意识，否则法术将失败。除此之外，目标也可以是附有施法者魔力的物体。",
+    "stage": 1,
     "context": "{\"Name\": \"Send Message\", \"Idx\": 12, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-12-Send Message-incantation",
     "original": "\"Mal-um\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"Mal-um\"",
+    "stage": 1,
     "context": "{\"Name\": \"Send Message\", \"Idx\": 12, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-12-Send Message-gesture",
     "original": "None",
-    "translation": "",
-    "stage": 0,
+    "translation": "无",
+    "stage": 1,
     "context": "{\"Name\": \"Send Message\", \"Idx\": 12, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-12-Send Message-duration",
     "original": "1 hour",
-    "translation": "",
-    "stage": 0,
+    "translation": "1小时",
+    "stage": 1,
     "context": "{\"Name\": \"Send Message\", \"Idx\": 12, \"Attr\": \"duration\"}"
   }
 ]

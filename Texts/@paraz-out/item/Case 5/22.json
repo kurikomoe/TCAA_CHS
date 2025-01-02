@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-22-The Report-displayName",
     "original": "The Report",
-    "translation": "",
-    "stage": 0,
+    "translation": "报告书",
+    "stage": 1,
     "context": "{\"Name\": \"The Report\", \"Idx\": 22, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-22-The Report-description",
     "original": "The Inquisition discovered something was wrong when Alaric de Wyverngarde reported that a fire had broken out in the Common Room. He also told them that Aria Steelwind cast a spell on him earlier that severely debilitated his senses.\r\\n\r\\nWhen the Inquisition arrived at the scene, they spotted the unconscious guards outside the Prayer Room. They did not see Celeste McCoy and Aria Steelwind. This all happened at 3:10PM.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿拉里克·维文加德通知裁判所，公共休息室起火了。阿拉里克还说阿莉亚·斯蒂尔文德早些时候对他施法，严重削弱了他的感知能力。\\n\\n\\n\\n裁判所到达现场时，发现祷告室外倒着失去意识的卫兵。他们没有发现塞莱斯特·麦考伊和阿莉亚·斯蒂尔文德。这些都发生在下午3:10。\\n",
+    "stage": 1,
     "context": "{\"Name\": \"The Report\", \"Idx\": 22, \"Attr\": \"description\"}"
   }
 ]

@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-22-Evidence of Academic Dishonesty-displayName",
     "original": "Evidence of Academic Dishonesty",
-    "translation": "",
-    "stage": 0,
+    "translation": "学术舞弊的证据",
+    "stage": 1,
     "context": "{\"Name\": \"Evidence of Academic Dishonesty\", \"Idx\": 22, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-22-Evidence of Academic Dishonesty-description",
     "original": "A tightly packed folder containing several documents. The documents contain evidence detailing multiple instances of plagiarism, fraud, bribery of school officials, and various other offenses committed by Miriam Frega.",
-    "translation": "",
-    "stage": 0,
+    "translation": "包装紧密的文件袋，内含数份文件。文件里记载了米莉亚姆·弗雷加抄袭，作弊，贿赂学校官员等行为的证据。",
+    "stage": 1,
     "context": "{\"Name\": \"Evidence of Academic Dishonesty\", \"Idx\": 22, \"Attr\": \"description\"}"
   }
 ]

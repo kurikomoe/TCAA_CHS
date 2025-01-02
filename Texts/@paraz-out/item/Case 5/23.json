@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-23-Soundproof Room-displayName",
     "original": "Soundproof Room",
-    "translation": "",
-    "stage": 0,
+    "translation": "隔音室",
+    "stage": 1,
     "context": "{\"Name\": \"Soundproof Room\", \"Idx\": 23, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-23-Soundproof Room-description",
     "original": "Supposedly, Theon Archeus suffers from chronic insomnia and can be woken by even the smallest sound. As such, the walls of the High Speaker’s Quarters are completely soundproof once he closes the door. This should explain why Archeus didn’t hear the fight between Celeste McCoy and Aria Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "希恩·阿契厄斯常年受失眠困扰，一点小动静都能吵醒他。因此，议长住处的墙在关上门后是完全隔音的。这也能解释为什么阿契厄斯没有听见塞莱斯特·麦考伊和阿莉亚·斯蒂尔文德争斗的声音。",
+    "stage": 1,
     "context": "{\"Name\": \"Soundproof Room\", \"Idx\": 23, \"Attr\": \"description\"}"
   }
 ]

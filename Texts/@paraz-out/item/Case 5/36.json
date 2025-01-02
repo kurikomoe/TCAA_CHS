@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-36-No Blood Contract-displayName",
     "original": "No Blood Contract",
-    "translation": "",
-    "stage": 0,
+    "translation": "没有血契",
+    "stage": 1,
     "context": "{\"Name\": \"No Blood Contract\", \"Idx\": 36, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-36-No Blood Contract-description",
     "original": "Aster de Wyverngarde has no Blood Contract with the Empress of Discord... obviously.",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿斯特·维文加德与无序女皇没有签订血契……很显然",
+    "stage": 1,
     "context": "{\"Name\": \"No Blood Contract\", \"Idx\": 36, \"Attr\": \"description\"}"
   }
 ]

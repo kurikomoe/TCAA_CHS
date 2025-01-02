@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-7-Autopsy Report: Garrick Pierce-displayName",
     "original": "Autopsy Report: Garrick Pierce",
-    "translation": "",
-    "stage": 0,
+    "translation": "尸检报告：加里克·皮尔斯",
+    "stage": 1,
     "context": "{\"Name\": \"Autopsy Report: Garrick Pierce\", \"Idx\": 7, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-7-Autopsy Report: Garrick Pierce-description",
     "original": "\"Died at 2:45PM, in the Prayer Room. Cause of death was blood loss. A shard of frozen liquid was found stabbed through his heart. It is very likely that this was the murder weapon. \r\\n\r\\nThe wound also shows heavy traces of <b>transmutation</b> magic. And traces of <b>conjuration</b> magic were found throughout the room.”\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "“死亡时间下午2:45，地点为祷告室。死因失血过多。心脏被一片锋利的冰冻液体刺穿，这很可能就是凶器。\\n\\n伤口上发现了大量<b>形变</b>魔法的痕迹。屋内也发现了<b>召唤</b>魔法的痕迹。”",
+    "stage": 1,
     "context": "{\"Name\": \"Autopsy Report: Garrick Pierce\", \"Idx\": 7, \"Attr\": \"description\"}"
   }
 ]

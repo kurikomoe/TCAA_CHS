@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-16-All Employees Present-displayName",
     "original": "All Employees Present",
-    "translation": "",
-    "stage": 0,
+    "translation": "全体员工在场",
+    "stage": 1,
     "context": "{\"Name\": \"All Employees Present\", \"Idx\": 16, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-16-All Employees Present-description",
     "original": "Aside from Justin Waye, every employee who works at the Arcane Refinery is accounted for. Justin is the only Dracogen employee who fell into the vat of corrosive chemicals.",
-    "translation": "",
-    "stage": 0,
+    "translation": "除去贾斯汀·维耶，奥术炼油厂的工人都联系上了。贾斯汀是德拉科根工人里唯一一个坠入腐蚀性化合物桶里的。",
+    "stage": 1,
     "context": "{\"Name\": \"All Employees Present\", \"Idx\": 16, \"Attr\": \"description\"}"
   }
 ]

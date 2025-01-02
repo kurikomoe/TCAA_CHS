@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-15-Bellwether's Plan 2-displayName",
     "original": "Bellwether's Plan",
-    "translation": "",
-    "stage": 0,
+    "translation": "贝尔维瑟的计划",
+    "stage": 1,
     "context": "{\"Name\": \"Bellwether's Plan 2\", \"Idx\": 15, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-15-Bellwether's Plan 2-description",
     "original": "House Frega was planning to fire Headmaster Theodore Redmond and replace him with Catherine Bellwether. They were also planning to fire all of the academy staff and replace them with Arcane Constructs.\r\\n\r\\nThis was supposed to be kept a secret. But according to Jan, Bellwether revealed this plan to the headmaster during a meeting a “few weeks ago”.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "弗雷加一族打算解雇西奥多·雷德蒙校长，让凯瑟琳·贝尔维瑟上位。他们还打算解雇所有工作人员，让奥术构造体取而代之。\\n\\n\\n\\n理应是机密，但根据简的证词，贝尔维瑟几周前与校长会面时透露了这个计划。\\n",
+    "stage": 1,
     "context": "{\"Name\": \"Bellwether's Plan 2\", \"Idx\": 15, \"Attr\": \"description\"}"
   }
 ]

@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-4-Autopsy Report: William Frega-displayName",
     "original": "Autopsy Report: William Frega",
-    "translation": "",
-    "stage": 0,
+    "translation": "尸检报告：威廉·弗雷加",
+    "stage": 1,
     "context": "{\"Name\": \"Autopsy Report: William Frega\", \"Idx\": 4, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-4-Autopsy Report: William Frega-description",
     "original": "\"Died at 3:12 AM. Cause of death was blood loss after his throat was slashed open. Both carotid arteries were severed, meaning that death must have followed mere seconds after the wound was inflicted.\\n\\nBody shows several scratch marks on the face and back. Traces of <i>illusion</i> magic were also found on the body.”",
-    "translation": "",
-    "stage": 0,
+    "translation": "“死亡时间凌晨3:12。死因是被割喉导致的失血过多。两条颈动脉均被割裂，意味着受伤后数秒就会死亡。\\n\\n尸体的脸部与背部有数道抓痕。尸体上有<i>幻觉</i>魔法的痕迹。”",
+    "stage": 1,
     "context": "{\"Name\": \"Autopsy Report: William Frega\", \"Idx\": 4, \"Attr\": \"description\"}"
   }
 ]

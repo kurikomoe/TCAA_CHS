@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-17-Method of Entry-displayName",
     "original": "Method of Entry",
-    "translation": "",
-    "stage": 0,
+    "translation": "入侵方法",
+    "stage": 1,
     "context": "{\"Name\": \"Method of Entry\", \"Idx\": 17, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-17-Method of Entry-description",
     "original": "The murderer somehow entered William Frega’s study despite it being protected with abjurative wards. These wards magically locked the only door leading into the room. They also prevented teleportation in and out of the room. It’s possible to temporarily nullify these wards with the Sword of Spell Eating.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然有多个防护结界保护，但凶手还是侵入了威廉·弗雷加的书房。这些防护结界用魔力锁住通往房间的唯一一扇门，同时也会阻止通过传送出入房间。利用噬法之剑可以暂时使这些结界无效化。",
+    "stage": 1,
     "context": "{\"Name\": \"Method of Entry\", \"Idx\": 17, \"Attr\": \"description\"}"
   }
 ]

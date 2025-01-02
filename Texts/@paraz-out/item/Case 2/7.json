@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-7-Steelwind's Uneasiness-displayName",
     "original": "Steelwind's Uneasiness",
-    "translation": "",
-    "stage": 0,
+    "translation": "斯蒂尔文德的不安",
+    "stage": 1,
     "context": "{\"Name\": \"Steelwind's Uneasiness\", \"Idx\": 7, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-7-Steelwind's Uneasiness-description",
     "original": "There’s an element of this case that is making Aria Steelwind uneasy. But she refuses to elaborate on what this is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这起事件里有什么让阿莉亚·斯蒂尔文德不安的因素。但她拒绝详细解释。",
+    "stage": 1,
     "context": "{\"Name\": \"Steelwind's Uneasiness\", \"Idx\": 7, \"Attr\": \"description\"}"
   }
 ]

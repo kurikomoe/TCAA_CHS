@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-30-Liafal's Testimony-displayName",
     "original": "Laefe's Testimony",
-    "translation": "",
-    "stage": 0,
+    "translation": "拉菲的证言",
+    "stage": 1,
     "context": "{\"Name\": \"Liafal's Testimony\", \"Idx\": 30, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-30-Liafal's Testimony-description",
     "original": "Beatrice Frega and Eris Illmater were accounted for in the Garden until 2:00PM. But after that, they both went missing. Eris supposedly lost track of Beatrice and searched for her in the Garden.\r\\n\r\\nLaefe Frega, Miriam Frega, and Lazarick Asclepius were together and were about to search for Beatrice at 2:05PM. However, they were stopped by the Kingsguard who reported that a <b>Glyph of Contingency</b> had just trapped Aster de Wyverngarde in a <b>Force Cage</b>. \r",
-    "translation": "",
-    "stage": 0,
+    "translation": "下午2:00之前，比亚特丽丝·弗雷加和厄莉斯·伊尔马特都一起待在花园里。但之后两人双双失踪。厄莉斯似乎在花园里寻找先一步失踪的比亚特丽丝。\\n\\n下午2:05,拉菲·弗雷加，米莉亚姆·弗雷加和拉扎瑞克·阿斯克勒庇俄斯一起行动，准备寻找比亚特丽丝。但由于之前阿斯特·维文加德被通过<b>有备无患</b>施展的<b>坚牢术</b>所困，国王卫队阻止了他们。",
+    "stage": 1,
     "context": "{\"Name\": \"Liafal's Testimony\", \"Idx\": 30, \"Attr\": \"description\"}"
   }
 ]

@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-23-Bloody Rapier-displayName",
     "original": "Bloody Rapier",
-    "translation": "",
-    "stage": 0,
+    "translation": "带血的刺剑",
+    "stage": 1,
     "context": "{\"Name\": \"Bloody Rapier\", \"Idx\": 23, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-23-Bloody Rapier-description",
     "original": "A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was reported stolen by Miriam Frega weeks before the murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一把沾满鲜血的刺剑。发现于华莱士·奈特格雷夫的储物柜里。似乎是弗雷加一族的贵重传家宝。谋杀发生数周前，米莉亚姆·弗雷加报案称刺剑被偷。",
+    "stage": 1,
     "context": "{\"Name\": \"Bloody Rapier\", \"Idx\": 23, \"Attr\": \"description\"}"
   }
 ]

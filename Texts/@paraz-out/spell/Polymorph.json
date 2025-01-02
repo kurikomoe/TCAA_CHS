@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-28-Polymorph-displayName",
     "original": "Polymorph",
-    "translation": "",
-    "stage": 0,
+    "translation": "变形术",
+    "stage": 1,
     "context": "{\"Name\": \"Polymorph\", \"Idx\": 28, \"Attr\": \"displayName\"}"
   },
   {
     "key": "SpellLibrary-28-Polymorph-description",
     "original": "The caster transforms a target within 30ft of them into an animal. The animal can be any creature that can fit within a 2ftx2ftx2ft cube. For the duration, the target’s senses and intellect will also be changed to match that of the animal they are transformed into.",
-    "translation": "",
-    "stage": 0,
+    "translation": "施法者可以将自己30英尺周边的任一目标变成动物。动物必须能被2英尺立方体容纳。法术生效期间，目标的感知能力与智力也会与变形后的动物相符。",
+    "stage": 1,
     "context": "{\"Name\": \"Polymorph\", \"Idx\": 28, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-28-Polymorph-incantation",
     "original": "\"Drom-li\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"Drom-li\"",
+    "stage": 1,
     "context": "{\"Name\": \"Polymorph\", \"Idx\": 28, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-28-Polymorph-gesture",
     "original": "Point index finger at the target",
-    "translation": "",
-    "stage": 0,
+    "translation": "将食指指向目标",
+    "stage": 1,
     "context": "{\"Name\": \"Polymorph\", \"Idx\": 28, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-28-Polymorph-duration",
     "original": "1 hour",
-    "translation": "",
-    "stage": 0,
+    "translation": "1小时",
+    "stage": 1,
     "context": "{\"Name\": \"Polymorph\", \"Idx\": 28, \"Attr\": \"duration\"}"
   }
 ]

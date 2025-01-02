@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-16-Lockdown System-displayName",
     "original": "Lockdown System",
-    "translation": "",
-    "stage": 0,
+    "translation": "封锁系统",
+    "stage": 1,
     "context": "{\"Name\": \"Lockdown System\", \"Idx\": 16, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-16-Lockdown System-description",
     "original": "The lockdown system covers the entire manor. Once activated, it creates magical barriers that prevent anyone from leaving or teleporting out of the building. In addition to this, it covers the entire manor in an <b>Anti-Magic Field</b>. Within this field, any and all magical effects are nullified and disabled.\r\\n\r\\nHowever, anyone physically or magically connected to the Sword of Spell Eating would be immune to the effects of the <b>Anti-Magic Fields</b>.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "封锁系统能覆盖整个庄园。激活后，封锁系统会创造魔法屏障，阻止任何人离开或传送出建筑物。此外，系统还会用对庄园施加<b>抗魔力场</b>。立场之内，任何魔法效果都会被终止且无效化。\\n\\n\\n\\n但是，已经与噬法之剑有物理接触或魔法联系的人会免疫<b>抗魔力场</b>的效果。",
+    "stage": 1,
     "context": "{\"Name\": \"Lockdown System\", \"Idx\": 16, \"Attr\": \"description\"}"
   }
 ]

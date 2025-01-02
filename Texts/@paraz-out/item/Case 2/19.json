@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-19-The Big Four-displayName",
     "original": "The Four Pillar Families",
-    "translation": "",
-    "stage": 0,
+    "translation": "四大支柱家族",
+    "stage": 1,
     "context": "{\"Name\": \"The Big Four\", \"Idx\": 19, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-19-The Big Four-description",
     "original": "\"The four pillars\" refer to the four most powerful noble houses. These houses are House Steelwind, House Frega, House von Sanctus, and House Sibyl.",
-    "translation": "",
-    "stage": 0,
+    "translation": "“四大支柱”指的是四个最强势的贵族家族。包括斯蒂尔文德、弗雷加、冯·桑克图斯、以及希比尔。",
+    "stage": 1,
     "context": "{\"Name\": \"The Big Four\", \"Idx\": 19, \"Attr\": \"description\"}"
   }
 ]

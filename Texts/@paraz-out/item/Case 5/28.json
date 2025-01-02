@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-28-Alaric's Testimony-displayName",
     "original": "Alaric's Testimony",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿拉里克的证言",
+    "stage": 1,
     "context": "{\"Name\": \"Alaric's Testimony\", \"Idx\": 28, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-28-Alaric's Testimony-description",
     "original": "Alaric de Wyverngarde saw Aria Steelwind exiting the Common Room. He saw that a fire had started there. But when he asked Steelwind what was going on, she cast a <b>transmutation</b> spell on him.\\n\\n\\nThis spell blurred his vision and put him in a daze. His ears were ringing, and he was unable to speak or walk properly. He could only move by crawling on the ground. Strangely, no one saw him while he was in this state.\\n",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿拉里克·维文加德看到阿莉亚·斯蒂尔文德从公共休息室出来，还发现那里起火了。他询问斯蒂尔文德发生了什么时，被她施了一种<b>形变</b>法术。\\n\\n\\n法术导致他视野模糊，耳鸣，陷入迷茫状态。阿拉里克无法正常走路和说话，只能通过爬行移动。奇怪的是，在他处于这一状态期间，没人发现过王子。\\n",
+    "stage": 1,
     "context": "{\"Name\": \"Alaric's Testimony\", \"Idx\": 28, \"Attr\": \"description\"}"
   }
 ]

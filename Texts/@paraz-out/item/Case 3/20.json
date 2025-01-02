@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-20-Neutralizing Liquid-displayName",
     "original": "Neutralizing Liquid",
-    "translation": "",
-    "stage": 0,
+    "translation": "中和液体",
+    "stage": 1,
     "context": "{\"Name\": \"Neutralizing Liquid\", \"Idx\": 20, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-20-Neutralizing Liquid-description",
     "original": "When Noah Morrison and Aster de Wyverngarde reported the accident, the refinery workers poured a yellow alchemical solution into the vat. This solution neutralized the destructive magic of the vat liquids and turned it green (they are usually blue). If they hadn't neutralized the liquid, everything in the vat would have been completely destroyed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "诺亚·莫里森和阿斯特·维文加德通报事件时，炼油厂工人往桶里倒入了一种黄色炼金液体。这一溶液能中和桶内液体的破坏性魔力，颜色也会从平常的蓝色变成绿色。如果没有被中和，桶里的东西都会被彻底溶解。",
+    "stage": 1,
     "context": "{\"Name\": \"Neutralizing Liquid\", \"Idx\": 20, \"Attr\": \"description\"}"
   }
 ]

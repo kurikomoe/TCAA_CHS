@@ -2242,7 +2242,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-320",
     "original": "Flinhart: What are [i]you[/i] doing here?!",
-    "translation": "Flinhart: 你来干什么？！",
+    "translation": "Flinhart: [i]你[/i]来干什么？！",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
@@ -2550,7 +2550,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-364",
     "original": "She looks just as tired as you are.[p/] Probably, even more so.",
-    "translation": "她看起来身心俱疲",
+    "translation": "她看起来身心俱疲，[p/]比你更甚。",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
@@ -2928,7 +2928,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-418",
     "original": "Tyrion: Ms. Tymora…[p/][s/] What's going on?!",
-    "translation": "Tyrion: 摩拉女士….[p/][s/]出什么事了？！",
+    "translation": "Tyrion: 泰摩拉女士….[p/][s/]出什么事了？！",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
@@ -11027,7 +11027,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1575",
     "original": "Ruby: You were able to deduce which liquid he used.",
-    "translation": "Ruby: 你能够推断他用了那种液体",
+    "translation": "Ruby: 你能够推断他用了哪种液体",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
@@ -11314,7 +11314,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1616",
     "original": "Tyrion: Our justice system is rotten to its core,[p/] and I’ll have many trials ahead...",
-    "translation": "Tyrion: 司法体系的腐败已经从内渗透到外，[p/]未来会有很多案件等待着我...",
+    "translation": "Tyrion: 司法体系的腐败已经渗透到核心了，[p/]未来会有很多案件等待着我...",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
@@ -13778,7 +13778,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-1968",
     "original": "Tyrion: At this point,[p/] [b]Mage Blade[/b] would still be active, right?",
-    "translation": "Tyrion: 这个过程中[b]魔法剑刃[/b]仍在生效，对吧？",
+    "translation": "Tyrion: 这个过程中[b]法术剑刃[/b]仍在生效，对吧？",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
@@ -14366,7 +14366,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2052",
     "original": "Aria: There’s only [i]one[/i] registered mage in that entire town.",
-    "translation": "Aria: 那整个镇子上只有她一位注册在案的魔法使",
+    "translation": "Aria: 那整个镇子上只有她一位注册在案的法师",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },
@@ -14394,7 +14394,7 @@
   {
     "key": "Default (en-US)-sharedassets0.assets-144-2056",
     "original": "Aria: She was the last known person with him,[p/] [i]and[/i] she was the only mage there.",
-    "translation": "Aria: 她是最后一个见过受害者的人，[p/]也是镇上唯一的魔法使",
+    "translation": "Aria: 她是最后一个见过受害者的人，[p/]也是镇上唯一的法师",
     "stage": 1,
     "context": "遇到人名，例如「Kuriko: Speak English」请保留 「Kuriko: 」，遇到其他控制符也行保留，或者询问程序"
   },

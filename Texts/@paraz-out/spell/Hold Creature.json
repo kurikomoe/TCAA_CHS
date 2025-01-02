@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-25-Hold Creature-displayName",
     "original": "Hold Creature",
-    "translation": "",
-    "stage": 0,
+    "translation": "定身术",
+    "stage": 1,
     "context": "{\"Name\": \"Hold Creature\", \"Idx\": 25, \"Attr\": \"displayName\"}"
   },
   {
     "key": "SpellLibrary-25-Hold Creature-description",
     "original": "The caster completely restricts the movement of the target. While concentrating on this spell, the target will be unable to move any part of their body. Even subtle movements (such as the gestures required to cast certain spells) are impossible. As a result, the target will also be unable to move their mouth to speak.",
-    "translation": "",
-    "stage": 0,
+    "translation": "施法者可彻底限制目标的移动能力。集中注意力施法时，目标无法自主移动任何身体部位。再为微小的动作（比如施展特定法术所需的手势）都无法成立。目标同时也无法张嘴说话。",
+    "stage": 1,
     "context": "{\"Name\": \"Hold Creature\", \"Idx\": 25, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-25-Hold Creature-incantation",
     "original": "\"Ho-dl\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"Ho-dl\"",
+    "stage": 1,
     "context": "{\"Name\": \"Hold Creature\", \"Idx\": 25, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-25-Hold Creature-gesture",
     "original": "Point at the target",
-    "translation": "",
-    "stage": 0,
+    "translation": "指向目标",
+    "stage": 1,
     "context": "{\"Name\": \"Hold Creature\", \"Idx\": 25, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-25-Hold Creature-duration",
     "original": "While concentrating",
-    "translation": "",
-    "stage": 0,
+    "translation": "注意力集中时",
+    "stage": 1,
     "context": "{\"Name\": \"Hold Creature\", \"Idx\": 25, \"Attr\": \"duration\"}"
   }
 ]

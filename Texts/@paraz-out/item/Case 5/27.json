@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-27-Virgilae's Alibi-displayName",
     "original": "Virgilae's Alibi",
-    "translation": "",
-    "stage": 0,
+    "translation": "维吉莱的不在场证明",
+    "stage": 1,
     "context": "{\"Name\": \"Virgilae's Alibi\", \"Idx\": 27, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-27-Virgilae's Alibi-description",
     "original": "The demon Marrunath called Archduke Remus Virgilae to meet with him at 1:50PM. He apparently had very important information that Virgilae couldn’t ignore. Virgilae spoke with Marrunath until 3:10PM. The members of the Kingsguard guarding the demon can verify this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "恶魔马鲁纳斯要雷穆斯·维吉莱公爵在下午1:50与他见面，他手里握有维吉莱无法忽视的重要信息。维吉莱和马鲁纳斯的谈话一直持续到下午3:10。负责看守恶魔的国王卫队成员可以证实此事。",
+    "stage": 1,
     "context": "{\"Name\": \"Virgilae's Alibi\", \"Idx\": 27, \"Attr\": \"description\"}"
   }
 ]

@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-24-Stone Skin-displayName",
     "original": "Stone Skin",
-    "translation": "",
-    "stage": 0,
+    "translation": "岩石护甲",
+    "stage": 1,
     "context": "{\"Name\": \"Stone Skin\", \"Idx\": 24, \"Attr\": \"displayName\"}"
   },
   {
     "key": "SpellLibrary-24-Stone Skin-description",
     "original": "The caster creates a thick layer of stone around their body. This stone layer will deflect and protect the caster from any physical trauma. The stone layer can be slowly broken through continuous attacks. But as long as the caster concentrates on this spell, the stone layer will instantaneously repair itself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "施法者给身体覆上一层厚厚的岩石。岩石层可以反弹冲击力，保护施法者不受物理攻击伤害。随着被攻击次数增多，岩石护甲会渐渐破损。但只要施法者能集中注意力施法，岩石护甲就可以自动进行自我修复。",
+    "stage": 1,
     "context": "{\"Name\": \"Stone Skin\", \"Idx\": 24, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-24-Stone Skin-incantation",
     "original": "\"Ter-pro-tec\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"Ter-pro-tec\"",
+    "stage": 1,
     "context": "{\"Name\": \"Stone Skin\", \"Idx\": 24, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-24-Stone Skin-gesture",
     "original": "Create an X with both arms",
-    "translation": "",
-    "stage": 0,
+    "translation": "用双臂摆出“X”形",
+    "stage": 1,
     "context": "{\"Name\": \"Stone Skin\", \"Idx\": 24, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-24-Stone Skin-duration",
     "original": "While concentrating",
-    "translation": "",
-    "stage": 0,
+    "translation": "注意力集中时",
+    "stage": 1,
     "context": "{\"Name\": \"Stone Skin\", \"Idx\": 24, \"Attr\": \"duration\"}"
   }
 ]

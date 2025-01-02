@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-22-Rod of Mending-displayName",
     "original": "Rod of Mending",
-    "translation": "",
-    "stage": 0,
+    "translation": "修复之杖",
+    "stage": 1,
     "context": "{\"Name\": \"Rod of Mending\", \"Idx\": 22, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-22-Rod of Mending-description",
     "original": "An artificery tool that channels <b>transmutation</b> magic to repair objects. It’s possible to reverse its magic and cause it to weaken objects instead of repairing them.\r\\n\r\\nIt’s quite large and requires two people to properly carry and use it.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "一种用奥术能源施展<b>形变</b>魔法，修复物品的工具。也可以逆向施法，用来破坏而非修复物品。\\n\\n\\n\\n尺寸很大，需要至少两个人搬运使用。",
+    "stage": 1,
     "context": "{\"Name\": \"Rod of Mending\", \"Idx\": 22, \"Attr\": \"description\"}"
   }
 ]

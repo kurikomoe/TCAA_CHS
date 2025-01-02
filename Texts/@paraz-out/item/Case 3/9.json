@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-9-Rika Witness-displayName",
     "original": "Mosourika's Testimony",
-    "translation": "",
-    "stage": 0,
+    "translation": "莫苏里卡的证言",
+    "stage": 1,
     "context": "{\"Name\": \"Rika Witness\", \"Idx\": 9, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-9-Rika Witness-description",
     "original": "On the night of the accident, Mosourika Tudor saw Justin Waye fall off of the walkway. After seeing him fall, she tried to get the attention of Aster and Noah Morrison. But they couldn’t understand her because of how loud the refinery machines were.",
-    "translation": "",
-    "stage": 0,
+    "translation": "事故发生当晚，莫苏里卡·都铎看见贾斯汀·维耶从步道坠落。之后她尝试对阿斯特和诺亚·莫里森传达此事。但炼油机器噪音太大，两人听不真切。",
+    "stage": 1,
     "context": "{\"Name\": \"Rika Witness\", \"Idx\": 9, \"Attr\": \"description\"}"
   }
 ]

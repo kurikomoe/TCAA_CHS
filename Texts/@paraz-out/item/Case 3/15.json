@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-15-Vat Contents-displayName",
     "original": "Vat Contents",
-    "translation": "",
-    "stage": 0,
+    "translation": "桶里的东西",
+    "stage": 1,
     "context": "{\"Name\": \"Vat Contents\", \"Idx\": 15, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-15-Vat Contents-description",
     "original": "The Inquisition was able to fish out several pieces of bone matter and metallic shards from the vat that Justin Waye fell into. <b>Divination</b> magic confirms that the bones belong to him. None of the bone matter found belonged to another person.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在贾斯汀·维耶坠落的桶里，裁判所打捞出了一些碎骨和金属碎片。<b>占卜术</b>证实了碎骨都来自贾斯汀，里面没有其他人的骨头。",
+    "stage": 1,
     "context": "{\"Name\": \"Vat Contents\", \"Idx\": 15, \"Attr\": \"description\"}"
   }
 ]

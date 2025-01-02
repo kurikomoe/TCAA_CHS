@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 2-11-Bellwether’s Reputation-displayName",
     "original": "Bellwether’s Reputation",
-    "translation": "",
-    "stage": 0,
+    "translation": "贝尔维瑟的名声",
+    "stage": 1,
     "context": "{\"Name\": \"Bellwether’s Reputation\", \"Idx\": 11, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 2-11-Bellwether’s Reputation-description",
     "original": "Catherine Bellwether had a tense relation with just about everyone in the academy. She had a history of bullying students from the commonfolk and mistreating the academy staff. For several years, she used her position to curry favour with the noble houses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "凯瑟琳·贝尔维瑟和学院里几乎所有人关系都不怎么样。她会霸凌、欺负平民出身的学生与工作人员。这几年里，她一直利用自己的职位给贵族家庭牟利。",
+    "stage": 1,
     "context": "{\"Name\": \"Bellwether’s Reputation\", \"Idx\": 11, \"Attr\": \"description\"}"
   }
 ]

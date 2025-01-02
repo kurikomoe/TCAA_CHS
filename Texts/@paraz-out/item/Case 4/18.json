@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-18-What Jan Heard-displayName",
     "original": "What Jan Heard",
-    "translation": "",
-    "stage": 0,
+    "translation": "简听到的事",
+    "stage": 1,
     "context": "{\"Name\": \"What Jan Heard\", \"Idx\": 18, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-18-What Jan Heard-description",
     "original": "Jan Hughes was trapped in a storage room near William Frega’s study. He took a nap but was awoken to the sounds of some kind of physical struggle. He heard Frega shout “Who are you?! What do you want?!”. After a few more seconds he heard the sound of someone being stabbed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "简·休斯被困在了威廉·弗雷加书房附近的储物室里。他打了个盹，但被争斗声吵醒。他听见弗雷加大喊“你是谁？！你想要什么？！”。又过了几秒，他听见了有人被捅的声音。",
+    "stage": 1,
     "context": "{\"Name\": \"What Jan Heard\", \"Idx\": 18, \"Attr\": \"description\"}"
   }
 ]

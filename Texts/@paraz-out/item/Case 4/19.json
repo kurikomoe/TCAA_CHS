@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 4-19-Rats in the Vents-displayName",
     "original": "Rats in the Vents",
-    "translation": "",
-    "stage": 0,
+    "translation": "通风管道里的老鼠",
+    "stage": 1,
     "context": "{\"Name\": \"Rats in the Vents\", \"Idx\": 19, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 4-19-Rats in the Vents-description",
     "original": "The servants have been frequently complaining about the sound of rats running through the vents. Jan tried to track one of them down and followed it to the Storage Room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "佣人们一直都有抱怨老鼠在管道里跑动的噪音。简曾尝试跟着其中一只，一路跟到了储藏室里。",
+    "stage": 1,
     "context": "{\"Name\": \"Rats in the Vents\", \"Idx\": 19, \"Attr\": \"description\"}"
   }
 ]

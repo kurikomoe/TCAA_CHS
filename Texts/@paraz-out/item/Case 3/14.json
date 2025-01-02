@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-14-The Eyetaker-displayName",
     "original": "The Eyetaker?",
-    "translation": "",
-    "stage": 0,
+    "translation": "夺眼者？",
+    "stage": 1,
     "context": "{\"Name\": \"The Eyetaker\", \"Idx\": 14, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-14-The Eyetaker-description",
     "original": "Justin Waye supposedly owed a non-trivial amount of gold to an individual named “The Eyetaker”. Perhaps one of the citizens of Aurinax can tell you more about this person.",
-    "translation": "",
-    "stage": 0,
+    "translation": "贾斯汀·维耶欠着一个叫“夺眼者”的人一大笔金子。也许欧奥耐克斯的市民知道更多关于夺眼者的事。",
+    "stage": 1,
     "context": "{\"Name\": \"The Eyetaker\", \"Idx\": 14, \"Attr\": \"description\"}"
   }
 ]

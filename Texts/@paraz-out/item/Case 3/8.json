@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 3-8-Aster Morrison Witness 2-displayName",
     "original": "Aster and Morrison's Testimony",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿斯特和莫里森的证言",
+    "stage": 1,
     "context": "{\"Name\": \"Aster Morrison Witness 2\", \"Idx\": 8, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 3-8-Aster Morrison Witness 2-description",
     "original": "On the night of the accident, Mosourika Tudor frantically approached Noah Morrison and a man named Aster. She tried to tell them something. However, they couldn’t hear her over the noise produced by the refinery machines. \r\\n\r\\nThey noticed that Mosourika was pointing at the walkway, so they looked there. There, they saw a figure lean on a guard rail and break it. The figure fell from the walkway and into the vat of corrosive chemicals. \r\\n\r\\nBoth Noah and Aster’s testimonies match each other identically.\r\\n",
-    "translation": "",
-    "stage": 0,
+    "translation": "事故发生当晚，莫苏里卡·都铎疯狂试图接近诺亚·莫里森和一个叫阿斯特的男人。她尝试传达一些信息。但炼油机器噪音太大，两人无法听清。\\n\\n\\n\\n他们注意到莫苏里卡指向步道，就往那边看去。两人发现一个身影靠在护栏上，弄坏了护栏，然后从步道坠入了装有腐蚀性化合物的桶里。\\n\\n\\n\\n诺亚和阿斯特二者证言一致。",
+    "stage": 1,
     "context": "{\"Name\": \"Aster Morrison Witness 2\", \"Idx\": 8, \"Attr\": \"description\"}"
   }
 ]

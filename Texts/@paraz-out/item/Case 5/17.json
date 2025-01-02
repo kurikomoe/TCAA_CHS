@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-17-Marriage Meeting-displayName",
     "original": "Marriage Meeting",
-    "translation": "",
-    "stage": 0,
+    "translation": "婚礼会面",
+    "stage": 1,
     "context": "{\"Name\": \"Marriage Meeting\", \"Idx\": 17, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-17-Marriage Meeting-description",
     "original": "From 1:15PM-1:40PM, Aster de Wyverngarde and Aria Steelwind spoke with High Speaker Theon Archeus, about their upcoming wedding. At 1:40PM Steelwind abruptly left the meeting and didn’t answer Aster when asked where she was going.",
-    "translation": "",
-    "stage": 0,
+    "translation": "下午1:15-1:40期间，阿斯特·维文加德和阿莉亚·斯蒂尔文德与议长希恩·阿契厄斯就之后的婚礼一事会面。下午1:40，斯蒂尔文德突然离场，也没有回应问她要去哪里的阿斯特。",
+    "stage": 1,
     "context": "{\"Name\": \"Marriage Meeting\", \"Idx\": 17, \"Attr\": \"description\"}"
   }
 ]

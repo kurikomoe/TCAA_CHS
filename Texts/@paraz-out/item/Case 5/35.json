@@ -2,15 +2,15 @@
   {
     "key": "Item-Case 5-35-Ruby's Blood Contract-displayName",
     "original": "Ruby's Blood Contract",
-    "translation": "",
-    "stage": 0,
+    "translation": "鲁比的血契",
+    "stage": 1,
     "context": "{\"Name\": \"Ruby's Blood Contract\", \"Idx\": 35, \"Attr\": \"displayName\"}"
   },
   {
     "key": "Item-Case 5-35-Ruby's Blood Contract-description",
     "original": "“Upon signing this Contract, Ruby Tymora grants the Empress of Discord access to her memories. At any time, the Empress may view any and all of Tymora’s memories. In addition to that, the Empress may instantaneously change and alter her memories whenever she wishes.”\\n\\nIt's signed with Ruby Tymora's name.",
-    "translation": "",
-    "stage": 0,
+    "translation": "“签订契约后，鲁比·泰摩拉允许无序女皇查探自己的记忆。女皇可以在任意时间查看泰摩拉的任意记忆。此外，女皇还可以在任何时间更改泰摩拉的记忆。”\\n\\n附有鲁比·泰摩拉的签名。",
+    "stage": 1,
     "context": "{\"Name\": \"Ruby's Blood Contract\", \"Idx\": 35, \"Attr\": \"description\"}"
   }
 ]

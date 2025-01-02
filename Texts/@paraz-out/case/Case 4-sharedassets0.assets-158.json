@@ -2,15 +2,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument3-10-0",
     "original": "I was not involved in this!",
-    "translation": "",
-    "stage": 0,
+    "translation": "我和这事儿没关系！",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I was not involved in this!\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I was not involved in this!\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I was not involved in this!\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-6-0",
     "original": "What did Tracker hear when he woke up?",
-    "translation": "",
-    "stage": 0,
+    "translation": "追迹者醒来后听到了什么？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What did Tracker hear when he woke up?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What did Tracker hear when he woke up?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What did Tracker hear when he woke up?\"]}"
   },
   {
@@ -44,15 +44,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-13-0",
     "original": "What did Tracker hear when he woke up?",
-    "translation": "",
-    "stage": 0,
+    "translation": "追迹者醒来后听到了什么？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What did Tracker hear when he woke up?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What did Tracker hear when he woke up?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What did Tracker hear when he woke up?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-16-0",
     "original": "How did the Sword of Spell Eating end up in that hallway?",
-    "translation": "",
-    "stage": 0,
+    "translation": "噬法之剑怎么跑到走廊里的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj10\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"How did the Sword of Spell Eating end up in that hallway?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How did the Sword of Spell Eating end up in that hallway?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"How did the Sword of Spell Eating end up in that hallway?\"]}"
   },
   {
@@ -86,15 +86,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-23-0",
     "original": "How did the Sword of Spell Eating end up in that hallway?",
-    "translation": "",
-    "stage": 0,
+    "translation": "噬法之剑怎么跑到走廊里的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj10\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"How did the Sword of Spell Eating end up in that hallway?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How did the Sword of Spell Eating end up in that hallway?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"How did the Sword of Spell Eating end up in that hallway?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-4-0",
     "original": "What is unique about Beatrice's relationship with Marrunath?",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝和马鲁纳斯的关系有什么独特之处？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14b\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What is unique about Beatrice\\\\'s relationship with Marrunath?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What is unique about Beatrice\\\\'s relationship with Marrunath?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What is unique about Beatrice's relationship with Marrunath?\"]}"
   },
   {
@@ -121,15 +121,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-10-0",
     "original": "What is unique about Beatrice's relationship with Marrunath?",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝和马鲁纳斯的关系有什么独特之处？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14b\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What is unique about Beatrice\\\\'s relationship with Marrunath?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What is unique about Beatrice\\\\'s relationship with Marrunath?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What is unique about Beatrice's relationship with Marrunath?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-16-0",
     "original": "Where did the murder weapon come from?",
-    "translation": "",
-    "stage": 0,
+    "translation": "凶器来自哪里？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Where did the murder weapon come from?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Where did the murder weapon come from?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Where did the murder weapon come from?\"]}"
   },
   {
@@ -163,15 +163,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-24-0",
     "original": "Where did the murder weapon come from?",
-    "translation": "",
-    "stage": 0,
+    "translation": "凶器来自哪里？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Where did the murder weapon come from?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Where did the murder weapon come from?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Where did the murder weapon come from?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-3-0",
     "original": "How do you prove that Beatrice ordered Marrunath?",
-    "translation": "",
-    "stage": 0,
+    "translation": "怎么证明是比亚特丽丝对马鲁纳斯下令的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"How do you prove that Beatrice ordered Marrunath?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How do you prove that Beatrice ordered Marrunath?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"How do you prove that Beatrice ordered Marrunath?\"]}"
   },
   {
@@ -205,29 +205,29 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-10-0",
     "original": "How do you prove that Beatrice ordered Marrunath?",
-    "translation": "",
-    "stage": 0,
+    "translation": "怎么证明是比亚特丽丝对马鲁纳斯下令的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"How do you prove that Beatrice ordered Marrunath?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How do you prove that Beatrice ordered Marrunath?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"How do you prove that Beatrice ordered Marrunath?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument7-2-0",
     "original": "I can't trust you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我没法相信你。",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument7\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I can\\\\'t trust you.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I can\\\\'t trust you.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I can't trust you.\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Start4-5-0",
     "original": "Episode IV/nSevered Ties",
-    "translation": "",
-    "stage": 0,
+    "translation": "第四章/n一刀两断",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Start4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"TitleCard \\\\\\\"Episode IV/nSevered Ties\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode IV/nSevered Ties\\\\\\\"\\\"\n\", \"cmd\": [\"TitleCard\", \"Episode IV/nSevered Ties\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-7-0",
     "original": "What is flawed with the prosecution's case?",
-    "translation": "",
-    "stage": 0,
+    "translation": "检方的举证有什么漏洞？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce6\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What is flawed with the prosecution\\\\'s case?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What is flawed with the prosecution\\\\'s case?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What is flawed with the prosecution's case?\"]}"
   },
   {
@@ -254,64 +254,64 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-12-0",
     "original": "What is flawed with the prosecution's case?",
-    "translation": "",
-    "stage": 0,
+    "translation": "检方的举证有什么漏洞？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce6\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What is flawed with the prosecution\\\\'s case?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What is flawed with the prosecution\\\\'s case?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What is flawed with the prosecution's case?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14d-2-0",
     "original": "Who told you something about demonic pacts?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谁对你说了有关恶魔契约的事？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered14d\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Who told you something about demonic pacts?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Who told you something about demonic pacts?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Who told you something about demonic pacts?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-LialfalArgument_Fail-5-0",
     "original": "You lost the argument...",
-    "translation": "",
-    "stage": 0,
+    "translation": "你输掉了辩论……",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LialfalArgument_Fail\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-7-0",
     "original": "Start an ARGUMENT with Laefe Frega?",
-    "translation": "",
-    "stage": 0,
+    "translation": "是否开始说服拉菲·弗雷加？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Laefe Frega?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Laefe Frega?\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Laefe Frega?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-10-0",
     "original": "Start an ARGUMENT with Laefe Frega?/nYou haven't completed her PSYCHOLOGICAL PROFILE.",
-    "translation": "",
-    "stage": 0,
+    "translation": "是否开始说服拉菲·弗雷加？/n你尚未了解她的心理档案。",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Laefe Frega?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"Start an ARGUMENT with Laefe Frega?/nYou haven\\\\'t completed her PSYCHOLOGICAL PROFILE.\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"Start an ARGUMENT with Laefe Frega?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-34-0",
     "original": "You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.",
-    "translation": "",
-    "stage": 0,
+    "translation": "拉菲·弗雷加和你今天才见面，她没有相信你的理由。她只相信比亚特丽丝是无辜的。/n/n她通常很真诚，不太可能和谋杀自己父亲有关。如果你也真诚相待，或许她会更友好。",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"LoadArgueProfile \\\\\\\"You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"LoadArgueProfile \\\\\\\"You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.\\\\\\\"\\\"\n\", \"cmd\": [\"LoadArgueProfile\", \"You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-42-0",
     "original": "I have no idea what my father was doing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我不知道父亲在做什么。",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I have no idea what my father was doing.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I have no idea what my father was doing.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I have no idea what my father was doing.\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-End8-28-0",
     "original": "Episode End",
-    "translation": "",
-    "stage": 0,
+    "translation": "章节结束",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"End8\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"TitleCard \\\\\\\"Episode End\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"TitleCard \\\\\\\"Episode End\\\\\\\"\\\"\n\", \"cmd\": [\"TitleCard\", \"Episode End\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-7-0",
     "original": "When did the murder occur?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谋杀的发生时间是？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"When did the murder occur?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"When did the murder occur?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"When did the murder occur?\"]}"
   },
   {
@@ -338,22 +338,22 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-15-0",
     "original": "When did the murder occur?",
-    "translation": "",
-    "stage": 0,
+    "translation": "谋杀的发生时间是？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"StudyDeduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"When did the murder occur?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"When did the murder occur?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"When did the murder occur?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj15-30-0",
     "original": "What did Beatrice use to commit the murder?",
-    "translation": "",
-    "stage": 0,
+    "translation": "比亚特丽丝利用什么行凶？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj15\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"What did Beatrice use to commit the murder?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"What did Beatrice use to commit the murder?\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"What did Beatrice use to commit the murder?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-4-0",
     "original": "Why wouldn't Marrunath simply lie?",
-    "translation": "",
-    "stage": 0,
+    "translation": "马鲁纳斯为什么不说谎？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why wouldn\\\\'t Marrunath simply lie?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why wouldn\\\\'t Marrunath simply lie?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why wouldn't Marrunath simply lie?\"]}"
   },
   {
@@ -380,29 +380,29 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-11-0",
     "original": "Why wouldn't Marrunath simply lie?",
-    "translation": "",
-    "stage": 0,
+    "translation": "马鲁纳斯为什么不说谎？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why wouldn\\\\'t Marrunath simply lie?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why wouldn\\\\'t Marrunath simply lie?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why wouldn't Marrunath simply lie?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered_Fail-3-0",
     "original": "You lost the argument...",
-    "translation": "",
-    "stage": 0,
+    "translation": "你输掉了辩论……",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered_Fail\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Confirmation \\\\\\\"You lost the argument...\\\\\\\"\\\"\n\", \"cmd\": [\"Confirmation\", \"You lost the argument...\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered-7-0",
     "original": "I didn't bring anything dangerous into Frega Manor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我没有带危险物品进入弗雷加庄园。",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I didn\\\\'t bring anything dangerous into Frega Manor.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I didn\\\\'t bring anything dangerous into Frega Manor.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I didn't bring anything dangerous into Frega Manor.\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-18-0",
     "original": "Why didn't Laefe answer Tracker's message?",
-    "translation": "",
-    "stage": 0,
+    "translation": "拉菲为什么不回追迹者的消息？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t Laefe answer Tracker\\\\'s message?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why didn\\\\'t Laefe answer Tracker\\\\'s message?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why didn't Laefe answer Tracker's message?\"]}"
   },
   {
@@ -429,15 +429,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-25-0",
     "original": "Why didn't Laefe answer Tracker's message?",
-    "translation": "",
-    "stage": 0,
+    "translation": "拉菲为什么不回追迹者的消息？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t Laefe answer Tracker\\\\'s message?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why didn\\\\'t Laefe answer Tracker\\\\'s message?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why didn't Laefe answer Tracker's message?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-13-0",
     "original": "Why did Tracker finally hear Laefe?",
-    "translation": "",
-    "stage": 0,
+    "translation": "追迹者最后为什么能听到拉菲？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why did Tracker finally hear Laefe?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why did Tracker finally hear Laefe?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why did Tracker finally hear Laefe?\"]}"
   },
   {
@@ -471,22 +471,22 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-21-0",
     "original": "Why did Tracker finally hear Laefe?",
-    "translation": "",
-    "stage": 0,
+    "translation": "追迹者最后为什么能听到拉菲？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"TrackerDeduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why did Tracker finally hear Laefe?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why did Tracker finally hear Laefe?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why did Tracker finally hear Laefe?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered3-12-0",
     "original": "I did not commit any crimes during the Lords' Ball.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我在勋爵的舞会期间没有犯罪。",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered3\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I did not commit any crimes during the Lords\\\\' Ball.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I did not commit any crimes during the Lords\\\\' Ball.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I did not commit any crimes during the Lords' Ball.\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-6-0",
     "original": "Why was the thief in that hallway?",
-    "translation": "",
-    "stage": 0,
+    "translation": "窃贼为什么在走廊里？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj12\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why was the thief in that hallway?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why was the thief in that hallway?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why was the thief in that hallway?\"]}"
   },
   {
@@ -520,15 +520,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-12-0",
     "original": "Why was the thief in that hallway?",
-    "translation": "",
-    "stage": 0,
+    "translation": "窃贼为什么在走廊里？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Eug2Obj12\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why was the thief in that hallway?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why was the thief in that hallway?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why was the thief in that hallway?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-16-0",
     "original": "Why is Marrunath using the term \"master\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "马鲁纳斯为什么要用“主人”这个词？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why is Marrunath using the term \\\\\\\\\\\\\\\"master\\\\\\\\\\\\\\\"?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why is Marrunath using the term \\\\\\\\\\\\\\\"master\\\\\\\\\\\\\\\"?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why is Marrunath using the term \\\"master\\\"?\"]}"
   },
   {
@@ -562,15 +562,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-23-0",
     "original": "Why is Marrunath using the term \"master\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "马鲁纳斯为什么要用“主人”这个词？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"MarrunathObj\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why is Marrunath using the term \\\\\\\\\\\\\\\"master\\\\\\\\\\\\\\\"?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why is Marrunath using the term \\\\\\\\\\\\\\\"master\\\\\\\\\\\\\\\"?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why is Marrunath using the term \\\"master\\\"?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-22-0",
     "original": "Who did Tracker see in the air vent?",
-    "translation": "",
-    "stage": 0,
+    "translation": "追迹者在通风管里看见了谁？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye2\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Who did Tracker see in the air vent?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Who did Tracker see in the air vent?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Who did Tracker see in the air vent?\"]}"
   },
   {
@@ -583,29 +583,29 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-25-0",
     "original": "Who did Tracker see in the air vent?",
-    "translation": "",
-    "stage": 0,
+    "translation": "追迹者在通风管里看见了谁？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye2\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Who did Tracker see in the air vent?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Who did Tracker see in the air vent?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Who did Tracker see in the air vent?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument5-1-0",
     "original": "I was never aware of the details of my father's will.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我从不清楚父亲遗嘱的细节。",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"LiafalArgument5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"I was never aware of the details of my father\\\\'s will.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"I was never aware of the details of my father\\\\'s will.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"I was never aware of the details of my father's will.\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-BeatCornered5-5-0",
     "original": "Marrunath will take the fall on Beatrice's behalf.",
-    "translation": "",
-    "stage": 0,
+    "translation": "马鲁纳斯会替比亚特丽丝承担责任。",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"BeatCornered5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Typewriter \\\\\\\"Marrunath will take the fall on Beatrice\\\\'s behalf.\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Typewriter \\\\\\\"Marrunath will take the fall on Beatrice\\\\'s behalf.\\\\\\\"\\\"\n\", \"cmd\": [\"Typewriter\", \"Marrunath will take the fall on Beatrice's behalf.\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-7-0",
     "original": "Where are the Armbands of Intellect right now?",
-    "translation": "",
-    "stage": 0,
+    "translation": "智慧臂章现在在哪里？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"EugeneObj2\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Where are the Armbands of Intellect right now?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Where are the Armbands of Intellect right now?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Where are the Armbands of Intellect right now?\"]}"
   },
   {
@@ -639,15 +639,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-15-0",
     "original": "Where are the Armbands of Intellect right now?",
-    "translation": "",
-    "stage": 0,
+    "translation": "智慧臂章现在在哪里？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"EugeneObj2\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Where are the Armbands of Intellect right now?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Where are the Armbands of Intellect right now?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Where are the Armbands of Intellect right now?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-6-0",
     "original": "Why was Eugene in the air vents?",
-    "translation": "",
-    "stage": 0,
+    "translation": "尤金为什么会在通风管道里？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"Why was Eugene in the air vents?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"Why was Eugene in the air vents?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"Why was Eugene in the air vents?\"]}"
   },
   {
@@ -674,15 +674,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-13-0",
     "original": "Why was Eugene in the air vents?",
-    "translation": "",
-    "stage": 0,
+    "translation": "尤金为什么会在通风管道里？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye4\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"Why was Eugene in the air vents?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"Why was Eugene in the air vents?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"Why was Eugene in the air vents?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-9-0",
     "original": "How could Eugene have carried out this plan independently?",
-    "translation": "",
-    "stage": 0,
+    "translation": "尤金怎么独立完成计划的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye6\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"How could Eugene have carried out this plan independently?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"How could Eugene have carried out this plan independently?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"How could Eugene have carried out this plan independently?\"]}"
   },
   {
@@ -709,15 +709,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-18-0",
     "original": "How could Eugene have carried out this plan independently?",
-    "translation": "",
-    "stage": 0,
+    "translation": "尤金怎么独立完成计划的？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"HaroldAfterEye6\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"How could Eugene have carried out this plan independently?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"How could Eugene have carried out this plan independently?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"How could Eugene have carried out this plan independently?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-14-0",
     "original": "What does this tell us about William Frega?",
-    "translation": "",
-    "stage": 0,
+    "translation": "这能说明什么关于威廉·弗雷加的事？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What does this tell us about William Frega?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What does this tell us about William Frega?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What does this tell us about William Frega?\"]}"
   },
   {
@@ -751,15 +751,15 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-21-0",
     "original": "What does this tell us about William Frega?",
-    "translation": "",
-    "stage": 0,
+    "translation": "这能说明什么关于威廉·弗雷加的事？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce5\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What does this tell us about William Frega?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What does this tell us about William Frega?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What does this tell us about William Frega?\"]}"
   },
   {
     "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-3-0",
     "original": "What do we know about the thief of the Sword of Spell Eating?",
-    "translation": "",
-    "stage": 0,
+    "translation": "我们知道什么关于偷窃噬法之剑的贼的事？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"DeduceTypewriter \\\\\\\"What do we know about the thief of the Sword of Spell Eating?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"DeduceTypewriter \\\\\\\"What do we know about the thief of the Sword of Spell Eating?\\\\\\\"\\\"\n\", \"cmd\": [\"DeduceTypewriter\", \"What do we know about the thief of the Sword of Spell Eating?\"]}"
   },
   {
@@ -786,8 +786,8 @@
   {
     "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-9-0",
     "original": "What do we know about the thief of the Sword of Spell Eating?",
-    "translation": "",
-    "stage": 0,
+    "translation": "我们知道什么关于偷窃噬法之剑的贼的事？",
+    "stage": 1,
     "context": "{\"case\": \"Case 4-sharedassets0.assets-158.json\", \"node_name\": \"Inves1Deduce\", \"inst\": \"opcode: RUN_COMMAND\noperands {\n  string_value: \\\"Deduction \\\\\\\"What do we know about the thief of the Sword of Spell Eating?\\\\\\\"\\\"\n}\noperands {\n  float_value: 0\n}\n\", \"op\": \"string_value: \\\"Deduction \\\\\\\"What do we know about the thief of the Sword of Spell Eating?\\\\\\\"\\\"\n\", \"cmd\": [\"Deduction\", \"What do we know about the thief of the Sword of Spell Eating?\"]}"
   }
 ]

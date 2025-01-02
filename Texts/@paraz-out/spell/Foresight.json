@@ -2,36 +2,36 @@
   {
     "key": "SpellLibrary-20-Foresight-displayName",
     "original": "Foresight",
-    "translation": "",
-    "stage": 0,
+    "translation": "危险预知",
+    "stage": 1,
     "context": "{\"Name\": \"Foresight\", \"Idx\": 20, \"Attr\": \"displayName\"}"
   },
   {
     "key": "SpellLibrary-20-Foresight-description",
     "original": "The caster invokes the ultimate form of <b>divination</b> magic to see brief glimpses of the near future. While this spell is active, the caster is able to sense danger seconds before it actually happens.",
-    "translation": "",
-    "stage": 0,
+    "translation": "施法者引动究极<b>占卜术</b>之力，短暂观测未来。法术生效期间，施法者可以在发生前数秒感知危机。",
+    "stage": 1,
     "context": "{\"Name\": \"Foresight\", \"Idx\": 20, \"Attr\": \"description\"}"
   },
   {
     "key": "SpellLibrary-20-Foresight-incantation",
     "original": "\"For-heim\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"For-heim\"",
+    "stage": 1,
     "context": "{\"Name\": \"Foresight\", \"Idx\": 20, \"Attr\": \"incantation\"}"
   },
   {
     "key": "SpellLibrary-20-Foresight-gesture",
     "original": "Form a triangle with both hands",
-    "translation": "",
-    "stage": 0,
+    "translation": "用双手摆出一个三角形",
+    "stage": 1,
     "context": "{\"Name\": \"Foresight\", \"Idx\": 20, \"Attr\": \"gesture\"}"
   },
   {
     "key": "SpellLibrary-20-Foresight-duration",
     "original": "24 hours",
-    "translation": "",
-    "stage": 0,
+    "translation": "24小时",
+    "stage": 1,
     "context": "{\"Name\": \"Foresight\", \"Idx\": 20, \"Attr\": \"duration\"}"
   }
 ]
