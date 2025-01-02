@@ -59,7 +59,7 @@
       },
       {
         "name": "Gallery",
-        "displayName": "Gallery",
+        "displayName": "旁听席",
         "iconPath": "",
         "description": "",
         "altDescriptions": {
@@ -176,10 +176,10 @@
         "name": "Celeste McCoy",
         "displayName": "塞莱斯特·麦考伊",
         "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Celeste.png",
-        "description": "塞莱斯特·麦考伊是弗林哈特和朱莲尼收养的女儿。她凭借着如龙般的体力与力量和对于魔法惊人的天然适应性周游了整个世界，在此过程中作为雇佣兵来补贴家用。她凭借战场上的事迹就轻松的从畏惧她的人那里斩获了“猩红恶魔”的称号。不过，她本人不是很<i>喜欢</i>那个称号。",
+        "description": "塞莱斯特·麦考伊是弗林哈特和朱莲尼收养的女儿。她凭借着如龙般的体力与力量和对于魔法惊人的天然适应性周游了整个世界，在此过程中作为雇佣兵来补贴家用。她凭借战场上的事迹，轻松的从畏惧她的人那里斩获了“猩红恶魔”的称号。不过，她本人不是很<i>喜欢</i>那个称号。",
         "altDescriptions": {
           "Array": [
-            "Celeste McCoy is the daughter of Flinhart and Jolene McCoy. After the McCoy Tavern was shut down, she became a mercenary to support her family and keep them afloat."
+            "塞莱斯特·麦考伊是弗林哈特·麦考伊和朱莲尼·麦考伊的女儿。在麦考伊酒馆停业后，她选择当雇佣兵补贴家用。"
           ]
         },
         "prefab": "Assets/Prefabs/Resources/Characters/Celeste McCoy Variant.prefab",
@@ -277,7 +277,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Aria Steelwind.prefab",
         "occupation": "检察官",
         "age": "18",
-        "arcaneArt": "召唤",
+        "arcaneArt": "塑能",
         "witnessImg": "",
         "voiceHigh": 1,
         "demonVoice": 0,
@@ -300,7 +300,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Aria Steelwind (Dress).prefab",
         "occupation": "检察官",
         "age": "18",
-        "arcaneArt": "召唤",
+        "arcaneArt": "塑能",
         "witnessImg": "",
         "voiceHigh": 1,
         "demonVoice": 0,
@@ -342,13 +342,13 @@
         "description": "神秘的女性，看起来对提利昂兴味盎然……动机不明。",
         "altDescriptions": {
           "Array": [
-            "A demon commonly referred to as “the Empress of Discord”. She is the Lord of the Sixth Circle of Hell who has taken a human form on the Mortal Plan. She posses quite a sadistic nature."
+            "被称为“无序女皇”的恶魔。第六层地狱之主，在凡人界伪装成人类形态。性喜施虐。"
           ]
         },
         "prefab": "Assets/Prefabs/Resources/Characters/Eris Illmater Variant.prefab",
         "occupation": "学生",
         "age": "16",
-        "arcaneArt": "Illusion",
+        "arcaneArt": "幻觉",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Eris.png",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -387,7 +387,7 @@
         "name": "Flinhart McCoy",
         "displayName": "弗林哈特·麦考伊",
         "iconPath": "Assets/Visuals/Resources/Character Icons/Case 1/Flinhart.png",
-        "description": "曾经的酒吧老板，现在已经成为了革命的一员。声讨对维文加德国王的不满而被世人所熟知。他对贵族以及能使用魔法的魔法使深恶痛疾。",
+        "description": "曾经的酒吧老板，现在已经成为了革命的一员。声讨对维文加德国王的不满而被世人所熟知。他对贵族以及能使用魔法的法师深恶痛疾。",
         "altDescriptions": {
           "Array": []
         },
@@ -413,7 +413,7 @@
         "description": "统治着科尔哈文的狂妄贵族领主。他比谁都盼望着这场审判能早些结案。但提利昂<i>可不会</i>让他如愿。",
         "altDescriptions": {
           "Array": [
-            "After being indicted and convicted for the murder of Flinhart McCoy, Pierce now awaits public execution, as per Wyverngarde’s laws. However, he seems to be desperate to avoid that outcome."
+            "在被指控并因杀害弗林哈特·麦考伊获罪后，根据维文加德法律，皮尔斯即将被公开处刑。但他似乎迫切想要避免这一结果。"
           ]
         },
         "prefab": "Assets/Prefabs/Resources/Characters/Garrick Pierce Variant.prefab",
@@ -435,7 +435,7 @@
         "name": "Orym White",
         "displayName": "奥蒙·怀特",
         "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Orym.png",
-        "description": "不耐烦又有点愤世嫉俗的奥术裁判所指挥官。除开他对魔法使和贵族的偏见，他还算是个务实严肃的人。",
+        "description": "不耐烦又有点愤世嫉俗的奥术裁判所指挥官。除开他对法师和贵族的偏见，他还算是个务实严肃的人。",
         "altDescriptions": {
           "Array": []
         },
@@ -504,7 +504,7 @@
         "name": "Ruby Tymora",
         "displayName": "鲁比·泰摩拉",
         "iconPath": "Assets/Visuals/Resources/Character Icons/Main/Ruby.png",
-        "description": "臭名昭著的为平民出身的魔法使所进行辩护的律师。她痛恨贵族。与此同时，她一直身处伪造证据、贿赂、勒索等谣言的中心。",
+        "description": "臭名昭著的为平民出身的法师所进行辩护的律师。她痛恨贵族。与此同时，她一直身处伪造证据、贿赂、勒索等谣言的中心。",
         "altDescriptions": {
           "Array": []
         },
@@ -663,7 +663,7 @@
       },
       {
         "name": "Arcane Construct",
-        "displayName": "奥术铸体",
+        "displayName": "奥术构造体",
         "iconPath": "",
         "description": "",
         "altDescriptions": {
@@ -688,16 +688,16 @@
         "name": "Catherine Bellwether",
         "displayName": "凯瑟琳·贝尔维瑟",
         "iconPath": "Assets/Visuals/Resources/Character Icons/Case 2/Catherine.png",
-        "description": "帝国学院的教授，性格粗暴。看起来很鄙视你们一行人<i>和</i> 沃勒斯。",
+        "description": "帝国学院的教授，性格粗暴。看起来很鄙视你们一行人<i>和</i> 华莱士。",
         "altDescriptions": {
           "Array": [
-            "A professor at the Imperial Academy who clearly had an abrasive personality. She seems to have had quite the disdain for your party <i>and</i> Wallace Chillgrave."
+            "帝国学院的教授，性格粗暴。生前看起来很鄙视你们一行人<i>和</i> 华莱士。"
           ]
         },
         "prefab": "Assets/Prefabs/Resources/Characters/Catherine Variant.prefab",
         "occupation": "教授",
         "age": "34",
-        "arcaneArt": "幻象",
+        "arcaneArt": "幻觉",
         "witnessImg": "",
         "voiceHigh": 1,
         "demonVoice": 0,
@@ -743,7 +743,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Miriam Frega Variant.prefab",
         "occupation": "学生",
         "age": "17",
-        "arcaneArt": "Conjuration",
+        "arcaneArt": "召唤",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Miriam.png",
         "voiceHigh": 1,
         "demonVoice": 0,
@@ -785,7 +785,7 @@
         "description": "帝国学院厨房的工作人员之一。瓦伦蒂娜的同胞姐妹，看起来一模一样。",
         "altDescriptions": {
           "Array": [
-            "A member of the kitchen staff at the Imperial Academy. She’s an identical twin to her sister Valentina. They both physically look the same.\n\nShe's secretly been hiding the fact that she's a mage. This is illegal under the laws of Wyverngarde."
+            "帝国学院厨房的工作人员之一。瓦伦蒂娜的同胞姐妹，看起来一模一样。\n\n隐藏了自己其实是法师的事。这一点违反维文加德法律。"
           ]
         },
         "prefab": "Assets/Prefabs/Resources/Characters/Valerie Ianus.prefab",
@@ -814,7 +814,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Theodore Redmond Variant.prefab",
         "occupation": "校长",
         "age": "88",
-        "arcaneArt": "Illusion",
+        "arcaneArt": "幻觉",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Theodore.png",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -833,7 +833,7 @@
         "description": "帝国学院的学生。一直处于紧张不安的状态……",
         "altDescriptions": {
           "Array": [
-            "A former student at the Imperial Academy. He was expelled for studying high-level necromancy. But since then, the necromancer Lazarick Asclepius has taken him as his ward."
+            "帝国学院的前学生，因学习高阶死灵术被驱逐。之后被死灵法师拉扎瑞克·阿斯克勒庇俄斯收为学徒。"
           ]
         },
         "prefab": "Assets/Prefabs/Resources/Characters/Wallace Chillgrave Variant.prefab",
@@ -885,7 +885,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Aster Wyverngarde Variant.prefab",
         "occupation": "王子",
         "age": "26",
-        "arcaneArt": "祈祷",
+        "arcaneArt": "召唤",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Aster.png",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -906,7 +906,7 @@
           "Array": []
         },
         "prefab": "Assets/Prefabs/Resources/Characters/Gavin Cromwell Variant.prefab",
-        "occupation": "None",
+        "occupation": "无",
         "age": "16",
         "arcaneArt": "None",
         "witnessImg": "",
@@ -931,7 +931,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Lloyd von Sanctus Variant.prefab",
         "occupation": "贵族",
         "age": "45",
-        "arcaneArt": "Abjuration",
+        "arcaneArt": "防护",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Lloyd.png",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -954,7 +954,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Mosourika Tudor Variant.prefab",
         "occupation": "商人",
         "age": "19",
-        "arcaneArt": "Evocation",
+        "arcaneArt": "塑能",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Mosourika.png",
         "voiceHigh": 1,
         "demonVoice": 0,
@@ -1021,7 +1021,7 @@
           "Array": []
         },
         "prefab": "Assets/Prefabs/Resources/Characters/Wyatt Miller Variant.prefab",
-        "occupation": "None",
+        "occupation": "无",
         "age": "17",
         "arcaneArt": "None",
         "witnessImg": "",
@@ -1046,7 +1046,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Beatrice Frega Variant.prefab",
         "occupation": "无业",
         "age": "23",
-        "arcaneArt": "幻象",
+        "arcaneArt": "幻觉",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Beatrice.png",
         "voiceHigh": 1,
         "demonVoice": 0,
@@ -1092,7 +1092,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Beatrice and Marrunath.prefab",
         "occupation": "无业",
         "age": "23",
-        "arcaneArt": "Conjuration",
+        "arcaneArt": "召唤",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Beatrice and Marrunath.png",
         "voiceHigh": 1,
         "demonVoice": 0,
@@ -1115,7 +1115,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Wilfred Frega Variant.prefab",
         "occupation": "贵族",
         "age": "62",
-        "arcaneArt": "Conjuration",
+        "arcaneArt": "召唤",
         "witnessImg": "",
         "voiceHigh": 1,
         "demonVoice": 0,
@@ -1138,7 +1138,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Aleric de Wyverngade.prefab",
         "occupation": "王子",
         "age": "7",
-        "arcaneArt": "召唤",
+        "arcaneArt": "塑能",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Alaric.png",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -1161,7 +1161,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Liafall Frega Variant.prefab",
         "occupation": "贵族",
         "age": "18",
-        "arcaneArt": "Conjuration",
+        "arcaneArt": "召唤",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Liafal.png",
         "voiceHigh": 1,
         "demonVoice": 0,
@@ -1184,7 +1184,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Cormac Variant.prefab",
         "occupation": "狗",
         "age": "3",
-        "arcaneArt": "Conjuration",
+        "arcaneArt": "召唤",
         "witnessImg": "",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -1207,7 +1207,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Lazar Asclepius Variant.prefab",
         "occupation": "贵族",
         "age": "27",
-        "arcaneArt": "Necromancy",
+        "arcaneArt": "死灵术",
         "witnessImg": "",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -1230,7 +1230,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Lucio Steelwind Variant.prefab",
         "occupation": "大将军",
         "age": "76",
-        "arcaneArt": "Evocation",
+        "arcaneArt": "塑能",
         "witnessImg": "",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -1345,7 +1345,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Harold Haroldson Variant.prefab",
         "occupation": "历史学家",
         "age": "???",
-        "arcaneArt": "Transmutation",
+        "arcaneArt": "形变",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Harold.png",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -1368,7 +1368,7 @@
         "prefab": "Assets/Prefabs/Resources/Characters/Eugene Haroldson Variant.prefab",
         "occupation": "猴子",
         "age": "20",
-        "arcaneArt": "Transmutation",
+        "arcaneArt": "形变",
         "witnessImg": "Assets/Visuals/Courtroom/Wide/Resources/Witnesses/Eugene.png",
         "voiceHigh": 0,
         "demonVoice": 0,
@@ -1481,7 +1481,7 @@
           "Array": []
         },
         "prefab": "",
-        "occupation": "最高审判官",
+        "occupation": "最高裁判官",
         "age": "23",
         "arcaneArt": "???",
         "witnessImg": "",

@@ -1,0 +1,422 @@
+{
+  "m_Name": "OpenSans-Regular Atlas Material",
+  "m_Shader": {
+    "m_FileID": 0,
+    "m_PathID": 4
+  },
+  "m_ValidKeywords": {
+    "Array": []
+  },
+  "m_InvalidKeywords": {
+    "Array": []
+  },
+  "m_LightmapFlags": 4,
+  "m_EnableInstancingVariants": false,
+  "m_DoubleSidedGI": false,
+  "m_CustomRenderQueue": -1,
+  "stringTagMap": {
+    "Array": []
+  },
+  "disabledShaderPasses": {
+    "Array": []
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "Array": [
+        {
+          "first": "_BumpMap",
+          "second": {
+            "m_Texture": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_Scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "m_Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "first": "_Cube",
+          "second": {
+            "m_Texture": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_Scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "m_Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "first": "_FaceTex",
+          "second": {
+            "m_Texture": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_Scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "m_Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "first": "_MainTex",
+          "second": {
+            "m_Texture": {
+              "m_FileID": 0,
+              "m_PathID": 3
+            },
+            "m_Scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "m_Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        },
+        {
+          "first": "_OutlineTex",
+          "second": {
+            "m_Texture": {
+              "m_FileID": 0,
+              "m_PathID": 0
+            },
+            "m_Scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "m_Offset": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          }
+        }
+      ]
+    },
+    "m_Ints": {
+      "Array": []
+    },
+    "m_Floats": {
+      "Array": [
+        {
+          "first": "_Ambient",
+          "second": 0.5
+        },
+        {
+          "first": "_Bevel",
+          "second": 0.5
+        },
+        {
+          "first": "_BevelClamp",
+          "second": 0.0
+        },
+        {
+          "first": "_BevelOffset",
+          "second": 0.0
+        },
+        {
+          "first": "_BevelRoundness",
+          "second": 0.0
+        },
+        {
+          "first": "_BevelWidth",
+          "second": 0.0
+        },
+        {
+          "first": "_BumpFace",
+          "second": 0.0
+        },
+        {
+          "first": "_BumpOutline",
+          "second": 0.0
+        },
+        {
+          "first": "_ColorMask",
+          "second": 15.0
+        },
+        {
+          "first": "_CullMode",
+          "second": 0.0
+        },
+        {
+          "first": "_Diffuse",
+          "second": 0.5
+        },
+        {
+          "first": "_FaceDilate",
+          "second": 0.0
+        },
+        {
+          "first": "_FaceUVSpeedX",
+          "second": 0.0
+        },
+        {
+          "first": "_FaceUVSpeedY",
+          "second": 0.0
+        },
+        {
+          "first": "_GlowInner",
+          "second": 0.05
+        },
+        {
+          "first": "_GlowOffset",
+          "second": 0.0
+        },
+        {
+          "first": "_GlowOuter",
+          "second": 0.05
+        },
+        {
+          "first": "_GlowPower",
+          "second": 0.75
+        },
+        {
+          "first": "_GradientScale",
+          "second": 6.0
+        },
+        {
+          "first": "_LightAngle",
+          "second": 3.1416
+        },
+        {
+          "first": "_MaskSoftnessX",
+          "second": 0.0
+        },
+        {
+          "first": "_MaskSoftnessY",
+          "second": 0.0
+        },
+        {
+          "first": "_OutlineSoftness",
+          "second": 0.0
+        },
+        {
+          "first": "_OutlineUVSpeedX",
+          "second": 0.0
+        },
+        {
+          "first": "_OutlineUVSpeedY",
+          "second": 0.0
+        },
+        {
+          "first": "_OutlineWidth",
+          "second": 0.0
+        },
+        {
+          "first": "_PerspectiveFilter",
+          "second": 0.875
+        },
+        {
+          "first": "_Reflectivity",
+          "second": 10.0
+        },
+        {
+          "first": "_ScaleRatioA",
+          "second": 0.8333333
+        },
+        {
+          "first": "_ScaleRatioB",
+          "second": 0.6770833
+        },
+        {
+          "first": "_ScaleRatioC",
+          "second": 0.6770833
+        },
+        {
+          "first": "_ScaleX",
+          "second": 1.0
+        },
+        {
+          "first": "_ScaleY",
+          "second": 1.0
+        },
+        {
+          "first": "_ShaderFlags",
+          "second": 0.0
+        },
+        {
+          "first": "_Sharpness",
+          "second": 0.0
+        },
+        {
+          "first": "_SpecularPower",
+          "second": 2.0
+        },
+        {
+          "first": "_Stencil",
+          "second": 0.0
+        },
+        {
+          "first": "_StencilComp",
+          "second": 8.0
+        },
+        {
+          "first": "_StencilOp",
+          "second": 0.0
+        },
+        {
+          "first": "_StencilReadMask",
+          "second": 255.0
+        },
+        {
+          "first": "_StencilWriteMask",
+          "second": 255.0
+        },
+        {
+          "first": "_TextureHeight",
+          "second": 4096.0
+        },
+        {
+          "first": "_TextureWidth",
+          "second": 4096.0
+        },
+        {
+          "first": "_UnderlayDilate",
+          "second": 0.0
+        },
+        {
+          "first": "_UnderlayOffsetX",
+          "second": 0.0
+        },
+        {
+          "first": "_UnderlayOffsetY",
+          "second": 0.0
+        },
+        {
+          "first": "_UnderlaySoftness",
+          "second": 0.0
+        },
+        {
+          "first": "_VertexOffsetX",
+          "second": 0.0
+        },
+        {
+          "first": "_VertexOffsetY",
+          "second": 0.0
+        },
+        {
+          "first": "_WeightBold",
+          "second": 0.75
+        },
+        {
+          "first": "_WeightNormal",
+          "second": 0.0
+        }
+      ]
+    },
+    "m_Colors": {
+      "Array": [
+        {
+          "first": "_ClipRect",
+          "second": {
+            "r": -32767.0,
+            "g": -32767.0,
+            "b": 32767.0,
+            "a": 32767.0
+          }
+        },
+        {
+          "first": "_EnvMatrixRotation",
+          "second": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          }
+        },
+        {
+          "first": "_FaceColor",
+          "second": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "first": "_GlowColor",
+          "second": {
+            "r": 0.0,
+            "g": 1.0,
+            "b": 0.0,
+            "a": 0.5
+          }
+        },
+        {
+          "first": "_MaskCoord",
+          "second": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 32767.0,
+            "a": 32767.0
+          }
+        },
+        {
+          "first": "_OutlineColor",
+          "second": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          }
+        },
+        {
+          "first": "_ReflectFaceColor",
+          "second": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          }
+        },
+        {
+          "first": "_ReflectOutlineColor",
+          "second": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          }
+        },
+        {
+          "first": "_SpecularColor",
+          "second": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          }
+        },
+        {
+          "first": "_UnderlayColor",
+          "second": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.5
+          }
+        }
+      ]
+    }
+  },
+  "m_BuildTextureStacks": {
+    "Array": []
+  }
+}
