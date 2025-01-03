@@ -22,17 +22,18 @@ fonts:
             --new-resS @new/sharedassets0.assets.resS \
             --out-dir @build
 
+paraz := "@paraz"
 export:
     #!/usr/bin/env bash
     cd Texts
     rm -rf @paraz
-    python text_io.py --export --raw @old --paraz @paraz --type serifu
-    python text_io.py --export --raw @old --paraz @paraz --type m_text
-    python text_io.py --export --raw @old --paraz @paraz --type charalist
-    python text_io.py --export --raw @old --paraz @paraz --type spell
-    python text_io.py --export --raw @old --paraz @paraz --type item
-    python text_io.py --export --raw @old --paraz @paraz --type case
-    python text_io.py --export --raw @old --paraz @paraz --type tooltips
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type serifu
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type m_text
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type charalist
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type spell
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type item
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type case
+    python text_io.py --export --raw @old --paraz {{ paraz }} --type tooltips
 
 paraz-out := "@paraz-out"
 new := "@dist"
@@ -46,4 +47,4 @@ import:
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type spell
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type item
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type tooltips
-    # python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type case
+    python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type case

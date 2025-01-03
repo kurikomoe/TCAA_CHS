@@ -89,3 +89,16 @@ def GetParazAcc(paraz_file: Path) -> Dict[str, Paratranz]:
     paraz_data = json.load(open(paraz_file, "r", encoding="utf-8"))
     paraz_acc = GenParazAcc(paraz_data)
     return paraz_acc
+
+
+def kquote(s: str, idx) -> str:
+    if idx == 0:
+        return s
+    elif s.isdigit():
+        return s
+    elif s.lower() in ["false", "true", "none"]:
+        return s
+    elif s == "":
+        return '""'
+    else:
+        return f'"{s}"'

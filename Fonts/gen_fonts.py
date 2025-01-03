@@ -1,13 +1,12 @@
-import io
-from dataclasses import dataclass
-import shutil
-from typing import *
-import re
-import os
-from pathlib import Path
 import argparse
-import logging
+import io
 import json
+import logging
+import os
+import re
+from dataclasses import dataclass
+from pathlib import Path
+from typing import Optional
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger()
@@ -15,8 +14,8 @@ logger = logging.getLogger()
 @dataclass
 class FontDef:
     sdf: str
-    atlas: List[str]
-    material: List[str]
+    atlas: str
+    material: str
     ref: Optional["FontDef"] = None
 
 
@@ -75,6 +74,25 @@ mapping = [
         material="Raleway-SemiBold Atlas Material-sharedassets0.assets-3.json",
         ref = ref,
     ),
+
+    FontDef(
+        sdf="Typewriter-resources.assets-12437.json",
+        atlas="OpenSans-Medium Atlas-resources.assets-109.json",
+        material="OpenSans-Medium Atlas Material-resources.assets-105.json",
+        ref = ref,
+    ),
+    FontDef(
+        sdf="Title-resources.assets-12436.json",
+        atlas="Title Atlas-resources.assets-763.json",
+        material="Merriweather-Regular Atlas Material-resources.assets-107.json",
+        ref = ref,
+    ),
+    # FontDef(
+    #     sdf="",
+    #     atlas="",
+    #     material="",
+    #     ref = ref,
+    # ),
 ]
 
 
@@ -91,12 +109,12 @@ args = parser.parse_args()
 print(args)
 
 with open(args.old_resS, "rb") as f:
-    out_resS = f.read()
-    out_resS = io.BytesIO(out_resS)
+    out_resS_bin = f.read()
+    out_resS = io.BytesIO(out_resS_bin)
 
 with open(args.new_resS, "rb") as f:
-    new_resS = f.read()
-    new_resS = io.BytesIO(new_resS)
+    new_resS_bin = f.read()
+    new_resS = io.BytesIO(new_resS_bin)
 
 
 old_root = Path(args.old_dir)
@@ -155,7 +173,8 @@ def process_sdf(old_root: Path, old_sdf, new_root: Path, new_sdf, output: Path):
     DictCopyAttr("m_FaceInfo.m_StyleName", new_file_data, old_file_data)
     DictCopyAttr("m_AtlasTextures", new_file_data, old_file_data)
 
-    out: Path = output / "sdf"
+    # out: Path = output / "sdf"
+    out: Path = output
     out.mkdir(parents=True, exist_ok=True)
     out = out / old_sdf
 
@@ -182,7 +201,7 @@ def process_material(old_root: Path, old_material, new_root: Path, new_material,
     for item in new_file_data["m_SavedProperties"]["m_TexEnvs"]["Array"]:
         if item["first"] == "_MainTex":
             item["second"]["m_Texture"] = _mainTex_m_Texture
-            FoundFlag = True and _mainTex_m_Texture
+            FoundFlag = bool(True and _mainTex_m_Texture)
             break
     assert FoundFlag
 
@@ -251,12 +270,14 @@ output = Path(args.out_dir)
 
 for font_def in mapping:
     print(font_def)
+
+    assert font_def.ref
     process_sdf(old_root, font_def.sdf, new_root, font_def.ref.sdf, output)
     process_material(old_root, font_def.material, new_root, font_def.ref.material, output)
     process_atlas(old_root, font_def.atlas, new_root, font_def.ref.atlas, output)
 
 
 # ============  Solution2: write to resS ================
-with open(out_resS_path, "wb") as f:
+with open(out_resS_path, "wb") as fout:
     out_resS.seek(0, io.SEEK_SET)
-    f.write(out_resS.read())
+    fout.write(out_resS.read())
