@@ -50,3 +50,7 @@ import:
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type item
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type tooltips
     python text_io.py --import --raw @old --paraz {{ paraz-out }} --out {{ new }} --type case
+
+
+sync:
+    python3 ./scripts/downParatranz.py

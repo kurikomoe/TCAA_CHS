@@ -1,13 +1,20 @@
-name: Paratranz2Github
-on: [ workflow_run ]
+name: SyncParatranz
+on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'info'
 jobs:
-  Paratranz2Github:
+  SyncParatranz:
     name: "Downlaod Paratranz Artifacts"
     runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      PARAZ_PROJECT_ID: ${{ secrets.PARAZ_PROJECT_ID }}
+      PARAZ_PROJECT_ID: ${{ secrets.PARATRANZ_PROJECT_ID }}
       PARAZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}
+
     steps:
       - uses: actions/checkout@v4
 
@@ -28,16 +35,20 @@ jobs:
       - uses: openapi-generators/openapitools-generator-action@v1.5.0
         with:
           generator: python
-          # openapi-url: "https://paratranz.cn/api-docs?raw=1"
           openapi-file: .github/workflows/paratranz-openapi.json
           output-dir: /tmp/openapi
 
       - name: "Instal Python Deps"
         run: poetry install
 
-      # - name: "Download Translation from Paratranz"
-      #   run: |
-      #     python scripts/download_para.py
+      - run: |
+          just sync import
+
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v9.1.4
+        with:
+          message: 'sync paratranz by github action'
+
 
   # paratranz2release:
   #   name: "Release Based on paratranz"
