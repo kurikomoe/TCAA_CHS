@@ -10,15 +10,8 @@ init:
 charset:
     python Texts/get_chars.py \
         --input-orig third/charset_orig.txt \
-        --input-base third/chinese.txt \
-        --input-base third/japanese.txt \
-        --input-base third/japanese2.txt \
-        --input-base ./使用说明.md \
-        --input-base ./奥术律师-攻略.txt \
-        --input-base third/3500常用汉字.txt \
-        --input-base third/7000常用字优化版.txt \
-        --input-base third/通用规范汉字表.txt \
         --input-base third/controller.txt \
+        --input-base "third/Rus Letters.txt" \
         --inputs Texts/@paraz-out \
         --output Fonts/chinese.txt
 
