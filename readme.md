@@ -3,7 +3,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Github All Releases](https://img.shields.io/github/downloads/kurikomoe/TCAA_CHS/total.svg)]()
 
-**20240410：准备开始移植创意工坊 MOD**
+**20260410：准备开始移植创意工坊 MOD**
 
 相关进度见 Issue https://github.com/kurikomoe/TCAA_CHS/issues/3
 
