@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Lloyd von Sanctus-displayName",
+    "original": "Lloyd von Sanctus",
+    "translation": "洛伊德·冯·桑克图斯",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Lloyd von Sanctus\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Lloyd von Sanctus-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Lloyd von Sanctus\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Lloyd von Sanctus-occupation",
+    "original": "Nobleman",
+    "translation": "贵族男性",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Lloyd von Sanctus\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Lloyd von Sanctus-arcaneArt",
+    "original": "Abjuration",
+    "translation": "防护术",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Lloyd von Sanctus\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

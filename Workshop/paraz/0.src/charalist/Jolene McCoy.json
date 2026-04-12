@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Jolene McCoy-displayName",
+    "original": "Jolene McCoy",
+    "translation": "朱莲尼·麦考伊",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Jolene McCoy\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Jolene McCoy-description",
+    "original": "Celeste’s adopted mother and the widow of Flinhart McCoy. She wanted the best for her family, but she was ultimately unable to quell Flinhart’s hatred of the nobility and the King.",
+    "translation": "塞莱斯特的养母，弗林哈特·麦考伊的遗孀。她祈祷着家庭的平安美满，但最终还是没能平息弗林哈特对于贵族和国王的怨恨。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Jolene McCoy\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Jolene McCoy-occupation",
+    "original": "Unemployed",
+    "translation": "无业",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Jolene McCoy\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Jolene McCoy-arcaneArt",
+    "original": "None",
+    "translation": "无",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Jolene McCoy\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

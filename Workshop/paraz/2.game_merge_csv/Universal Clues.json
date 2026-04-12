@@ -1,0 +1,38 @@
+[
+  {
+    "key": "Universal Clues.csv::DISPLAY NAME TRANSLATION::ee84c1c83855f2df",
+    "original": "Test Item",
+    "translation": "Test Item",
+    "context": "{\n  \"reference name\": \"Test Item\",\n  \"display name\": \"Test Item\",\n  \"description\": \"\",\n  \"type\": \"T_Test\",\n  \"school\": \"T_School\",\n  \"incantation\": \"T_Incantation\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Clues.csv::TYPE TRANSLATION::2b123026bd406121",
+    "original": "T_Test",
+    "translation": "T_Test",
+    "context": "{\n  \"reference name\": \"Test Item\",\n  \"display name\": \"Test Item\",\n  \"description\": \"\",\n  \"type\": \"T_Test\",\n  \"school\": \"T_School\",\n  \"incantation\": \"T_Incantation\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Clues.csv::SCHOOL TRANSLATION::96c684d8f4593151",
+    "original": "T_School",
+    "translation": "T_School",
+    "context": "{\n  \"reference name\": \"Test Item\",\n  \"display name\": \"Test Item\",\n  \"description\": \"\",\n  \"type\": \"T_Test\",\n  \"school\": \"T_School\",\n  \"incantation\": \"T_Incantation\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Clues.csv::INCANTATION TRANSLATION::3e263e27fcbb0547",
+    "original": "T_Incantation",
+    "translation": "T_Incantation",
+    "context": "{\n  \"reference name\": \"Test Item\",\n  \"display name\": \"Test Item\",\n  \"description\": \"\",\n  \"type\": \"T_Test\",\n  \"school\": \"T_School\",\n  \"incantation\": \"T_Incantation\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Clues.csv::DISPLAY NAME TRANSLATION::8b7e970644469847",
+    "original": "Attorney's Runestone",
+    "translation": "律师符石",
+    "context": "{\n  \"reference name\": \"Runestone\",\n  \"display name\": \"Attorney's Runestone\",\n  \"description\": \"A magical runestone that allows you to take pictures of crime scenes and write notes telepathically. Every attorney has one. It’s almost like a badge for them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Clues.csv::DESCRIPTION TRANSLATION::8e582f535f4cf374",
+    "original": "A magical runestone that allows you to take pictures of crime scenes and write notes telepathically. Every attorney has one. It’s almost like a badge for them.",
+    "translation": "一个魔法符石，可以让你拍摄犯罪现场的照片，并且通过心灵感应做笔记。每位律师都有一个，基本等同于他们的徽章。",
+    "context": "{\n  \"reference name\": \"Runestone\",\n  \"display name\": \"Attorney's Runestone\",\n  \"description\": \"A magical runestone that allows you to take pictures of crime scenes and write notes telepathically. Every attorney has one. It’s almost like a badge for them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  }
+]

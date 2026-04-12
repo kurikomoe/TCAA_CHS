@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 2-14-Bellwether’s Plan-displayName",
+    "original": "Bellwether’s Plan",
+    "translation": "贝尔维瑟的计划",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Bellwether’s Plan\",\n  \"Idx\": 14,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 2-14-Bellwether’s Plan-description",
+    "original": "Supposedly, Bellwether told the headmaster that she was planning to fire all of the academy staff and replace them with Arcane Constructs. This plan was overheard by Jan Hughes “a few weeks ago”.",
+    "translation": "贝尔维瑟告诉校长，她计划解雇所有工作人员，让奥术构造体取而代之。简·休斯“几周前”听到了这个计划。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Bellwether’s Plan\",\n  \"Idx\": 14,\n  \"Attr\": \"description\"\n}"
+  }
+]

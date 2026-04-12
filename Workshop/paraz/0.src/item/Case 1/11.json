@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-11-Broken Power Cell 2-displayName",
+    "original": "Broken Power Cell",
+    "translation": "损坏的奥术储能单元",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Broken Power Cell 2\",\n  \"Idx\": 11,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 1-11-Broken Power Cell 2-description",
+    "original": "The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on. This means that the lights were not operational during the murder.",
+    "translation": "麦考伊旅馆配置了几盏奥术能源驱动的灯。然而，由于奥术储能单元已经坏了好几周了，这些灯无法点亮。这意味着谋杀发生时，这些灯是无法使用的。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Broken Power Cell 2\",\n  \"Idx\": 11,\n  \"Attr\": \"description\"\n}"
+  }
+]

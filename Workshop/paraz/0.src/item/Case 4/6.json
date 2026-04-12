@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 4-6-Sword of Spell Eating-displayName",
+    "original": "Sword of Spell Eating",
+    "translation": "噬法之剑",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Sword of Spell Eating\",\n  \"Idx\": 6,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 4-6-Sword of Spell Eating-description",
+    "original": "The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.",
+    "translation": "噬法之剑是一件远古遗物。被生物使用时，生物以及与之有物理/魔法联系的任何物品都会免疫其他有害魔法效果。传说这是通过法师与恶魔的血契打造而成。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Sword of Spell Eating\",\n  \"Idx\": 6,\n  \"Attr\": \"description\"\n}"
+  }
+]

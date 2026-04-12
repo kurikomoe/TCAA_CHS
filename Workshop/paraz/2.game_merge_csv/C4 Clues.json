@@ -1,0 +1,356 @@
+[
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::27cd988e466c7950",
+    "original": "Beatrice's Story",
+    "translation": "比亚特丽丝的故事",
+    "context": "{\n  \"reference name\": \"Beatrice's Inheritance 0\",\n  \"display name\": \"Beatrice's Story\",\n  \"description\": \"Beatrice Frega fled from her family five years ago and went into hiding. Until the night of the murder, many of her friends and family members hadn’t seen or heard from her.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BeatriceStory\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::aba52cf247dcd5b4",
+    "original": "Beatrice Frega fled from her family five years ago and went into hiding. Until the night of the murder, many of her friends and family members hadn’t seen or heard from her.",
+    "translation": "比亚特丽丝·弗雷加五年前逃离家族，藏了起来。谋杀当晚之前，她都很久没有联络过朋友和家人。",
+    "context": "{\n  \"reference name\": \"Beatrice's Inheritance 0\",\n  \"display name\": \"Beatrice's Story\",\n  \"description\": \"Beatrice Frega fled from her family five years ago and went into hiding. Until the night of the murder, many of her friends and family members hadn’t seen or heard from her.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BeatriceStory\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::SERIES TRANSLATION::d8e720617ecb4b47",
+    "original": "BeatriceStory",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Beatrice's Inheritance 0\",\n  \"display name\": \"Beatrice's Story\",\n  \"description\": \"Beatrice Frega fled from her family five years ago and went into hiding. Until the night of the murder, many of her friends and family members hadn’t seen or heard from her.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BeatriceStory\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::10517276cae800aa",
+    "original": "William Frega's Inheritance",
+    "translation": "威廉·弗雷加的遗产",
+    "context": "{\n  \"reference name\": \"Beatrice's Inheritance 1\",\n  \"display name\": \"William Frega's Inheritance\",\n  \"description\": \"Beatrice Frega fled from her family five years ago and went into hiding. Until the night of the murder, many of her friends and family members hadn’t seen or heard from her.\\r\\n\\r\\nOn the night of the murder, Beatrice finally returned to her home. She arranged a meeting with her father. This meeting didn’t end as planned. And Beatrice angered William Frega enough for him to declare that he would be disinheriting her that night.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BeatriceStory\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::2d0b4ce1ca77e366",
+    "original": "Beatrice Frega fled from her family five years ago and went into hiding. Until the night of the murder, many of her friends and family members hadn’t seen or heard from her.\r\n\r\nOn the night of the murder, Beatrice finally returned to her home. She arranged a meeting with her father. This meeting didn’t end as planned. And Beatrice angered William Frega enough for him to declare that he would be disinheriting her that night.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Beatrice's Inheritance 1\",\n  \"display name\": \"William Frega's Inheritance\",\n  \"description\": \"Beatrice Frega fled from her family five years ago and went into hiding. Until the night of the murder, many of her friends and family members hadn’t seen or heard from her.\\r\\n\\r\\nOn the night of the murder, Beatrice finally returned to her home. She arranged a meeting with her father. This meeting didn’t end as planned. And Beatrice angered William Frega enough for him to declare that he would be disinheriting her that night.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BeatriceStory\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::9aba38a7670db898",
+    "original": "William Frega's Inheritance?",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Beatrice's Inheritance\",\n  \"display name\": \"William Frega's Inheritance?\",\n  \"description\": \"“Beatrice Frega fled from her family five years ago and went into hiding. In retaliation, William Frega told Miriam Frega that he would remove Beatrice from his will. As a result, she wouldn’t receive any inheritance after his death.”\\n\\nAs per your agreement, this testimony will be confirmed by Miriam Frega in court. \",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BeatriceStory\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::762a86865287b8d6",
+    "original": "“Beatrice Frega fled from her family five years ago and went into hiding. In retaliation, William Frega told Miriam Frega that he would remove Beatrice from his will. As a result, she wouldn’t receive any inheritance after his death.”\n\nAs per your agreement, this testimony will be confirmed by Miriam Frega in court. ",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Beatrice's Inheritance\",\n  \"display name\": \"William Frega's Inheritance?\",\n  \"description\": \"“Beatrice Frega fled from her family five years ago and went into hiding. In retaliation, William Frega told Miriam Frega that he would remove Beatrice from his will. As a result, she wouldn’t receive any inheritance after his death.”\\n\\nAs per your agreement, this testimony will be confirmed by Miriam Frega in court. \",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BeatriceStory\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::b21c8955293208bb",
+    "original": "Autopsy Report: William Frega",
+    "translation": "尸检报告：威廉·弗雷加",
+    "context": "{\n  \"reference name\": \"Autopsy Report: William Frega\",\n  \"display name\": \"Autopsy Report: William Frega\",\n  \"description\": \"\\\"Died at 3:12 AM. Cause of death was blood loss after his throat was slashed open. Both carotid arteries were severed, meaning that death must have followed mere seconds after the wound was inflicted.\\n\\nBody shows several scratch marks on the face and back. Traces of <i>illusion</i> magic were also found on the body.”\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::1191787f99096040",
+    "original": "\"Died at 3:12 AM. Cause of death was blood loss after his throat was slashed open. Both carotid arteries were severed, meaning that death must have followed mere seconds after the wound was inflicted.\n\nBody shows several scratch marks on the face and back. Traces of <i>illusion</i> magic were also found on the body.”",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Autopsy Report: William Frega\",\n  \"display name\": \"Autopsy Report: William Frega\",\n  \"description\": \"\\\"Died at 3:12 AM. Cause of death was blood loss after his throat was slashed open. Both carotid arteries were severed, meaning that death must have followed mere seconds after the wound was inflicted.\\n\\nBody shows several scratch marks on the face and back. Traces of <i>illusion</i> magic were also found on the body.”\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::fc2d51d78fe62bd5",
+    "original": "Beatrice's Blindness",
+    "translation": "比亚特丽丝是盲人",
+    "context": "{\n  \"reference name\": \"Beatrice's Blindness\",\n  \"display name\": \"Beatrice's Blindness\",\n  \"description\": \"Beatrice Frega is completely blind. She is unable to see anything through her eyes. This has been verified through several medical reports and qualified chirurgeons.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::4610019a4638d9e8",
+    "original": "Beatrice Frega is completely blind. She is unable to see anything through her eyes. This has been verified through several medical reports and qualified chirurgeons.",
+    "translation": "比亚特丽丝·弗雷加完全失明。她自己的眼睛什么都看不见，多份医疗报告和专业外科医生都能证明这一点。",
+    "context": "{\n  \"reference name\": \"Beatrice's Blindness\",\n  \"display name\": \"Beatrice's Blindness\",\n  \"description\": \"Beatrice Frega is completely blind. She is unable to see anything through her eyes. This has been verified through several medical reports and qualified chirurgeons.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::539cbb3973922d78",
+    "original": "Sword of Spell Eating",
+    "translation": "噬法之剑",
+    "context": "{\n  \"reference name\": \"Sword of Spell Eating\",\n  \"display name\": \"Sword of Spell Eating\",\n  \"description\": \"The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"SpellEat\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::ac1fa0c44642001c",
+    "original": "The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.",
+    "translation": "噬法之剑是一件远古遗物。被生物使用时，生物以及与之有物理/魔法联系的任何物品都会免疫其他有害魔法效果。传说这是通过法师与恶魔的血契打造而成。",
+    "context": "{\n  \"reference name\": \"Sword of Spell Eating\",\n  \"display name\": \"Sword of Spell Eating\",\n  \"description\": \"The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"SpellEat\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::SERIES TRANSLATION::0af831f0ed26724a",
+    "original": "SpellEat",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Sword of Spell Eating\",\n  \"display name\": \"Sword of Spell Eating\",\n  \"description\": \"The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"SpellEat\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::4862a386a2155904",
+    "original": "The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.\r\n\r\nIt was stolen on the night of the murder and found in Beatrice Frega's old room.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Sword of Spell Eating 2\",\n  \"display name\": \"Sword of Spell Eating\",\n  \"description\": \"The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.\\r\\n\\r\\nIt was stolen on the night of the murder and found in Beatrice Frega's old room.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"SpellEat\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::284d5e114be1c3c9",
+    "original": "The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.\r\n\r\nOn the night of the murder, someone used a powerful spell to completely shatter the magically protected glass that was containing it. It was later found in Beatrice Frega's old room.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Sword of Spell Eating 3\",\n  \"display name\": \"Sword of Spell Eating\",\n  \"description\": \"The Sword of Spell Eating is an ancient artifact. When wielded by a creature, that creature and anything connected to them (physically or magically) are immune to all harmful magical effects. Legends say that it was forged through a Blood Contract between a mage and a demon.\\r\\n\\r\\nOn the night of the murder, someone used a powerful spell to completely shatter the magically protected glass that was containing it. It was later found in Beatrice Frega's old room.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"SpellEat\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::8c4e8c9f55283d62",
+    "original": "Earrings of Vitality",
+    "translation": "活力耳环",
+    "context": "{\n  \"reference name\": \"Earrings of Vitality\",\n  \"display name\": \"Earrings of Vitality\",\n  \"description\": \"The Earrings of Vitality are an ancient artifact. When worn by a creature, that creature’s wounds will slowly heal over time. Furthermore, its holder’s lifespan increases tenfold for as long as they’re worn. Harold Haroldson found these in the ruins of an old Luminite temple.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::9d081d5615509599",
+    "original": "The Earrings of Vitality are an ancient artifact. When worn by a creature, that creature’s wounds will slowly heal over time. Furthermore, its holder’s lifespan increases tenfold for as long as they’re worn. Harold Haroldson found these in the ruins of an old Luminite temple.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Earrings of Vitality\",\n  \"display name\": \"Earrings of Vitality\",\n  \"description\": \"The Earrings of Vitality are an ancient artifact. When worn by a creature, that creature’s wounds will slowly heal over time. Furthermore, its holder’s lifespan increases tenfold for as long as they’re worn. Harold Haroldson found these in the ruins of an old Luminite temple.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::b7535f498627a760",
+    "original": "Armbands of Intellect",
+    "translation": "智慧臂章",
+    "context": "{\n  \"reference name\": \"Armbands of Intellect\",\n  \"display name\": \"Armbands of Intellect\",\n  \"description\": \"The Armbands of Intellect are an ancient artifact. When worn by a creature, that creature’s intelligence would be increased beyond the limits of an average human. Legends say that it was forged by a member of House Frega to further their study of magic.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"ArmInt\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::88b9118d796b70b1",
+    "original": "The Armbands of Intellect are an ancient artifact. When worn by a creature, that creature’s intelligence would be increased beyond the limits of an average human. Legends say that it was forged by a member of House Frega to further their study of magic.",
+    "translation": "智慧臂章是一件远古遗物。被生物佩戴时，该生物的智力会被提升至远超普通人类的水平。传说这是由弗雷加一族的成员打造，意在辅助魔法研究。",
+    "context": "{\n  \"reference name\": \"Armbands of Intellect\",\n  \"display name\": \"Armbands of Intellect\",\n  \"description\": \"The Armbands of Intellect are an ancient artifact. When worn by a creature, that creature’s intelligence would be increased beyond the limits of an average human. Legends say that it was forged by a member of House Frega to further their study of magic.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"ArmInt\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::SERIES TRANSLATION::66a654d70d45769b",
+    "original": "ArmInt",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Armbands of Intellect\",\n  \"display name\": \"Armbands of Intellect\",\n  \"description\": \"The Armbands of Intellect are an ancient artifact. When worn by a creature, that creature’s intelligence would be increased beyond the limits of an average human. Legends say that it was forged by a member of House Frega to further their study of magic.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"ArmInt\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::84559c41c89ac935",
+    "original": "The Armbands of Intellect are an ancient artifact. When worn by a creature, that creature’s intelligence would be increased beyond the limits of an average human. Legends say that it was forged by a member of House Frega to further their study of magic.\r\n\r\nOn the night of the murder, Harold Haroldson discovered that the Armbands of Intellect were also stolen. The glass case holding the Armbands <i>wasn't</i> shattered. And the Armbands were replaced with a very convincing replica.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Armbands of Intellect 2\",\n  \"display name\": \"Armbands of Intellect\",\n  \"description\": \"The Armbands of Intellect are an ancient artifact. When worn by a creature, that creature’s intelligence would be increased beyond the limits of an average human. Legends say that it was forged by a member of House Frega to further their study of magic.\\r\\n\\r\\nOn the night of the murder, Harold Haroldson discovered that the Armbands of Intellect were also stolen. The glass case holding the Armbands <i>wasn't</i> shattered. And the Armbands were replaced with a very convincing replica.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"ArmInt\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::af3cb685e8c5f51f",
+    "original": "Haroldson's Security",
+    "translation": "哈罗德森的安全措施",
+    "context": "{\n  \"reference name\": \"Haroldson's Security\",\n  \"display name\": \"Haroldson's Security\",\n  \"description\": \"The artifacts on display at the Lords’ Ball were protected by layers of abjuration spells. Even a highly skilled mage would have trouble breaking into them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Security\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::6870d98510147df1",
+    "original": "The artifacts on display at the Lords’ Ball were protected by layers of abjuration spells. Even a highly skilled mage would have trouble breaking into them.",
+    "translation": "勋爵的舞会上展出的遗物都施加了多层防护法术。顶尖法师也要费一番功夫才能突破。",
+    "context": "{\n  \"reference name\": \"Haroldson's Security\",\n  \"display name\": \"Haroldson's Security\",\n  \"description\": \"The artifacts on display at the Lords’ Ball were protected by layers of abjuration spells. Even a highly skilled mage would have trouble breaking into them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Security\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::SERIES TRANSLATION::f25ce1b8a399bd86",
+    "original": "Security",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Haroldson's Security\",\n  \"display name\": \"Haroldson's Security\",\n  \"description\": \"The artifacts on display at the Lords’ Ball were protected by layers of abjuration spells. Even a highly skilled mage would have trouble breaking into them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Security\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::d63b02121f353753",
+    "original": "The artifacts on display at the Lords’ Ball were protected by layers of abjuration spells. Even a highly skilled mage would have trouble breaking into them.\r\n\r\nThe spells that guard the displays can be temporarily disabled using a spoken password. Harold Haroldson is supposedly the only person who knows this password.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Haroldson's Security 2\",\n  \"display name\": \"Haroldson's Security\",\n  \"description\": \"The artifacts on display at the Lords’ Ball were protected by layers of abjuration spells. Even a highly skilled mage would have trouble breaking into them.\\r\\n\\r\\nThe spells that guard the displays can be temporarily disabled using a spoken password. Harold Haroldson is supposedly the only person who knows this password.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Security\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::5c3b2de6675e452b",
+    "original": "Celeste's Missing Sword",
+    "translation": "塞莱斯特的剑不见了",
+    "context": "{\n  \"reference name\": \"Missing Sword\",\n  \"display name\": \"Celeste's Missing Sword\",\n  \"description\": \"When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"CelSword\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::ca4f2fa817c01840",
+    "original": "When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.",
+    "translation": "塞莱斯特在衣帽间更衣时，得知她的佩剑不见了。一定是有人拿走了这把剑。",
+    "context": "{\n  \"reference name\": \"Missing Sword\",\n  \"display name\": \"Celeste's Missing Sword\",\n  \"description\": \"When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"CelSword\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::SERIES TRANSLATION::b8fe034204067103",
+    "original": "CelSword",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Missing Sword\",\n  \"display name\": \"Celeste's Missing Sword\",\n  \"description\": \"When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"CelSword\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::66d5f6c2d0ca6040",
+    "original": "Celeste's Sword",
+    "translation": "塞莱斯特的剑",
+    "context": "{\n  \"reference name\": \"Celeste's Sword\",\n  \"display name\": \"Celeste's Sword\",\n  \"description\": \"When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.\\r\\n\\r\\nYou later found the missing sword was found in Beatrice’s bedroom. This was also the room where the Sword of Spell Eating was found after it was stolen. Are these two elements related somehow?\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"CelSword\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::cd2f1e6396528fb7",
+    "original": "When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.\r\n\r\nYou later found the missing sword was found in Beatrice’s bedroom. This was also the room where the Sword of Spell Eating was found after it was stolen. Are these two elements related somehow?\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Celeste's Sword\",\n  \"display name\": \"Celeste's Sword\",\n  \"description\": \"When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.\\r\\n\\r\\nYou later found the missing sword was found in Beatrice’s bedroom. This was also the room where the Sword of Spell Eating was found after it was stolen. Are these two elements related somehow?\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"CelSword\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::6347817c10ec9129",
+    "original": "Murder Weapon",
+    "translation": "凶器",
+    "context": "{\n  \"reference name\": \"Murder Weapon\",\n  \"display name\": \"Murder Weapon\",\n  \"description\": \"The murder weapon was a letter opener with House Frega’s crest on it. It must have been owned by the victim. Its handle was completely shattered. It would have taken a tremendous amount of force to crush it like that.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::c0d32b4b9c83dc0d",
+    "original": "The murder weapon was a letter opener with House Frega’s crest on it. It must have been owned by the victim. Its handle was completely shattered. It would have taken a tremendous amount of force to crush it like that.",
+    "translation": "凶器是一把刻有弗雷加一族纹章的拆信刀。应该是受害者的所有物。把手被完全破坏了，得用上相当强大的力气才能做到这种程度。",
+    "context": "{\n  \"reference name\": \"Murder Weapon\",\n  \"display name\": \"Murder Weapon\",\n  \"description\": \"The murder weapon was a letter opener with House Frega’s crest on it. It must have been owned by the victim. Its handle was completely shattered. It would have taken a tremendous amount of force to crush it like that.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::50d04ab1266e8e85",
+    "original": "Lockdown System",
+    "translation": "封锁系统",
+    "context": "{\n  \"reference name\": \"Lockdown System\",\n  \"display name\": \"Lockdown System\",\n  \"description\": \"The lockdown system covers the entire manor. Once activated, it creates magical barriers that prevent anyone from leaving or teleporting out of the building. In addition to this, it covers the entire manor in an <b>Anti-Magic Field</b>. Within this field, any and all magical effects are nullified and disabled.\\r\\n\\r\\nHowever, anyone physically or magically connected to the Sword of Spell Eating would be immune to the effects of the <b>Anti-Magic Fields</b>.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::37eee855d513eae5",
+    "original": "The lockdown system covers the entire manor. Once activated, it creates magical barriers that prevent anyone from leaving or teleporting out of the building. In addition to this, it covers the entire manor in an <b>Anti-Magic Field</b>. Within this field, any and all magical effects are nullified and disabled.\r\n\r\nHowever, anyone physically or magically connected to the Sword of Spell Eating would be immune to the effects of the <b>Anti-Magic Fields</b>.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Lockdown System\",\n  \"display name\": \"Lockdown System\",\n  \"description\": \"The lockdown system covers the entire manor. Once activated, it creates magical barriers that prevent anyone from leaving or teleporting out of the building. In addition to this, it covers the entire manor in an <b>Anti-Magic Field</b>. Within this field, any and all magical effects are nullified and disabled.\\r\\n\\r\\nHowever, anyone physically or magically connected to the Sword of Spell Eating would be immune to the effects of the <b>Anti-Magic Fields</b>.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::a9f619097434dcac",
+    "original": "Method of Entry",
+    "translation": "入侵方法",
+    "context": "{\n  \"reference name\": \"Method of Entry\",\n  \"display name\": \"Method of Entry\",\n  \"description\": \"The murderer somehow entered William Frega’s study despite it being protected with abjurative wards. These wards magically locked the only door leading into the room. They also prevented teleportation in and out of the room. It’s possible to temporarily nullify these wards with the Sword of Spell Eating.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::bd400460b221a505",
+    "original": "The murderer somehow entered William Frega’s study despite it being protected with abjurative wards. These wards magically locked the only door leading into the room. They also prevented teleportation in and out of the room. It’s possible to temporarily nullify these wards with the Sword of Spell Eating.",
+    "translation": "虽然有多个防护结界保护，但凶手还是侵入了威廉·弗雷加的书房。这些防护结界用魔力锁住通往房间的唯一一扇门，同时也会阻止通过传送出入房间。利用噬法之剑可以暂时使这些结界无效化。",
+    "context": "{\n  \"reference name\": \"Method of Entry\",\n  \"display name\": \"Method of Entry\",\n  \"description\": \"The murderer somehow entered William Frega’s study despite it being protected with abjurative wards. These wards magically locked the only door leading into the room. They also prevented teleportation in and out of the room. It’s possible to temporarily nullify these wards with the Sword of Spell Eating.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::10624e617723a628",
+    "original": "What Jan Heard",
+    "translation": "简听到的事",
+    "context": "{\n  \"reference name\": \"What Jan Heard\",\n  \"display name\": \"What Jan Heard\",\n  \"description\": \"Jan Hughes was trapped in a storage room near William Frega’s study. He took a nap but was awoken to the sounds of some kind of physical struggle. He heard Frega shout “Who are you?! What do you want?!”. After a few more seconds he heard the sound of someone being stabbed.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::8c96e9e7b3b42b0c",
+    "original": "Jan Hughes was trapped in a storage room near William Frega’s study. He took a nap but was awoken to the sounds of some kind of physical struggle. He heard Frega shout “Who are you?! What do you want?!”. After a few more seconds he heard the sound of someone being stabbed.",
+    "translation": "简·休斯被困在了威廉·弗雷加书房附近的储藏室里。他打了个盹，但被争斗声吵醒。他听见弗雷加大喊“你是谁？！你想要什么？！”。又过了几秒，他听见了有人被捅的声音。",
+    "context": "{\n  \"reference name\": \"What Jan Heard\",\n  \"display name\": \"What Jan Heard\",\n  \"description\": \"Jan Hughes was trapped in a storage room near William Frega’s study. He took a nap but was awoken to the sounds of some kind of physical struggle. He heard Frega shout “Who are you?! What do you want?!”. After a few more seconds he heard the sound of someone being stabbed.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::51c9216fa6f0524d",
+    "original": "Rats in the Vents",
+    "translation": "通风管道里的老鼠",
+    "context": "{\n  \"reference name\": \"Rats in the Vents\",\n  \"display name\": \"Rats in the Vents\",\n  \"description\": \"The servants have been frequently complaining about the sound of rats running through the vents. Jan tried to track one of them down and followed it to the Storage Room.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::56deb3bfc51f19a9",
+    "original": "The servants have been frequently complaining about the sound of rats running through the vents. Jan tried to track one of them down and followed it to the Storage Room.",
+    "translation": "佣人们一直都有抱怨老鼠在管道里跑动的噪音。简曾尝试跟着其中一只，结果一路跟到了储藏室里。",
+    "context": "{\n  \"reference name\": \"Rats in the Vents\",\n  \"display name\": \"Rats in the Vents\",\n  \"description\": \"The servants have been frequently complaining about the sound of rats running through the vents. Jan tried to track one of them down and followed it to the Storage Room.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::b28ca6dce52f0faf",
+    "original": "Laefe's Engagement",
+    "translation": "拉菲的婚约",
+    "context": "{\n  \"reference name\": \"Liafal's Engagement\",\n  \"display name\": \"Laefe's Engagement\",\n  \"description\": \"Laefe Frega was due to be married to Jaiden von Sanctus. This arranged marriage was facilitated by William Frega and Lloyd von Sanctus. As part of this diplomatic marriage, House von Sanctus would be absorbed by House Frega. In return, Jaiden would inherit the entirety of House Frega from William.\\r\\n\\r\\nLaefe knew how this marriage would affect the future of House Frega. She has expressed resistance to the diplomatic marriage and has been stalling for time. Lloyd von Sanctus worries that William Frega's death could cancel the marriage altogether. \\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::55f3700d1d46d268",
+    "original": "Laefe Frega was due to be married to Jaiden von Sanctus. This arranged marriage was facilitated by William Frega and Lloyd von Sanctus. As part of this diplomatic marriage, House von Sanctus would be absorbed by House Frega. In return, Jaiden would inherit the entirety of House Frega from William.\r\n\r\nLaefe knew how this marriage would affect the future of House Frega. She has expressed resistance to the diplomatic marriage and has been stalling for time. Lloyd von Sanctus worries that William Frega's death could cancel the marriage altogether. \r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Liafal's Engagement\",\n  \"display name\": \"Laefe's Engagement\",\n  \"description\": \"Laefe Frega was due to be married to Jaiden von Sanctus. This arranged marriage was facilitated by William Frega and Lloyd von Sanctus. As part of this diplomatic marriage, House von Sanctus would be absorbed by House Frega. In return, Jaiden would inherit the entirety of House Frega from William.\\r\\n\\r\\nLaefe knew how this marriage would affect the future of House Frega. She has expressed resistance to the diplomatic marriage and has been stalling for time. Lloyd von Sanctus worries that William Frega's death could cancel the marriage altogether. \\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::e5b6c934dd17fbce",
+    "original": "Laefe's Testimony",
+    "translation": "拉菲的证言",
+    "context": "{\n  \"reference name\": \"Liafal's Testimony\",\n  \"display name\": \"Laefe's Testimony\",\n  \"description\": \"After his meeting with Beatrice Frega, William Frega retreated into his Study and locked himself within it. He refused to speak with almost everyone who tried to disturb him.\\r\\n\\r\\nThe only person he spoke to was Laefe Frega. She told him about the theft of the Sword of Spell Eating a little after 1:00AM. But William didn’t seem to care and returned to his business. \\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"LaefeTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::8a534a719cf5711d",
+    "original": "After his meeting with Beatrice Frega, William Frega retreated into his Study and locked himself within it. He refused to speak with almost everyone who tried to disturb him.\r\n\r\nThe only person he spoke to was Laefe Frega. She told him about the theft of the Sword of Spell Eating a little after 1:00AM. But William didn’t seem to care and returned to his business. \r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Liafal's Testimony\",\n  \"display name\": \"Laefe's Testimony\",\n  \"description\": \"After his meeting with Beatrice Frega, William Frega retreated into his Study and locked himself within it. He refused to speak with almost everyone who tried to disturb him.\\r\\n\\r\\nThe only person he spoke to was Laefe Frega. She told him about the theft of the Sword of Spell Eating a little after 1:00AM. But William didn’t seem to care and returned to his business. \\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"LaefeTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::SERIES TRANSLATION::918a825120c78ad2",
+    "original": "LaefeTest",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Liafal's Testimony\",\n  \"display name\": \"Laefe's Testimony\",\n  \"description\": \"After his meeting with Beatrice Frega, William Frega retreated into his Study and locked himself within it. He refused to speak with almost everyone who tried to disturb him.\\r\\n\\r\\nThe only person he spoke to was Laefe Frega. She told him about the theft of the Sword of Spell Eating a little after 1:00AM. But William didn’t seem to care and returned to his business. \\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"LaefeTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::347c383facb2f72a",
+    "original": "After his meeting with Beatrice Frega, William Frega retreated into his Study and locked himself within it. He refused to speak with almost everyone who tried to disturb him. \r\n\r\nThe only person he spoke to was Laefe Frega. She told him about the theft of the Sword of Spell Eating a little after 1:00AM. But William didn’t seem to care and returned to his business.\r\n\r\nThrough Laefe’s thoughts, you know that he entered the study to make some sort of adjustment to his will.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Liafal's Testimony 2\",\n  \"display name\": \"Laefe's Testimony\",\n  \"description\": \"After his meeting with Beatrice Frega, William Frega retreated into his Study and locked himself within it. He refused to speak with almost everyone who tried to disturb him. \\r\\n\\r\\nThe only person he spoke to was Laefe Frega. She told him about the theft of the Sword of Spell Eating a little after 1:00AM. But William didn’t seem to care and returned to his business.\\r\\n\\r\\nThrough Laefe’s thoughts, you know that he entered the study to make some sort of adjustment to his will.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"LaefeTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::483e0edeebe69b9d",
+    "original": "William's Modified Will",
+    "translation": "威廉修改过的遗嘱",
+    "context": "{\n  \"reference name\": \"William's Modified Will\",\n  \"display name\": \"William's Modified Will\",\n  \"description\": \"On the night of the murder, William Frega retreated into his study to modify his will. He died before this will could be submitted. So, it’s not valid.\\r\\n\\r\\nThe draft was supposedly stolen during the lockdown. It’s likely that the murderer took and/or destroyed it.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::80c7e19685f487cb",
+    "original": "On the night of the murder, William Frega retreated into his study to modify his will. He died before this will could be submitted. So, it’s not valid.\r\n\r\nThe draft was supposedly stolen during the lockdown. It’s likely that the murderer took and/or destroyed it.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"William's Modified Will\",\n  \"display name\": \"William's Modified Will\",\n  \"description\": \"On the night of the murder, William Frega retreated into his study to modify his will. He died before this will could be submitted. So, it’s not valid.\\r\\n\\r\\nThe draft was supposedly stolen during the lockdown. It’s likely that the murderer took and/or destroyed it.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::0292ddb6a1bf5e6f",
+    "original": "Frega Manor - Floor 1",
+    "translation": "弗雷加庄园一层",
+    "context": "{\n  \"reference name\": \"Frega Manor Floor 1\",\n  \"display name\": \"Frega Manor - Floor 1\",\n  \"description\": \"It's a map of the ground floor of Frega Manor. It shows the rooms relevant to the case.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::215226eabf2b9853",
+    "original": "It's a map of the ground floor of Frega Manor. It shows the rooms relevant to the case.",
+    "translation": "弗雷加庄园一层的地图，展示了与案件有关的房间。",
+    "context": "{\n  \"reference name\": \"Frega Manor Floor 1\",\n  \"display name\": \"Frega Manor - Floor 1\",\n  \"description\": \"It's a map of the ground floor of Frega Manor. It shows the rooms relevant to the case.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::c0df4d565d8d935a",
+    "original": "Frega Manor - Floor 2",
+    "translation": "弗雷加庄园二层",
+    "context": "{\n  \"reference name\": \"Frega Manor Floor 2\",\n  \"display name\": \"Frega Manor - Floor 2\",\n  \"description\": \"It's a map of the second floor of Frega Manor. It shows the rooms relevant to the case.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::82862a599f9038e5",
+    "original": "It's a map of the second floor of Frega Manor. It shows the rooms relevant to the case.",
+    "translation": "弗雷加庄园二层的地图，展示了与案件有关的房间。",
+    "context": "{\n  \"reference name\": \"Frega Manor Floor 2\",\n  \"display name\": \"Frega Manor - Floor 2\",\n  \"description\": \"It's a map of the second floor of Frega Manor. It shows the rooms relevant to the case.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::afb3bb3c0e3e4b05",
+    "original": "Beatrice's \"Alibi\"",
+    "translation": "比亚特丽丝的“不在场证明”",
+    "context": "{\n  \"reference name\": \"Beatrice's Alibi\",\n  \"display name\": \"Beatrice's \\\"Alibi\\\"\",\n  \"description\": \"Beatrice Frega was seen speaking with Aster de Wyverngarde and Alaric de Wyverngarde during the Lords’ Ball. She spent the entire night speaking with them. She was also accounted for before the Sword of Spell Eating was reported missing. \\r\\n\\r\\nLucio Steelwind, Aster, and several members of the Kingsguard can confirm this.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::169275c1b7e7716f",
+    "original": "Beatrice Frega was seen speaking with Aster de Wyverngarde and Alaric de Wyverngarde during the Lords’ Ball. She spent the entire night speaking with them. She was also accounted for before the Sword of Spell Eating was reported missing. \r\n\r\nLucio Steelwind, Aster, and several members of the Kingsguard can confirm this.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Beatrice's Alibi\",\n  \"display name\": \"Beatrice's \\\"Alibi\\\"\",\n  \"description\": \"Beatrice Frega was seen speaking with Aster de Wyverngarde and Alaric de Wyverngarde during the Lords’ Ball. She spent the entire night speaking with them. She was also accounted for before the Sword of Spell Eating was reported missing. \\r\\n\\r\\nLucio Steelwind, Aster, and several members of the Kingsguard can confirm this.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::6610b3532d1549a5",
+    "original": "Tracker's Testimony",
+    "translation": "追追的证言",
+    "context": "{\n  \"reference name\": \"Tracker's Testimony\",\n  \"display name\": \"Tracker's Testimony\",\n  \"description\": \"On the night of the murder, Tracker smelled something strange and followed the scent to the hallway north of Beatrice’s Bedroom. There he saw a “flying rat” come out from the northern air vent. Tracker barked at this “rat” and scared it away. \\r\\n\\r\\nWhen this happened, “rat” supposedly dropped the Sword of Spell Eating. Tracker took the sword and brought it back to Beatrice’s Room.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::bdcf32cb15e0a7da",
+    "original": "On the night of the murder, Tracker smelled something strange and followed the scent to the hallway north of Beatrice’s Bedroom. There he saw a “flying rat” come out from the northern air vent. Tracker barked at this “rat” and scared it away. \r\n\r\nWhen this happened, “rat” supposedly dropped the Sword of Spell Eating. Tracker took the sword and brought it back to Beatrice’s Room.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Tracker's Testimony\",\n  \"display name\": \"Tracker's Testimony\",\n  \"description\": \"On the night of the murder, Tracker smelled something strange and followed the scent to the hallway north of Beatrice’s Bedroom. There he saw a “flying rat” come out from the northern air vent. Tracker barked at this “rat” and scared it away. \\r\\n\\r\\nWhen this happened, “rat” supposedly dropped the Sword of Spell Eating. Tracker took the sword and brought it back to Beatrice’s Room.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DISPLAY NAME TRANSLATION::4cee902a4201886d",
+    "original": "Beatrice's Blood Contract",
+    "translation": "比亚特丽丝的血契",
+    "context": "{\n  \"reference name\": \"Marrunath's Blood Contract\",\n  \"display name\": \"Beatrice's Blood Contract\",\n  \"description\": \"It’s a legal document written in blood… It’s also 50 pages long. Luckily, you somehow know the excerpt of the exact section you need.\\r\\n\\r\\n“Marrunath is prohibited from killing or injuring any and all humans. Beatrice Frega can designate individuals that are exempt from this rule. And exempted individuals will only remain so for 24 hours. After that, Marrunath cannot harm them unless told otherwise.”\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C4 Clues.csv::DESCRIPTION TRANSLATION::04bdb6adf1d1e3f4",
+    "original": "It’s a legal document written in blood… It’s also 50 pages long. Luckily, you somehow know the excerpt of the exact section you need.\r\n\r\n“Marrunath is prohibited from killing or injuring any and all humans. Beatrice Frega can designate individuals that are exempt from this rule. And exempted individuals will only remain so for 24 hours. After that, Marrunath cannot harm them unless told otherwise.”",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Marrunath's Blood Contract\",\n  \"display name\": \"Beatrice's Blood Contract\",\n  \"description\": \"It’s a legal document written in blood… It’s also 50 pages long. Luckily, you somehow know the excerpt of the exact section you need.\\r\\n\\r\\n“Marrunath is prohibited from killing or injuring any and all humans. Beatrice Frega can designate individuals that are exempt from this rule. And exempted individuals will only remain so for 24 hours. After that, Marrunath cannot harm them unless told otherwise.”\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  }
+]

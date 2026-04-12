@@ -1,0 +1,626 @@
+[
+  {
+    "key": "GUI.csv::TRANSLATION::fcd025c088e591c3",
+    "original": "new game",
+    "translation": "",
+    "context": "{\n  \"text\": \"new game\",\n  \"comments\": \"Button on the Title Screen.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::1d302b37dc4f8bea",
+    "original": "load game",
+    "translation": "",
+    "context": "{\n  \"text\": \"load game\",\n  \"comments\": \"Button on the Title Screen.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::3cc1d5a427a45820",
+    "original": "settings",
+    "translation": "",
+    "context": "{\n  \"text\": \"settings\",\n  \"comments\": \"Button on the Title Screen.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::81f864a24190eec6",
+    "original": "crowdfunders",
+    "translation": "",
+    "context": "{\n  \"text\": \"crowdfunders\",\n  \"comments\": \"Button on the Title Screen.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::66c22fad3a990a40",
+    "original": "credits",
+    "translation": "",
+    "context": "{\n  \"text\": \"credits\",\n  \"comments\": \"Button on the Title Screen.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::f5e2c2cea07d8440",
+    "original": "quit game",
+    "translation": "",
+    "context": "{\n  \"text\": \"quit game\",\n  \"comments\": \"Button on the Title Screen.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::806e6dd899dae7a5",
+    "original": "Play Episode",
+    "translation": "",
+    "context": "{\n  \"text\": \"Play Episode\",\n  \"comments\": \"Button on the Episode Select Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::5ea1f83d38b9f662",
+    "original": "Occupation",
+    "translation": "",
+    "context": "{\n  \"text\": \"Occupation\",\n  \"comments\": \"Field used when displaying character information.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::ff9f1ff32120d8b8",
+    "original": "Age",
+    "translation": "",
+    "context": "{\n  \"text\": \"Age\",\n  \"comments\": \"Field used when displaying character information.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::b84e4b4cd40447c5",
+    "original": "Arcane Art",
+    "translation": "",
+    "context": "{\n  \"text\": \"Arcane Art\",\n  \"comments\": \"Field used when displaying character information.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::100ec4462dec34f6",
+    "original": "evidence",
+    "translation": "",
+    "context": "{\n  \"text\": \"evidence\",\n  \"comments\": \"Button on the dialogue box.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::ea2c24e4c8a6ee7c",
+    "original": "menus",
+    "translation": "",
+    "context": "{\n  \"text\": \"menus\",\n  \"comments\": \"Button on the dialogue box.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::0d612c12d2ac3362",
+    "original": "auto",
+    "translation": "",
+    "context": "{\n  \"text\": \"auto\",\n  \"comments\": \"Button on the dialogue box.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::b0623c4259fb2522",
+    "original": "text log",
+    "translation": "",
+    "context": "{\n  \"text\": \"text log\",\n  \"comments\": \"Button on the dialogue box.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::3251f0e3eac2044d",
+    "original": "hide gui",
+    "translation": "",
+    "context": "{\n  \"text\": \"hide gui\",\n  \"comments\": \"Button on the dialogue box.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::7ea014de7bfb6a4e",
+    "original": "Evidence",
+    "translation": "",
+    "context": "{\n  \"text\": \"Evidence\",\n  \"comments\": \"Button Text on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::e8236289e7d8a60c",
+    "original": "Save/Load",
+    "translation": "",
+    "context": "{\n  \"text\": \"Save/Load\",\n  \"comments\": \"Button Text on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::762654bed8fb9c45",
+    "original": "Text Log",
+    "translation": "",
+    "context": "{\n  \"text\": \"Text Log\",\n  \"comments\": \"Button Text on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::c7f73bb54d928922",
+    "original": "Settings",
+    "translation": "",
+    "context": "{\n  \"text\": \"Settings\",\n  \"comments\": \"Button Text on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::e252bbe7e93c4a06",
+    "original": "To Title",
+    "translation": "",
+    "context": "{\n  \"text\": \"To Title\",\n  \"comments\": \"Button Text on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::1a2285d8881f226e",
+    "original": "Quit",
+    "translation": "",
+    "context": "{\n  \"text\": \"Quit\",\n  \"comments\": \"Button Text on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::32b64f6164f9ee1d",
+    "original": "view collected clues",
+    "translation": "",
+    "context": "{\n  \"text\": \"view collected clues\",\n  \"comments\": \"Text under the \\\"Evidence\\\" button on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::fc70a896fc27f745",
+    "original": "save or load progress",
+    "translation": "",
+    "context": "{\n  \"text\": \"save or load progress\",\n  \"comments\": \"Text under the \\\"Save/Load\\\" button on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::e3c86ec175bdb155",
+    "original": "view dialogue history",
+    "translation": "",
+    "context": "{\n  \"text\": \"view dialogue history\",\n  \"comments\": \"Text under the \\\"Text Log\\\" button on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::d6157318d41dba06",
+    "original": "adjust game settings",
+    "translation": "",
+    "context": "{\n  \"text\": \"adjust game settings\",\n  \"comments\": \"Text under the \\\"Settings\\\" button on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::fa74d2a767b7b27e",
+    "original": "return to title screen",
+    "translation": "",
+    "context": "{\n  \"text\": \"return to title screen\",\n  \"comments\": \"Text under the \\\"To Title\\\" button on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::9ce68b9f70afba0a",
+    "original": "close the application",
+    "translation": "",
+    "context": "{\n  \"text\": \"close the application\",\n  \"comments\": \"Text under the \\\"Quit\\\" button on the Pause Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::1670a0feb09189b9",
+    "original": "Clues",
+    "translation": "",
+    "context": "{\n  \"text\": \"Clues\",\n  \"comments\": \"Tab heading on the Evidence Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::6b99d4032e86559b",
+    "original": "Spells",
+    "translation": "",
+    "context": "{\n  \"text\": \"Spells\",\n  \"comments\": \"Tab heading on the Evidence Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::b37554f695b15005",
+    "original": "People",
+    "translation": "",
+    "context": "{\n  \"text\": \"People\",\n  \"comments\": \"Tab heading on the Evidence Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::e37cc54558d79684",
+    "original": "Save #",
+    "translation": "",
+    "context": "{\n  \"text\": \"Save #\",\n  \"comments\": \"Indicates the file # of each save file on the Save Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::8669aa56ebc3f21f",
+    "original": "Episode",
+    "translation": "",
+    "context": "{\n  \"text\": \"Episode\",\n  \"comments\": \"Indicates the Episode of each save file on the Save Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::7ee02ad14760f8b5",
+    "original": "Investigation",
+    "translation": "",
+    "context": "{\n  \"text\": \"Investigation\",\n  \"comments\": \"Indicates the section type of each save file on the Save Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::5f7537cf06ca663e",
+    "original": "Trial",
+    "translation": "",
+    "context": "{\n  \"text\": \"Trial\",\n  \"comments\": \"Indicates the section type of each save file on the Save Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::efc007a393f66cdb",
+    "original": "Save",
+    "translation": "",
+    "context": "{\n  \"text\": \"Save\",\n  \"comments\": \"Button on each save file on the Save Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::ddcb77ff769ea54c",
+    "original": "Load",
+    "translation": "",
+    "context": "{\n  \"text\": \"Load\",\n  \"comments\": \"Button on each save file on the Save Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::f6fdbe48dc54dd86",
+    "original": "Delete",
+    "translation": "",
+    "context": "{\n  \"text\": \"Delete\",\n  \"comments\": \"Button on each save file on the Save Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::1507c40f043249fe",
+    "original": "CANCEL",
+    "translation": "",
+    "context": "{\n  \"text\": \"CANCEL\",\n  \"comments\": \"Button text on the Move Location Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::22fb76e46f645ef6",
+    "original": "Travel",
+    "translation": "",
+    "context": "{\n  \"text\": \"Travel\",\n  \"comments\": \"Button text on the Move Location Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::07308eb5e7f00af9",
+    "original": "Psychological Profile",
+    "translation": "",
+    "context": "{\n  \"text\": \"Psychological Profile\",\n  \"comments\": \"Heading on the Psychological Profile display.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::1ed1264f96b2baf0",
+    "original": "Insight",
+    "translation": "",
+    "context": "{\n  \"text\": \"Insight\",\n  \"comments\": \"Heading on the Insight display while using the Empowered Eye of Horus on a witness.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::e04c712a3059820a",
+    "original": "Gameplay",
+    "translation": "",
+    "context": "{\n  \"text\": \"Gameplay\",\n  \"comments\": \"Tab button on the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::ab255c27aec8dfb7",
+    "original": "Graphics",
+    "translation": "",
+    "context": "{\n  \"text\": \"Graphics\",\n  \"comments\": \"Tab button on the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::acdac205f5e24cb7",
+    "original": "Audio",
+    "translation": "",
+    "context": "{\n  \"text\": \"Audio\",\n  \"comments\": \"Tab button on the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::b568d47f2e244743",
+    "original": "Input",
+    "translation": "",
+    "context": "{\n  \"text\": \"Input\",\n  \"comments\": \"Tab button on the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::13b8fe38a93b1e74",
+    "original": "Workshop",
+    "translation": "",
+    "context": "{\n  \"text\": \"Workshop\",\n  \"comments\": \"Tab button on the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::4d48d2c2b0a30b93",
+    "original": "Text Speed",
+    "translation": "",
+    "context": "{\n  \"text\": \"Text Speed\",\n  \"comments\": \"Gameplay Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::f7bf733f9b986168",
+    "original": "Character Emotes",
+    "translation": "",
+    "context": "{\n  \"text\": \"Character Emotes\",\n  \"comments\": \"Gameplay Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::83a0704fa49488ef",
+    "original": "Language [Mod]",
+    "translation": "",
+    "context": "{\n  \"text\": \"Language [Mod]\",\n  \"comments\": \"Gameplay Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::516aae52959dcf53",
+    "original": "Resolution",
+    "translation": "",
+    "context": "{\n  \"text\": \"Resolution\",\n  \"comments\": \"Graphics Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::c3f3f62039769da9",
+    "original": "Screen Mode",
+    "translation": "",
+    "context": "{\n  \"text\": \"Screen Mode\",\n  \"comments\": \"Graphics Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::a3f165d9951edd8d",
+    "original": "Refresh Rate",
+    "translation": "",
+    "context": "{\n  \"text\": \"Refresh Rate\",\n  \"comments\": \"Graphics Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::ccd60c35583d7c73",
+    "original": "Vsync",
+    "translation": "",
+    "context": "{\n  \"text\": \"Vsync\",\n  \"comments\": \"Graphics Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::ad50e3dc5798ff49",
+    "original": "Master Volume",
+    "translation": "",
+    "context": "{\n  \"text\": \"Master Volume\",\n  \"comments\": \"Audio Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::3d6052382b675f94",
+    "original": "Music Volume",
+    "translation": "",
+    "context": "{\n  \"text\": \"Music Volume\",\n  \"comments\": \"Audio Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::729429a603112e49",
+    "original": "SFX Volume",
+    "translation": "",
+    "context": "{\n  \"text\": \"SFX Volume\",\n  \"comments\": \"Audio Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::a9d371451b6909ac",
+    "original": "NAME",
+    "translation": "",
+    "context": "{\n  \"text\": \"NAME\",\n  \"comments\": \"Heading in the Input Section of the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::e31f6e8ddedd90b0",
+    "original": "KEYBOARD",
+    "translation": "",
+    "context": "{\n  \"text\": \"KEYBOARD\",\n  \"comments\": \"Heading in the Input Section of the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::7d9ddcb138f864f7",
+    "original": "JOYSTICK",
+    "translation": "",
+    "context": "{\n  \"text\": \"JOYSTICK\",\n  \"comments\": \"Heading in the Input Section of the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::02ed4a4a3934497e",
+    "original": "Proceed",
+    "translation": "",
+    "context": "{\n  \"text\": \"Proceed\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::3da474537ac378c6",
+    "original": "Skip",
+    "translation": "",
+    "context": "{\n  \"text\": \"Skip\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::4fa8b8fac97d5729",
+    "original": "Open Menus",
+    "translation": "",
+    "context": "{\n  \"text\": \"Open Menus\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::1a19c0a35a522ff1",
+    "original": "Skip Scene",
+    "translation": "",
+    "context": "{\n  \"text\": \"Skip Scene\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::95619b532fe893a1",
+    "original": "Autoplay",
+    "translation": "",
+    "context": "{\n  \"text\": \"Autoplay\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::d6ff68cd49eac124",
+    "original": "Hide Gui",
+    "translation": "",
+    "context": "{\n  \"text\": \"Hide Gui\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::d3c38d062eebefb4",
+    "original": "Open Evidence",
+    "translation": "",
+    "context": "{\n  \"text\": \"Open Evidence\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::30d803ebd4067d3b",
+    "original": "Detect Magic",
+    "translation": "",
+    "context": "{\n  \"text\": \"Detect Magic\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::ea683ad616063b73",
+    "original": "Press",
+    "translation": "",
+    "context": "{\n  \"text\": \"Press\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::4e9f7a31eef4c69e",
+    "original": "Present",
+    "translation": "",
+    "context": "{\n  \"text\": \"Present\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::9ce3bd4224c8c178",
+    "original": "OK",
+    "translation": "",
+    "context": "{\n  \"text\": \"OK\",\n  \"comments\": \"Appears on dialogue boxes asking the player to confirm or cancel.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::77dfd2135f4db726",
+    "original": "Cancel",
+    "translation": "",
+    "context": "{\n  \"text\": \"Cancel\",\n  \"comments\": \"Appears on dialogue boxes asking the player to confirm or cancel.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::2e02623966f9391f",
+    "original": "Continue",
+    "translation": "",
+    "context": "{\n  \"text\": \"Continue\",\n  \"comments\": \"Appears on Tutorial Windows.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::719ea396ad92e01b",
+    "original": "Clear",
+    "translation": "",
+    "context": "{\n  \"text\": \"Clear\",\n  \"comments\": \"Appears on the dialogue box that confirms if a player wants to clear an input on the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::2dacf65959849884",
+    "original": "Submit",
+    "translation": "",
+    "context": "{\n  \"text\": \"Submit\",\n  \"comments\": \"On the \\\"Submit\\\" button of Deduction segments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::3f5af60a2738a458",
+    "original": "Objection!",
+    "translation": "",
+    "context": "{\n  \"text\": \"Objection!\",\n  \"comments\": \"\\\"Objection!\\\" as it is written in the Text Log.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::fcc710bba11a2cda",
+    "original": "PRESS",
+    "translation": "",
+    "context": "{\n  \"text\": \"PRESS\",\n  \"comments\": \"Label used on the PRESS button that appears during testimonies.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::b40f85dcc743fd99",
+    "original": "PRESENT",
+    "translation": "",
+    "context": "{\n  \"text\": \"PRESENT\",\n  \"comments\": \"Label used on the PRESENT button that appears during testimonies.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::07d83ab8093d673b",
+    "original": "OBTAINED EVIDENCE!",
+    "translation": "",
+    "context": "{\n  \"text\": \"OBTAINED EVIDENCE!\",\n  \"comments\": \"Shown when the player obtains a new piece of evidence.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::7a3f4c47330997bb",
+    "original": "EVIDENCE UPDATED!",
+    "translation": "",
+    "context": "{\n  \"text\": \"EVIDENCE UPDATED!\",\n  \"comments\": \"Shown when the player obtains an update to an existing piece of evidence.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::e25105ba7fcfe263",
+    "original": "Examine",
+    "translation": "",
+    "context": "{\n  \"text\": \"Examine\",\n  \"comments\": \"An Option Button shown when at a location during an Investigation.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::4e6a710d7f8571d8",
+    "original": "Talk",
+    "translation": "",
+    "context": "{\n  \"text\": \"Talk\",\n  \"comments\": \"An Option Button shown when at a location during an Investigation.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::76cdb950721642b6",
+    "original": "Move",
+    "translation": "",
+    "context": "{\n  \"text\": \"Move\",\n  \"comments\": \"An Option Button shown when at a location during an Investigation.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::e7c3800e31ff2e76",
+    "original": "Menus",
+    "translation": "",
+    "context": "{\n  \"text\": \"Menus\",\n  \"comments\": \"An Option Button shown when at a location during an Investigation.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::3a7087e98d3484d6",
+    "original": "Negotiate",
+    "translation": "",
+    "context": "{\n  \"text\": \"Negotiate\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::a80936247425a22a",
+    "original": "Comply",
+    "translation": "",
+    "context": "{\n  \"text\": \"Comply\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::291a0a58dfa6c640",
+    "original": "Call",
+    "translation": "",
+    "context": "{\n  \"text\": \"Call\",\n  \"comments\": \"An Option Button shown during Arguments. \\\"Call\\\" refers to calling your opponent's bluff.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::3d52a6d8fedcc48a",
+    "original": "Logic",
+    "translation": "",
+    "context": "{\n  \"text\": \"Logic\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::9998a35d5b985aa5",
+    "original": "Intuition",
+    "translation": "",
+    "context": "{\n  \"text\": \"Intuition\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::03b53781e1ea55df",
+    "original": "Empathy",
+    "translation": "",
+    "context": "{\n  \"text\": \"Empathy\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::9ef9705e197ed4a5",
+    "original": "Deflect",
+    "translation": "",
+    "context": "{\n  \"text\": \"Deflect\",\n  \"comments\": \"An Option Button shown during Arguments. \\\"Deflect\\\" refers to deflecting your opponent's statement and changing the subject.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::eff173c931e8d378",
+    "original": "Interpret",
+    "translation": "",
+    "context": "{\n  \"text\": \"Interpret\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::f6f4da8d93e88a08",
+    "original": "Project",
+    "translation": "",
+    "context": "{\n  \"text\": \"Project\",\n  \"comments\": \"An Option Button shown when using the Empowered Eye of Horus on a witness. \\\"Project\\\" refers to magically projecting an idea into the witness's mind.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::2034be9717aac41a",
+    "original": "Doubt",
+    "translation": "",
+    "context": "{\n  \"text\": \"Doubt\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::ee68d3496bb455d5",
+    "original": "Agree",
+    "translation": "",
+    "context": "{\n  \"text\": \"Agree\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::c0e0641666b7a539",
+    "original": "Rationalize",
+    "translation": "",
+    "context": "{\n  \"text\": \"Rationalize\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::d8cb03e33092755b",
+    "original": "Appeal",
+    "translation": "",
+    "context": "{\n  \"text\": \"Appeal\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::18c1cb0ac36f32cc",
+    "original": "Threaten",
+    "translation": "",
+    "context": "{\n  \"text\": \"Threaten\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::e677902d0b2e56a2",
+    "original": "Completed!",
+    "translation": "",
+    "context": "{\n  \"text\": \"Completed!\",\n  \"comments\": \"On the Completion Card shown at the end of each Case.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::f2f3d66a7978c207",
+    "original": "School",
+    "translation": "",
+    "context": "{\n  \"text\": \"School\",\n  \"comments\": \"An item field on the Evidence Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::0cfd83c408d45c33",
+    "original": "Incantation",
+    "translation": "",
+    "context": "{\n  \"text\": \"Incantation\",\n  \"comments\": \"An item field on the Evidence Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::909cc1f6e91052d3",
+    "original": "Gesture",
+    "translation": "",
+    "context": "{\n  \"text\": \"Gesture\",\n  \"comments\": \"An item field on the Evidence Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::1370004da76fa4f3",
+    "original": "Duration",
+    "translation": "",
+    "context": "{\n  \"text\": \"Duration\",\n  \"comments\": \"An item field on the Evidence Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::c3bc4cee55ed40f0",
+    "original": "Concentration",
+    "translation": "",
+    "context": "{\n  \"text\": \"Concentration\",\n  \"comments\": \"An item field on the Evidence Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::5505f0d11aefe2e0",
+    "original": "5 Minutes Later",
+    "translation": "",
+    "context": "{\n  \"text\": \"5 Minutes Later\",\n  \"comments\": \"Shown after Celeste absolutely bodies those two teenagers.\"\n}"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Eyetaker-displayName",
+    "original": "Eyetaker",
+    "translation": "夺眼者",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Eyetaker\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Eyetaker-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Eyetaker\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Eyetaker-occupation",
+    "original": "Boss",
+    "translation": "头目",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Eyetaker\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Eyetaker-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Eyetaker\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

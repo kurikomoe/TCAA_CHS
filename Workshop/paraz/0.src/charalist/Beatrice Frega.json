@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Beatrice Frega-displayName",
+    "original": "Beatrice Frega",
+    "translation": "比亚特丽丝·弗雷加",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Beatrice Frega\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Beatrice Frega-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Beatrice Frega\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Beatrice Frega-occupation",
+    "original": "Freelancer",
+    "translation": "自由职业者",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Beatrice Frega\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Beatrice Frega-arcaneArt",
+    "original": "Illusion",
+    "translation": "幻象术",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Beatrice Frega\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

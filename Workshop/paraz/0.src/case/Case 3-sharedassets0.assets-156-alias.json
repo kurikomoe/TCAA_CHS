@@ -1,0 +1,793 @@
+[
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-286-0",
+    "original": "shake noportrait alias:Aster",
+    "translation": "shake noportrait alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-292-0",
+    "original": "noportrait alias:Aster",
+    "translation": "shake noportrait alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-294-0",
+    "original": "noportrait alias:Aster",
+    "translation": "shake noportrait alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-295-0",
+    "original": "noportrait alias:Aster",
+    "translation": "shake noportrait alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-298-0",
+    "original": "noportrait alias:Aster",
+    "translation": "shake noportrait alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-299-0",
+    "original": "noportrait alias:Aster",
+    "translation": "shake noportrait alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-302-0",
+    "original": "noportrait alias:Aster",
+    "translation": "shake noportrait alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-310-0",
+    "original": "noportrait alias:Aster",
+    "translation": "shake noportrait alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-311-0",
+    "original": "noportrait alias:Aster",
+    "translation": "shake noportrait alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-313-0",
+    "original": "noportrait alias:Aster",
+    "translation": "shake noportrait alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-321-0",
+    "original": "emo:Neutral alias:Aster",
+    "translation": "emo:Neutral alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-324-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-325-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-331-0",
+    "original": "emo:Surprised alias:Aster",
+    "translation": "emo:Surprised alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-332-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-333-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-335-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-336-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-337-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/AfterTrial1.yarn-AfterTrial1-339-0",
+    "original": "emo:Excited alias:Aster eye:Happy,Fear",
+    "translation": "emo:Excited alias:阿斯特 eye:Happy,Fear",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-443-0",
+    "original": "noportrait shake alias:Refinery_Worker",
+    "translation": "noportrait shake alias:精炼厂工人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-444-0",
+    "original": "noportrait alias:Refinery_Worker",
+    "translation": "noportrait alias:精炼厂工人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-446-0",
+    "original": "noportrait alias:Refinery_Worker",
+    "translation": "noportrait alias:精炼厂工人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-447-0",
+    "original": "noportrait alias:Refinery_Worker",
+    "translation": "noportrait alias:精炼厂工人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-448-0",
+    "original": "noportrait alias:Refinery_Worker",
+    "translation": "noportrait alias:精炼厂工人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-449-0",
+    "original": "noportrait alias:Refinery_Worker",
+    "translation": "noportrait alias:精炼厂工人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-450-0",
+    "original": "noportrait alias:Refinery_Worker",
+    "translation": "noportrait alias:精炼厂工人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-452-0",
+    "original": "noportrait alias:Refinery_Worker",
+    "translation": "noportrait alias:精炼厂工人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-454-0",
+    "original": "noportrait alias:Refinery_Worker shake",
+    "translation": "noportrait alias:精炼厂工人 shake",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-455-0",
+    "original": "noportrait alias:Refinery_Worker shake",
+    "translation": "noportrait alias:精炼厂工人 shake",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/BeforeMurder.yarn-MurderPreview-457-0",
+    "original": "noportrait alias:Refinery_Worker shake",
+    "translation": "noportrait alias:精炼厂工人 shake",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Courtroom2.yarn-Last_Deduce8_1-1833-0",
+    "original": "noportrait alias:Refinery_Worker",
+    "translation": "noportrait alias:精炼厂工人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2793-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2795-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2797-0",
+    "original": "alias:Aster emo:Hidden",
+    "translation": "alias:阿斯特 emo:Hidden",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2798-0",
+    "original": "shake emo:Excited alias:Aster",
+    "translation": "shake emo:Excited alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2801-0",
+    "original": "shake alias:Aster",
+    "translation": "shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2803-0",
+    "original": "emo:Happy alias:Aster",
+    "translation": "emo:Happy alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2804-0",
+    "original": "shake alias:Aster",
+    "translation": "shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2805-0",
+    "original": "shake alias:Aster",
+    "translation": "shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2806-0",
+    "original": "shake alias:Aster",
+    "translation": "shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2808-0",
+    "original": "emo:Surprised alias:Aster",
+    "translation": "emo:Surprised alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2809-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2814-0",
+    "original": "emo:Surprised alias:Aster",
+    "translation": "emo:Surprised alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2815-0",
+    "original": "emo:Excited alias:Aster shake",
+    "translation": "emo:Excited alias:阿斯特 shake",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Examine_Tavern-2816-0",
+    "original": "alias:Aster shake",
+    "translation": "alias:阿斯特 shake",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2824-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2825-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2828-0",
+    "original": "emo:Neutral alias:Aster",
+    "translation": "emo:Neutral alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2830-0",
+    "original": "emo:Surprised eye:Fear alias:Aster",
+    "translation": "emo:Surprised eye:Fear alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2831-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2832-0",
+    "original": "emo:Happy alias:Aster",
+    "translation": "emo:Happy alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2836-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2837-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2840-0",
+    "original": "emo:Thinking alias:Aster",
+    "translation": "emo:Thinking alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2845-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2848-0",
+    "original": "emo:Neutral alias:Aster",
+    "translation": "emo:Neutral alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2849-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2850-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2851-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2852-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2853-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2856-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2859-0",
+    "original": "emo:Thinking alias:Aster",
+    "translation": "emo:Thinking alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2864-0",
+    "original": "emo:Surprised alias:Aster",
+    "translation": "emo:Surprised alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2867-0",
+    "original": "emo:Thinking alias:Aster",
+    "translation": "emo:Thinking alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2868-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2870-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2871-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2875-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2876-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2879-0",
+    "original": "emo:Neutral alias:Aster",
+    "translation": "emo:Neutral alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2880-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2891-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2893-0",
+    "original": "emo:Surprised alias:Aster",
+    "translation": "emo:Surprised alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2894-0",
+    "original": "emo:Neutral alias:Aster",
+    "translation": "emo:Neutral alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2898-0",
+    "original": "emo:Surprised shake alias:Aster",
+    "translation": "emo:Surprised shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2899-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2901-0",
+    "original": "emo:Excited shake eye:Happy alias:Aster",
+    "translation": "emo:Excited shake eye:Happy alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2903-0",
+    "original": "emo:Happy shake alias:Aster",
+    "translation": "emo:Happy shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2904-0",
+    "original": "emo:Surprised shake eye:Happy alias:Aster",
+    "translation": "emo:Surprised shake eye:Happy alias阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2907-0",
+    "original": "emo:Surprised alias:Aster",
+    "translation": "emo:Surprised alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2908-0",
+    "original": "shake alias:Aster",
+    "translation": "shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2910-0",
+    "original": "emo:Happy eye:Happy shake alias:Aster",
+    "translation": "emo:Happy eye:Happy shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2912-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Talk_Tavern-2913-0",
+    "original": "emo:Excited shake eye:Happy alias:Aster",
+    "translation": "emo:Excited shake eye:Happy alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2922-0",
+    "original": "emo:Excited shake alias:Aster",
+    "translation": "emo:Excited shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2925-0",
+    "original": "emo:Excited shake alias:Aster",
+    "translation": "emo:Excited shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2926-0",
+    "original": "shake alias:Aster",
+    "translation": "shake alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2932-0",
+    "original": "emo:Excited alias:Aster",
+    "translation": "emo:Excited alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2933-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2937-0",
+    "original": "emo:Thinking alias:Aster",
+    "translation": "emo:Thinking alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2938-0",
+    "original": "shake emo:Surprised alias:Aster",
+    "translation": "shake emo:Surprised alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2944-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2945-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2946-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2948-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2949-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2951-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2953-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2954-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2960-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Tavern.yarn-Present_Tavern-2961-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3164-0",
+    "original": "emo:Surprised alias:Aster",
+    "translation": "emo:Surprised alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/TownSquare2.yarn-Talk_TownSquare2-3165-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaObj2_1-3649-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaObj2_1-3650-0",
+    "original": "alias:Aster",
+    "translation": "alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Trial1Intro.yarn-RikaObj2_1-3653-0",
+    "original": "emo:Neutral alias:Aster",
+    "translation": "emo:Neutral alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4345-0",
+    "original": "alias:Aster emo:Neutral",
+    "translation": "alias:阿斯特 emo:Neutral",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4348-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4351-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4352-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Talk_TownSquare-line:Assets/Case Scripts/Case 3/Walkway2.yarn-Check_Events_Walkway2-4354-0",
+    "original": "emo:Sad alias:Aster",
+    "translation": "emo:Sad alias:阿斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_TownSquare\"\n}"
+  }
+]

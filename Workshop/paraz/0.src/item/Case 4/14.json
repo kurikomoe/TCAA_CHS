@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 4-14-Missing Sword-displayName",
+    "original": "Celeste's Missing Sword",
+    "translation": "塞莱斯特的剑不见了",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Missing Sword\",\n  \"Idx\": 14,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 4-14-Missing Sword-description",
+    "original": "When Celeste went to the coat room to change, she was told that her sword had gone missing. Someone else must have taken it.",
+    "translation": "塞莱斯特在衣帽间更衣时，得知她的佩剑不见了。一定是有人拿走了这把剑。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Missing Sword\",\n  \"Idx\": 14,\n  \"Attr\": \"description\"\n}"
+  }
+]

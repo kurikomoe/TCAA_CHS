@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 2-21-Blood in the Locker 2-displayName",
+    "original": "Evidence in the Locker",
+    "translation": "储物柜里的证据",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Blood in the Locker 2\",\n  \"Idx\": 21,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 2-21-Blood in the Locker 2-description",
+    "original": "There’s a stain of blood inside the locker with Miriam Frega’s ID number. This locker actually belongs to Wallace Nightgrave. Someone must have switched the ID numbers with Miriam’s locker.",
+    "translation": "与米莉亚姆·弗雷加证件号码吻合的储物柜里有血迹。事实上是华莱士·奈特格雷夫的储物柜。有人把两个储物柜的号码互换了。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Blood in the Locker 2\",\n  \"Idx\": 21,\n  \"Attr\": \"description\"\n}"
+  }
+]

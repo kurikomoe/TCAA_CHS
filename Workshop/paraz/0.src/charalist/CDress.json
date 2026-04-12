@@ -1,0 +1,30 @@
+[
+  {
+    "key": "CDress-displayName",
+    "original": "Celeste McCoy",
+    "translation": "塞莱斯特·麦考伊",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"CDress\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "CDress-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"CDress\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "CDress-occupation",
+    "original": "Bodyguard",
+    "translation": "贴身护卫",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"CDress\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "CDress-arcaneArt",
+    "original": "Transmutation",
+    "translation": "形变术",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"CDress\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

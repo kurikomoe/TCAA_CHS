@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-3-Conjure Water-displayName",
+    "original": "Conjure Water",
+    "translation": "造水术",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Conjure Water\",\n  \"Idx\": 3,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "SpellLibrary-3-Conjure Water-description",
+    "original": "Causes water to magically flow out of the caster’s hand. This water will flow so long as the caster maintains concentration on the spell.",
+    "translation": "用魔力使水从施法者手上涌出。只要施法者集中注意力，水流就会一直涌出。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Conjure Water\",\n  \"Idx\": 3,\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "SpellLibrary-3-Conjure Water-incantation",
+    "original": "\"Aq-ui-o\"",
+    "translation": "“Aq-ui-o”",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Conjure Water\",\n  \"Idx\": 3,\n  \"Attr\": \"incantation\"\n}"
+  },
+  {
+    "key": "SpellLibrary-3-Conjure Water-gesture",
+    "original": "Outstretched Palm",
+    "translation": "伸出手掌",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Conjure Water\",\n  \"Idx\": 3,\n  \"Attr\": \"gesture\"\n}"
+  },
+  {
+    "key": "SpellLibrary-3-Conjure Water-duration",
+    "original": "Indefinitely",
+    "translation": "无限期",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Conjure Water\",\n  \"Idx\": 3,\n  \"Attr\": \"duration\"\n}"
+  }
+]

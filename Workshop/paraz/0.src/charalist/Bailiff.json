@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Bailiff-displayName",
+    "original": "Bailiff",
+    "translation": "法警",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Bailiff\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Bailiff-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Bailiff\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Bailiff-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Bailiff\",\n  \"Attr\": \"arcaneArt\"\n}"
+  },
+  {
+    "key": "Bailiff-occupation",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Bailiff\",\n  \"Attr\": \"occupation\"\n}"
+  }
+]

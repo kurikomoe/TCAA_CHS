@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Knight-displayName",
+    "original": "Knight",
+    "translation": "骑士",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Knight\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Knight-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Knight\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Knight-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Knight\",\n  \"Attr\": \"arcaneArt\"\n}"
+  },
+  {
+    "key": "Knight-occupation",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Knight\",\n  \"Attr\": \"occupation\"\n}"
+  }
+]

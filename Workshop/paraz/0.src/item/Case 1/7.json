@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-7-Crime Scene Map (McCoy Tavern)-displayName",
+    "original": "Crime Scene Map (McCoy Tavern)",
+    "translation": "犯罪现场地图（麦考伊酒馆）",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Crime Scene Map (McCoy Tavern)\",\n  \"Idx\": 7,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 1-7-Crime Scene Map (McCoy Tavern)-description",
+    "original": "A geometrically scaled map of the Crime Scene.",
+    "translation": "犯罪现场的等比例缩小地图。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Crime Scene Map (McCoy Tavern)\",\n  \"Idx\": 7,\n  \"Attr\": \"description\"\n}"
+  }
+]

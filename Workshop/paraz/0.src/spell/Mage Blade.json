@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-0-Mage Blade-displayName",
+    "original": "Mage Blade",
+    "translation": "法术剑刃",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Mage Blade\",\n  \"Idx\": 0,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "SpellLibrary-0-Mage Blade-description",
+    "original": "For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.",
+    "translation": "在此法术持续时间内，物体的边缘（通常是剑刃）变得异常锋利，使其更容易斩穿金属物体。同时在法术生效时，物体释放出黄色的光芒。施法对象必须小于 5 立方英尺。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Mage Blade\",\n  \"Idx\": 0,\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "SpellLibrary-0-Mage Blade-incantation",
+    "original": "\"Ar-kan\"",
+    "translation": "“Ar-kan”",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Mage Blade\",\n  \"Idx\": 0,\n  \"Attr\": \"incantation\"\n}"
+  },
+  {
+    "key": "SpellLibrary-0-Mage Blade-gesture",
+    "original": "None",
+    "translation": "无",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Mage Blade\",\n  \"Idx\": 0,\n  \"Attr\": \"gesture\"\n}"
+  },
+  {
+    "key": "SpellLibrary-0-Mage Blade-duration",
+    "original": "1 minute",
+    "translation": "1 分钟",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Mage Blade\",\n  \"Idx\": 0,\n  \"Attr\": \"duration\"\n}"
+  }
+]

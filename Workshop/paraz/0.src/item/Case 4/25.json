@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 4-25-Frega Manor Floor 1-displayName",
+    "original": "Frega Manor - Floor 1",
+    "translation": "弗雷加庄园一层",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Frega Manor Floor 1\",\n  \"Idx\": 25,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 4-25-Frega Manor Floor 1-description",
+    "original": "It's a map of the ground floor of Frega Manor. It shows the rooms relevant to the case.",
+    "translation": "弗雷加庄园一层的地图，展示了与案件有关的房间。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Frega Manor Floor 1\",\n  \"Idx\": 25,\n  \"Attr\": \"description\"\n}"
+  }
+]

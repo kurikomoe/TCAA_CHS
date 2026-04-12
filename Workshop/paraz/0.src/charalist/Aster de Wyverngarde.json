@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Aster de Wyverngarde-displayName",
+    "original": "Aster de Wyverngarde",
+    "translation": "阿斯特·维文加德",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Aster de Wyverngarde\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Aster de Wyverngarde-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Aster de Wyverngarde\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Aster de Wyverngarde-occupation",
+    "original": "Prince",
+    "translation": "王子",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Aster de Wyverngarde\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Aster de Wyverngarde-arcaneArt",
+    "original": "Conjuration",
+    "translation": "召唤术",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Aster de Wyverngarde\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

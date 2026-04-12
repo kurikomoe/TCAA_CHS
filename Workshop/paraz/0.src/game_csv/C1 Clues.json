@@ -1,0 +1,261 @@
+[
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::ac6637b9c08391ce",
+    "original": "Vehicular Manslaughter",
+    "translation": "交通肇事过失致死",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Vehicular Manslaughter\",\n  \"display name\": \"Vehicular Manslaughter\",\n  \"description\": \"In the Kingdom of Wyverngarde, the average sentence for vehicular manslaughter is two years of imprisonment. There is no fine.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::1d9a05a50eb461a6",
+    "original": "In the Kingdom of Wyverngarde, the average sentence for vehicular manslaughter is two years of imprisonment. There is no fine.",
+    "translation": "在维文加德王国，因交通肇事而过失致人死亡的，平均判处两年有期徒刑，不判处罚金。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Vehicular Manslaughter\",\n  \"display name\": \"Vehicular Manslaughter\",\n  \"description\": \"In the Kingdom of Wyverngarde, the average sentence for vehicular manslaughter is two years of imprisonment. There is no fine.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::3510e0e998ac09ed",
+    "original": "Autopsy Report",
+    "translation": "尸检报告",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Flinhart Autopsy\",\n  \"display name\": \"Autopsy Report\",\n  \"description\": \"\\\"Died at 1:12 AM after being stabbed from behind with a magical blade. Fatal wound shows heavy traces of <b>transmutation</b> magic.\\\"\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::36b5f840cd8f746a",
+    "original": "\"Died at 1:12 AM after being stabbed from behind with a magical blade. Fatal wound shows heavy traces of <b>transmutation</b> magic.\"",
+    "translation": "凌晨1点12分，死者死于魔法剑刃从背后造成的刺伤，致命伤口上呈现了大量<b>形变术</b>的痕迹。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Flinhart Autopsy\",\n  \"display name\": \"Autopsy Report\",\n  \"description\": \"\\\"Died at 1:12 AM after being stabbed from behind with a magical blade. Fatal wound shows heavy traces of <b>transmutation</b> magic.\\\"\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::0e3cf31191fee804",
+    "original": "Celeste's Spell Compendium",
+    "translation": "塞莱斯特的法术汇编",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"CelComp\",\n  \"display name\": \"Celeste's Spell Compendium\",\n  \"description\": \"Celeste McCoy’s Spell Compendium. It contains the formula for only one spell: <b>Mage Blade</b>.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::73029e1a7ca224b4",
+    "original": "Celeste McCoy’s Spell Compendium. It contains the formula for only one spell: <b>Mage Blade</b>.",
+    "translation": "塞莱斯特·麦考伊的法术汇编。其中仅包含一条法术：<b>法术剑刃</b>。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"CelComp\",\n  \"display name\": \"Celeste's Spell Compendium\",\n  \"description\": \"Celeste McCoy’s Spell Compendium. It contains the formula for only one spell: <b>Mage Blade</b>.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::548103f84886706e",
+    "original": "Pierce's Spell Compendium",
+    "translation": "皮尔斯的法术汇编",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"GarComp\",\n  \"display name\": \"Pierce's Spell Compendium\",\n  \"description\": \"Garrick Pierce's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Conjure Light, Conjure Water, Frost Wave, and Shape Liquid.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::8dae13a2cf299056",
+    "original": "Garrick Pierce's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Conjure Light, Conjure Water, Frost Wave, and Shape Liquid.",
+    "translation": "加里克·皮尔斯的法术汇编。其中包含了以下法术：魔术戏法、祈愿光芒、造水术、霜波和形变液体。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"GarComp\",\n  \"display name\": \"Pierce's Spell Compendium\",\n  \"description\": \"Garrick Pierce's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Conjure Light, Conjure Water, Frost Wave, and Shape Liquid.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::d9180ea6d82ce5b2",
+    "original": "Celeste's Occupation",
+    "translation": "塞莱斯特的职业",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Occupation\",\n  \"display name\": \"Celeste's Occupation\",\n  \"description\": \"Celeste is a mercenary by trade. It's a little unexpected, but who am I to judge?\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Occupation\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::1ae6fbb7dcc51a87",
+    "original": "Celeste is a mercenary by trade. It's a little unexpected, but who am I to judge?",
+    "translation": "塞莱斯特·麦考伊是一名雇佣兵。这有点出乎意料，但我又有什么资格评判呢？",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Occupation\",\n  \"display name\": \"Celeste's Occupation\",\n  \"description\": \"Celeste is a mercenary by trade. It's a little unexpected, but who am I to judge?\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Occupation\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::SERIES TRANSLATION::5ea1f83d38b9f662",
+    "original": "Occupation",
+    "translation": "职业",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Occupation\",\n  \"display name\": \"Celeste's Occupation\",\n  \"description\": \"Celeste is a mercenary by trade. It's a little unexpected, but who am I to judge?\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Occupation\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::a7f73b3144bd036e",
+    "original": "Celeste McCoy learned magic so she could support her family. Apparently, many people will pay extra for a mercenary that can use magic.",
+    "translation": "塞莱斯特·麦考伊学习魔法来支撑家里的开销。显然会魔法的雇佣兵能赚得更多。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Occupation2\",\n  \"display name\": \"Celeste's Occupation\",\n  \"description\": \"Celeste McCoy learned magic so she could support her family. Apparently, many people will pay extra for a mercenary that can use magic.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Occupation\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::66d5f6c2d0ca6040",
+    "original": "Celeste's Sword",
+    "translation": "塞莱斯特的剑",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Sword\",\n  \"display name\": \"Celeste's Sword\",\n  \"description\": \"The alleged murder weapon. It's an ornately designed sword, but it has no magical properties.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::f2c630dd70c87983",
+    "original": "The alleged murder weapon. It's an ornately designed sword, but it has no magical properties.",
+    "translation": "检方认为的凶器。这是一把设计精美的剑，但没有任何魔法属性。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Sword\",\n  \"display name\": \"Celeste's Sword\",\n  \"description\": \"The alleged murder weapon. It's an ornately designed sword, but it has no magical properties.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::4e6490009034ab59",
+    "original": "The alleged murder weapon. It's an ornately designed sword, but it has no magical properties. Traces of <b>transmutation</b> magic were detected on it.",
+    "translation": "检方认为的凶器。这是一把设计精美的剑，但没有任何魔法属性。其上被探查出<b>形变术</b>的魔法痕迹。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Sword2\",\n  \"display name\": \"Celeste's Sword\",\n  \"description\": \"The alleged murder weapon. It's an ornately designed sword, but it has no magical properties. Traces of <b>transmutation</b> magic were detected on it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::d4a8ada16866e769",
+    "original": "Crime Scene Photo",
+    "translation": "犯罪现场的照片",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Photo\",\n  \"display name\": \"Crime Scene Photo\",\n  \"description\": \"A picture of Flinhart McCoy after he was murdered. It shows the traces of <b>transmutation</b> magic that were on the sword.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::ac5d9584fb56d15a",
+    "original": "A picture of Flinhart McCoy after he was murdered. It shows the traces of <b>transmutation</b> magic that were on the sword.",
+    "translation": "一张弗林哈特·麦考伊尸体的照片。上面显示了剑上存在的<b>形变术</b>的魔法痕迹。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Photo\",\n  \"display name\": \"Crime Scene Photo\",\n  \"description\": \"A picture of Flinhart McCoy after he was murdered. It shows the traces of <b>transmutation</b> magic that were on the sword.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::37000e2aa360b4ef",
+    "original": "Crime Scene Map",
+    "translation": "犯罪现场地图",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Map\",\n  \"display name\": \"Crime Scene Map\",\n  \"description\": \"A geometrically scaled map of the Crime Scene.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Map\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"16,9\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::8256c3d8124577a6",
+    "original": "A geometrically scaled map of the Crime Scene.",
+    "translation": "犯罪现场的等比例缩小地图。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Map\",\n  \"display name\": \"Crime Scene Map\",\n  \"description\": \"A geometrically scaled map of the Crime Scene.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Map\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"16,9\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::SERIES TRANSLATION::ab478f3efc840eeb",
+    "original": "Map",
+    "translation": "地图",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Map\",\n  \"display name\": \"Crime Scene Map\",\n  \"description\": \"A geometrically scaled map of the Crime Scene.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Map\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"16,9\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::BATTLE MAP SIZE TRANSLATION::687cc4835f1888a6",
+    "original": "16,9",
+    "translation": "16,9",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Map\",\n  \"display name\": \"Crime Scene Map\",\n  \"description\": \"A geometrically scaled map of the Crime Scene.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Map\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"16,9\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::dd2d1015312652ab",
+    "original": "A geometrically scaled map of the Crime Scene. Flinhart died at the location of the V marker. This was also the location of where the murder must have occurred.",
+    "translation": "犯罪现场的等比例缩小地图。死者的位置在图上用“V”标识。这一定是第一案发现场。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Map2\",\n  \"display name\": \"Crime Scene Map\",\n  \"description\": \"A geometrically scaled map of the Crime Scene. Flinhart died at the location of the V marker. This was also the location of where the murder must have occurred.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Map\",\n  \"tag\": \"\",\n  \"token position\": \"Victim,8,3\",\n  \"battle map size\": \"16,9\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::TOKEN POSITION TRANSLATION::fd93d52c087d6727",
+    "original": "Victim,8,3",
+    "translation": "受害者,8,3",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Map2\",\n  \"display name\": \"Crime Scene Map\",\n  \"description\": \"A geometrically scaled map of the Crime Scene. Flinhart died at the location of the V marker. This was also the location of where the murder must have occurred.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Map\",\n  \"tag\": \"\",\n  \"token position\": \"Victim,8,3\",\n  \"battle map size\": \"16,9\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::2e740b147a2ebdc4",
+    "original": "A geometrically scaled map of the Crime Scene. Flinhart died at the location of the V marker. Garrick Pierce <i>claims</i> to have witnessed the murder from the W marker. But that's impossible, as he wouldn’t have had proper lighting.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"reference name\": \"Map3\",\n  \"display name\": \"Crime Scene Map\",\n  \"description\": \"A geometrically scaled map of the Crime Scene. Flinhart died at the location of the V marker. Garrick Pierce <i>claims</i> to have witnessed the murder from the W marker. But that's impossible, as he wouldn’t have had proper lighting.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Map\",\n  \"tag\": \"\",\n  \"token position\": \"Victim,8,3\",\n  \"battle map size\": \"16,9\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::8648831d31f8e1ec",
+    "original": "Broken Power Cell",
+    "translation": "损坏的奥术储能单元",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Power\",\n  \"display name\": \"Broken Power Cell\",\n  \"description\": \"The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Power\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::c96506f583bb2277",
+    "original": "The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on.",
+    "translation": "麦考伊旅馆配置了几盏奥术能源驱动的灯。然而，由于奥术储能单元已经坏了好几周了，这些灯无法点亮。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Power\",\n  \"display name\": \"Broken Power Cell\",\n  \"description\": \"The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Power\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::SERIES TRANSLATION::7548ab52c3d1d595",
+    "original": "Power",
+    "translation": "能源",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Power\",\n  \"display name\": \"Broken Power Cell\",\n  \"description\": \"The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Power\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::da653dd5acf70f5a",
+    "original": "The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on. This means that the lights were not operational during the murder.",
+    "translation": "麦考伊旅馆配置了几盏奥术能源驱动的灯。然而，由于奥术储能单元已经坏了好几周了，这些灯无法点亮。这意味着谋杀发生时，这些灯是无法使用的。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Power2\",\n  \"display name\": \"Broken Power Cell\",\n  \"description\": \"The McCoy Inn is outfitted with several lamps powered by artificery. However, the arcane power cell has been broken for weeks and the lamps can’t be turned on. This means that the lights were not operational during the murder.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Power\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::a29669ed0bb0fe4c",
+    "original": "Shattered Bottle of Lotus Juice",
+    "translation": "已经摔成碎片的莲之水饮料瓶",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Bottle\",\n  \"display name\": \"Shattered Bottle of Lotus Juice\",\n  \"description\": \"The shattered remains of a glass bottle. You found it next to Flinhart McCoy’s body. The label says the words: \\\"Lotus Juice\\\".\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Bottle\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::648ef8521ac17813",
+    "original": "The shattered remains of a glass bottle. You found it next to Flinhart McCoy’s body. The label says the words: \"Lotus Juice\".",
+    "translation": "玻璃瓶残留的碎片。你在弗林哈特·麦考伊的尸体边上发现了它。商标上有如下字样：“莲之水”。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Bottle\",\n  \"display name\": \"Shattered Bottle of Lotus Juice\",\n  \"description\": \"The shattered remains of a glass bottle. You found it next to Flinhart McCoy’s body. The label says the words: \\\"Lotus Juice\\\".\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Bottle\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::SERIES TRANSLATION::3b8ac6c75a9274bd",
+    "original": "Bottle",
+    "translation": "瓶子",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Bottle\",\n  \"display name\": \"Shattered Bottle of Lotus Juice\",\n  \"description\": \"The shattered remains of a glass bottle. You found it next to Flinhart McCoy’s body. The label says the words: \\\"Lotus Juice\\\".\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Bottle\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::c69d322e80bf4a64",
+    "original": "The shattered remains of a glass bottle. Flinhart McCoy was holding this bottle and dropped it during the murder. The label says the words: \"Lotus Juice\".",
+    "translation": "玻璃瓶残留的碎片。弗林哈特·麦考伊遇害时正握着它，被杀害时瓶子掉在地上。商标上有如下字样：“莲之水”。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Bottle2\",\n  \"display name\": \"Shattered Bottle of Lotus Juice\",\n  \"description\": \"The shattered remains of a glass bottle. Flinhart McCoy was holding this bottle and dropped it during the murder. The label says the words: \\\"Lotus Juice\\\".\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Bottle\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::cdb2a16e79ae6af4",
+    "original": "The shattered remains of a glass bottle. He was holding this bottle and dropped it during the murder. It contained Celeste's favorite drink: Lotus Juice. Flinhart McCoy retrieved it from his room after his argument with Celeste.",
+    "translation": "玻璃瓶残留的碎片。弗林哈特·麦考伊遇害时正握着它，被杀害时瓶子掉在地上。瓶内是塞莱斯特最喜欢的饮料“莲之水”。弗林哈特·麦考伊在与塞莱斯特争吵后从他房间里取出了它。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Bottle3\",\n  \"display name\": \"Shattered Bottle of Lotus Juice\",\n  \"description\": \"The shattered remains of a glass bottle. He was holding this bottle and dropped it during the murder. It contained Celeste's favorite drink: Lotus Juice. Flinhart McCoy retrieved it from his room after his argument with Celeste.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Bottle\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::99a47acc923fd2e4",
+    "original": "Celeste's Bedroom Key",
+    "translation": "塞莱斯特的卧室钥匙",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Key\",\n  \"display name\": \"Celeste's Bedroom Key\",\n  \"description\": \"The key to Celeste McCoy's bedroom in the McCoy Tavern.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::835bfffa08790545",
+    "original": "The key to Celeste McCoy's bedroom in the McCoy Tavern.",
+    "translation": "塞莱斯特的卧室钥匙，卧室位于麦考伊酒馆内。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Key\",\n  \"display name\": \"Celeste's Bedroom Key\",\n  \"description\": \"The key to Celeste McCoy's bedroom in the McCoy Tavern.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DISPLAY NAME TRANSLATION::b9e977c8dd237091",
+    "original": "Flinhart's Sister",
+    "translation": "弗林哈特的妹妹",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Effie\",\n  \"display name\": \"Flinhart's Sister\",\n  \"description\": \"Flinhart McCoy’s sister died during an accident involving the local lord and his magic. Ever since then, Flinhart has hated magic and the mages who wield them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C1 Clues.csv::DESCRIPTION TRANSLATION::c5f5b49fe01f66ca",
+    "original": "Flinhart McCoy’s sister died during an accident involving the local lord and his magic. Ever since then, Flinhart has hated magic and the mages who wield them.",
+    "translation": "弗林哈特的妹妹意外死于当地领主的魔法。自那时起，弗林哈特就变得痛恨魔法和法师。",
+    "stage": 1,
+    "context": "{\n  \"reference name\": \"Effie\",\n  \"display name\": \"Flinhart's Sister\",\n  \"description\": \"Flinhart McCoy’s sister died during an accident involving the local lord and his magic. Ever since then, Flinhart has hated magic and the mages who wield them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  }
+]

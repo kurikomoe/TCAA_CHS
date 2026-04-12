@@ -1,0 +1,212 @@
+[
+  {
+    "key": "SaveFile-SaveFile-resources.assets-17128.json-saveMessage",
+    "original": "Overwrite data at this save slot?",
+    "translation": "覆盖此存档的数据？",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-17128.json\",\n  \"tag\": \"saveMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-17128.json-loadMessage",
+    "original": "Load save data at this slot? \r\\nYou might lose unsaved progress.\r",
+    "translation": "加载此存档？$r$n你可能会失去未保存的进度。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-17128.json\",\n  \"tag\": \"loadMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-17128.json-deleteMessage",
+    "original": "Delete the data at this slot?\r\\nYou can’t undo this action.\r",
+    "translation": "删除此存档的数据？$r$n你不能撤销此操作。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-17128.json\",\n  \"tag\": \"deleteMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-16720.json-saveMessage",
+    "original": "Overwrite data at this save slot?",
+    "translation": "覆盖此存档的数据？",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-16720.json\",\n  \"tag\": \"saveMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-16720.json-loadMessage",
+    "original": "Load save data at this slot? \r\\nYou might lose unsaved progress.\r",
+    "translation": "加载此存档？$r$n你可能会失去未保存的进度。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-16720.json\",\n  \"tag\": \"loadMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-16720.json-deleteMessage",
+    "original": "Delete the data at this slot?\r\\nYou can’t undo this action.\r",
+    "translation": "删除此存档的数据？$r$n你不能撤销此操作。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-16720.json\",\n  \"tag\": \"deleteMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-13646.json-saveMessage",
+    "original": "Overwrite data at this save slot?",
+    "translation": "覆盖此存档的数据？",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-13646.json\",\n  \"tag\": \"saveMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-13646.json-loadMessage",
+    "original": "Load save data at this slot? \r\\nYou might lose unsaved progress.\r",
+    "translation": "加载此存档？$r$n你可能会失去未保存的进度。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-13646.json\",\n  \"tag\": \"loadMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-13646.json-deleteMessage",
+    "original": "Delete the data at this slot?\r\\nYou can’t undo this action.\r",
+    "translation": "删除此存档的数据？$r$n你不能撤销此操作。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-13646.json\",\n  \"tag\": \"deleteMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-14071.json-saveMessage",
+    "original": "Overwrite data at this save slot?",
+    "translation": "覆盖此存档的数据？",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-14071.json\",\n  \"tag\": \"saveMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-14071.json-loadMessage",
+    "original": "Load save data at this slot? \r\\nYou might lose unsaved progress.\r",
+    "translation": "加载此存档？$r$n你可能会失去未保存的进度。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-14071.json\",\n  \"tag\": \"loadMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-14071.json-deleteMessage",
+    "original": "Delete the data at this slot?\r\\nYou can’t undo this action.\r",
+    "translation": "删除此存档的数据？$r$n你不能撤销此操作。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-14071.json\",\n  \"tag\": \"deleteMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-15849.json-saveMessage",
+    "original": "Overwrite data at this save slot?",
+    "translation": "覆盖此存档的数据？",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-15849.json\",\n  \"tag\": \"saveMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-15849.json-loadMessage",
+    "original": "Load save data at this slot? \r\\nYou might lose unsaved progress.\r",
+    "translation": "加载此存档？$r$n你可能会失去未保存的进度。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-15849.json\",\n  \"tag\": \"loadMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-15849.json-deleteMessage",
+    "original": "Delete the data at this slot?\r\\nYou can’t undo this action.\r",
+    "translation": "删除此存档的数据？$r$n你不能撤销此操作。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-15849.json\",\n  \"tag\": \"deleteMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-12739.json-saveMessage",
+    "original": "Overwrite data at this save slot?",
+    "translation": "覆盖此存档的数据？",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-12739.json\",\n  \"tag\": \"saveMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-12739.json-loadMessage",
+    "original": "Load save data at this slot? \r\\nYou might lose unsaved progress.\r",
+    "translation": "加载此存档？$r$n你可能会失去未保存的进度。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-12739.json\",\n  \"tag\": \"loadMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-12739.json-deleteMessage",
+    "original": "Delete the data at this slot?\r\\nYou can’t undo this action.\r",
+    "translation": "删除此存档的数据？$r$n你不能撤销此操作。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-12739.json\",\n  \"tag\": \"deleteMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-16949.json-saveMessage",
+    "original": "Overwrite data at this save slot?",
+    "translation": "覆盖此存档的数据？",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-16949.json\",\n  \"tag\": \"saveMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-16949.json-loadMessage",
+    "original": "Load save data at this slot? \r\\nYou might lose unsaved progress.\r",
+    "translation": "加载此存档？$r$n你可能会失去未保存的进度。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-16949.json\",\n  \"tag\": \"loadMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-16949.json-deleteMessage",
+    "original": "Delete the data at this slot?\r\\nYou can’t undo this action.\r",
+    "translation": "删除此存档的数据？$r$n你不能撤销此操作。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-16949.json\",\n  \"tag\": \"deleteMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-13985.json-saveMessage",
+    "original": "Overwrite data at this save slot?",
+    "translation": "覆盖此存档的数据？",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-13985.json\",\n  \"tag\": \"saveMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-13985.json-loadMessage",
+    "original": "Load save data at this slot? \r\\nYou might lose unsaved progress.\r",
+    "translation": "加载此存档？$r$n你可能会失去未保存的进度。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-13985.json\",\n  \"tag\": \"loadMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-13985.json-deleteMessage",
+    "original": "Delete the data at this slot?\r\\nYou can’t undo this action.\r",
+    "translation": "删除此存档的数据？$r$n你不能撤销此操作。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-13985.json\",\n  \"tag\": \"deleteMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-16639.json-saveMessage",
+    "original": "Overwrite data at this save slot?",
+    "translation": "覆盖此存档的数据？",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-16639.json\",\n  \"tag\": \"saveMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-16639.json-loadMessage",
+    "original": "Load save data at this slot? \r\\nYou might lose unsaved progress.\r",
+    "translation": "加载此存档？$r$n你可能会失去未保存的进度。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-16639.json\",\n  \"tag\": \"loadMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-16639.json-deleteMessage",
+    "original": "Delete the data at this slot?\r\\nYou can’t undo this action.\r",
+    "translation": "删除此存档的数据？$r$n你不能撤销此操作。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-16639.json\",\n  \"tag\": \"deleteMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-15489.json-saveMessage",
+    "original": "Overwrite data at this save slot?",
+    "translation": "覆盖此存档的数据？",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-15489.json\",\n  \"tag\": \"saveMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-15489.json-loadMessage",
+    "original": "Load save data at this slot? \r\\nYou might lose unsaved progress.\r",
+    "translation": "加载此存档？$r$n你可能会失去未保存的进度。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-15489.json\",\n  \"tag\": \"loadMessage\"\n}"
+  },
+  {
+    "key": "SaveFile-SaveFile-resources.assets-15489.json-deleteMessage",
+    "original": "Delete the data at this slot?\r\\nYou can’t undo this action.\r",
+    "translation": "删除此存档的数据？$r$n你不能撤销此操作。$r",
+    "stage": 5,
+    "context": "{\n  \"file\": \"SaveFile-resources.assets-15489.json\",\n  \"tag\": \"deleteMessage\"\n}"
+  }
+]

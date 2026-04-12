@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 2-8-The Headmaster's Actions-displayName",
+    "original": "The Headmaster's Actions",
+    "translation": "校长的行动",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"The Headmaster's Actions\",\n  \"Idx\": 8,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 2-8-The Headmaster's Actions-description",
+    "original": "The headmaster activated the academy’s lockdown system in response to receiving a call from security. This call reported that Catherine Bellwether had been fatally wounded.",
+    "translation": "由于安保部门的传讯，校长激活了学院的封锁系统。传讯里说凯瑟琳·贝尔维瑟受了致命伤。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"The Headmaster's Actions\",\n  \"Idx\": 8,\n  \"Attr\": \"description\"\n}"
+  }
+]

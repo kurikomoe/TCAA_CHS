@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Executor-displayName",
+    "original": "Executor",
+    "translation": "遗嘱执行人",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Executor\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Executor-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Executor\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Executor-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Executor\",\n  \"Attr\": \"arcaneArt\"\n}"
+  },
+  {
+    "key": "Executor-occupation",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Executor\",\n  \"Attr\": \"occupation\"\n}"
+  }
+]

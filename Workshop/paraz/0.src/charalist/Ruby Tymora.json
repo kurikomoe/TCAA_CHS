@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Ruby Tymora-displayName",
+    "original": "Ruby Tymora",
+    "translation": "鲁比·泰摩拉",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Ruby Tymora\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Ruby Tymora-description",
+    "original": "An infamous defense attorney who defends mages among the commonfolk. She's deeply hated by the nobility, and she's been the center of many rumours that accuse her of participating in forgery, bribery, and blackmail.",
+    "translation": "臭名昭著的为平民法师辩护的律师。她痛恨贵族。与此同时，她一直身处伪造证据、贿赂、勒索等谣言的中心。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Ruby Tymora\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Ruby Tymora-occupation",
+    "original": "Attorney",
+    "translation": "律师",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Ruby Tymora\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Ruby Tymora-arcaneArt",
+    "original": "None",
+    "translation": "无",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Ruby Tymora\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

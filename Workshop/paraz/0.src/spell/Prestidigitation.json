@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-2-Prestidigitation-displayName",
+    "original": "Prestidigitation",
+    "translation": "魔术戏法",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Prestidigitation\",\n  \"Idx\": 2,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "SpellLibrary-2-Prestidigitation-description",
+    "original": "The caster creates a simple and harmless visual effect around their hand. This effect will last for as long as they maintain concentration on this spell.",
+    "translation": "施法者在自己手上创造简易无害的幻象。集中注意力施法期间，幻象会一直有效。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Prestidigitation\",\n  \"Idx\": 2,\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "SpellLibrary-2-Prestidigitation-incantation",
+    "original": "None",
+    "translation": "无",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Prestidigitation\",\n  \"Idx\": 2,\n  \"Attr\": \"incantation\"\n}"
+  },
+  {
+    "key": "SpellLibrary-2-Prestidigitation-gesture",
+    "original": "A snap of the fingers",
+    "translation": "打个响指",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Prestidigitation\",\n  \"Idx\": 2,\n  \"Attr\": \"gesture\"\n}"
+  },
+  {
+    "key": "SpellLibrary-2-Prestidigitation-duration",
+    "original": "Indefinitely",
+    "translation": "无限期",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Prestidigitation\",\n  \"Idx\": 2,\n  \"Attr\": \"duration\"\n}"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "key": "MetaData-name-0-Evocation",
+    "original": "Evocation",
+    "translation": "塑能术",
+    "stage": 5,
+    "context": "{\n  \"Name\": \"Evocation\",\n  \"Attr\": \"spellSchool\",\n  \"Order\": 0\n}"
+  },
+  {
+    "key": "MetaData-name-1-Transmutation",
+    "original": "Transmutation",
+    "translation": "形变术",
+    "stage": 5,
+    "context": "{\n  \"Name\": \"Transmutation\",\n  \"Attr\": \"spellSchool\",\n  \"Order\": 1\n}"
+  },
+  {
+    "key": "MetaData-name-2-Conjuration",
+    "original": "Conjuration",
+    "translation": "召唤术",
+    "stage": 5,
+    "context": "{\n  \"Name\": \"Conjuration\",\n  \"Attr\": \"spellSchool\",\n  \"Order\": 2\n}"
+  },
+  {
+    "key": "MetaData-name-3-Divination",
+    "original": "Divination",
+    "translation": "占卜术",
+    "stage": 5,
+    "context": "{\n  \"Name\": \"Divination\",\n  \"Attr\": \"spellSchool\",\n  \"Order\": 3\n}"
+  },
+  {
+    "key": "MetaData-name-4-Illusion",
+    "original": "Illusion",
+    "translation": "幻象术",
+    "stage": 5,
+    "context": "{\n  \"Name\": \"Illusion\",\n  \"Attr\": \"spellSchool\",\n  \"Order\": 4\n}"
+  },
+  {
+    "key": "MetaData-name-5-Abjuration",
+    "original": "Abjuration",
+    "translation": "防护术",
+    "stage": 5,
+    "context": "{\n  \"Name\": \"Abjuration\",\n  \"Attr\": \"spellSchool\",\n  \"Order\": 5\n}"
+  },
+  {
+    "key": "MetaData-name-6-Necromancy",
+    "original": "Necromancy",
+    "translation": "死灵术",
+    "stage": 5,
+    "context": "{\n  \"Name\": \"Necromancy\",\n  \"Attr\": \"spellSchool\",\n  \"Order\": 6\n}"
+  }
+]

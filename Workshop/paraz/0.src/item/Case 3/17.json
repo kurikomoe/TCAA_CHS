@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 3-17-Metal Shards-displayName",
+    "original": "Metallic Shards",
+    "translation": "金属碎片",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Metal Shards\",\n  \"Idx\": 17,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 3-17-Metal Shards-description",
+    "original": "A large, unknown metal object fell into the vat around the time that Justin Waye fell into it. The magical liquid reduced it to several small metallic shards.",
+    "translation": "在贾斯汀坠落时间附近，一块未知的大型金属也落入桶中。魔法液体将之化为了数小块金属碎片。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Metal Shards\",\n  \"Idx\": 17,\n  \"Attr\": \"description\"\n}"
+  }
+]

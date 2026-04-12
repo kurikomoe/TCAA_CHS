@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Gallery-displayName",
+    "original": "Gallery",
+    "translation": "旁听席",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Gallery\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Gallery-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Gallery\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Gallery-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Gallery\",\n  \"Attr\": \"arcaneArt\"\n}"
+  },
+  {
+    "key": "Gallery-occupation",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Gallery\",\n  \"Attr\": \"occupation\"\n}"
+  }
+]

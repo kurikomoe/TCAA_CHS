@@ -1,0 +1,30 @@
+[
+  {
+    "key": "CSteel-displayName",
+    "original": "Celeste \"Steelwind\"",
+    "translation": "塞莱斯特·“斯蒂尔文德”",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"CSteel\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "CSteel-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"CSteel\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "CSteel-occupation",
+    "original": "Bodyguard",
+    "translation": "贴身护卫",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"CSteel\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "CSteel-arcaneArt",
+    "original": "Transmutation",
+    "translation": "形变术",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"CSteel\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

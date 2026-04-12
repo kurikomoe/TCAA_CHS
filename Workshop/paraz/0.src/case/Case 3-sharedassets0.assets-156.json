@@ -1,0 +1,506 @@
+[
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-RikaObj3_1-16-0",
+    "original": "This was clearly an accident.",
+    "translation": "这\\u200B明显\\u200B是起\\u200B事故",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"RikaObj3_1\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"This was clearly an accident.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-22-0",
+    "original": "Which piece of evidence would connect the murder to von Sanctus?",
+    "translation": "哪件证据\\u200B把\\u200B谋杀\\u200B与\\u200B冯·桑克图斯\\u200B联系起来\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Which piece of evidence would connect the murder to von Sanctus?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-26-0",
+    "original": "The object,The Rod of Mending,The vat,The guard rail",
+    "translation": "与,不与,把",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The object,The Rod of Mending,The vat,The guard rail\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-27-0",
+    "original": "that,that,that",
+    "translation": "洛伊德·冯·桑克图斯,贾斯汀·维耶,斯蒂芬尼克·德拉科根,莫苏里卡·都铎",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"that,that,that\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-28-0",
+    "original": "Lloyd von Sanctus,Justin Waye,Stefanic Dracogen,Mosourika Tudor",
+    "translation": "绑定的,破损的,偷窃的,掉落的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"Lloyd von Sanctus,Justin Waye,Stefanic Dracogen,Mosourika Tudor\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-29-0",
+    "original": "attuned to,broke,stole,fell into",
+    "translation": "物体,修复之杖,桶,护栏",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"attuned to,broke,stole,fell into\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-BeforeEmpEye_2-30-0",
+    "original": "Which piece of evidence would connect the murder to von Sanctus?",
+    "translation": "哪件证据把谋杀与冯·桑克图斯联系起来？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeforeEmpEye_2\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Which piece of evidence would connect the murder to von Sanctus?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-RikaC2B_Obj_1-19-0",
+    "original": "Who sent the Arcane Construct?",
+    "translation": "谁\\u200B送来的\\u200B奥术\\u200B构造体\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"RikaC2B_Obj_1\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Who sent the Arcane Construct?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered2-4-0",
+    "original": "I've sold Constructs to other individuals.",
+    "translation": "我\\u200B也\\u200B卖给\\u200B其他人\\u200B构造体\\u200B了",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"SanctusCornered2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I've sold Constructs to other individuals.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-end5-4-0",
+    "original": "Episode End",
+    "translation": "章节结束",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"end5\",\n  \"cmd\": [\n    \"TitleCard\",\n    \"Episode End\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered3-3-0",
+    "original": "The saboteur could be someone who secretly entered Aurinax",
+    "translation": "破坏者\\u200B可能是\\u200B偷偷\\u200B潜入\\u200B欧奥耐克斯\\u200B的\\u200B人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"SanctusCornered3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"The saboteur could be someone who secretly entered Aurinax\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered-11-0",
+    "original": "Someone else could have sent that Construct!",
+    "translation": "也\\u200B可能\\u200B是\\u200B别人\\u200B把\\u200B构造体\\u200B送来的\\u200B！",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"SanctusCornered\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Someone else could have sent that Construct!\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument3-2-0",
+    "original": "He always kept his past a secret from me.",
+    "translation": "他\\u200B一直\\u200B不告诉我\\u200B自己的\\u200B过去",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Rika_Argument3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"He always kept his past a secret from me.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-4-0",
+    "original": "How did metallic shards appear in the vat?",
+    "translation": "金属碎片\\u200B怎么\\u200B出现在\\u200B桶里\\u200B的\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did metallic shards appear in the vat?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-7-0",
+    "original": "A metal object,Justin Waye,Mosourika Tudor,The killer",
+    "translation": "金属物体,贾斯汀·维耶,莫苏里卡·都铎,凶手",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"A metal object,Justin Waye,Mosourika Tudor,The killer\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-8-0",
+    "original": "was thrown into,jumped into,sabotaged,murdered",
+    "translation": "被扔进,跳进,破坏,杀害",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"was thrown into,jumped into,sabotaged,murdered\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-9-0",
+    "original": "the vat,the killer,Justin Waye,the refinery",
+    "translation": "桶里,杀手,贾斯汀·维耶,精炼厂",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the vat,the killer,Justin Waye,the refinery\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce-10-0",
+    "original": "How did metallic shards appear in the vat?",
+    "translation": "金属碎片怎么出现在桶里的？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did metallic shards appear in the vat?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument4-7-0",
+    "original": "There wasn't anything strange about the way he was acting.",
+    "translation": "他的举动\\u200B没有\\u200B任何\\u200B异常",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Rika_Argument4\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"There wasn't anything strange about the way he was acting.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Sanctus_Interpret2-0-0",
+    "original": "If only... It would be too dangerous to sell it to anyone else...",
+    "translation": "除非……卖给别人太危险了……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Sanctus_Interpret2\",\n  \"cmd\": [\n    \"InterpretPrompt\",\n    \"If only... It would be too dangerous to sell it to anyone else...\",\n    \"Fear\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Check_Events_House-68-0",
+    "original": "5 minutes later",
+    "translation": "5 分钟后",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_House\",\n  \"cmd\": [\n    \"TitleCard\",\n    \"5 minutes later\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Start-9-0",
+    "original": "Episode III/nThe Origins of Horus",
+    "translation": "第三章/n荷鲁斯之源",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Start\",\n  \"cmd\": [\n    \"TitleCard\",\n    \"Episode III/nThe Origins of Horus\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-RikaArgument_Fail-6-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"RikaArgument_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-13-0",
+    "original": "How could von Sanctus easily destroy the evidence?",
+    "translation": "冯·桑克图斯\\u200B为什么\\u200B能\\u200B轻易\\u200B破坏证据\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How could von Sanctus easily destroy the evidence?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-18-0",
+    "original": "The evidence,Justin Waye,The Rod of Mending,The guard rail",
+    "translation": "证据,贾斯汀·维耶,修复之杖,护栏",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The evidence,Justin Waye,The Rod of Mending,The guard rail\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-19-0",
+    "original": "was thrown,was hidden,was stolen,was taken back",
+    "translation": "被扔进,被藏到,被偷窃,被拿回",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"was thrown,was hidden,was stolen,was taken back\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-20-0",
+    "original": "into the vat,to the Manor,from the Refinery",
+    "translation": "装有腐蚀性液体的,冯·桑克图斯的,德拉科根的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"into the vat,to the Manor,from the Refinery\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-21-0",
+    "original": "of volatile liquid,of Von Sanctus,owned by Dracogen",
+    "translation": "桶里,庄园里,精炼厂里",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"of volatile liquid,of Von Sanctus,owned by Dracogen\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce2-22-0",
+    "original": "How could von Sanctus easily destroy the evidence?",
+    "translation": "冯·桑克图斯为什么能轻易破坏证据？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce2\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How could von Sanctus easily destroy the evidence?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-29-0",
+    "original": "Why did von Sanctus sabotage the guard rail?",
+    "translation": "为什么\\u200B冯·桑克图斯\\u200B要\\u200B破坏\\u200B护栏\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce6\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why did von Sanctus sabotage the guard rail?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-33-0",
+    "original": "Von Sanctus wanted,Dracogen wanted,Justin wanted,Mosourika wanted",
+    "translation": "冯·桑克图斯想让,德拉科根想让,贾斯汀想让,莫苏里卡想让",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Von Sanctus wanted,Dracogen wanted,Justin wanted,Mosourika wanted\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-34-0",
+    "original": "Justin's death,The broken guard rail,The sabotage,The Construct",
+    "translation": "贾斯汀之死,坏掉的护栏,动的手脚,构造体",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"Justin's death,The broken guard rail,The sabotage,The Construct\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-35-0",
+    "original": "to look like,to be hidden from,to send a message to",
+    "translation": "看起来像,被藏到,传递",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"to look like,to be hidden from,to send a message to\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-36-0",
+    "original": "an accident,nothing,The Inquisition,Stefanic Dracogen",
+    "translation": "一起事故,没事,裁判所,斯蒂芬尼克·德拉科根",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"an accident,nothing,The Inquisition,Stefanic Dracogen\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce6-37-0",
+    "original": "Why did von Sanctus sabotage the guard rail?",
+    "translation": "为什么冯·桑克图斯要破坏护栏？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce6\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why did von Sanctus sabotage the guard rail?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce4-20-0",
+    "original": "What piece of evidence would von Sanctus also dispose of?",
+    "translation": "冯·桑克图斯\\u200B还想\\u200B破坏\\u200B什么\\u200B证据\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What piece of evidence would von Sanctus also dispose of?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce4-23-0",
+    "original": "The Guard Rail,The Arcane Construct,Any Witnesses,Justin Waye",
+    "translation": "护栏,奥术构造体,目击证人,贾斯汀·维耶",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The Guard Rail,The Arcane Construct,Any Witnesses,Justin Waye\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Last_Deduce4-24-0",
+    "original": "What piece of evidence would von Sanctus also dispose of?",
+    "translation": "冯·桑克图斯还想破坏什么证据？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Last_Deduce4\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What piece of evidence would von Sanctus also dispose of?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-5-0",
+    "original": "Why wasn't the metal object fully destroyed?",
+    "translation": "为什么\\u200B金属物体\\u200B没有被\\u200B摧毁\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why wasn't the metal object fully destroyed?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-8-0",
+    "original": "The vat liquid,Noah Morrison,Justin Waye,Stefanic Dracogen",
+    "translation": "桶里的液体,诺亚·莫里森,贾斯汀·维耶,斯蒂芬尼克·德拉科根",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The vat liquid,Noah Morrison,Justin Waye,Stefanic Dracogen\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-9-0",
+    "original": "was neutralized,died,fell into the vat,called for help",
+    "translation": "在事故通报,在莫苏里卡到场,在精炼厂开门,在奥蒙抵达",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"was neutralized,died,fell into the vat,called for help\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-10-0",
+    "original": "shortly after,shortly before,today,the night of",
+    "translation": "之后不久,之前不久,今天,今晚",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"shortly after,shortly before,today,the night of\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-11-0",
+    "original": "the accident was reported,Mosourika arrived,the refinery opened,Orym arrived",
+    "translation": "被中和,死亡,掉进桶里,寻求帮助",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the accident was reported,Mosourika arrived,the refinery opened,Orym arrived\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce5-12-0",
+    "original": "Why didn't the metal object fully dissolve?",
+    "translation": "为什么金属物体没有完全溶解？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce5\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why didn't the metal object fully dissolve?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument2-3-0",
+    "original": "I only helped him because I'm a generous person.",
+    "translation": "我\\u200B只是\\u200B因为\\u200B乐于助人\\u200B才\\u200B帮他\\u200B的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Rika_Argument2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I only helped him because I'm a generous person.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-5-0",
+    "original": "What [i]should[/i] the magical liquid have done to the object?",
+    "translation": "魔法液体\\u200B[i]理应[/i]\\u200B将物体\\u200B怎样\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What [i]should[/i] the magical liquid have done to the object?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-9-0",
+    "original": "The vat liquid,Justin Waye,Stefanic Dracogen,Mosourika Tudor",
+    "translation": "桶里的液体,贾斯汀·维耶,斯蒂芬尼克·德拉科根,莫苏里卡·都铎",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The vat liquid,Justin Waye,Stefanic Dracogen,Mosourika Tudor\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-10-0",
+    "original": "should have completely,should have partially,should not have",
+    "translation": "本应彻底,本应部分,本不应",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"should have completely,should have partially,should not have\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-11-0",
+    "original": "destroyed,sabotaged,saved,killed",
+    "translation": "摧毁,动手脚,拯救,杀害",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"destroyed,sabotaged,saved,killed\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-12-0",
+    "original": "the metal object,the guard rail,Justin Waye,the vat liquid",
+    "translation": "金属物体,护栏,贾斯汀·维耶,桶里的液体",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the metal object,the guard rail,Justin Waye,the vat liquid\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-VatDeduce3-13-0",
+    "original": "What [i]should[/i] the magical liquid have done to the object?",
+    "translation": "魔法液体<u>理应</u>将物体怎样？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"VatDeduce3\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What [i]should[/i] the magical liquid have done to the object?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-5-0",
+    "original": "What was the intention of weakening the guard rails?",
+    "translation": "对\\u200B护栏\\u200B动手脚\\u200B的\\u200B目的是\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What was the intention of weakening the guard rails?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-9-0",
+    "original": "The unknown mage,Justin Waye,Stefanic Dracogen",
+    "translation": "未知的法师,贾斯汀·维耶,斯蒂芬尼克·德拉科根",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The unknown mage,Justin Waye,Stefanic Dracogen\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-10-0",
+    "original": "wanted,didn't want,accidentally caused",
+    "translation": "想要,不想要,意外导致",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"wanted,didn't want,accidentally caused\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-11-0",
+    "original": "someone to fall,someone to discover,Stefanic to fall",
+    "translation": "有人落入,有人发现,斯蒂芬尼克落入",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"someone to fall,someone to discover,Stefanic to fall\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-12-0",
+    "original": "into the vat,off of the walkway,the body",
+    "translation": "桶里,走廊下,尸体",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"into the vat,off of the walkway,the body\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce3-13-0",
+    "original": "How did the transmutation spell affect the guard rail?",
+    "translation": "对护栏动手脚的目的是？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce3\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the transmutation spell affect the guard rail?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-6-0",
+    "original": "Start an ARGUMENT with Mosourika Tudor?",
+    "translation": "是否开始与莫苏里卡·都铎辩论？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Rika_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Mosourika Tudor?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-9-0",
+    "original": "Start an ARGUMENT with Mosourika Tudor?/nYou haven't completed her PSYCHOLOGICAL PROFILE.",
+    "translation": "是否开始与莫苏里卡·都铎辩论？/n你尚未了解她的心理档案。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Rika_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Mosourika Tudor?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-33-0",
+    "original": "Mosourika Tudor will perform questionable acts to protect the people she cares about. She has your best interests at heart and will always act in a way that she thinks is beneficial for your well-being./n/nShe isn’t very good at deception. She will often revert to her dramatic “chuuni” personality when trying to hide the truth from you.",
+    "translation": "莫苏里卡·都铎会不择手段保护自己珍视的人。她了解什么对你有利，会按照自己认为对你最好的原则行动。/n/n她不擅长骗人，试图隐瞒真相而撒谎的时候会变为“中二”人格。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Rika_Argument\",\n  \"cmd\": [\n    \"LoadArgueProfile\",\n    \"Mosourika Tudor will perform questionable acts to protect the people she cares about. She has your best interests at heart and will always act in a way that she thinks is beneficial for your well-being./n/nShe isn’t very good at deception. She will often revert to her dramatic “chuuni” personality when trying to hide the truth from you.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-40-0",
+    "original": "I wasn't that close to Justin Waye.",
+    "translation": "我和\\u200B贾斯汀·维耶\\u200B没\\u200B那么\\u200B熟",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Rika_Argument\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I wasn't that close to Justin Waye.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered_Fail-3-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"SanctusCornered_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-3-0",
+    "original": "How did the transmutation spell affect the guard rail?",
+    "translation": "形变系\\u200B魔法\\u200B对\\u200B护栏\\u200B有\\u200B什么影响\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the transmutation spell affect the guard rail?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-7-0",
+    "original": "The spell,Justin Waye,The rust,Stefanic Dracogen",
+    "translation": "法术,贾斯汀·维耶,锈迹,斯蒂芬尼克·德拉科根",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The spell,Justin Waye,The rust,Stefanic Dracogen\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-8-0",
+    "original": "weakened,strengthened,repaired,covered",
+    "translation": "削弱了,加强了,修复了,掩盖了",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"weakened,strengthened,repaired,covered\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-9-0",
+    "original": "the structural integrity of,the corrosiveness of,the body of,the business of",
+    "translation": "护栏的,化合桶的,走廊的,贾斯汀·维耶的,斯蒂芬尼克·德拉科根的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the structural integrity of,the corrosiveness of,the body of,the business of\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-10-0",
+    "original": "the guard rails,the chemical vat,the walkway,Justin Waye,Stefanic Dracogen",
+    "translation": "结构完整性,腐蚀性,尸体,生意",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the guard rails,the chemical vat,the walkway,Justin Waye,Stefanic Dracogen\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-WalkwayDeduce-11-0",
+    "original": "How did the transmutation spell affect the guard rail?",
+    "translation": "形变系魔法对护栏有什么影响？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WalkwayDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the transmutation spell affect the guard rail?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Interpret-0-0",
+    "original": "It's sort of true... We knew each other for years before he told me about it.",
+    "translation": "也不全错……他对我坦白之前，我们已经认识几年了。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Rika_Interpret\",\n  \"cmd\": [\n    \"InterpretPrompt\",\n    \"It's sort of true... We knew each other for years before he told me about it.\",\n    \"Sad\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-Rika_Argument-26-0",
+    "original": "Mosourika Tudor",
+    "translation": "莫苏里卡·都铎",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Rika_Argument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Mosourika Tudor\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-psychComplete-Mosourika Tudor",
+    "original": "Mosourika Tudor",
+    "translation": "莫苏里卡·都铎",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_Cafe\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
+  },
+  {
+    "key": "Case 3-sharedassets0.assets-156.json-SanctusCornered-0-0",
+    "original": "Lloyd von Sanctus",
+    "translation": "洛伊德·冯·桑克图斯",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"SanctusCornered\",\n  \"cmd\": [\n    \"CorneredWitness\",\n    \"Lloyd von Sanctus\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
+  }
+]

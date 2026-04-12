@@ -1,0 +1,30 @@
+[
+  {
+    "key": "FEris-displayName",
+    "original": "Empress of Discord",
+    "translation": "无序女皇",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"FEris\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "FEris-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"FEris\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "FEris-occupation",
+    "original": "Lord of the Sixth",
+    "translation": "第六层领主",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"FEris\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "FEris-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"FEris\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

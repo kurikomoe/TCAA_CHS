@@ -1,0 +1,158 @@
+[
+  {
+    "key": "Confirmations.csv::TRANSLATION::a5605786985d6683",
+    "original": "Remapping Input for: ",
+    "translation": "",
+    "context": "{\n  \"name\": \"Remap Header\",\n  \"text\": \"Remapping Input for: \",\n  \"comments\": \"Shown when the player tries to remap in input in the Settings Menu\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::b2179ab68e0a2a27",
+    "original": "Press any button to remap this Input.",
+    "translation": "",
+    "context": "{\n  \"name\": \"Remap Message\",\n  \"text\": \"Press any button to remap this Input.\",\n  \"comments\": \"Shown when the player tries to remap in input in the Settings Menu\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::de79f31b02bad503",
+    "original": "Clearing Input for: ",
+    "translation": "",
+    "context": "{\n  \"name\": \"Clear Header\",\n  \"text\": \"Clearing Input for: \",\n  \"comments\": \"Shown when the player tries to remap in input in the Settings Menu\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::0ac5c6127781f12a",
+    "original": "Are you sure you want to clear this input?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Clear Message\",\n  \"text\": \"Are you sure you want to clear this input?\",\n  \"comments\": \"Shown when the player tries to remap in input in the Settings Menu\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::1f6da1417909256e",
+    "original": "Return to the Title Screen?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Title Screen Header\",\n  \"text\": \"Return to the Title Screen?\",\n  \"comments\": \"Shown when the player attempts to return to the title screen.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::d9831171eca86a12",
+    "original": "You may lose unsaved progress.",
+    "translation": "",
+    "context": "{\n  \"name\": \"Title Screen Message\",\n  \"text\": \"You may lose unsaved progress.\",\n  \"comments\": \"Shown when the player attempts to return to the title screen.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::f25bd3c2793f35f3",
+    "original": "Close the application?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Quit Game Header\",\n  \"text\": \"Close the application?\",\n  \"comments\": \"Shown when the player attempts to close the application.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::0fe5c3bf16c63ed4",
+    "original": "Save data to this slot?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Save Header\",\n  \"text\": \"Save data to this slot?\",\n  \"comments\": \"Shown when the player attempts to save on the Save Menu\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::ed5e817a6b7dabaf",
+    "original": "You will overwrite any data stored at this slot.",
+    "translation": "",
+    "context": "{\n  \"name\": \"Save Message\",\n  \"text\": \"You will overwrite any data stored at this slot.\",\n  \"comments\": \"Shown when the player attempts to save on the Save Menu\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::58a3ee5a17bf37b5",
+    "original": "Delete save data from this slot?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Delete Save Header\",\n  \"text\": \"Delete save data from this slot?\",\n  \"comments\": \"Shown when the player attempts to delete a save on the Save Menu\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::ad25261d32e5ec73",
+    "original": "This cannot be undone.",
+    "translation": "",
+    "context": "{\n  \"name\": \"Delete Save Message\",\n  \"text\": \"This cannot be undone.\",\n  \"comments\": \"Shown when the player attempts to delete a save on the Save Menu\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::a08852e05d095b2e",
+    "original": "Load saved data from this slot?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Load Save Header\",\n  \"text\": \"Load saved data from this slot?\",\n  \"comments\": \"Shown when the player attempts to load a save on the Save Menu\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::258eb4cc00cbeead",
+    "original": "Start ARGUMENT?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Argument Start Header\",\n  \"text\": \"Start ARGUMENT?\",\n  \"comments\": \"Shown when the player is about to start an ARGUMENT during an investigation\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::cada42198ccf65f1",
+    "original": "Start an ARGUMENT with /x/?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Argument Start Message\",\n  \"text\": \"Start an ARGUMENT with /x/?\",\n  \"comments\": \"Shown when the player is about to start an ARGUMENT during an investigation\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::3de5b66f5d8db829",
+    "original": "The Psychological Profile is incomplete.",
+    "translation": "",
+    "context": "{\n  \"name\": \"Argument No Profile\",\n  \"text\": \"The Psychological Profile is incomplete.\",\n  \"comments\": \"Shown when the player is about to start an ARGUMENT during an investigation. This message is added when the player hasn't completed the opponent's psychological profile.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::c06d364329196fbb",
+    "original": "Argument Failed",
+    "translation": "",
+    "context": "{\n  \"name\": \"Argument Fail Header\",\n  \"text\": \"Argument Failed\",\n  \"comments\": \"Shown when the player fails an Argument against an opponent\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::413ed0eb828a9b5b",
+    "original": "You failed to persuade your opponent...",
+    "translation": "",
+    "context": "{\n  \"name\": \"Argument Fail Message\",\n  \"text\": \"You failed to persuade your opponent...\",\n  \"comments\": \"Shown when the player fails an Argument against an opponent\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::02fdb88f7b0bce52",
+    "original": "Dispositions Failed",
+    "translation": "",
+    "context": "{\n  \"name\": \"Final Fail Header\",\n  \"text\": \"Dispositions Failed\",\n  \"comments\": \"Shown when the player fails the final Argument against the Empress of Discord.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::cd0566248282eb7a",
+    "original": "Your soul has been claimed by the Abyss...",
+    "translation": "",
+    "context": "{\n  \"name\": \"Final Fail Message\",\n  \"text\": \"Your soul has been claimed by the Abyss...\",\n  \"comments\": \"Shown when the player fails the final Argument against the Empress of Discord.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::8ea67e2f518cf814",
+    "original": "Delete Workshop Item?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Delete Steam Header\",\n  \"text\": \"Delete Workshop Item?\",\n  \"comments\": \"Shown when the player tries to delete a Steam Workshop Item.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::a762759e6f6d21e0",
+    "original": "Save your progress?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Act Break Header\",\n  \"text\": \"Save your progress?\",\n  \"comments\": \"Shown when the game moves to the next session of a Case and prompts the player to save.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::bb0f3c4d5e519eb7",
+    "original": "Would you like to save your progress?",
+    "translation": "",
+    "context": "{\n  \"name\": \"Act Break Message\",\n  \"text\": \"Would you like to save your progress?\",\n  \"comments\": \"Shown when the game moves to the next session of a Case and prompts the player to save.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::1fa9481d577e4e79",
+    "original": "Play Episode?",
+    "translation": "",
+    "context": "{\n  \"name\": \"New Game Header\",\n  \"text\": \"Play Episode?\",\n  \"comments\": \"Shown when the player attempts to start a Case from a fresh save file.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::d75ae99db7eba762",
+    "original": "You are about to start \\n/x/.",
+    "translation": "",
+    "context": "{\n  \"name\": \"New Game Message\",\n  \"text\": \"You are about to start \\\\n/x/.\",\n  \"comments\": \"Shown when the player attempts to start a Case from a fresh save file.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::dfda67d0b084ccc8",
+    "original": "Episode Unavailable",
+    "translation": "",
+    "context": "{\n  \"name\": \"Demo Episode Header\",\n  \"text\": \"Episode Unavailable\",\n  \"comments\": \"Shown in the demo when the player attempts to start Cases 2-5.\"\n}"
+  },
+  {
+    "key": "Confirmations.csv::TRANSLATION::12579f376ca24ac4",
+    "original": "You must purchase the full game to play this episode.",
+    "translation": "",
+    "context": "{\n  \"name\": \"Demo Episode Message\",\n  \"text\": \"You must purchase the full game to play this episode.\",\n  \"comments\": \"Shown in the demo when the player attempts to start Cases 2-5.\"\n}"
+  }
+]

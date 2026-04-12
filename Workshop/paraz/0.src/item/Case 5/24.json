@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 5-24-Debris Near the Balcony-displayName",
+    "original": "Debris Near the Balcony",
+    "translation": "阳台附近的残片。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Debris Near the Balcony\",\n  \"Idx\": 24,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 5-24-Debris Near the Balcony-description",
+    "original": "You found some bits of earth-like debris near the west-ward balcony. They have traces of <b>transmutation</b> magic on them. This also happens to be where Theon Archeus saw Aria Steelwind dumping Coraline Sibyl’s body.",
+    "translation": "你在西侧阳台附近找到的土块残片，上面附着有<b>形变术</b>魔法的痕迹。这里也是阿莉亚·斯蒂尔文德被希恩·阿契厄斯目击，丢弃卡洛琳·希比尔尸体的地方。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Debris Near the Balcony\",\n  \"Idx\": 24,\n  \"Attr\": \"description\"\n}"
+  }
+]

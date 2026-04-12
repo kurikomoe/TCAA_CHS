@@ -1,0 +1,344 @@
+[
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::a38eb0647e3f1cf8",
+    "original": "Imperial Academy Map",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Map\",\n  \"display name\": \"Imperial Academy Map\",\n  \"description\": \"A map of the Imperial Academy. It displays the general area where Catherine Bellwether was seen that day.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::fc93b3da9fd7278f",
+    "original": "A map of the Imperial Academy. It displays the general area where Catherine Bellwether was seen that day.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Map\",\n  \"display name\": \"Imperial Academy Map\",\n  \"description\": \"A map of the Imperial Academy. It displays the general area where Catherine Bellwether was seen that day.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::8906ed0b62d14cc9",
+    "original": "Foul Classroom Smell",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Foul\",\n  \"display name\": \"Foul Classroom Smell\",\n  \"description\": \"Weeks ago, the headmaster performed an alchemy experiment incorrectly in Lecture Hall 2-B. The resulting chemical reaction produced a rancid yet harmless vapour that still lingers in the room.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::4454973dd3050bf0",
+    "original": "Weeks ago, the headmaster performed an alchemy experiment incorrectly in Lecture Hall 2-B. The resulting chemical reaction produced a rancid yet harmless vapour that still lingers in the room.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Foul\",\n  \"display name\": \"Foul Classroom Smell\",\n  \"description\": \"Weeks ago, the headmaster performed an alchemy experiment incorrectly in Lecture Hall 2-B. The resulting chemical reaction produced a rancid yet harmless vapour that still lingers in the room.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::cf2aac2a763a0c81",
+    "original": "Bloodstain Under the Body",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Blood\",\n  \"display name\": \"Bloodstain Under the Body\",\n  \"description\": \"There is a pool of blood where Catherine Bellwether’s body was. The location implies that she bled from her abdominal area.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::e6838647e34ef4a7",
+    "original": "There is a pool of blood where Catherine Bellwether’s body was. The location implies that she bled from her abdominal area.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Blood\",\n  \"display name\": \"Bloodstain Under the Body\",\n  \"description\": \"There is a pool of blood where Catherine Bellwether’s body was. The location implies that she bled from her abdominal area.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::SERIES TRANSLATION::24652e28b94087f3",
+    "original": "Blood",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Blood\",\n  \"display name\": \"Bloodstain Under the Body\",\n  \"description\": \"There is a pool of blood where Catherine Bellwether’s body was. The location implies that she bled from her abdominal area.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::359dced988bc9fdc",
+    "original": "There is a pool of blood where Catherine Bellwether’s body was. This is strange because she wouldn’t have been wounded by <b>Necrotic Blight</b>.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Blood2\",\n  \"display name\": \"Bloodstain Under the Body\",\n  \"description\": \"There is a pool of blood where Catherine Bellwether’s body was. This is strange because she wouldn’t have been wounded by <b>Necrotic Blight</b>.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::10eddd07cc531155",
+    "original": "Who Discovered the Body?",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Discover\",\n  \"display name\": \"Who Discovered the Body?\",\n  \"description\": \"The body was discovered in Lecture Hall 2-B by Valentina and Valerie Ianus: two members of the kitchen staff. According to Commander Orym White, they were being hyperactive during questioning.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::b767c62e8800a98e",
+    "original": "The body was discovered in Lecture Hall 2-B by Valentina and Valerie Ianus: two members of the kitchen staff. According to Commander Orym White, they were being hyperactive during questioning.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Discover\",\n  \"display name\": \"Who Discovered the Body?\",\n  \"description\": \"The body was discovered in Lecture Hall 2-B by Valentina and Valerie Ianus: two members of the kitchen staff. According to Commander Orym White, they were being hyperactive during questioning.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::3510e0e998ac09ed",
+    "original": "Autopsy Report",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Catherine Autopsy\",\n  \"display name\": \"Autopsy Report\",\n  \"description\": \"“Died at 2:01PM. Body shows no signs of cuts or bruising. The Alchemist Report has verified that death was not caused by poison or disease. \\r\\n\\r\\nBody shows traces of <i>necromancy</i> and <i>illusion</i> magic. Cause of death is not apparent but very likely caused by necromancy magic.”\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::42f1d51d9e91c6fb",
+    "original": "“Died at 2:01PM. Body shows no signs of cuts or bruising. The Alchemist Report has verified that death was not caused by poison or disease. \r\n\r\nBody shows traces of <i>necromancy</i> and <i>illusion</i> magic. Cause of death is not apparent but very likely caused by necromancy magic.”\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Catherine Autopsy\",\n  \"display name\": \"Autopsy Report\",\n  \"description\": \"“Died at 2:01PM. Body shows no signs of cuts or bruising. The Alchemist Report has verified that death was not caused by poison or disease. \\r\\n\\r\\nBody shows traces of <i>necromancy</i> and <i>illusion</i> magic. Cause of death is not apparent but very likely caused by necromancy magic.”\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::6d43af263631e72d",
+    "original": "Steelwind's Uneasiness",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Steelwind\",\n  \"display name\": \"Steelwind's Uneasiness\",\n  \"description\": \"There’s an element of this case that is making Aria Steelwind uneas,. but she refuses to elaborate on what this is.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::e0ce7c7a3f639b8d",
+    "original": "There’s an element of this case that is making Aria Steelwind uneas,. but she refuses to elaborate on what this is.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Steelwind\",\n  \"display name\": \"Steelwind's Uneasiness\",\n  \"description\": \"There’s an element of this case that is making Aria Steelwind uneas,. but she refuses to elaborate on what this is.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::e4b647b18595a09d",
+    "original": "The Headmaster's Actions",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Head Action\",\n  \"display name\": \"The Headmaster's Actions\",\n  \"description\": \"The headmaster activated the academy’s lockdown system in response to receiving a call from security. This call reported that Catherine Bellwether had been fatally wounded.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::542fe90ced770272",
+    "original": "The headmaster activated the academy’s lockdown system in response to receiving a call from security. This call reported that Catherine Bellwether had been fatally wounded.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Head Action\",\n  \"display name\": \"The Headmaster's Actions\",\n  \"description\": \"The headmaster activated the academy’s lockdown system in response to receiving a call from security. This call reported that Catherine Bellwether had been fatally wounded.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::30d2786915d37965",
+    "original": "Academy Lockdown System",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Lockdown\",\n  \"display name\": \"Academy Lockdown System\",\n  \"description\": \"The academy’s lockdown is a system of artificery that covers the entire academy building. Once activated, it creates magical barriers that isolate and protect each room in the building. These barriers can’t be breached with physical or magical force. They also block mages from teleporting through them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::f379d2741fda615d",
+    "original": "The academy’s lockdown is a system of artificery that covers the entire academy building. Once activated, it creates magical barriers that isolate and protect each room in the building. These barriers can’t be breached with physical or magical force. They also block mages from teleporting through them.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Lockdown\",\n  \"display name\": \"Academy Lockdown System\",\n  \"description\": \"The academy’s lockdown is a system of artificery that covers the entire academy building. Once activated, it creates magical barriers that isolate and protect each room in the building. These barriers can’t be breached with physical or magical force. They also block mages from teleporting through them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::8a628e2cba7cf2a6",
+    "original": "Bellwether’s Reputation",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"BellRep\",\n  \"display name\": \"Bellwether’s Reputation\",\n  \"description\": \"Catherine Bellwether had a tense relation with just about everyone in the academy. She had a history of bullying students from the commonfolk and mistreating the academy staff. For several years, she used her position to curry favour with the noble houses.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::b8157c4c6f0883b6",
+    "original": "Catherine Bellwether had a tense relation with just about everyone in the academy. She had a history of bullying students from the commonfolk and mistreating the academy staff. For several years, she used her position to curry favour with the noble houses.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"BellRep\",\n  \"display name\": \"Bellwether’s Reputation\",\n  \"description\": \"Catherine Bellwether had a tense relation with just about everyone in the academy. She had a history of bullying students from the commonfolk and mistreating the academy staff. For several years, she used her position to curry favour with the noble houses.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::40d3e860baae43c7",
+    "original": "Unattuned Spell Compendium",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"NoneComp\",\n  \"display name\": \"Unattuned Spell Compendium\",\n  \"description\": \"An Unattuned Spell Compendium. If a mage keeps this on their person for ten minutes, it will attune to their magic and display what spells they can cast. Once it attunes to a person, it can’t attune to anyone else.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"WallComp\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::00bb540844925c71",
+    "original": "An Unattuned Spell Compendium. If a mage keeps this on their person for ten minutes, it will attune to their magic and display what spells they can cast. Once it attunes to a person, it can’t attune to anyone else.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"NoneComp\",\n  \"display name\": \"Unattuned Spell Compendium\",\n  \"description\": \"An Unattuned Spell Compendium. If a mage keeps this on their person for ten minutes, it will attune to their magic and display what spells they can cast. Once it attunes to a person, it can’t attune to anyone else.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"WallComp\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::SERIES TRANSLATION::03156fc9481a5184",
+    "original": "WallComp",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"NoneComp\",\n  \"display name\": \"Unattuned Spell Compendium\",\n  \"description\": \"An Unattuned Spell Compendium. If a mage keeps this on their person for ten minutes, it will attune to their magic and display what spells they can cast. Once it attunes to a person, it can’t attune to anyone else.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"WallComp\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::971b8beda24124f5",
+    "original": "Wallace's Spell Compendium",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"WallComp\",\n  \"display name\": \"Wallace's Spell Compendium\",\n  \"description\": \"Wallace Nightgrave's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Mend Wounds, Illusory Disguise, Revive, Animate Corpse, and Necrotic Blight.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"WallComp\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::c01fb37fcd007a3e",
+    "original": "Wallace Nightgrave's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Mend Wounds, Illusory Disguise, Revive, Animate Corpse, and Necrotic Blight.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"WallComp\",\n  \"display name\": \"Wallace's Spell Compendium\",\n  \"description\": \"Wallace Nightgrave's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Mend Wounds, Illusory Disguise, Revive, Animate Corpse, and Necrotic Blight.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"WallComp\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::666a4c4226a9524b",
+    "original": "Jan's Statement",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"JanTest\",\n  \"display name\": \"Jan's Statement\",\n  \"description\": \"Thirty minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"JanTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::7098d05aee42fb5c",
+    "original": "Thirty minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"JanTest\",\n  \"display name\": \"Jan's Statement\",\n  \"description\": \"Thirty minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"JanTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::SERIES TRANSLATION::e2e12cd1d9963cf5",
+    "original": "JanTest",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"JanTest\",\n  \"display name\": \"Jan's Statement\",\n  \"description\": \"Thirty minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"JanTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::a20ca6cac75a08f9",
+    "original": "30 minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though, Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.\r\n\r\nThe “Bellwether” witnessed by Jan Hughes must have been disguised with an illusion. In addition to that, whoever he saw that day was <i>physically</i> there.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"JanTest2\",\n  \"display name\": \"Jan's Statement\",\n  \"description\": \"30 minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though, Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.\\r\\n\\r\\nThe “Bellwether” witnessed by Jan Hughes must have been disguised with an illusion. In addition to that, whoever he saw that day was <i>physically</i> there.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"JanTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::f329167bd308bd57",
+    "original": "Bellwether’s Plan",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"BellPlan\",\n  \"display name\": \"Bellwether’s Plan\",\n  \"description\": \"Supposedly, Bellwether told the headmaster that she was planning to fire all of the academy staff and replace them with Arcane Constructs. This plan was overheard by Jan Hughes “a few weeks ago”.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BellPlan\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::7fc4dd2b727bc090",
+    "original": "Supposedly, Bellwether told the headmaster that she was planning to fire all of the academy staff and replace them with Arcane Constructs. This plan was overheard by Jan Hughes “a few weeks ago”.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"BellPlan\",\n  \"display name\": \"Bellwether’s Plan\",\n  \"description\": \"Supposedly, Bellwether told the headmaster that she was planning to fire all of the academy staff and replace them with Arcane Constructs. This plan was overheard by Jan Hughes “a few weeks ago”.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BellPlan\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::SERIES TRANSLATION::0bbbf9ac9761eb74",
+    "original": "BellPlan",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"BellPlan\",\n  \"display name\": \"Bellwether’s Plan\",\n  \"description\": \"Supposedly, Bellwether told the headmaster that she was planning to fire all of the academy staff and replace them with Arcane Constructs. This plan was overheard by Jan Hughes “a few weeks ago”.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BellPlan\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::67168103894823f3",
+    "original": "House Frega was planning to fire Headmaster Theodore Redmond and replace him with Catherine Bellwether. They were also planning to fire all of the academy staff and replace them with Arcane Constructs.\r\n\r\nThis was supposed to be kept a secret. But according to Jan, Bellwether revealed this plan to the headmaster during a meeting a “few weeks ago”.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"BellPlan2\",\n  \"display name\": \"Bellwether’s Plan\",\n  \"description\": \"House Frega was planning to fire Headmaster Theodore Redmond and replace him with Catherine Bellwether. They were also planning to fire all of the academy staff and replace them with Arcane Constructs.\\r\\n\\r\\nThis was supposed to be kept a secret. But according to Jan, Bellwether revealed this plan to the headmaster during a meeting a “few weeks ago”.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BellPlan\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::c7013228e5f99ba5",
+    "original": "Valentina's Magical Trace",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"ValTrace\",\n  \"display name\": \"Valentina's Magical Trace\",\n  \"description\": \"Valentina has a magical trace of <b>necromancy</b> on her. Someone cast a <b>necromancy</b> spell on her within the last forty-eight hours.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::ea73e4058f14c043",
+    "original": "Valentina has a magical trace of <b>necromancy</b> on her. Someone cast a <b>necromancy</b> spell on her within the last forty-eight hours.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"ValTrace\",\n  \"display name\": \"Valentina's Magical Trace\",\n  \"description\": \"Valentina has a magical trace of <b>necromancy</b> on her. Someone cast a <b>necromancy</b> spell on her within the last forty-eight hours.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::f0aa6418c6436825",
+    "original": "Steelwind’s Orders",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"SteelOrd\",\n  \"display name\": \"Steelwind’s Orders\",\n  \"description\": \"With the exception of me and Celeste McCoy, Prosecutor Steelwind isn’t allowing anyone inside key areas of the academy. She isn’t even allowing the knights of the Inquisition within these areas. She appears to be conducting the investigation singlehandedly.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::25ad46109dc7cd4c",
+    "original": "With the exception of me and Celeste McCoy, Prosecutor Steelwind isn’t allowing anyone inside key areas of the academy. She isn’t even allowing the knights of the Inquisition within these areas. She appears to be conducting the investigation singlehandedly.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"SteelOrd\",\n  \"display name\": \"Steelwind’s Orders\",\n  \"description\": \"With the exception of me and Celeste McCoy, Prosecutor Steelwind isn’t allowing anyone inside key areas of the academy. She isn’t even allowing the knights of the Inquisition within these areas. She appears to be conducting the investigation singlehandedly.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::af9d1672b76409d3",
+    "original": "The Four Pillar Families",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Four\",\n  \"display name\": \"The Four Pillar Families\",\n  \"description\": \"\\\"The four pillars\\\" refer to the four most powerful noble houses. These houses are House Steelwind, House Frega, House von Sanctus, and House Sibyl.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::74ba1e3c849bc70f",
+    "original": "\"The four pillars\" refer to the four most powerful noble houses. These houses are House Steelwind, House Frega, House von Sanctus, and House Sibyl.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Four\",\n  \"display name\": \"The Four Pillar Families\",\n  \"description\": \"\\\"The four pillars\\\" refer to the four most powerful noble houses. These houses are House Steelwind, House Frega, House von Sanctus, and House Sibyl.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::13076ea47fe635a9",
+    "original": "Evidence in the Locker",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"LockerBlood\",\n  \"display name\": \"Evidence in the Locker\",\n  \"description\": \"There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"LockerBlood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::493190eaecd87938",
+    "original": "There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"LockerBlood\",\n  \"display name\": \"Evidence in the Locker\",\n  \"description\": \"There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"LockerBlood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::SERIES TRANSLATION::9560f472c692946f",
+    "original": "LockerBlood",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"LockerBlood\",\n  \"display name\": \"Evidence in the Locker\",\n  \"description\": \"There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"LockerBlood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::e11558cda27418d5",
+    "original": "There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.\n\nThis locker actually belongs to Wallace Nightgrave. Someone must have switched the ID numbers with Miriam’s locker.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"LockerBlood2\",\n  \"display name\": \"Evidence in the Locker\",\n  \"description\": \"There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.\\n\\nThis locker actually belongs to Wallace Nightgrave. Someone must have switched the ID numbers with Miriam’s locker.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"LockerBlood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::2f29b21c51c8c9b7",
+    "original": "Evidence of Academic Dishonesty",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Cheat\",\n  \"display name\": \"Evidence of Academic Dishonesty\",\n  \"description\": \"A tightly packed folder containing several documents. The documents contain evidence detailing multiple instances of plagiarism, fraud, bribery of school officials, and various other offenses committed by Miriam Frega.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::071a979391882edd",
+    "original": "A tightly packed folder containing several documents. The documents contain evidence detailing multiple instances of plagiarism, fraud, bribery of school officials, and various other offenses committed by Miriam Frega.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Cheat\",\n  \"display name\": \"Evidence of Academic Dishonesty\",\n  \"description\": \"A tightly packed folder containing several documents. The documents contain evidence detailing multiple instances of plagiarism, fraud, bribery of school officials, and various other offenses committed by Miriam Frega.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::bb7b6b0ecbef3b63",
+    "original": "Bloody Rapier",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Rapier\",\n  \"display name\": \"Bloody Rapier\",\n  \"description\": \"A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was reported stolen by Miriam Frega weeks before the murder.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Rapier\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::5ff5ba17fd912b44",
+    "original": "A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was reported stolen by Miriam Frega weeks before the murder.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Rapier\",\n  \"display name\": \"Bloody Rapier\",\n  \"description\": \"A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was reported stolen by Miriam Frega weeks before the murder.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Rapier\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::SERIES TRANSLATION::6801548a26fe4ca7",
+    "original": "Rapier",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Rapier\",\n  \"display name\": \"Bloody Rapier\",\n  \"description\": \"A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was reported stolen by Miriam Frega weeks before the murder.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Rapier\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::ed87405f90e245a1",
+    "original": "A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was report stolen by Miriam Frega weeks before the murder.\r\n\r\nMiriam’s dorm room is abjured against teleportation. So, the thief could only have broken into her room through nonmagical means. \r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Rapier2\",\n  \"display name\": \"Bloody Rapier\",\n  \"description\": \"A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was report stolen by Miriam Frega weeks before the murder.\\r\\n\\r\\nMiriam’s dorm room is abjured against teleportation. So, the thief could only have broken into her room through nonmagical means. \\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Rapier\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::7b5ba2b6b1174c1e",
+    "original": "Construct’s Logic Limitation",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Logic\",\n  \"display name\": \"Construct’s Logic Limitation\",\n  \"description\": \"Arcane Constructs process tasks in the order that they are given. If a Construct is ordered to complete tasks A, B, and C, it will process each of those tasks individually. If task B is impossible, the Construct won’t realize this until it reaches task B. When it reaches task B, it will deem the entire series of commands as impossible and stop what it’s doing (without even attempting to complete task C).\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::9f0477998f2ed7ad",
+    "original": "Arcane Constructs process tasks in the order that they are given. If a Construct is ordered to complete tasks A, B, and C, it will process each of those tasks individually. If task B is impossible, the Construct won’t realize this until it reaches task B. When it reaches task B, it will deem the entire series of commands as impossible and stop what it’s doing (without even attempting to complete task C).",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Logic\",\n  \"display name\": \"Construct’s Logic Limitation\",\n  \"description\": \"Arcane Constructs process tasks in the order that they are given. If a Construct is ordered to complete tasks A, B, and C, it will process each of those tasks individually. If task B is impossible, the Construct won’t realize this until it reaches task B. When it reaches task B, it will deem the entire series of commands as impossible and stop what it’s doing (without even attempting to complete task C).\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::64a1623c82d515db",
+    "original": "Steelwind's Deduction",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Theory\",\n  \"display name\": \"Steelwind's Deduction\",\n  \"description\": \"The prosecution’s theory lays out the following timeline for Catherine Bellwether’s movements on the day of the murder.\\r\\n12:00pm-1:00pm: Theodore Redmond has a meeting with Bellwether.\\r\\n1:00pm: Miriam Frega saw Bellwether walking in the hallways.\\r\\n1:00pm-2:00pm: Bellwether spent time in the library.\\r\\n2:00pm-2:30pm: Wallace Nightgrave murdered Bellwether.\\r\\n2:30pm: Jan Hughes witnessed Bellwether walking towards Lecture Hall 2-B.\\r\\n3:00pm: The Ianus sisters discovered Bellwether’s body.  \\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::c444541bbfba49ca",
+    "original": "The prosecution’s theory lays out the following timeline for Catherine Bellwether’s movements on the day of the murder.\r\n12:00pm-1:00pm: Theodore Redmond has a meeting with Bellwether.\r\n1:00pm: Miriam Frega saw Bellwether walking in the hallways.\r\n1:00pm-2:00pm: Bellwether spent time in the library.\r\n2:00pm-2:30pm: Wallace Nightgrave murdered Bellwether.\r\n2:30pm: Jan Hughes witnessed Bellwether walking towards Lecture Hall 2-B.\r\n3:00pm: The Ianus sisters discovered Bellwether’s body.  \r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Theory\",\n  \"display name\": \"Steelwind's Deduction\",\n  \"description\": \"The prosecution’s theory lays out the following timeline for Catherine Bellwether’s movements on the day of the murder.\\r\\n12:00pm-1:00pm: Theodore Redmond has a meeting with Bellwether.\\r\\n1:00pm: Miriam Frega saw Bellwether walking in the hallways.\\r\\n1:00pm-2:00pm: Bellwether spent time in the library.\\r\\n2:00pm-2:30pm: Wallace Nightgrave murdered Bellwether.\\r\\n2:30pm: Jan Hughes witnessed Bellwether walking towards Lecture Hall 2-B.\\r\\n3:00pm: The Ianus sisters discovered Bellwether’s body.  \\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::6f87f2c778a69c5b",
+    "original": "Construct In the Locker Room",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"LockerCon\",\n  \"display name\": \"Construct In the Locker Room\",\n  \"description\": \"There appears to be an inactive Arcane Construct in the Academy Locker Room.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::673041c292c8a307",
+    "original": "There appears to be an inactive Arcane Construct in the Academy Locker Room.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"LockerCon\",\n  \"display name\": \"Construct In the Locker Room\",\n  \"description\": \"There appears to be an inactive Arcane Construct in the Academy Locker Room.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::e202bc529c5d624e",
+    "original": "Arcane Constructs",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Construct\",\n  \"display name\": \"Arcane Constructs\",\n  \"description\": \"Arcane Constructs are suits of armour that are animated using artificery. They can carry out simple tasks when ordered to. The ones in the Imperial Academy speak using the voice of Catherine Bellwether. These voice lines can only be changed or adjusted by the academy headmaster.\\r\\n\\r\\nEvery command given to a Construct is stored in its command log. However, this command log must be cleared regularly.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::8579c3d47038f841",
+    "original": "Arcane Constructs are suits of armour that are animated using artificery. They can carry out simple tasks when ordered to. The ones in the Imperial Academy speak using the voice of Catherine Bellwether. These voice lines can only be changed or adjusted by the academy headmaster.\r\n\r\nEvery command given to a Construct is stored in its command log. However, this command log must be cleared regularly.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Construct\",\n  \"display name\": \"Arcane Constructs\",\n  \"description\": \"Arcane Constructs are suits of armour that are animated using artificery. They can carry out simple tasks when ordered to. The ones in the Imperial Academy speak using the voice of Catherine Bellwether. These voice lines can only be changed or adjusted by the academy headmaster.\\r\\n\\r\\nEvery command given to a Construct is stored in its command log. However, this command log must be cleared regularly.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  }
+]

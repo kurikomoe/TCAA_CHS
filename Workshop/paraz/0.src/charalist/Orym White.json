@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Orym White-displayName",
+    "original": "Orym White",
+    "translation": "奥蒙·怀特",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Orym White\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Orym White-description",
+    "original": "The gruff and somewhat cynical commander of the Arcane Inquisition. He's a no-nonsense individual with a clear bias against mages from the nobility and the commonfolk.",
+    "translation": "大大咧咧又有点愤世嫉俗的奥术裁判所指挥官。除开他对法师和贵族的偏见，他还算是个务实严肃的人。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Orym White\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Orym White-occupation",
+    "original": "Knight",
+    "translation": "骑士",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Orym White\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Orym White-arcaneArt",
+    "original": "None",
+    "translation": "无",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Orym White\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

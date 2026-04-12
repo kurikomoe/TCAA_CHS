@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 5-2-Map of the Grand Cathedral-displayName",
+    "original": "Map of the Grand Cathedral",
+    "translation": "大教堂的地图",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Map of the Grand Cathedral\",\n  \"Idx\": 2,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 5-2-Map of the Grand Cathedral-description",
+    "original": "It's a map of the cathedral grounds.",
+    "translation": "大教堂的地图。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Map of the Grand Cathedral\",\n  \"Idx\": 2,\n  \"Attr\": \"description\"\n}"
+  }
+]

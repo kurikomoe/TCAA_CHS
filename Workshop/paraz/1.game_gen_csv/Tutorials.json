@@ -1,0 +1,146 @@
+[
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::5fdc10165cbd7341",
+    "original": "TEST TUTORIAL",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Test\",\n  \"tutorial header\": \"TEST TUTORIAL\",\n  \"tutorial body\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::cd36b370758a259b",
+    "original": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Test\",\n  \"tutorial header\": \"TEST TUTORIAL\",\n  \"tutorial body\": \"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::253fb8ce8cc421dd",
+    "original": "ARGUMENTS",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Argument\",\n  \"tutorial header\": \"ARGUMENTS\",\n  \"tutorial body\": \"You've started an ARGUMENT. Defeat your opponent by lowering their CONFIDENCE. Picking the correct options will do damage to your opponent. However, picking the wrong options will do damage to <i>your</i> CONFIDENCE. Use context and clues to determine which option to pick.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::1b31b96b169bb0af",
+    "original": "You've started an ARGUMENT. Defeat your opponent by lowering their CONFIDENCE. Picking the correct options will do damage to your opponent. However, picking the wrong options will do damage to <i>your</i> CONFIDENCE. Use context and clues to determine which option to pick.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Argument\",\n  \"tutorial header\": \"ARGUMENTS\",\n  \"tutorial body\": \"You've started an ARGUMENT. Defeat your opponent by lowering their CONFIDENCE. Picking the correct options will do damage to your opponent. However, picking the wrong options will do damage to <i>your</i> CONFIDENCE. Use context and clues to determine which option to pick.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::02a1872e4a58fd2a",
+    "original": "ELOCUTIONS",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Elocution\",\n  \"tutorial header\": \"ELOCUTIONS\",\n  \"tutorial body\": \"During ARGUMENTS, you'll sometimes be asked to pick one from three possible dialogue responses. The correct dialogue will depend on the context of your opponent's CLAIM and their PSYCHOLOGICAL PROFILE.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::c0a73a6a2e7d6e21",
+    "original": "During ARGUMENTS, you'll sometimes be asked to pick one from three possible dialogue responses. The correct dialogue will depend on the context of your opponent's CLAIM and their PSYCHOLOGICAL PROFILE.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Elocution\",\n  \"tutorial header\": \"ELOCUTIONS\",\n  \"tutorial body\": \"During ARGUMENTS, you'll sometimes be asked to pick one from three possible dialogue responses. The correct dialogue will depend on the context of your opponent's CLAIM and their PSYCHOLOGICAL PROFILE.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::b40f85dcc743fd99",
+    "original": "PRESENT",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Present\",\n  \"tutorial header\": \"PRESENT\",\n  \"tutorial body\": \"During ARGUMENTS, you'll sometimes be asked to PRESENT pieces of evidence in response to a CLAIM. Look at your opponent's claim carefully and PRESENT the item that contradicts it.\\r\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::84f6186541b8e5e8",
+    "original": "During ARGUMENTS, you'll sometimes be asked to PRESENT pieces of evidence in response to a CLAIM. Look at your opponent's claim carefully and PRESENT the item that contradicts it.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Present\",\n  \"tutorial header\": \"PRESENT\",\n  \"tutorial body\": \"During ARGUMENTS, you'll sometimes be asked to PRESENT pieces of evidence in response to a CLAIM. Look at your opponent's claim carefully and PRESENT the item that contradicts it.\\r\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::f34d9f5d4d4a740d",
+    "original": "INTERPRET",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Interpret\",\n  \"tutorial header\": \"INTERPRET\",\n  \"tutorial body\": \"During ARGUMENTS, your Eye of Horus will show you your opponent's thoughts and emotions after they make a CLAIM. Compare your opponent's thoughts to the CLAIM to pick the correct option.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::6b41d8065e13dbce",
+    "original": "During ARGUMENTS, your Eye of Horus will show you your opponent's thoughts and emotions after they make a CLAIM. Compare your opponent's thoughts to the CLAIM to pick the correct option.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Interpret\",\n  \"tutorial header\": \"INTERPRET\",\n  \"tutorial body\": \"During ARGUMENTS, your Eye of Horus will show you your opponent's thoughts and emotions after they make a CLAIM. Compare your opponent's thoughts to the CLAIM to pick the correct option.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::01f27fa51ecc57aa",
+    "original": "CROSS-EXAMINATIONS",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Cross\",\n  \"tutorial header\": \"CROSS-EXAMINATIONS\",\n  \"tutorial body\": \"You've started CROSS-EXAMINING a witness. The key to each CROSS-EXAMINATION is to determine which part of the witness's testimony contradicts any of the items in your NOTES. Use the ← → arrows to carefully examine each statement in the witness's testimony. Identify the contradicting statement and PRESENT the item that contradicts it.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::580d1612ae865f53",
+    "original": "You've started CROSS-EXAMINING a witness. The key to each CROSS-EXAMINATION is to determine which part of the witness's testimony contradicts any of the items in your NOTES. Use the ← → arrows to carefully examine each statement in the witness's testimony. Identify the contradicting statement and PRESENT the item that contradicts it.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Cross\",\n  \"tutorial header\": \"CROSS-EXAMINATIONS\",\n  \"tutorial body\": \"You've started CROSS-EXAMINING a witness. The key to each CROSS-EXAMINATION is to determine which part of the witness's testimony contradicts any of the items in your NOTES. Use the ← → arrows to carefully examine each statement in the witness's testimony. Identify the contradicting statement and PRESENT the item that contradicts it.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::074eecbbc5a8951b",
+    "original": "PRESSING STATEMENTS",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Press\",\n  \"tutorial header\": \"PRESSING STATEMENTS\",\n  \"tutorial body\": \"Sometimes the contradicting statement isn't always apparent in a witness's testimony. You can PRESS statements during a CROSS-EXAMINATION to gain more information about that specific statement. PRESSING can sometimes reveal new statements or evidence you can use.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::3f3260fa87546791",
+    "original": "Sometimes the contradicting statement isn't always apparent in a witness's testimony. You can PRESS statements during a CROSS-EXAMINATION to gain more information about that specific statement. PRESSING can sometimes reveal new statements or evidence you can use.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Press\",\n  \"tutorial header\": \"PRESSING STATEMENTS\",\n  \"tutorial body\": \"Sometimes the contradicting statement isn't always apparent in a witness's testimony. You can PRESS statements during a CROSS-EXAMINATION to gain more information about that specific statement. PRESSING can sometimes reveal new statements or evidence you can use.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::cfc0aaeca685f895",
+    "original": "INVESTIGATIONS",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Investigation\",\n  \"tutorial header\": \"INVESTIGATIONS\",\n  \"tutorial body\": \"You've begun your investigation into the crime. You'll need to collect clues and evidence by MOVING to different locations, TALKING to witnesses, and EXAMINING locations of importance.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::20fc219f8073e992",
+    "original": "You've begun your investigation into the crime. You'll need to collect clues and evidence by MOVING to different locations, TALKING to witnesses, and EXAMINING locations of importance.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Investigation\",\n  \"tutorial header\": \"INVESTIGATIONS\",\n  \"tutorial body\": \"You've begun your investigation into the crime. You'll need to collect clues and evidence by MOVING to different locations, TALKING to witnesses, and EXAMINING locations of importance.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::9105a964542f3a62",
+    "original": "DEDUCTIONS",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Deduce\",\n  \"tutorial header\": \"DEDUCTIONS\",\n  \"tutorial body\": \"During investigations, you'll sometimes go over all that you've learned to formulate DEDUCTIONS. Tyrion will think through the case and raise STATEMENTS that must be answered. Use the arrows to construct a sentence that responds to the STATEMENT. While more than one response may be technically true, only one response will be meaningful.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::53e99f7e1fab90f2",
+    "original": "During investigations, you'll sometimes go over all that you've learned to formulate DEDUCTIONS. Tyrion will think through the case and raise STATEMENTS that must be answered. Use the arrows to construct a sentence that responds to the STATEMENT. While more than one response may be technically true, only one response will be meaningful.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Deduce\",\n  \"tutorial header\": \"DEDUCTIONS\",\n  \"tutorial body\": \"During investigations, you'll sometimes go over all that you've learned to formulate DEDUCTIONS. Tyrion will think through the case and raise STATEMENTS that must be answered. Use the arrows to construct a sentence that responds to the STATEMENT. While more than one response may be technically true, only one response will be meaningful.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::12fb4dc55d7c4af6",
+    "original": "ASSISTANCE",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Assistance\",\n  \"tutorial header\": \"ASSISTANCE\",\n  \"tutorial body\": \"During your investigation, you can TALK to your mentor to get a clue on where to go next. Feel free to do this if you ever feel lost or stuck. In future cases, you may receive assistance from a certain mercenary.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::ec39beb8cb4815f8",
+    "original": "During your investigation, you can TALK to your mentor to get a clue on where to go next. Feel free to do this if you ever feel lost or stuck. In future cases, you may receive assistance from a certain mercenary.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Assistance\",\n  \"tutorial header\": \"ASSISTANCE\",\n  \"tutorial body\": \"During your investigation, you can TALK to your mentor to get a clue on where to go next. Feel free to do this if you ever feel lost or stuck. In future cases, you may receive assistance from a certain mercenary.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::61e1127db66518eb",
+    "original": "PSYCHOLOGICAL PROFILES",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Psych\",\n  \"tutorial header\": \"PSYCHOLOGICAL PROFILES\",\n  \"tutorial body\": \"You'll occasionally need to ARGUE against people and PERSUADE them to cooperate with your investigation. PSYCHOLOGICAL PROFILES help you in those ensuing ARGUMENTS. They give you information about your opponent and help you understand which options to pick.\\n\\n\\nYou can fill a person's PSYCHOLOGICAL PROFILE by TALKING to them or PRESENTING them certain items.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::8792bb83ffd89681",
+    "original": "You'll occasionally need to ARGUE against people and PERSUADE them to cooperate with your investigation. PSYCHOLOGICAL PROFILES help you in those ensuing ARGUMENTS. They give you information about your opponent and help you understand which options to pick.\n\n\nYou can fill a person's PSYCHOLOGICAL PROFILE by TALKING to them or PRESENTING them certain items.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Psych\",\n  \"tutorial header\": \"PSYCHOLOGICAL PROFILES\",\n  \"tutorial body\": \"You'll occasionally need to ARGUE against people and PERSUADE them to cooperate with your investigation. PSYCHOLOGICAL PROFILES help you in those ensuing ARGUMENTS. They give you information about your opponent and help you understand which options to pick.\\n\\n\\nYou can fill a person's PSYCHOLOGICAL PROFILE by TALKING to them or PRESENTING them certain items.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::HEADER TRANSLATION::c76c63b7c2526d0a",
+    "original": "EYE OF HORUS",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Eye\",\n  \"tutorial header\": \"EYE OF HORUS\",\n  \"tutorial body\": \"You've activated a new ability through the Eye of Horus. You can temporarily PROJECT items into the witness's mind and read their thoughts about it. These thoughts can sometimes reveal new information and grant you INSIGHT. Fill the INSIGHT GAUGE to proceed.\"\n}"
+  },
+  {
+    "key": "Tutorials.csv::BODY TRANSLATION::2838fb743414a120",
+    "original": "You've activated a new ability through the Eye of Horus. You can temporarily PROJECT items into the witness's mind and read their thoughts about it. These thoughts can sometimes reveal new information and grant you INSIGHT. Fill the INSIGHT GAUGE to proceed.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Eye\",\n  \"tutorial header\": \"EYE OF HORUS\",\n  \"tutorial body\": \"You've activated a new ability through the Eye of Horus. You can temporarily PROJECT items into the witness's mind and read their thoughts about it. These thoughts can sometimes reveal new information and grant you INSIGHT. Fill the INSIGHT GAUGE to proceed.\"\n}"
+  }
+]

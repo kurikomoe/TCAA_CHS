@@ -1,0 +1,814 @@
+[
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument3-10-0",
+    "original": "I was not involved in this!",
+    "translation": "我\\u200B和\\u200B这事儿\\u200B没关系\\u200B！",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LiafalArgument3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I was not involved in this!\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-6-0",
+    "original": "What did Tracker hear when he woke up?",
+    "translation": "追追\\u200B醒来后\\u200B听到了\\u200B什么\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What did Tracker hear when he woke up?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-9-0",
+    "original": "Tracker,Beatrice,Harold,The thief",
+    "translation": "追追,比亚特丽丝,哈罗德,窃贼",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Tracker,Beatrice,Harold,The thief\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-10-0",
+    "original": "heard,saw,hid,caused",
+    "translation": "听见,看见,藏起,造成",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"heard,saw,hid,caused\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-11-0",
+    "original": "rats running,the lockdown,glass shattering,a dog barking",
+    "translation": "通风管道里,勋爵舞会期间,画廊里,威廉的书房里",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"rats running,the lockdown,glass shattering,a dog barking\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-12-0",
+    "original": "in the vents,during the Lords' Ball,from the gallery,in William's Study",
+    "translation": "有老鼠,封锁,玻璃破碎,狗叫",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in the vents,during the Lords' Ball,from the gallery,in William's Study\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce-13-0",
+    "original": "What did Tracker hear when he woke up?",
+    "translation": "追追醒来后听到了什么？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What did Tracker hear when he woke up?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-16-0",
+    "original": "How did the Sword of Spell Eating end up in that hallway?",
+    "translation": "噬法之剑\\u200B怎么\\u200B跑到\\u200B走廊里\\u200B的\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the Sword of Spell Eating end up in that hallway?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-19-0",
+    "original": "The thief,Beatrice,Eugene,Tracker",
+    "translation": "小偷把,比亚特丽丝把,尤金把,追追把",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The thief,Beatrice,Eugene,Tracker\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-20-0",
+    "original": "dropped,hid,stole,nullified",
+    "translation": "剑,遗嘱草稿,臂章,抗魔力场",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"dropped,hid,stole,nullified\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-21-0",
+    "original": "the Sword,the drafted will,the Armbands,the Anti-Magic Field",
+    "translation": "掉到了,藏到了,偷走了,无效化了",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the Sword,the drafted will,the Armbands,the Anti-Magic Field\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-22-0",
+    "original": "in the hallway,from the gallery,in William's Study,in the Ballroom",
+    "translation": "走廊里,画廊里,威廉的书房里,舞厅里",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in the hallway,from the gallery,in William's Study,in the Ballroom\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj10-23-0",
+    "original": "How did the Sword of Spell Eating end up in that hallway?",
+    "translation": "噬法之剑怎么跑到走廊里的？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj10\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the Sword of Spell Eating end up in that hallway?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-4-0",
+    "original": "What is unique about Beatrice's relationship with Marrunath?",
+    "translation": "比亚特丽丝\\u200B和\\u200B马鲁纳斯\\u200B的关系\\u200B有什么\\u200B独特之处\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14b\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What is unique about Beatrice's relationship with Marrunath?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-7-0",
+    "original": "Their connection,Their crimes,Their mutual allies,Their evidence",
+    "translation": "他们的联系,他们的罪行,他们的同盟,他们的证据",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14b\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Their connection,Their crimes,Their mutual allies,Their evidence\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-8-0",
+    "original": "is facilitated through,were committed by,were hidden by,were killed by",
+    "translation": "要靠契约,要靠武器,要靠遗物,要靠法术",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14b\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"is facilitated through,were committed by,were hidden by,were killed by\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-9-0",
+    "original": "a Pact,a weapon,an artifact,a spell",
+    "translation": "实现,隐藏,杀害,犯罪",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14b\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"a Pact,a weapon,an artifact,a spell\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14b-10-0",
+    "original": "What is unique about Beatrice's relationship with Marrunath?",
+    "translation": "比亚特丽丝和马鲁纳斯的关系有什么独特之处？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14b\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What is unique about Beatrice's relationship with Marrunath?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-16-0",
+    "original": "Where did the murder weapon come from?",
+    "translation": "凶器\\u200B来自\\u200B哪里\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Where did the murder weapon come from?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-20-0",
+    "original": "The murderer,Jan,Laefe,Lord Frega",
+    "translation": "凶手,简,拉菲,弗雷加勋爵",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The murderer,Jan,Laefe,Lord Frega\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-21-0",
+    "original": "took,hid,destroyed,heard",
+    "translation": "从弗雷加的书房,从庄园外面,从亚特丽丝的卧室里,从储藏室里",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"took,hid,destroyed,heard\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-22-0",
+    "original": "the murder weapon,the murder,the altercation,the artifact",
+    "translation": "取得,隐藏,摧毁,听闻",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the murder weapon,the murder,the altercation,the artifact\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-23-0",
+    "original": "in Frega's Study,outside the manor,in Beatrice's room,in the storage room",
+    "translation": "凶器,犯人,口角,遗物",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in Frega's Study,outside the manor,in Beatrice's room,in the storage room\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce4-24-0",
+    "original": "Where did the murder weapon come from?",
+    "translation": "凶器来自哪里？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce4\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Where did the murder weapon come from?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-3-0",
+    "original": "How do you prove that Beatrice ordered Marrunath?",
+    "translation": "怎么证明\\u200B是\\u200B比亚特丽丝\\u200B对\\u200B马鲁纳斯\\u200B下令的\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How do you prove that Beatrice ordered Marrunath?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-6-0",
+    "original": "Use physical evidence,Use testimony,Use deduction,Tell a lie",
+    "translation": "用能联系,用能杀害,用能脱罪,用能分割",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Use physical evidence,Use testimony,Use deduction,Tell a lie\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-7-0",
+    "original": "that connects,that kills,that acquits,that separates",
+    "translation": "比亚特丽丝,拉菲,提利昂,哈罗德",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"that connects,that kills,that acquits,that separates\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-8-0",
+    "original": "Beatrice,Laefe,Tyrion,Harold",
+    "translation": "和马鲁纳斯,和追追,和尤金,和鲁比",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"Beatrice,Laefe,Tyrion,Harold\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-9-0",
+    "original": "and Marrunath,and Tracker,and Eugene,and Ruby",
+    "translation": "的物证,的证言,的推理,的谎言",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"and Marrunath,and Tracker,and Eugene,and Ruby\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14-10-0",
+    "original": "How do you prove that Beatrice ordered Marrunath?",
+    "translation": "怎么证明是比亚特丽丝对马鲁纳斯下令的？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How do you prove that Beatrice ordered Marrunath?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument7-2-0",
+    "original": "I can't trust you.",
+    "translation": "我\\u200B没法\\u200B相信\\u200B你",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LiafalArgument7\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I can't trust you.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Start4-5-0",
+    "original": "Episode IV/nSevered Ties",
+    "translation": "第四章/n一刀两断",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Start4\",\n  \"cmd\": [\n    \"TitleCard\",\n    \"Episode IV/nSevered Ties\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-7-0",
+    "original": "What is flawed with the prosecution's case?",
+    "translation": "检方\\u200B的\\u200B举证\\u200B有什么\\u200B漏洞\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce6\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What is flawed with the prosecution's case?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-9-0",
+    "original": "Beatrice Frega,William Frega,Laefe Frega,Aria Steelwind",
+    "translation": "比亚特丽丝·弗雷加,威廉·弗雷加,拉菲·弗雷加,阿莉亚·斯蒂尔文德",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Beatrice Frega,William Frega,Laefe Frega,Aria Steelwind\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-10-0",
+    "original": "is completely,is partially,is not,is secretly",
+    "translation": "完全,部分,并不,隐藏",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"is completely,is partially,is not,is secretly\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-11-0",
+    "original": "blind,a noble,wealthy,a mystery",
+    "translation": "失明,贵族,富有,秘密",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"blind,a noble,wealthy,a mystery\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce6-12-0",
+    "original": "What is flawed with the prosecution's case?",
+    "translation": "检方的举证有什么漏洞？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce6\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What is flawed with the prosecution's case?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered14d-2-0",
+    "original": "Who told you something about demonic pacts?",
+    "translation": "谁\\u200B对你\\u200B说了\\u200B有关\\u200B恶魔契约\\u200B的\\u200B事\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered14d\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Who told you something about demonic pacts?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LialfalArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LialfalArgument_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-7-0",
+    "original": "Start an ARGUMENT with Laefe Frega?",
+    "translation": "是否开始与拉菲·弗雷加辩论？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LiafalArgument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Laefe Frega?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-10-0",
+    "original": "Start an ARGUMENT with Laefe Frega?/nYou haven't completed her PSYCHOLOGICAL PROFILE.",
+    "translation": "是否开始与拉菲·弗雷加辩论？/n你尚未了解她的心理档案。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LiafalArgument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Laefe Frega?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-34-0",
+    "original": "You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.",
+    "translation": "拉菲·弗雷加和你今天才见面，她没有相信你的理由。她只相信比亚特丽丝是无辜的。/n/n她通常很真诚，所以也不太可能和谋杀自己的父亲有关。如果你也真诚相待，或许她会更友好。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LiafalArgument\",\n  \"cmd\": [\n    \"LoadArgueProfile\",\n    \"You just met Laefe Frega today. And she has no reason to trust you. She believes in Beatrice’s innocence over everything else./n/nShe’s usually sincere, so it’s unlikely that she is actually involved in her father’s murder. She might react well if you respond with a similar sincerity.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-42-0",
+    "original": "I have no idea what my father was doing.",
+    "translation": "我\\u200B不知道\\u200B父亲\\u200B在\\u200B做什么",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LiafalArgument\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I have no idea what my father was doing.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-End8-28-0",
+    "original": "Episode End",
+    "translation": "章节结束",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"End8\",\n  \"cmd\": [\n    \"TitleCard\",\n    \"Episode End\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-7-0",
+    "original": "When did the murder occur?",
+    "translation": "谋杀\\u200B发生\\u200B的\\u200B时间\\u200B是\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"When did the murder occur?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-12-0",
+    "original": "The murder,The theft,The arrest,The Lords' Ball",
+    "translation": "谋杀发生在,盗窃发生在,逮捕发生在,勋爵的舞会发生在",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The murder,The theft,The arrest,The Lords' Ball\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-13-0",
+    "original": "occurred during,caused,occurred before,occurred after",
+    "translation": "封锁,比亚特丽丝消失,找到剑,昨晚",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"occurred during,caused,occurred before,occurred after\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-14-0",
+    "original": "the lockdown,Beatrice's departure,The Sword was found,last night",
+    "translation": "过程中,之前,之后,一天后",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the lockdown,Beatrice's departure,The Sword was found,last night\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-StudyDeduce-15-0",
+    "original": "When did the murder occur?",
+    "translation": "谋杀发生的时间是？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"StudyDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"When did the murder occur?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj15-30-0",
+    "original": "What did Beatrice use to commit the murder?",
+    "translation": "比亚特丽丝\\u200B利用\\u200B什么\\u200B行凶\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj15\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"What did Beatrice use to commit the murder?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-4-0",
+    "original": "Why wouldn't Marrunath simply lie?",
+    "translation": "马鲁纳斯\\u200B为什么\\u200B不说谎\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why wouldn't Marrunath simply lie?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-8-0",
+    "original": "Demons,Humans,Dragons,Mages",
+    "translation": "恶魔,人类,龙,法师",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Demons,Humans,Dragons,Mages\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-9-0",
+    "original": "are not able to,are able to,are not able to,are able to",
+    "translation": "不能,能,不能,能",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"are not able to,are able to,are not able to,are able to\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-10-0",
+    "original": "lie,use magic,murder,steal",
+    "translation": "说谎,施法,杀人,偷窃",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"lie,use magic,murder,steal\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj3-11-0",
+    "original": "Why wouldn't Marrunath simply lie?",
+    "translation": "马鲁纳斯为什么不说谎？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj3\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why wouldn't Marrunath simply lie?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered_Fail-3-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered-7-0",
+    "original": "I didn't bring anything dangerous into Frega Manor.",
+    "translation": "我\\u200B没有\\u200B带\\u200B危险物品\\u200B进入\\u200B弗雷加庄园",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I didn't bring anything dangerous into Frega Manor.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-18-0",
+    "original": "Why didn't Laefe answer Tracker's message?",
+    "translation": "拉菲\\u200B为什么\\u200B不回\\u200B追追的\\u200B消息\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why didn't Laefe answer Tracker's message?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-22-0",
+    "original": "The Familial Bond,Beatrice,Tracker,Laefe",
+    "translation": "使魔契约,比亚特丽丝,追追,拉菲",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The Familial Bond,Beatrice,Tracker,Laefe\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-23-0",
+    "original": "was nullified,was distracted,was ignored,was created",
+    "translation": "被抗魔力场,被比亚特丽丝,被拉菲,被裁判所",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"was nullified,was distracted,was ignored,was created\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-24-0",
+    "original": "by Anti-Magic Field,by Beatrice,by Laefe,by the Inquisition",
+    "translation": "无效化了,分散了注意力,无视了,创造了",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"by Anti-Magic Field,by Beatrice,by Laefe,by the Inquisition\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce3-25-0",
+    "original": "Why didn't Laefe answer Tracker's message?",
+    "translation": "拉菲为什么不回追追的消息？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce3\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why didn't Laefe answer Tracker's message?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-13-0",
+    "original": "Why did Tracker finally hear Laefe?",
+    "translation": "追追\\u200B最后\\u200B为什么\\u200B能听到\\u200B拉菲\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why did Tracker finally hear Laefe?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-17-0",
+    "original": "The stick,The sword,The weapon,The will",
+    "translation": "追追获得的,被偷的,威廉写的,凶手用的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The stick,The sword,The weapon,The will\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-18-0",
+    "original": "that Tracker obtained,that was stolen,that William drafted,that the killer used",
+    "translation": "棍子,剑,武器,遗嘱",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"that Tracker obtained,that was stolen,that William drafted,that the killer used\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-19-0",
+    "original": "was actually,was not,was actually,was not",
+    "translation": "其实是,其实不是,其实是,其实不是",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"was actually,was not,was actually,was not\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-20-0",
+    "original": "the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice's room",
+    "translation": "噬法之剑,杀人凶器,赝品,藏在比亚特丽丝卧室里",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the Sword of Spell Eating,the murder weapon,a forgery,hidden in Beatrice's room\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-TrackerDeduce5-21-0",
+    "original": "Why did Tracker finally hear Laefe?",
+    "translation": "追追最后为什么能听到拉菲？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TrackerDeduce5\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why did Tracker finally hear Laefe?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered3-12-0",
+    "original": "I did not commit any crimes during the Lords' Ball.",
+    "translation": "我在\\u200B勋爵的\\u200B舞会\\u200B期间\\u200B没有\\u200B犯罪",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I did not commit any crimes during the Lords' Ball.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-6-0",
+    "original": "Why was the thief in that hallway?",
+    "translation": "窃贼\\u200B怎么\\u200B进入\\u200B走廊\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj12\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why was the thief in that hallway?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-8-0",
+    "original": "The thief,Beatrice,Eugene,Tracker",
+    "translation": "窃贼,比亚特丽丝,尤金,追追",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj12\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The thief,Beatrice,Eugene,Tracker\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-9-0",
+    "original": "was sneaking,was walking,was breaking,was tunneling",
+    "translation": "从通风管道,从威廉的书房,从走廊,从庄园",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj12\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"was sneaking,was walking,was breaking,was tunneling\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-10-0",
+    "original": "through,on top of,outside of,under",
+    "translation": "之中,上方,外面,下方",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj12\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"through,on top of,outside of,under\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-11-0",
+    "original": "the air vents,William's Study,the hallway,the manor",
+    "translation": "潜入,传送入,潜入,传送入",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj12\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the air vents,William's Study,the hallway,the manor\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Eug2Obj12-12-0",
+    "original": "Why was the thief in that hallway?",
+    "translation": "窃贼怎么进入走廊？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Eug2Obj12\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why was the thief in that hallway?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-16-0",
+    "original": "Why is Marrunath using the term \"master\"?",
+    "translation": "马鲁纳斯\\u200B为什么\\u200B要用\\u200B“主人”\\u200B这个词\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why is Marrunath using the term \\\"master\\\"?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-19-0",
+    "original": "Beatrice,Tymora,William,Marrunath",
+    "translation": "比亚特丽丝,泰摩拉,威廉,马鲁纳斯",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Beatrice,Tymora,William,Marrunath\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-20-0",
+    "original": "is not,is,is not,is",
+    "translation": "不是,是,不是,是",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"is not,is,is not,is\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-21-0",
+    "original": "Marrunath's,Beatrice's,Tymora's,William's",
+    "translation": "马鲁纳斯的,比亚特丽丝的,泰摩拉的,威廉的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"Marrunath's,Beatrice's,Tymora's,William's\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-22-0",
+    "original": "master,client,daughter,familiar",
+    "translation": "主人,委托人,女儿,使魔",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"master,client,daughter,familiar\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-MarrunathObj-23-0",
+    "original": "Why is Marrunath using the term \"master\"?",
+    "translation": "马鲁纳斯为什么要用“主人”这个词？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MarrunathObj\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why is Marrunath using the term \\\"master\\\"?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-22-0",
+    "original": "Who did Tracker see in the air vent?",
+    "translation": "追追\\u200B在\\u200B通风管道里\\u200B看见了\\u200B谁\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Who did Tracker see in the air vent?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-24-0",
+    "original": "Eugene Haroldson,Another Familiar,Eugene Haroldson,Another Familiar",
+    "translation": "尤金·哈罗德森,另一个使魔,尤金·哈罗德森,另一个使魔",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Eugene Haroldson,Another Familiar,Eugene Haroldson,Another Familiar\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye2-25-0",
+    "original": "Who did Tracker see in the air vent?",
+    "translation": "追追在通风管道里看见了谁？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye2\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Who did Tracker see in the air vent?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument5-1-0",
+    "original": "I was never aware of the details of my father's will.",
+    "translation": "我\\u200B从不\\u200B清楚\\u200B父亲\\u200B遗嘱的\\u200B细节",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LiafalArgument5\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I was never aware of the details of my father's will.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered5-5-0",
+    "original": "Marrunath will take the fall on Beatrice's behalf.",
+    "translation": "马鲁纳斯\\u200B会\\u200B替\\u200B比亚特丽丝\\u200B承担\\u200B责任",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered5\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Marrunath will take the fall on Beatrice's behalf.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-7-0",
+    "original": "Where are the Armbands of Intellect right now?",
+    "translation": "智慧臂章\\u200B现在\\u200B在\\u200B哪里\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"EugeneObj2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Where are the Armbands of Intellect right now?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-11-0",
+    "original": "Eugene,Beatrice,William,Tracker",
+    "translation": "尤金,比亚特丽丝,威廉,追追",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"EugeneObj2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Eugene,Beatrice,William,Tracker\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-12-0",
+    "original": "is wearing,found,stole,hid",
+    "translation": "此时此刻,在比亚特丽丝床下,在弗雷加庄园某处,从画廊",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"EugeneObj2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"is wearing,found,stole,hid\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-13-0",
+    "original": "the Armbands,the Sword,the murder weapon,Celeste's sword",
+    "translation": "穿戴着,找到了,偷走了,藏起了",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"EugeneObj2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the Armbands,the Sword,the murder weapon,Celeste's sword\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-14-0",
+    "original": "at this moment,under Beatrice's bed,somewhere in Frega Manor,from the gallery",
+    "translation": "臂章,剑,凶器,塞莱斯特的剑",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"EugeneObj2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"at this moment,under Beatrice's bed,somewhere in Frega Manor,from the gallery\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-EugeneObj2-15-0",
+    "original": "Where are the Armbands of Intellect right now?",
+    "translation": "智慧臂章现在在哪里？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"EugeneObj2\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Where are the Armbands of Intellect right now?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-6-0",
+    "original": "Why was Eugene in the air vents?",
+    "translation": "尤金\\u200B为什么\\u200B会在\\u200B通风管道里\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why was Eugene in the air vents?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-10-0",
+    "original": "Eugene,Tracker,Harold,Beatrice",
+    "translation": "尤金,追追,哈罗德,比亚特丽丝",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Eugene,Tracker,Harold,Beatrice\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-11-0",
+    "original": "was acting,was not acting,was acting,was not acting",
+    "translation": "因自己的意志,因被威胁,为了陷害比亚特丽丝,为了陷害哈罗德",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"was acting,was not acting,was acting,was not acting\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-12-0",
+    "original": "of their own free will,because of blackmail,to frame Beatrice,to frame Harold",
+    "translation": "行动,没有行动,行动,没有行动",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"of their own free will,because of blackmail,to frame Beatrice,to frame Harold\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye4-13-0",
+    "original": "Why was Eugene in the air vents?",
+    "translation": "尤金为什么会在通风管道里？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye4\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why was Eugene in the air vents?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-9-0",
+    "original": "How could Eugene have carried out this plan independently?",
+    "translation": "尤金\\u200B怎么\\u200B独立\\u200B完成计划的\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye6\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How could Eugene have carried out this plan independently?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-15-0",
+    "original": "Eugene,Tracker,Harold,Beatrice",
+    "translation": "尤金,追追,哈罗德,比亚特丽丝",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Eugene,Tracker,Harold,Beatrice\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-16-0",
+    "original": "wore,stole,framed,murdered",
+    "translation": "戴了,偷了,陷害了,杀害了",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"wore,stole,framed,murdered\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-17-0",
+    "original": "the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating",
+    "translation": "智慧臂章,威廉,比亚特丽丝,噬法之剑",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye6\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the Armbands of Intellect,William,Beatrice,the Sword of Spell Eating\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-HaroldAfterEye6-18-0",
+    "original": "How could Eugene have carried out this plan independently?",
+    "translation": "尤金怎么独立完成计划的？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"HaroldAfterEye6\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How could Eugene have carried out this plan independently?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-14-0",
+    "original": "What does this tell us about William Frega?",
+    "translation": "这能说明\\u200B什么\\u200B关于\\u200B威廉·弗雷加\\u200B的事\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What does this tell us about William Frega?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-17-0",
+    "original": "William,Beatrice,Harold,Laefe",
+    "translation": "威廉,比亚特丽丝,哈罗德,拉菲",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"William,Beatrice,Harold,Laefe\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-18-0",
+    "original": "died,was arrested,planted the Sword,met Aster",
+    "translation": "在激活封锁,在找到尸体,在报告失窃,在封锁解除",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"died,was arrested,planted the Sword,met Aster\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-19-0",
+    "original": "before,at the moment,after",
+    "translation": "之前,之中,之后",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"before,at the moment,after\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-20-0",
+    "original": "the lockdown activated,the body was found,the theft was reported,the lockdown was lifted",
+    "translation": "死亡,被捕,遇见阿斯特,丢下剑",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the lockdown activated,the body was found,the theft was reported,the lockdown was lifted\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce5-21-0",
+    "original": "What does this tell us about William Frega?",
+    "translation": "这能说明什么关于威廉·弗雷加的事？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce5\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What does this tell us about William Frega?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-3-0",
+    "original": "What do we know about the thief of the Sword of Spell Eating?",
+    "translation": "我们\\u200B知道\\u200B什么\\u200B关于\\u200B偷窃\\u200B噬法之剑\\u200B的贼\\u200B的事\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What do we know about the thief of the Sword of Spell Eating?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-6-0",
+    "original": "The thief,Beatrice,Harold,Steelwind",
+    "translation": "窃贼,比亚特丽丝,哈罗德,斯蒂尔文德",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The thief,Beatrice,Harold,Steelwind\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-7-0",
+    "original": "is a,is not a,might be",
+    "translation": "是一个,不是一个,可能是一个",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"is a,is not a,might be\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-8-0",
+    "original": "powerful mage,demon,noble,master rogue",
+    "translation": "强大的法师,恶魔,贵族,神偷",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"powerful mage,demon,noble,master rogue\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-Inves1Deduce-9-0",
+    "original": "What do we know about the thief of the Sword of Spell Eating?",
+    "translation": "我们知道什么关于偷窃噬法之剑的贼的事？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Inves1Deduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What do we know about the thief of the Sword of Spell Eating?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-LiafalArgument-27-0",
+    "original": "Laefe Frega",
+    "translation": "拉菲·弗雷加",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LiafalArgument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Laefe Frega\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-psychComplete-Laefe Frega",
+    "original": "Laefe Frega",
+    "translation": "拉菲·弗雷加",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_BeatriceRoom1\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
+  },
+  {
+    "key": "Case 4-sharedassets0.assets-158.json-BeatCornered-0-0",
+    "original": "Beatrice Frega",
+    "translation": "比亚特丽丝·弗雷加",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"BeatCornered\",\n  \"cmd\": [\n    \"CorneredWitness\",\n    \"Beatrice Frega\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
+  }
+]

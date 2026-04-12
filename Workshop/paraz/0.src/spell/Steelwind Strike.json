@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-26-Steelwind Strike-displayName",
+    "original": "Steelwind Strike",
+    "translation": "斯蒂尔文德剑刃风暴",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Steelwind Strike\",\n  \"Idx\": 26,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "SpellLibrary-26-Steelwind Strike-description",
+    "original": "The caster strikes targets of their choice within a 40ft radius with a slashing force. Each slash has the might and power of a <b>Mage Blade</b>, and can cut through thick metal armour. It’s the ultimate spell of House Steelwind and its spell formula is a closely guarded secret.",
+    "translation": "施法者可以自选半径 40 英尺内的复数目标，以砍杀之力攻击。每次砍杀都等同于一次<b>法术剑刃</b>，金属铠甲也可以切割。斯蒂尔文德家的究极法术，被严格保管，秘不外传。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Steelwind Strike\",\n  \"Idx\": 26,\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "SpellLibrary-26-Steelwind Strike-incantation",
+    "original": "\"Vul-nus\"",
+    "translation": "“Vul-nus”",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Steelwind Strike\",\n  \"Idx\": 26,\n  \"Attr\": \"incantation\"\n}"
+  },
+  {
+    "key": "SpellLibrary-26-Steelwind Strike-gesture",
+    "original": "Raise index finger and pinky",
+    "translation": "伸出食指和小指",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Steelwind Strike\",\n  \"Idx\": 26,\n  \"Attr\": \"gesture\"\n}"
+  },
+  {
+    "key": "SpellLibrary-26-Steelwind Strike-duration",
+    "original": "Instant",
+    "translation": "瞬间",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Steelwind Strike\",\n  \"Idx\": 26,\n  \"Attr\": \"duration\"\n}"
+  }
+]

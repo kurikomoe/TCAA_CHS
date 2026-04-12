@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Asmodeus-displayName",
+    "original": "Asmodeus",
+    "translation": "阿斯摩蒂斯",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Asmodeus\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Asmodeus-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Asmodeus\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Asmodeus-occupation",
+    "original": "Lord of the Ninth",
+    "translation": "第九层领主",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Asmodeus\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Asmodeus-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Asmodeus\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

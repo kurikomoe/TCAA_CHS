@@ -1,0 +1,128 @@
+[
+  {
+    "key": "location-caseFourLocations-Mafia-displayName",
+    "original": "Den",
+    "translation": "老巢",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"Mafia\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-Lobby-displayName",
+    "original": "Courthouse: Lobby",
+    "translation": "法庭：大厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"Lobby\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-BallroomIntro-displayName",
+    "original": "Ballroom",
+    "translation": "舞厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"BallroomIntro\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-HallwayIntro-displayName",
+    "original": "Hallway",
+    "translation": "走廊",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"HallwayIntro\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-GalleryIntro-displayName",
+    "original": "Gallery",
+    "translation": "画廊",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"GalleryIntro\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-TableIntro-displayName",
+    "original": "Ballroom",
+    "translation": "舞厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"TableIntro\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-Ballroom1-displayName",
+    "original": "Ballroom",
+    "translation": "舞厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"Ballroom1\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-Study1-displayName",
+    "original": "William Frega's Study",
+    "translation": "威廉·弗雷加的书房",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"Study1\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-Storage-displayName",
+    "original": "Storage Room",
+    "translation": "储藏室",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"Storage\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-BeatriceRoom1-displayName",
+    "original": "Beatrice's Bedroom",
+    "translation": "比亚特丽丝的卧室",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"BeatriceRoom1\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-WaitingRoom1-displayName",
+    "original": "Sitting Room",
+    "translation": "会客室",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"WaitingRoom1\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-Gallery1-displayName",
+    "original": "Gallery",
+    "translation": "画廊",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"Gallery1\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-Barracks-displayName",
+    "original": "Inquisition Dungeon",
+    "translation": "裁判所地牢",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"Barracks\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-Ballroom2-displayName",
+    "original": "Ballroom",
+    "translation": "舞厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"Ballroom2\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-Study2-displayName",
+    "original": "William Frega's Study",
+    "translation": "威廉·弗雷加的书房",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"Study2\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-WaitingRoom2-displayName",
+    "original": "Sitting Room",
+    "translation": "会客室",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"WaitingRoom2\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-BeatriceRoom2-displayName",
+    "original": "Beatrice's Bedroom",
+    "translation": "比亚特丽丝的卧室",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"BeatriceRoom2\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseFourLocations-Hallway2-displayName",
+    "original": "Hallway",
+    "translation": "走廊",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseFourLocations\",\n  \"Name\": \"Hallway2\",\n  \"Attr\": \"displayName\"\n}"
+  }
+]

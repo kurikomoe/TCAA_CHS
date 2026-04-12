@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-6-Lord Pierce's Spell Compendium-displayName",
+    "original": "Garrick Pierce's Spell Compendium",
+    "translation": "加里克·皮尔斯的法术汇编",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Lord Pierce's Spell Compendium\",\n  \"Idx\": 6,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 1-6-Lord Pierce's Spell Compendium-description",
+    "original": "Garrick Pierce's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Conjure Light, Conjure Water, Frost Wave, and Shape Liquid.",
+    "translation": "加里克·皮尔斯的法术汇编。其中包含了以下法术：魔术戏法、祈愿光芒、造水术、霜波和形变液体。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Lord Pierce's Spell Compendium\",\n  \"Idx\": 6,\n  \"Attr\": \"description\"\n}"
+  }
+]

@@ -1,0 +1,47 @@
+REFERENCE NAME,DISPLAY NAME,DESCRIPTION,TYPE,SCHOOL,INCANTATION,GESTURE,DURATION,CONCENTRATION,SERIES,TAG,TOKEN POSITION,BATTLE MAP SIZE,DISPLAY NAME TRANSLATION,DESCRIPTION TRANSLATION,TYPE TRANSLATION,SCHOOL TRANSLATION,INCANTATION TRANSLATION,GESTURE TRANSLATION,DURATION TRANSLATION,CONCENTRATION TRANSLATION,SERIES TRANSLATION,TAG TRANSLATION,TOKEN POSITION TRANSLATION,BATTLE MAP SIZE TRANSLATION,
+Map,"Imperial Academy Map","A map of the Imperial Academy. It displays the general area where Catherine Bellwether was seen that day.","","","","","","","","","","",
+Foul,"Foul Classroom Smell","Weeks ago, the headmaster performed an alchemy experiment incorrectly in Lecture Hall 2-B. The resulting chemical reaction produced a rancid yet harmless vapour that still lingers in the room.","","","","","","","","","","",
+Blood,"Bloodstain Under the Body","There is a pool of blood where Catherine Bellwether’s body was. The location implies that she bled from her abdominal area.","","","","","","","Blood","","","",
+Blood2,"Bloodstain Under the Body","There is a pool of blood where Catherine Bellwether’s body was. This is strange because she wouldn’t have been wounded by <b>Necrotic Blight</b>.","","","","","","","Blood","","","",
+Discover,"Who Discovered the Body?","The body was discovered in Lecture Hall 2-B by Valentina and Valerie Ianus: two members of the kitchen staff. According to Commander Orym White, they were being hyperactive during questioning.","","","","","","","","","","",
+Catherine Autopsy,"Autopsy Report","“Died at 2:01PM. Body shows no signs of cuts or bruising. The Alchemist Report has verified that death was not caused by poison or disease. 
+
+Body shows traces of <i>necromancy</i> and <i>illusion</i> magic. Cause of death is not apparent but very likely caused by necromancy magic.”","","","","","","","","","","",
+Steelwind,"Steelwind's Uneasiness","There’s an element of this case that is making Aria Steelwind uneas,. but she refuses to elaborate on what this is.","","","","","","","","","","",
+Head Action,"The Headmaster's Actions","The headmaster activated the academy’s lockdown system in response to receiving a call from security. This call reported that Catherine Bellwether had been fatally wounded.","","","","","","","","","","",
+Lockdown,"Academy Lockdown System","The academy’s lockdown is a system of artificery that covers the entire academy building. Once activated, it creates magical barriers that isolate and protect each room in the building. These barriers can’t be breached with physical or magical force. They also block mages from teleporting through them.","","","","","","","","","","",
+BellRep,"Bellwether’s Reputation","Catherine Bellwether had a tense relation with just about everyone in the academy. She had a history of bullying students from the commonfolk and mistreating the academy staff. For several years, she used her position to curry favour with the noble houses.","","","","","","","","","","",
+NoneComp,"Unattuned Spell Compendium","An Unattuned Spell Compendium. If a mage keeps this on their person for ten minutes, it will attune to their magic and display what spells they can cast. Once it attunes to a person, it can’t attune to anyone else.","","","","","","","WallComp","","","",
+WallComp,"Wallace's Spell Compendium","Wallace Nightgrave's Spell Compendium. It contains the formulas for the following spells: Prestidigitation, Mend Wounds, Illusory Disguise, Revive, Animate Corpse, and Necrotic Blight.","","","","","","","WallComp","","","",
+JanTest,"Jan's Statement","Thirty minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.","","","","","","","JanTest","","","",
+JanTest2,"Jan's Statement","30 minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though, Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.
+
+The “Bellwether” witnessed by Jan Hughes must have been disguised with an illusion. In addition to that, whoever he saw that day was <i>physically</i> there.","","","","","","","JanTest","","","",
+BellPlan,"Bellwether’s Plan","Supposedly, Bellwether told the headmaster that she was planning to fire all of the academy staff and replace them with Arcane Constructs. This plan was overheard by Jan Hughes “a few weeks ago”.","","","","","","","BellPlan","","","",
+BellPlan2,"Bellwether’s Plan","House Frega was planning to fire Headmaster Theodore Redmond and replace him with Catherine Bellwether. They were also planning to fire all of the academy staff and replace them with Arcane Constructs.
+
+This was supposed to be kept a secret. But according to Jan, Bellwether revealed this plan to the headmaster during a meeting a “few weeks ago”.","","","","","","","BellPlan","","","",
+ValTrace,"Valentina's Magical Trace","Valentina has a magical trace of <b>necromancy</b> on her. Someone cast a <b>necromancy</b> spell on her within the last forty-eight hours.","","","","","","","","","","",
+SteelOrd,"Steelwind’s Orders","With the exception of me and Celeste McCoy, Prosecutor Steelwind isn’t allowing anyone inside key areas of the academy. She isn’t even allowing the knights of the Inquisition within these areas. She appears to be conducting the investigation singlehandedly.","","","","","","","","","","",
+Four,"The Four Pillar Families","""The four pillars"" refer to the four most powerful noble houses. These houses are House Steelwind, House Frega, House von Sanctus, and House Sibyl.","","","","","","","","","","",
+LockerBlood,"Evidence in the Locker","There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.","","","","","","","LockerBlood","","","",
+LockerBlood2,"Evidence in the Locker","There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.
+
+This locker actually belongs to Wallace Nightgrave. Someone must have switched the ID numbers with Miriam’s locker.","","","","","","","LockerBlood","","","",
+Cheat,"Evidence of Academic Dishonesty","A tightly packed folder containing several documents. The documents contain evidence detailing multiple instances of plagiarism, fraud, bribery of school officials, and various other offenses committed by Miriam Frega.","","","","","","","","","","",
+Rapier,"Bloody Rapier","A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was reported stolen by Miriam Frega weeks before the murder.","","","","","","","Rapier","","","",
+Rapier2,"Bloody Rapier","A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was report stolen by Miriam Frega weeks before the murder.
+
+Miriam’s dorm room is abjured against teleportation. So, the thief could only have broken into her room through nonmagical means. ","","","","","","","Rapier","","","",
+Logic,"Construct’s Logic Limitation","Arcane Constructs process tasks in the order that they are given. If a Construct is ordered to complete tasks A, B, and C, it will process each of those tasks individually. If task B is impossible, the Construct won’t realize this until it reaches task B. When it reaches task B, it will deem the entire series of commands as impossible and stop what it’s doing (without even attempting to complete task C).","","","","","","","","","","",
+Theory,"Steelwind's Deduction","The prosecution’s theory lays out the following timeline for Catherine Bellwether’s movements on the day of the murder.
+12:00pm-1:00pm: Theodore Redmond has a meeting with Bellwether.
+1:00pm: Miriam Frega saw Bellwether walking in the hallways.
+1:00pm-2:00pm: Bellwether spent time in the library.
+2:00pm-2:30pm: Wallace Nightgrave murdered Bellwether.
+2:30pm: Jan Hughes witnessed Bellwether walking towards Lecture Hall 2-B.
+3:00pm: The Ianus sisters discovered Bellwether’s body.  ","","","","","","","","","","",
+LockerCon,"Construct In the Locker Room","There appears to be an inactive Arcane Construct in the Academy Locker Room.","","","","","","","","","","",
+Construct,"Arcane Constructs","Arcane Constructs are suits of armour that are animated using artificery. They can carry out simple tasks when ordered to. The ones in the Imperial Academy speak using the voice of Catherine Bellwether. These voice lines can only be changed or adjusted by the academy headmaster.
+
+Every command given to a Construct is stored in its command log. However, this command log must be cleared regularly.","","","","","","","","","","",

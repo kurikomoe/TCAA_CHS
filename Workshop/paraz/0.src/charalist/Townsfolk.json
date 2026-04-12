@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Townsfolk-displayName",
+    "original": "Townsfolk",
+    "translation": "镇民",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Townsfolk\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Townsfolk-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Townsfolk\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Townsfolk-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Townsfolk\",\n  \"Attr\": \"arcaneArt\"\n}"
+  },
+  {
+    "key": "Townsfolk-occupation",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Townsfolk\",\n  \"Attr\": \"occupation\"\n}"
+  }
+]

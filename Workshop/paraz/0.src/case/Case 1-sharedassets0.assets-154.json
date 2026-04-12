@@ -1,0 +1,471 @@
+[
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-CelesteArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"CelesteArgument_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Ending-67-0",
+    "original": "Episode End",
+    "translation": "章节结束",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Ending\",\n  \"cmd\": [\n    \"TitleCard\",\n    \"Episode End\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument2-3-0",
+    "original": "It was selfish of me to learn magic.",
+    "translation": "我\\u200B偷学\\u200B魔法\\u200B太自私了",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Celeste_Argument2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"It was selfish of me to learn magic.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument-3-0",
+    "original": "Start an ARGUMENT with Celeste McCoy?",
+    "translation": "是否开始与塞莱斯特·麦考伊辩论？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Celeste_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Celeste McCoy?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument-25-0",
+    "original": "He’s always hated magic. There’s no reason behind it.",
+    "translation": "他\\u200B天生\\u200B就\\u200B痛恨\\u200B魔法，\\u200B这是\\u200B毫无缘由的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Celeste_Argument\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"He’s always hated magic. There’s no reason behind it.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-14-0",
+    "original": "How did the bottle shatter?",
+    "translation": "这瓶子\\u200B是\\u200B怎么\\u200B碎的\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce2\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the bottle shatter?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-17-0",
+    "original": "Celeste,The killer,Flinhart",
+    "translation": "塞莱斯特,凶手,弗林哈特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Celeste,The killer,Flinhart\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-18-0",
+    "original": "dropped,threw,placed",
+    "translation": "在袭击中,在袭击后,在袭击之前",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"dropped,threw,placed\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-19-0",
+    "original": "the bottle,the sword,the killer",
+    "translation": "掉落,扔出,放置",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"the bottle,the sword,the killer\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-20-0",
+    "original": "during the attack,after the attack,before the attack",
+    "translation": "瓶子,剑,凶手",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce2\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"during the attack,after the attack,before the attack\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce2-21-0",
+    "original": "How did the bottle shatter?",
+    "translation": "这瓶子是怎么碎的？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce2\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the bottle shatter?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-OrymArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"OrymArgument_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument-4-0",
+    "original": "Arguments",
+    "translation": "争辩",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Merchant_Argument\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Tutorial.png\",\n    \"Arguments\",\n    \"You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument-4-1",
+    "original": "You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT.",
+    "translation": "你向另一个角色发起了辩论，在辩论过程中，你的对手会提出一些需要你回应的主张。有效的反驳可以降低对手的自信，无效的回应会降低你的自信。一旦你的自信归零，你就会输掉这场辩论。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Merchant_Argument\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Tutorial.png\",\n    \"Arguments\",\n    \"You’ve started an ARGUMENT with another character. During an ARGUMENT, your opponent will make CLAIMS that you need to respond to. Responding correctly will lower your opponent’s CONFIDENCE. Responding incorrectly will lower [i]your[/i] CONFIDENCE. And once you run out of CONFIDENCE, you will lose the ARGUMENT.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument-8-0",
+    "original": "I only trade organic products.",
+    "translation": "我\\u200B只售卖\\u200B有机\\u200B产品",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Merchant_Argument\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I only trade organic products.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-MerchantArgument_Fail-3-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"MerchantArgument_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Lobby1-9-0",
+    "original": "Assistance",
+    "translation": "援助",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_Lobby1\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Assist Tutorial.png\",\n    \"Assistance\",\n    \"Sometimes it helps to speak with someone about the investigation. One character will almost always be able to ASSIST you. You can speak with them about the investigation or ask them where to go next. Right now, Ruby Tymora is assisting you. But who knows? Maybe someone else might help you in the future.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Lobby1-9-1",
+    "original": "Sometimes it helps to speak with someone about the investigation. One character will almost always be able to ASSIST you. You can speak with them about the investigation or ask them where to go next. Right now, Ruby Tymora is assisting you. But who knows? Maybe someone else might help you in the future.",
+    "translation": "有时候和某人聊聊会有助于调查进行。总有一个角色能够为你提供调查方向。你可以向他们咨询调查建议，或是问问之后该去哪里。现在是鲁比·泰摩拉在帮助你。或许未来的某天，会有其他人为你提供帮助。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_Lobby1\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Assist Tutorial.png\",\n    \"Assistance\",\n    \"Sometimes it helps to speak with someone about the investigation. One character will almost always be able to ASSIST you. You can speak with them about the investigation or ask them where to go next. Right now, Ruby Tymora is assisting you. But who knows? Maybe someone else might help you in the future.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument3-3-0",
+    "original": "I have no reason to trust you.",
+    "translation": "我\\u200B没理由\\u200B相信你",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Argument3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I have no reason to trust you.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-18-0",
+    "original": "What can we infer about the state of the crime scene?",
+    "translation": "据此\\u200B能推断出\\u200B犯罪现场\\u200B是种\\u200B什么\\u200B状态\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce4\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What can we infer about the state of the crime scene?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-21-0",
+    "original": "The crime scene,The town,The basement",
+    "translation": "谋杀,庭审,调查",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The crime scene,The town,The basement\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-22-0",
+    "original": "had no lighting,had no customers, had no witnesses",
+    "translation": "之前,过程中,之后",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"had no lighting,had no customers, had no witnesses\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-23-0",
+    "original": "before,during,after",
+    "translation": "犯罪现场,小镇,地下室",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"before,during,after\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-24-0",
+    "original": "the murder,the trial,the investigation",
+    "translation": "没有照明,没有顾客,没有目击者",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce4\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the murder,the trial,the investigation\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Deduce4-25-0",
+    "original": "What can we infer about the state of the crime scene?",
+    "translation": "据此能推断出犯罪现场是种什么状态？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Deduce4\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What can we infer about the state of the crime scene?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Present-0-0",
+    "original": "Presenting During Arguments",
+    "translation": "在辩论中出示证据",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Merchant_Present\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\",\n    \"Presenting During Arguments\",\n    \"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Present-0-1",
+    "original": "For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.",
+    "translation": "对于一些主张，你需要出示证据来反驳它。出示与你对手的主张相悖的证据来推进游戏。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Merchant_Present\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Present Tutorial.png\",\n    \"Presenting During Arguments\",\n    \"For certain CLAIMS, you will need to PRESENT a piece of evidence to refute that claim./n/n To proceed, PRESENT the piece of evidence that contradicts your opponent’s CLAIM.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickAfterEye-7-0",
+    "original": "There is no evidence of a liquified weapon at the crime scene.",
+    "translation": "犯罪现场\\u200B没有\\u200B能证明\\u200B液化凶器\\u200B存在的\\u200B证据",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"GarrickAfterEye\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"There is no evidence of a liquified weapon at the crime scene.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Aria_Retort-60-0",
+    "original": "Which spell did Lord Pierce use to commit murder?",
+    "translation": "皮尔斯勋爵\\u200B是使用\\u200B何种法术\\u200B行凶的\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Aria_Retort\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Which spell did Lord Pierce use to commit murder?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Talk_Tavern-56-0",
+    "original": "Psychological Profiles",
+    "translation": "心理档案",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_Tavern\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Psych Profile Tutorial.png\",\n    \"Psychological Profiles\",\n    \"It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you'll receive more information during any ARGUMENTS against him.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Talk_Tavern-56-1",
+    "original": "It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you'll receive more information during any ARGUMENTS against him.",
+    "translation": "开始辩论之前，准备一份心理档案会很有帮助。与奥蒙对话或出示笔记来制作他的心理档案。如果你成功填满了档案槽，就会在与他的辩论中收获更多信息。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_Tavern\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Psych Profile Tutorial.png\",\n    \"Psychological Profiles\",\n    \"It helps to prepare before starting an ARGUMENT with someone. TALK to Orym or PRESENT items to him to build a PSYCHOLOGICAL PROFILE for him. If you successfully fill the PROFILE gauge, you'll receive more information during any ARGUMENTS against him.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-IntroScene-25-0",
+    "original": "Episode I/nThe Coldhearted Aristocrat",
+    "translation": "第一章/n冷血贵族",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"IntroScene\",\n  \"cmd\": [\n    \"TitleCard\",\n    \"Episode I/nThe Coldhearted Aristocrat\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered-9-0",
+    "original": "I saw the murder! I witnessed everything!",
+    "translation": "我\\u200B见证了\\u200B凶杀\\u200B全过程\\u200B！",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"GarrickCornered\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I saw the murder! I witnessed everything!\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered3-7-0",
+    "original": "I came here to reveal the truth and testify against that criminal!",
+    "translation": "我\\u200B是来\\u200B揭露\\u200B真相\\u200B和\\u200B指证\\u200B罪犯的\\u200B！",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"GarrickCornered3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I came here to reveal the truth and testify against that criminal!\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered2-23-0",
+    "original": "She was wielding her sword after the murder!",
+    "translation": "她\\u200B当时\\u200B正\\u200B挥着\\u200B剑\\u200B！",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"GarrickCornered2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"She was wielding her sword after the murder!\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-86-0",
+    "original": "What can we tell about how Flinhart died?",
+    "translation": "弗林哈特\\u200B的\\u200B死法\\u200B暗示了\\u200B什么\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_Tavern\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What can we tell about how Flinhart died?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-90-0",
+    "original": "Celeste,The killer,Flinhart",
+    "translation": "塞莱斯特,凶手,弗林哈特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_Tavern\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Celeste,The killer,Flinhart\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-91-0",
+    "original": "didn't move,attacked Flinhart,framed Celeste",
+    "translation": "谋杀,调查,庭审",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_Tavern\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"didn't move,attacked Flinhart,framed Celeste\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-92-0",
+    "original": "after,during,before",
+    "translation": "之后,过程中,之前",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_Tavern\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"after,during,before\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-93-0",
+    "original": "the murder,the investigation,the trial",
+    "translation": "没有移动,攻击了弗林哈特,陷害了塞莱斯特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_Tavern\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the murder,the investigation,the trial\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Check_Events_Tavern-94-0",
+    "original": "What can we tell about how Flinhart died?",
+    "translation": "弗林哈特的死法暗示了什么？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_Tavern\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What can we tell about how Flinhart died?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Testimony_Orym2-35-0",
+    "original": "Pressing Statements",
+    "translation": "追问证言",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Testimony_Orym2\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Testimony Press Tutorial.png\",\n    \"Pressing Statements\",\n    \"During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Testimony_Orym2-35-1",
+    "original": "During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.",
+    "translation": "在交叉询问环节中，你可以追问某一证言来获得更详细的信息。有时追问正确的证言可以让证人补充新的证言。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Testimony_Orym2\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Testimony Press Tutorial.png\",\n    \"Pressing Statements\",\n    \"During cross-examinations, you can PRESS statements to acquire more information. Sometimes, PRESSING the right statement can make the witness add a statement to their testimony.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered_Fail-4-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"GarrickCornered_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument3-9-0",
+    "original": "In his final moments, he could only think of how I betrayed him.",
+    "translation": "即便\\u200B是在\\u200B他\\u200B生命的\\u200B最后时刻，\\u200B他也\\u200B因为\\u200B我的\\u200B背叛\\u200B而\\u200B黯然神伤",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Celeste_Argument3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"In his final moments, he could only think of how I betrayed him.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument2-4-0",
+    "original": "This juice is worth far more than what I’m offering.",
+    "translation": "这\\u200B苹果汁\\u200B绝对\\u200B物超所值\\u200B！",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Merchant_Argument2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"This juice is worth far more than what I’m offering.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered4-78-0",
+    "original": "Empowered Eye",
+    "translation": "强化之眼",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"GarrickCornered4\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Empowered Eye Tutorial.png\",\n    \"Empowered Eye\",\n    \"You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered4-78-1",
+    "original": "You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.",
+    "translation": "你激活了强化之眼，在这种状态下，你能探知到更多关于证人的想法。你甚至可以干扰他们的所思所想。投射线索到皮尔斯的脑海里看看能不能让他想起点什么。你需要投射一些能让他想起谋杀的证据。唤醒正确的想法会增加你的洞察力。一旦洞察力槽被填满，你就有证据证明他有罪了。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"GarrickCornered4\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Empowered Eye Tutorial.png\",\n    \"Empowered Eye\",\n    \"You’ve activated the EMPOWERED EYE. With it, you’ll be able to do more than see the witness’s thoughts. You’ll also be able to affect what they think about. PROJECT items into Pierce’s mind to evoke thoughts from him. You’ll want to PROJECT items that make him think about the murder. Evoking the right thoughts will raise your INSIGHT. Once the INSIGHT gauge is filled, you’ll have everything you need to implicate him.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Trial1_Intro7-13-0",
+    "original": "Cross-Examinations",
+    "translation": "交叉询问",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Trial1_Intro7\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Testimony Tutorial.png\",\n    \"Cross-Examinations\",\n    \"You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Trial1_Intro7-13-1",
+    "original": "You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.",
+    "translation": "你正在交叉询问一位证人，仔细审查他所做的每一句证词，并寻找是否存在与笔记中的线索、法术、或人物相悖的证言。找到错误陈述后，点击出示按钮，并出示与之矛盾的证据来继续。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Trial1_Intro7\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Testimony Tutorial.png\",\n    \"Cross-Examinations\",\n    \"You are cross-examining a witness. Carefully examine each statement they made and find the statement that contradicts a CLUE, a SPELL, or a PROFILE in your NOTES. Once you identify the false statement, click the PRESENT button and present the contradicting evidence to move forward.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-TownIntroScene4-12-0",
+    "original": "Notes",
+    "translation": "笔记",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TownIntroScene4\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Clue Tutorial.png\",\n    \"Notes\",\n    \"Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-TownIntroScene4-12-1",
+    "original": "Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.",
+    "translation": "游历世界的过程中，提利昂会在脑中记录下可能有用的线索。这些笔记对于解决游戏进程中的谜团有着至关重要的作用。 你可以随时打开屏幕左上角的工具栏查阅这些笔记。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TownIntroScene4\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Clue Tutorial.png\",\n    \"Notes\",\n    \"Tyrion will make mental notes of notable clues he sees in the world. These NOTES are instrumental to solving mysteries and progressing through the game. You can check these NOTES at any time by opening the toolbar in the top-left of the screen.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument2-2-0",
+    "original": "You’re just another crook.",
+    "translation": "你\\u200B和她\\u200B一样，\\u200B也是个\\u200B烂到骨子里的\\u200B律师",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Argument2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"You’re just another crook.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-6-0",
+    "original": "Start an ARGUMENT with Orym White?",
+    "translation": "是否开始与奥蒙·怀特辩论？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Orym White?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-9-0",
+    "original": "Start an ARGUMENT with Orym White?/nYou haven't completed his PSYCHOLOGICAL PROFILE.",
+    "translation": "是否开始与奥蒙·怀特辩论？/n你尚未了解他的心理档案。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Orym White?/nYou haven't completed his PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-33-0",
+    "original": "Commander White is stubborn and stuck in his ways. He seems to have a grudge against Ruby Tymora and will react negatively if you try to defend her. However, he will respect you if you defend yourself against personal attacks.",
+    "translation": "怀特指挥官十分固执并坚持己见，他似乎和鲁比·泰摩拉有很深的隔阂，并且会对你为她开脱而感到不满。但如果你是针对人身攻击辩护，他会尊重你的意见。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"LoadArgueProfile\",\n    \"Commander White is stubborn and stuck in his ways. He seems to have a grudge against Ruby Tymora and will react negatively if you try to defend her. However, he will respect you if you defend yourself against personal attacks.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-41-0",
+    "original": "Ruby Tymora is a crooked lawyer.",
+    "translation": "鲁比·泰摩拉\\u200B是个\\u200B坏到骨子里的\\u200B律师",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Ruby Tymora is a crooked lawyer.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-43-0",
+    "original": "Elocutions in Arguments",
+    "translation": "在辩论中的声张",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Elocution.png\",\n    \"Elocutions in Arguments\",\n    \"ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-43-1",
+    "original": "ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.",
+    "translation": "辩论并不是只用确凿的证据来进行。有时你需要声明自己的立场和观点，来说服对手他们的主张是错误的。当出现声张环节时，从三项回应中选择一项。阅读对手的心理档案来推断哪一个回应是最合适的。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Elocution.png\",\n    \"Elocutions in Arguments\",\n    \"ARGUMENTS are not always fought using hard evidence. Sometimes you need to ELOCUTE to convince your opponent that their claim is wrong. When prompted for an ELOCUTION, choose from one of the three possible responses. The correct response can be gleaned from reading your opponent’s PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Interpret-0-0",
+    "original": "Interpreting During Arguments",
+    "translation": "在辩论中舌战",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Merchant_Interpret\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Interpret Tutorial.png\",\n    \"Interpreting During Arguments\",\n    \"For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Interpret-0-1",
+    "original": "For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.",
+    "translation": "对于一些特别的主张，你需要观察对手的想法和情绪来选择正确的回应。/n/n逻辑：当对手的主张与你所持的证据相悖时选择此项。/n直觉：当对手的想法与他们的主张相矛盾时选择此项。/n共情：当对手的情绪与他们的主张相矛盾时选择此项。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Merchant_Interpret\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Argument Interpret Tutorial.png\",\n    \"Interpreting During Arguments\",\n    \"For certain CLAIMS, you will need to look at your opponent’s THOUGHTS and EMOTIONS. Choose the correct response, depending on the information seen./n/nLOGIC: Choose this option if your opponent’s thought contradicts something in your NOTES./nINTUITION: Choose this option if your opponent’s THOUGHT contradicts their CLAIM./nEMPATHY: Choose this option if your opponent’s EMOTIONS contradict their CLAIM.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Interpret-1-0",
+    "original": "Heh… I usually only sell this stuff for 5sp a flask.",
+    "translation": "呵呵……这种破玩意通常只卖 5 银币一瓶。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Merchant_Interpret\",\n  \"cmd\": [\n    \"InterpretPrompt\",\n    \"Heh… I usually only sell this stuff for 5sp a flask.\",\n    \"\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Celeste_Argument-19-0",
+    "original": "Celeste McCoy",
+    "translation": "塞莱斯特·麦考伊",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Celeste_Argument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Celeste McCoy\",\n    \"3\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Merchant_Argument-0-0",
+    "original": "Merchant",
+    "translation": "商人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Merchant_Argument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Merchant\",\n    \"2\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-Orym_Argument-26-0",
+    "original": "Orym White",
+    "translation": "奥蒙·怀特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Orym_Argument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Orym White\",\n    \"3\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-psychComplete-Orym White",
+    "original": "Orym White",
+    "translation": "奥蒙·怀特",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Present_Tavern\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
+  },
+  {
+    "key": "Case 1-sharedassets0.assets-154.json-GarrickCornered-0-0",
+    "original": "Garrick Pierce",
+    "translation": "加里克·皮尔斯",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"GarrickCornered\",\n  \"cmd\": [\n    \"CorneredWitness\",\n    \"Garrick Pierce\",\n    \"3\"\n  ],\n  \"keywords\": []\n}"
+  }
+]

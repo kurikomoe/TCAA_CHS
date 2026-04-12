@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 5-4-Celeste's Testimony-displayName",
+    "original": "Celeste's Testimony",
+    "translation": "塞莱斯特的证言",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Celeste's Testimony\",\n  \"Idx\": 4,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 5-4-Celeste's Testimony-description",
+    "original": "During the afternoon of the murder, Celeste McCoy heard a suspicious sound and investigated the hallway leading to the Prayer Room. There she saw Aria Steelwind fighting the guards. \r\\n\r\\nAria didn’t respond to Celeste’s questions and attacked her as well. The two fought to a standstill and Aria pushed past her. When Celeste arrived at the Prayer Room, she found Tyrion and Aria unconscious. And Pierce was already dead. She didn’t see Beatrice Frega at any point during the altercation.\r",
+    "translation": "谋杀发生的下午，塞莱斯特·麦考伊听见可疑的声音，便去调查通往祷告室的走廊。她在那里看到阿莉亚·斯蒂尔文德与卫兵争斗。\\n\\n阿莉亚没有回答塞莱斯特的问题，反而攻击了她。两人的搏斗胜负难分，阿莉亚最后推开她离去。塞莱斯特进入祷告室后，发现了失去意识的提利昂与阿莉亚，皮尔斯已经死亡。她在争斗期间没有看见过比亚特丽丝·弗雷加。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Celeste's Testimony\",\n  \"Idx\": 4,\n  \"Attr\": \"description\"\n}"
+  }
+]

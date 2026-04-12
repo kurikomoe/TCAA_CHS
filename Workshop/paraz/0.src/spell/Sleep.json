@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-19-Sleep-displayName",
+    "original": "Sleep",
+    "translation": "睡眠术",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Sleep\",\n  \"Idx\": 19,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "SpellLibrary-19-Sleep-description",
+    "original": "The caster conjures a magical mist in the direction that they stretch their palm. This magical mist will travel up to 30ft before dissipating. Any creature who inhales the mist will fall into a magical slumber. An affected creature will be woken from their slumber if they are violently shaken or experience any sort of pain.",
+    "translation": "施法者在伸出手掌的方向创造一团魔法迷雾。魔法迷雾在消散前可以传播 30 英尺。任何吸入迷雾的生物都会因魔力沉睡。如果感到疼痛，或被剧烈摇动，陷入沉睡的生物就会苏醒。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Sleep\",\n  \"Idx\": 19,\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "SpellLibrary-19-Sleep-incantation",
+    "original": "\"Som-ni-ah\"",
+    "translation": "“Som-ni-ah”",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Sleep\",\n  \"Idx\": 19,\n  \"Attr\": \"incantation\"\n}"
+  },
+  {
+    "key": "SpellLibrary-19-Sleep-gesture",
+    "original": "An outstretched palm",
+    "translation": "伸出手掌",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Sleep\",\n  \"Idx\": 19,\n  \"Attr\": \"gesture\"\n}"
+  },
+  {
+    "key": "SpellLibrary-19-Sleep-duration",
+    "original": "While concentrating",
+    "translation": "注意力集中时",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Sleep\",\n  \"Idx\": 19,\n  \"Attr\": \"duration\"\n}"
+  }
+]

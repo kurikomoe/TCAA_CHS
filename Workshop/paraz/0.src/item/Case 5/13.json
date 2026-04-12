@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 5-13-Sibyl's Spell Compendium-displayName",
+    "original": "Sibyl's Spell Compendium",
+    "translation": "希比尔的法术汇编",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Sibyl's Spell Compendium\",\n  \"Idx\": 13,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 5-13-Sibyl's Spell Compendium-description",
+    "original": "Coraline Sibyl’s Spell Compendium. It contains the formulas for the following spells: Slow Fall, Foresight, Strike True, Detect Magic, Stone Skin, and Mend Wounds.",
+    "translation": "卡洛琳·希比尔的法术汇编。包含了以下法术：缓降术、危险预知、精准打击、法术探测、岩石护甲和疗愈术。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Sibyl's Spell Compendium\",\n  \"Idx\": 13,\n  \"Attr\": \"description\"\n}"
+  }
+]

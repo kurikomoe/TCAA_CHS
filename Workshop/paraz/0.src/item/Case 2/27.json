@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 2-27-Construct In the Locker Room-displayName",
+    "original": "Construct In the Locker Room",
+    "translation": "储物柜室里的奥术构造体",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Construct In the Locker Room\",\n  \"Idx\": 27,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 2-27-Construct In the Locker Room-description",
+    "original": "There appears to be an inactive Arcane Construct in the Academy Locker Room.",
+    "translation": "学院储物柜室里好像有个没激活的奥术构造体。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Construct In the Locker Room\",\n  \"Idx\": 27,\n  \"Attr\": \"description\"\n}"
+  }
+]

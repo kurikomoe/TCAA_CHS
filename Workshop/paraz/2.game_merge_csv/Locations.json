@@ -1,0 +1,332 @@
+[
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::1a7dc842903714ce",
+    "original": "Courtroom",
+    "translation": "法庭",
+    "context": "{\n  \"reference name\": \"Courtroom\",\n  \"display name\": \"Courtroom\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::d72f1acb0afd8353",
+    "original": "Temple of the Scaled Lord",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Temple\",\n  \"display name\": \"Temple of the Scaled Lord\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::51ac8166b6b1b841",
+    "original": "Courthouse: Lobby",
+    "translation": "法庭：大厅",
+    "context": "{\n  \"reference name\": \"Lobby\",\n  \"display name\": \"Courthouse: Lobby\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::b0745aabc88064b0",
+    "original": "Ratholme Dungeons",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Dungeon\",\n  \"display name\": \"Ratholme Dungeons\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::1d6fe8ef0fde4c6d",
+    "original": "Test Location",
+    "translation": "Test Location",
+    "context": "{\n  \"reference name\": \"Test Location\",\n  \"display name\": \"Test Location\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::d581162321a25b2a",
+    "original": "Test Location 2",
+    "translation": "Test Location 2",
+    "context": "{\n  \"reference name\": \"Test Location 2\",\n  \"display name\": \"Test Location 2\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::ce07824b3662cf8e",
+    "original": "Court of Azathoth",
+    "translation": "阿萨索斯法庭",
+    "context": "{\n  \"reference name\": \"Azathoth\",\n  \"display name\": \"Court of Azathoth\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::f41c4e4dab0b44d7",
+    "original": "Forest",
+    "translation": "森林",
+    "context": "{\n  \"reference name\": \"Forest\",\n  \"display name\": \"Forest\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::632782beeb08c4ef",
+    "original": "Kornhaven",
+    "translation": "科尔哈文",
+    "context": "{\n  \"reference name\": \"Kornhaven\",\n  \"display name\": \"Kornhaven\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::23174a0541bd5b25",
+    "original": "McCoy Tavern: Celeste's Room",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"CelesteRoom\",\n  \"display name\": \"McCoy Tavern: Celeste's Room\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::cd94daad711e278a",
+    "original": "McCoy Tavern",
+    "translation": "麦考伊酒馆",
+    "context": "{\n  \"reference name\": \"McCoy Room Night\",\n  \"display name\": \"McCoy Tavern\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::fc3f67066dffe2a2",
+    "original": "McCoy Tavern: Upstairs",
+    "translation": "麦考伊酒馆：二层",
+    "context": "{\n  \"reference name\": \"Upstairs\",\n  \"display name\": \"McCoy Tavern: Upstairs\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::d984956d4fe666fe",
+    "original": "Aegwyn Tavern: Upstairs",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"AurUpstairs\",\n  \"display name\": \"Aegwyn Tavern: Upstairs\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::987ed27bdf0eb355",
+    "original": "Flinhart Photo",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Flinhart Photo\",\n  \"display name\": \"Flinhart Photo\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::933b750898fde276",
+    "original": "Checkmate",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Checkmate\",\n  \"display name\": \"Checkmate\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::f2555836284da772",
+    "original": "CheckmateF",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"CheckmateF\",\n  \"display name\": \"CheckmateF\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::645df1258588c625",
+    "original": "Imperial Academy: Hallway",
+    "translation": "帝国学院：走廊",
+    "context": "{\n  \"reference name\": \"AcademyHall\",\n  \"display name\": \"Imperial Academy: Hallway\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::0dbe1da97a5b9f8b",
+    "original": "Imperial Academy: Classroom",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Classroom\",\n  \"display name\": \"Imperial Academy: Classroom\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::bf146ecca0bd7587",
+    "original": "Imperial Academy: Kitchen",
+    "translation": "帝国学院：厨房",
+    "context": "{\n  \"reference name\": \"Kitchen\",\n  \"display name\": \"Imperial Academy: Kitchen\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::cd99354c88ce9a0c",
+    "original": "Imperial Academy: Library",
+    "translation": "帝国学院: 图书馆",
+    "context": "{\n  \"reference name\": \"Library\",\n  \"display name\": \"Imperial Academy: Library\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::8be2829fcd276389",
+    "original": "Imperial Academy: Headmaster's Office",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Headmaster\",\n  \"display name\": \"Imperial Academy: Headmaster's Office\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::8a128819aff73198",
+    "original": "Imperial Academy: Dorm Room",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Dorm\",\n  \"display name\": \"Imperial Academy: Dorm Room\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::933a592d73229450",
+    "original": "Cemetery",
+    "translation": "墓园",
+    "context": "{\n  \"reference name\": \"Cemetery\",\n  \"display name\": \"Cemetery\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::d513f6d08b93b635",
+    "original": "Imperial Academy: Locker Room",
+    "translation": "帝国学院：储物柜室",
+    "context": "{\n  \"reference name\": \"Lockers\",\n  \"display name\": \"Imperial Academy: Locker Room\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::f7fadafeb70dee0b",
+    "original": "Imperial Academy: Foyer",
+    "translation": "帝国学院：前厅",
+    "context": "{\n  \"reference name\": \"SchoolFoyer\",\n  \"display name\": \"Imperial Academy: Foyer\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::1b0743cff111cd6a",
+    "original": "Alley",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Alley\",\n  \"display name\": \"Alley\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::2f27b72b9d07440a",
+    "original": "Frega Manor: Ballroom",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"DanceCG1\",\n  \"display name\": \"Frega Manor: Ballroom\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::6a30318f0a99f98c",
+    "original": "Frega Manor: Beatrice's Room",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"BeatriceRoom\",\n  \"display name\": \"Frega Manor: Beatrice's Room\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::1adfc2527f6148e3",
+    "original": "Frega Manor: Gallery",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"GalleryIntro\",\n  \"display name\": \"Frega Manor: Gallery\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::58bea5ec36be3940",
+    "original": "Frega Manor: Hallway",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"BallHallway\",\n  \"display name\": \"Frega Manor: Hallway\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::7bc7b0a79450c1dc",
+    "original": "Mafia Headquarters",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mafia\",\n  \"display name\": \"Mafia Headquarters\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::b0f71b941a5ebc36",
+    "original": "Frega Manor: Study",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"BallStudy\",\n  \"display name\": \"Frega Manor: Study\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::9e69f97875286ebf",
+    "original": "Frega Manor: Storage Room",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"BallStorage\",\n  \"display name\": \"Frega Manor: Storage Room\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::d51a38d3bbfd81be",
+    "original": "Frega Manor: Sitting Room",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"SitRoom\",\n  \"display name\": \"Frega Manor: Sitting Room\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::df465d5623c49895",
+    "original": "Tyrion's Home",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"TyrionRoomIntro\",\n  \"display name\": \"Tyrion's Home\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::baf4ce15341a95b0",
+    "original": "Grand Catherdral",
+    "translation": "大教堂",
+    "context": "{\n  \"reference name\": \"CathedralOut\",\n  \"display name\": \"Grand Catherdral\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::0d5fe27327c4aba7",
+    "original": "Common Room",
+    "translation": "公共休息室",
+    "context": "{\n  \"reference name\": \"CommonRoomIntro\",\n  \"display name\": \"Common Room\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::8d1ea8688189fcaf",
+    "original": "Cathedral Garden",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Garden\",\n  \"display name\": \"Cathedral Garden\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::2befe631769a7296",
+    "original": "Prayer Room",
+    "translation": "祷告室",
+    "context": "{\n  \"reference name\": \"PrayerRoomIntro\",\n  \"display name\": \"Prayer Room\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::e3cce37c4ac9c6b5",
+    "original": "Nave",
+    "translation": "中殿",
+    "context": "{\n  \"reference name\": \"Cathedral\",\n  \"display name\": \"Nave\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::15bf72c164c36606",
+    "original": "West Balcony",
+    "translation": "西侧阳台",
+    "context": "{\n  \"reference name\": \"Balcony1\",\n  \"display name\": \"West Balcony\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::ddef511cc548f891",
+    "original": "The Ancient City of Ladon",
+    "translation": "古城雷登",
+    "context": "{\n  \"reference name\": \"Ladon\",\n  \"display name\": \"The Ancient City of Ladon\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::f198b72cd9d1bb17",
+    "original": "Ratholme",
+    "translation": "瑞思霍姆",
+    "context": "{\n  \"reference name\": \"TownSquare2\",\n  \"display name\": \"Ratholme\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::1e13d4e9ee1f86a8",
+    "original": "Frega Manor",
+    "translation": "弗雷加庄园",
+    "context": "{\n  \"reference name\": \"FregaManor2\",\n  \"display name\": \"Frega Manor\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::71c16702bb38fb0d",
+    "original": "Tymora Law Offices",
+    "translation": "泰摩拉法律事务所",
+    "context": "{\n  \"reference name\": \"TymoraOffice2\",\n  \"display name\": \"Tymora Law Offices\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::6aaf19600a66ded4",
+    "original": "Aurinax Harbor",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"ConfessDark\",\n  \"display name\": \"Aurinax Harbor\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::ac0c0b8a73f300ee",
+    "original": "Tavern",
+    "translation": "酒馆",
+    "context": "{\n  \"reference name\": \"AurTavern\",\n  \"display name\": \"Tavern\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::1183b48108f3d316",
+    "original": "Aurinax Town Square",
+    "translation": "欧奥耐克斯市政广场",
+    "context": "{\n  \"reference name\": \"AurSquare\",\n  \"display name\": \"Aurinax Town Square\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::f509237a622bb476",
+    "original": "Darkk Roasts and Light Magic",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"RikaCafe\",\n  \"display name\": \"Darkk Roasts and Light Magic\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::4f8e093ded81cbef",
+    "original": "Arcane Refinery",
+    "translation": "奥术精炼厂",
+    "context": "{\n  \"reference name\": \"Factory\",\n  \"display name\": \"Arcane Refinery\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::fa03ac8fca2b6aad",
+    "original": "Aurinax Arcane Refinery",
+    "translation": "欧奥耐克斯奥术精炼厂",
+    "context": "{\n  \"reference name\": \"FactoryUp\",\n  \"display name\": \"Aurinax Arcane Refinery\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::dc2ff039a8c20140",
+    "original": "Childhood Home",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"TyrHouse\",\n  \"display name\": \"Childhood Home\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::39df4c016c4a74e5",
+    "original": "Von Sanctus Manor",
+    "translation": "冯·桑克图斯庄园",
+    "context": "{\n  \"reference name\": \"SanctusManor\",\n  \"display name\": \"Von Sanctus Manor\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::f65b2548c3f9a90a",
+    "original": "Ratholme Grand Cathedral",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"MeetingSteelwind\",\n  \"display name\": \"Ratholme Grand Cathedral\"\n}"
+  },
+  {
+    "key": "Locations.csv::DISPLAY NAME TRANSLATION::c66894511a00adc5",
+    "original": "Arcarus",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Arcarus\",\n  \"display name\": \"Arcarus\"\n}"
+  }
+]

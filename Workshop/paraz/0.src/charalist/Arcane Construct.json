@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Arcane Construct-displayName",
+    "original": "Arcane Construct",
+    "translation": "奥术构造体",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Arcane Construct\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Arcane Construct-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Arcane Construct\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Arcane Construct-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Arcane Construct\",\n  \"Attr\": \"arcaneArt\"\n}"
+  },
+  {
+    "key": "Arcane Construct-occupation",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Arcane Construct\",\n  \"Attr\": \"occupation\"\n}"
+  }
+]

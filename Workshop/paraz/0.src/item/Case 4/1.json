@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 4-1-Beatrice's Inheritance 0-displayName",
+    "original": "Beatrice's Story",
+    "translation": "比亚特丽丝的故事",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Beatrice's Inheritance 0\",\n  \"Idx\": 1,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 4-1-Beatrice's Inheritance 0-description",
+    "original": "Beatrice Frega fled from her family five years ago and went into hiding. Until the night of the murder, many of her friends and family members hadn’t seen or heard from her.",
+    "translation": "比亚特丽丝·弗雷加五年前逃离家族，藏了起来。谋杀当晚之前，她都很久没有联络过朋友和家人。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Beatrice's Inheritance 0\",\n  \"Idx\": 1,\n  \"Attr\": \"description\"\n}"
+  }
+]

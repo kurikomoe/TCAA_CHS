@@ -1,0 +1,105 @@
+TEXT,TRANSLATION,COMMENTS
+new game,新游戏,Button on the Title Screen.
+load game,加载游戏,Button on the Title Screen.
+settings,设置,Button on the Title Screen.
+crowdfunders,众筹名单,Button on the Title Screen.
+credits,致谢名单,Button on the Title Screen.
+quit game,退出游戏,Button on the Title Screen.
+Play Episode,游玩章节,Button on the Episode Select Menu.
+Occupation,职业,Field used when displaying character information.
+Age,年龄,Field used when displaying character information.
+Arcane Art,奥术,Field used when displaying character information.
+evidence,证据,Button on the dialogue box.
+menus,菜单,Button on the dialogue box.
+auto,自动播放,Button on the dialogue box.
+text log,文本日志,Button on the dialogue box.
+hide gui,隐藏界面,Button on the dialogue box.
+Evidence,证据,Button Text on the Pause Menu.
+Save/Load,保存/加载,Button Text on the Pause Menu.
+Text Log,文本日志,Button Text on the Pause Menu.
+Settings,设置,Button Text on the Pause Menu.
+To Title,返回标题界面,Button Text on the Pause Menu.
+Quit,退出,Button Text on the Pause Menu.
+view collected clues,查看获得的线索,"Text under the ""Evidence"" button on the Pause Menu."
+save or load progress,保存或加载进度,"Text under the ""Save/Load"" button on the Pause Menu."
+view dialogue history,查看对话历史,"Text under the ""Text Log"" button on the Pause Menu."
+adjust game settings,调整游戏设置,"Text under the ""Settings"" button on the Pause Menu."
+return to title screen,返回标题界面,"Text under the ""To Title"" button on the Pause Menu."
+close the application,关闭程序,"Text under the ""Quit"" button on the Pause Menu."
+Clues,线索,Tab heading on the Evidence Menu.
+Spells,法术,Tab heading on the Evidence Menu.
+People,人物,Tab heading on the Evidence Menu.
+Save #,存档 #,Indicates the file # of each save file on the Save Menu.
+Episode,章节,Indicates the Episode of each save file on the Save Menu.
+Investigation,调查阶段,Indicates the section type of each save file on the Save Menu.
+Trial,庭审阶段,Indicates the section type of each save file on the Save Menu.
+Save,保存,Button on each save file on the Save Menu.
+Load,加载,Button on each save file on the Save Menu.
+Delete,删除,Button on each save file on the Save Menu.
+CANCEL,取消,Button text on the Move Location Menu.
+Travel,移动,Button text on the Move Location Menu.
+Psychological Profile,心理档案,Heading on the Psychological Profile display.
+Insight,洞察,Heading on the Insight display while using the Empowered Eye of Horus on a witness.
+Gameplay,游戏性,Tab button on the Settings Menu.
+Graphics,图像品质,Tab button on the Settings Menu.
+Audio,音频,Tab button on the Settings Menu.
+Input,控制,Tab button on the Settings Menu.
+Workshop,创意工坊,Tab button on the Settings Menu.
+Text Speed,文本速度,Gameplay Option in the Settings Menu.
+Character Emotes,,Gameplay Option in the Settings Menu.
+Language [Mod],语言 [模组],Gameplay Option in the Settings Menu.
+Resolution,分辨率,Graphics Option in the Settings Menu.
+Screen Mode,,Graphics Option in the Settings Menu.
+Refresh Rate,,Graphics Option in the Settings Menu.
+Vsync,,Graphics Option in the Settings Menu.
+Master Volume,,Audio Option in the Settings Menu.
+Music Volume,,Audio Option in the Settings Menu.
+SFX Volume,,Audio Option in the Settings Menu.
+NAME,,Heading in the Input Section of the Settings Menu.
+KEYBOARD,,Heading in the Input Section of the Settings Menu.
+JOYSTICK,,Heading in the Input Section of the Settings Menu.
+Proceed,,Rebindable input in the Settings Menu.
+Skip,,Rebindable input in the Settings Menu.
+Open Menus,,Rebindable input in the Settings Menu.
+Skip Scene,,Rebindable input in the Settings Menu.
+Autoplay,,Rebindable input in the Settings Menu.
+Hide Gui,,Rebindable input in the Settings Menu.
+Open Evidence,,Rebindable input in the Settings Menu.
+Detect Magic,,Rebindable input in the Settings Menu.
+Press,,Rebindable input in the Settings Menu.
+Present,,Rebindable input in the Settings Menu.
+OK,,Appears on dialogue boxes asking the player to confirm or cancel.
+Cancel,,Appears on dialogue boxes asking the player to confirm or cancel.
+Continue,,Appears on Tutorial Windows.
+Clear,,Appears on the dialogue box that confirms if a player wants to clear an input on the Settings Menu.
+Submit,,"On the ""Submit"" button of Deduction segments."
+Objection!,,"""Objection!"" as it is written in the Text Log."
+PRESS,,Label used on the PRESS button that appears during testimonies.
+PRESENT,,Label used on the PRESENT button that appears during testimonies.
+OBTAINED EVIDENCE!,,Shown when the player obtains a new piece of evidence.
+EVIDENCE UPDATED!,,Shown when the player obtains an update to an existing piece of evidence.
+Examine,,An Option Button shown when at a location during an Investigation.
+Talk,,An Option Button shown when at a location during an Investigation.
+Move,,An Option Button shown when at a location during an Investigation.
+Menus,,An Option Button shown when at a location during an Investigation.
+Negotiate,,An Option Button shown during Arguments.
+Comply,,An Option Button shown during Arguments.
+Call,,"An Option Button shown during Arguments. ""Call"" refers to calling your opponent's bluff."
+Logic,,An Option Button shown during Arguments.
+Intuition,,An Option Button shown during Arguments.
+Empathy,,An Option Button shown during Arguments.
+Deflect,,"An Option Button shown during Arguments. ""Deflect"" refers to deflecting your opponent's statement and changing the subject."
+Interpret,,An Option Button shown during Arguments.
+Project,,"An Option Button shown when using the Empowered Eye of Horus on a witness. ""Project"" refers to magically projecting an idea into the witness's mind."
+Doubt,,An Option Button shown during Arguments.
+Agree,,An Option Button shown during Arguments.
+Rationalize,,An Option Button shown during Arguments.
+Appeal,,An Option Button shown during Arguments.
+Threaten,,An Option Button shown during Arguments.
+Completed!,,On the Completion Card shown at the end of each Case.
+School,,An item field on the Evidence Menu.
+Incantation,,An item field on the Evidence Menu.
+Gesture,,An item field on the Evidence Menu.
+Duration,,An item field on the Evidence Menu.
+Concentration,,An item field on the Evidence Menu.
+5 Minutes Later,,Shown after Celeste absolutely bodies those two teenagers.

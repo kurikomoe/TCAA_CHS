@@ -1,0 +1,30 @@
+[
+  {
+    "key": "RathIntro-displayName",
+    "original": "Rathallion the Scaled Lord",
+    "translation": "鳞甲领主拉萨利昂",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"RathIntro\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "RathIntro-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"RathIntro\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "RathIntro-occupation",
+    "original": "Scaled Lord",
+    "translation": "鳞甲领主",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"RathIntro\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "RathIntro-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"RathIntro\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

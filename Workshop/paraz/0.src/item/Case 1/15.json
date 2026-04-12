@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 1-15-Celeste's Bedroom Key-displayName",
+    "original": "Celeste's Bedroom Key",
+    "translation": "塞莱斯特的卧室钥匙",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Celeste's Bedroom Key\",\n  \"Idx\": 15,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 1-15-Celeste's Bedroom Key-description",
+    "original": "The key to Celeste McCoy's bedroom in the McCoy Tavern.",
+    "translation": "塞莱斯特的卧室钥匙，卧室位于麦考伊酒馆内。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Celeste's Bedroom Key\",\n  \"Idx\": 15,\n  \"Attr\": \"description\"\n}"
+  }
+]

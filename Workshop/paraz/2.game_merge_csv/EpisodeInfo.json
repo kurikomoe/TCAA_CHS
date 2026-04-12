@@ -1,0 +1,74 @@
+[
+  {
+    "key": "EpisodeInfo.csv::FULL NAME TRANSLATION::f2545d72b66844c9",
+    "original": "Testing Environment",
+    "translation": "Testing Environment",
+    "context": "{\n  \"reference name\": \"Test\",\n  \"full name\": \"Testing Environment\",\n  \"episode number\": \"Case 0\",\n  \"epsiode name\": \"No need to translate\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::EPISODE NUMBER TRANSLATION::59607224815cec35",
+    "original": "Case 0",
+    "translation": "Case 0",
+    "context": "{\n  \"reference name\": \"Test\",\n  \"full name\": \"Testing Environment\",\n  \"episode number\": \"Case 0\",\n  \"epsiode name\": \"No need to translate\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::FULL NAME TRANSLATION::0547cfc6d310d806",
+    "original": "Case I - The Coldhearted Aristocrat",
+    "translation": "案件 I - 冷血贵族",
+    "context": "{\n  \"reference name\": \"Case 1\",\n  \"full name\": \"Case I - The Coldhearted Aristocrat\",\n  \"episode number\": \"Case I\",\n  \"epsiode name\": \"The Coldhearted Aristocrat\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::EPISODE NUMBER TRANSLATION::ebe0e2d823bdc2fe",
+    "original": "Case I",
+    "translation": "案件 I",
+    "context": "{\n  \"reference name\": \"Case 1\",\n  \"full name\": \"Case I - The Coldhearted Aristocrat\",\n  \"episode number\": \"Case I\",\n  \"epsiode name\": \"The Coldhearted Aristocrat\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::FULL NAME TRANSLATION::0519a1aeae106287",
+    "original": "Case II - The Walking Dead",
+    "translation": "案件 II - 行尸走肉",
+    "context": "{\n  \"reference name\": \"Case 2\",\n  \"full name\": \"Case II - The Walking Dead\",\n  \"episode number\": \"Case II\",\n  \"epsiode name\": \"The Walking Dead\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::EPISODE NUMBER TRANSLATION::1e96eedce43cc595",
+    "original": "Case II",
+    "translation": "案件 II",
+    "context": "{\n  \"reference name\": \"Case 2\",\n  \"full name\": \"Case II - The Walking Dead\",\n  \"episode number\": \"Case II\",\n  \"epsiode name\": \"The Walking Dead\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::FULL NAME TRANSLATION::237ddff9f40d0b32",
+    "original": "Case III - The Origins of Horus",
+    "translation": "案件 III - 荷鲁斯之源",
+    "context": "{\n  \"reference name\": \"Case 3\",\n  \"full name\": \"Case III - The Origins of Horus\",\n  \"episode number\": \"Case III\",\n  \"epsiode name\": \"The Origins of Horus\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::EPISODE NUMBER TRANSLATION::573cce37dceb29fa",
+    "original": "Case III",
+    "translation": "案件 III",
+    "context": "{\n  \"reference name\": \"Case 3\",\n  \"full name\": \"Case III - The Origins of Horus\",\n  \"episode number\": \"Case III\",\n  \"epsiode name\": \"The Origins of Horus\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::FULL NAME TRANSLATION::a600d47c67f364ba",
+    "original": "Case IV - Severed Ties",
+    "translation": "案件 IV - 一刀两断",
+    "context": "{\n  \"reference name\": \"Case 4\",\n  \"full name\": \"Case IV - Severed Ties\",\n  \"episode number\": \"Case IV\",\n  \"epsiode name\": \"Severed Ties\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::EPISODE NUMBER TRANSLATION::2da2a0c6730a9908",
+    "original": "Case IV",
+    "translation": "案件 IV",
+    "context": "{\n  \"reference name\": \"Case 4\",\n  \"full name\": \"Case IV - Severed Ties\",\n  \"episode number\": \"Case IV\",\n  \"epsiode name\": \"Severed Ties\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::FULL NAME TRANSLATION::4f774f4be0e1189b",
+    "original": "Case V - Attorney of the Arcane",
+    "translation": "案件 V - 奥术律师",
+    "context": "{\n  \"reference name\": \"Case 5\",\n  \"full name\": \"Case V - Attorney of the Arcane\",\n  \"episode number\": \"Case V\",\n  \"epsiode name\": \"Attorney of the Arcane\"\n}"
+  },
+  {
+    "key": "EpisodeInfo.csv::EPISODE NUMBER TRANSLATION::bd5aefd97b2c4b30",
+    "original": "Case V",
+    "translation": "案件 V",
+    "context": "{\n  \"reference name\": \"Case 5\",\n  \"full name\": \"Case V - Attorney of the Arcane\",\n  \"episode number\": \"Case V\",\n  \"epsiode name\": \"Attorney of the Arcane\"\n}"
+  }
+]

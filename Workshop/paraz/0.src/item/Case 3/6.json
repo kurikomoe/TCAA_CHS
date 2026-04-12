@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 3-6-Transmutation Traces-displayName",
+    "original": "Transmutation in the Refinery",
+    "translation": "精炼厂内的形变术痕迹",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Transmutation Traces\",\n  \"Idx\": 6,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 3-6-Transmutation Traces-description",
+    "original": "There are magical traces of <i>transmutation</i> on the guard rail that Justin supposedly broke before falling. These traces are <i>only</i> on the rails that Justin broke. They aren't anywhere else on the walkway…\r\\n\r\\nA mage must have sabotaged the guard rail within the last 48 hours. They clearly intended for someone to break the rail and fall into the vat. \r\\nTraces of <b>transmutation</b> were also found in several locations in the refinery. Every place where these traces were located, the surrounding machines and vats were rusted.\r",
+    "translation": "贾斯汀坠落前弄坏的护栏上有<u>形变术</u>魔法的痕迹。这些魔法痕迹<u>只</u>出现在贾斯汀弄坏的地方。走道上则是完全没有……\\n\\n有个法师在最近 48 小时内对护栏做了手脚。意图明显是让人从这里坠入桶内。\\n\\n精炼厂其他数个位置也发现了<b>形变术</b>魔法的痕迹。这些位置附近的机器和桶都生锈了。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Transmutation Traces\",\n  \"Idx\": 6,\n  \"Attr\": \"description\"\n}"
+  }
+]

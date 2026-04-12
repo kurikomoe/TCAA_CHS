@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 2-6-Autopsy Report: Catherine Bellwether-displayName",
+    "original": "Autopsy Report: Catherine Bellwether",
+    "translation": "尸检报告：凯瑟琳·贝尔维瑟",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Autopsy Report: Catherine Bellwether\",\n  \"Idx\": 6,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 2-6-Autopsy Report: Catherine Bellwether-description",
+    "original": "“Died at 2:01PM. Body shows no signs of cuts or bruising. The Alchemist Report has verified that death was not caused by poison or disease. \r\\n\r\\nBody shows traces of <i>necromancy</i> and <i>illusion</i> magic. Cause of death is not apparent but very likely caused by necromancy magic.”\r",
+    "translation": "“死亡时间下午 2:01。尸体上没有割伤或瘀伤。炼金化验报告也证明死因不是中毒或疾病。\\n\\n尸体上有<u>死灵术</u>和<u>幻象术</u>魔法的痕迹。死因尚不明确，但极有可能是死灵术所致。”",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Autopsy Report: Catherine Bellwether\",\n  \"Idx\": 6,\n  \"Attr\": \"description\"\n}"
+  }
+]

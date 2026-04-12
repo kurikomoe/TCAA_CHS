@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 2-26-Steelwind's Deduction-displayName",
+    "original": "Steelwind's Deduction",
+    "translation": "斯蒂尔文德的推理",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Steelwind's Deduction\",\n  \"Idx\": 26,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 2-26-Steelwind's Deduction-description",
+    "original": "The prosecution’s theory lays out the following timeline for Catherine Bellwether’s movements on the day of the murder.\r\\n12:00pm-1:00pm: Theodore Redmond has a meeting with Bellwether.\r\\n1:00pm: Miriam Frega saw Bellwether walking in the hallways.\r\\n1:00pm-2:00pm: Bellwether spent time in the library.\r\\n2:00pm-2:30pm: Wallace Nightgrave murdered Bellwether.\r\\n2:30pm: Jan Hughes witnessed Bellwether walking towards Lecture Hall 2-B.\r\\n3:00pm: The Ianus sisters discovered Bellwether’s body.  \r",
+    "translation": "检方的推理列出了以下凯瑟琳·贝尔维瑟被害当日的行动。\\n下午 12:00-1:00：西奥多·雷德蒙与贝尔维瑟会谈。\\n下午 1:00：米莉亚姆·弗雷加在走廊里看见贝尔维瑟。\\n下午 1:00-2:00：贝尔维瑟在图书馆度过。\\n下午 2:00-2:30：华莱士·奈特格雷夫杀害贝尔维瑟。\\n下午 2:30：简·休斯目击贝尔维瑟走向 2-B 讲堂。\\n下午 3:00：伊努斯双子发现贝尔维瑟的尸体。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Steelwind's Deduction\",\n  \"Idx\": 26,\n  \"Attr\": \"description\"\n}"
+  }
+]

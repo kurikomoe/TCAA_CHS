@@ -1,0 +1,100 @@
+[
+  {
+    "key": "location-caseTwoLocations-Dorm-displayName",
+    "original": "Dorm Room 107",
+    "translation": "107 号宿舍",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Dorm\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Hallway-displayName",
+    "original": "Imperial Academy: Hallway",
+    "translation": "帝国学院：走廊",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Hallway\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Library-displayName",
+    "original": "Imperial Academy: Library",
+    "translation": "帝国学院：图书馆",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Library\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Foyer-displayName",
+    "original": "Imperial Academy: Foyer",
+    "translation": "帝国学院：前厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Foyer\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Foyer1-displayName",
+    "original": "Imperial Academy: Foyer",
+    "translation": "帝国学院：前厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Foyer1\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Foyer2-displayName",
+    "original": "Imperial Academy: Foyer",
+    "translation": "帝国学院：前厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Foyer2\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Classroom-displayName",
+    "original": "Classroom 2-B",
+    "translation": "2-B 教室",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Classroom\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Office-displayName",
+    "original": "Headmaster's Office",
+    "translation": "校长的办公室",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Office\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Kitchen-displayName",
+    "original": "Imperial Academy: Kitchen",
+    "translation": "帝国学院：厨房",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Kitchen\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Barracks-displayName",
+    "original": "Inquisition Barracks",
+    "translation": "裁判所收容处",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Barracks\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Lobby-displayName",
+    "original": "Courthouse: Lobby",
+    "translation": "法庭：大厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Lobby\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Cemetery-displayName",
+    "original": "Cemetery",
+    "translation": "墓园",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Cemetery\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Library2-displayName",
+    "original": "Imperial Academy: Library",
+    "translation": "帝国学院：图书馆",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Library2\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseTwoLocations-Lockers-displayName",
+    "original": "Imperial Academy: Locker Room",
+    "translation": "帝国学院：储物柜室",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseTwoLocations\",\n  \"Name\": \"Lockers\",\n  \"Attr\": \"displayName\"\n}"
+  }
+]

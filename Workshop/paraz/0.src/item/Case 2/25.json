@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 2-25-Arcane Construct’s Logic Limitation-displayName",
+    "original": "Construct’s Logic Limitation",
+    "translation": "奥术构造体的逻辑缺陷",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Arcane Construct’s Logic Limitation\",\n  \"Idx\": 25,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 2-25-Arcane Construct’s Logic Limitation-description",
+    "original": "Arcane Constructs process tasks in the order that they are given. If a Construct is ordered to complete tasks A, B, and C, it will process each of those tasks individually. If task B is impossible, the Construct won’t realize this until it reaches task B. When it reaches task B, it will deem the entire series of commands as impossible and stop what it’s doing (without even attempting to complete task C).",
+    "translation": "奥术构造体只能按顺序执行任务。如果被命令完成任务 A、B、C，构造体会逐个完成任务。如果任务 B 不可能成功，构造体在开始执行任务 B 之前都不会察觉。但在任务 B 开始后，构造体就会认为整个指令都无法完成，随即中止行动（任务 C 也会被随之放弃）。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Arcane Construct’s Logic Limitation\",\n  \"Idx\": 25,\n  \"Attr\": \"description\"\n}"
+  }
+]

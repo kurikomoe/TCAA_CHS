@@ -1,0 +1,37 @@
+[
+  {
+    "key": "SpellLibrary-8-Major Illusion-displayName",
+    "original": "Major Illusion",
+    "translation": "高等幻象术",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Major Illusion\",\n  \"Idx\": 8,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "SpellLibrary-8-Major Illusion-description",
+    "original": "Creates a three-dimensional illusion. The illusion can take the form of any object or creature that can be contained in a 10ft cube. While concentrating, the caster can animate and move the image to a different location within range. The illusion is purely visual and can’t be physically touched.",
+    "translation": "创造一个三维幻象。幻象可以是任何小于10 英尺立方体的物体或生物。注意力集中时，施法者可以移动幻象至一定范围内的地点。幻象本身可以被肉眼看到，但无法被物理触碰。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Major Illusion\",\n  \"Idx\": 8,\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "SpellLibrary-8-Major Illusion-incantation",
+    "original": "\"Mill-us-o\"",
+    "translation": "“Mill-us-o”",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Major Illusion\",\n  \"Idx\": 8,\n  \"Attr\": \"incantation\"\n}"
+  },
+  {
+    "key": "SpellLibrary-8-Major Illusion-gesture",
+    "original": "None",
+    "translation": "无",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Major Illusion\",\n  \"Idx\": 8,\n  \"Attr\": \"gesture\"\n}"
+  },
+  {
+    "key": "SpellLibrary-8-Major Illusion-duration",
+    "original": "Until Dispelled",
+    "translation": "直至被驱散",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Major Illusion\",\n  \"Idx\": 8,\n  \"Attr\": \"duration\"\n}"
+  }
+]

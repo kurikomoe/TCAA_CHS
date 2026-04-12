@@ -1,0 +1,2336 @@
+[
+  {
+    "key": "Typewriters.csv::TRANSLATION::79b7d649386528ea",
+    "original": "You’ll be taken to the barracks.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1ConmanArg1\",\n  \"text\": \"You’ll be taken to the barracks.\",\n  \"comments\": \"Claim during the tutorial ARGUMENT against the \\\"Knight\\\" in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::aa74f3597082b208",
+    "original": "Pay the fine for your crimes!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1ConmanArg2\",\n  \"text\": \"Pay the fine for your crimes!\",\n  \"comments\": \"Claim during the tutorial ARGUMENT against the \\\"Knight\\\" in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f05e96d757fef853",
+    "original": "I'll use violence if I have to!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1ConmanArg3\",\n  \"text\": \"I'll use violence if I have to!\",\n  \"comments\": \"Claim during the tutorial ARGUMENT against the \\\"Knight\\\" in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::49e5baf4aacb61cb",
+    "original": "Ruby Tymora is a crooked lawyer.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1OrymArg1\",\n  \"text\": \"Ruby Tymora is a crooked lawyer.\",\n  \"comments\": \"Claim during the ARGUMENT against Orym in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f87a31ee9112e493",
+    "original": "You’re just another crook.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1OrymArg2\",\n  \"text\": \"You’re just another crook.\",\n  \"comments\": \"Claim during the ARGUMENT against Orym in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3ab58588e91e1c53",
+    "original": "I have no reason to trust you.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1OrymArg3\",\n  \"text\": \"I have no reason to trust you.\",\n  \"comments\": \"Claim during the ARGUMENT against Orym in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d651e77423d022dc",
+    "original": "How did Flinhart move before he died?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce1\",\n  \"text\": \"How did Flinhart move before he died?\",\n  \"comments\": \"DEDUCTION statement in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d1ca43cd99f9d880",
+    "original": "Flinhart|The Killer|Celeste|Tyrion",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce1A\",\n  \"text\": \"Flinhart|The Killer|Celeste|Tyrion\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1f5f0483ec896137",
+    "original": "did not|did",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce1B\",\n  \"text\": \"did not|did\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::95ba697e3eb04974",
+    "original": "move|scream|fight|die",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce1C\",\n  \"text\": \"move|scream|fight|die\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::fe31bee7d38658f4",
+    "original": "during the attack|during the argument|after the arrest|last week",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce1D\",\n  \"text\": \"during the attack|during the argument|after the arrest|last week\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7394b320b80b097d",
+    "original": "How did the bottle shatter?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce2\",\n  \"text\": \"How did the bottle shatter?\",\n  \"comments\": \"DEDUCTION statement in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a3a45d03b39bb484",
+    "original": "dropped|attacked|hid|fled",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce2B\",\n  \"text\": \"dropped|attacked|hid|fled\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a333f6c88ec1a3d7",
+    "original": "the bottle|the murder weapon|the blood|the tavern",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce2C\",\n  \"text\": \"the bottle|the murder weapon|the blood|the tavern\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4b8905057ff1f57b",
+    "original": "during the attack|during the argument|after the arrest|yesterday",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce2D\",\n  \"text\": \"during the attack|during the argument|after the arrest|yesterday\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6b20146c14c1c225",
+    "original": "What was the state of the crime scene?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce3\",\n  \"text\": \"What was the state of the crime scene?\",\n  \"comments\": \"DEDUCTION statement in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3e240c0b1946a266",
+    "original": "The crime scene|The bottle|The kitchen|The killer",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce3A\",\n  \"text\": \"The crime scene|The bottle|The kitchen|The killer\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::cd66019841d8c98a",
+    "original": "wasn’t|was",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce3B\",\n  \"text\": \"wasn’t|was\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::9c2a260b29012786",
+    "original": "lit|destroyed|shattered|attacked",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce3C\",\n  \"text\": \"lit|destroyed|shattered|attacked\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e0bf9de055728b01",
+    "original": "by the lamps|by Flinhart|by the Inquisition|by Celeste",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1TavernDeduce3D\",\n  \"text\": \"by the lamps|by Flinhart|by the Inquisition|by Celeste\",\n  \"comments\": \"DEDUCTION field in the McCoy Tavern in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ec370275d9835bad",
+    "original": "He’s always hated magic. There’s no reason behind it.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1CelesteArg1\",\n  \"text\": \"He’s always hated magic. There’s no reason behind it.\",\n  \"comments\": \"Claim during the ARGUMENT against Celeste in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::fa7a1f93dc5b7472",
+    "original": "It was selfish of me to learn magic.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1CelesteArg2\",\n  \"text\": \"It was selfish of me to learn magic.\",\n  \"comments\": \"Claim during the ARGUMENT against Celeste in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::bf1693409cc9819d",
+    "original": "He was only thinking about how I betrayed him!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1CelesteArg3\",\n  \"text\": \"He was only thinking about how I betrayed him!\",\n  \"comments\": \"Claim during the ARGUMENT against Celeste in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::8b9cfd33d9f7745b",
+    "original": "None of my spells could be used to stab Flinhart.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1GarrickClaim\",\n  \"text\": \"None of my spells could be used to stab Flinhart.\",\n  \"comments\": \"Claim during the final trial in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::bbce9d32b00c8c31",
+    "original": "I saw the murder! I witnessed everything!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1GarrickArg1\",\n  \"text\": \"I saw the murder! I witnessed everything!\",\n  \"comments\": \"Claim during the final ARGUMENT against Garrick in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4afcfb667eef4bae",
+    "original": "She was holding a blood-soaked sword!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1GarrickArg2\",\n  \"text\": \"She was holding a blood-soaked sword!\",\n  \"comments\": \"Claim during the final ARGUMENT against Garrick in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::490e4092757eff98",
+    "original": "There is no evidence of a liquefied weapon at the crime scene.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C1GarrickArg3\",\n  \"text\": \"There is no evidence of a liquefied weapon at the crime scene.\",\n  \"comments\": \"Claim during the final ARGUMENT against Garrick in Case I\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::818fb731521e80f3",
+    "original": "How does the evidence implicate Wallace?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce1\",\n  \"text\": \"How does the evidence implicate Wallace?\",\n  \"comments\": \"DEDUCTION statement in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7b7a84c2b329af3b",
+    "original": "A magical trace|A bloody weapon|A rancid smell|A witnes",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce1A\",\n  \"text\": \"A magical trace|A bloody weapon|A rancid smell|A witnes\",\n  \"comments\": \"DEDUCTION field in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::00d0ba526274eab4",
+    "original": "of necromancy|of alchemy|of illusion|of steel|from the academy",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce1B\",\n  \"text\": \"of necromancy|of alchemy|of illusion|of steel|from the academy\",\n  \"comments\": \"DEDUCTION field in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2412608af0e3b7ff",
+    "original": "was found|was smelled|was hidden|was destroyed",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce1C\",\n  \"text\": \"was found|was smelled|was hidden|was destroyed\",\n  \"comments\": \"DEDUCTION field in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::949b025b9f177f76",
+    "original": "on the body|in the classroom|in the hallway|outside the academy",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce1D\",\n  \"text\": \"on the body|in the classroom|in the hallway|outside the academy\",\n  \"comments\": \"DEDUCTION field in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::af6febdd7fe1dac1",
+    "original": "Which spell do they think Wallace used?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce2\",\n  \"text\": \"Which spell do they think Wallace used?\",\n  \"comments\": \"DEDUCTION statement in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d34b2ed028f8328b",
+    "original": "Necrotic Blight|Prestidigitation|Animate Corpse",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce2A\",\n  \"text\": \"Necrotic Blight|Prestidigitation|Animate Corpse\",\n  \"comments\": \"DEDUCTION field in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::cdc00d1c08cf28c0",
+    "original": "What is wrong with the crime scene?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce3\",\n  \"text\": \"What is wrong with the crime scene?\",\n  \"comments\": \"DEDUCTION statement in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a6ec1aef3d3b1c9c",
+    "original": "Bellwether's|Lecture Hall 2-B's|The Academy's|Wallace's",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce3A\",\n  \"text\": \"Bellwether's|Lecture Hall 2-B's|The Academy's|Wallace's\",\n  \"comments\": \"DEDUCTION field in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::bcb4afc2035aab94",
+    "original": "body|Spell Compendium|employees|floor",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce3B\",\n  \"text\": \"body|Spell Compendium|employees|floor\",\n  \"comments\": \"DEDUCTION field in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b276166fd76e72b4",
+    "original": "was covered|was destroyed|was missing|was found",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce3C\",\n  \"text\": \"was covered|was destroyed|was missing|was found\",\n  \"comments\": \"DEDUCTION field in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b42eecc65d71d3a4",
+    "original": "in blood|by Wallace|before the lockdown|during the murder",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2DungeonDeduce3D\",\n  \"text\": \"in blood|by Wallace|before the lockdown|during the murder\",\n  \"comments\": \"DEDUCTION field in the Dunegons in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::cb3f1934f9682267",
+    "original": "My conscience is clear.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2ValentinaArg1\",\n  \"text\": \"My conscience is clear.\",\n  \"comments\": \"Claim during the ARGUMENT against Valentina in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::dc0dc245de514c26",
+    "original": "I don't have to tell you anything.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2ValentinaArg2\",\n  \"text\": \"I don't have to tell you anything.\",\n  \"comments\": \"Claim during the ARGUMENT against Valentina in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7cff25f021a49fb4",
+    "original": "I don’t know anyone who can use magic.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2ValentinaArg3\",\n  \"text\": \"I don’t know anyone who can use magic.\",\n  \"comments\": \"Claim during the ARGUMENT against Valentina in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::55faa3ce9cce2cab",
+    "original": "Why doesn’t Valentina know that the spell was necromancy?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2KitchenDeduce1\",\n  \"text\": \"Why doesn’t Valentina know that the spell was necromancy?\",\n  \"comments\": \"DEDUCTION statement in the Kitchen in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::5b05ff187208cc28",
+    "original": "The spell|The weapon|The witness|The room",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2KitchenDeduce1A\",\n  \"text\": \"The spell|The weapon|The witness|The room\",\n  \"comments\": \"DEDUCTION field in the Kitchen in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2034d5f38dc18d55",
+    "original": "cast|swung|who saw|contained",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2KitchenDeduce1B\",\n  \"text\": \"cast|swung|who saw|contained\",\n  \"comments\": \"DEDUCTION field in the Kitchen in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::74660e77be614cec",
+    "original": "on Valentina|at Bellwether|within the lecture hall|during the murder",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2KitchenDeduce1C\",\n  \"text\": \"on Valentina|at Bellwether|within the lecture hall|during the murder\",\n  \"comments\": \"DEDUCTION field in the Kitchen in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a81ef19d4e3d0c93",
+    "original": "healed her|killed her|hid her|attacked her",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2KitchenDeduce1D\",\n  \"text\": \"healed her|killed her|hid her|attacked her\",\n  \"comments\": \"DEDUCTION field in the Kitchen in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::5d32608937fa81d9",
+    "original": "Why were there traces of [b]necromancy[/b] on Bellwether's body?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2KitchenDeduce2\",\n  \"text\": \"Why were there traces of [b]necromancy[/b] on Bellwether's body?\",\n  \"comments\": \"DEDUCTION statement in the Kitchen in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::97f226768ca5a1de",
+    "original": "A mage|Valentina|Wallace|The Killer",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2KitchenDeduce2A\",\n  \"text\": \"A mage|Valentina|Wallace|The Killer\",\n  \"comments\": \"DEDUCTION field in the Kitchen in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::82d5dbfc94d131a6",
+    "original": "cast a healing spell on|threw a potion at|stabbed|ran away from",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2KitchenDeduce2B\",\n  \"text\": \"cast a healing spell on|threw a potion at|stabbed|ran away from\",\n  \"comments\": \"DEDUCTION field in the Kitchen in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b5afeccf3796ec7c",
+    "original": "Bellwether|Wallace|Valentina|Theodore",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2KitchenDeduce2C\",\n  \"text\": \"Bellwether|Wallace|Valentina|Theodore\",\n  \"comments\": \"DEDUCTION field in the Kitchen in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c184aea9ad4382e6",
+    "original": "What is motivating Steelwind to keep secrets?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce1\",\n  \"text\": \"What is motivating Steelwind to keep secrets?\",\n  \"comments\": \"DEDUCTION statement in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::087f486b3ffd750d",
+    "original": "Arrogance|Paranoia|Logic",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce1A\",\n  \"text\": \"Arrogance|Paranoia|Logic\",\n  \"comments\": \"DEDUCTION field in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f8caf12bdbbf285c",
+    "original": "Who has Steelwind trusted for this case?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce2\",\n  \"text\": \"Who has Steelwind trusted for this case?\",\n  \"comments\": \"DEDUCTION statement in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::400e8a38f7aae0be",
+    "original": "Tyrion and Celeste|The Headmaster|Wallace|Commander White",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce2A\",\n  \"text\": \"Tyrion and Celeste|The Headmaster|Wallace|Commander White\",\n  \"comments\": \"DEDUCTION field in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::9d20ac1947967b2a",
+    "original": "Why does Steelwind trust us this time?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce3\",\n  \"text\": \"Why does Steelwind trust us this time?\",\n  \"comments\": \"DEDUCTION statement in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b1456f1147862c50",
+    "original": "Tyrion|Wallace|Steelwind|The Headmaster",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce3A\",\n  \"text\": \"Tyrion|Wallace|Steelwind|The Headmaster\",\n  \"comments\": \"DEDUCTION field in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::9f95355344462b51",
+    "original": "isn't|is",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce3B\",\n  \"text\": \"isn't|is\",\n  \"comments\": \"DEDUCTION field in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::5c0cda402fd96eb4",
+    "original": "controlled by|capable of|a member of|an employee of",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce3C\",\n  \"text\": \"controlled by|capable of|a member of|an employee of\",\n  \"comments\": \"DEDUCTION field in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::39028d21df394cf5",
+    "original": "the nobility|using magic|the faculty|the Inquisition",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce3D\",\n  \"text\": \"the nobility|using magic|the faculty|the Inquisition\",\n  \"comments\": \"DEDUCTION field in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e8b952dfbcffc872",
+    "original": "What can I infer about the secret witness?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce4\",\n  \"text\": \"What can I infer about the secret witness?\",\n  \"comments\": \"DEDUCTION statement in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::47be12c3e761c918",
+    "original": "The witness|Steelwind|Wallace|The killer",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce4A\",\n  \"text\": \"The witness|Steelwind|Wallace|The killer\",\n  \"comments\": \"DEDUCTION field in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::cfbf3d4d7a3f7ecf",
+    "original": "is a|isn't a|is a|isn't a",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce4B\",\n  \"text\": \"is a|isn't a|is a|isn't a\",\n  \"comments\": \"DEDUCTION field in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::abe7770a9f5858aa",
+    "original": "noble|murderer|student|suspect",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce4C\",\n  \"text\": \"noble|murderer|student|suspect\",\n  \"comments\": \"DEDUCTION field in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::8b5c40b227405f66",
+    "original": "Whose locker had the most suspicious evidence?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce5\",\n  \"text\": \"Whose locker had the most suspicious evidence?\",\n  \"comments\": \"DEDUCTION statement in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::58e6eb65073ff65e",
+    "original": "Miriam Frega|Wallace Nightgrave|Jaiden von Sanctus|Warren Sibyl",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2LockersDeduce5A\",\n  \"text\": \"Miriam Frega|Wallace Nightgrave|Jaiden von Sanctus|Warren Sibyl\",\n  \"comments\": \"DEDUCTION field in the Locker Room in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ec1feb2af0e6d8c6",
+    "original": "Nothing about my behavior has changed.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2AriaArg1\",\n  \"text\": \"Nothing about my behavior has changed.\",\n  \"comments\": \"Claim during the ARGUMENT against Aria in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::da10abf06e74b525",
+    "original": "Why would I act in such a way?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2AriaArg2\",\n  \"text\": \"Why would I act in such a way?\",\n  \"comments\": \"Claim during the ARGUMENT against Aria in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ab137ec8bdd9ea1c",
+    "original": "My investigation doesn’t involve the Fregas.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2AriaArg3\",\n  \"text\": \"My investigation doesn’t involve the Fregas.\",\n  \"comments\": \"Claim during the ARGUMENT against Aria in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::eb69f6e52944d037",
+    "original": "You can’t prove that piece of evidence exists.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2AriaArg4\",\n  \"text\": \"You can’t prove that piece of evidence exists.\",\n  \"comments\": \"Claim during the ARGUMENT against Aria in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::554230b2f33aa83c",
+    "original": "Which spell would leave a trace of [i]necromancy[/i]?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2Trial1-1\",\n  \"text\": \"Which spell would leave a trace of [i]necromancy[/i]?\",\n  \"comments\": \"PRESENT Prompt after Orym's cross-examination during Trial 1 of Case II \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::005c379c83536dd5",
+    "original": "How did the twins trick the Inquisition?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2Trial1-2\",\n  \"text\": \"How did the twins trick the Inquisition?\",\n  \"comments\": \"DEDUCTION statement after Valentina's cross-examination during Trial 1 of Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3a35f3bc5d5c81dd",
+    "original": "Valentina|Wallace|Bellwether|Orym",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2Trial1-2A\",\n  \"text\": \"Valentina|Wallace|Bellwether|Orym\",\n  \"comments\": \"DEDUCTION field after Valentina's cross-examination during Trial 1 of Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::30f2a2ac9230a6f2",
+    "original": "switched|hid|incorrectly|healed",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2Trial1-2B\",\n  \"text\": \"switched|hid|incorrectly|healed\",\n  \"comments\": \"DEDUCTION field after Valentina's cross-examination during Trial 1 of Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f02c51ef897e1935",
+    "original": "places with|from|spoke with|the wounds of",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2Trial1-2C\",\n  \"text\": \"places with|from|spoke with|the wounds of\",\n  \"comments\": \"DEDUCTION field after Valentina's cross-examination during Trial 1 of Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::5f63b12314d01adb",
+    "original": "Valerie|Wallace|Bellwether|Orym",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2Trial1-2D\",\n  \"text\": \"Valerie|Wallace|Bellwether|Orym\",\n  \"comments\": \"DEDUCTION field after Valentina's cross-examination during Trial 1 of Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e42769f99193a165",
+    "original": "What created Bellwether's voice?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2Trial2-1\",\n  \"text\": \"What created Bellwether's voice?\",\n  \"comments\": \"PRESENT Prompt after Jan's cross-examination during Trial 2 of Case II \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f9dbe692aec38f1a",
+    "original": "Who ordered the Construct to hide the body?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2Trial2-2\",\n  \"text\": \"Who ordered the Construct to hide the body?\",\n  \"comments\": \"PRESENT Prompt after Jan's cross-examination during Trial 2 of Case II \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d69731a7d8e7008c",
+    "original": "I was alone and could not overpower Bellwether.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2TheodoreArg1\",\n  \"text\": \"I was alone and could not overpower Bellwether.\",\n  \"comments\": \"Claim during the final ARGUMENT against Theodore in Case II\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::62e5646f36caca6c",
+    "original": "I wouldn’t have the construct linger around the library.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2TheodoreArg2\",\n  \"text\": \"I wouldn’t have the construct linger around the library.\",\n  \"comments\": \"Claim during the final ARGUMENT against Theodore in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7949ca058c7be03d",
+    "original": "I wouldn’t have placed incriminating evidence in that locker.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2TheodoreArg3\",\n  \"text\": \"I wouldn’t have placed incriminating evidence in that locker.\",\n  \"comments\": \"Claim during the final ARGUMENT against Theodore in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::63a9c7f2b7b8b1c7",
+    "original": "There’s no reason I would make a mistake like that!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2TheodoreArg4\",\n  \"text\": \"There’s no reason I would make a mistake like that!\",\n  \"comments\": \"Claim during the final ARGUMENT against Theodore in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::364b921533b7bb03",
+    "original": "There's no evidence of my orders!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C2TheodoreArg5\",\n  \"text\": \"There's no evidence of my orders!\",\n  \"comments\": \"Claim during the final ARGUMENT against Theodore in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::32293115e4366c20",
+    "original": "What's the truth behind the tensions between Dracogen and the unions?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce1\",\n  \"text\": \"What's the truth behind the tensions between Dracogen and the unions?\",\n  \"comments\": \"DEDUCTION statement in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::dab2dfee00dd5dce",
+    "original": "There are no|There are",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce1A\",\n  \"text\": \"There are no|There are\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::93d46d863b54bf26",
+    "original": "tensions between|reports about|business relations|news articles about",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce1B\",\n  \"text\": \"tensions between|reports about|business relations|news articles about\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4a34978cbcd6e276",
+    "original": "Stefanic Dracogen|Aria Steelwind|Lloyd von Santcus|Lucio Steelwind",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce1C\",\n  \"text\": \"Stefanic Dracogen|Aria Steelwind|Lloyd von Santcus|Lucio Steelwind\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::26c1a8d32bb5ec8e",
+    "original": "and the unions|and the Inquisition|and the serial robber|and the Kingsguard",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce1D\",\n  \"text\": \"and the unions|and the Inquisition|and the serial robber|and the Kingsguard\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6c663de518f4cb4f",
+    "original": "What is strange about the Phantom's actions?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce2\",\n  \"text\": \"What is strange about the Phantom's actions?\",\n  \"comments\": \"DEDUCTION statement in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::0fcabbd70ec390c1",
+    "original": "The Mistweaver Phantom|Justin Waye|Stefanic Dracogen|Lloyd von Sanctus",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce2A\",\n  \"text\": \"The Mistweaver Phantom|Justin Waye|Stefanic Dracogen|Lloyd von Sanctus\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::69204dcf627d26b4",
+    "original": "values documents|loves their job|steals from the rich|hates commoners",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce2B\",\n  \"text\": \"values documents|loves their job|steals from the rich|hates commoners\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::df0146615055146a",
+    "original": "as much as|less than|more than",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce2C\",\n  \"text\": \"as much as|less than|more than\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f3d0f4ea3fc37abc",
+    "original": "valuables|Mosourika's food|the refinery|the city of Aurinax",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce2D\",\n  \"text\": \"valuables|Mosourika's food|the refinery|the city of Aurinax\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::feee3fd3436573fb",
+    "original": "How is the Mistweaver Phantom related to Steelwind's reports?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce3\",\n  \"text\": \"How is the Mistweaver Phantom related to Steelwind's reports?\",\n  \"comments\": \"DEDUCTION statement in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e1591260d8f51e2f",
+    "original": "The documents|The valuables|The blockade|The ships",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce3A\",\n  \"text\": \"The documents|The valuables|The blockade|The ships\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::339c3ef5d057b6d1",
+    "original": "stolen by the robber|entering Aurinax|created by the Kingsguard|found by the Inquisition",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce3B\",\n  \"text\": \"stolen by the robber|entering Aurinax|created by the Kingsguard|found by the Inquisition\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::5ad0f468dc63addf",
+    "original": "are being used to|couldn't be used to|prevented Dracogen from|would never",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce3C\",\n  \"text\": \"are being used to|couldn't be used to|prevented Dracogen from|would never\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2494beb5af64c655",
+    "original": "file false reports|keep Aurinax locked down|murder Justin Waye|frame Dracogen",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3FactoryDeduce3D\",\n  \"text\": \"file false reports|keep Aurinax locked down|murder Justin Waye|frame Dracogen\",\n  \"comments\": \"DEDUCTION field in the Arcane Refinery in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e559754e9f0715ba",
+    "original": "I don't want to talk about this.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3MosourikaArg1\",\n  \"text\": \"I don't want to talk about this.\",\n  \"comments\": \"Claim during the final ARGUMENT against Mosourika in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::955847ca4cdf3bf2",
+    "original": "I don't know who the Mistweaving Phantom is.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3MosourikaArg2\",\n  \"text\": \"I don't know who the Mistweaving Phantom is.\",\n  \"comments\": \"Claim during the final ARGUMENT against Mosourika in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::73266afb2a7d8bc9",
+    "original": "The Mistweaving Phantom isn't a threat to anyone.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3MosourikaArg3\",\n  \"text\": \"The Mistweaving Phantom isn't a threat to anyone.\",\n  \"comments\": \"Claim during the final ARGUMENT against Mosourika in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2fd120173e15b2bd",
+    "original": "I can't trust you.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3MosourikaArg4\",\n  \"text\": \"I can't trust you.\",\n  \"comments\": \"Claim during the final ARGUMENT against Mosourika in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::74907a2097f8ee07",
+    "original": "What was the function of Queen's artificery device?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3HarborDeduce1\",\n  \"text\": \"What was the function of Queen's artificery device?\",\n  \"comments\": \"DEDUCTION statement in the Aurinax Harbor in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::0c045f44902933b4",
+    "original": "Queen's device|Justin Waye|Stefanic Dracogen|My sanity",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3HarborDeduce1A\",\n  \"text\": \"Queen's device|Justin Waye|Stefanic Dracogen|My sanity\",\n  \"comments\": \"DEDUCTION field in the Aurinax Harbor in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6eab8bcfd1abbb37",
+    "original": "allowed|stopped|attacked|betrayed",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3HarborDeduce1B\",\n  \"text\": \"allowed|stopped|attacked|betrayed\",\n  \"comments\": \"DEDUCTION field in the Aurinax Harbor in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::070207db1fd81f26",
+    "original": "the wearer|Lloyd von Sanctus|Stefanic Dracogen|My sanity",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3HarborDeduce1C\",\n  \"text\": \"the wearer|Lloyd von Sanctus|Stefanic Dracogen|My sanity\",\n  \"comments\": \"DEDUCTION field in the Aurinax Harbor in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::53f71a33595d7f3e",
+    "original": "to teleport|to deflect suspicion|from fleeing|to disappear",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3HarborDeduce1D\",\n  \"text\": \"to teleport|to deflect suspicion|from fleeing|to disappear\",\n  \"comments\": \"DEDUCTION field in the Aurinax Harbor in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e76ebbff2cf1e746",
+    "original": "What is the artificery device?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3HarborDeduce2\",\n  \"text\": \"What is the artificery device?\",\n  \"comments\": \"PRESENT prompt in the Aurinax Harbor in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::12727fa36de545ff",
+    "original": "Where is the Crown Prince's stolen cargo?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3HarborDeduce3\",\n  \"text\": \"Where is the Crown Prince's stolen cargo?\",\n  \"comments\": \"PRESENT prompt in the Aurinax Harbor in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b75fded0518b8321",
+    "original": "What was I thinking about again?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3HarborDeduce4\",\n  \"text\": \"What was I thinking about again?\",\n  \"comments\": \"\\\"DEDUCTION statement\\\" at the end of the investigation in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::32c5be7f7e82c3c9",
+    "original": "Sleep|Sleep|Sleep|Sleep",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3HarborDeduce4A\",\n  \"text\": \"Sleep|Sleep|Sleep|Sleep\",\n  \"comments\": \"\\\"DEDUCTION field\\\" at the end of the investigation in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::242de5e55ddbe3de",
+    "original": "Why wasn't the bomb found in the refinery?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-1\",\n  \"text\": \"Why wasn't the bomb found in the refinery?\",\n  \"comments\": \"DEDUCTION statement after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::be75d6f5b909893c",
+    "original": "The ring|The bomb|Justin Waye|The energy cells",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-1A\",\n  \"text\": \"The ring|The bomb|Justin Waye|The energy cells\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::bc2a25a6a0dcd24d",
+    "original": "was activated.|was stolen.|died.|was lost.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-1B\",\n  \"text\": \"was activated.|was stolen.|died.|was lost.\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d620330e9c37010a",
+    "original": "The summoning spell|The teleportation spell|The bomb|The refinery",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-1C\",\n  \"text\": \"The summoning spell|The teleportation spell|The bomb|The refinery\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a0ba4d7a2a78d9c5",
+    "original": "failed.|exploded.|succeeded.|shut down.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-1D\",\n  \"text\": \"failed.|exploded.|succeeded.|shut down.\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::386952ecc13521af",
+    "original": "How did Justin use the ring when he was on the catwalk?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-2\",\n  \"text\": \"How did Justin use the ring when he was on the catwalk?\",\n  \"comments\": \"DEDUCTION statement after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::295d6c611dc7b194",
+    "original": "Justin Waye|Queen|Mosourika Tudor|Aster de Wyverngarde",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-2A\",\n  \"text\": \"Justin Waye|Queen|Mosourika Tudor|Aster de Wyverngarde\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e53e52cc371b8f6e",
+    "original": "attempted|stole|destroyed|planted",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-2B\",\n  \"text\": \"attempted|stole|destroyed|planted\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::38876ecd9877761e",
+    "original": "teleportation|theft|false reports|evidence",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-2C\",\n  \"text\": \"teleportation|theft|false reports|evidence\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::84a0ccee1ab53970",
+    "original": "and summoning|and terrorism|and evidence|and testimony",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-2D\",\n  \"text\": \"and summoning|and terrorism|and evidence|and testimony\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::07473227ebf6f936",
+    "original": "Why did Justin use the ring when he was on the catwalk?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-3\",\n  \"text\": \"Why did Justin use the ring when he was on the catwalk?\",\n  \"comments\": \"DEDUCTION statement after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::602981139e758190",
+    "original": "had no|had|lost|stole",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-3B\",\n  \"text\": \"had no|had|lost|stole\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::0c2dc406c4bf3fc1",
+    "original": "knowledge of|equipment from|evidence of|creation of",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-3C\",\n  \"text\": \"knowledge of|equipment from|evidence of|creation of\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::8df9af389b896c63",
+    "original": "the summoning spell|the insurrectionists|treason|the unions",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-3D\",\n  \"text\": \"the summoning spell|the insurrectionists|treason|the unions\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a4dccf088253a825",
+    "original": "Where was Justin supposed to be when he activated the ring?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-4\",\n  \"text\": \"Where was Justin supposed to be when he activated the ring?\",\n  \"comments\": \"DEDUCTION statement after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::17abec7fa3259742",
+    "original": "was supposed to|couldn't|wanted to|prevented from",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-4B\",\n  \"text\": \"was supposed to|couldn't|wanted to|prevented from\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2255166727852c83",
+    "original": "be inside|get away from|steal gold from|destroy",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-4C\",\n  \"text\": \"be inside|get away from|steal gold from|destroy\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::bd066bb5df4cd747",
+    "original": "Dracogen's office|the union office|Aurinax Harbor|Tyrion's old house",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-4D\",\n  \"text\": \"Dracogen's office|the union office|Aurinax Harbor|Tyrion's old house\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ce4ad93599f30328",
+    "original": "What was Justin summoning to each of the crime scenes?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-5\",\n  \"text\": \"What was Justin summoning to each of the crime scenes?\",\n  \"comments\": \"DEDUCTION statement after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::512a319bbe0d98b9",
+    "original": "was summoning|was robbing|was destroying|was hiding",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-5B\",\n  \"text\": \"was summoning|was robbing|was destroying|was hiding\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::33f2701898d5fc04",
+    "original": "false evidence of|the unions created by|resources funding|the business documents of",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-5C\",\n  \"text\": \"false evidence of|the unions created by|resources funding|the business documents of\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::477cd22ebf3864e6",
+    "original": "treason|tax evasion|Stefanic Dracogen|the workers' unions",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-5D\",\n  \"text\": \"treason|tax evasion|Stefanic Dracogen|the workers' unions\",\n  \"comments\": \"DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c4f234afd67b4576",
+    "original": "What physical evidence was related to Queen?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-6\",\n  \"text\": \"What physical evidence was related to Queen?\",\n  \"comments\": \"PRESENT prompt after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::048f5de964d558af",
+    "original": "What evidence is related to this leather scrap?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-7\",\n  \"text\": \"What evidence is related to this leather scrap?\",\n  \"comments\": \"PRESENT prompt after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b4321a9c2925802b",
+    "original": "Who said a name with \\\"VI\\\" and \\\"ETTA\\\" in it?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3Trial2-8\",\n  \"text\": \"Who said a name with \\\\\\\"VI\\\\\\\" and \\\\\\\"ETTA\\\\\\\" in it?\",\n  \"comments\": \"PRESENT prompt after Lucio's cross-examination during Trial 2 of Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6b84ae8da4edf8aa",
+    "original": "I was going to use those Constructs for labor!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3LloydArg1\",\n  \"text\": \"I was going to use those Constructs for labor!\",\n  \"comments\": \"Claim during the final ARGUMENT against Lloyd in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::cb4924a40f7dead0",
+    "original": "You have nothing that ties me to Justin!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3LloydArg2\",\n  \"text\": \"You have nothing that ties me to Justin!\",\n  \"comments\": \"Claim during the final ARGUMENT against Lloyd in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::90affe5fa6e91db8",
+    "original": "Justin was loyal to the insurrectionists!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3LloydArg3\",\n  \"text\": \"Justin was loyal to the insurrectionists!\",\n  \"comments\": \"Claim during the final ARGUMENT against Lloyd in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6a9e560cb053ac48",
+    "original": "Justin took every opportunity he could to pay off his debts!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3LloydArg4\",\n  \"text\": \"Justin took every opportunity he could to pay off his debts!\",\n  \"comments\": \"Claim during the final ARGUMENT against Lloyd in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6bb0e614d7c8c84f",
+    "original": "There's no definitive proof that the container broke the guardrail.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3LloydArg5\",\n  \"text\": \"There's no definitive proof that the container broke the guardrail.\",\n  \"comments\": \"Claim during the final ARGUMENT against Lloyd in Case III\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2e42094ff1f4e80c",
+    "original": "Justin stole everything he could. He didn't care.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C3RikaFinalDeduce\",\n  \"text\": \"Justin stole everything he could. He didn't care.\",\n  \"comments\": \"Claim during the final conversation between Mosourika and Tyrion in Case IIII \"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::82ce9c599efbb4ca",
+    "original": "What is the solution to this riddle?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4RiddleDeduce\",\n  \"text\": \"What is the solution to this riddle?\",\n  \"comments\": \"DEDUCTION statement while Tyrion is solving Horus's riddle in the Gallery\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3b0aceee3b099203",
+    "original": "The letter|The lights of|The god of|The Eye of",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4RiddleDeduceA\",\n  \"text\": \"The letter|The lights of|The god of|The Eye of\",\n  \"comments\": \"DEDUCTION field while Tyrion is solving Horus's riddle in the Gallery\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c33cc28fc50e98e4",
+    "original": "I|creation|radiance|Horus",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4RiddleDeduceB\",\n  \"text\": \"I|creation|radiance|Horus\",\n  \"comments\": \"DEDUCTION field while Tyrion is solving Horus's riddle in the Gallery\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::86389ec3efb2c876",
+    "original": "When did the murder occur?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce1\",\n  \"text\": \"When did the murder occur?\",\n  \"comments\": \"DEDUCTION statement in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7572ec50bc922442",
+    "original": "The murder|The theft|The arrest|The Lords' Ball",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce1A\",\n  \"text\": \"The murder|The theft|The arrest|The Lords' Ball\",\n  \"comments\": \"DEDUCTION field in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1b615460812178d7",
+    "original": "occurred during|caused|occurred before|occurred after",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce1B\",\n  \"text\": \"occurred during|caused|occurred before|occurred after\",\n  \"comments\": \"DEDUCTION field in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::5480f2340986d8d3",
+    "original": "the lockdown|Beatrice's departure|the Sword was found|last night",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce1C\",\n  \"text\": \"the lockdown|Beatrice's departure|the Sword was found|last night\",\n  \"comments\": \"DEDUCTION field in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::513f94229fab0846",
+    "original": "Where did the murder weapon come from?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce2\",\n  \"text\": \"Where did the murder weapon come from?\",\n  \"comments\": \"DEDUCTION statement in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::edb67ce0643284d6",
+    "original": "The murderer|Jan|Laefe|The Duke",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce2A\",\n  \"text\": \"The murderer|Jan|Laefe|The Duke\",\n  \"comments\": \"DEDUCTION field in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ef4c43d750aa9de4",
+    "original": "took|hid|destroyed|heard",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce2B\",\n  \"text\": \"took|hid|destroyed|heard\",\n  \"comments\": \"DEDUCTION field in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::612a53c654d81581",
+    "original": "the murder weapon|the murder|the altercation|the artifact",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce2C\",\n  \"text\": \"the murder weapon|the murder|the altercation|the artifact\",\n  \"comments\": \"DEDUCTION field in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::8326018c34720c33",
+    "original": "in Frega's Study|outside the manor|in Beatrice's room|in the storage room",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce2D\",\n  \"text\": \"in Frega's Study|outside the manor|in Beatrice's room|in the storage room\",\n  \"comments\": \"DEDUCTION field in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f54b084a357767dd",
+    "original": "What is flawed with the prosecution's case?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce3\",\n  \"text\": \"What is flawed with the prosecution's case?\",\n  \"comments\": \"DEDUCTION statement in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::14cde96b57e46802",
+    "original": "Beatrice Frega|William Frega|Laefe Frega|Aria Steelwind",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce3A\",\n  \"text\": \"Beatrice Frega|William Frega|Laefe Frega|Aria Steelwind\",\n  \"comments\": \"DEDUCTION field in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1fd84d1b9563afc9",
+    "original": "is completely|is partially|is not|is secretly",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce3B\",\n  \"text\": \"is completely|is partially|is not|is secretly\",\n  \"comments\": \"DEDUCTION field in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::85950f85875c2c48",
+    "original": "blind|a noble|wealthy|a mystery",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4StudyDeduce3C\",\n  \"text\": \"blind|a noble|wealthy|a mystery\",\n  \"comments\": \"DEDUCTION field in William's Study in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::33e3ffde9588a645",
+    "original": "What do we know about the thief of the Sword?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4GalleryDeduce1\",\n  \"text\": \"What do we know about the thief of the Sword?\",\n  \"comments\": \"DEDUCTION statement in the Gallery in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1470c607ab03b7a4",
+    "original": "The thief|Beatrice|Harold|Steelwind",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4GalleryDeduce1A\",\n  \"text\": \"The thief|Beatrice|Harold|Steelwind\",\n  \"comments\": \"DEDUCTION field in the Gallery in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1e501dc801ff10c5",
+    "original": "has|is not a|might be",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4GalleryDeduce1B\",\n  \"text\": \"has|is not a|might be\",\n  \"comments\": \"DEDUCTION field in the Gallery in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::560d716f23369dff",
+    "original": "powerful magic|demon|noble|master rogue",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4GalleryDeduce1C\",\n  \"text\": \"powerful magic|demon|noble|master rogue\",\n  \"comments\": \"DEDUCTION field in the Gallery in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6d3b0cd5ee8e5a47",
+    "original": "What does this tell us about William Frega's death?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4GalleryDeduce2\",\n  \"text\": \"What does this tell us about William Frega's death?\",\n  \"comments\": \"DEDUCTION statement in the Gallery in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3b7f870ab3b987cf",
+    "original": "William|Beatrice|Harold|Laefe",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4GalleryDeduce2A\",\n  \"text\": \"William|Beatrice|Harold|Laefe\",\n  \"comments\": \"DEDUCTION field in the Gallery in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c42f3631e097bbf2",
+    "original": "died|was arrested|planted the Sword|met Aste",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4GalleryDeduce2B\",\n  \"text\": \"died|was arrested|planted the Sword|met Aste\",\n  \"comments\": \"DEDUCTION field in the Gallery in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4aaccb5eeced84d4",
+    "original": "after|at the moment|before|at the moment",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4GalleryDeduce2C\",\n  \"text\": \"after|at the moment|before|at the moment\",\n  \"comments\": \"DEDUCTION field in the Gallery in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::49be24d6e4742861",
+    "original": "the lockdown activated|the body was found|the theft was reported|the lockdown was lifted",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4GalleryDeduce2D\",\n  \"text\": \"the lockdown activated|the body was found|the theft was reported|the lockdown was lifted\",\n  \"comments\": \"DEDUCTION field in the Gallery in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d4f008feb65d3aae",
+    "original": "I have no idea what my father was doing.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4LaefeArg1\",\n  \"text\": \"I have no idea what my father was doing.\",\n  \"comments\": \"Claim during the ARGUMENT against Laefe in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::90ffcb15b7b931d5",
+    "original": "I was not involved in this!",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4LaefeArg2\",\n  \"text\": \"I was not involved in this!\",\n  \"comments\": \"Claim during the ARGUMENT against Laefe in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ec20dcbf6da93dac",
+    "original": "I was never aware of the details of my father's will.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4LaefeArg3\",\n  \"text\": \"I was never aware of the details of my father's will.\",\n  \"comments\": \"Claim during the ARGUMENT against Laefe in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d69be69c0b79dce8",
+    "original": "What did Tracker hear when he woke up?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce1\",\n  \"text\": \"What did Tracker hear when he woke up?\",\n  \"comments\": \"DEDUCTION statement in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::fc8dc2ae58f65769",
+    "original": "Tracker|Beatrice|Harold|The thief",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce1A\",\n  \"text\": \"Tracker|Beatrice|Harold|The thief\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::0f89f602b379b9da",
+    "original": "heard|saw|hid|caused",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce1B\",\n  \"text\": \"heard|saw|hid|caused\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::cc941d66c78736b7",
+    "original": "rats running|the lockdown|glass shattering|a dog barking",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce1C\",\n  \"text\": \"rats running|the lockdown|glass shattering|a dog barking\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::87189f82e0b88abb",
+    "original": "in the vents|during the Lords' Ball|from the gallery|in William's Study",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce1D\",\n  \"text\": \"in the vents|during the Lords' Ball|from the gallery|in William's Study\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c1e53a48d9e8033a",
+    "original": "Why didn't Laefe answer Tracker's message?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce2\",\n  \"text\": \"Why didn't Laefe answer Tracker's message?\",\n  \"comments\": \"DEDUCTION statement in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::15bacf4d6c647137",
+    "original": "The Familial Bond|Beatrice|Tracker|Laefe",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce2A\",\n  \"text\": \"The Familial Bond|Beatrice|Tracker|Laefe\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::dd5d684494cb63b2",
+    "original": "was nullified|was distracted|was ignored|was created",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce2B\",\n  \"text\": \"was nullified|was distracted|was ignored|was created\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7fbdc94fd54c86e2",
+    "original": "by Anti-Magic Field|by Beatrice|by Laefe|by the Inquisition",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce2C\",\n  \"text\": \"by Anti-Magic Field|by Beatrice|by Laefe|by the Inquisition\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::245e1844e62a2aaa",
+    "original": "Why did Tracker finally hear Laefe?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce3\",\n  \"text\": \"Why did Tracker finally hear Laefe?\",\n  \"comments\": \"DEDUCTION statement in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f8609c83421cbf92",
+    "original": "The stick|The sword|The weapon|The will",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce3A\",\n  \"text\": \"The stick|The sword|The weapon|The will\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2384169fb687a59a",
+    "original": "that Tracker obtained|that was stolen|that William drafted|that the killer used",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce3B\",\n  \"text\": \"that Tracker obtained|that was stolen|that William drafted|that the killer used\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::43e11f9cb9b9da7b",
+    "original": "was actually|was not|was actually|was not",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce3C\",\n  \"text\": \"was actually|was not|was actually|was not\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1b4a2a62fcb56b19",
+    "original": "the Sword of Spell Eating|the murder weapon|a forgery|hidden in Beatrice's room",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BedroomDeduce3D\",\n  \"text\": \"the Sword of Spell Eating|the murder weapon|a forgery|hidden in Beatrice's room\",\n  \"comments\": \"DEDUCTION field in Beatrice's Bedroom in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2627dfcfed6de02d",
+    "original": "Why was it strange for Tracker to hear Laefe's voice?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4HallwayDeduce1\",\n  \"text\": \"Why was it strange for Tracker to hear Laefe's voice?\",\n  \"comments\": \"DEDUCTION statement in the Hallway in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::108ffab3e16f391b",
+    "original": "Anti-Magic Field|Invisibility|Detect Magic|The Sword of Spell Eating",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4HallwayDeduce1A\",\n  \"text\": \"Anti-Magic Field|Invisibility|Detect Magic|The Sword of Spell Eating\",\n  \"comments\": \"DEDUCTION field in the Hallway in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3f3a43db73bf2647",
+    "original": "was|wasn't|couldn't be|might've been",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4HallwayDeduce1B\",\n  \"text\": \"was|wasn't|couldn't be|might've been\",\n  \"comments\": \"DEDUCTION field in the Hallway in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6f10825d86c7ca45",
+    "original": "active throughout|seen in|cast within|stolen from",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4HallwayDeduce1C\",\n  \"text\": \"active throughout|seen in|cast within|stolen from\",\n  \"comments\": \"DEDUCTION field in the Hallway in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::09383a24fe9ee9d2",
+    "original": "this hallway|the ballroom|the gallery|Beatrice's bedroom",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4HallwayDeduce1D\",\n  \"text\": \"this hallway|the ballroom|the gallery|Beatrice's bedroom\",\n  \"comments\": \"DEDUCTION field in the Hallway in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::405615fc88d3f528",
+    "original": "How could the \"rat\" be invisible during the lockdown?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4HallwayDeduce2\",\n  \"text\": \"How could the \\\"rat\\\" be invisible during the lockdown?\",\n  \"comments\": \"DEDUCTION statement in the Hallway in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::5dc43462b876217e",
+    "original": "The \"rat\"|Tracker|The Killer|Beatrice",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4HallwayDeduce2A\",\n  \"text\": \"The \\\"rat\\\"|Tracker|The Killer|Beatrice\",\n  \"comments\": \"DEDUCTION field in the Hallway in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::cfee6894769254f4",
+    "original": "was holding|was attacking|was stealing|was murdering",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4HallwayDeduce2B\",\n  \"text\": \"was holding|was attacking|was stealing|was murdering\",\n  \"comments\": \"DEDUCTION field in the Hallway in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::70327f2875ab05a0",
+    "original": "the Sword of Spell Eating|the Armbands of Intellect|the Earrings of Vitality|William Frega",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4HallwayDeduce2C\",\n  \"text\": \"the Sword of Spell Eating|the Armbands of Intellect|the Earrings of Vitality|William Frega\",\n  \"comments\": \"DEDUCTION field in the Hallway in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::8dd6f300a619e58e",
+    "original": "Who did Tracker see in the air vent?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-1\",\n  \"text\": \"Who did Tracker see in the air vent?\",\n  \"comments\": \"DEDUCTION statement after using the Empowered Eye on Harold during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a47d82248b81f954",
+    "original": "Eugene Haroldson|Another Familiar|Eugene Haroldson|Another Familiar",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-1A\",\n  \"text\": \"Eugene Haroldson|Another Familiar|Eugene Haroldson|Another Familiar\",\n  \"comments\": \"DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::131cd18c67f315ac",
+    "original": "Why was Eugene in the air vents?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-2\",\n  \"text\": \"Why was Eugene in the air vents?\",\n  \"comments\": \"DEDUCTION statement after using the Empowered Eye on Harold during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c6ca1067ea2beaf7",
+    "original": "Eugene|Tracker|Harold|Beatrice",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-2A\",\n  \"text\": \"Eugene|Tracker|Harold|Beatrice\",\n  \"comments\": \"DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::89743c0b4c93d521",
+    "original": "was acting|was not acting|was acting|was not acting",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-2B\",\n  \"text\": \"was acting|was not acting|was acting|was not acting\",\n  \"comments\": \"DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ad9b658d2dd1fa58",
+    "original": "of their own free will|because of blackmail|to frame Beatrice|to frame Harold",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-2C\",\n  \"text\": \"of their own free will|because of blackmail|to frame Beatrice|to frame Harold\",\n  \"comments\": \"DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::36798ffc0af98dae",
+    "original": "How could Eugene have carried out this plan independently?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-3\",\n  \"text\": \"How could Eugene have carried out this plan independently?\",\n  \"comments\": \"DEDUCTION statement after using the Empowered Eye on Harold during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::86ddb44dd41b7fce",
+    "original": "wore|stole|framed|murdered",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-3B\",\n  \"text\": \"wore|stole|framed|murdered\",\n  \"comments\": \"DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c0bb976467f304c1",
+    "original": "the Armbands of Intellect|William|Beatrice|the Sword of Spell Eating",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-3C\",\n  \"text\": \"the Armbands of Intellect|William|Beatrice|the Sword of Spell Eating\",\n  \"comments\": \"DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1d5ce664e2413e6f",
+    "original": "Where are the Armbands of Intellect right now?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-3.2\",\n  \"text\": \"Where are the Armbands of Intellect right now?\",\n  \"comments\": \"DEDUCTION statement after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::bd8b93d3f92bfec1",
+    "original": "Eugene|Beatrice|William|Tracker",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-3.2A\",\n  \"text\": \"Eugene|Beatrice|William|Tracker\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e35d49521b275aa2",
+    "original": "is wearing|found|stole|hid",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-3.2B\",\n  \"text\": \"is wearing|found|stole|hid\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::5e2dc0e21cbbd61b",
+    "original": "the Armbands|the Sword|the murder weapon|Celeste's sword",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-3.2C\",\n  \"text\": \"the Armbands|the Sword|the murder weapon|Celeste's sword\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7e143bb9f8d4276a",
+    "original": "at this moment|under Beatrice's bed|somewhere in Frega Manor|from the gallery",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-3.2D\",\n  \"text\": \"at this moment|under Beatrice's bed|somewhere in Frega Manor|from the gallery\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::37f67909a91e5e67",
+    "original": "How did the Sword of Spell Eating end up in that hallway?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-4\",\n  \"text\": \"How did the Sword of Spell Eating end up in that hallway?\",\n  \"comments\": \"DEDUCTION statement after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b75e19375efa6597",
+    "original": "The thief|Beatrice|Eugene|Tracker",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-4A\",\n  \"text\": \"The thief|Beatrice|Eugene|Tracker\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::5319c9458f9c662c",
+    "original": "dropped|hid|stole|nullified",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-4B\",\n  \"text\": \"dropped|hid|stole|nullified\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::fba18ddfc8ceba4f",
+    "original": "the Sword|the drafted will|the Armbands|the Anti-Magic Field",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-4C\",\n  \"text\": \"the Sword|the drafted will|the Armbands|the Anti-Magic Field\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b8a2a5d8174239c3",
+    "original": "in the hallway|from the gallery|in William's Study|in the Ballroom",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-4D\",\n  \"text\": \"in the hallway|from the gallery|in William's Study|in the Ballroom\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::05a30fb9b57c52c2",
+    "original": "Why was the thief in that hallway?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-5\",\n  \"text\": \"Why was the thief in that hallway?\",\n  \"comments\": \"DEDUCTION statement after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e7eabb2d3f37419d",
+    "original": "was sneaking|was walking|was breaking|was tunneling",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-5B\",\n  \"text\": \"was sneaking|was walking|was breaking|was tunneling\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::49436a7e0484f118",
+    "original": "through|on top of|outside of|under",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-5C\",\n  \"text\": \"through|on top of|outside of|under\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::758ec5767f15442e",
+    "original": "the air vents|William's Study|the hallway|the manor",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-5D\",\n  \"text\": \"the air vents|William's Study|the hallway|the manor\",\n  \"comments\": \"DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::58cdb4b2484aa13b",
+    "original": "What did Beatrice use to commit the murder?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-6\",\n  \"text\": \"What did Beatrice use to commit the murder?\",\n  \"comments\": \"DEDUCTION statement after Eugene's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a9a8b665e3d9db2f",
+    "original": "Why was Marrunath using the term \"master\"",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-7\",\n  \"text\": \"Why was Marrunath using the term \\\"master\\\"\",\n  \"comments\": \"DEDUCTION statement after Marrunath's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::497d70a8346bd0a7",
+    "original": "Beatrice|Tymora|William|Marrunath",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-7A\",\n  \"text\": \"Beatrice|Tymora|William|Marrunath\",\n  \"comments\": \"DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::66c0eacfcc0d83e3",
+    "original": "is not|is|is not|is",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-7B\",\n  \"text\": \"is not|is|is not|is\",\n  \"comments\": \"DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::63f6b32547154c7d",
+    "original": "Marrunath's|Beatrice's|Tymora's|William's",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-7C\",\n  \"text\": \"Marrunath's|Beatrice's|Tymora's|William's\",\n  \"comments\": \"DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::82e6f0352f8feddd",
+    "original": "master|client|daughter|familiar",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-7D\",\n  \"text\": \"master|client|daughter|familiar\",\n  \"comments\": \"DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a31dde84b0a381f0",
+    "original": "Why wouldn't Marrunath simply lie?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-8\",\n  \"text\": \"Why wouldn't Marrunath simply lie?\",\n  \"comments\": \"DEDUCTION statement after Marrunath's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f45109c3dad4d6eb",
+    "original": "Demons|Humans|Dragons|Mages",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-8A\",\n  \"text\": \"Demons|Humans|Dragons|Mages\",\n  \"comments\": \"DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3be552ec6345be3d",
+    "original": "are not able to|are able to|are not able to|are able to",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-8B\",\n  \"text\": \"are not able to|are able to|are not able to|are able to\",\n  \"comments\": \"DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::0903b5ed1a56c900",
+    "original": "lie|use magic|murder|steal",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-8C\",\n  \"text\": \"lie|use magic|murder|steal\",\n  \"comments\": \"DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f8e22750c206957f",
+    "original": "I didn't bring anything dangerous into Frega Manor.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BeatriceArg1\",\n  \"text\": \"I didn't bring anything dangerous into Frega Manor.\",\n  \"comments\": \"Claim during the final ARGUMENT against Beatrice in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4dba6629b79e4447",
+    "original": "I did not commit any crimes during the Lords' Ball.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BeatriceArg2\",\n  \"text\": \"I did not commit any crimes during the Lords' Ball.\",\n  \"comments\": \"Claim during the final ARGUMENT against Beatrice in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4c5da56b86a01958",
+    "original": "Marrunath will take the fall on Beatrice's behalf.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4BeatriceArg3\",\n  \"text\": \"Marrunath will take the fall on Beatrice's behalf.\",\n  \"comments\": \"Claim during the final ARGUMENT against Beatrice in Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::0d7b74e6f413820d",
+    "original": "How do you prove that Beatrice ordered Marrunath?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-9\",\n  \"text\": \"How do you prove that Beatrice ordered Marrunath?\",\n  \"comments\": \"DEDUCTION statement after the final ARGUMENT against Beatrice during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::083390ee65d27584",
+    "original": "Use physical evidence|Use testimony|Use deduction|Tell a lie",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-9A\",\n  \"text\": \"Use physical evidence|Use testimony|Use deduction|Tell a lie\",\n  \"comments\": \"DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c336c96a951e7459",
+    "original": "that connects|that kills|that acquits|that separates",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-9B\",\n  \"text\": \"that connects|that kills|that acquits|that separates\",\n  \"comments\": \"DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f5fa68656d620b11",
+    "original": "Beatrice|Laefe|Tyrion|Harold",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-9C\",\n  \"text\": \"Beatrice|Laefe|Tyrion|Harold\",\n  \"comments\": \"DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::58273372fccdb2e7",
+    "original": "and Marrunath|and Tracker|and Eugene|and Ruby",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-9D\",\n  \"text\": \"and Marrunath|and Tracker|and Eugene|and Ruby\",\n  \"comments\": \"DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::94986f73f7ca4243",
+    "original": "Their connection|Their crimes|Their mutual allies|Their evidence",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-10A\",\n  \"text\": \"Their connection|Their crimes|Their mutual allies|Their evidence\",\n  \"comments\": \"DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7c7efcc32fad4903",
+    "original": "is facilitated through|were committed by|were hidden by|were killed by",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-10B\",\n  \"text\": \"is facilitated through|were committed by|were hidden by|were killed by\",\n  \"comments\": \"DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::af0cd16c458b7776",
+    "original": "a Pact|a weapon|an artifact|a spell",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-10C\",\n  \"text\": \"a Pact|a weapon|an artifact|a spell\",\n  \"comments\": \"DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::bdc64edf7fb25145",
+    "original": "Who told you something about demonic pacts?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-11\",\n  \"text\": \"Who told you something about demonic pacts?\",\n  \"comments\": \"PRESENT prompt after the final ARGUMENT against Beatrice during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f84004922f1ecb43",
+    "original": "What can I use to obtain Beatrice's Blood Contract?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C4Trial2-12\",\n  \"text\": \"What can I use to obtain Beatrice's Blood Contract?\",\n  \"comments\": \"PRESENT prompt after the final ARGUMENT against Beatrice during Trial 2 of Case IV\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::5b4d1b71d4f62f10",
+    "original": "How did Sibyl's body end up in the lake?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5CommonDeduce1\",\n  \"text\": \"How did Sibyl's body end up in the lake?\",\n  \"comments\": \"DEDUCTION statement in Common Room in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f642d12a1e0a5b7e",
+    "original": "The murderer|Sibyl|Steelwind|von Sanctus",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5CommonDeduce1A\",\n  \"text\": \"The murderer|Sibyl|Steelwind|von Sanctus\",\n  \"comments\": \"DEDUCTION field in Common Room in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f4e45eab7f7fe493",
+    "original": "threw|hid|killed|burned",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5CommonDeduce1B\",\n  \"text\": \"threw|hid|killed|burned\",\n  \"comments\": \"DEDUCTION field in Common Room in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1dc426d107c728a4",
+    "original": "Sibyl|Steelwind|von Sanctus|Pierce",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5CommonDeduce1C\",\n  \"text\": \"Sibyl|Steelwind|von Sanctus|Pierce\",\n  \"comments\": \"DEDUCTION field in Common Room in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::25db09eae36429ca",
+    "original": "from the balcony|with a spell|inside a vacant room|completely",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5CommonDeduce1D\",\n  \"text\": \"from the balcony|with a spell|inside a vacant room|completely\",\n  \"comments\": \"DEDUCTION field in Common Room in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d424f91650a158db",
+    "original": "What's strange about the order of the murders?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5CommonDeduce2\",\n  \"text\": \"What's strange about the order of the murders?\",\n  \"comments\": \"DEDUCTION statement in Common Room in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::45addd957eb7eb61",
+    "original": "The murderer|Steelwind|Sibyl|Archeus",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5CommonDeduce2A\",\n  \"text\": \"The murderer|Steelwind|Sibyl|Archeus\",\n  \"comments\": \"DEDUCTION field in Common Room in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::652fd8f95796a805",
+    "original": "could have|accidentally|purposefully|quickly",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5CommonDeduce2B\",\n  \"text\": \"could have|accidentally|purposefully|quickly\",\n  \"comments\": \"DEDUCTION field in Common Room in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d4b94f0f2d81fbe2",
+    "original": "killed Pierce|killed Sibyl|killed von Sanctus|killed Archeus",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5CommonDeduce2C\",\n  \"text\": \"killed Pierce|killed Sibyl|killed von Sanctus|killed Archeus\",\n  \"comments\": \"DEDUCTION field in Common Room in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e17bb91d9507a830",
+    "original": "second|easily|with magic|with a weapon",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5CommonDeduce2D\",\n  \"text\": \"second|easily|with magic|with a weapon\",\n  \"comments\": \"DEDUCTION field in Common Room in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::367db9d650a3cce4",
+    "original": "A villain controlled my mind.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5AriaArg1\",\n  \"text\": \"A villain controlled my mind.\",\n  \"comments\": \"Claim during the ARGUMENT against Aria in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::27a5f88f7e6b454b",
+    "original": "The person responsible was just a sadistic killer.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5AriaArg2\",\n  \"text\": \"The person responsible was just a sadistic killer.\",\n  \"comments\": \"Claim during the ARGUMENT against Aria in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::200fd0043a72ab46",
+    "original": "The perpetrator didn't need to enter the cathedral to commit the murders.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5AriaArg3\",\n  \"text\": \"The perpetrator didn't need to enter the cathedral to commit the murders.\",\n  \"comments\": \"Claim during the ARGUMENT against Aria in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c6ebbb8551f95d77",
+    "original": "Fighting this will put people in danger.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5AriaArg4\",\n  \"text\": \"Fighting this will put people in danger.\",\n  \"comments\": \"Claim during the ARGUMENT against Aria in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a029a36564e34ce2",
+    "original": "What event was Beatrice referring to?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-1\",\n  \"text\": \"What event was Beatrice referring to?\",\n  \"comments\": \"DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c802de0e702b4e4e",
+    "original": "Marrunath|Lucio|Tyrion|Beatrice",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-1A\",\n  \"text\": \"Marrunath|Lucio|Tyrion|Beatrice\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1d365ffe8c29554e",
+    "original": "hid|denied|presented|revealed",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-1B\",\n  \"text\": \"hid|denied|presented|revealed\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7fa2977b55f33d2b",
+    "original": "the Purple Mark|the conspiracy|a contradiction|a lie",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-1C\",\n  \"text\": \"the Purple Mark|the conspiracy|a contradiction|a lie\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::31c96e4e8ccc04b1",
+    "original": "from Beatrice|despite the evidence|in the testimony|during the massacre",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-1D\",\n  \"text\": \"from Beatrice|despite the evidence|in the testimony|during the massacre\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e2fe44a6d1608f54",
+    "original": "Why would Marrunath interfere?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-2\",\n  \"text\": \"Why would Marrunath interfere?\",\n  \"comments\": \"DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::763d283bf602781c",
+    "original": "The Purple Mark|The mastermind|Marrunath|Aria",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-2A\",\n  \"text\": \"The Purple Mark|The mastermind|Marrunath|Aria\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d7da20c7ab0ff8c0",
+    "original": "is|is not|has been|hasn't been",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-2B\",\n  \"text\": \"is|is not|has been|hasn't been\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::28d787359974dab2",
+    "original": "related to|investigating|hiding|lying about",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-2C\",\n  \"text\": \"related to|investigating|hiding|lying about\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c39a31a8233090db",
+    "original": "a demon|the nobility|the ancient dragons|an urban myth",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-2D\",\n  \"text\": \"a demon|the nobility|the ancient dragons|an urban myth\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b6146f80a00b8f9d",
+    "original": "How could something demonic control Beatrice?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-3\",\n  \"text\": \"How could something demonic control Beatrice?\",\n  \"comments\": \"DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e1894fd4a4adbd22",
+    "original": "Beatrice|Aria|The other murderers|Marrunath",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-3A\",\n  \"text\": \"Beatrice|Aria|The other murderers|Marrunath\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::361662e6e1b47df2",
+    "original": "lost|killed|forgot|unveiled",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-3B\",\n  \"text\": \"lost|killed|forgot|unveiled\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f5391211ecb22a1e",
+    "original": "control of their actions|their memories|the victims|the conspiracy",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-3C\",\n  \"text\": \"control of their actions|their memories|the victims|the conspiracy\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1fea2aed8f66e497",
+    "original": "due to a Blood Contract|against their will|during the massacre|before the trial",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-3D\",\n  \"text\": \"due to a Blood Contract|against their will|during the massacre|before the trial\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::55d76d9c8aee78a7",
+    "original": "What does this tell us about Aria?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-4\",\n  \"text\": \"What does this tell us about Aria?\",\n  \"comments\": \"DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a78f8e3057cd3383",
+    "original": "Aria|Beatrice|Marrunath|The mastermind",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-4A\",\n  \"text\": \"Aria|Beatrice|Marrunath|The mastermind\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::8d1e363dd3c7c12a",
+    "original": "lost|killed|hid|created",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-4B\",\n  \"text\": \"lost|killed|hid|created\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::01849518f50bddee",
+    "original": "control of their mind|a forged document|the mastermind|a victim",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-4C\",\n  \"text\": \"control of their mind|a forged document|the mastermind|a victim\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2d47830b3d360a40",
+    "original": "due to a Blood Contract|from the Inquisition|during the investigation|which promised vengeance",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-4D\",\n  \"text\": \"due to a Blood Contract|from the Inquisition|during the investigation|which promised vengeance\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::97f8aa1c1fefc75f",
+    "original": "Which demon did Aria make a Blood Contract with?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-5\",\n  \"text\": \"Which demon did Aria make a Blood Contract with?\",\n  \"comments\": \"DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::20a3988b34211a3a",
+    "original": "The Empress of Discord|Marrunath|Eugene Haroldson|An unknown demon",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-5A\",\n  \"text\": \"The Empress of Discord|Marrunath|Eugene Haroldson|An unknown demon\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::318667baff45ce74",
+    "original": "Why would Aria sign this contract?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-6\",\n  \"text\": \"Why would Aria sign this contract?\",\n  \"comments\": \"DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e3d5242da1006d22",
+    "original": "Aria|Marrunath|The Empress of Discord|The Patron",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-6A\",\n  \"text\": \"Aria|Marrunath|The Empress of Discord|The Patron\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::9fcffe6a1f8b4904",
+    "original": "signed the contract|created the contract|helped the Patron|masterminded this scenario",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-6B\",\n  \"text\": \"signed the contract|created the contract|helped the Patron|masterminded this scenario\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6ab54ab69a8f9d52",
+    "original": "because it looked like|to exact revenge on|because she placed her trust in|because she was threatened by",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-6C\",\n  \"text\": \"because it looked like|to exact revenge on|because she placed her trust in|because she was threatened by\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2da01a3965bbbb16",
+    "original": "a normal document|the nobility|Lord Steelwind|Beatrice",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-6D\",\n  \"text\": \"a normal document|the nobility|Lord Steelwind|Beatrice\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::366bbc1461027d96",
+    "original": "Who else was responsible for Aria's actions?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-7\",\n  \"text\": \"Who else was responsible for Aria's actions?\",\n  \"comments\": \"DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::36cb204a43cde5e2",
+    "original": "Aria|Marrunath|Lucio|The Patron",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-7A\",\n  \"text\": \"Aria|Marrunath|Lucio|The Patron\",\n  \"comments\": \"DEDUCTION field after Beatrice's testimony during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::bd5ecaa1c9bbc662",
+    "original": "What implies that von Sanctus cast [b]Force Cage[/b]?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-8\",\n  \"text\": \"What implies that von Sanctus cast [b]Force Cage[/b]?\",\n  \"comments\": \"PRESENT prompt after Orym's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c8b6e2e6a2947448",
+    "original": "How did Aria suffocate von Sanctus?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-9\",\n  \"text\": \"How did Aria suffocate von Sanctus?\",\n  \"comments\": \"DEDUCTION statement after Orym's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::76f209354620b4c3",
+    "original": "The fire|Aria|Von Sanctus|The Patron",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-9A\",\n  \"text\": \"The fire|Aria|Von Sanctus|The Patron\",\n  \"comments\": \"DEDUCTION field after Orym's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7b535b19afd3b3ad",
+    "original": "consumed|cast|fled from|tricked",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-9B\",\n  \"text\": \"consumed|cast|fled from|tricked\",\n  \"comments\": \"DEDUCTION field after Orym's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ef3bba12569dc477",
+    "original": "all the oxygen|a spell to bypass|von Sanctus|Aria",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-9C\",\n  \"text\": \"all the oxygen|a spell to bypass|von Sanctus|Aria\",\n  \"comments\": \"DEDUCTION field after Orym's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ef38189ae67703e9",
+    "original": "Which spell was cast on Sibyl?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-10\",\n  \"text\": \"Which spell was cast on Sibyl?\",\n  \"comments\": \"PRESENT prompt after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::daf901faa749077b",
+    "original": "Why was Sibyl motionless despite being conscious?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-11\",\n  \"text\": \"Why was Sibyl motionless despite being conscious?\",\n  \"comments\": \"DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d3381076bc936b6b",
+    "original": "Sibyl|Aria|Archeus|Rudolf",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-11A\",\n  \"text\": \"Sibyl|Aria|Archeus|Rudolf\",\n  \"comments\": \"DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2febc0d958ea5f2b",
+    "original": "was affected|was blinded|was knocked out|was tricked",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-11B\",\n  \"text\": \"was affected|was blinded|was knocked out|was tricked\",\n  \"comments\": \"DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::71e8b17db3f64079",
+    "original": "by a spell|by the Patron|by the afternoon sun|with an illusion",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-11C\",\n  \"text\": \"by a spell|by the Patron|by the afternoon sun|with an illusion\",\n  \"comments\": \"DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::29a489c66f9674de",
+    "original": "Which spell did Aria cast on Sibyl?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-12\",\n  \"text\": \"Which spell did Aria cast on Sibyl?\",\n  \"comments\": \"PRESENT prompt after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::10a84725e471b239",
+    "original": "How did Sibyl suffocate?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-13\",\n  \"text\": \"How did Sibyl suffocate?\",\n  \"comments\": \"DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::533708c0505f3b01",
+    "original": "drowned|wasn't aware of|was choked by|was attacked by",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-13B\",\n  \"text\": \"drowned|wasn't aware of|was choked by|was attacked by\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4022bb4fdffef022",
+    "original": "in Lake Galakrond|the massacre|a magic spell|Aria",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-13C\",\n  \"text\": \"in Lake Galakrond|the massacre|a magic spell|Aria\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ff6911cc8c230b5e",
+    "original": "What's similar about some of the targets?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-14\",\n  \"text\": \"What's similar about some of the targets?\",\n  \"comments\": \"DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f50e766f3930f2e0",
+    "original": "Von Sanctus|Sibyl|Aria|Pierce",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-14A\",\n  \"text\": \"Von Sanctus|Sibyl|Aria|Pierce\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e881273313111b8c",
+    "original": "and Sibyl|and von Sanctus|and Aria|and Pierce",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-14B\",\n  \"text\": \"and Sibyl|and von Sanctus|and Aria|and Pierce\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::bbe6be0c2e8c1221",
+    "original": "are House leaders|are convicted murderers|are friends|are enemies",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-14C\",\n  \"text\": \"are House leaders|are convicted murderers|are friends|are enemies\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ee7ba15dd5179187",
+    "original": "of Pillar Families|of a lesser noble house|of Aria|of the commonfolk",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-14D\",\n  \"text\": \"of Pillar Families|of a lesser noble house|of Aria|of the commonfolk\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::442c00413f5486b7",
+    "original": "Why didn't the Patron target Lucio Steelwind?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-15\",\n  \"text\": \"Why didn't the Patron target Lucio Steelwind?\",\n  \"comments\": \"DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::27bf63f7a60cc155",
+    "original": "The Patron|Aria|Lucio|Rathallion",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-15A\",\n  \"text\": \"The Patron|Aria|Lucio|Rathallion\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::8a048ea32ed6c621",
+    "original": "wanted to frame|wanted to save|wanted to hide|wanted to kill",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-15B\",\n  \"text\": \"wanted to frame|wanted to save|wanted to hide|wanted to kill\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::77bcbaa5529c9b1a",
+    "original": "House Steelwind|the victims|Tyrion|Aria",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-15C\",\n  \"text\": \"House Steelwind|the victims|Tyrion|Aria\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f130b2ce9d577e7e",
+    "original": "or the murders|to make them suffer|from the nobility|using Aria",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-15D\",\n  \"text\": \"or the murders|to make them suffer|from the nobility|using Aria\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::baec523034967577",
+    "original": "Why did the Patron target Garrick Pierce?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-16\",\n  \"text\": \"Why did the Patron target Garrick Pierce?\",\n  \"comments\": \"DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::af6d69d850e24ee5",
+    "original": "Pierce|Rudolf|Aria|The Patron",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-16A\",\n  \"text\": \"Pierce|Rudolf|Aria|The Patron\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4e554ebd6ca7cebf",
+    "original": "knew|hid|created|signed",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-16B\",\n  \"text\": \"knew|hid|created|signed\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1b87a590c13f9438",
+    "original": "the identity|the Blood Contract|the foundations|the [b]Spell Compendiums[/b]",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-16C\",\n  \"text\": \"the identity|the Blood Contract|the foundations|the [b]Spell Compendiums[/b]\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4b0c212b12efabe6",
+    "original": "of Celeste's parents|of Aria|of magic|of the Scaled Lord",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-16D\",\n  \"text\": \"of Celeste's parents|of Aria|of magic|of the Scaled Lord\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4956274c4eb59a3d",
+    "original": "Who did Pierce originally send that letter to?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-17\",\n  \"text\": \"Who did Pierce originally send that letter to?\",\n  \"comments\": \"DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::042b5bca56631895",
+    "original": "The Patron|Lloyd von Sanctus|Lucio Steelwind|Coraline Sibyl",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial1-17A\",\n  \"text\": \"The Patron|Lloyd von Sanctus|Lucio Steelwind|Coraline Sibyl\",\n  \"comments\": \"DEDUCTION field after Theon's cross-examination during Trial 1 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3715978f7184b53d",
+    "original": "Why did the Divine Edict harm me?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FregaManor1\",\n  \"text\": \"Why did the Divine Edict harm me?\",\n  \"comments\": \"DEDUCTION statement in Frega Manor in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::cf0727e4dc547c8f",
+    "original": "Aster|The Patron|Tyrion|Aria",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FregaManor1A\",\n  \"text\": \"Aster|The Patron|Tyrion|Aria\",\n  \"comments\": \"DEDUCTION field in Frega Manor in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::40fea14629b5abc9",
+    "original": "does not have|has|does not have|has",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FregaManor1B\",\n  \"text\": \"does not have|has|does not have|has\",\n  \"comments\": \"DEDUCTION field in Frega Manor in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::0210a82294ea7d70",
+    "original": "a Blood Contract with|a deal with|control of|protection from",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FregaManor1C\",\n  \"text\": \"a Blood Contract with|a deal with|control of|protection from\",\n  \"comments\": \"DEDUCTION field in Frega Manor in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::097a40d4acd8fd5b",
+    "original": "the Empress of Discord|Beatrice|Aria|Tyrion",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FregaManor1D\",\n  \"text\": \"the Empress of Discord|Beatrice|Aria|Tyrion\",\n  \"comments\": \"DEDUCTION field in Frega Manor in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::0ef3b20ba987025e",
+    "original": "Why are Ruby's memories different from yours?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5TymoraOffice1\",\n  \"text\": \"Why are Ruby's memories different from yours?\",\n  \"comments\": \"DEDUCTION statement in Ruby's Office in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2eafb9d80b2cbeb7",
+    "original": "Ruby|Tyrion|Eris|Aria",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5TymoraOffice1A\",\n  \"text\": \"Ruby|Tyrion|Eris|Aria\",\n  \"comments\": \"DEDUCTION field in Ruby's Office in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::79e69b37b5f4608c",
+    "original": "signed|destroyed|hid|fabricated",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5TymoraOffice1B\",\n  \"text\": \"signed|destroyed|hid|fabricated\",\n  \"comments\": \"DEDUCTION field in Ruby's Office in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::be8363be4eb6264a",
+    "original": "a Blood Contract|their own death|evidence|a birth certificate",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5TymoraOffice1C\",\n  \"text\": \"a Blood Contract|their own death|evidence|a birth certificate\",\n  \"comments\": \"DEDUCTION field in Ruby's Office in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4d97bfa7c4a6f1da",
+    "original": "Who is Eris Illmater?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5TymoraOffice2\",\n  \"text\": \"Who is Eris Illmater?\",\n  \"comments\": \"DEDUCTION statement in Ruby's Office in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::00dbfb38547d756a",
+    "original": "Eris Illmater|Aria Steelwind|The Patron|Ruby Tymora",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5TymoraOffice2A\",\n  \"text\": \"Eris Illmater|Aria Steelwind|The Patron|Ruby Tymora\",\n  \"comments\": \"DEDUCTION field in Ruby's Office in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::9e622fc62acbf6b0",
+    "original": "is|is not|is|is not",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5TymoraOffice2B\",\n  \"text\": \"is|is not|is|is not\",\n  \"comments\": \"DEDUCTION field in Ruby's Office in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::de6e498aeefc1b7e",
+    "original": "the Empress of Discord|a qualified attorney|the Patron|a noble",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5TymoraOffice2C\",\n  \"text\": \"the Empress of Discord|a qualified attorney|the Patron|a noble\",\n  \"comments\": \"DEDUCTION field in Ruby's Office in Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::14047bff622449cc",
+    "original": "Which phrase did Eris use to mislead me?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-1\",\n  \"text\": \"Which phrase did Eris use to mislead me?\",\n  \"comments\": \"Statement shown after Eris's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::245dc4fa6224a935",
+    "original": "What do I already know about the Patron through the first two murders?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-2\",\n  \"text\": \"What do I already know about the Patron through the first two murders?\",\n  \"comments\": \"DEDUCTION statement after Eris's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f76ae725889d7140",
+    "original": "The Patron|Eris|Aria|Beatrice",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-2A\",\n  \"text\": \"The Patron|Eris|Aria|Beatrice\",\n  \"comments\": \"DEDUCTION field after Eris's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f0fdf8297f61265b",
+    "original": "experienced in|guilty of|innocent of|ignorant of",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-2C\",\n  \"text\": \"experienced in|guilty of|innocent of|ignorant of\",\n  \"comments\": \"DEDUCTION field after Eris's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::9597895b7d6ce3a3",
+    "original": "using lethal magic|national politics|making deals with demons|physical activity",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-2D\",\n  \"text\": \"using lethal magic|national politics|making deals with demons|physical activity\",\n  \"comments\": \"DEDUCTION field after Eris's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2c9c1518c1e76517",
+    "original": "Why didn't Eris use Beatrice to kill Pierce?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-3\",\n  \"text\": \"Why didn't Eris use Beatrice to kill Pierce?\",\n  \"comments\": \"DEDUCTION statement after Eris's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3e7fe926d99a19d9",
+    "original": "The murderer|Eris|Beatrice|Aria",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-3A\",\n  \"text\": \"The murderer|Eris|Beatrice|Aria\",\n  \"comments\": \"DEDUCTION field after Eris's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::77698863167f0bea",
+    "original": "chose to|was forced to|wasn't able to|forgot to",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-3B\",\n  \"text\": \"chose to|was forced to|wasn't able to|forgot to\",\n  \"comments\": \"DEDUCTION field after Eris's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::304837ddac73797d",
+    "original": "kill Pierce|fight Celeste|betray the Patron|hide the murders",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-3C\",\n  \"text\": \"kill Pierce|fight Celeste|betray the Patron|hide the murders\",\n  \"comments\": \"DEDUCTION field after Eris's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3993bda5ce2d7c6e",
+    "original": "personally|reluctantly|quickly|stealthily",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-3D\",\n  \"text\": \"personally|reluctantly|quickly|stealthily\",\n  \"comments\": \"DEDUCTION field after Eris's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::30c02c51bc13072e",
+    "original": "Who did Eris make a Blood Contract with on the day of the murder?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-CelesteRepPre\",\n  \"text\": \"Who did Eris make a Blood Contract with on the day of the murder?\",\n  \"comments\": \"The PRESENT prompt that is shown when required to PRESENT Celeste multiple times\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::97bd1608d66b495c",
+    "original": "Which physical piece of evidence contradicts Celeste's memories?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-4\",\n  \"text\": \"Which physical piece of evidence contradicts Celeste's memories?\",\n  \"comments\": \"PRESENT prompt after Celeste's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f6c62e39fa47c980",
+    "original": "What explains Celeste's contradicting memories of what happened?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-5\",\n  \"text\": \"What explains Celeste's contradicting memories of what happened?\",\n  \"comments\": \"DEDUCTION statement after Celeste's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::ef2309e9a254727a",
+    "original": "Eris Illmater|Celeste McCoy|Aria Steelwind|Beatrice Frega",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-5A\",\n  \"text\": \"Eris Illmater|Celeste McCoy|Aria Steelwind|Beatrice Frega\",\n  \"comments\": \"DEDUCTION field after Celeste's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b237375e2847dbb9",
+    "original": "changed|destroyed|revealed|hid",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-5B\",\n  \"text\": \"changed|destroyed|revealed|hid\",\n  \"comments\": \"DEDUCTION field after Celeste's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::77d6f572d23546d0",
+    "original": "the memories of|the crime scene of|the weapon of|the evidence left by",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-5C\",\n  \"text\": \"the memories of|the crime scene of|the weapon of|the evidence left by\",\n  \"comments\": \"DEDUCTION field after Celeste's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::cd9886638f187e42",
+    "original": "Celeste McCoy|Aria Steelwind|Lloyd von Sanctus|Coraline Sibyl",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-5D\",\n  \"text\": \"Celeste McCoy|Aria Steelwind|Lloyd von Sanctus|Coraline Sibyl\",\n  \"comments\": \"DEDUCTION field after Celeste's cross-examination during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f164fea075f77107",
+    "original": "Celeste McCoy's Contract was written without flaw.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial2-6\",\n  \"text\": \"Celeste McCoy's Contract was written without flaw.\",\n  \"comments\": \"Claim declared by Eris before entering the Court of Azathoth during Trial 2 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::83b393bdd36100c7",
+    "original": "Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5ErisArg-1\",\n  \"text\": \"Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.\",\n  \"comments\": \"Claim declared by Eris during her ARGUMENT in human form\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::8b33c5055abe0188",
+    "original": "What else proves Beatrice didn't disappear until 2:00 PM?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5ErisArg-2\",\n  \"text\": \"What else proves Beatrice didn't disappear until 2:00 PM?\",\n  \"comments\": \"Claim declared by Eris during her ARGUMENT in human form\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::0fefea08b3df0560",
+    "original": "An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5ErisArg-3\",\n  \"text\": \"An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.\",\n  \"comments\": \"Claim declared by Eris during her ARGUMENT in human form\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::40ea1a7dba8e8d67",
+    "original": "The Empress of Discord made Contracts with multiple knights of the Kingsguard.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5ErisArg-4\",\n  \"text\": \"The Empress of Discord made Contracts with multiple knights of the Kingsguard.\",\n  \"comments\": \"Claim declared by Eris during her ARGUMENT in human form\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::dfc8a5861c068d7c",
+    "original": "It's possible that I have a Blood Contract with everyone present during the massacre.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5ErisArg-5\",\n  \"text\": \"It's possible that I have a Blood Contract with everyone present during the massacre.\",\n  \"comments\": \"Claim declared by Eris during her ARGUMENT in human form\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::47959d710ac1ddc5",
+    "original": "Beatrice Frega did not go missing before 2:00 PM.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5TyrionAscend\",\n  \"text\": \"Beatrice Frega did not go missing before 2:00 PM.\",\n  \"comments\": \"Claim declared by Tyrion shortly after he awakens his divine soul\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d18dddc9bd3fd9e2",
+    "original": "Eris Illmater: The Empress of Discord",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5EmpressIntro\",\n  \"text\": \"Eris Illmater: The Empress of Discord\",\n  \"comments\": \"Text that introduces Eris Illmater's true form\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::fa0d821295b61fe1",
+    "original": "Why did Eris change Celeste's memories?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-1\",\n  \"text\": \"Why did Eris change Celeste's memories?\",\n  \"comments\": \"DEDUCTION statement while fighting Eris's true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f35824b13f3709a3",
+    "original": "Eris needed|Celeste wanted|Eris forced|Aria wanted",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-1A\",\n  \"text\": \"Eris needed|Celeste wanted|Eris forced|Aria wanted\",\n  \"comments\": \"DEDUCTION statement while fighting Eris's true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3cc85444be0005a3",
+    "original": "Celeste to believe|Tyrion to realize|Aria to attack|Aria to believe",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-1B\",\n  \"text\": \"Celeste to believe|Tyrion to realize|Aria to attack|Aria to believe\",\n  \"comments\": \"DEDUCTION statement while fighting Eris's true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2a1df516dba5b4f8",
+    "original": "the events|the truth|a lie|the victims|the Blood Contract",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-1C\",\n  \"text\": \"the events|the truth|a lie|the victims|the Blood Contract\",\n  \"comments\": \"DEDUCTION statement while fighting Eris's true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7ea56ebbd8ed2bf7",
+    "original": "occurred earlier|never actually happened|was a normal document|quickly and efficiently",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-1D\",\n  \"text\": \"occurred earlier|never actually happened|was a normal document|quickly and efficiently\",\n  \"comments\": \"DEDUCTION statement while fighting Eris's true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1e21d07e00e5b8d7",
+    "original": "Celeste McCoy remembered the attack occurring much earlier than it actually did.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-2\",\n  \"text\": \"Celeste McCoy remembered the attack occurring much earlier than it actually did.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3c3fa1d94e578ef0",
+    "original": "An event occurred that required Eris to change Celeste's memories.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-3\",\n  \"text\": \"An event occurred that required Eris to change Celeste's memories.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::d694f490b37a1f08",
+    "original": "Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-4\",\n  \"text\": \"Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::4b89ded5fd7e4307",
+    "original": "Why would Celeste hand Aria a Blood Contract?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-5\",\n  \"text\": \"Why would Celeste hand Aria a Blood Contract?\",\n  \"comments\": \"DEDUCTION statement while fighting Eris's true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::2139288c929fcd10",
+    "original": "Aria|Eris|Celeste|Beatrice",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-5A\",\n  \"text\": \"Aria|Eris|Celeste|Beatrice\",\n  \"comments\": \"DEDUCTION field while fighting Eris's true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::53733ce3a0ea547e",
+    "original": "dropped|hid|killed|tricked",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-5B\",\n  \"text\": \"dropped|hid|killed|tricked\",\n  \"comments\": \"DEDUCTION field while fighting Eris's true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1e2532b521b9520a",
+    "original": "the Contract|Aria|Garrick Pierce|evidence",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-5C\",\n  \"text\": \"the Contract|Aria|Garrick Pierce|evidence\",\n  \"comments\": \"DEDUCTION field while fighting Eris's true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::1f0f6a9a968af827",
+    "original": "in front of Celeste|into signing the Contract|from Tyrion|using a spell",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-5D\",\n  \"text\": \"in front of Celeste|into signing the Contract|from Tyrion|using a spell\",\n  \"comments\": \"DEDUCTION field while fighting Eris's true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6656f7c5bfe84c30",
+    "original": "Celeste McCoy is not the Patron described in Aria Steelwind's Blood Contract.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-6\",\n  \"text\": \"Celeste McCoy is not the Patron described in Aria Steelwind's Blood Contract.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f6a61c6c1450ba26",
+    "original": "Neither Aria Steelwind nor Beatrice Frega were directly responsible for the death of Garrick Pierce.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-7\",\n  \"text\": \"Neither Aria Steelwind nor Beatrice Frega were directly responsible for the death of Garrick Pierce.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::58181523679c4329",
+    "original": "Celeste McCoy did, in fact, observe that Tyrion Cuthbert was dead.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-8\",\n  \"text\": \"Celeste McCoy did, in fact, observe that Tyrion Cuthbert was dead.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::beffe5909ae75109",
+    "original": "Beings of my power are able to resurrect people from the dead.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-9\",\n  \"text\": \"Beings of my power are able to resurrect people from the dead.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::58c11de9e0dc1867",
+    "original": "The Empress of Discord can't resurrect people easily.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-10\",\n  \"text\": \"The Empress of Discord can't resurrect people easily.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::224796a7bd923244",
+    "original": "What could have created this scenario?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-11\",\n  \"text\": \"What could have created this scenario?\",\n  \"comments\": \"PRESENT prompt shown after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::aa553dbb563fe66a",
+    "original": "Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-12\",\n  \"text\": \"Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f56a4da53febf554",
+    "original": "Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-13\",\n  \"text\": \"Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::9681bd6eb180a35f",
+    "original": "Celeste McCoy had complete control of her actions until Pierce died.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-14\",\n  \"text\": \"Celeste McCoy had complete control of her actions until Pierce died.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::f14655128ad28f74",
+    "original": "Garrick Pierce's death was not an accident. It was intentional and committed with malice.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-15\",\n  \"text\": \"Garrick Pierce's death was not an accident. It was intentional and committed with malice.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::81cfe45897bbb92a",
+    "original": "Celeste, Tyrion, Beatrice, Aria, and I were the only creatures in the room with Garrick Pierce when he died.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-16\",\n  \"text\": \"Celeste, Tyrion, Beatrice, Aria, and I were the only creatures in the room with Garrick Pierce when he died.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::b8086384235ee36a",
+    "original": "Garrick Pierce's death occurred because of Celeste McCoy's actions.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-17\",\n  \"text\": \"Garrick Pierce's death occurred because of Celeste McCoy's actions.\",\n  \"comments\": \"Claim declared after Eris has assumed her true form during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::908c4ca7c2808526",
+    "original": "Who killed Garrick Pierce?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-18\",\n  \"text\": \"Who killed Garrick Pierce?\",\n  \"comments\": \"PRESENT prompt for the final attack against Eris during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::e6ddb81b67f6c903",
+    "original": "Celeste McCoy did not bring about the demise of Garrick Pierce by her own hand.",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5FinalEris-19\",\n  \"text\": \"Celeste McCoy did not bring about the demise of Garrick Pierce by her own hand.\",\n  \"comments\": \"Claim declared by Tyrion to void Celeste's Blood Contract during Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::98aa9d78ee2ca1b8",
+    "original": "What part of the plan required Aster's physical involvement?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-1\",\n  \"text\": \"What part of the plan required Aster's physical involvement?\",\n  \"comments\": \"DEDUCTION statement after Aster takes the stand during Trial 3 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::76d249029d22ef72",
+    "original": "Aster|Aria|Celeste|Eris",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-1A\",\n  \"text\": \"Aster|Aria|Celeste|Eris\",\n  \"comments\": \"DEDUCTION field after Aster takes the stand during Trial 3 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::efd0e62bd8e8be64",
+    "original": "was tricked into|was forced to|was allowed to|didn't want to",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-1B\",\n  \"text\": \"was tricked into|was forced to|was allowed to|didn't want to\",\n  \"comments\": \"DEDUCTION field  after Aster takes the stand during Trial 3 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::6cad3d20a29611be",
+    "original": "signing|destroying|murdering|hiding",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-1C\",\n  \"text\": \"signing|destroying|murdering|hiding\",\n  \"comments\": \"DEDUCTION field  after Aster takes the stand during Trial 3 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::7873459e682bec85",
+    "original": "the Blood Contract|the crimes|the Force Cage|the victims",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-1D\",\n  \"text\": \"the Blood Contract|the crimes|the Force Cage|the victims\",\n  \"comments\": \"DEDUCTION field  after Aster takes the stand during Trial 3 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::3b7ec855e5853ce3",
+    "original": "What did Aria think she was signing?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-2\",\n  \"text\": \"What did Aria think she was signing?\",\n  \"comments\": \"DEDUCTION statement after Aster takes the stand during Trial 3 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::923e74637897b53a",
+    "original": "Aria|Aster|Eris|Celeste",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-2A\",\n  \"text\": \"Aria|Aster|Eris|Celeste\",\n  \"comments\": \"DEDUCTION field after Aster takes the stand during Trial 3 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::eb18741f75b062cd",
+    "original": "signed|cast|destroyed|stole",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-2B\",\n  \"text\": \"signed|cast|destroyed|stole\",\n  \"comments\": \"DEDUCTION field after Aster takes the stand during Trial 3 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::c836fed922efde0c",
+    "original": "a marriage|a demonic|an arcane|an illegal",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-2C\",\n  \"text\": \"a marriage|a demonic|an arcane|an illegal\",\n  \"comments\": \"DEDUCTION field after Aster takes the stand during Trial 3 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::67d2e2094df91b33",
+    "original": "license|spell|object|familiar",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-2D\",\n  \"text\": \"license|spell|object|familiar\",\n  \"comments\": \"DEDUCTION field after Aster takes the stand during Trial 3 of Case V\"\n}"
+  },
+  {
+    "key": "Typewriters.csv::TRANSLATION::a678992023a1ea91",
+    "original": "Who is Celeste's father?",
+    "translation": "",
+    "context": "{\n  \"name\": \"C5Trial3-3\",\n  \"text\": \"Who is Celeste's father?\",\n  \"comments\": \"PRESENT prompt where you realize that Rathallion is the father\"\n}"
+  }
+]

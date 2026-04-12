@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 3-18-Metal Shards 2-displayName",
+    "original": "Metallic Shards",
+    "translation": "金属碎片",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Metal Shards 2\",\n  \"Idx\": 18,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 3-18-Metal Shards 2-description",
+    "original": "A large, unknown metal object fell into the vat around the time that Justin Waye fell into it. The magical liquid reduced it to several small metallic shards. One of the shards has the crest of House von Sanctus: the noble family that controls the city of Aurinax.",
+    "translation": "在贾斯汀坠落时间附近，一块未知的大型金属也落入桶中。魔法液体将之化为了数小块金属碎片。碎片之一刻有欧奥耐克斯统治者：冯·桑克图斯家族的纹章。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Metal Shards 2\",\n  \"Idx\": 18,\n  \"Attr\": \"description\"\n}"
+  }
+]

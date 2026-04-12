@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Frey Cuthbert-displayName",
+    "original": "Frey Cuthbert",
+    "translation": "芙雷·卡斯伯特",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Frey Cuthbert\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Frey Cuthbert-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Frey Cuthbert\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Frey Cuthbert-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Frey Cuthbert\",\n  \"Attr\": \"arcaneArt\"\n}"
+  },
+  {
+    "key": "Frey Cuthbert-occupation",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Frey Cuthbert\",\n  \"Attr\": \"occupation\"\n}"
+  }
+]

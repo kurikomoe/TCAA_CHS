@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 5-25-Beatrice's Actions-displayName",
+    "original": "Beatrice's Actions",
+    "translation": "比亚特丽丝的行动",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Beatrice's Actions\",\n  \"Idx\": 25,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 5-25-Beatrice's Actions-description",
+    "original": "You saw Beatrice Frega as you were losing consciousness. You only saw her for a brief moment. So, it could have been an illusion. Regardless, that means that she somehow entered the Prayer Room at 2:30PM.",
+    "translation": "你在失去意识的途中看见了比亚特丽丝·弗雷加，但只有短暂一瞬，可能是个幻觉。这意味着她在下午 2:30 用某种手段进入了祷告室。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Beatrice's Actions\",\n  \"Idx\": 25,\n  \"Attr\": \"description\"\n}"
+  }
+]

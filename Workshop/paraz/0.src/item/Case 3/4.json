@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 3-4-Transmutation Magic on the Guard Rails-displayName",
+    "original": "Transmutation on the Guard Rails",
+    "translation": "护栏上的形变术痕迹",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Transmutation Magic on the Guard Rails\",\n  \"Idx\": 4,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 3-4-Transmutation Magic on the Guard Rails-description",
+    "original": "There are magical traces of <i>transmutation</i> on the guard rail that Justin supposedly broke before falling. These traces are <i>only</i> on the rails that Justin broke. They aren't anywhere else on the walkway…",
+    "translation": "贾斯汀坠落前弄坏的护栏上有<u>形变术</u>魔法的痕迹。这些魔法痕迹<u>只</u>出现在贾斯汀弄坏的地方。走道上则是完全没有……",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Transmutation Magic on the Guard Rails\",\n  \"Idx\": 4,\n  \"Attr\": \"description\"\n}"
+  }
+]

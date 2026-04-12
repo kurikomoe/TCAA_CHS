@@ -1,0 +1,401 @@
+NAME,TEXT,TRANSLATION,COMMENTS
+C1ConmanArg1,You’ll be taken to the barracks.,,"Claim during the tutorial ARGUMENT against the ""Knight"" in Case I"
+C1ConmanArg2,Pay the fine for your crimes!,,"Claim during the tutorial ARGUMENT against the ""Knight"" in Case I"
+C1ConmanArg3,I'll use violence if I have to!,,"Claim during the tutorial ARGUMENT against the ""Knight"" in Case I"
+C1OrymArg1,Ruby Tymora is a crooked lawyer.,鲁比·泰摩拉是个坏到骨子里的律师,Claim during the ARGUMENT against Orym in Case I
+C1OrymArg2,You’re just another crook.,你和她一样，也是个烂到骨子里的律师,Claim during the ARGUMENT against Orym in Case I
+C1OrymArg3,I have no reason to trust you.,,Claim during the ARGUMENT against Orym in Case I
+C1TavernDeduce1,How did Flinhart move before he died?,,DEDUCTION statement in the McCoy Tavern in Case I
+C1TavernDeduce1A,Flinhart|The Killer|Celeste|Tyrion,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce1B,did not|did,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce1C,move|scream|fight|die,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce1D,during the attack|during the argument|after the arrest|last week,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce2,How did the bottle shatter?,,DEDUCTION statement in the McCoy Tavern in Case I
+C1TavernDeduce2A,Flinhart|The Killer|Celeste|Tyrion,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce2B,dropped|attacked|hid|fled,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce2C,the bottle|the murder weapon|the blood|the tavern,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce2D,during the attack|during the argument|after the arrest|yesterday,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce3,What was the state of the crime scene?,,DEDUCTION statement in the McCoy Tavern in Case I
+C1TavernDeduce3A,The crime scene|The bottle|The kitchen|The killer,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce3B,wasn’t|was,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce3C,lit|destroyed|shattered|attacked,,DEDUCTION field in the McCoy Tavern in Case I
+C1TavernDeduce3D,by the lamps|by Flinhart|by the Inquisition|by Celeste,,DEDUCTION field in the McCoy Tavern in Case I
+C1CelesteArg1,He’s always hated magic. There’s no reason behind it.,,Claim during the ARGUMENT against Celeste in Case I
+C1CelesteArg2,It was selfish of me to learn magic.,,Claim during the ARGUMENT against Celeste in Case I
+C1CelesteArg3,He was only thinking about how I betrayed him!,,Claim during the ARGUMENT against Celeste in Case I
+C1GarrickClaim,None of my spells could be used to stab Flinhart.,,Claim during the final trial in Case I
+C1GarrickArg1,I saw the murder! I witnessed everything!,,Claim during the final ARGUMENT against Garrick in Case I
+C1GarrickArg2,She was holding a blood-soaked sword!,,Claim during the final ARGUMENT against Garrick in Case I
+C1GarrickArg3,There is no evidence of a liquefied weapon at the crime scene.,,Claim during the final ARGUMENT against Garrick in Case I
+C2DungeonDeduce1,How does the evidence implicate Wallace?,,DEDUCTION statement in the Dunegons in Case II
+C2DungeonDeduce1A,A magical trace|A bloody weapon|A rancid smell|A witnes,,DEDUCTION field in the Dunegons in Case II
+C2DungeonDeduce1B,of necromancy|of alchemy|of illusion|of steel|from the academy,,DEDUCTION field in the Dunegons in Case II
+C2DungeonDeduce1C,was found|was smelled|was hidden|was destroyed,,DEDUCTION field in the Dunegons in Case II
+C2DungeonDeduce1D,on the body|in the classroom|in the hallway|outside the academy,,DEDUCTION field in the Dunegons in Case II
+C2DungeonDeduce2,Which spell do they think Wallace used?,,DEDUCTION statement in the Dunegons in Case II
+C2DungeonDeduce2A,Necrotic Blight|Prestidigitation|Animate Corpse,,DEDUCTION field in the Dunegons in Case II
+C2DungeonDeduce3,What is wrong with the crime scene?,,DEDUCTION statement in the Dunegons in Case II
+C2DungeonDeduce3A,Bellwether's|Lecture Hall 2-B's|The Academy's|Wallace's,,DEDUCTION field in the Dunegons in Case II
+C2DungeonDeduce3B,body|Spell Compendium|employees|floor,,DEDUCTION field in the Dunegons in Case II
+C2DungeonDeduce3C,was covered|was destroyed|was missing|was found,,DEDUCTION field in the Dunegons in Case II
+C2DungeonDeduce3D,in blood|by Wallace|before the lockdown|during the murder,,DEDUCTION field in the Dunegons in Case II
+C2ValentinaArg1,My conscience is clear.,,Claim during the ARGUMENT against Valentina in Case II
+C2ValentinaArg2,I don't have to tell you anything.,,Claim during the ARGUMENT against Valentina in Case II
+C2ValentinaArg3,I don’t know anyone who can use magic.,,Claim during the ARGUMENT against Valentina in Case II
+C2KitchenDeduce1,Why doesn’t Valentina know that the spell was necromancy?,,DEDUCTION statement in the Kitchen in Case II
+C2KitchenDeduce1A,The spell|The weapon|The witness|The room,,DEDUCTION field in the Kitchen in Case II
+C2KitchenDeduce1B,cast|swung|who saw|contained,,DEDUCTION field in the Kitchen in Case II
+C2KitchenDeduce1C,on Valentina|at Bellwether|within the lecture hall|during the murder,,DEDUCTION field in the Kitchen in Case II
+C2KitchenDeduce1D,healed her|killed her|hid her|attacked her,,DEDUCTION field in the Kitchen in Case II
+C2KitchenDeduce2,Why were there traces of [b]necromancy[/b] on Bellwether's body?,,DEDUCTION statement in the Kitchen in Case II
+C2KitchenDeduce2A,A mage|Valentina|Wallace|The Killer,,DEDUCTION field in the Kitchen in Case II
+C2KitchenDeduce2B,cast a healing spell on|threw a potion at|stabbed|ran away from,,DEDUCTION field in the Kitchen in Case II
+C2KitchenDeduce2C,Bellwether|Wallace|Valentina|Theodore,,DEDUCTION field in the Kitchen in Case II
+C2LockersDeduce1,What is motivating Steelwind to keep secrets?,,DEDUCTION statement in the Locker Room in Case II
+C2LockersDeduce1A,Arrogance|Paranoia|Logic,,DEDUCTION field in the Locker Room in Case II
+C2LockersDeduce2,Who has Steelwind trusted for this case?,,DEDUCTION statement in the Locker Room in Case II
+C2LockersDeduce2A,Tyrion and Celeste|The Headmaster|Wallace|Commander White,,DEDUCTION field in the Locker Room in Case II
+C2LockersDeduce3,Why does Steelwind trust us this time?,,DEDUCTION statement in the Locker Room in Case II
+C2LockersDeduce3A,Tyrion|Wallace|Steelwind|The Headmaster,,DEDUCTION field in the Locker Room in Case II
+C2LockersDeduce3B,isn't|is,,DEDUCTION field in the Locker Room in Case II
+C2LockersDeduce3C,controlled by|capable of|a member of|an employee of,,DEDUCTION field in the Locker Room in Case II
+C2LockersDeduce3D,the nobility|using magic|the faculty|the Inquisition,,DEDUCTION field in the Locker Room in Case II
+C2LockersDeduce4,What can I infer about the secret witness?,,DEDUCTION statement in the Locker Room in Case II
+C2LockersDeduce4A,The witness|Steelwind|Wallace|The killer,,DEDUCTION field in the Locker Room in Case II
+C2LockersDeduce4B,is a|isn't a|is a|isn't a,,DEDUCTION field in the Locker Room in Case II
+C2LockersDeduce4C,noble|murderer|student|suspect,,DEDUCTION field in the Locker Room in Case II
+C2LockersDeduce5,Whose locker had the most suspicious evidence?,,DEDUCTION statement in the Locker Room in Case II
+C2LockersDeduce5A,Miriam Frega|Wallace Nightgrave|Jaiden von Sanctus|Warren Sibyl,,DEDUCTION field in the Locker Room in Case II
+C2AriaArg1,Nothing about my behavior has changed.,,Claim during the ARGUMENT against Aria in Case II
+C2AriaArg2,Why would I act in such a way?,,Claim during the ARGUMENT against Aria in Case II
+C2AriaArg3,My investigation doesn’t involve the Fregas.,,Claim during the ARGUMENT against Aria in Case II
+C2AriaArg4,You can’t prove that piece of evidence exists.,,Claim during the ARGUMENT against Aria in Case II
+C2Trial1-1,Which spell would leave a trace of [i]necromancy[/i]?,,PRESENT Prompt after Orym's cross-examination during Trial 1 of Case II 
+C2Trial1-2,How did the twins trick the Inquisition?,,DEDUCTION statement after Valentina's cross-examination during Trial 1 of Case II
+C2Trial1-2A,Valentina|Wallace|Bellwether|Orym,,DEDUCTION field after Valentina's cross-examination during Trial 1 of Case II
+C2Trial1-2B,switched|hid|incorrectly|healed,,DEDUCTION field after Valentina's cross-examination during Trial 1 of Case II
+C2Trial1-2C,places with|from|spoke with|the wounds of,,DEDUCTION field after Valentina's cross-examination during Trial 1 of Case II
+C2Trial1-2D,Valerie|Wallace|Bellwether|Orym,,DEDUCTION field after Valentina's cross-examination during Trial 1 of Case II
+C2Trial2-1,What created Bellwether's voice?,,PRESENT Prompt after Jan's cross-examination during Trial 2 of Case II 
+C2Trial2-2,Who ordered the Construct to hide the body?,,PRESENT Prompt after Jan's cross-examination during Trial 2 of Case II 
+C2TheodoreArg1,I was alone and could not overpower Bellwether.,,Claim during the final ARGUMENT against Theodore in Case II
+C2TheodoreArg2,I wouldn’t have the construct linger around the library.,,Claim during the final ARGUMENT against Theodore in Case III
+C2TheodoreArg3,I wouldn’t have placed incriminating evidence in that locker.,,Claim during the final ARGUMENT against Theodore in Case III
+C2TheodoreArg4,There’s no reason I would make a mistake like that!,,Claim during the final ARGUMENT against Theodore in Case III
+C2TheodoreArg5,There's no evidence of my orders!,,Claim during the final ARGUMENT against Theodore in Case III
+C3FactoryDeduce1,What's the truth behind the tensions between Dracogen and the unions?,,DEDUCTION statement in the Arcane Refinery in Case III
+C3FactoryDeduce1A,There are no|There are,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce1B,tensions between|reports about|business relations|news articles about,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce1C,Stefanic Dracogen|Aria Steelwind|Lloyd von Santcus|Lucio Steelwind,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce1D,and the unions|and the Inquisition|and the serial robber|and the Kingsguard,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce2,What is strange about the Phantom's actions?,,DEDUCTION statement in the Arcane Refinery in Case III
+C3FactoryDeduce2A,The Mistweaver Phantom|Justin Waye|Stefanic Dracogen|Lloyd von Sanctus,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce2B,values documents|loves their job|steals from the rich|hates commoners,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce2C,as much as|less than|more than,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce2D,valuables|Mosourika's food|the refinery|the city of Aurinax,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce3,How is the Mistweaver Phantom related to Steelwind's reports?,,DEDUCTION statement in the Arcane Refinery in Case III
+C3FactoryDeduce3A,The documents|The valuables|The blockade|The ships,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce3B,stolen by the robber|entering Aurinax|created by the Kingsguard|found by the Inquisition,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce3C,are being used to|couldn't be used to|prevented Dracogen from|would never,,DEDUCTION field in the Arcane Refinery in Case III
+C3FactoryDeduce3D,file false reports|keep Aurinax locked down|murder Justin Waye|frame Dracogen,,DEDUCTION field in the Arcane Refinery in Case III
+C3MosourikaArg1,I don't want to talk about this.,,Claim during the final ARGUMENT against Mosourika in Case III
+C3MosourikaArg2,I don't know who the Mistweaving Phantom is.,,Claim during the final ARGUMENT against Mosourika in Case III
+C3MosourikaArg3,The Mistweaving Phantom isn't a threat to anyone.,,Claim during the final ARGUMENT against Mosourika in Case III
+C3MosourikaArg4,I can't trust you.,,Claim during the final ARGUMENT against Mosourika in Case III
+C3HarborDeduce1,What was the function of Queen's artificery device?,,DEDUCTION statement in the Aurinax Harbor in Case III
+C3HarborDeduce1A,Queen's device|Justin Waye|Stefanic Dracogen|My sanity,,DEDUCTION field in the Aurinax Harbor in Case III
+C3HarborDeduce1B,allowed|stopped|attacked|betrayed,,DEDUCTION field in the Aurinax Harbor in Case III
+C3HarborDeduce1C,the wearer|Lloyd von Sanctus|Stefanic Dracogen|My sanity,,DEDUCTION field in the Aurinax Harbor in Case III
+C3HarborDeduce1D,to teleport|to deflect suspicion|from fleeing|to disappear,,DEDUCTION field in the Aurinax Harbor in Case III
+C3HarborDeduce2,What is the artificery device?,,PRESENT prompt in the Aurinax Harbor in Case III
+C3HarborDeduce3,Where is the Crown Prince's stolen cargo?,,PRESENT prompt in the Aurinax Harbor in Case III
+C3HarborDeduce4,What was I thinking about again?,,"""DEDUCTION statement"" at the end of the investigation in Case III"
+C3HarborDeduce4A,Sleep|Sleep|Sleep|Sleep,,"""DEDUCTION field"" at the end of the investigation in Case III"
+C3Trial2-1,Why wasn't the bomb found in the refinery?,,DEDUCTION statement after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-1A,The ring|The bomb|Justin Waye|The energy cells,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-1B,was activated.|was stolen.|died.|was lost.,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-1C,The summoning spell|The teleportation spell|The bomb|The refinery,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-1D,failed.|exploded.|succeeded.|shut down.,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-2,How did Justin use the ring when he was on the catwalk?,,DEDUCTION statement after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-2A,Justin Waye|Queen|Mosourika Tudor|Aster de Wyverngarde,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-2B,attempted|stole|destroyed|planted,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-2C,teleportation|theft|false reports|evidence,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-2D,and summoning|and terrorism|and evidence|and testimony,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-3,Why did Justin use the ring when he was on the catwalk?,,DEDUCTION statement after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-3A,Justin Waye|Queen|Mosourika Tudor|Aster de Wyverngarde,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-3B,had no|had|lost|stole,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-3C,knowledge of|equipment from|evidence of|creation of,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-3D,the summoning spell|the insurrectionists|treason|the unions,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-4,Where was Justin supposed to be when he activated the ring?,,DEDUCTION statement after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-4A,Justin Waye|Queen|Mosourika Tudor|Aster de Wyverngarde,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-4B,was supposed to|couldn't|wanted to|prevented from,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-4C,be inside|get away from|steal gold from|destroy,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-4D,Dracogen's office|the union office|Aurinax Harbor|Tyrion's old house,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-5,What was Justin summoning to each of the crime scenes?,,DEDUCTION statement after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-5A,Justin Waye|Queen|Mosourika Tudor|Aster de Wyverngarde,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-5B,was summoning|was robbing|was destroying|was hiding,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-5C,false evidence of|the unions created by|resources funding|the business documents of,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-5D,treason|tax evasion|Stefanic Dracogen|the workers' unions,,DEDUCTION field after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-6,What physical evidence was related to Queen?,,PRESENT prompt after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-7,What evidence is related to this leather scrap?,,PRESENT prompt after Lucio's cross-examination during Trial 2 of Case IIII 
+C3Trial2-8,"Who said a name with \""VI\"" and \""ETTA\"" in it?",,PRESENT prompt after Lucio's cross-examination during Trial 2 of Case IIII 
+C3LloydArg1,I was going to use those Constructs for labor!,,Claim during the final ARGUMENT against Lloyd in Case III
+C3LloydArg2,You have nothing that ties me to Justin!,,Claim during the final ARGUMENT against Lloyd in Case III
+C3LloydArg3,Justin was loyal to the insurrectionists!,,Claim during the final ARGUMENT against Lloyd in Case III
+C3LloydArg4,Justin took every opportunity he could to pay off his debts!,,Claim during the final ARGUMENT against Lloyd in Case III
+C3LloydArg5,There's no definitive proof that the container broke the guardrail.,,Claim during the final ARGUMENT against Lloyd in Case III
+C3RikaFinalDeduce,Justin stole everything he could. He didn't care.,,Claim during the final conversation between Mosourika and Tyrion in Case IIII 
+C4RiddleDeduce,What is the solution to this riddle?,,DEDUCTION statement while Tyrion is solving Horus's riddle in the Gallery
+C4RiddleDeduceA,The letter|The lights of|The god of|The Eye of,,DEDUCTION field while Tyrion is solving Horus's riddle in the Gallery
+C4RiddleDeduceB,I|creation|radiance|Horus,,DEDUCTION field while Tyrion is solving Horus's riddle in the Gallery
+C4StudyDeduce1,When did the murder occur?,,DEDUCTION statement in William's Study in Case IV
+C4StudyDeduce1A,The murder|The theft|The arrest|The Lords' Ball,,DEDUCTION field in William's Study in Case IV
+C4StudyDeduce1B,occurred during|caused|occurred before|occurred after,,DEDUCTION field in William's Study in Case IV
+C4StudyDeduce1C,the lockdown|Beatrice's departure|the Sword was found|last night,,DEDUCTION field in William's Study in Case IV
+C4StudyDeduce2,Where did the murder weapon come from?,,DEDUCTION statement in William's Study in Case IV
+C4StudyDeduce2A,The murderer|Jan|Laefe|The Duke,,DEDUCTION field in William's Study in Case IV
+C4StudyDeduce2B,took|hid|destroyed|heard,,DEDUCTION field in William's Study in Case IV
+C4StudyDeduce2C,the murder weapon|the murder|the altercation|the artifact,,DEDUCTION field in William's Study in Case IV
+C4StudyDeduce2D,in Frega's Study|outside the manor|in Beatrice's room|in the storage room,,DEDUCTION field in William's Study in Case IV
+C4StudyDeduce3,What is flawed with the prosecution's case?,,DEDUCTION statement in William's Study in Case IV
+C4StudyDeduce3A,Beatrice Frega|William Frega|Laefe Frega|Aria Steelwind,,DEDUCTION field in William's Study in Case IV
+C4StudyDeduce3B,is completely|is partially|is not|is secretly,,DEDUCTION field in William's Study in Case IV
+C4StudyDeduce3C,blind|a noble|wealthy|a mystery,,DEDUCTION field in William's Study in Case IV
+C4GalleryDeduce1,What do we know about the thief of the Sword?,,DEDUCTION statement in the Gallery in Case IV
+C4GalleryDeduce1A,The thief|Beatrice|Harold|Steelwind,,DEDUCTION field in the Gallery in Case IV
+C4GalleryDeduce1B,has|is not a|might be,,DEDUCTION field in the Gallery in Case IV
+C4GalleryDeduce1C,powerful magic|demon|noble|master rogue,,DEDUCTION field in the Gallery in Case IV
+C4GalleryDeduce2,What does this tell us about William Frega's death?,,DEDUCTION statement in the Gallery in Case IV
+C4GalleryDeduce2A,William|Beatrice|Harold|Laefe,,DEDUCTION field in the Gallery in Case IV
+C4GalleryDeduce2B,died|was arrested|planted the Sword|met Aste,,DEDUCTION field in the Gallery in Case IV
+C4GalleryDeduce2C,after|at the moment|before|at the moment,,DEDUCTION field in the Gallery in Case IV
+C4GalleryDeduce2D,the lockdown activated|the body was found|the theft was reported|the lockdown was lifted,,DEDUCTION field in the Gallery in Case IV
+C4LaefeArg1,I have no idea what my father was doing.,,Claim during the ARGUMENT against Laefe in Case IV
+C4LaefeArg2,I was not involved in this!,,Claim during the ARGUMENT against Laefe in Case IV
+C4LaefeArg3,I was never aware of the details of my father's will.,,Claim during the ARGUMENT against Laefe in Case IV
+C4LaefeArg4,I can't trust you.,,Claim during the ARGUMENT against Laefe in Case IV
+C4BedroomDeduce1,What did Tracker hear when he woke up?,,DEDUCTION statement in Beatrice's Bedroom in Case IV
+C4BedroomDeduce1A,Tracker|Beatrice|Harold|The thief,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4BedroomDeduce1B,heard|saw|hid|caused,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4BedroomDeduce1C,rats running|the lockdown|glass shattering|a dog barking,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4BedroomDeduce1D,in the vents|during the Lords' Ball|from the gallery|in William's Study,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4BedroomDeduce2,Why didn't Laefe answer Tracker's message?,,DEDUCTION statement in Beatrice's Bedroom in Case IV
+C4BedroomDeduce2A,The Familial Bond|Beatrice|Tracker|Laefe,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4BedroomDeduce2B,was nullified|was distracted|was ignored|was created,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4BedroomDeduce2C,by Anti-Magic Field|by Beatrice|by Laefe|by the Inquisition,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4BedroomDeduce3,Why did Tracker finally hear Laefe?,,DEDUCTION statement in Beatrice's Bedroom in Case IV
+C4BedroomDeduce3A,The stick|The sword|The weapon|The will,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4BedroomDeduce3B,that Tracker obtained|that was stolen|that William drafted|that the killer used,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4BedroomDeduce3C,was actually|was not|was actually|was not,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4BedroomDeduce3D,the Sword of Spell Eating|the murder weapon|a forgery|hidden in Beatrice's room,,DEDUCTION field in Beatrice's Bedroom in Case IV
+C4HallwayDeduce1,Why was it strange for Tracker to hear Laefe's voice?,,DEDUCTION statement in the Hallway in Case IV
+C4HallwayDeduce1A,Anti-Magic Field|Invisibility|Detect Magic|The Sword of Spell Eating,,DEDUCTION field in the Hallway in Case IV
+C4HallwayDeduce1B,was|wasn't|couldn't be|might've been,,DEDUCTION field in the Hallway in Case IV
+C4HallwayDeduce1C,active throughout|seen in|cast within|stolen from,,DEDUCTION field in the Hallway in Case IV
+C4HallwayDeduce1D,this hallway|the ballroom|the gallery|Beatrice's bedroom,,DEDUCTION field in the Hallway in Case IV
+C4HallwayDeduce2,"How could the ""rat"" be invisible during the lockdown?",,DEDUCTION statement in the Hallway in Case IV
+C4HallwayDeduce2A,"The ""rat""|Tracker|The Killer|Beatrice",,DEDUCTION field in the Hallway in Case IV
+C4HallwayDeduce2B,was holding|was attacking|was stealing|was murdering,,DEDUCTION field in the Hallway in Case IV
+C4HallwayDeduce2C,the Sword of Spell Eating|the Armbands of Intellect|the Earrings of Vitality|William Frega,,DEDUCTION field in the Hallway in Case IV
+C4Trial2-1,Who did Tracker see in the air vent?,,DEDUCTION statement after using the Empowered Eye on Harold during Trial 2 of Case IV
+C4Trial2-1A,Eugene Haroldson|Another Familiar|Eugene Haroldson|Another Familiar,,DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV
+C4Trial2-2,Why was Eugene in the air vents?,,DEDUCTION statement after using the Empowered Eye on Harold during Trial 2 of Case IV
+C4Trial2-2A,Eugene|Tracker|Harold|Beatrice,,DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV
+C4Trial2-2B,was acting|was not acting|was acting|was not acting,,DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV
+C4Trial2-2C,of their own free will|because of blackmail|to frame Beatrice|to frame Harold,,DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV
+C4Trial2-3,How could Eugene have carried out this plan independently?,,DEDUCTION statement after using the Empowered Eye on Harold during Trial 2 of Case IV
+C4Trial2-3A,Eugene|Tracker|Harold|Beatrice,,DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV
+C4Trial2-3B,wore|stole|framed|murdered,,DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV
+C4Trial2-3C,the Armbands of Intellect|William|Beatrice|the Sword of Spell Eating,,DEDUCTION field after using the Empowered Eye on Harold during Trial 2 of Case IV
+C4Trial2-3.2,Where are the Armbands of Intellect right now?,,DEDUCTION statement after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-3.2A,Eugene|Beatrice|William|Tracker,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-3.2B,is wearing|found|stole|hid,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-3.2C,the Armbands|the Sword|the murder weapon|Celeste's sword,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-3.2D,at this moment|under Beatrice's bed|somewhere in Frega Manor|from the gallery,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-4,How did the Sword of Spell Eating end up in that hallway?,,DEDUCTION statement after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-4A,The thief|Beatrice|Eugene|Tracker,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-4B,dropped|hid|stole|nullified,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-4C,the Sword|the drafted will|the Armbands|the Anti-Magic Field,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-4D,in the hallway|from the gallery|in William's Study|in the Ballroom,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-5,Why was the thief in that hallway?,,DEDUCTION statement after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-5A,The thief|Beatrice|Eugene|Tracker,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-5B,was sneaking|was walking|was breaking|was tunneling,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-5C,through|on top of|outside of|under,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-5D,the air vents|William's Study|the hallway|the manor,,DEDUCTION field after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-6,What did Beatrice use to commit the murder?,,DEDUCTION statement after Eugene's cross-examination during Trial 2 of Case IV
+C4Trial2-7,"Why was Marrunath using the term ""master""",,DEDUCTION statement after Marrunath's cross-examination during Trial 2 of Case IV
+C4Trial2-7A,Beatrice|Tymora|William|Marrunath,,DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV
+C4Trial2-7B,is not|is|is not|is,,DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV
+C4Trial2-7C,Marrunath's|Beatrice's|Tymora's|William's,,DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV
+C4Trial2-7D,master|client|daughter|familiar,,DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV
+C4Trial2-8,Why wouldn't Marrunath simply lie?,,DEDUCTION statement after Marrunath's cross-examination during Trial 2 of Case IV
+C4Trial2-8A,Demons|Humans|Dragons|Mages,,DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV
+C4Trial2-8B,are not able to|are able to|are not able to|are able to,,DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV
+C4Trial2-8C,lie|use magic|murder|steal,,DEDUCTION field after Marrunath's cross-examination during Trial 2 of Case IV
+C4BeatriceArg1,I didn't bring anything dangerous into Frega Manor.,,Claim during the final ARGUMENT against Beatrice in Case IV
+C4BeatriceArg2,I did not commit any crimes during the Lords' Ball.,,Claim during the final ARGUMENT against Beatrice in Case IV
+C4BeatriceArg3,Marrunath will take the fall on Beatrice's behalf.,,Claim during the final ARGUMENT against Beatrice in Case IV
+C4Trial2-9,How do you prove that Beatrice ordered Marrunath?,,DEDUCTION statement after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C4Trial2-9A,Use physical evidence|Use testimony|Use deduction|Tell a lie,,DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C4Trial2-9B,that connects|that kills|that acquits|that separates,,DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C4Trial2-9C,Beatrice|Laefe|Tyrion|Harold,,DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C4Trial2-9D,and Marrunath|and Tracker|and Eugene|and Ruby,,DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C4Trial2-10,How do you prove that Beatrice ordered Marrunath?,,DEDUCTION statement after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C4Trial2-10A,Their connection|Their crimes|Their mutual allies|Their evidence,,DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C4Trial2-10B,is facilitated through|were committed by|were hidden by|were killed by,,DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C4Trial2-10C,a Pact|a weapon|an artifact|a spell,,DEDUCTION field after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C4Trial2-11,Who told you something about demonic pacts?,,PRESENT prompt after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C4Trial2-12,What can I use to obtain Beatrice's Blood Contract?,,PRESENT prompt after the final ARGUMENT against Beatrice during Trial 2 of Case IV
+C5CommonDeduce1,How did Sibyl's body end up in the lake?,,DEDUCTION statement in Common Room in Case V
+C5CommonDeduce1A,The murderer|Sibyl|Steelwind|von Sanctus,,DEDUCTION field in Common Room in Case V
+C5CommonDeduce1B,threw|hid|killed|burned,,DEDUCTION field in Common Room in Case V
+C5CommonDeduce1C,Sibyl|Steelwind|von Sanctus|Pierce,,DEDUCTION field in Common Room in Case V
+C5CommonDeduce1D,from the balcony|with a spell|inside a vacant room|completely,,DEDUCTION field in Common Room in Case V
+C5CommonDeduce2,What's strange about the order of the murders?,,DEDUCTION statement in Common Room in Case V
+C5CommonDeduce2A,The murderer|Steelwind|Sibyl|Archeus,,DEDUCTION field in Common Room in Case V
+C5CommonDeduce2B,could have|accidentally|purposefully|quickly,,DEDUCTION field in Common Room in Case V
+C5CommonDeduce2C,killed Pierce|killed Sibyl|killed von Sanctus|killed Archeus,,DEDUCTION field in Common Room in Case V
+C5CommonDeduce2D,second|easily|with magic|with a weapon,,DEDUCTION field in Common Room in Case V
+C5AriaArg1,A villain controlled my mind.,,Claim during the ARGUMENT against Aria in Case V
+C5AriaArg2,The person responsible was just a sadistic killer.,,Claim during the ARGUMENT against Aria in Case V
+C5AriaArg3,The perpetrator didn't need to enter the cathedral to commit the murders.,,Claim during the ARGUMENT against Aria in Case V
+C5AriaArg4,Fighting this will put people in danger.,,Claim during the ARGUMENT against Aria in Case V
+C5Trial1-1,What event was Beatrice referring to?,,DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-1A,Marrunath|Lucio|Tyrion|Beatrice,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-1B,hid|denied|presented|revealed,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-1C,the Purple Mark|the conspiracy|a contradiction|a lie,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-1D,from Beatrice|despite the evidence|in the testimony|during the massacre,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-2,Why would Marrunath interfere?,,DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-2A,The Purple Mark|The mastermind|Marrunath|Aria,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-2B,is|is not|has been|hasn't been,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-2C,related to|investigating|hiding|lying about,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-2D,a demon|the nobility|the ancient dragons|an urban myth,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-3,How could something demonic control Beatrice?,,DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-3A,Beatrice|Aria|The other murderers|Marrunath,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-3B,lost|killed|forgot|unveiled,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-3C,control of their actions|their memories|the victims|the conspiracy,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-3D,due to a Blood Contract|against their will|during the massacre|before the trial,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-4,What does this tell us about Aria?,,DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-4A,Aria|Beatrice|Marrunath|The mastermind,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-4B,lost|killed|hid|created,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-4C,control of their mind|a forged document|the mastermind|a victim,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-4D,due to a Blood Contract|from the Inquisition|during the investigation|which promised vengeance,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-5,Which demon did Aria make a Blood Contract with?,,DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-5A,The Empress of Discord|Marrunath|Eugene Haroldson|An unknown demon,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-6,Why would Aria sign this contract?,,DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-6A,Aria|Marrunath|The Empress of Discord|The Patron,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-6B,signed the contract|created the contract|helped the Patron|masterminded this scenario,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-6C,because it looked like|to exact revenge on|because she placed her trust in|because she was threatened by,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-6D,a normal document|the nobility|Lord Steelwind|Beatrice,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-7,Who else was responsible for Aria's actions?,,DEDUCTION statement after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-7A,Aria|Marrunath|Lucio|The Patron,,DEDUCTION field after Beatrice's testimony during Trial 1 of Case V
+C5Trial1-8,What implies that von Sanctus cast [b]Force Cage[/b]?,,PRESENT prompt after Orym's cross-examination during Trial 1 of Case V
+C5Trial1-9,How did Aria suffocate von Sanctus?,,DEDUCTION statement after Orym's cross-examination during Trial 1 of Case V
+C5Trial1-9A,The fire|Aria|Von Sanctus|The Patron,,DEDUCTION field after Orym's cross-examination during Trial 1 of Case V
+C5Trial1-9B,consumed|cast|fled from|tricked,,DEDUCTION field after Orym's cross-examination during Trial 1 of Case V
+C5Trial1-9C,all the oxygen|a spell to bypass|von Sanctus|Aria,,DEDUCTION field after Orym's cross-examination during Trial 1 of Case V
+C5Trial1-9D,all the oxygen|a spell to bypass|von Sanctus|Aria,,DEDUCTION field after Orym's cross-examination during Trial 1 of Case V
+C5Trial1-10,Which spell was cast on Sibyl?,,PRESENT prompt after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-11,Why was Sibyl motionless despite being conscious?,,DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-11A,Sibyl|Aria|Archeus|Rudolf,,DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-11B,was affected|was blinded|was knocked out|was tricked,,DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-11C,by a spell|by the Patron|by the afternoon sun|with an illusion,,DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-12,Which spell did Aria cast on Sibyl?,,PRESENT prompt after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-13,How did Sibyl suffocate?,,DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-13A,Sibyl|Aria|Archeus|Rudolf,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-13B,drowned|wasn't aware of|was choked by|was attacked by,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-13C,in Lake Galakrond|the massacre|a magic spell|Aria,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-14,What's similar about some of the targets?,,DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-14A,Von Sanctus|Sibyl|Aria|Pierce,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-14B,and Sibyl|and von Sanctus|and Aria|and Pierce,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-14C,are House leaders|are convicted murderers|are friends|are enemies,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-14D,of Pillar Families|of a lesser noble house|of Aria|of the commonfolk,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-15,Why didn't the Patron target Lucio Steelwind?,,DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-15A,The Patron|Aria|Lucio|Rathallion,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-15B,wanted to frame|wanted to save|wanted to hide|wanted to kill,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-15C,House Steelwind|the victims|Tyrion|Aria,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-15D,or the murders|to make them suffer|from the nobility|using Aria,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-16,Why did the Patron target Garrick Pierce?,,DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-16A,Pierce|Rudolf|Aria|The Patron,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-16B,knew|hid|created|signed,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-16C,the identity|the Blood Contract|the foundations|the [b]Spell Compendiums[/b],,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-16D,of Celeste's parents|of Aria|of magic|of the Scaled Lord,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-17,Who did Pierce originally send that letter to?,,DEDUCTION statement after Theon's cross-examination during Trial 1 of Case V
+C5Trial1-17A,The Patron|Lloyd von Sanctus|Lucio Steelwind|Coraline Sibyl,,DEDUCTION field after Theon's cross-examination during Trial 1 of Case V
+C5FregaManor1,Why did the Divine Edict harm me?,,DEDUCTION statement in Frega Manor in Case V
+C5FregaManor1A,Aster|The Patron|Tyrion|Aria,,DEDUCTION field in Frega Manor in Case V
+C5FregaManor1B,does not have|has|does not have|has,,DEDUCTION field in Frega Manor in Case V
+C5FregaManor1C,a Blood Contract with|a deal with|control of|protection from,,DEDUCTION field in Frega Manor in Case V
+C5FregaManor1D,the Empress of Discord|Beatrice|Aria|Tyrion,,DEDUCTION field in Frega Manor in Case V
+C5TymoraOffice1,Why are Ruby's memories different from yours?,,DEDUCTION statement in Ruby's Office in Case V
+C5TymoraOffice1A,Ruby|Tyrion|Eris|Aria,,DEDUCTION field in Ruby's Office in Case V
+C5TymoraOffice1B,signed|destroyed|hid|fabricated,,DEDUCTION field in Ruby's Office in Case V
+C5TymoraOffice1C,a Blood Contract|their own death|evidence|a birth certificate,,DEDUCTION field in Ruby's Office in Case V
+C5TymoraOffice2,Who is Eris Illmater?,,DEDUCTION statement in Ruby's Office in Case V
+C5TymoraOffice2A,Eris Illmater|Aria Steelwind|The Patron|Ruby Tymora,,DEDUCTION field in Ruby's Office in Case V
+C5TymoraOffice2B,is|is not|is|is not,,DEDUCTION field in Ruby's Office in Case V
+C5TymoraOffice2C,the Empress of Discord|a qualified attorney|the Patron|a noble,,DEDUCTION field in Ruby's Office in Case V
+C5Trial2-1,Which phrase did Eris use to mislead me?,,Statement shown after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-2,What do I already know about the Patron through the first two murders?,,DEDUCTION statement after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-2A,The Patron|Eris|Aria|Beatrice,,DEDUCTION field after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-2B,is|is not|is|is not,,DEDUCTION field after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-2C,experienced in|guilty of|innocent of|ignorant of,,DEDUCTION field after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-2D,using lethal magic|national politics|making deals with demons|physical activity,,DEDUCTION field after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-3,Why didn't Eris use Beatrice to kill Pierce?,,DEDUCTION statement after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-3A,The murderer|Eris|Beatrice|Aria,,DEDUCTION field after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-3B,chose to|was forced to|wasn't able to|forgot to,,DEDUCTION field after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-3C,kill Pierce|fight Celeste|betray the Patron|hide the murders,,DEDUCTION field after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-3D,personally|reluctantly|quickly|stealthily,,DEDUCTION field after Eris's cross-examination during Trial 2 of Case V
+C5Trial2-CelesteRepPre,Who did Eris make a Blood Contract with on the day of the murder?,,The PRESENT prompt that is shown when required to PRESENT Celeste multiple times
+C5Trial2-4,Which physical piece of evidence contradicts Celeste's memories?,,PRESENT prompt after Celeste's cross-examination during Trial 2 of Case V
+C5Trial2-5,What explains Celeste's contradicting memories of what happened?,,DEDUCTION statement after Celeste's cross-examination during Trial 2 of Case V
+C5Trial2-5A,Eris Illmater|Celeste McCoy|Aria Steelwind|Beatrice Frega,,DEDUCTION field after Celeste's cross-examination during Trial 2 of Case V
+C5Trial2-5B,changed|destroyed|revealed|hid,,DEDUCTION field after Celeste's cross-examination during Trial 2 of Case V
+C5Trial2-5C,the memories of|the crime scene of|the weapon of|the evidence left by,,DEDUCTION field after Celeste's cross-examination during Trial 2 of Case V
+C5Trial2-5D,Celeste McCoy|Aria Steelwind|Lloyd von Sanctus|Coraline Sibyl,,DEDUCTION field after Celeste's cross-examination during Trial 2 of Case V
+C5Trial2-6,Celeste McCoy's Contract was written without flaw.,,Claim declared by Eris before entering the Court of Azathoth during Trial 2 of Case V
+C5ErisArg-1,"Laefe Frega, Miriam Frega, and Lazarick Asclepius encountered an illusion.",,Claim declared by Eris during her ARGUMENT in human form
+C5ErisArg-2,What else proves Beatrice didn't disappear until 2:00 PM?,,Claim declared by Eris during her ARGUMENT in human form
+C5ErisArg-3,An activated [b]Force Cage[/b] did not trap Aster de Wyverngarde during or after 1:50 PM.,,Claim declared by Eris during her ARGUMENT in human form
+C5ErisArg-4,The Empress of Discord made Contracts with multiple knights of the Kingsguard.,,Claim declared by Eris during her ARGUMENT in human form
+C5ErisArg-5,It's possible that I have a Blood Contract with everyone present during the massacre.,,Claim declared by Eris during her ARGUMENT in human form
+C5TyrionAscend,Beatrice Frega did not go missing before 2:00 PM.,,Claim declared by Tyrion shortly after he awakens his divine soul
+C5EmpressIntro,Eris Illmater: The Empress of Discord,,Text that introduces Eris Illmater's true form
+C5FinalEris-1,Why did Eris change Celeste's memories?,,DEDUCTION statement while fighting Eris's true form during Case V
+C5FinalEris-1A,Eris needed|Celeste wanted|Eris forced|Aria wanted,,DEDUCTION statement while fighting Eris's true form during Case V
+C5FinalEris-1B,Celeste to believe|Tyrion to realize|Aria to attack|Aria to believe,,DEDUCTION statement while fighting Eris's true form during Case V
+C5FinalEris-1C,the events|the truth|a lie|the victims|the Blood Contract,,DEDUCTION statement while fighting Eris's true form during Case V
+C5FinalEris-1D,occurred earlier|never actually happened|was a normal document|quickly and efficiently,,DEDUCTION statement while fighting Eris's true form during Case V
+C5FinalEris-2,Celeste McCoy remembered the attack occurring much earlier than it actually did.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-3,An event occurred that required Eris to change Celeste's memories.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-4,Celeste McCoy was the person who gave Aria Steelwind that Blood Contract.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-5,Why would Celeste hand Aria a Blood Contract?,,DEDUCTION statement while fighting Eris's true form during Case V
+C5FinalEris-5A,Aria|Eris|Celeste|Beatrice,,DEDUCTION field while fighting Eris's true form during Case V
+C5FinalEris-5B,dropped|hid|killed|tricked,,DEDUCTION field while fighting Eris's true form during Case V
+C5FinalEris-5C,the Contract|Aria|Garrick Pierce|evidence,,DEDUCTION field while fighting Eris's true form during Case V
+C5FinalEris-5D,in front of Celeste|into signing the Contract|from Tyrion|using a spell,,DEDUCTION field while fighting Eris's true form during Case V
+C5FinalEris-6,Celeste McCoy is not the Patron described in Aria Steelwind's Blood Contract.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-7,Neither Aria Steelwind nor Beatrice Frega were directly responsible for the death of Garrick Pierce.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-8,"Celeste McCoy did, in fact, observe that Tyrion Cuthbert was dead.",,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-9,Beings of my power are able to resurrect people from the dead.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-10,The Empress of Discord can't resurrect people easily.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-11,What could have created this scenario?,,PRESENT prompt shown after Eris has assumed her true form during Case V
+C5FinalEris-12,Beatrice Frega cast [b]Feign Death[/b] on Tyrion Cuthbert.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-13,"Neither the Empress of Discord, Aria Steelwind, nor Beatrice Frega killed Garrick Pierce.",,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-14,Celeste McCoy had complete control of her actions until Pierce died.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-15,Garrick Pierce's death was not an accident. It was intentional and committed with malice.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-16,"Celeste, Tyrion, Beatrice, Aria, and I were the only creatures in the room with Garrick Pierce when he died.",,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-17,Garrick Pierce's death occurred because of Celeste McCoy's actions.,,Claim declared after Eris has assumed her true form during Case V
+C5FinalEris-18,Who killed Garrick Pierce?,,PRESENT prompt for the final attack against Eris during Case V
+C5FinalEris-19,Celeste McCoy did not bring about the demise of Garrick Pierce by her own hand.,,Claim declared by Tyrion to void Celeste's Blood Contract during Case V
+C5Trial3-1,What part of the plan required Aster's physical involvement?,,DEDUCTION statement after Aster takes the stand during Trial 3 of Case V
+C5Trial3-1A,Aster|Aria|Celeste|Eris,,DEDUCTION field after Aster takes the stand during Trial 3 of Case V
+C5Trial3-1B,was tricked into|was forced to|was allowed to|didn't want to,,DEDUCTION field  after Aster takes the stand during Trial 3 of Case V
+C5Trial3-1C,signing|destroying|murdering|hiding,,DEDUCTION field  after Aster takes the stand during Trial 3 of Case V
+C5Trial3-1D,the Blood Contract|the crimes|the Force Cage|the victims,,DEDUCTION field  after Aster takes the stand during Trial 3 of Case V
+C5Trial3-2,What did Aria think she was signing?,,DEDUCTION statement after Aster takes the stand during Trial 3 of Case V
+C5Trial3-2A,Aria|Aster|Eris|Celeste,,DEDUCTION field after Aster takes the stand during Trial 3 of Case V
+C5Trial3-2B,signed|cast|destroyed|stole,,DEDUCTION field after Aster takes the stand during Trial 3 of Case V
+C5Trial3-2C,a marriage|a demonic|an arcane|an illegal,,DEDUCTION field after Aster takes the stand during Trial 3 of Case V
+C5Trial3-2D,license|spell|object|familiar,,DEDUCTION field after Aster takes the stand during Trial 3 of Case V
+C5Trial3-3,Who is Celeste's father?,,PRESENT prompt where you realize that Rathallion is the father

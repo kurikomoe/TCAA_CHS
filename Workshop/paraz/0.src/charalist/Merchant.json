@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Merchant-displayName",
+    "original": "Merchant",
+    "translation": "商人",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Merchant\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Merchant-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Merchant\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Merchant-arcaneArt",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Merchant\",\n  \"Attr\": \"arcaneArt\"\n}"
+  },
+  {
+    "key": "Merchant-occupation",
+    "original": "???",
+    "translation": "？？？",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Merchant\",\n  \"Attr\": \"occupation\"\n}"
+  }
+]

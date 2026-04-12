@@ -1,0 +1,818 @@
+[
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::7c27e010f0bf54dd",
+    "original": "Mage Blade",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mage Blade\",\n  \"display name\": \"Mage Blade\",\n  \"description\": \"For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ar-kan\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::f5061c95808e003a",
+    "original": "For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mage Blade\",\n  \"display name\": \"Mage Blade\",\n  \"description\": \"For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ar-kan\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::SCHOOL TRANSLATION::368de4cc71d7eff4",
+    "original": "Transmutation",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mage Blade\",\n  \"display name\": \"Mage Blade\",\n  \"description\": \"For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ar-kan\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::e58a983f06718c76",
+    "original": "\"Ar-kan\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mage Blade\",\n  \"display name\": \"Mage Blade\",\n  \"description\": \"For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ar-kan\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::6eef6648406c333a",
+    "original": "None",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mage Blade\",\n  \"display name\": \"Mage Blade\",\n  \"description\": \"For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ar-kan\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DURATION TRANSLATION::5b908304ef90b602",
+    "original": "While concentrating",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mage Blade\",\n  \"display name\": \"Mage Blade\",\n  \"description\": \"For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ar-kan\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::CONCENTRATION TRANSLATION::5397e0583f14f6c8",
+    "original": "Yes",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mage Blade\",\n  \"display name\": \"Mage Blade\",\n  \"description\": \"For the duration of this spell, the edges of this object (usually a blade) become unnaturally sharp, making it more effective at slashing through tough material. While under the effects of this spell, the object emits a yellow radiant glow. The target object must be no larger than a 5ft cube.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ar-kan\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::a3d4e1aeee84de84",
+    "original": "Conjure Light",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Conjure Light\",\n  \"display name\": \"Conjure Light\",\n  \"description\": \"For as long as the caster concentrates on this spell, a mote of magical light will be centered above their head. The colour of the light is chosen by the caster and can be changed at will for the spell's duration. This mote of light provides illumination up to 15ft of the caster (and no further).\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Lux-o\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::ad3c8e1713fe44cb",
+    "original": "For as long as the caster concentrates on this spell, a mote of magical light will be centered above their head. The colour of the light is chosen by the caster and can be changed at will for the spell's duration. This mote of light provides illumination up to 15ft of the caster (and no further).",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Conjure Light\",\n  \"display name\": \"Conjure Light\",\n  \"description\": \"For as long as the caster concentrates on this spell, a mote of magical light will be centered above their head. The colour of the light is chosen by the caster and can be changed at will for the spell's duration. This mote of light provides illumination up to 15ft of the caster (and no further).\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Lux-o\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::7497b3107f5a200c",
+    "original": "\"Lux-o\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Conjure Light\",\n  \"display name\": \"Conjure Light\",\n  \"description\": \"For as long as the caster concentrates on this spell, a mote of magical light will be centered above their head. The colour of the light is chosen by the caster and can be changed at will for the spell's duration. This mote of light provides illumination up to 15ft of the caster (and no further).\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Lux-o\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::96b2abbb625ee248",
+    "original": "Prestidigitation",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Prestidigitation\",\n  \"display name\": \"Prestidigitation\",\n  \"description\": \"The caster creates a simple and harmless visual effect around their hand. This effect will last for as long as they maintain concentration on this spell.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"None\",\n  \"gesture\": \"A snap of the fingers\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::0a98f394f01e5b14",
+    "original": "The caster creates a simple and harmless visual effect around their hand. This effect will last for as long as they maintain concentration on this spell.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Prestidigitation\",\n  \"display name\": \"Prestidigitation\",\n  \"description\": \"The caster creates a simple and harmless visual effect around their hand. This effect will last for as long as they maintain concentration on this spell.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"None\",\n  \"gesture\": \"A snap of the fingers\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::SCHOOL TRANSLATION::2ec3a93d1d661130",
+    "original": "Evocation",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Prestidigitation\",\n  \"display name\": \"Prestidigitation\",\n  \"description\": \"The caster creates a simple and harmless visual effect around their hand. This effect will last for as long as they maintain concentration on this spell.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"None\",\n  \"gesture\": \"A snap of the fingers\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::6eef6648406c333a",
+    "original": "None",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Prestidigitation\",\n  \"display name\": \"Prestidigitation\",\n  \"description\": \"The caster creates a simple and harmless visual effect around their hand. This effect will last for as long as they maintain concentration on this spell.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"None\",\n  \"gesture\": \"A snap of the fingers\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::9b84fa23168fdaea",
+    "original": "A snap of the fingers",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Prestidigitation\",\n  \"display name\": \"Prestidigitation\",\n  \"description\": \"The caster creates a simple and harmless visual effect around their hand. This effect will last for as long as they maintain concentration on this spell.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"None\",\n  \"gesture\": \"A snap of the fingers\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::76ef888f4e916a7a",
+    "original": "Conjure Water",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Conjure Water\",\n  \"display name\": \"Conjure Water\",\n  \"description\": \"Causes water to magically flow out of the caster’s hand. This water will flow so long as the caster maintains concentration on the spell.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Aq-ui-o\\\"\",\n  \"gesture\": \"Outstretched Palm\",\n  \"duration\": \"Indefinitely\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::ac22e44e864562a7",
+    "original": "Causes water to magically flow out of the caster’s hand. This water will flow so long as the caster maintains concentration on the spell.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Conjure Water\",\n  \"display name\": \"Conjure Water\",\n  \"description\": \"Causes water to magically flow out of the caster’s hand. This water will flow so long as the caster maintains concentration on the spell.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Aq-ui-o\\\"\",\n  \"gesture\": \"Outstretched Palm\",\n  \"duration\": \"Indefinitely\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::SCHOOL TRANSLATION::9ba6f56b64bdcc4d",
+    "original": "Conjuration",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Conjure Water\",\n  \"display name\": \"Conjure Water\",\n  \"description\": \"Causes water to magically flow out of the caster’s hand. This water will flow so long as the caster maintains concentration on the spell.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Aq-ui-o\\\"\",\n  \"gesture\": \"Outstretched Palm\",\n  \"duration\": \"Indefinitely\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::acff08f7eeefee03",
+    "original": "\"Aq-ui-o\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Conjure Water\",\n  \"display name\": \"Conjure Water\",\n  \"description\": \"Causes water to magically flow out of the caster’s hand. This water will flow so long as the caster maintains concentration on the spell.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Aq-ui-o\\\"\",\n  \"gesture\": \"Outstretched Palm\",\n  \"duration\": \"Indefinitely\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::d73d6c7b4527629a",
+    "original": "Outstretched Palm",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Conjure Water\",\n  \"display name\": \"Conjure Water\",\n  \"description\": \"Causes water to magically flow out of the caster’s hand. This water will flow so long as the caster maintains concentration on the spell.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Aq-ui-o\\\"\",\n  \"gesture\": \"Outstretched Palm\",\n  \"duration\": \"Indefinitely\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DURATION TRANSLATION::915777069b75ceb5",
+    "original": "Indefinitely",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Conjure Water\",\n  \"display name\": \"Conjure Water\",\n  \"description\": \"Causes water to magically flow out of the caster’s hand. This water will flow so long as the caster maintains concentration on the spell.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Aq-ui-o\\\"\",\n  \"gesture\": \"Outstretched Palm\",\n  \"duration\": \"Indefinitely\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::433802226f95f088",
+    "original": "Frost Wave",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Frost Wave\",\n  \"display name\": \"Frost Wave\",\n  \"description\": \"Anything caught within range is hit with a blast of extremely cold air. Liquids hit will be immediately frozen and organic life will immediately enter stages of hypothermia.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"None\",\n  \"gesture\": \"Outstretch both hands\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::852053c5c60c8e1a",
+    "original": "Anything caught within range is hit with a blast of extremely cold air. Liquids hit will be immediately frozen and organic life will immediately enter stages of hypothermia.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Frost Wave\",\n  \"display name\": \"Frost Wave\",\n  \"description\": \"Anything caught within range is hit with a blast of extremely cold air. Liquids hit will be immediately frozen and organic life will immediately enter stages of hypothermia.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"None\",\n  \"gesture\": \"Outstretch both hands\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::5869023846d8c7df",
+    "original": "Outstretch both hands",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Frost Wave\",\n  \"display name\": \"Frost Wave\",\n  \"description\": \"Anything caught within range is hit with a blast of extremely cold air. Liquids hit will be immediately frozen and organic life will immediately enter stages of hypothermia.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"None\",\n  \"gesture\": \"Outstretch both hands\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DURATION TRANSLATION::e5dd7083ff5f07ce",
+    "original": "Instant",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Frost Wave\",\n  \"display name\": \"Frost Wave\",\n  \"description\": \"Anything caught within range is hit with a blast of extremely cold air. Liquids hit will be immediately frozen and organic life will immediately enter stages of hypothermia.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"None\",\n  \"gesture\": \"Outstretch both hands\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::CONCENTRATION TRANSLATION::816c52fd2bdd94a6",
+    "original": "No",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Frost Wave\",\n  \"display name\": \"Frost Wave\",\n  \"description\": \"Anything caught within range is hit with a blast of extremely cold air. Liquids hit will be immediately frozen and organic life will immediately enter stages of hypothermia.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"None\",\n  \"gesture\": \"Outstretch both hands\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::5a33761d3037f9ff",
+    "original": "Shape Liquid",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Shape Liquid\",\n  \"display name\": \"Shape Liquid\",\n  \"description\": \"While concentrating on this spell, the caster can magically manipulate up to 10L of liquid and form it into complex shapes. At any time, the caster can choose to freeze the liquid and solidify its current shape. While frozen, the caster can also choose to make the liquid instantaneously melt.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Fig-aq-u-a\\\"\",\n  \"gesture\": \"Point finger at the target\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::edf0e4edf480a135",
+    "original": "While concentrating on this spell, the caster can magically manipulate up to 10L of liquid and form it into complex shapes. At any time, the caster can choose to freeze the liquid and solidify its current shape. While frozen, the caster can also choose to make the liquid instantaneously melt.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Shape Liquid\",\n  \"display name\": \"Shape Liquid\",\n  \"description\": \"While concentrating on this spell, the caster can magically manipulate up to 10L of liquid and form it into complex shapes. At any time, the caster can choose to freeze the liquid and solidify its current shape. While frozen, the caster can also choose to make the liquid instantaneously melt.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Fig-aq-u-a\\\"\",\n  \"gesture\": \"Point finger at the target\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::2d4be8bd0d77b050",
+    "original": "\"Fig-aq-u-a\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Shape Liquid\",\n  \"display name\": \"Shape Liquid\",\n  \"description\": \"While concentrating on this spell, the caster can magically manipulate up to 10L of liquid and form it into complex shapes. At any time, the caster can choose to freeze the liquid and solidify its current shape. While frozen, the caster can also choose to make the liquid instantaneously melt.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Fig-aq-u-a\\\"\",\n  \"gesture\": \"Point finger at the target\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::0c87bb312f44f7ac",
+    "original": "Point finger at the target",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Shape Liquid\",\n  \"display name\": \"Shape Liquid\",\n  \"description\": \"While concentrating on this spell, the caster can magically manipulate up to 10L of liquid and form it into complex shapes. At any time, the caster can choose to freeze the liquid and solidify its current shape. While frozen, the caster can also choose to make the liquid instantaneously melt.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Fig-aq-u-a\\\"\",\n  \"gesture\": \"Point finger at the target\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::65cad722d50b5621",
+    "original": "Mend Wounds",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mend Wounds\",\n  \"display name\": \"Mend Wounds\",\n  \"description\": \"Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Men-as\\\"\",\n  \"gesture\": \"Place hand on target\",\n  \"duration\": \"1 minute\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::e63e8d9af7b445ee",
+    "original": "Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mend Wounds\",\n  \"display name\": \"Mend Wounds\",\n  \"description\": \"Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Men-as\\\"\",\n  \"gesture\": \"Place hand on target\",\n  \"duration\": \"1 minute\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::SCHOOL TRANSLATION::b02bd83f6905cb8a",
+    "original": "Necromancy",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mend Wounds\",\n  \"display name\": \"Mend Wounds\",\n  \"description\": \"Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Men-as\\\"\",\n  \"gesture\": \"Place hand on target\",\n  \"duration\": \"1 minute\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::76b766465ac4c49b",
+    "original": "\"Men-as\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mend Wounds\",\n  \"display name\": \"Mend Wounds\",\n  \"description\": \"Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Men-as\\\"\",\n  \"gesture\": \"Place hand on target\",\n  \"duration\": \"1 minute\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::4f5a71d2f75c0fa8",
+    "original": "Place hand on target",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mend Wounds\",\n  \"display name\": \"Mend Wounds\",\n  \"description\": \"Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Men-as\\\"\",\n  \"gesture\": \"Place hand on target\",\n  \"duration\": \"1 minute\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DURATION TRANSLATION::62957ecfdc50957e",
+    "original": "1 minute",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Mend Wounds\",\n  \"display name\": \"Mend Wounds\",\n  \"description\": \"Heals the wounds of the target over the casting time. Wounds on the target are magically healed without leaving any scars or bruises. This spell can’t restore missing limbs, nor can it revive someone who has already died.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Men-as\\\"\",\n  \"gesture\": \"Place hand on target\",\n  \"duration\": \"1 minute\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::0c0eb8188c0e10d7",
+    "original": "Illusory Disguise",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Illusory Disguise\",\n  \"display name\": \"Illusory Disguise\",\n  \"description\": \"Places an illusion on the target to completely change their visual appearance. The disguise moves with the target for the duration.\\n\\nThe disguise can make the target look 1ft larger or smaller. Elements hidden by the spell are made invisible. And elements created by the spell are purely visual. You cannot make physical contact with it.\\r\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"Ill-us-io\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::6d046250e120d07c",
+    "original": "Places an illusion on the target to completely change their visual appearance. The disguise moves with the target for the duration.\n\nThe disguise can make the target look 1ft larger or smaller. Elements hidden by the spell are made invisible. And elements created by the spell are purely visual. You cannot make physical contact with it.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Illusory Disguise\",\n  \"display name\": \"Illusory Disguise\",\n  \"description\": \"Places an illusion on the target to completely change their visual appearance. The disguise moves with the target for the duration.\\n\\nThe disguise can make the target look 1ft larger or smaller. Elements hidden by the spell are made invisible. And elements created by the spell are purely visual. You cannot make physical contact with it.\\r\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"Ill-us-io\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::SCHOOL TRANSLATION::e79f72b65e4f9958",
+    "original": "Illusion",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Illusory Disguise\",\n  \"display name\": \"Illusory Disguise\",\n  \"description\": \"Places an illusion on the target to completely change their visual appearance. The disguise moves with the target for the duration.\\n\\nThe disguise can make the target look 1ft larger or smaller. Elements hidden by the spell are made invisible. And elements created by the spell are purely visual. You cannot make physical contact with it.\\r\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"Ill-us-io\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::5fc5d56cfc2927bb",
+    "original": "\"Ill-us-io\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Illusory Disguise\",\n  \"display name\": \"Illusory Disguise\",\n  \"description\": \"Places an illusion on the target to completely change their visual appearance. The disguise moves with the target for the duration.\\n\\nThe disguise can make the target look 1ft larger or smaller. Elements hidden by the spell are made invisible. And elements created by the spell are purely visual. You cannot make physical contact with it.\\r\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"Ill-us-io\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DURATION TRANSLATION::f030c3d667652646",
+    "original": "1 hour",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Illusory Disguise\",\n  \"display name\": \"Illusory Disguise\",\n  \"description\": \"Places an illusion on the target to completely change their visual appearance. The disguise moves with the target for the duration.\\n\\nThe disguise can make the target look 1ft larger or smaller. Elements hidden by the spell are made invisible. And elements created by the spell are purely visual. You cannot make physical contact with it.\\r\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"Ill-us-io\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::5504db8db56bde17",
+    "original": "Major Illusion",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Major Illusion\",\n  \"display name\": \"Major Illusion\",\n  \"description\": \"Creates a three-dimensional illusion. The illusion can take the form of any object or creature that can be contained in a 10ft cube. While concentrating, the caster can animate and move the image to a different location within range. The illusion is purely visual and can’t be physically touched.\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"Mill-us-o\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::fa98e948232d0c43",
+    "original": "Creates a three-dimensional illusion. The illusion can take the form of any object or creature that can be contained in a 10ft cube. While concentrating, the caster can animate and move the image to a different location within range. The illusion is purely visual and can’t be physically touched.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Major Illusion\",\n  \"display name\": \"Major Illusion\",\n  \"description\": \"Creates a three-dimensional illusion. The illusion can take the form of any object or creature that can be contained in a 10ft cube. While concentrating, the caster can animate and move the image to a different location within range. The illusion is purely visual and can’t be physically touched.\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"Mill-us-o\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::89cf7d5742dadb31",
+    "original": "\"Mill-us-o\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Major Illusion\",\n  \"display name\": \"Major Illusion\",\n  \"description\": \"Creates a three-dimensional illusion. The illusion can take the form of any object or creature that can be contained in a 10ft cube. While concentrating, the caster can animate and move the image to a different location within range. The illusion is purely visual and can’t be physically touched.\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"Mill-us-o\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::2e08bbd34b71b2c5",
+    "original": "Revive",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Revive\",\n  \"display name\": \"Revive\",\n  \"description\": \"Floods the target with life energy in an attempt to resuscitate them. It does not heal wounds sustained. Results aren't guaranteed. It cannot resuscitate someone who has been dead for more than a minute.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Viv-if-fy\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::7054fb2c199c3af0",
+    "original": "Floods the target with life energy in an attempt to resuscitate them. It does not heal wounds sustained. Results aren't guaranteed. It cannot resuscitate someone who has been dead for more than a minute.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Revive\",\n  \"display name\": \"Revive\",\n  \"description\": \"Floods the target with life energy in an attempt to resuscitate them. It does not heal wounds sustained. Results aren't guaranteed. It cannot resuscitate someone who has been dead for more than a minute.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Viv-if-fy\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::8f6da4fa190d089e",
+    "original": "\"Viv-if-fy\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Revive\",\n  \"display name\": \"Revive\",\n  \"description\": \"Floods the target with life energy in an attempt to resuscitate them. It does not heal wounds sustained. Results aren't guaranteed. It cannot resuscitate someone who has been dead for more than a minute.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Viv-if-fy\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::771c5a28f97d51e8",
+    "original": "Animate Corpse",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Animate Corpse\",\n  \"display name\": \"Animate Corpse\",\n  \"description\": \"Reanimates the target using life energy, creating an undead minion for the duration. The minion follows the caster’s orders. But its intelligence is limited and it cannot speak. The minion can end the spell prematurely but will only do so if ordered to by the caster.\\n\\nOnce the spell has ended, the undead will return to being a dead body.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Nec-cross\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"8 hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::a6fc50eb9c4f0ffd",
+    "original": "Reanimates the target using life energy, creating an undead minion for the duration. The minion follows the caster’s orders. But its intelligence is limited and it cannot speak. The minion can end the spell prematurely but will only do so if ordered to by the caster.\n\nOnce the spell has ended, the undead will return to being a dead body.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Animate Corpse\",\n  \"display name\": \"Animate Corpse\",\n  \"description\": \"Reanimates the target using life energy, creating an undead minion for the duration. The minion follows the caster’s orders. But its intelligence is limited and it cannot speak. The minion can end the spell prematurely but will only do so if ordered to by the caster.\\n\\nOnce the spell has ended, the undead will return to being a dead body.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Nec-cross\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"8 hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::88d2a108a79ab91d",
+    "original": "\"Nec-cross\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Animate Corpse\",\n  \"display name\": \"Animate Corpse\",\n  \"description\": \"Reanimates the target using life energy, creating an undead minion for the duration. The minion follows the caster’s orders. But its intelligence is limited and it cannot speak. The minion can end the spell prematurely but will only do so if ordered to by the caster.\\n\\nOnce the spell has ended, the undead will return to being a dead body.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Nec-cross\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"8 hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DURATION TRANSLATION::191800b7e9a48680",
+    "original": "8 hours",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Animate Corpse\",\n  \"display name\": \"Animate Corpse\",\n  \"description\": \"Reanimates the target using life energy, creating an undead minion for the duration. The minion follows the caster’s orders. But its intelligence is limited and it cannot speak. The minion can end the spell prematurely but will only do so if ordered to by the caster.\\n\\nOnce the spell has ended, the undead will return to being a dead body.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Nec-cross\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"8 hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::6b11cec9b9fa00f2",
+    "original": "Necrotic Blight",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Necrotic Blight\",\n  \"display name\": \"Necrotic Blight\",\n  \"description\": \"Pulls all of the life energy from the target, resulting in instant death. This spell does not wound the target, nor does it leave any physical evidence (but it still leaves a magical trace).\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Bligh-to\\\"\",\n  \"gesture\": \"Point index finger at target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::8c3f736e398048a3",
+    "original": "Pulls all of the life energy from the target, resulting in instant death. This spell does not wound the target, nor does it leave any physical evidence (but it still leaves a magical trace).",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Necrotic Blight\",\n  \"display name\": \"Necrotic Blight\",\n  \"description\": \"Pulls all of the life energy from the target, resulting in instant death. This spell does not wound the target, nor does it leave any physical evidence (but it still leaves a magical trace).\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Bligh-to\\\"\",\n  \"gesture\": \"Point index finger at target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::d73119133cd036f0",
+    "original": "\"Bligh-to\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Necrotic Blight\",\n  \"display name\": \"Necrotic Blight\",\n  \"description\": \"Pulls all of the life energy from the target, resulting in instant death. This spell does not wound the target, nor does it leave any physical evidence (but it still leaves a magical trace).\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Bligh-to\\\"\",\n  \"gesture\": \"Point index finger at target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::830750bfbd7e7f0c",
+    "original": "Point index finger at target",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Necrotic Blight\",\n  \"display name\": \"Necrotic Blight\",\n  \"description\": \"Pulls all of the life energy from the target, resulting in instant death. This spell does not wound the target, nor does it leave any physical evidence (but it still leaves a magical trace).\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Bligh-to\\\"\",\n  \"gesture\": \"Point index finger at target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::6dcd151222c0c288",
+    "original": "Send Message",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Send Message\",\n  \"display name\": \"Send Message\",\n  \"description\": \"For the duration of this spell, the caster projects their voice to communicate with a target. Anyone within a 30ft radius of the target can hear the caster’s voice. The caster can also hear sounds close to the target, allowing for two-way communication.\\n\\nThe target must be a person known to the caster. That person must also be conscious. Otherwise, the spell will fail. Alternatively, the target can be an object that is attuned to the caster’s magic.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Mal-um\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::babf6a55e8a61914",
+    "original": "For the duration of this spell, the caster projects their voice to communicate with a target. Anyone within a 30ft radius of the target can hear the caster’s voice. The caster can also hear sounds close to the target, allowing for two-way communication.\n\nThe target must be a person known to the caster. That person must also be conscious. Otherwise, the spell will fail. Alternatively, the target can be an object that is attuned to the caster’s magic.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Send Message\",\n  \"display name\": \"Send Message\",\n  \"description\": \"For the duration of this spell, the caster projects their voice to communicate with a target. Anyone within a 30ft radius of the target can hear the caster’s voice. The caster can also hear sounds close to the target, allowing for two-way communication.\\n\\nThe target must be a person known to the caster. That person must also be conscious. Otherwise, the spell will fail. Alternatively, the target can be an object that is attuned to the caster’s magic.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Mal-um\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::34fc04669d7e272f",
+    "original": "\"Mal-um\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Send Message\",\n  \"display name\": \"Send Message\",\n  \"description\": \"For the duration of this spell, the caster projects their voice to communicate with a target. Anyone within a 30ft radius of the target can hear the caster’s voice. The caster can also hear sounds close to the target, allowing for two-way communication.\\n\\nThe target must be a person known to the caster. That person must also be conscious. Otherwise, the spell will fail. Alternatively, the target can be an object that is attuned to the caster’s magic.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Mal-um\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::8fbf44bba7cbdaf3",
+    "original": "Familial Bond",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Familial Bond\",\n  \"display name\": \"Familial Bond\",\n  \"description\": \"The caster forms a magical unbreakable bond with the target creature, connecting them to the caster’s magic. While this bond exists, the caster can telepathically communicate with the target over any distance. The caster can also choose to see through the target’s eyes as long as they concentrate. Any spells that affect the caster will also affect the target creature and vice-versa. Lastly, the caster can also cast spells from the location of the target creature instead of their own location. \",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Ret-er-rum\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"Until either target dies\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::8ff73fad1a78beac",
+    "original": "The caster forms a magical unbreakable bond with the target creature, connecting them to the caster’s magic. While this bond exists, the caster can telepathically communicate with the target over any distance. The caster can also choose to see through the target’s eyes as long as they concentrate. Any spells that affect the caster will also affect the target creature and vice-versa. Lastly, the caster can also cast spells from the location of the target creature instead of their own location. ",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Familial Bond\",\n  \"display name\": \"Familial Bond\",\n  \"description\": \"The caster forms a magical unbreakable bond with the target creature, connecting them to the caster’s magic. While this bond exists, the caster can telepathically communicate with the target over any distance. The caster can also choose to see through the target’s eyes as long as they concentrate. Any spells that affect the caster will also affect the target creature and vice-versa. Lastly, the caster can also cast spells from the location of the target creature instead of their own location. \",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Ret-er-rum\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"Until either target dies\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::SCHOOL TRANSLATION::ad8e212b432fb4ca",
+    "original": "Divination",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Familial Bond\",\n  \"display name\": \"Familial Bond\",\n  \"description\": \"The caster forms a magical unbreakable bond with the target creature, connecting them to the caster’s magic. While this bond exists, the caster can telepathically communicate with the target over any distance. The caster can also choose to see through the target’s eyes as long as they concentrate. Any spells that affect the caster will also affect the target creature and vice-versa. Lastly, the caster can also cast spells from the location of the target creature instead of their own location. \",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Ret-er-rum\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"Until either target dies\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::200626a3da59e974",
+    "original": "\"Ret-er-rum\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Familial Bond\",\n  \"display name\": \"Familial Bond\",\n  \"description\": \"The caster forms a magical unbreakable bond with the target creature, connecting them to the caster’s magic. While this bond exists, the caster can telepathically communicate with the target over any distance. The caster can also choose to see through the target’s eyes as long as they concentrate. Any spells that affect the caster will also affect the target creature and vice-versa. Lastly, the caster can also cast spells from the location of the target creature instead of their own location. \",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Ret-er-rum\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"Until either target dies\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DURATION TRANSLATION::4a03d504d08f10b3",
+    "original": "Until either target dies",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Familial Bond\",\n  \"display name\": \"Familial Bond\",\n  \"description\": \"The caster forms a magical unbreakable bond with the target creature, connecting them to the caster’s magic. While this bond exists, the caster can telepathically communicate with the target over any distance. The caster can also choose to see through the target’s eyes as long as they concentrate. Any spells that affect the caster will also affect the target creature and vice-versa. Lastly, the caster can also cast spells from the location of the target creature instead of their own location. \",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Ret-er-rum\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"Until either target dies\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::bc7a667d7f587353",
+    "original": "Anti-Magic Field",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Anti-Magic Field\",\n  \"display name\": \"Anti-Magic Field\",\n  \"description\": \"While concentrating on this spell, the caster forms a 10ft radius sphere that nullifies all magic within it. Any spell effect that enters the sphere instantly dissipates. And any mage that tries to cast a spell within this zone will fail to do so.\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"Cout-ter-i-a\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::7f36b9f711a2e0f5",
+    "original": "While concentrating on this spell, the caster forms a 10ft radius sphere that nullifies all magic within it. Any spell effect that enters the sphere instantly dissipates. And any mage that tries to cast a spell within this zone will fail to do so.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Anti-Magic Field\",\n  \"display name\": \"Anti-Magic Field\",\n  \"description\": \"While concentrating on this spell, the caster forms a 10ft radius sphere that nullifies all magic within it. Any spell effect that enters the sphere instantly dissipates. And any mage that tries to cast a spell within this zone will fail to do so.\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"Cout-ter-i-a\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::SCHOOL TRANSLATION::5437e640e774de61",
+    "original": "Abjuration",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Anti-Magic Field\",\n  \"display name\": \"Anti-Magic Field\",\n  \"description\": \"While concentrating on this spell, the caster forms a 10ft radius sphere that nullifies all magic within it. Any spell effect that enters the sphere instantly dissipates. And any mage that tries to cast a spell within this zone will fail to do so.\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"Cout-ter-i-a\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::5ada6278022ef40b",
+    "original": "\"Cout-ter-i-a\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Anti-Magic Field\",\n  \"display name\": \"Anti-Magic Field\",\n  \"description\": \"While concentrating on this spell, the caster forms a 10ft radius sphere that nullifies all magic within it. Any spell effect that enters the sphere instantly dissipates. And any mage that tries to cast a spell within this zone will fail to do so.\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"Cout-ter-i-a\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::4794e4328d5d2605",
+    "original": "Feign Death",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Feign Death\",\n  \"display name\": \"Feign Death\",\n  \"description\": \"The caster must target a creature that’s already unconscious. While they concentrate on this spell, the target will appear to be dead. The target creature will stop breathing and their heart will stop beating. However, the life energies of this spell will keep them alive for the duration.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Fal-nor-ma\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::c52dd67932869049",
+    "original": "The caster must target a creature that’s already unconscious. While they concentrate on this spell, the target will appear to be dead. The target creature will stop breathing and their heart will stop beating. However, the life energies of this spell will keep them alive for the duration.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Feign Death\",\n  \"display name\": \"Feign Death\",\n  \"description\": \"The caster must target a creature that’s already unconscious. While they concentrate on this spell, the target will appear to be dead. The target creature will stop breathing and their heart will stop beating. However, the life energies of this spell will keep them alive for the duration.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Fal-nor-ma\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::a1c31e7d21566652",
+    "original": "\"Fal-nor-ma\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Feign Death\",\n  \"display name\": \"Feign Death\",\n  \"description\": \"The caster must target a creature that’s already unconscious. While they concentrate on this spell, the target will appear to be dead. The target creature will stop breathing and their heart will stop beating. However, the life energies of this spell will keep them alive for the duration.\",\n  \"type\": \"\",\n  \"school\": \"Necromancy\",\n  \"incantation\": \"\\\"Fal-nor-ma\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::d516e78e2c27969e",
+    "original": "Invisibility",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Invisibility\",\n  \"display name\": \"Invisibility\",\n  \"description\": \"One of the highest forms of illusion magic. This spell makes the target creature or object completely invisible. While invisible, the target will be completely transparent and undetectable visually. If targeting a creature, this spell will also affect anything that the creature is wearing or holding.\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"O-kult-arr-ae\\\"\",\n  \"gesture\": \"Clap both hands together\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::4a0fa073b5fa3b92",
+    "original": "One of the highest forms of illusion magic. This spell makes the target creature or object completely invisible. While invisible, the target will be completely transparent and undetectable visually. If targeting a creature, this spell will also affect anything that the creature is wearing or holding.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Invisibility\",\n  \"display name\": \"Invisibility\",\n  \"description\": \"One of the highest forms of illusion magic. This spell makes the target creature or object completely invisible. While invisible, the target will be completely transparent and undetectable visually. If targeting a creature, this spell will also affect anything that the creature is wearing or holding.\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"O-kult-arr-ae\\\"\",\n  \"gesture\": \"Clap both hands together\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::b6e0feca467e42c3",
+    "original": "\"O-kult-arr-ae\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Invisibility\",\n  \"display name\": \"Invisibility\",\n  \"description\": \"One of the highest forms of illusion magic. This spell makes the target creature or object completely invisible. While invisible, the target will be completely transparent and undetectable visually. If targeting a creature, this spell will also affect anything that the creature is wearing or holding.\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"O-kult-arr-ae\\\"\",\n  \"gesture\": \"Clap both hands together\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::8b237b97a74289fd",
+    "original": "Clap both hands together",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Invisibility\",\n  \"display name\": \"Invisibility\",\n  \"description\": \"One of the highest forms of illusion magic. This spell makes the target creature or object completely invisible. While invisible, the target will be completely transparent and undetectable visually. If targeting a creature, this spell will also affect anything that the creature is wearing or holding.\",\n  \"type\": \"\",\n  \"school\": \"Illusion\",\n  \"incantation\": \"\\\"O-kult-arr-ae\\\"\",\n  \"gesture\": \"Clap both hands together\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::11f77e1e978dadbd",
+    "original": "Force Cage",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Force Cage\",\n  \"display name\": \"Force Cage\",\n  \"description\": \"For the duration, the caster creates a magical 10ftx10ftx10ft cube around a target within 30ft of them. The walls of this cube are impenetrable and can’t be destroyed by anything. Not even by spells that can normally dispel spell effects. Furthermore, any attempts to magically teleport into or out of the cube will fail.\\r\\n\\r\\nIf there is more than one creature in the target’s space, they will be pushed away from the center of the cube.\\r\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"For-zar-ay\\\"\",\n  \"gesture\": \"Point index finger\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::406b4597b58c5e15",
+    "original": "For the duration, the caster creates a magical 10ftx10ftx10ft cube around a target within 30ft of them. The walls of this cube are impenetrable and can’t be destroyed by anything. Not even by spells that can normally dispel spell effects. Furthermore, any attempts to magically teleport into or out of the cube will fail.\r\n\r\nIf there is more than one creature in the target’s space, they will be pushed away from the center of the cube.\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Force Cage\",\n  \"display name\": \"Force Cage\",\n  \"description\": \"For the duration, the caster creates a magical 10ftx10ftx10ft cube around a target within 30ft of them. The walls of this cube are impenetrable and can’t be destroyed by anything. Not even by spells that can normally dispel spell effects. Furthermore, any attempts to magically teleport into or out of the cube will fail.\\r\\n\\r\\nIf there is more than one creature in the target’s space, they will be pushed away from the center of the cube.\\r\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"For-zar-ay\\\"\",\n  \"gesture\": \"Point index finger\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::63e63404fe827079",
+    "original": "\"For-zar-ay\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Force Cage\",\n  \"display name\": \"Force Cage\",\n  \"description\": \"For the duration, the caster creates a magical 10ftx10ftx10ft cube around a target within 30ft of them. The walls of this cube are impenetrable and can’t be destroyed by anything. Not even by spells that can normally dispel spell effects. Furthermore, any attempts to magically teleport into or out of the cube will fail.\\r\\n\\r\\nIf there is more than one creature in the target’s space, they will be pushed away from the center of the cube.\\r\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"For-zar-ay\\\"\",\n  \"gesture\": \"Point index finger\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::f552481ff7db8f3e",
+    "original": "Point index finger",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Force Cage\",\n  \"display name\": \"Force Cage\",\n  \"description\": \"For the duration, the caster creates a magical 10ftx10ftx10ft cube around a target within 30ft of them. The walls of this cube are impenetrable and can’t be destroyed by anything. Not even by spells that can normally dispel spell effects. Furthermore, any attempts to magically teleport into or out of the cube will fail.\\r\\n\\r\\nIf there is more than one creature in the target’s space, they will be pushed away from the center of the cube.\\r\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"For-zar-ay\\\"\",\n  \"gesture\": \"Point index finger\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::62a05d9008a56016",
+    "original": "Glyph of Contingency",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Contingent Spell\",\n  \"display name\": \"Glyph of Contingency\",\n  \"description\": \"When casting this spell, the caster must choose another spell they know. The caster casts that spell, but the contingent spell doesn’t come into effect. Instead, it takes effect when a certain condition (specified by the caster upon casting this spell) is fulfilled. The contingent spell takes effect immediately when that condition is fulfilled.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Col-tin-jen\\\"\",\n  \"gesture\": \"The gesture of the contingent spell\",\n  \"duration\": \"24 Hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::5850e60a71fe7873",
+    "original": "When casting this spell, the caster must choose another spell they know. The caster casts that spell, but the contingent spell doesn’t come into effect. Instead, it takes effect when a certain condition (specified by the caster upon casting this spell) is fulfilled. The contingent spell takes effect immediately when that condition is fulfilled.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Contingent Spell\",\n  \"display name\": \"Glyph of Contingency\",\n  \"description\": \"When casting this spell, the caster must choose another spell they know. The caster casts that spell, but the contingent spell doesn’t come into effect. Instead, it takes effect when a certain condition (specified by the caster upon casting this spell) is fulfilled. The contingent spell takes effect immediately when that condition is fulfilled.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Col-tin-jen\\\"\",\n  \"gesture\": \"The gesture of the contingent spell\",\n  \"duration\": \"24 Hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::0fe0f464e94bfc2a",
+    "original": "\"Col-tin-jen\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Contingent Spell\",\n  \"display name\": \"Glyph of Contingency\",\n  \"description\": \"When casting this spell, the caster must choose another spell they know. The caster casts that spell, but the contingent spell doesn’t come into effect. Instead, it takes effect when a certain condition (specified by the caster upon casting this spell) is fulfilled. The contingent spell takes effect immediately when that condition is fulfilled.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Col-tin-jen\\\"\",\n  \"gesture\": \"The gesture of the contingent spell\",\n  \"duration\": \"24 Hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::6ee1a0b7196b2f7f",
+    "original": "The gesture of the contingent spell",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Contingent Spell\",\n  \"display name\": \"Glyph of Contingency\",\n  \"description\": \"When casting this spell, the caster must choose another spell they know. The caster casts that spell, but the contingent spell doesn’t come into effect. Instead, it takes effect when a certain condition (specified by the caster upon casting this spell) is fulfilled. The contingent spell takes effect immediately when that condition is fulfilled.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Col-tin-jen\\\"\",\n  \"gesture\": \"The gesture of the contingent spell\",\n  \"duration\": \"24 Hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DURATION TRANSLATION::bb3bbec3b7becbc0",
+    "original": "24 Hours",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Contingent Spell\",\n  \"display name\": \"Glyph of Contingency\",\n  \"description\": \"When casting this spell, the caster must choose another spell they know. The caster casts that spell, but the contingent spell doesn’t come into effect. Instead, it takes effect when a certain condition (specified by the caster upon casting this spell) is fulfilled. The contingent spell takes effect immediately when that condition is fulfilled.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Col-tin-jen\\\"\",\n  \"gesture\": \"The gesture of the contingent spell\",\n  \"duration\": \"24 Hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::3cac34e674464c2b",
+    "original": "Sleep",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Sleep\",\n  \"display name\": \"Sleep\",\n  \"description\": \"The caster conjures a magical mist in the direction that they stretch their palm. This magical mist will travel up to 30ft before dissipating. Any creature who inhales the mist will fall into a magical slumber. An affected creature will be woken from their slumber if they are violently shaken or experience any sort of pain.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Som-nee-ah\\\"\",\n  \"gesture\": \"An outstretched palm\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::8d0d81e4cf584ab5",
+    "original": "The caster conjures a magical mist in the direction that they stretch their palm. This magical mist will travel up to 30ft before dissipating. Any creature who inhales the mist will fall into a magical slumber. An affected creature will be woken from their slumber if they are violently shaken or experience any sort of pain.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Sleep\",\n  \"display name\": \"Sleep\",\n  \"description\": \"The caster conjures a magical mist in the direction that they stretch their palm. This magical mist will travel up to 30ft before dissipating. Any creature who inhales the mist will fall into a magical slumber. An affected creature will be woken from their slumber if they are violently shaken or experience any sort of pain.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Som-nee-ah\\\"\",\n  \"gesture\": \"An outstretched palm\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::f74f3bc304ec5b93",
+    "original": "\"Som-nee-ah\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Sleep\",\n  \"display name\": \"Sleep\",\n  \"description\": \"The caster conjures a magical mist in the direction that they stretch their palm. This magical mist will travel up to 30ft before dissipating. Any creature who inhales the mist will fall into a magical slumber. An affected creature will be woken from their slumber if they are violently shaken or experience any sort of pain.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Som-nee-ah\\\"\",\n  \"gesture\": \"An outstretched palm\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::4c656e17d6f2865c",
+    "original": "An outstretched palm",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Sleep\",\n  \"display name\": \"Sleep\",\n  \"description\": \"The caster conjures a magical mist in the direction that they stretch their palm. This magical mist will travel up to 30ft before dissipating. Any creature who inhales the mist will fall into a magical slumber. An affected creature will be woken from their slumber if they are violently shaken or experience any sort of pain.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"\\\"Som-nee-ah\\\"\",\n  \"gesture\": \"An outstretched palm\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::b307e9b31c771fc7",
+    "original": "Foresight",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Foresight\",\n  \"display name\": \"Foresight\",\n  \"description\": \"The caster invokes the ultimate form of <b>divination</b> magic to see brief glimpses of the near future. While this spell is active, the caster is able to sense danger seconds before it actually happens.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"For-heim\\\"\",\n  \"gesture\": \"Form a triangle with both hands\",\n  \"duration\": \"24 hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::42c2432e413e9db2",
+    "original": "The caster invokes the ultimate form of <b>divination</b> magic to see brief glimpses of the near future. While this spell is active, the caster is able to sense danger seconds before it actually happens.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Foresight\",\n  \"display name\": \"Foresight\",\n  \"description\": \"The caster invokes the ultimate form of <b>divination</b> magic to see brief glimpses of the near future. While this spell is active, the caster is able to sense danger seconds before it actually happens.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"For-heim\\\"\",\n  \"gesture\": \"Form a triangle with both hands\",\n  \"duration\": \"24 hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::df4c061935ce19c5",
+    "original": "\"For-heim\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Foresight\",\n  \"display name\": \"Foresight\",\n  \"description\": \"The caster invokes the ultimate form of <b>divination</b> magic to see brief glimpses of the near future. While this spell is active, the caster is able to sense danger seconds before it actually happens.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"For-heim\\\"\",\n  \"gesture\": \"Form a triangle with both hands\",\n  \"duration\": \"24 hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::ff8bd3878d569e1a",
+    "original": "Form a triangle with both hands",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Foresight\",\n  \"display name\": \"Foresight\",\n  \"description\": \"The caster invokes the ultimate form of <b>divination</b> magic to see brief glimpses of the near future. While this spell is active, the caster is able to sense danger seconds before it actually happens.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"For-heim\\\"\",\n  \"gesture\": \"Form a triangle with both hands\",\n  \"duration\": \"24 hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DURATION TRANSLATION::cb4780f87455df20",
+    "original": "24 hours",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Foresight\",\n  \"display name\": \"Foresight\",\n  \"description\": \"The caster invokes the ultimate form of <b>divination</b> magic to see brief glimpses of the near future. While this spell is active, the caster is able to sense danger seconds before it actually happens.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"For-heim\\\"\",\n  \"gesture\": \"Form a triangle with both hands\",\n  \"duration\": \"24 hours\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::76a35d7ec88cb92b",
+    "original": "Slow Fall",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Slow Fall\",\n  \"display name\": \"Slow Fall\",\n  \"description\": \"The caster counteracts the force of gravity affecting them, causing them to fall significantly slower when airborne for the duration.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Fe-thu-ra\\\"\",\n  \"gesture\": \"Point index finger downwards\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::8e53cc1d2dad51e2",
+    "original": "The caster counteracts the force of gravity affecting them, causing them to fall significantly slower when airborne for the duration.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Slow Fall\",\n  \"display name\": \"Slow Fall\",\n  \"description\": \"The caster counteracts the force of gravity affecting them, causing them to fall significantly slower when airborne for the duration.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Fe-thu-ra\\\"\",\n  \"gesture\": \"Point index finger downwards\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::a0122a4198c028ac",
+    "original": "\"Fe-thu-ra\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Slow Fall\",\n  \"display name\": \"Slow Fall\",\n  \"description\": \"The caster counteracts the force of gravity affecting them, causing them to fall significantly slower when airborne for the duration.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Fe-thu-ra\\\"\",\n  \"gesture\": \"Point index finger downwards\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::2766c8a45a3b27b2",
+    "original": "Point index finger downwards",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Slow Fall\",\n  \"display name\": \"Slow Fall\",\n  \"description\": \"The caster counteracts the force of gravity affecting them, causing them to fall significantly slower when airborne for the duration.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Fe-thu-ra\\\"\",\n  \"gesture\": \"Point index finger downwards\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::298949787d19c31a",
+    "original": "Strike True",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Strike True\",\n  \"display name\": \"Strike True\",\n  \"description\": \"The caster increases their ability to predict the results of all of their actions for the duration. This is useful for the purposes of aiming or doing other activities that rely on dexterity and skill.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Non-op-ti-ma\\\"\",\n  \"gesture\": \"Make circle with fingers\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::90972bad46f715cc",
+    "original": "The caster increases their ability to predict the results of all of their actions for the duration. This is useful for the purposes of aiming or doing other activities that rely on dexterity and skill.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Strike True\",\n  \"display name\": \"Strike True\",\n  \"description\": \"The caster increases their ability to predict the results of all of their actions for the duration. This is useful for the purposes of aiming or doing other activities that rely on dexterity and skill.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Non-op-ti-ma\\\"\",\n  \"gesture\": \"Make circle with fingers\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::f8b23cf96d96e660",
+    "original": "\"Non-op-ti-ma\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Strike True\",\n  \"display name\": \"Strike True\",\n  \"description\": \"The caster increases their ability to predict the results of all of their actions for the duration. This is useful for the purposes of aiming or doing other activities that rely on dexterity and skill.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Non-op-ti-ma\\\"\",\n  \"gesture\": \"Make circle with fingers\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::ef7d972c5a10be55",
+    "original": "Make circle with fingers",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Strike True\",\n  \"display name\": \"Strike True\",\n  \"description\": \"The caster increases their ability to predict the results of all of their actions for the duration. This is useful for the purposes of aiming or doing other activities that rely on dexterity and skill.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Non-op-ti-ma\\\"\",\n  \"gesture\": \"Make circle with fingers\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::30d803ebd4067d3b",
+    "original": "Detect Magic",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Detect Magic\",\n  \"display name\": \"Detect Magic\",\n  \"description\": \"While concentrating, the caster can see the normally invisible magical traces left by magic. Magical traces are created two times when a spell is cast. The first is created at the position of the caster when the spell is cast. The second is created when the spell effect resolves or dissipates. The caster can identify the school of magic of any trace by color.\\r\\n\\r\\nEvocation: Red\\r\\nTransmutation: Yellow\\r\\nConjuration: Cyan\\r\\nDivination: Pink\\r\\nAbjuration: White\\r\\nNecromancy: Purple\\r\\nIllusion: Green\\r\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Rep-er-i-o Ar-kaen-num\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::9dfb1e6b97bada59",
+    "original": "While concentrating, the caster can see the normally invisible magical traces left by magic. Magical traces are created two times when a spell is cast. The first is created at the position of the caster when the spell is cast. The second is created when the spell effect resolves or dissipates. The caster can identify the school of magic of any trace by color.\r\n\r\nEvocation: Red\r\nTransmutation: Yellow\r\nConjuration: Cyan\r\nDivination: Pink\r\nAbjuration: White\r\nNecromancy: Purple\r\nIllusion: Green\r",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Detect Magic\",\n  \"display name\": \"Detect Magic\",\n  \"description\": \"While concentrating, the caster can see the normally invisible magical traces left by magic. Magical traces are created two times when a spell is cast. The first is created at the position of the caster when the spell is cast. The second is created when the spell effect resolves or dissipates. The caster can identify the school of magic of any trace by color.\\r\\n\\r\\nEvocation: Red\\r\\nTransmutation: Yellow\\r\\nConjuration: Cyan\\r\\nDivination: Pink\\r\\nAbjuration: White\\r\\nNecromancy: Purple\\r\\nIllusion: Green\\r\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Rep-er-i-o Ar-kaen-num\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::1122942fa6ff12d8",
+    "original": "\"Rep-er-i-o Ar-kaen-num\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Detect Magic\",\n  \"display name\": \"Detect Magic\",\n  \"description\": \"While concentrating, the caster can see the normally invisible magical traces left by magic. Magical traces are created two times when a spell is cast. The first is created at the position of the caster when the spell is cast. The second is created when the spell effect resolves or dissipates. The caster can identify the school of magic of any trace by color.\\r\\n\\r\\nEvocation: Red\\r\\nTransmutation: Yellow\\r\\nConjuration: Cyan\\r\\nDivination: Pink\\r\\nAbjuration: White\\r\\nNecromancy: Purple\\r\\nIllusion: Green\\r\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"\\\"Rep-er-i-o Ar-kaen-num\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::ac218b516cc685e3",
+    "original": "Stone Skin",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Stone Skin\",\n  \"display name\": \"Stone Skin\",\n  \"description\": \"The caster creates a thick layer of stone around the body of a target within 30ft. This stone layer will deflect and protect the target from any physical trauma. The stone layer can be slowly broken through continuous attacks, but as long as the caster concentrates on this spell, the stone layer will instantaneously repair itself.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ter-pro-tec\\\"\",\n  \"gesture\": \"Create an X with both arms\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::98514679a128136c",
+    "original": "The caster creates a thick layer of stone around the body of a target within 30ft. This stone layer will deflect and protect the target from any physical trauma. The stone layer can be slowly broken through continuous attacks, but as long as the caster concentrates on this spell, the stone layer will instantaneously repair itself.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Stone Skin\",\n  \"display name\": \"Stone Skin\",\n  \"description\": \"The caster creates a thick layer of stone around the body of a target within 30ft. This stone layer will deflect and protect the target from any physical trauma. The stone layer can be slowly broken through continuous attacks, but as long as the caster concentrates on this spell, the stone layer will instantaneously repair itself.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ter-pro-tec\\\"\",\n  \"gesture\": \"Create an X with both arms\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::29d27fb890990fa8",
+    "original": "\"Ter-pro-tec\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Stone Skin\",\n  \"display name\": \"Stone Skin\",\n  \"description\": \"The caster creates a thick layer of stone around the body of a target within 30ft. This stone layer will deflect and protect the target from any physical trauma. The stone layer can be slowly broken through continuous attacks, but as long as the caster concentrates on this spell, the stone layer will instantaneously repair itself.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ter-pro-tec\\\"\",\n  \"gesture\": \"Create an X with both arms\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::808b440bfebaaae5",
+    "original": "Create an X with both arms",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Stone Skin\",\n  \"display name\": \"Stone Skin\",\n  \"description\": \"The caster creates a thick layer of stone around the body of a target within 30ft. This stone layer will deflect and protect the target from any physical trauma. The stone layer can be slowly broken through continuous attacks, but as long as the caster concentrates on this spell, the stone layer will instantaneously repair itself.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Ter-pro-tec\\\"\",\n  \"gesture\": \"Create an X with both arms\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::dcf2615d880bd854",
+    "original": "Hold Creature",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Hold Creature\",\n  \"display name\": \"Hold Creature\",\n  \"description\": \"The caster completely restricts the movement of the target. While concentrating on this spell, the target will be unable to move any part of their body. Even subtle movements (such as the gestures required to cast certain spells) are impossible. As a result, the target will also be unable to move their mouth to speak.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Ho-dl\\\"\",\n  \"gesture\": \"Point at the target\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::0d2902d26882a78a",
+    "original": "The caster completely restricts the movement of the target. While concentrating on this spell, the target will be unable to move any part of their body. Even subtle movements (such as the gestures required to cast certain spells) are impossible. As a result, the target will also be unable to move their mouth to speak.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Hold Creature\",\n  \"display name\": \"Hold Creature\",\n  \"description\": \"The caster completely restricts the movement of the target. While concentrating on this spell, the target will be unable to move any part of their body. Even subtle movements (such as the gestures required to cast certain spells) are impossible. As a result, the target will also be unable to move their mouth to speak.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Ho-dl\\\"\",\n  \"gesture\": \"Point at the target\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::deb5f861f87bfaa5",
+    "original": "\"Ho-dl\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Hold Creature\",\n  \"display name\": \"Hold Creature\",\n  \"description\": \"The caster completely restricts the movement of the target. While concentrating on this spell, the target will be unable to move any part of their body. Even subtle movements (such as the gestures required to cast certain spells) are impossible. As a result, the target will also be unable to move their mouth to speak.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Ho-dl\\\"\",\n  \"gesture\": \"Point at the target\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::9cef1c1ce4d7cf55",
+    "original": "Point at the target",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Hold Creature\",\n  \"display name\": \"Hold Creature\",\n  \"description\": \"The caster completely restricts the movement of the target. While concentrating on this spell, the target will be unable to move any part of their body. Even subtle movements (such as the gestures required to cast certain spells) are impossible. As a result, the target will also be unable to move their mouth to speak.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Ho-dl\\\"\",\n  \"gesture\": \"Point at the target\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::43274c32fc2b6be9",
+    "original": "Steelwind Strike",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Steelwind Strike\",\n  \"display name\": \"Steelwind Strike\",\n  \"description\": \"The caster strikes targets of their choice within a 40ft radius with a slashing force. Each slash has the might and power of a <b>Mage Blade</b>, and can cut through thick metal armour. It’s the ultimate spell of House Steelwind and its spell formula is a closely guarded secret.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Vul-nus\\\"\",\n  \"gesture\": \"Point at the target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::e576067a3a5f7c4e",
+    "original": "The caster strikes targets of their choice within a 40ft radius with a slashing force. Each slash has the might and power of a <b>Mage Blade</b>, and can cut through thick metal armour. It’s the ultimate spell of House Steelwind and its spell formula is a closely guarded secret.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Steelwind Strike\",\n  \"display name\": \"Steelwind Strike\",\n  \"description\": \"The caster strikes targets of their choice within a 40ft radius with a slashing force. Each slash has the might and power of a <b>Mage Blade</b>, and can cut through thick metal armour. It’s the ultimate spell of House Steelwind and its spell formula is a closely guarded secret.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Vul-nus\\\"\",\n  \"gesture\": \"Point at the target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::8bcdc0fbae0106fe",
+    "original": "\"Vul-nus\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Steelwind Strike\",\n  \"display name\": \"Steelwind Strike\",\n  \"description\": \"The caster strikes targets of their choice within a 40ft radius with a slashing force. Each slash has the might and power of a <b>Mage Blade</b>, and can cut through thick metal armour. It’s the ultimate spell of House Steelwind and its spell formula is a closely guarded secret.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Vul-nus\\\"\",\n  \"gesture\": \"Point at the target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::687b90f427d62f91",
+    "original": "Fire Bolt",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Fire Bolt\",\n  \"display name\": \"Fire Bolt\",\n  \"description\": \"The caster launches a fiery projectile that’s hot enough to inflict third-degree burns. This projectile can travel 120ft without collision before its magic dissipates. Once it collides with something, it will set the object ablaze if it’s flammable.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Bol-to\\\"\",\n  \"gesture\": \"Point index finger at the target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::9f25da741f0acb2e",
+    "original": "The caster launches a fiery projectile that’s hot enough to inflict third-degree burns. This projectile can travel 120ft without collision before its magic dissipates. Once it collides with something, it will set the object ablaze if it’s flammable.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Fire Bolt\",\n  \"display name\": \"Fire Bolt\",\n  \"description\": \"The caster launches a fiery projectile that’s hot enough to inflict third-degree burns. This projectile can travel 120ft without collision before its magic dissipates. Once it collides with something, it will set the object ablaze if it’s flammable.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Bol-to\\\"\",\n  \"gesture\": \"Point index finger at the target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::f78d080ddb809fb4",
+    "original": "\"Bol-to\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Fire Bolt\",\n  \"display name\": \"Fire Bolt\",\n  \"description\": \"The caster launches a fiery projectile that’s hot enough to inflict third-degree burns. This projectile can travel 120ft without collision before its magic dissipates. Once it collides with something, it will set the object ablaze if it’s flammable.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Bol-to\\\"\",\n  \"gesture\": \"Point index finger at the target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::3992f6a38bfaa65d",
+    "original": "Point index finger at the target",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Fire Bolt\",\n  \"display name\": \"Fire Bolt\",\n  \"description\": \"The caster launches a fiery projectile that’s hot enough to inflict third-degree burns. This projectile can travel 120ft without collision before its magic dissipates. Once it collides with something, it will set the object ablaze if it’s flammable.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Bol-to\\\"\",\n  \"gesture\": \"Point index finger at the target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::a2d4140ad8e15bb8",
+    "original": "Polymorph",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Polymorph\",\n  \"display name\": \"Polymorph\",\n  \"description\": \"The caster transforms a target within 30ft of them into an animal. The animal can be any creature that can fit within a 2ftx2ftx2ft cube. For the duration, the target’s senses and intellect will also be changed to match that of the animal they are transformed into.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Drom-li\\\"\",\n  \"gesture\": \"Point index finger at the target\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::26f3730cd6de604b",
+    "original": "The caster transforms a target within 30ft of them into an animal. The animal can be any creature that can fit within a 2ftx2ftx2ft cube. For the duration, the target’s senses and intellect will also be changed to match that of the animal they are transformed into.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Polymorph\",\n  \"display name\": \"Polymorph\",\n  \"description\": \"The caster transforms a target within 30ft of them into an animal. The animal can be any creature that can fit within a 2ftx2ftx2ft cube. For the duration, the target’s senses and intellect will also be changed to match that of the animal they are transformed into.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Drom-li\\\"\",\n  \"gesture\": \"Point index finger at the target\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::8800a1c806a4d297",
+    "original": "\"Drom-li\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Polymorph\",\n  \"display name\": \"Polymorph\",\n  \"description\": \"The caster transforms a target within 30ft of them into an animal. The animal can be any creature that can fit within a 2ftx2ftx2ft cube. For the duration, the target’s senses and intellect will also be changed to match that of the animal they are transformed into.\",\n  \"type\": \"\",\n  \"school\": \"Transmutation\",\n  \"incantation\": \"\\\"Drom-li\\\"\",\n  \"gesture\": \"Point index finger at the target\",\n  \"duration\": \"1 hour\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::52a5f68b334c2c82",
+    "original": "Dispel Magic",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Dispel Magic\",\n  \"display name\": \"Dispel Magic\",\n  \"description\": \"Choose any magical effect within 120ft. The spell that is creating that effect immediately ends (unless the targeted spell is immune to being dispelled). However, this only ends the spell’s effects. It does not undo the effects of the spell. For example, dispelling a <b>Shape Liquid</b> on an affected liquid will only prevent the caster from further manipulating the liquid. It will not unfreeze the liquid or change its shape back to normal.\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"A-bu-ri-o\\\"\",\n  \"gesture\": \"Point finger at target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::421c131f37548531",
+    "original": "Choose any magical effect within 120ft. The spell that is creating that effect immediately ends (unless the targeted spell is immune to being dispelled). However, this only ends the spell’s effects. It does not undo the effects of the spell. For example, dispelling a <b>Shape Liquid</b> on an affected liquid will only prevent the caster from further manipulating the liquid. It will not unfreeze the liquid or change its shape back to normal.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Dispel Magic\",\n  \"display name\": \"Dispel Magic\",\n  \"description\": \"Choose any magical effect within 120ft. The spell that is creating that effect immediately ends (unless the targeted spell is immune to being dispelled). However, this only ends the spell’s effects. It does not undo the effects of the spell. For example, dispelling a <b>Shape Liquid</b> on an affected liquid will only prevent the caster from further manipulating the liquid. It will not unfreeze the liquid or change its shape back to normal.\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"A-bu-ri-o\\\"\",\n  \"gesture\": \"Point finger at target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::12aee11b548ede57",
+    "original": "\"A-bu-ri-o\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Dispel Magic\",\n  \"display name\": \"Dispel Magic\",\n  \"description\": \"Choose any magical effect within 120ft. The spell that is creating that effect immediately ends (unless the targeted spell is immune to being dispelled). However, this only ends the spell’s effects. It does not undo the effects of the spell. For example, dispelling a <b>Shape Liquid</b> on an affected liquid will only prevent the caster from further manipulating the liquid. It will not unfreeze the liquid or change its shape back to normal.\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"A-bu-ri-o\\\"\",\n  \"gesture\": \"Point finger at target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::GESTURE TRANSLATION::8ce9020921947724",
+    "original": "Point finger at target",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Dispel Magic\",\n  \"display name\": \"Dispel Magic\",\n  \"description\": \"Choose any magical effect within 120ft. The spell that is creating that effect immediately ends (unless the targeted spell is immune to being dispelled). However, this only ends the spell’s effects. It does not undo the effects of the spell. For example, dispelling a <b>Shape Liquid</b> on an affected liquid will only prevent the caster from further manipulating the liquid. It will not unfreeze the liquid or change its shape back to normal.\",\n  \"type\": \"\",\n  \"school\": \"Abjuration\",\n  \"incantation\": \"\\\"A-bu-ri-o\\\"\",\n  \"gesture\": \"Point finger at target\",\n  \"duration\": \"Instant\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::88717be5835d0862",
+    "original": "Shatter",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Shatter\",\n  \"display name\": \"Shatter\",\n  \"description\": \"Channels the caster's magic into any physical object they are touching with their hands. If enough magic is channeled, the object may shatter or break. \\n\\nThe intensity of this spell will exponentially increase while they are concentrating. However, channelling larger quantities of magic will slowly drain the caster's stamina and possibly cause Mageblight.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Cre-te-ah\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::750604775faf67e7",
+    "original": "Channels the caster's magic into any physical object they are touching with their hands. If enough magic is channeled, the object may shatter or break. \n\nThe intensity of this spell will exponentially increase while they are concentrating. However, channelling larger quantities of magic will slowly drain the caster's stamina and possibly cause Mageblight.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Shatter\",\n  \"display name\": \"Shatter\",\n  \"description\": \"Channels the caster's magic into any physical object they are touching with their hands. If enough magic is channeled, the object may shatter or break. \\n\\nThe intensity of this spell will exponentially increase while they are concentrating. However, channelling larger quantities of magic will slowly drain the caster's stamina and possibly cause Mageblight.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Cre-te-ah\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::847a3af06710e0e5",
+    "original": "\"Cre-te-ah\"",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Shatter\",\n  \"display name\": \"Shatter\",\n  \"description\": \"Channels the caster's magic into any physical object they are touching with their hands. If enough magic is channeled, the object may shatter or break. \\n\\nThe intensity of this spell will exponentially increase while they are concentrating. However, channelling larger quantities of magic will slowly drain the caster's stamina and possibly cause Mageblight.\",\n  \"type\": \"\",\n  \"school\": \"Evocation\",\n  \"incantation\": \"\\\"Cre-te-ah\\\"\",\n  \"gesture\": \"None\",\n  \"duration\": \"While concentrating\",\n  \"concentration\": \"Yes\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::38d941742427f857",
+    "original": "Divine Edict",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Divine Edict\",\n  \"display name\": \"Divine Edict\",\n  \"description\": \"A divine invocation to manifest any covenant written in blood and spirit. All will be revealed whether said covenant was forged in heaven or hell.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"A prayer of truth\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instantaneous\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::60ff52b415ba5e37",
+    "original": "A divine invocation to manifest any covenant written in blood and spirit. All will be revealed whether said covenant was forged in heaven or hell.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Divine Edict\",\n  \"display name\": \"Divine Edict\",\n  \"description\": \"A divine invocation to manifest any covenant written in blood and spirit. All will be revealed whether said covenant was forged in heaven or hell.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"A prayer of truth\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instantaneous\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::INCANTATION TRANSLATION::9f0225ea22cb0402",
+    "original": "A prayer of truth",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Divine Edict\",\n  \"display name\": \"Divine Edict\",\n  \"description\": \"A divine invocation to manifest any covenant written in blood and spirit. All will be revealed whether said covenant was forged in heaven or hell.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"A prayer of truth\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instantaneous\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DURATION TRANSLATION::9c679173e7ccfe92",
+    "original": "Instantaneous",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Divine Edict\",\n  \"display name\": \"Divine Edict\",\n  \"description\": \"A divine invocation to manifest any covenant written in blood and spirit. All will be revealed whether said covenant was forged in heaven or hell.\",\n  \"type\": \"\",\n  \"school\": \"Divination\",\n  \"incantation\": \"A prayer of truth\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instantaneous\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::f9f57d40683ecffc",
+    "original": "Teleport",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Teleport\",\n  \"display name\": \"Teleport\",\n  \"description\": \"Allows the caster to teleport to any position within 100 miles. If the caster targets a spell focus or magic circle designed to receive teleportation, the range at which they can teleport is unlimited.\\n\\nIf the position that the caster tries to teleport is occupied by any physical object, they may briefly appear at that position before the spell fails.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"None\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instantaneous\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::267b8f0d4d1586ba",
+    "original": "Allows the caster to teleport to any position within 100 miles. If the caster targets a spell focus or magic circle designed to receive teleportation, the range at which they can teleport is unlimited.\n\nIf the position that the caster tries to teleport is occupied by any physical object, they may briefly appear at that position before the spell fails.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Teleport\",\n  \"display name\": \"Teleport\",\n  \"description\": \"Allows the caster to teleport to any position within 100 miles. If the caster targets a spell focus or magic circle designed to receive teleportation, the range at which they can teleport is unlimited.\\n\\nIf the position that the caster tries to teleport is occupied by any physical object, they may briefly appear at that position before the spell fails.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"None\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instantaneous\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DISPLAY NAME TRANSLATION::a2993c0484b95fb7",
+    "original": "Summon",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Summon\",\n  \"display name\": \"Summon\",\n  \"description\": \"Allows the caster to summon an object to a position within 15 feet of them. The target object must be attuned to the caster's magic using a spell focus.\\n\\nIf the target position is occupied by any physical object, the summoned object may briefly appear at that position before the spell fails.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"None\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instantaneous\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  },
+  {
+    "key": "Universal Spells.csv::DESCRIPTION TRANSLATION::c16bf27ca99e6520",
+    "original": "Allows the caster to summon an object to a position within 15 feet of them. The target object must be attuned to the caster's magic using a spell focus.\n\nIf the target position is occupied by any physical object, the summoned object may briefly appear at that position before the spell fails.",
+    "translation": "",
+    "context": "{\n  \"reference name\": \"Summon\",\n  \"display name\": \"Summon\",\n  \"description\": \"Allows the caster to summon an object to a position within 15 feet of them. The target object must be attuned to the caster's magic using a spell focus.\\n\\nIf the target position is occupied by any physical object, the summoned object may briefly appear at that position before the spell fails.\",\n  \"type\": \"\",\n  \"school\": \"Conjuration\",\n  \"incantation\": \"None\",\n  \"gesture\": \"None\",\n  \"duration\": \"Instantaneous\",\n  \"concentration\": \"No\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+  }
+]

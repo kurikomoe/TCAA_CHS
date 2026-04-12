@@ -1,0 +1,44 @@
+[
+  {
+    "key": "courtroom-Default-Courtroom-displayName",
+    "original": "Courtroom",
+    "translation": "法庭",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Default\",\n  \"Name2\": \"Courtroom\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "courtroom-Ruby v Aria-Courtroom-displayName",
+    "original": "Courtroom",
+    "translation": "法庭",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Ruby v Aria\",\n  \"Name2\": \"Courtroom\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "courtroom-Ruby v Tyrion-Courtroom-displayName",
+    "original": "Courtroom",
+    "translation": "法庭",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Ruby v Tyrion\",\n  \"Name2\": \"Courtroom\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "courtroom-Tyrion v Ruby-Courtroom-displayName",
+    "original": "Courtroom",
+    "translation": "法庭",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Tyrion v Ruby\",\n  \"Name2\": \"Courtroom\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "courtroom-Final No Drag-Lair of the Scaled Lord-displayName",
+    "original": "Lair of the Scaled Lord",
+    "translation": "鳞甲领主的巢穴",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Final No Drag\",\n  \"Name2\": \"Lair of the Scaled Lord\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "courtroom-Final-Lair of the Scaled Lord-displayName",
+    "original": "Lair of the Scaled Lord",
+    "translation": "鳞甲领主的巢穴",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Final\",\n  \"Name2\": \"Lair of the Scaled Lord\",\n  \"Attr\": \"displayName\"\n}"
+  }
+]

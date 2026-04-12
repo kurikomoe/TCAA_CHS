@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Stefanic Dracogen-displayName",
+    "original": "Stefanic Dracogen",
+    "translation": "斯蒂芬尼克·德拉科根",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Stefanic Dracogen\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Stefanic Dracogen-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Stefanic Dracogen\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Stefanic Dracogen-occupation",
+    "original": "Guildmaster",
+    "translation": "公会长",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Stefanic Dracogen\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Stefanic Dracogen-arcaneArt",
+    "original": "None",
+    "translation": "无",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Stefanic Dracogen\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

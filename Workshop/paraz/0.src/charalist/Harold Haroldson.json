@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Harold Haroldson-displayName",
+    "original": "Harold Haroldson",
+    "translation": "哈罗德·哈罗德森",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Harold Haroldson\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Harold Haroldson-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Harold Haroldson\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Harold Haroldson-occupation",
+    "original": "Historian",
+    "translation": "历史学家",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Harold Haroldson\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Harold Haroldson-arcaneArt",
+    "original": "Transmutation",
+    "translation": "形变术",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Harold Haroldson\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

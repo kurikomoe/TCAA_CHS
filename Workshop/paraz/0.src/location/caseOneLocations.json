@@ -1,0 +1,79 @@
+[
+  {
+    "key": "location-caseOneLocations-Bedroom-displayName",
+    "original": "McCoy Tavern: Celeste's Bedroom",
+    "translation": "麦考伊酒馆：塞莱斯特的卧室",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Bedroom\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseOneLocations-Intro Scene-displayName",
+    "original": "McCoy Tavern",
+    "translation": "麦考伊酒馆",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Intro Scene\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseOneLocations-Town Intro-displayName",
+    "original": "Kornhaven Streets",
+    "translation": "科尔哈文街道",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Town Intro\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseOneLocations-Inside the Tavern-displayName",
+    "original": "McCoy Tavern",
+    "translation": "麦考伊酒馆",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Inside the Tavern\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseOneLocations-Looking for Celeste-displayName",
+    "original": "Cornhaven Streets",
+    "translation": "科尔哈文街道",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Looking for Celeste\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseOneLocations-Celeste Barracks-displayName",
+    "original": "Barracks",
+    "translation": "收容处",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Celeste Barracks\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseOneLocations-Lobby-displayName",
+    "original": "Courthouse: Lobby",
+    "translation": "法庭：大厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Lobby\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseOneLocations-Tavern-displayName",
+    "original": "McCoy Tavern",
+    "translation": "麦考伊酒馆",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Tavern\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseOneLocations-Barracks-displayName",
+    "original": "Inquisition Barracks",
+    "translation": "裁判所收容处",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Barracks\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseOneLocations-Upstairs-displayName",
+    "original": "McCoy Tavern: Upstairs",
+    "translation": "麦考伊酒馆：二层",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Upstairs\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseOneLocations-Lobby1-displayName",
+    "original": "Ratholme Courthouse",
+    "translation": "瑞思霍姆法院",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseOneLocations\",\n  \"Name\": \"Lobby1\",\n  \"Attr\": \"displayName\"\n}"
+  }
+]

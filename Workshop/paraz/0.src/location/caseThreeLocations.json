@@ -1,0 +1,135 @@
+[
+  {
+    "key": "location-caseThreeLocations-Manor-displayName",
+    "original": "Von Sanctus Manor",
+    "translation": "冯·桑克图斯庄园",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Manor\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Lobby-displayName",
+    "original": "Courthouse: Lobby",
+    "translation": "法庭：大厅",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Lobby\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-AurinaxIntro-displayName",
+    "original": "Aurinax: Town Square",
+    "translation": "欧奥耐克斯：市政广场",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"AurinaxIntro\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-AurinaxIntroRain-displayName",
+    "original": "Aurinax: Town Square",
+    "translation": "欧奥耐克斯：市政广场",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"AurinaxIntroRain\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-CafeIntro-displayName",
+    "original": "Mosourika's Cafe",
+    "translation": "莫苏里卡的咖啡馆",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"CafeIntro\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Tavern Intro-displayName",
+    "original": "Aegwyn Tavern",
+    "translation": "艾格文酒馆",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Tavern Intro\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Tavern Intro Room-displayName",
+    "original": "Aegwyn Tavern Room",
+    "translation": "艾格文酒馆房间",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Tavern Intro Room\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Tavern Intro Room (Night)-displayName",
+    "original": "Aegwyn Tavern Room",
+    "translation": "艾格文酒馆房间",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Tavern Intro Room (Night)\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Factory-displayName",
+    "original": "Aurinax Arcane Refinery",
+    "translation": "欧奥耐克斯奥术精炼厂",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Factory\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Walkway-displayName",
+    "original": "Aurinax Arcane Refinery: Walkway",
+    "translation": "欧奥耐克斯奥术精炼厂：走道",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Walkway\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-TownSquare-displayName",
+    "original": "Aurinax: Town Square",
+    "translation": "欧奥耐克斯：市政广场",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"TownSquare\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Harbour-displayName",
+    "original": "Aurinax Harbour",
+    "translation": "欧奥耐克斯港",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Harbour\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Cafe-displayName",
+    "original": "Mosourika's Cafe",
+    "translation": "莫苏里卡的咖啡馆",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Cafe\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Cafe2-displayName",
+    "original": "Mosourika's Cafe",
+    "translation": "莫苏里卡的咖啡馆",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Cafe2\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Tavern-displayName",
+    "original": "Aegwyn Tavern",
+    "translation": "艾格文酒馆",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Tavern\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-House-displayName",
+    "original": "Abandoned House",
+    "translation": "废弃的房子",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"House\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-TownSquare2-displayName",
+    "original": "Aurinax: Town Square",
+    "translation": "欧奥耐克斯：市政广场",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"TownSquare2\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Factory2-displayName",
+    "original": "Aurinax Arcane Refinery",
+    "translation": "欧奥耐克斯奥术精炼厂",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Factory2\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "location-caseThreeLocations-Walkway2-displayName",
+    "original": "Aurinax Arcane Refinery: Walkway",
+    "translation": "欧奥耐克斯奥术精炼厂：走道",
+    "stage": 3,
+    "context": "{\n  \"KeyName\": \"caseThreeLocations\",\n  \"Name\": \"Walkway2\",\n  \"Attr\": \"displayName\"\n}"
+  }
+]

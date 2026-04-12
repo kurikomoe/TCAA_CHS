@@ -1,0 +1,30 @@
+[
+  {
+    "key": "Alaric de Wyverngarde-displayName",
+    "original": "Alaric de Wyverngarde",
+    "translation": "阿拉里克·维文加德",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Alaric de Wyverngarde\",\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Alaric de Wyverngarde-description",
+    "original": "",
+    "translation": "",
+    "stage": -1,
+    "context": "{\n  \"Name\": \"Alaric de Wyverngarde\",\n  \"Attr\": \"description\"\n}"
+  },
+  {
+    "key": "Alaric de Wyverngarde-occupation",
+    "original": "Prince",
+    "translation": "王子",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Alaric de Wyverngarde\",\n  \"Attr\": \"occupation\"\n}"
+  },
+  {
+    "key": "Alaric de Wyverngarde-arcaneArt",
+    "original": "Evocation",
+    "translation": "塑能术",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Alaric de Wyverngarde\",\n  \"Attr\": \"arcaneArt\"\n}"
+  }
+]

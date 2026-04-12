@@ -1,0 +1,16 @@
+[
+  {
+    "key": "Item-Case 4-15-Murder Weapon-displayName",
+    "original": "Murder Weapon",
+    "translation": "凶器",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Murder Weapon\",\n  \"Idx\": 15,\n  \"Attr\": \"displayName\"\n}"
+  },
+  {
+    "key": "Item-Case 4-15-Murder Weapon-description",
+    "original": "The murder weapon was a letter opener with House Frega’s crest on it. It must have been owned by the victim. Its handle was completely shattered. It would have taken a tremendous amount of force to crush it like that.",
+    "translation": "凶器是一把刻有弗雷加一族纹章的拆信刀。应该是受害者的所有物。把手被完全破坏了，得用上相当强大的力气才能做到这种程度。",
+    "stage": 3,
+    "context": "{\n  \"Name\": \"Murder Weapon\",\n  \"Idx\": 15,\n  \"Attr\": \"description\"\n}"
+  }
+]

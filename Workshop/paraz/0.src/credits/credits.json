@@ -1,0 +1,261 @@
+[
+  {
+    "key": "credit-credits-0",
+    "original": "Game Director|Stephen Charles",
+    "translation": "@奥秘通译事务所 汉化组|汉化人员名单",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 0,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-1",
+    "original": "Programming|Stephen Charles",
+    "translation": "策划•主催|KurikoMoe",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 1,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-2",
+    "original": "Character Render|Reigen",
+    "translation": "发起人|Saiiikia",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 2,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-3",
+    "original": "Character Animation|Reigen",
+    "translation": "程序|KurikoMoe",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 3,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-4",
+    "original": "Main Character Design|Mato Kunewa",
+    "translation": "翻译|DoggoGreg, Saiiikia",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 4,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-5",
+    "original": "Sub Character Design|Violet",
+    "translation": "翻译|Lil_Catt猫猫桑, CitrineYEE",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 5,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-6",
+    "original": "Courtroom Chibis|Adam Scythe",
+    "translation": "翻译|DMCK, SamoyedKwiiBot_鞘",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 6,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-7",
+    "original": "Environment Artist|Miko",
+    "translation": "翻译|東方龍燁，薰风",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 7,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-8",
+    "original": "Environment Artist|Fuyunokawa",
+    "translation": "校对|DoggoGreg, CitrineYEE",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 8,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-9",
+    "original": "Promotional Art|YeinART",
+    "translation": "修图|SamoyedKwiiBot_鞘",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 9,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-10",
+    "original": "Waifu Consultation|Savio Joanes",
+    "translation": "视频|星云nebulas",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 10,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-11",
+    "original": "Lead Writer|Stephen Charles",
+    "translation": "测试|東方龍燁, SamoyedKwiiBot_鞘",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 11,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-12",
+    "original": "Writing Consultant|Arif Siddqui",
+    "translation": "测试|KurikoMoe, Tsugumi, Saiiikia",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 12,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-13",
+    "original": "Composer|insaneintherainmusic",
+    "translation": "特别技术支持|aioi",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 13,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-14",
+    "original": "Composer|Shady Cicada  ",
+    "translation": "@奥术律师|制作人员名单",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 14,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-15",
+    "original": "Composer|Stephen Charles",
+    "translation": "游戏总监•编程|Stephen Charles",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 15,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-16",
+    "original": "Flute, Oboe|Kristin Naigus",
+    "translation": "角色渲染•角色动画|Reigen",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 16,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-17",
+    "original": "French Horn|Alana Yee",
+    "translation": "主要角色设计：Mato Kunewa|次要角色设计：Violet",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 17,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-18",
+    "original": "Euphonium|Abby Lannan",
+    "translation": "法庭Q版设计：Adam Scythe|场景美术：Miko, Fuyunokawa",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 18,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-19",
+    "original": "Trombone|Allison Martin  ",
+    "translation": "宣发美术：YeinART|Waifu 顾问：Savio Joanes",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 19,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-20",
+    "original": "Drumset|Dom Palombi",
+    "translation": "主笔：Stephen Charles|写作顾问：Arif Siddqui",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 20,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-21",
+    "original": "Violin|Emily Gelineau",
+    "translation": "编曲|insaneintherainmusic",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 21,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-22",
+    "original": "Violin|PitTan",
+    "translation": "编曲|Shady Cicada, Stephen Charles",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 22,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-23",
+    "original": "Tyrion Cuthbert VA|John Van Doren",
+    "translation": "单簧管•双簧管|Kristin Naigus",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 23,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-24",
+    "original": "Celeste McCoy VA|Adriana Figueroa",
+    "translation": "圆号：Alana Yee|上低音号：Abby Lannan",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 24,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-25",
+    "original": "Aria Steelwind VA|Vera Tan",
+    "translation": "长号：Allison Martin|架子鼓：Dom Palombi",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 25,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-26",
+    "original": "Ruby Tymora VA|Zoe Sanders",
+    "translation": "小提琴|Emily Gelineau, PitTan",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 26,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-27",
+    "original": "Lucio Steelwind VA|Dylan Duck",
+    "translation": "提利昂·卡斯伯特 配音演员|John Van Doren",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 27,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-28",
+    "original": "Q&A|Andrew Lagdameo",
+    "translation": "阿莉亚·斯蒂尔文德 配音演员|Vera Tan",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 28,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-29",
+    "original": "Q&A|Arif Siddiqui",
+    "translation": "鲁比·泰摩拉 配音演员|Zoe Sanders",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 29,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-30",
+    "original": "Q&A|Brandon Oliver",
+    "translation": "卢西奥·斯蒂尔文德 配音演员|Dylan Duck",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 30,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-31",
+    "original": "Q&A|Brian Mai",
+    "translation": "Q&A|Andrew Lagdameo, Arif Siddiqui",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 31,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-32",
+    "original": "Q&A|David Zubicek",
+    "translation": "Q&A|Brandon Oliver, Brian Mai",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 32,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-33",
+    "original": "Q&A|Jason Calderon",
+    "translation": "Q&A|David Zubicek, Jason Calderon",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 33,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-34",
+    "original": "Q&A|Kevin Calderon",
+    "translation": "Q&A|Kevin Calderon, Kevin Lagdameo",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 34,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-35",
+    "original": "Q&A|Kevin Lagdameo ",
+    "translation": "特别感谢|The Luna",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 35,\n  \"Attr\": \"credits\"\n}"
+  },
+  {
+    "key": "credit-credits-36",
+    "original": "Special Thanks|The Luna \r",
+    "translation": "@奥秘通译事务所汉化组 为您呈现|2025 年 03 月 03 日",
+    "stage": 3,
+    "context": "{\n  \"Idx\": 36,\n  \"Attr\": \"credits\"\n}"
+  }
+]

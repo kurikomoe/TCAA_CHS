@@ -1,0 +1,625 @@
+[
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce3-6-0",
+    "original": "Which spell do they think Wallace used?",
+    "translation": "对方\\u200B认为\\u200B华莱士\\u200B用了\\u200B什么\\u200B法术\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Which spell do they think Wallace used?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce3-10-0",
+    "original": "Necrotic Blight,Prestidigitation,Animate Corpse",
+    "translation": "索命咒,魔术戏法,活化死尸",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Necrotic Blight,Prestidigitation,Animate Corpse\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce3-11-0",
+    "original": "Which spell do they think Wallace used?",
+    "translation": "对方认为华莱士用了什么法术？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce3\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Which spell do they think Wallace used?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-6-0",
+    "original": "Start an ARGUMENT with Valentina Ianus?",
+    "translation": "是否开始与瓦伦蒂娜·伊努斯辩论？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Valentina Ianus?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-9-0",
+    "original": "Start an ARGUMENT with Valentina Ianus?/nYou haven't completed her PSYCHOLOGICAL PROFILE.",
+    "translation": "是否开始与瓦伦蒂娜·伊努斯辩论？/n你尚未了解她的心理档案。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Valentina Ianus?/nYou haven't completed her PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-33-0",
+    "original": "Valentina is more concerned with protecting herself than doing the right thing. She will continue to hide her secrets unless she thinks that doing so is dangerous for her. She sees Wallace as a villainous necromancer and will not feel pity for him. ",
+    "translation": "比起做正确的事，瓦伦蒂娜更想自保。除非她觉得这样做有危险， 否则她会继续隐藏自己的秘密。她认为华莱士是个邪恶的死灵法师，并不同情他。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val_Argument\",\n  \"cmd\": [\n    \"LoadArgueProfile\",\n    \"Valentina is more concerned with protecting herself than doing the right thing. She will continue to hide her secrets unless she thinks that doing so is dangerous for her. She sees Wallace as a villainous necromancer and will not feel pity for him. \"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-39-0",
+    "original": "My conscience is clear.",
+    "translation": "我\\u200B问心\\u200B无愧",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val_Argument\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"My conscience is clear.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-53-0",
+    "original": "Why doesn’t Valentina know that the spell was necromancy?",
+    "translation": "为什么\\u200B瓦伦蒂娜\\u200B不知道\\u200B这是\\u200B死灵术\\u200B的\\u200B一种\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why doesn’t Valentina know that the spell was necromancy?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-56-0",
+    "original": "The spell,The weapon,The witness,The room",
+    "translation": "对瓦伦蒂娜,对贝尔维瑟,大讲堂里,谋杀期间",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The spell,The weapon,The witness,The room\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-57-0",
+    "original": "cast,swung,who saw,contained",
+    "translation": "施展的,挥舞的,看见的,包括的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"cast,swung,who saw,contained\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-58-0",
+    "original": "on Valentina,at Bellwether,within the lecture hall,during the murder",
+    "translation": "法术,武器,目击者,房间",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"on Valentina,at Bellwether,within the lecture hall,during the murder\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-59-0",
+    "original": "healed her,killed her,hid her,attacked her",
+    "translation": "治愈了她,杀害了她,隐藏了她,攻击了他",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"healed her,killed her,hid her,attacked her\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Talk_Kitchen-60-0",
+    "original": "Why doesn’t Valentina know that the spell was necromancy?",
+    "translation": "为什么瓦伦蒂娜不知道这是死灵术的一种？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why doesn’t Valentina know that the spell was necromancy?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye-7-0",
+    "original": "What stopped the Construct from leaving the Locker Room?",
+    "translation": "什么\\u200B阻止了\\u200B构造体\\u200B离开\\u200B储物柜室\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoAfterEye\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"What stopped the Construct from leaving the Locker Room?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-ValArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"ValArgument_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-OrymObj-22-0",
+    "original": "Which spell would leave a trace of [i]necromancy[/i]?",
+    "translation": "哪种法术\\u200B会留下\\u200B<u>死灵术</u>的\\u200B魔法痕迹\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"OrymObj\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Which spell would leave a trace of [i]necromancy[/i]?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument3-1-0",
+    "original": "Why would I act in such a way?",
+    "translation": "我\\u200B为什么\\u200B要\\u200B这样做\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Aria_Argument3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Why would I act in such a way?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-6-0",
+    "original": "Why does Steelwind trust us this time?",
+    "translation": "为什么\\u200B斯蒂尔文德\\u200B这次\\u200B相信我们\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Why does Steelwind trust us this time?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-10-0",
+    "original": "Tyrion,Wallace,Steelwind,The Headmaster",
+    "translation": "提利昂,华莱士,斯蒂尔文德,校长",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Tyrion,Wallace,Steelwind,The Headmaster\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-11-0",
+    "original": "isn't, is,isn't,is",
+    "translation": "不受,受到,没有,有",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"isn't, is,isn't,is\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-12-0",
+    "original": "controlled by,capable of,a member of,an employee of",
+    "translation": "贵族,魔法,教职工,裁判所",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"controlled by,capable of,a member of,an employee of\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-13-0",
+    "original": "the nobility,using magic,the faculty,the Inquisition",
+    "translation": "控制,能力,成员,雇员",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"the nobility,using magic,the faculty,the Inquisition\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce5-14-0",
+    "original": "Why does Steelwind trust us this time?",
+    "translation": "为什么斯蒂尔文德这次相信我们？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce5\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Why does Steelwind trust us this time?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-9-0",
+    "original": "How did the twins trick the Inquisition?",
+    "translation": "双子\\u200B怎么\\u200B骗过\\u200B裁判所\\u200B的\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val2Obj_1\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the twins trick the Inquisition?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-12-0",
+    "original": "Valentina,Wallace,Bellwether,Orym",
+    "translation": "瓦伦蒂娜,华莱士,贝尔维瑟,奥蒙",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val2Obj_1\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Valentina,Wallace,Bellwether,Orym\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-13-0",
+    "original": "switched,hid,incorrectly,healed",
+    "translation": "与瓦莱丽,与华莱士,与贝尔维瑟,与奥蒙",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val2Obj_1\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"switched,hid,incorrectly,healed\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-14-0",
+    "original": "places with,from,spoke with,the wounds of",
+    "translation": "交换了,隐藏了,误判了,治愈了",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val2Obj_1\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"places with,from,spoke with,the wounds of\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-15-0",
+    "original": "Valerie,Wallace,Bellwether,Orym",
+    "translation": "位置,伤口,证据,发言",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val2Obj_1\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"Valerie,Wallace,Bellwether,Orym\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val2Obj_1-16-0",
+    "original": "How did the twins trick the Inquisition?",
+    "translation": "双子怎么骗过裁判所的？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val2Obj_1\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the twins trick the Inquisition?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered3-4-0",
+    "original": "I wouldn’t have the construct linger around the library.",
+    "translation": "我\\u200B不会\\u200B让\\u200B构造体\\u200B在\\u200B图书馆\\u200B逗留",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoCornered3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I wouldn’t have the construct linger around the library.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-7-0",
+    "original": "How does the evidence implicate Wallace?",
+    "translation": "这一证据\\u200B为何\\u200B能表明\\u200B华莱士\\u200B有罪\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How does the evidence implicate Wallace?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-11-0",
+    "original": "A magical trace,A bloody weapon,A rancid smell,A witness",
+    "translation": "尸体上,教室里,走廊里,学院外",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"A magical trace,A bloody weapon,A rancid smell,A witness\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-12-0",
+    "original": "of necromancy,of alchemy,of illusion,of steel,from the academy",
+    "translation": "发现了,能闻到,藏有,被摧毁了",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"of necromancy,of alchemy,of illusion,of steel,from the academy\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-13-0",
+    "original": "was found,was smelled,was hidden,was destroyed",
+    "translation": "死灵术的,炼金术的,幻象的,学院的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"was found,was smelled,was hidden,was destroyed\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-14-0",
+    "original": "on the body,in the classroom,in the hallway,outside the academy",
+    "translation": "魔法痕迹,沾血的凶器,腐臭的味道,目击证人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"on the body,in the classroom,in the hallway,outside the academy\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce-15-0",
+    "original": "How does the evidence implicate Wallace?",
+    "translation": "这一证据为何能表明华莱士有罪？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How does the evidence implicate Wallace?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument5-4-0",
+    "original": "I don’t know anyone who can use magic.",
+    "translation": "我\\u200B不认识\\u200B会用\\u200B魔法的\\u200B人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val_Argument5\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I don’t know anyone who can use magic.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-13-0",
+    "original": "What is wrong with the crime scene?",
+    "translation": "犯罪现场\\u200B有\\u200B什么\\u200B问题\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce5\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What is wrong with the crime scene?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-15-0",
+    "original": "Bellwether's,Lecture Hall 2-B's,The Academy's,Wallace's",
+    "translation": "贝尔维瑟的,2-B 讲堂的,学院的,华莱士的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Bellwether's,Lecture Hall 2-B's,The Academy's,Wallace's\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-16-0",
+    "original": "body,Spell Compendium,employees,floor",
+    "translation": "尸体,法术汇编,雇员,地板",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"body,Spell Compendium,employees,floor\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-17-0",
+    "original": "was covered,was destroyed,was missing,was found",
+    "translation": "沾满了,被摧毁了,缺少了,发现了",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"was covered,was destroyed,was missing,was found\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-18-0",
+    "original": "in blood,by Wallace,before the lockdown,during the murder",
+    "translation": "血液,华莱士,封锁之前,谋杀之后",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce5\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"in blood,by Wallace,before the lockdown,during the murder\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-WallaceDeduce5-19-0",
+    "original": "What is wrong with the crime scene?",
+    "translation": "犯罪现场有什么问题？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"WallaceDeduce5\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What is wrong with the crime scene?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-AriaArgument_Fail-5-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"AriaArgument_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument5-3-0",
+    "original": "My investigation doesn’t involve the Fregas.",
+    "translation": "我的\\u200B调查\\u200B不涉及\\u200B弗雷加的\\u200B人",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Aria_Argument5\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"My investigation doesn’t involve the Fregas.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-ConstPresAfter_3-19-0",
+    "original": "Who ordered the Construct to hide the body?",
+    "translation": "是谁\\u200B命令\\u200B构造体\\u200B隐藏\\u200B尸体\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"ConstPresAfter_3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Who ordered the Construct to hide the body?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered_Fail-4-0",
+    "original": "You lost the argument...",
+    "translation": "你输掉了辩论……",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoCornered_Fail\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"You lost the argument...\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Examine_Classroom-21-0",
+    "original": "Detect Magic",
+    "translation": "法术探测",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Examine_Classroom\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Detect Magic Tutorial.png\",\n    \"Detect Magic\",\n    \"Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Examine_Classroom-21-1",
+    "original": "Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.",
+    "translation": "你的护卫塞莱斯特现在可以使用法术探测了。在调查某个位置时，点击“法术探测”来使魔法痕迹可视化。任何魔法痕迹都会以不同颜色显示出来。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Examine_Classroom\",\n  \"cmd\": [\n    \"Tutorial\",\n    \"Assets/Visuals/Resources/Tutorials/Detect Magic Tutorial.png\",\n    \"Detect Magic\",\n    \"Your bodyguard: Celeste can now cast the Detect Magic spell. While EXAMINING a location, press the “Detect Magic” button to make magical traces visible. If there are any magical traces at your location, you’ll see a colored overlay.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered4-0-0",
+    "original": "Luckily, Lady Frega can’t tell night from day.",
+    "translation": "幸运的是，弗雷加小姐昼夜不分。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoCornered4\",\n  \"cmd\": [\n    \"InterpretPrompt\",\n    \"Luckily, Lady Frega can’t tell night from day.\",\n    \"Angry,Fear\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce-13-0",
+    "original": "What is motivating Steelwind to keep secrets?",
+    "translation": "是什么\\u200B导致\\u200B斯蒂尔文德\\u200B保密\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What is motivating Steelwind to keep secrets?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce-16-0",
+    "original": "Arrogance,Paranoia,Logic",
+    "translation": "傲慢,疑神疑鬼,理性",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Arrogance,Paranoia,Logic\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce-17-0",
+    "original": "What is motivating Steelwind to keep secrets?",
+    "translation": "是什么导致斯蒂尔文德保密 ？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What is motivating Steelwind to keep secrets?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument3-4-0",
+    "original": "I don't have to tell you anything.",
+    "translation": "我\\u200B不需要\\u200B对你\\u200B和盘托出",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val_Argument3\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I don't have to tell you anything.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-4-0",
+    "original": "Whose locker had the most suspicious evidence?",
+    "translation": "谁的\\u200B储物柜里\\u200B有\\u200B最可疑的\\u200B证据\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"AfterLockerDeduce\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Whose locker had the most suspicious evidence?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-7-0",
+    "original": "Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl",
+    "translation": "米莉亚姆·弗雷加,华莱士·奈特格雷夫,杰登·冯·桑克图斯,沃伦·希比尔",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"AfterLockerDeduce\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Miriam Frega,Wallace Nightgrave,Jaiden von Sanctus,Warren Sibyl\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-AfterLockerDeduce-8-0",
+    "original": "Whose locker had the most suspicious evidence?",
+    "translation": "谁的储物柜里有最可疑的证据？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"AfterLockerDeduce\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Whose locker had the most suspicious evidence?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Start-17-0",
+    "original": "Episode II/nThe Walking Dead",
+    "translation": "第二章/n行尸走肉",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Start\",\n  \"cmd\": [\n    \"TitleCard\",\n    \"Episode II/nThe Walking Dead\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered7-7-0",
+    "original": "There’s no reason I would make a mistake like that!",
+    "translation": "我\\u200B没理由\\u200B犯\\u200B这种错\\u200B！",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoCornered7\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"There’s no reason I would make a mistake like that!\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered5-3-0",
+    "original": "I wouldn’t have placed incriminating evidence in that locker.",
+    "translation": "我\\u200B不会\\u200B在\\u200B储物柜里\\u200B放\\u200B这么\\u200B可疑的\\u200B证据",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoCornered5\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I wouldn’t have placed incriminating evidence in that locker.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-JanObj_2-16-0",
+    "original": "What created Bellwether's voice?",
+    "translation": "谁\\u200B创造了\\u200B贝尔维瑟的\\u200B声音\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"JanObj_2\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"What created Bellwether's voice?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_13-24-0",
+    "original": "Episode End",
+    "translation": "章节结束",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoAfterEye_13\",\n  \"cmd\": [\n    \"TitleCard\",\n    \"Episode End\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce3-9-0",
+    "original": "Who has Steelwind trusted for this case?",
+    "translation": "斯蒂尔文德\\u200B在\\u200B这个案子里\\u200B选择\\u200B相信谁\\u200B ？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"Who has Steelwind trusted for this case?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce3-12-0",
+    "original": "Tyrion and Celeste,The Headmaster,Wallace,Commander White",
+    "translation": "提利昂和塞莱斯特,校长,华莱士,怀特指挥官",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Tyrion and Celeste,The Headmaster,Wallace,Commander White\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce3-13-0",
+    "original": "Who has Steelwind trusted for this case?",
+    "translation": "斯蒂尔文德在这个案子里选择相信谁？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce3\",\n  \"cmd\": [\n    \"Deduction\",\n    \"Who has Steelwind trusted for this case?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-2-0",
+    "original": "How did the lockdown affect the Construct's actions?",
+    "translation": "封锁\\u200B如何\\u200B影响了\\u200B构造体的\\u200B行动\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoAfterEye_3\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"How did the lockdown affect the Construct's actions?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-5-0",
+    "original": "Redmond's,Bellwether's,Frega's,Wallace's",
+    "translation": "雷德蒙的,贝尔维瑟的,弗雷加的,华莱士的",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoAfterEye_3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"Redmond's,Bellwether's,Frega's,Wallace's\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-6-0",
+    "original": "series of commands,rapier,body,Compendium",
+    "translation": "一系列指令,刺剑,尸体,法术汇编",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoAfterEye_3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"series of commands,rapier,body,Compendium\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-7-0",
+    "original": "was interrupted,was planted,was stolen,was destroyed",
+    "translation": "被封锁,被雷德蒙,被斯蒂尔文德,被华莱士",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoAfterEye_3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"was interrupted,was planted,was stolen,was destroyed\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-8-0",
+    "original": "by the lockdown,by Redmond,by Steelwind,by Wallace",
+    "translation": "干扰停止,偷窃,摧毁,栽赃",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoAfterEye_3\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"3\",\n    \"by the lockdown,by Redmond,by Steelwind,by Wallace\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 3\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoAfterEye_3-9-0",
+    "original": "How did the lockdown affect the Construct's actions?",
+    "translation": "封锁如何影响了构造体的行动？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoAfterEye_3\",\n  \"cmd\": [\n    \"Deduction\",\n    \"How did the lockdown affect the Construct's actions?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-5-0",
+    "original": "What can you infer about the secret witness?",
+    "translation": "你\\u200B能推断出\\u200B什么\\u200B与\\u200B秘密目击证人\\u200B相关的\\u200B事\\u200B？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce7\",\n  \"cmd\": [\n    \"DeduceTypewriter\",\n    \"What can you infer about the secret witness?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-9-0",
+    "original": "The witness,Steelwind",
+    "translation": "目击者,斯蒂尔文德",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce7\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"0\",\n    \"The witness,Steelwind\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 0\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-10-0",
+    "original": "is a,isn't a,is a,isn't a",
+    "translation": "是一个,不是一个,是一个,不是一个",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce7\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"1\",\n    \"is a,isn't a,is a,isn't a\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 1\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-11-0",
+    "original": "noble,murderer,student,suspect",
+    "translation": "贵族,杀人犯,学生,嫌疑犯",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce7\",\n  \"cmd\": [\n    \"SetDeductionField\",\n    \"2\",\n    \"noble,murderer,student,suspect\"\n  ],\n  \"keywords\": [\n    \"Deduction组句单词 - 2\"\n  ]\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-LockerDeduce7-12-0",
+    "original": "What can you infer about the secret witness?",
+    "translation": "你能推断出什么与秘密目击证人相关的事？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"LockerDeduce7\",\n  \"cmd\": [\n    \"Deduction\",\n    \"What can you infer about the secret witness?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-5-0",
+    "original": "Start an ARGUMENT with Aria Steelwind?",
+    "translation": "是否开始与阿莉亚·斯蒂尔文德辩论？",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Aria_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Aria Steelwind?\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-8-0",
+    "original": "Start an ARGUMENT with Aria Steelwind?/nYou haven't completed his PSYCHOLOGICAL PROFILE.",
+    "translation": "是否开始与阿莉亚·斯蒂尔文德辩论？/n你尚未了解她的心理档案。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Aria_Argument\",\n  \"cmd\": [\n    \"Confirmation\",\n    \"Start an ARGUMENT with Aria Steelwind?/nYou haven't completed his PSYCHOLOGICAL PROFILE.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-32-0",
+    "original": "Steelwind is extremely logical and won’t accept arguments that aren’t supported by evidence. However, she has become secretive lately, and her actions seem to stem from paranoia./n/n She’s uneasy about case elements that relate to Miriam Frega. And she’s very inclined to hide Frega’s involvement from the court at all costs.",
+    "translation": "斯蒂尔文德逻辑性很强，不会采纳没有证据支持的言论。不过，她最近行为遮遮掩掩，似乎是由于惧怕什么东西的影响。/n/n她对本次案件和米莉亚姆·弗雷加相关的事感到不安。也倾向于不惜一切代价，对法庭隐藏弗雷加有所牵扯一事。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Aria_Argument\",\n  \"cmd\": [\n    \"LoadArgueProfile\",\n    \"Steelwind is extremely logical and won’t accept arguments that aren’t supported by evidence. However, she has become secretive lately, and her actions seem to stem from paranoia./n/n She’s uneasy about case elements that relate to Miriam Frega. And she’s very inclined to hide Frega’s involvement from the court at all costs.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-39-0",
+    "original": "Nothing about my behavior has changed.",
+    "translation": "我的\\u200B行为\\u200B毫无\\u200B变化",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Aria_Argument\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"Nothing about my behavior has changed.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered-6-0",
+    "original": "I was alone and had nothing to overpower Bellwether with.",
+    "translation": "我\\u200B孤身\\u200B一人，\\u200B也没法\\u200B以蛮力\\u200B制服\\u200B贝尔维瑟",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoCornered\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"I was alone and had nothing to overpower Bellwether with.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument2-0-0",
+    "original": "I need to stay calm.",
+    "translation": "我需要保持冷静。",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val_Argument2\",\n  \"cmd\": [\n    \"InterpretPrompt\",\n    \"I need to stay calm.\",\n    \"Fear\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument7-7-0",
+    "original": "You can’t prove that piece of evidence exists.",
+    "translation": "你\\u200B没法\\u200B证明\\u200B这件\\u200B证据\\u200B确实\\u200B存在",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Aria_Argument7\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"You can’t prove that piece of evidence exists.\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered9-11-0",
+    "original": "There's no evidence of my orders!",
+    "translation": "没有\\u200B我\\u200B下了\\u200B命令\\u200B的\\u200B证据\\u200B！",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoCornered9\",\n  \"cmd\": [\n    \"Typewriter\",\n    \"There's no evidence of my orders!\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Val_Argument-26-0",
+    "original": "Valentina Ianus",
+    "translation": "瓦伦蒂娜·伊努斯",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Val_Argument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Valentina Ianus\",\n    \"3\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-Aria_Argument-25-0",
+    "original": "Aria Steelwind",
+    "translation": "阿莉亚·斯蒂尔文德",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Aria_Argument\",\n  \"cmd\": [\n    \"StartArgument\",\n    \"Aria Steelwind\",\n    \"4\"\n  ],\n  \"keywords\": []\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-psychComplete-Valentina Ianus",
+    "original": "Valentina Ianus",
+    "translation": "瓦伦蒂娜·伊努斯",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Talk_Kitchen\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-psychComplete-Aria Steelwind",
+    "original": "Aria Steelwind",
+    "translation": "阿莉亚·斯蒂尔文德",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"Check_Events_Library2\",\n  \"cmd\": \"opcode: CALL_FUNC operands {   string_value: \\\"psychComplete\\\" } \",\n  \"keywords\": \"psychComplete\"\n}"
+  },
+  {
+    "key": "Case 2-sharedassets0.assets-155.json-TheoCornered-0-0",
+    "original": "Theodore Redmond",
+    "translation": "西奥多·雷德蒙",
+    "stage": 3,
+    "context": "{\n  \"node_name\": \"TheoCornered\",\n  \"cmd\": [\n    \"CorneredWitness\",\n    \"Theodore Redmond\",\n    \"5\"\n  ],\n  \"keywords\": []\n}"
+  }
+]
