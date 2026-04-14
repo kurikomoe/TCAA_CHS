@@ -2,247 +2,288 @@
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::3510e0e998ac09ed",
     "original": "Autopsy Report",
-    "translation": "",
+    "translation": "尸检报告",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"Autopsy\",\n  \"display name\": \"Autopsy Report\",\n  \"description\": \"Died of dissolution at 10:02 AM after falling into a vat of molten aetherite. Only his bones and some personal effects could be recovered.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::19d438eb87f63bf4",
     "original": "Died of dissolution at 10:02 AM after falling into a vat of molten aetherite. Only his bones and some personal effects could be recovered.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Autopsy\",\n  \"display name\": \"Autopsy Report\",\n  \"description\": \"Died of dissolution at 10:02 AM after falling into a vat of molten aetherite. Only his bones and some personal effects could be recovered.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::db583e7f8cf32e44",
     "original": "Old House Picture",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"HousePic\",\n  \"display name\": \"Old House Picture\",\n  \"description\": \"A picture of my old house. There's a large dented metal container. It's stuck shut. There are traces of <b>conjuration</b> magic all over it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::9ffc03a167b1c6fd",
     "original": "A picture of my old house. There's a large dented metal container. It's stuck shut. There are traces of <b>conjuration</b> magic all over it.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"HousePic\",\n  \"display name\": \"Old House Picture\",\n  \"description\": \"A picture of my old house. There's a large dented metal container. It's stuck shut. There are traces of <b>conjuration</b> magic all over it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::2193ca1ac00ed94c",
     "original": "Mosourika's Past",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"RikaPast\",\n  \"display name\": \"Mosourika's Past\",\n  \"description\": \"Several years ago, Mosourika Tudor was a part of a band of thieves. They would frequently rob shipments addressed to Von Sanctus Industries from the Aurinax Harbor. They were eventually arrested, and Mosourika only avoided time in the dungeons by taking a plea deal.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::9aade519b8a9cef3",
     "original": "Several years ago, Mosourika Tudor was a part of a band of thieves. They would frequently rob shipments addressed to Von Sanctus Industries from the Aurinax Harbor. They were eventually arrested, and Mosourika only avoided time in the dungeons by taking a plea deal.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"RikaPast\",\n  \"display name\": \"Mosourika's Past\",\n  \"description\": \"Several years ago, Mosourika Tudor was a part of a band of thieves. They would frequently rob shipments addressed to Von Sanctus Industries from the Aurinax Harbor. They were eventually arrested, and Mosourika only avoided time in the dungeons by taking a plea deal.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::a9779acfc711487e",
     "original": "Arrested Insurrectionists",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Treason\",\n  \"display name\": \"Arrested Insurrectionists\",\n  \"description\": \"Within the last few months, there have been an increased amount of Aurinax citizens who have been arrested for treason. The Mistweaving Phantom seems to be robbing these individuals. By doing so, they've been bringing the City Watch's attention to them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::492c517eb8d58b08",
     "original": "Within the last few months, there have been an increased amount of Aurinax citizens who have been arrested for treason. The Mistweaving Phantom seems to be robbing these individuals. By doing so, they've been bringing the City Watch's attention to them.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Treason\",\n  \"display name\": \"Arrested Insurrectionists\",\n  \"description\": \"Within the last few months, there have been an increased amount of Aurinax citizens who have been arrested for treason. The Mistweaving Phantom seems to be robbing these individuals. By doing so, they've been bringing the City Watch's attention to them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::417a9f2cd6fae7f3",
     "original": "Kingsguard Blockade",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Blockade\",\n  \"display name\": \"Kingsguard Blockade\",\n  \"description\": \"The Kingsguard have set up a blockade and prevented anyone from traveling in and out of Aurinax. They seem to be making note of everyone in the city.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blockade\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::68f9740223fb38a8",
     "original": "The Kingsguard have set up a blockade and prevented anyone from traveling in and out of Aurinax. They seem to be making note of everyone in the city.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Blockade\",\n  \"display name\": \"Kingsguard Blockade\",\n  \"description\": \"The Kingsguard have set up a blockade and prevented anyone from traveling in and out of Aurinax. They seem to be making note of everyone in the city.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blockade\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::SERIES TRANSLATION::e71b21e8aa5ca8bb",
     "original": "Blockade",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Blockade\",\n  \"display name\": \"Kingsguard Blockade\",\n  \"description\": \"The Kingsguard have set up a blockade and prevented anyone from traveling in and out of Aurinax. They seem to be making note of everyone in the city.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blockade\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::8762341162fb35e3",
     "original": "Stolen Shipment",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Blockade2\",\n  \"display name\": \"Stolen Shipment\",\n  \"description\": \"A thief known as the \\\"Mistweaving Phantom\\\" stole a dangerous shipment from an imperial ship the morning of Justin's death. The Kingsguard have set up a blockade and prevented anyone from traveling in and out of Aurinax. They seem to be making note of everyone in the city.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blockade\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::bea57eaf64ecf0d8",
     "original": "A thief known as the \"Mistweaving Phantom\" stole a dangerous shipment from an imperial ship the morning of Justin's death. The Kingsguard have set up a blockade and prevented anyone from traveling in and out of Aurinax. They seem to be making note of everyone in the city.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Blockade2\",\n  \"display name\": \"Stolen Shipment\",\n  \"description\": \"A thief known as the \\\"Mistweaving Phantom\\\" stole a dangerous shipment from an imperial ship the morning of Justin's death. The Kingsguard have set up a blockade and prevented anyone from traveling in and out of Aurinax. They seem to be making note of everyone in the city.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blockade\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::c6e7fd08989f64f8",
     "original": "Stolen Arcane Crystals",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Blockade3\",\n  \"display name\": \"Stolen Arcane Crystals\",\n  \"description\": \"A thief known as the \\\"Mistweaving Phantom\\\" stole a dangerous shipment of high-capacity arcane crystals attuned to <b>evocation</b> magic. In the wrong hands, these crystals could produce an explosion capable of destroying a city block. This theft occurred the morning of Justin's death on an imperial ship owned by Crown Prince Aster. The Kingsguard have set up a blockade and prevented anyone from traveling in and out of Aurinax. They seem to be making note of everyone in the city.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blockade\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::174afab2425fcfd9",
     "original": "A thief known as the \"Mistweaving Phantom\" stole a dangerous shipment of high-capacity arcane crystals attuned to <b>evocation</b> magic. In the wrong hands, these crystals could produce an explosion capable of destroying a city block. This theft occurred the morning of Justin's death on an imperial ship owned by Crown Prince Aster. The Kingsguard have set up a blockade and prevented anyone from traveling in and out of Aurinax. They seem to be making note of everyone in the city.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Blockade3\",\n  \"display name\": \"Stolen Arcane Crystals\",\n  \"description\": \"A thief known as the \\\"Mistweaving Phantom\\\" stole a dangerous shipment of high-capacity arcane crystals attuned to <b>evocation</b> magic. In the wrong hands, these crystals could produce an explosion capable of destroying a city block. This theft occurred the morning of Justin's death on an imperial ship owned by Crown Prince Aster. The Kingsguard have set up a blockade and prevented anyone from traveling in and out of Aurinax. They seem to be making note of everyone in the city.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blockade\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::1a2173ad89fed5d8",
     "original": "The Mistweaving Phantom",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Phantom\",\n  \"display name\": \"The Mistweaving Phantom\",\n  \"description\": \"There is a thief who calls themselves the \\\"Mistweaving Phantom\\\". They've been expertly robbing several merchant ships that were resting at Aurinax Harbor. No one ever spots them, and they never leave any evidence behind—hence the name.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Phantom\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::a270c637bc60bc6b",
     "original": "There is a thief who calls themselves the \"Mistweaving Phantom\". They've been expertly robbing several merchant ships that were resting at Aurinax Harbor. No one ever spots them, and they never leave any evidence behind—hence the name.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Phantom\",\n  \"display name\": \"The Mistweaving Phantom\",\n  \"description\": \"There is a thief who calls themselves the \\\"Mistweaving Phantom\\\". They've been expertly robbing several merchant ships that were resting at Aurinax Harbor. No one ever spots them, and they never leave any evidence behind—hence the name.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Phantom\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::SERIES TRANSLATION::023f16c08cac4b78",
     "original": "Phantom",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Phantom\",\n  \"display name\": \"The Mistweaving Phantom\",\n  \"description\": \"There is a thief who calls themselves the \\\"Mistweaving Phantom\\\". They've been expertly robbing several merchant ships that were resting at Aurinax Harbor. No one ever spots them, and they never leave any evidence behind—hence the name.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Phantom\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::e407afd221ec9784",
     "original": "There is a thief who calls themselves the \"Mistweaving Phantom\". They've been expertly robbing several merchant ships that were resting at Aurinax Harbor. They've also been breaking into the magically secured offices of the workers' unions and stealing administrative documents. No one ever spots them, and they never leave any evidence behind—hence the name.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Phantom2\",\n  \"display name\": \"The Mistweaving Phantom\",\n  \"description\": \"There is a thief who calls themselves the \\\"Mistweaving Phantom\\\". They've been expertly robbing several merchant ships that were resting at Aurinax Harbor. They've also been breaking into the magically secured offices of the workers' unions and stealing administrative documents. No one ever spots them, and they never leave any evidence behind—hence the name.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Phantom\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::edf07ca5bae72895",
     "original": "There is a thief who calls themselves the \"Mistweaving Phantom\". They've been expertly robbing several merchant ships that were resting at Aurinax Harbor. They've also been breaking into the magically secured offices of the workers' unions and stealing administrative documents. Lastly, they broke into Stefanic Dracogen's office near the catwalk where Justin Waye fell from. They didn't steal the gold inside the safe, but they took the business documents inside. No one ever spots them, and they never leave any evidence behind—hence the name.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Phantom3\",\n  \"display name\": \"The Mistweaving Phantom\",\n  \"description\": \"There is a thief who calls themselves the \\\"Mistweaving Phantom\\\". They've been expertly robbing several merchant ships that were resting at Aurinax Harbor. They've also been breaking into the magically secured offices of the workers' unions and stealing administrative documents. Lastly, they broke into Stefanic Dracogen's office near the catwalk where Justin Waye fell from. They didn't steal the gold inside the safe, but they took the business documents inside. No one ever spots them, and they never leave any evidence behind—hence the name.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Phantom\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::65384cf0f1d95161",
     "original": "There is a thief who calls themselves the \"Mistweaving Phantom\". They've been expertly robbing several merchant ships that were resting at Aurinax Harbor. They've also been breaking into the magically secured offices of the workers' unions and stealing administrative documents. They also broke into Stefanic Dracogen's office near the catwalk where Justin Waye fell from. They didn't steal the gold inside the safe, but they took the business documents inside. Lastly, they've also targeted individuals who have been plotting against the king. No one ever spots them, and they never leave any evidence behind—hence the name.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Phantom4\",\n  \"display name\": \"The Mistweaving Phantom\",\n  \"description\": \"There is a thief who calls themselves the \\\"Mistweaving Phantom\\\". They've been expertly robbing several merchant ships that were resting at Aurinax Harbor. They've also been breaking into the magically secured offices of the workers' unions and stealing administrative documents. They also broke into Stefanic Dracogen's office near the catwalk where Justin Waye fell from. They didn't steal the gold inside the safe, but they took the business documents inside. Lastly, they've also targeted individuals who have been plotting against the king. No one ever spots them, and they never leave any evidence behind—hence the name.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Phantom\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::a2479098556ae533",
     "original": "Union Tensions",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"UnionTensions\",\n  \"display name\": \"Union Tensions\",\n  \"description\": \"There have been supposed tensions between the workers' unions in Aurinax and Stefanic Dracogen. The union head of the refinery workforce is Noah Morrison: the harbormaster of Aurinax Harbor and a close family friend.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"UnionTensions\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::402dbadf077d2852",
     "original": "There have been supposed tensions between the workers' unions in Aurinax and Stefanic Dracogen. The union head of the refinery workforce is Noah Morrison: the harbormaster of Aurinax Harbor and a close family friend.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"UnionTensions\",\n  \"display name\": \"Union Tensions\",\n  \"description\": \"There have been supposed tensions between the workers' unions in Aurinax and Stefanic Dracogen. The union head of the refinery workforce is Noah Morrison: the harbormaster of Aurinax Harbor and a close family friend.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"UnionTensions\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::SERIES TRANSLATION::bec8bdd7d9253e22",
     "original": "UnionTensions",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"UnionTensions\",\n  \"display name\": \"Union Tensions\",\n  \"description\": \"There have been supposed tensions between the workers' unions in Aurinax and Stefanic Dracogen. The union head of the refinery workforce is Noah Morrison: the harbormaster of Aurinax Harbor and a close family friend.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"UnionTensions\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::2a3d23d0c42134a2",
     "original": "There have been supposed tensions between the workers' unions in Aurinax and Stefanic Dracogen. However, this has been denied by the union head of the refinery workforce: Noah Morrison. Noah Morrison is the harbormaster of Aurinax Harbor and a close family friend.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"UnionTensions2\",\n  \"display name\": \"Union Tensions\",\n  \"description\": \"There have been supposed tensions between the workers' unions in Aurinax and Stefanic Dracogen. However, this has been denied by the union head of the refinery workforce: Noah Morrison. Noah Morrison is the harbormaster of Aurinax Harbor and a close family friend.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"UnionTensions\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::e465286c35a6db78",
     "original": "Shipping Report",
     "translation": "",
-    "context": "{\n  \"reference name\": \"ShipRep\",\n  \"display name\": \"Shipping Report\",\n  \"description\": \"Items that were robbed are marked in <color=red>red</color>.\\n\\n<b>From: New Astralis — To: Remus Virgilae</b>\\nItem: 100 kilograms of foreign books.\\n<b>From: Aethergarde — To: Von Sanctus Industries</b>\\nItem: <color=red>UNKNOWN</color>\\n<b>From: Rosacastor — To: Von Sanctus Industries</b>\\nItem: 300 tonnes of Arcane Constructs\\nItem: <color=red>30 tonnes of bronze.</color>\\n<b>From: Ixia — To: Prym Textiles</b>\\nItem: 5 tonnes of fine linens and silk.\\n<b>From: Ixia — To: Von Sanctus Industries</b>\\nItem: <color=red>50 kilograms of exotic jewels.</color>\\nItem: 10 tonnes of barreled wine.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+    "stage": 0,
+    "context": "{\n  \"reference name\": \"ShipRep\",\n  \"display name\": \"Shipping Report\",\n  \"description\": \"Items that were robbed are marked in &lt;color=red&gt;red&lt;/color&gt;.\\r\\n\\r\\n<b>From: New Astralis — To: Remus Virgilae</b>\\r\\nItem: 100 kilograms of foreign books.\\r\\n<b>From: Aethergarde — To: Von Sanctus Industries</b>\\r\\nItem: &lt;color=red&gt;UNKNOWN&lt;/color&gt;\\r\\n<b>From: Rosacastor — To: Von Sanctus Industries</b>\\r\\nItem: 300 tonnes of Arcane Constructs\\r\\nItem: &lt;color=red&gt;30 tonnes of bronze.&lt;/color&gt;\\r\\n<b>From: Ixia — To: Prym Textiles</b>\\r\\nItem: 5 tonnes of fine linens and silk.\\r\\n<b>From: Ixia — To: Von Sanctus Industries</b>\\r\\nItem: &lt;color=red&gt;50 kilograms of exotic jewels.&lt;/color&gt;\\r\\nItem: 10 tonnes of barreled wine.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
-    "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::9a8490310152c259",
-    "original": "Items that were robbed are marked in <color=red>red</color>.\n\n<b>From: New Astralis — To: Remus Virgilae</b>\nItem: 100 kilograms of foreign books.\n<b>From: Aethergarde — To: Von Sanctus Industries</b>\nItem: <color=red>UNKNOWN</color>\n<b>From: Rosacastor — To: Von Sanctus Industries</b>\nItem: 300 tonnes of Arcane Constructs\nItem: <color=red>30 tonnes of bronze.</color>\n<b>From: Ixia — To: Prym Textiles</b>\nItem: 5 tonnes of fine linens and silk.\n<b>From: Ixia — To: Von Sanctus Industries</b>\nItem: <color=red>50 kilograms of exotic jewels.</color>\nItem: 10 tonnes of barreled wine.",
+    "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::0f7c502841991473",
+    "original": "Items that were robbed are marked in <color=red>red</color>.\r\n\r\n<b>From: New Astralis — To: Remus Virgilae</b>\r\nItem: 100 kilograms of foreign books.\r\n<b>From: Aethergarde — To: Von Sanctus Industries</b>\r\nItem: <color=red>UNKNOWN</color>\r\n<b>From: Rosacastor — To: Von Sanctus Industries</b>\r\nItem: 300 tonnes of Arcane Constructs\r\nItem: <color=red>30 tonnes of bronze.</color>\r\n<b>From: Ixia — To: Prym Textiles</b>\r\nItem: 5 tonnes of fine linens and silk.\r\n<b>From: Ixia — To: Von Sanctus Industries</b>\r\nItem: <color=red>50 kilograms of exotic jewels.</color>\r\nItem: 10 tonnes of barreled wine.",
     "translation": "",
-    "context": "{\n  \"reference name\": \"ShipRep\",\n  \"display name\": \"Shipping Report\",\n  \"description\": \"Items that were robbed are marked in <color=red>red</color>.\\n\\n<b>From: New Astralis — To: Remus Virgilae</b>\\nItem: 100 kilograms of foreign books.\\n<b>From: Aethergarde — To: Von Sanctus Industries</b>\\nItem: <color=red>UNKNOWN</color>\\n<b>From: Rosacastor — To: Von Sanctus Industries</b>\\nItem: 300 tonnes of Arcane Constructs\\nItem: <color=red>30 tonnes of bronze.</color>\\n<b>From: Ixia — To: Prym Textiles</b>\\nItem: 5 tonnes of fine linens and silk.\\n<b>From: Ixia — To: Von Sanctus Industries</b>\\nItem: <color=red>50 kilograms of exotic jewels.</color>\\nItem: 10 tonnes of barreled wine.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
+    "stage": 0,
+    "context": "{\n  \"reference name\": \"ShipRep\",\n  \"display name\": \"Shipping Report\",\n  \"description\": \"Items that were robbed are marked in &lt;color=red&gt;red&lt;/color&gt;.\\r\\n\\r\\n<b>From: New Astralis — To: Remus Virgilae</b>\\r\\nItem: 100 kilograms of foreign books.\\r\\n<b>From: Aethergarde — To: Von Sanctus Industries</b>\\r\\nItem: &lt;color=red&gt;UNKNOWN&lt;/color&gt;\\r\\n<b>From: Rosacastor — To: Von Sanctus Industries</b>\\r\\nItem: 300 tonnes of Arcane Constructs\\r\\nItem: &lt;color=red&gt;30 tonnes of bronze.&lt;/color&gt;\\r\\n<b>From: Ixia — To: Prym Textiles</b>\\r\\nItem: 5 tonnes of fine linens and silk.\\r\\n<b>From: Ixia — To: Von Sanctus Industries</b>\\r\\nItem: &lt;color=red&gt;50 kilograms of exotic jewels.&lt;/color&gt;\\r\\nItem: 10 tonnes of barreled wine.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::32054ffd938ac3df",
     "original": "Leather Strap",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Strap\",\n  \"display name\": \"Leather Strap\",\n  \"description\": \"Justin was holding this leather strap before he fell into the vat of magical chemicals. It has \\\"VI\\\" engraved at the end of it. It's covered in traces of <b>conjuration</b> magic.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Strap\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::7b0d76e58ca0185c",
     "original": "Justin was holding this leather strap before he fell into the vat of magical chemicals. It has \"VI\" engraved at the end of it. It's covered in traces of <b>conjuration</b> magic.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Strap\",\n  \"display name\": \"Leather Strap\",\n  \"description\": \"Justin was holding this leather strap before he fell into the vat of magical chemicals. It has \\\"VI\\\" engraved at the end of it. It's covered in traces of <b>conjuration</b> magic.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Strap\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::SERIES TRANSLATION::02b88eeb53db091c",
     "original": "Strap",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Strap\",\n  \"display name\": \"Leather Strap\",\n  \"description\": \"Justin was holding this leather strap before he fell into the vat of magical chemicals. It has \\\"VI\\\" engraved at the end of it. It's covered in traces of <b>conjuration</b> magic.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Strap\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::ce84becada6f0d4e",
     "original": "Pet Collar",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Strap2\",\n  \"display name\": \"Pet Collar\",\n  \"description\": \"Two leather straps form to create what looks to be a pet collar. One piece is engraved with the letters \\\"VI\\\" and was dropped by Justin before he fell into the vat. The other piece is engraved with \\\"ETTA\\\" and was found lodged in the dented metal container in my house.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Strap2\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::c3ee3c86344c1d4c",
     "original": "Two leather straps form to create what looks to be a pet collar. One piece is engraved with the letters \"VI\" and was dropped by Justin before he fell into the vat. The other piece is engraved with \"ETTA\" and was found lodged in the dented metal container in my house.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Strap2\",\n  \"display name\": \"Pet Collar\",\n  \"description\": \"Two leather straps form to create what looks to be a pet collar. One piece is engraved with the letters \\\"VI\\\" and was dropped by Justin before he fell into the vat. The other piece is engraved with \\\"ETTA\\\" and was found lodged in the dented metal container in my house.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Strap2\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::SERIES TRANSLATION::ea7bd8b0c0c0ad57",
     "original": "Strap2",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Strap2\",\n  \"display name\": \"Pet Collar\",\n  \"description\": \"Two leather straps form to create what looks to be a pet collar. One piece is engraved with the letters \\\"VI\\\" and was dropped by Justin before he fell into the vat. The other piece is engraved with \\\"ETTA\\\" and was found lodged in the dented metal container in my house.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Strap2\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::b2c616d2e3c10f8a",
     "original": "This leather strap was lodged in one of the dented crevices of the box. It has \"ETTA\" engraved at the end of it.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"EttaStrap\",\n  \"display name\": \"Leather Strap\",\n  \"description\": \"This leather strap was lodged in one of the dented crevices of the box. It has \\\"ETTA\\\" engraved at the end of it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::9c12d24369ccc663",
     "original": "Justin's Ring",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Ring\",\n  \"display name\": \"Justin's Ring\",\n  \"description\": \"Justin was wearing this ring at the time of death. It somehow wasn't dissolved by the molten aetherite in the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::0a0e8296082f7e36",
     "original": "Justin was wearing this ring at the time of death. It somehow wasn't dissolved by the molten aetherite in the vat.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"Ring\",\n  \"display name\": \"Justin's Ring\",\n  \"description\": \"Justin was wearing this ring at the time of death. It somehow wasn't dissolved by the molten aetherite in the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::7e23f8446c818582",
     "original": "Mosourika's Testimony",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"RikaTest\",\n  \"display name\": \"Mosourika's Testimony\",\n  \"description\": \"Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. She saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"RikaTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::ac7f907a8c2140e2",
     "original": "Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. She saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"RikaTest\",\n  \"display name\": \"Mosourika's Testimony\",\n  \"description\": \"Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. She saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"RikaTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::SERIES TRANSLATION::9e20d53717312543",
     "original": "RikaTest",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"RikaTest\",\n  \"display name\": \"Mosourika's Testimony\",\n  \"description\": \"Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. She saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"RikaTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::7a83221ad2caa1e9",
     "original": "Witness Testimony",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"RikaTest2\",\n  \"display name\": \"Witness Testimony\",\n  \"description\": \"Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. Aster de Wyverngarde was also there at the time and saw Justin yelling at a hairless animal. \\n\\nThey both saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"RikaTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::e6e4b1cce10ddcb7",
     "original": "Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. Aster de Wyverngarde was also there at the time and saw Justin yelling at a hairless animal. \n\nThey both saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.",
     "translation": "",
+    "stage": 0,
     "context": "{\n  \"reference name\": \"RikaTest2\",\n  \"display name\": \"Witness Testimony\",\n  \"description\": \"Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. Aster de Wyverngarde was also there at the time and saw Justin yelling at a hairless animal. \\n\\nThey both saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"RikaTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   }
 ]
