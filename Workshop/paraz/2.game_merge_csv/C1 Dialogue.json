@@ -5804,511 +5804,511 @@
   {
     "key": "C1 Dialogue.csv::translation::996e612d3d335268",
     "original": "Tyrion: Your picture undeniably shows that my client's sword impaled the victim from the front,[p/] but if that’s really true—",
-    "translation": "",
+    "translation": "Tyrion: 你提交的照片显示，我委托人的佩剑从正面刺穿被害人，[p/]但如果确实如此——",
     "context": "{\n  \"id\": \"line:0569b87\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: Your picture undeniably shows that my client's sword impaled the victim from the front,[p/] but if that’s really true—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f3859b7a17046de3",
     "original": "Tyrion: —Why does the Autopsy say that he died from being stabbed in his back?!",
-    "translation": "",
+    "translation": "Tyrion: ——那为什么尸检报告显示他是死于来自后背的刺伤？",
     "context": "{\n  \"id\": \"line:0ad91c2\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: —Why does the Autopsy say that he died from being stabbed in his back?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4c3e4864899a2d39",
     "original": "Orym: ...What?!",
-    "translation": "",
+    "translation": "Orym: ……什么？！",
     "context": "{\n  \"id\": \"line:0ee7479\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Orym: ...What?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b14a10e64997847c",
     "original": "AriaC: Orym![p/][s/] You were supposed to submit [i]everything[/i] you had to me!",
-    "translation": "",
+    "translation": "AriaC: 奥蒙！[p/][s/]你应该把你知道的[i]一切内容[/i]提交给我！",
     "context": "{\n  \"id\": \"line:06383b7\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"AriaC: Orym![p/][s/] You were supposed to submit [i]everything[/i] you had to me!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3e651efc0b1ecbd7",
     "original": "AriaC: Why did you withhold this photo?!",
-    "translation": "",
+    "translation": "AriaC: 你为什么扣下了这张照片？！",
     "context": "{\n  \"id\": \"line:0b2d4f8\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"AriaC: Why did you withhold this photo?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f87a4c0034f300b2",
     "original": "Orym: T-[p/][s/]There was no point!",
-    "translation": "",
+    "translation": "Orym: 因、[p/][s/]因为这没什么意义啊！",
     "context": "{\n  \"id\": \"line:068198b\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Orym: T-[p/][s/]There was no point!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::15f753b769439616",
     "original": "Orym: She's a mage![p/][s/] It couldn’t have been anyone else!",
-    "translation": "",
+    "translation": "Orym: 她是个法师！[p/][s/]没可能是其他人作案了！",
     "context": "{\n  \"id\": \"line:068f2ad\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Orym: She's a mage![p/][s/] It couldn’t have been anyone else!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3c3fec2743a48f79",
     "original": "Murmurs rippled through the gallery.[p/] Even the judge shifted uncomfortably in his seat.",
-    "translation": "",
+    "translation": "旁听席上泛起一阵窃窃私语。[p/]甚至法官也在座位上不安地挪动起来。",
     "context": "{\n  \"id\": \"line:0c7c89b\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Murmurs rippled through the gallery.[p/] Even the judge shifted uncomfortably in his seat.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e78f8ef2614ee03c",
     "original": "Our justice system may have been corrupt,[p/] but they’d never get away with such a blatant error.",
-    "translation": "",
+    "translation": "我们的司法系统或许早已腐坏，[p/]但他们也难以无视如此明显的错误。",
     "context": "{\n  \"id\": \"line:08fc1a7\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Our justice system may have been corrupt,[p/] but they’d never get away with such a blatant error.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4ec0cecb3efab289",
     "original": "Judge: Order![p/][s/] Order in the court!",
-    "translation": "",
+    "translation": "Judge: 肃静！[p/][s/]注意法庭秩序！",
     "context": "{\n  \"id\": \"line:03a8ac4\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Judge: Order![p/][s/] Order in the court!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a9a164fec00a54b4",
     "original": "Judge: Mr. Cuthbert, what is the meaning of this?!",
-    "translation": "",
+    "translation": "Judge: 卡斯伯特先生，这是怎么回事？！",
     "context": "{\n  \"id\": \"line:07b0322\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Judge: Mr. Cuthbert, what is the meaning of this?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::52d094c35bcb03dc",
     "original": "Tyrion: Your Honor,[p/] this photo clearly shows my client’s sword impaling him from the front!",
-    "translation": "",
+    "translation": "Tyrion: 法官阁下，[p/]这张照片的确清楚地显示了我委托人的佩剑从前方刺穿了被害人！",
     "context": "{\n  \"id\": \"line:0c363bb\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: Your Honor,[p/] this photo clearly shows my client’s sword impaling him from the front!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::348ba17986d78f55",
     "original": "Tyrion: Which means there's only one way for the autopsy to be true!",
-    "translation": "",
+    "translation": "Tyrion: 这意味着只剩下一种符合尸检报告的记录的可能性！",
     "context": "{\n  \"id\": \"line:0d4588b\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: Which means there's only one way for the autopsy to be true!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::53ffd9ea9d119a0f",
     "original": "Tyrion: The sword would've needed to be inserted into the wound [i]after[/i] the victim had died!",
-    "translation": "",
+    "translation": "Tyrion: 这把剑必然是在受害者被杀死[i]之后[/i]才插入他的伤口！",
     "context": "{\n  \"id\": \"line:08b95ca\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: The sword would've needed to be inserted into the wound [i]after[/i] the victim had died!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7b1aed515aba35bb",
     "original": "Orym: T-[p/][s/]That’s crazy!",
-    "translation": "",
+    "translation": "Orym: 这、[p/][s/]这太荒谬了！",
     "context": "{\n  \"id\": \"line:013b6e6\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Orym: T-[p/][s/]That’s crazy!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::78b5514790a23b66",
     "original": "Tyrion: Then why don't you enlighten me, Commander White?",
-    "translation": "",
+    "translation": "Tyrion: 那您为什么不开导我们一下，还有什么可能呢，怀特指挥官？",
     "context": "{\n  \"id\": \"line:009049b\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: Then why don't you enlighten me, Commander White?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f65710b84d11f88d",
     "original": "Tyrion: Do you think my client impaled the victim hilt-first with her sword?!",
-    "translation": "",
+    "translation": "Tyrion: 你认为我的委托人是用剑柄刺穿了受害者吗？",
     "context": "{\n  \"id\": \"line:005662f\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: Do you think my client impaled the victim hilt-first with her sword?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::68566c2db51b3ff6",
     "original": "Orym: I—",
-    "translation": "",
+    "translation": "Orym: 我——",
     "context": "{\n  \"id\": \"line:061d48e\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Orym: I—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5ec4e1a674487acc",
     "original": "Tyrion: Or do you think she stabbed him through the chest,[p/] removed it,[p/] and then placed her sword in the body to frame herself?!",
-    "translation": "",
+    "translation": "Tyrion: 或者你认为她是先从后方刺穿了他的胸膛，[p/]然后又拔出来，[p/]再然后又将她的剑插回去来栽赃给她自己吗？",
     "context": "{\n  \"id\": \"line:06f470d\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: Or do you think she stabbed him through the chest,[p/] removed it,[p/] and then placed her sword in the body to frame herself?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5079a9d939a38842",
     "original": "Orym: Well,[p/] [i]that's[/i]—",
-    "translation": "",
+    "translation": "Orym: 好吧，[p/] [i]也可能[/i]——",
     "context": "{\n  \"id\": \"line:016be31\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Orym: Well,[p/] [i]that's[/i]—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::283fe54788182523",
     "original": "Tyrion: No.[p/][s/] What happened here is obvious!",
-    "translation": "",
+    "translation": "Tyrion: 没有可能。[p/][s/]实际发生的情况已经很明显了！",
     "context": "{\n  \"id\": \"line:0ea507e\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: No.[p/][s/] What happened here is obvious!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::73bf02a274062488",
     "original": "Tyrion: The real murderer stuck the sword through the victim’s wound to implicate my client!",
-    "translation": "",
+    "translation": "Tyrion: 真正的凶手将剑刺入受害者的伤口，嫁祸给我的委托人！",
     "context": "{\n  \"id\": \"line:00d6195\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: The real murderer stuck the sword through the victim’s wound to implicate my client!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6fe351c58c6eafcd",
     "original": "Tyrion: But they made a careless mistake and stuck the sword through the opposite side!",
-    "translation": "",
+    "translation": "Tyrion: 但他犯了个粗心的错误，把剑插反了！",
     "context": "{\n  \"id\": \"line:07aeb57\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: But they made a careless mistake and stuck the sword through the opposite side!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8385ee7bd5e6da45",
     "original": "Celeste: You’re actually pretty good at this...!",
-    "translation": "",
+    "translation": "Celeste: 你真的很擅长这个哎……！",
     "context": "{\n  \"id\": \"line:0984917\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Celeste: You’re actually pretty good at this...!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::05ed0578f37abedb",
     "original": "AriaC: It appears I underestimated you,[p/] but you’ve still gotten ahead of yourself.",
-    "translation": "",
+    "translation": "AriaC: 是我小看你了。[p/]但你还是太着急下结论。",
     "context": "{\n  \"id\": \"line:00f2097\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: It appears I underestimated you,[p/] but you’ve still gotten ahead of yourself.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d94d474ab94dea4a",
     "original": "Judge: I-[p/][s/]Is that so, Ms. Steelwind?",
-    "translation": "",
+    "translation": "Judge: 是、[p/][s/]是这样吗，斯蒂尔文德女士？",
     "context": "{\n  \"id\": \"line:0a64281\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"Judge: I-[p/][s/]Is that so, Ms. Steelwind?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::37edca0f58862757",
     "original": "AriaC: ...Let me ask the defense one question, Mr. Cuthbert.",
-    "translation": "",
+    "translation": "AriaC: ……那我要问辩方一个问题，卡斯伯特先生。",
     "context": "{\n  \"id\": \"line:027dc59\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: ...Let me ask the defense one question, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e1b055ee873eff15",
     "original": "AriaC: If your client didn’t kill Flinhart McCoy,[p/] then who did?",
-    "translation": "",
+    "translation": "AriaC: 如果杀害弗林哈特·麦考伊的人不是你的委托人，[p/]那谁是？",
     "context": "{\n  \"id\": \"line:0763bec\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: If your client didn’t kill Flinhart McCoy,[p/] then who did?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::99021b6c66b4d85e",
     "original": "Tyrion: ...How should I know?",
-    "translation": "",
+    "translation": "Tyrion: ……我为什么会知道？",
     "context": "{\n  \"id\": \"line:0d41cc6\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"Tyrion: ...How should I know?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4fc578fa5f956455",
     "original": "Tyrion: If I'm not mistaken,[p/] it's the Commander's job to figure that out.",
-    "translation": "",
+    "translation": "Tyrion: 如果我的推论没有问题，[p/]找出真凶是那边的指挥官的工作。",
     "context": "{\n  \"id\": \"line:0a23028\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"Tyrion: If I'm not mistaken,[p/] it's the Commander's job to figure that out.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::392d4f31785d1eb3",
     "original": "AriaC: Oh,[p/] I’m well aware of the Commander’s incompetence,[p/] but one fact still stands.",
-    "translation": "",
+    "translation": "AriaC: 噢，[p/]我当然已经注意到了指挥官的失职责任，[p/]但仍有一个事实不容辩驳。",
     "context": "{\n  \"id\": \"line:01d8307\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: Oh,[p/] I’m well aware of the Commander’s incompetence,[p/] but one fact still stands.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8a89c42d36d6f9e2",
     "original": "AriaC: There were magical traces on the wound and the sword.",
-    "translation": "",
+    "translation": "AriaC: 魔法的痕迹同时附着在尸体与她那把剑上。",
     "context": "{\n  \"id\": \"line:072df48\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: There were magical traces on the wound and the sword.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::efa94f5df742232a",
     "original": "AriaC: Would you like me to tell you how many mages live in that small town?",
-    "translation": "",
+    "translation": "AriaC: 你能否告诉我在那座小村庄里有几个法师呢？",
     "context": "{\n  \"id\": \"line:04b520a\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: Would you like me to tell you how many mages live in that small town?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::094cbd4e3852edb8",
     "original": "I didn't like where she was going with this.",
-    "translation": "",
+    "translation": "我不希望她继续说下去。",
     "context": "{\n  \"id\": \"line:0c0725a\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"I didn't like where she was going with this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::aacb82d8025cd5cb",
     "original": "AriaC: Only one.[p/] The defendant is the only registered mage who lives in Kornhaven.",
-    "translation": "",
+    "translation": "AriaC: 只有一名。[p/]被告是科尔哈文里唯一一个注册的法师。",
     "context": "{\n  \"id\": \"line:097d5ba\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: Only one.[p/] The defendant is the only registered mage who lives in Kornhaven.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0141d2d44ba922f1",
     "original": "Right...[p/] Kornhaven was a village of farmers.[p/][s/] Celeste was the only mage there!",
-    "translation": "",
+    "translation": "是啊……[p/] 科尔哈文是个只有农民的村子……[p/][s/]塞莱斯特是那里唯一的法师！",
     "context": "{\n  \"id\": \"line:036784c\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"Right...[p/] Kornhaven was a village of farmers.[p/][s/] Celeste was the only mage there!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c150f911dd6391f7",
     "original": "AriaC: The defendant was also established to have been with the victim minutes before his time of death.",
-    "translation": "",
+    "translation": "AriaC: 经查证，被告在受害人死亡前几分钟曾与其在一起。",
     "context": "{\n  \"id\": \"line:035b843\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: The defendant was also established to have been with the victim minutes before his time of death.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7e706edb5fd78a12",
     "original": "AriaC: In addition to that,[p/] I have several witnesses who heard them arguing.",
-    "translation": "",
+    "translation": "AriaC: 再补充一句，[p/]我们还有好几位目击者当时听到他们的争吵。",
     "context": "{\n  \"id\": \"line:0650429\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: In addition to that,[p/] I have several witnesses who heard them arguing.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::478f1a80256ef858",
     "original": "AriaC: You,[p/] on the other hand,[p/] can only implicate an unknown assailant.",
-    "translation": "",
+    "translation": "AriaC: 而你，[p/]与此同时，[p/]只能提出一个未知的袭击者。",
     "context": "{\n  \"id\": \"line:0328325\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: You,[p/] on the other hand,[p/] can only implicate an unknown assailant.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::59ba074cb7cd89b2",
     "original": "AriaC: I doubt you could even tell me who they are.",
-    "translation": "",
+    "translation": "AriaC: 我怀疑你是否有能力告诉我那究竟会是谁。",
     "context": "{\n  \"id\": \"line:0ae8643\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"AriaC: I doubt you could even tell me who they are.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::756a0f2c5b568a77",
     "original": "Tyrion: ...Even so,[p/] it’s clear that the prosecution can’t reliably prove how the victim was murdered.",
-    "translation": "",
+    "translation": "Tyrion: ……即便如此，[p/]很显然检方并没能可靠地证明被害人究竟如何遭到杀害。",
     "context": "{\n  \"id\": \"line:01443db\",\n  \"node\": \"AriaCounter\",\n  \"text\": \"Tyrion: ...Even so,[p/] it’s clear that the prosecution can’t reliably prove how the victim was murdered.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ae9790ff74082ef3",
     "original": "Judge: Hm...[p/] I can’t say that the prosecution’s evidence is irrefutable,[p/] but the evidence still leans heavily against the defense.",
-    "translation": "",
+    "translation": "Judge: 嗯……[p/]检方提供的证据确实不能说是无可辩驳的，[p/]但这些证据仍然对辩方极为不利。",
     "context": "{\n  \"id\": \"line:04e3d70\",\n  \"node\": \"JudgeSuspend\",\n  \"text\": \"Judge: Hm...[p/] I can’t say that the prosecution’s evidence is irrefutable,[p/] but the evidence still leans heavily against the defense.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::355351cb605d962f",
     "original": "Judge: There are far too many unanswered questions for me to pass a verdict.",
-    "translation": "",
+    "translation": "Judge: 太多未解之谜萦绕此案，因此我无法在此下达判决。",
     "context": "{\n  \"id\": \"line:0734372\",\n  \"node\": \"JudgeSuspend\",\n  \"text\": \"Judge: There are far too many unanswered questions for me to pass a verdict.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9fad3eadb2f46085",
     "original": "Judge: We will give the Inquisition time to investigate the crime scene and clear these unknowns.",
-    "translation": "",
+    "translation": "JUDGE: 我们将给予裁判所一些时间来充分调查犯罪现场，解释这些未解之谜。",
     "context": "{\n  \"id\": \"line:037b188\",\n  \"node\": \"JudgeSuspend\",\n  \"text\": \"Judge: We will give the Inquisition time to investigate the crime scene and clear these unknowns.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d765a7a0de1ad42d",
     "original": "Judge: ...I suggest that they conduct their investigation more thoroughly this time.",
-    "translation": "",
+    "translation": "Judge: ……我建议你们这次要调查更彻底一些。",
     "context": "{\n  \"id\": \"line:07709e7\",\n  \"node\": \"JudgeSuspend\",\n  \"text\": \"Judge: ...I suggest that they conduct their investigation more thoroughly this time.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::18dc2f3b26179c8f",
     "original": "Judge: We will resume the trial tomorrow morning.[p/] Court is adjourned.",
-    "translation": "",
+    "translation": "Judge: 审理将在明日上午继续进行。[p/]休庭。",
     "context": "{\n  \"id\": \"line:0670f39\",\n  \"node\": \"JudgeSuspend\",\n  \"text\": \"Judge: We will resume the trial tomorrow morning.[p/] Court is adjourned.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::56303529f0e89793",
     "original": "Ruby: ...Hello, Cuthbert.",
-    "translation": "",
+    "translation": "Ruby: ……你好，卡斯伯特。",
     "context": "{\n  \"id\": \"line:061ca3d\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Ruby: ...Hello, Cuthbert.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::84416d8e44462a1c",
     "original": "Tyrion: O-[p/][s/]Oh, Ms. Tymora.",
-    "translation": "",
+    "translation": "Tyrion: 啊、[p/][s/]噢，泰摩拉女士。",
     "context": "{\n  \"id\": \"line:03c4b52\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Tyrion: O-[p/][s/]Oh, Ms. Tymora.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::44f23fb9555070ae",
     "original": "I tensed as she approached me.[p/] I’d been so focused on Celeste’s case,[p/] I hadn’t even thought about how I’d left things with my mentor.",
-    "translation": "",
+    "translation": "她走近时，我一下子紧张起来。[p/]我一直专注在塞莱斯特的案件上，[p/]根本就没去想和我导师之间还有没解决的问题。",
     "context": "{\n  \"id\": \"line:0165e83\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"I tensed as she approached me.[p/] I’d been so focused on Celeste’s case,[p/] I hadn’t even thought about how I’d left things with my mentor.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::92833369c5b32598",
     "original": "Scaled Lord...[p/] She had probably been in the gallery too...",
-    "translation": "",
+    "translation": "鳞甲领主啊……[p/]她刚肯定也在旁听席上……",
     "context": "{\n  \"id\": \"line:0cf08e2\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Scaled Lord...[p/] She had probably been in the gallery too...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::83e7b1ec4f3ef7ff",
     "original": "She must've seen how I froze up during the first cross-examination.",
-    "translation": "",
+    "translation": "她肯定看到了我在第一次交叉询问时呆若木鸡的丑样。",
     "context": "{\n  \"id\": \"line:0ec0a4d\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"She must've seen how I froze up during the first cross-examination.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cdb1dd471f9259ab",
     "original": "Ruby: ...Your job is to put your client at ease,[p/] not the other way around.",
-    "translation": "",
+    "translation": "Ruby: ……你的工作是让委托人放心，[p/]而不是反过来啊。",
     "context": "{\n  \"id\": \"line:0424f77\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Ruby: ...Your job is to put your client at ease,[p/] not the other way around.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c333842c07863706",
     "original": "Ruby: I'm sure she was just snapping you out of it,[p/] but everyone saw her become violent with you.",
-    "translation": "",
+    "translation": "Ruby: 虽然我肯定她是想让你振作起来，[p/]但每个人都看到她对你作出暴力行为。",
     "context": "{\n  \"id\": \"line:04939f1\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Ruby: I'm sure she was just snapping you out of it,[p/] but everyone saw her become violent with you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::85a3e2c78ce6f69f",
     "original": "Ruby: That's not exactly [i]helpful[/i] if you want to prove she's not a violent murderer.",
-    "translation": "",
+    "translation": "Ruby: 如果要证明她不是施暴的凶手，这并不会[i]有帮助[/i]。",
     "context": "{\n  \"id\": \"line:032a66a\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Ruby: That's not exactly [i]helpful[/i] if you want to prove she's not a violent murderer.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4dc1f33c0cf1d1a3",
     "original": "Ruby: Make no mistake.[p/] The prosecution will use that to their advantage.",
-    "translation": "",
+    "translation": "Ruby: 不能再犯错了。[p/]检方会用这一点建立优势。",
     "context": "{\n  \"id\": \"line:0562b61\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Ruby: Make no mistake.[p/] The prosecution will use that to their advantage.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9b82d569423d3388",
     "original": "Celeste: ...What’s wrong with you?[p/] He did fine.",
-    "translation": "",
+    "translation": "Celeste: ……你有什么毛病？[p/]他做得很好。",
     "context": "{\n  \"id\": \"line:0546320\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Celeste: ...What’s wrong with you?[p/] He did fine.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a173d1f73f968f6f",
     "original": "Ruby: McCoy, if the Inquisition didn’t botch the investigation,[p/] Cuthbert would’ve never been able to buy this much time.",
-    "translation": "",
+    "translation": "Ruby: 麦考伊，如果不是裁判所的调查有疏漏，，[p/]卡斯伯特根本没法争取到这么多时间。",
     "context": "{\n  \"id\": \"line:00c9277\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Ruby: McCoy, if the Inquisition didn’t botch the investigation,[p/] Cuthbert would’ve never been able to buy this much time.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ac10fdd134bb3fe0",
     "original": "Celeste: In case you’ve forgotten,[p/] he’s my defense attorney,[p/] not you.",
-    "translation": "",
+    "translation": "Celeste: 你别忘了，[p/]我的辩护律师是他，[p/]而不是你。",
     "context": "{\n  \"id\": \"line:0403d31\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Celeste: In case you’ve forgotten,[p/] he’s my defense attorney,[p/] not you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b2f3ea0e144598a5",
     "original": "Celeste: I don’t get why he has to take notes from you.",
-    "translation": "",
+    "translation": "Celeste: 我不明白他为何要在你背后亦步亦趋。",
     "context": "{\n  \"id\": \"line:0f2b6c0\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Celeste: I don’t get why he has to take notes from you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::80943e66bbd9ff15",
     "original": "Tyrion: ...No, she’s right, Celeste.[p/] I need to do better.",
-    "translation": "",
+    "translation": "Tyrion: ……不，她说得对，塞莱斯特。[p/]我的确需要做得更好。",
     "context": "{\n  \"id\": \"line:0f3abd5\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Tyrion: ...No, she’s right, Celeste.[p/] I need to do better.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5fc413c892e8b5d8",
     "original": "Tyrion: I can’t ever let myself freeze up like that again.",
-    "translation": "",
+    "translation": "Tyrion: 我不能再让自己再一次像那样呆在那里。",
     "context": "{\n  \"id\": \"line:0ed917e\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Tyrion: I can’t ever let myself freeze up like that again.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e59396356673d5ed",
     "original": "Tyrion: I might not be so lucky next time.",
-    "translation": "",
+    "translation": "Tyrion: 下一次我大概就没有那么幸运了。",
     "context": "{\n  \"id\": \"line:01d07bc\",\n  \"node\": \"RubyLobby\",\n  \"text\": \"Tyrion: I might not be so lucky next time.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a9d7d14ef2918de1",
     "original": "Ruby: Other than that,[p/] I’ll admit that you did well.",
-    "translation": "",
+    "translation": "Ruby: 除了那一部分，[p/]我承认你都做得很不错。",
     "context": "{\n  \"id\": \"line:013e631\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: Other than that,[p/] I’ll admit that you did well.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dd09585f7c8b472e",
     "original": "Ruby: You cross-examined the Commander adequately,[p/] and you handled Steelwind’s rebuttals as well as you could have.",
-    "translation": "",
+    "translation": "Ruby: 你合理地在交叉询问中指出指挥官的错误，[p/]而且尽你所能地接住了斯蒂尔文德的反驳。",
     "context": "{\n  \"id\": \"line:0f3c00f\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: You cross-examined the Commander adequately,[p/] and you handled Steelwind’s rebuttals as well as you could have.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b477bda88efbe95f",
     "original": "I remembered how Prosecutor Steelwind was glaring at me at the start of the trial...",
-    "translation": "",
+    "translation": "我回想起斯蒂尔文德检察官在庭审开始时看我的眼神……",
     "context": "{\n  \"id\": \"line:0dd3e9a\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"I remembered how Prosecutor Steelwind was glaring at me at the start of the trial...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5843976fbe08dbda",
     "original": "Even thinking about it was enough to make me nauseous.",
-    "translation": "",
+    "translation": "光是想想就让我觉得恶心。",
     "context": "{\n  \"id\": \"line:0d34c58\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Even thinking about it was enough to make me nauseous.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1fb2067676125800",
     "original": "\"Steelwind\"...[p/] Why did that name sound so familiar?",
-    "translation": "",
+    "translation": "\"斯蒂尔文德\"……[p/]这个名字为什么那么熟悉？",
     "context": "{\n  \"id\": \"line:0a06206\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"\\\"Steelwind\\\"...[p/] Why did that name sound so familiar?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::da0c96bc5a511483",
     "original": "Tyrion: ...Wait,[p/] isn’t House Steelwind one of the Four Pillar Families?",
-    "translation": "",
+    "translation": "Tyrion: .……等等，[p/]斯蒂尔文德家不就是四大支柱家族之一吗？",
     "context": "{\n  \"id\": \"line:02f5169\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Tyrion: ...Wait,[p/] isn’t House Steelwind one of the Four Pillar Families?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2a151b422540e5bd",
     "original": "Celeste: That’s right![p/] Lucio Steelwind is the Grand General of Wyverngarde’s military!",
-    "translation": "",
+    "translation": "Celeste: 对啊！[p/]卢西奥·斯蒂尔文德就是维文加德王国军的i大将军嘛！",
     "context": "{\n  \"id\": \"line:0c0c0ca\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Celeste: That’s right![p/] Lucio Steelwind is the Grand General of Wyverngarde’s military!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::32c1f55b98a5236e",
     "original": "Celeste: Hasn't he been caught up in a lot of scandals recently?",
-    "translation": "",
+    "translation": "Celeste: 他最近不是卷入了好多丑闻吗？",
     "context": "{\n  \"id\": \"line:0027a56\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Celeste: Hasn't he been caught up in a lot of scandals recently?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7c19188154719cf2",
     "original": "Ruby: \"Scandals\"?[p/][s/] He's been having people killed by the thousands.",
-    "translation": "",
+    "translation": "Ruby: “丑闻”吗？[p/][s/]他已经让数以千计的人被杀死了。",
     "context": "{\n  \"id\": \"line:09c130e\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: \\\"Scandals\\\"?[p/][s/] He's been having people killed by the thousands.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::85ed26531ffaa19e",
     "original": "Right...[p/] I remember seeing several articles about him in the Ratholme Gazette.",
-    "translation": "",
+    "translation": "是的……[p/]我记得在《瑞思霍姆公报》上看到好几篇关于他的文章。",
     "context": "{\n  \"id\": \"line:0d9f0f2\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Right...[p/] I remember seeing several articles about him in the Ratholme Gazette.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bb949fcbb406ffc7",
     "original": "In recent years,[p/] groups voicing their grievances against the Crown had begun to surface in the countryside.",
-    "translation": "",
+    "translation": "近年来，[p/] 乡村地区开始出现一些公开表示对王室不满的团体。",
     "context": "{\n  \"id\": \"line:007a7e5\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"In recent years,[p/] groups voicing their grievances against the Crown had begun to surface in the countryside.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::31ffab0dbbc3cea6",
     "original": "King Olivier would answer their complaints by unleashing Steelwind’s soldiers on these so-called “insurrectionists”.",
-    "translation": "",
+    "translation": "而奥利维尔王的回复就是派遣斯蒂尔文德的士兵镇压这些所谓的“叛乱分子”。",
     "context": "{\n  \"id\": \"line:060978e\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"King Olivier would answer their complaints by unleashing Steelwind’s soldiers on these so-called “insurrectionists”.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e4ee5ebc4221a7ed",
     "original": "More often than not,[p/] their peaceful protests turned violent,[p/] leading to bloody retaliations from Lucio's forces.",
-    "translation": "",
+    "translation": "他们的和平抗议往往会变成暴力反抗，[p/]导致卢西奥的军队进行血腥报复。",
     "context": "{\n  \"id\": \"line:09816af\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"More often than not,[p/] their peaceful protests turned violent,[p/] leading to bloody retaliations from Lucio's forces.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8f2496bd06f39467",
     "original": "Ruby: And Aria is Lucio Steelwind’s only heir.",
-    "translation": "",
+    "translation": "Ruby: 而这位阿莉亚是卢西奥·斯蒂尔文德唯一的后继。",
     "context": "{\n  \"id\": \"line:0585d36\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: And Aria is Lucio Steelwind’s only heir.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4f212ac1176b2094",
     "original": "Ruby: When I saw her name on the docket,[p/] I wrote her off as a noble roleplaying for fun.",
-    "translation": "",
+    "translation": "Ruby: 当我在案件记录上看到她名字的时候，[p/]我以为她只是个来玩过家家的贵族。",
     "context": "{\n  \"id\": \"line:0c0cd20\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: When I saw her name on the docket,[p/] I wrote her off as a noble roleplaying for fun.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1c5070d66628566a",
     "original": "Ruby: But she’s good—[p/]better than most of the prosecutors [i]I’ve[/i] faced.",
-    "translation": "",
+    "translation": "Ruby: 但她做得很好——[p/]比我大多数[i]抗衡过[/i]的检察官都要好。",
     "context": "{\n  \"id\": \"line:01471ae\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: But she’s good—[p/]better than most of the prosecutors [i]I’ve[/i] faced.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::839c3e8cf5515c5b",
     "original": "Ruby: She's taking this seriously,[p/] and with what Flinhart was doing,[p/] I can't help but wonder if the prosecutor is acting on her father's behalf.",
-    "translation": "",
+    "translation": "Ruby: 她非常认真地对待工作，[p/]而且考虑到弗林哈特的活动，[p/] 我不禁怀疑，这位检察官是否是在代表她父亲行事。",
     "context": "{\n  \"id\": \"line:097d173\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: She's taking this seriously,[p/] and with what Flinhart was doing,[p/] I can't help but wonder if the prosecutor is acting on her father's behalf.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7b5d9d399cd3bfee",
     "original": "Tyrion: Do you think Prosecutor Steelwind is protecting the real killer?",
-    "translation": "",
+    "translation": "Tyrion: 你认为斯蒂尔文德检察官在包庇真凶？",
     "context": "{\n  \"id\": \"line:04e7a25\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Tyrion: Do you think Prosecutor Steelwind is protecting the real killer?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4eba935013aab8d2",
     "original": "Ruby: The Inquisition knights [i]were[/i] the first responders to the scene.",
-    "translation": "",
+    "translation": "Ruby: 裁判所的骑士们是[i]最先[/i]赶到现场的。",
     "context": "{\n  \"id\": \"line:086d4fb\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: The Inquisition knights [i]were[/i] the first responders to the scene.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eabf758e18afa834",
     "original": "Ruby: Didn't that strike you as odd?",
-    "translation": "",
+    "translation": "Ruby: 你不觉得这很奇怪吗？",
     "context": "{\n  \"id\": \"line:0090292\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: Didn't that strike you as odd?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::be0493ea5182a1a4",
     "original": "Tyrion: ...Right.[p/][s/] In a small town like Kornhaven,[p/] the village militia would be the first people there.",
-    "translation": "",
+    "translation": "Tyrion: ……对啊。[p/][s/]像科尔哈文这种小地方，[p/]驻村卫兵才应该是最先赶到的。",
     "context": "{\n  \"id\": \"line:0e17c33\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Tyrion: ...Right.[p/][s/] In a small town like Kornhaven,[p/] the village militia would be the first people there.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::511ea870c7669a2b",
     "original": "Ruby: For the Inquisition to respond so quickly,[p/] they would've needed to know that magic was used at all.",
-    "translation": "",
+    "translation": "Ruby: 裁判所能这么快响应，[p/]他们应该是知道这个案件使用了法术。",
     "context": "{\n  \"id\": \"line:04e9bc8\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: For the Inquisition to respond so quickly,[p/] they would've needed to know that magic was used at all.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::52ba0e5b7242d83f",
     "original": "Ruby: This whole mess feels a little too staged,[p/] and with a [i]Steelwind[/i] involved,[p/] this whole situation reeks of corruption.",
-    "translation": "",
+    "translation": "Ruby: 整个过程都感觉像是安排好的，[p/]而且[i]斯蒂尔文德[/i]也参与了进来，[p/] 从里到外都散发着腐败的气息。",
     "context": "{\n  \"id\": \"line:003d1e2\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: This whole mess feels a little too staged,[p/] and with a [i]Steelwind[/i] involved,[p/] this whole situation reeks of corruption.\"\n}"
   },
   {
