@@ -5714,91 +5714,91 @@
   {
     "key": "C1 Dialogue.csv::translation::a176104334983e4d",
     "original": "Orym: You can see it right in that photo.[p/] She stabbed him right through the chest using [b]Mage Blade[/b].",
-    "translation": "",
+    "translation": "Orym: 你能在那张照片里看到。[p/]她用[b]法术剑刃[/b]刺穿了被害人的胸膛。",
     "context": "{\n  \"id\": \"line:0e40a0f\",\n  \"node\": \"Orym2Cross\",\n  \"text\": \"Orym: You can see it right in that photo.[p/] She stabbed him right through the chest using [b]Mage Blade[/b].\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f68dbd4672856296",
     "original": "He was right about the photo.",
-    "translation": "",
+    "translation": "他对照片的描述是正确的。",
     "context": "{\n  \"id\": \"line:0242cbc\",\n  \"node\": \"Orym2Cross\",\n  \"text\": \"He was right about the photo.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1c89676756cc9728",
     "original": "It clearly showed that he was stabbed from the front.",
-    "translation": "",
+    "translation": "上面确实显示被害人是从前方被刺杀的。",
     "context": "{\n  \"id\": \"line:0c887e0\",\n  \"node\": \"Orym2Cross\",\n  \"text\": \"It clearly showed that he was stabbed from the front.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f0d2ae3a4893efb7",
     "original": "...So why did that bother me so much?",
-    "translation": "",
+    "translation": "……所以我为什么这么在意这一点呢？",
     "context": "{\n  \"id\": \"line:0e5581d\",\n  \"node\": \"Orym2Cross\",\n  \"text\": \"...So why did that bother me so much?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c70c5b4590146edc",
     "original": "His testimony was a little bit vague this time.",
-    "translation": "",
+    "translation": "他这次的证词有一点模糊。",
     "context": "{\n  \"id\": \"line:07d3688\",\n  \"node\": \"Orym2Cross\",\n  \"text\": \"His testimony was a little bit vague this time.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::59b499c267f6c79b",
     "original": "PRESSING his statements might prove useful in a situation like this.",
-    "translation": "",
+    "translation": "在这种情况下，<size=1.5em>追问</size>证词或许会有用处。",
     "context": "{\n  \"id\": \"line:016060c\",\n  \"node\": \"Orym2Cross\",\n  \"text\": \"PRESSING his statements might prove useful in a situation like this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::aacad0e5964d0578",
     "original": "That would let me ask questions about his testimony and discover more details about the case.",
-    "translation": "",
+    "translation": "那可以让我对他的证词进一步问询，找出案件中更多的细节。",
     "context": "{\n  \"id\": \"line:0c3324a\",\n  \"node\": \"Orym2Cross\",\n  \"text\": \"That would let me ask questions about his testimony and discover more details about the case.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::661ebebf52bf1a1e",
     "original": "I might even be able to obtain new pieces of evidence to use in my cross-examination.",
-    "translation": "",
+    "translation": "甚至可能找出一些可以在交叉询问有用的新证据。",
     "context": "{\n  \"id\": \"line:0adce36\",\n  \"node\": \"Orym2Cross\",\n  \"text\": \"I might even be able to obtain new pieces of evidence to use in my cross-examination.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0e9592f5a82e2a2b",
     "original": "Objection",
-    "translation": "",
+    "translation": "异议",
     "context": "{\n  \"id\": \"line:0b2b4ab\",\n  \"node\": \"Orym2Cross\",\n  \"text\": \"Objection\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e3bbf43bc7f4d6bf",
     "original": "Tyrion: I’m sorry, Commander White,[p/] but you’ve shown us an even more glaring contradiction.",
-    "translation": "",
+    "translation": "Tyrion: 怀特指挥官，痕抱歉。[p/]但你为我们展露了一个更明显的矛盾。",
     "context": "{\n  \"id\": \"line:0454fee\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: I’m sorry, Commander White,[p/] but you’ve shown us an even more glaring contradiction.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::92de42cba9f9f840",
     "original": "Orym: Oh, yeah?",
-    "translation": "",
+    "translation": "Orym: 哦，真的吗？",
     "context": "{\n  \"id\": \"line:01bc4b2\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Orym: Oh, yeah?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1b12dafdf121813b",
     "original": "Tyrion: In your testimony,[p/] you said that my client stabbed the victim \"right through the chest\".",
-    "translation": "",
+    "translation": "Tyrion: 你的证词提到，[p/]我的委托人“从正面”刺穿了被害人的胸膛。",
     "context": "{\n  \"id\": \"line:030dd71\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: In your testimony,[p/] you said that my client stabbed the victim \\\"right through the chest\\\".\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3981417effbb91c1",
     "original": "Orym: You can see it right there in that picture.",
-    "translation": "",
+    "translation": "Orym: 你在照片里能很清楚的看到啊。",
     "context": "{\n  \"id\": \"line:05b515b\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Orym: You can see it right there in that picture.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0975153150b33105",
     "original": "Orym: So, where’s your \"contradiction\"?",
-    "translation": "",
+    "translation": "Orym: 所以，你说的“矛盾”在哪儿呢？",
     "context": "{\n  \"id\": \"line:0590da9\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Orym: So, where’s your \\\"contradiction\\\"?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2dad4b982dac5bd9",
     "original": "Tyrion: That’s exactly the problem, Commander.",
-    "translation": "",
+    "translation": "Tyrion: 这正是问题所在，指挥官。",
     "context": "{\n  \"id\": \"line:0c946a5\",\n  \"node\": \"Orym2Obj\",\n  \"text\": \"Tyrion: That’s exactly the problem, Commander.\"\n}"
   },
   {

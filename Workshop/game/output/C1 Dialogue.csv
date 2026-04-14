@@ -1011,26 +1011,26 @@ line:0ce30a3,Orym2Cross,Orym: This entire case is open and shut.,Orym: 这案子
 line:0a45fb4,Orym2Cross,AriaC: ...,AriaC: ……
 line:089b8ff,Orym2Cross,AriaC: ...!,AriaC: ……！
 line:0ee7142,Orym2Cross,The prosecutor seemed unnerved by something.,检察官看起来因为什么事情变得紧张。
-line:0e40a0f,Orym2Cross,Orym: You can see it right in that photo.[p/] She stabbed him right through the chest using [b]Mage Blade[/b].,
-line:0242cbc,Orym2Cross,He was right about the photo.,
-line:0c887e0,Orym2Cross,It clearly showed that he was stabbed from the front.,
-line:0e5581d,Orym2Cross,...So why did that bother me so much?,
+line:0e40a0f,Orym2Cross,Orym: You can see it right in that photo.[p/] She stabbed him right through the chest using [b]Mage Blade[/b].,Orym: 你能在那张照片里看到。[p/]她用[b]法术剑刃[/b]刺穿了被害人的胸膛。
+line:0242cbc,Orym2Cross,He was right about the photo.,他对照片的描述是正确的。
+line:0c887e0,Orym2Cross,It clearly showed that he was stabbed from the front.,上面确实显示被害人是从前方被刺杀的。
+line:0e5581d,Orym2Cross,...So why did that bother me so much?,……所以我为什么这么在意这一点呢？
 line:0169fce,Orym2Cross,Overflow,
-line:07d3688,Orym2Cross,His testimony was a little bit vague this time.,
-line:016060c,Orym2Cross,PRESSING his statements might prove useful in a situation like this.,
-line:0c3324a,Orym2Cross,That would let me ask questions about his testimony and discover more details about the case.,
-line:0adce36,Orym2Cross,I might even be able to obtain new pieces of evidence to use in my cross-examination.,
-line:0b2b4ab,Orym2Cross,Objection,
+line:07d3688,Orym2Cross,His testimony was a little bit vague this time.,他这次的证词有一点模糊。
+line:016060c,Orym2Cross,PRESSING his statements might prove useful in a situation like this.,在这种情况下，<size=1.5em>追问</size>证词或许会有用处。
+line:0c3324a,Orym2Cross,That would let me ask questions about his testimony and discover more details about the case.,那可以让我对他的证词进一步问询，找出案件中更多的细节。
+line:0adce36,Orym2Cross,I might even be able to obtain new pieces of evidence to use in my cross-examination.,甚至可能找出一些可以在交叉询问有用的新证据。
+line:0b2b4ab,Orym2Cross,Objection,异议
 line:03a6da3,Orym2Cross,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
 line:0223dd7,Orym2Cross,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
 line:0f2a503,Orym2Cross,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
 line:0758124,Orym2Cross,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
-line:0454fee,Orym2Obj,"Tyrion: I’m sorry, Commander White,[p/] but you’ve shown us an even more glaring contradiction.",
-line:01bc4b2,Orym2Obj,"Orym: Oh, yeah?",
-line:030dd71,Orym2Obj,"Tyrion: In your testimony,[p/] you said that my client stabbed the victim ""right through the chest"".",
-line:05b515b,Orym2Obj,Orym: You can see it right there in that picture.,
-line:0590da9,Orym2Obj,"Orym: So, where’s your ""contradiction""?",
-line:0c946a5,Orym2Obj,"Tyrion: That’s exactly the problem, Commander.",
+line:0454fee,Orym2Obj,"Tyrion: I’m sorry, Commander White,[p/] but you’ve shown us an even more glaring contradiction.",Tyrion: 怀特指挥官，痕抱歉。[p/]但你为我们展露了一个更明显的矛盾。
+line:01bc4b2,Orym2Obj,"Orym: Oh, yeah?",Orym: 哦，真的吗？
+line:030dd71,Orym2Obj,"Tyrion: In your testimony,[p/] you said that my client stabbed the victim ""right through the chest"".",Tyrion: 你的证词提到，[p/]我的委托人“从正面”刺穿了被害人的胸膛。
+line:05b515b,Orym2Obj,Orym: You can see it right there in that picture.,Orym: 你在照片里能很清楚的看到啊。
+line:0590da9,Orym2Obj,"Orym: So, where’s your ""contradiction""?",Orym: 所以，你说的“矛盾”在哪儿呢？
+line:0c946a5,Orym2Obj,"Tyrion: That’s exactly the problem, Commander.",Tyrion: 这正是问题所在，指挥官。
 line:0569b87,Orym2Obj,"Tyrion: Your picture undeniably shows that my client's sword impaled the victim from the front,[p/] but if that’s really true—",
 line:0ad91c2,Orym2Obj,Tyrion: —Why does the Autopsy say that he died from being stabbed in his back?!,
 line:0ee7479,Orym2Obj,Orym: ...What?!,
@@ -2725,7 +2725,7 @@ line:0363030,RhysCross,Celeste: It’ll probably be hard to catch him lying if h
 line:0208954,RhysCross,Tyrion: It’s actually just the opposite.,
 line:0301f0c,RhysCross,"Tyrion: With this many details,[p/] it will be that much easier to find an inconsistency.",
 line:0d49aeb,RhysCross,I just needed to find it.,
-line:0c9fe3e,RhysCross,Objection,
+line:0c9fe3e,RhysCross,Objection,异议
 line:09e9b09,RhysCross,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
 line:08672ab,RhysCross,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
 line:07db9bd,RhysCross,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
@@ -2799,7 +2799,7 @@ line:09b9b7b,RhysCross2,"She was trying to keep her composure,[p/] but her fists
 line:0fab0d6,RhysCross2,Tyrion: He’s trying to cover up his mistake.[p/] I’m sure he’s just making things up on the spot now.,
 line:0e5c3f7,RhysCross2,Celeste: He doesn’t know how magic works.[p/] I bet he barely understands what [b]Mage Blade[/b] even does.,
 line:03e075e,RhysCross2,Which meant that there had to be a flaw with his testimony.,
-line:0994651,RhysCross2,Objection,
+line:0994651,RhysCross2,Objection,异议
 line:0e9bd08,RhysCross2,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
 line:00fccc5,RhysCross2,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
 line:0e034cb,RhysCross2,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
