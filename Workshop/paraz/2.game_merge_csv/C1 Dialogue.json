@@ -6590,25 +6590,25 @@
   {
     "key": "C1 Dialogue.csv::translation::73cce207e70b173b",
     "original": "This time,[p/] I took out my Attorney’s Runestone and PRESENTED it to him.",
-    "translation": "",
+    "translation": "而这一次，[p/]我拿出自己的律师符石，<size=1.5em>出示</size>给他。",
     "context": "{\n  \"id\": \"line:0aec2ac\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"This time,[p/] I took out my Attorney’s Runestone and PRESENTED it to him.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fc895114b1a0fbd4",
     "original": "Tyrion: I’m the defense attorney in this case.[p/] I have every right to look at the crime scene.",
-    "translation": "",
+    "translation": "Tyrion: 我是本案的辩护律师。[p/]我完全有权利调查犯罪现场。",
     "context": "{\n  \"id\": \"line:05b8b78\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"Tyrion: I’m the defense attorney in this case.[p/] I have every right to look at the crime scene.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e1df776597865dbf",
     "original": "Orym: Whatever...[p/] Just remember,[p/] I've got my eye on you.",
-    "translation": "",
+    "translation": "Orym: 随你便……[p/]但给我记住，[p/]我一直盯着你。",
     "context": "{\n  \"id\": \"line:09e991b\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"Orym: Whatever...[p/] Just remember,[p/] I've got my eye on you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3952fdc7864c541f",
     "original": "Orym: ...You can take that rock out of my face now.",
-    "translation": "",
+    "translation": "Orym: ……你可以把那块石头从我脸上拿开了。",
     "context": "{\n  \"id\": \"line:0df52c9\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"Orym: ...You can take that rock out of my face now.\"\n}"
   },
   {
@@ -6620,7 +6620,7 @@
   {
     "key": "C1 Dialogue.csv::translation::a98259e8157873b5",
     "original": "Tyrion: It's a fancy-looking bed.",
-    "translation": "",
+    "translation": "Tyrion: 看起来很豪华的床。",
     "context": "{\n  \"id\": \"line:0545498\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Tyrion: It's a fancy-looking bed.\"\n}"
   },
   {
