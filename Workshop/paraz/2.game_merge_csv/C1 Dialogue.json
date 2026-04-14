@@ -6314,277 +6314,277 @@
   {
     "key": "C1 Dialogue.csv::translation::de50c0a7edbc8031",
     "original": "Ruby: I'm sure locking up Flinhart's daughter would send a clear message to his allies.",
-    "translation": "",
+    "translation": "Ruby: 我确信，拘捕弗林哈特的女儿会给他的盟友们传递明确的信号。",
     "context": "{\n  \"id\": \"line:0df8ce1\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Ruby: I'm sure locking up Flinhart's daughter would send a clear message to his allies.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::779115f57af0c840",
     "original": "But if that were true,[p/] why did she help us in the dungeons?",
-    "translation": "",
+    "translation": "但如果真是这么回事，[p/]她为什么要在地牢里帮我们？",
     "context": "{\n  \"id\": \"line:010a108\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"But if that were true,[p/] why did she help us in the dungeons?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3eccbb132b02039d",
     "original": "Tyrion: ...Either way,[p/] this works out in our favor.",
-    "translation": "",
+    "translation": "Tyrion: 不管怎样，[p/]现在的情况对我们更好。",
     "context": "{\n  \"id\": \"line:025f0ae\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Tyrion: ...Either way,[p/] this works out in our favor.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5771f26ca6c37b86",
     "original": "Tyrion: I can't fight the Steelwinds on a battlefield,[p/] but I can fight them in the courtroom.",
-    "translation": "",
+    "translation": "Tyrion: 我没法在战场上与斯蒂尔文德家抗衡，[p/]但在法庭里我可以。",
     "context": "{\n  \"id\": \"line:06e4911\",\n  \"node\": \"RubyLobby2\",\n  \"text\": \"Tyrion: I can't fight the Steelwinds on a battlefield,[p/] but I can fight them in the courtroom.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::10360addca1eaf16",
     "original": "Ruby: On that subject,[p/] I’ve been meaning to give you this.",
-    "translation": "",
+    "translation": "Ruby: 说到这个，[p/]我一直想把这个交给你。",
     "context": "{\n  \"id\": \"line:0218d1a\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: On that subject,[p/] I’ve been meaning to give you this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c2a3e818a5e4d3a8",
     "original": "Celeste: My Spell Compendium?",
-    "translation": "",
+    "translation": "Celeste: 是我的法术汇编？",
     "context": "{\n  \"id\": \"line:05a919a\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Celeste: My Spell Compendium?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1522b5c43821f61d",
     "original": "Ruby: I grabbed it from the dining room before the Inquisition arrived.",
-    "translation": "",
+    "translation": "Ruby: 在裁判所抵达前，我从酒馆的餐厅拿走了这个。",
     "context": "{\n  \"id\": \"line:045df24\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: I grabbed it from the dining room before the Inquisition arrived.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::60a5f7f7985ae08d",
     "original": "Ruby: They have a bad habit of \"misplacing\" pieces of evidence like this.",
-    "translation": "",
+    "translation": "Ruby: 他们可是有把这类证据“搞丢”的坏习惯。",
     "context": "{\n  \"id\": \"line:0563bb5\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: They have a bad habit of \\\"misplacing\\\" pieces of evidence like this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::38d1b9a19f271ddf",
     "original": "Tyrion: So...[p/] [i]this[/i] is your Spell Compendium,[p/] and it only has one spell.",
-    "translation": "",
+    "translation": "Tyrion: 那么……[p/][i]这个[/i]就是你的法术汇编，[p/]而且确实只有一条法术。",
     "context": "{\n  \"id\": \"line:02f8dae\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: So...[p/] [i]this[/i] is your Spell Compendium,[p/] and it only has one spell.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b9e9b00d116d17e7",
     "original": "Celeste: [b]Mage Blade[/b]...",
-    "translation": "",
+    "translation": "Celeste: [b]法术剑刃[/b].……",
     "context": "{\n  \"id\": \"line:0fef836\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Celeste: [b]Mage Blade[/b]...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0c5005915c6e4492",
     "original": "Ruby: The prosecution will need to prove that [b]Mage Blade[/b] was used in the murder.",
-    "translation": "",
+    "translation": "Ruby: 检方需要证明犯罪过程中使用了[b]法术剑刃[/b]。",
     "context": "{\n  \"id\": \"line:039ff1a\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: The prosecution will need to prove that [b]Mage Blade[/b] was used in the murder.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::839207ba5e31bd35",
     "original": "Ruby: It will restrict their plan of attack,[p/] which will give you an edge over them.",
-    "translation": "",
+    "translation": "Ruby: 这会限制她们的进攻策略，[p/]也将使你更有优势。",
     "context": "{\n  \"id\": \"line:0734f29\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: It will restrict their plan of attack,[p/] which will give you an edge over them.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::890039221518a9e9",
     "original": "Tyrion: But I still have no idea who actually did this...",
-    "translation": "",
+    "translation": "Tyrion: 但我仍然不知道究竟是谁干的……",
     "context": "{\n  \"id\": \"line:0848ba3\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: But I still have no idea who actually did this...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::03989295eb79ffe9",
     "original": "Tyrion: Celeste.[p/] I need to talk to you about what your father was doing.",
-    "translation": "",
+    "translation": "Tyrion: 塞莱斯特。[p/]我需要就你父亲当时的行动和你谈一谈。",
     "context": "{\n  \"id\": \"line:068fefa\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: Celeste.[p/] I need to talk to you about what your father was doing.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::804b6efc4640e5db",
     "original": "She glanced at the bailiff.[p/] He was looming close,[p/] staring daggers at her.",
-    "translation": "",
+    "translation": "她看向法警，[p/]他正悍然走近，[p/]用锐利的阳光盯着她。",
     "context": "{\n  \"id\": \"line:09fb778\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"She glanced at the bailiff.[p/] He was looming close,[p/] staring daggers at her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::381a5872e4b1768d",
     "original": "Celeste: I-[p/][s/]I should go.[p/] It looks like they can't wait to throw me back into that cell.",
-    "translation": "",
+    "translation": "Celeste: 我、[p/][s/]我该走了。[p/]似乎他们现在就要把我关回牢房。",
     "context": "{\n  \"id\": \"line:02b4982\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Celeste: I-[p/][s/]I should go.[p/] It looks like they can't wait to throw me back into that cell.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::98c80f44bb96f8bc",
     "original": "Tyrion: W-[p/][s/]Wait,[p/] I still—",
-    "translation": "",
+    "translation": "Tyrion: 等、[p/][s/]等一下，[p/]我还得——",
     "context": "{\n  \"id\": \"line:03fd521\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: W-[p/][s/]Wait,[p/] I still—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::296a7538061a4c29",
     "original": "She turned away and quickly walked off without another word.[p/] Ms. Tymora just shook her head.",
-    "translation": "",
+    "translation": "她转身迅速地走开，一言不发。[p/]泰摩拉女士摇了摇头。",
     "context": "{\n  \"id\": \"line:042e318\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"She turned away and quickly walked off without another word.[p/] Ms. Tymora just shook her head.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::93568fc089731873",
     "original": "Ruby: She’s practically begging for a conviction at this rate...",
-    "translation": "",
+    "translation": "Ruby: 再这样下去，她可是相当于求着被定罪。",
     "context": "{\n  \"id\": \"line:06f48ff\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: She’s practically begging for a conviction at this rate...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::718abde3fe009c9e",
     "original": "Bringing up her late father may have struck a nerve.[p/] I would need to be more delicate next time.",
-    "translation": "",
+    "translation": "提到她的亡父可能戳中了她的痛处。[p/]下一次得更谨慎地提出来。",
     "context": "{\n  \"id\": \"line:02afe84\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Bringing up her late father may have struck a nerve.[p/] I would need to be more delicate next time.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8ad80d4ca59d66ba",
     "original": "Tyrion: ...I can speak with her in the dungeons later.",
-    "translation": "",
+    "translation": "Tyrion: .……我可以稍晚在地牢和她谈一谈。",
     "context": "{\n  \"id\": \"line:0f593d2\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: ...I can speak with her in the dungeons later.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6490fa1de7d1a27a",
     "original": "Tyrion: Right now,[p/] I want to take a look at the crime scene.",
-    "translation": "",
+    "translation": "Tyrion: 现在，[p/]我想看一看犯罪现场。",
     "context": "{\n  \"id\": \"line:0bc4c70\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: Right now,[p/] I want to take a look at the crime scene.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::03ed61ddeb18d009",
     "original": "Tyrion: With how negligent the Inquisition were,[p/] I doubt they found everything.",
-    "translation": "",
+    "translation": "Tyrion: 以裁判所表现的疏忽大意，[p/]我怀疑他们是否发现了所有的线索。",
     "context": "{\n  \"id\": \"line:0b43541\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: With how negligent the Inquisition were,[p/] I doubt they found everything.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::322075e944e2a811",
     "original": "Ruby: ...If you’re planning to investigate the crime scene,[p/] you’ll need this.",
-    "translation": "",
+    "translation": "Ruby: ……如果你计划调查犯罪现场，[p/]那你就需要这个。",
     "context": "{\n  \"id\": \"line:07f7011\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: ...If you’re planning to investigate the crime scene,[p/] you’ll need this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f41bb1dda8645a77",
     "original": "She reached into her coat and pulled out a small, blue Runestone.[p/] I froze for a moment,[p/] starring wide-eyed at it.",
-    "translation": "",
+    "translation": "她将手伸进外套，然后拿出一个小小的蓝色符石。[p/]我愣了一下，[p/]然后瞪大眼睛看着它。",
     "context": "{\n  \"id\": \"line:0de4511\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"She reached into her coat and pulled out a small, blue Runestone.[p/] I froze for a moment,[p/] starring wide-eyed at it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::06136b881071939b",
     "original": "Tyrion: I-[p/][s/]Is that—?",
-    "translation": "",
+    "translation": "Tyrion: 那、[p/][s/]那个不是——？",
     "context": "{\n  \"id\": \"line:05bda61\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: I-[p/][s/]Is that—?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3ba998c3e24df466",
     "original": "Ruby: It’s an Attorney’s Runestone.[p/] I had it commissioned for you after you passed the exam last month.",
-    "translation": "",
+    "translation": "Ruby: 是律师符石。[p/]上个月你通过考试后，我就替你定制了这个。",
     "context": "{\n  \"id\": \"line:061bfda\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: It’s an Attorney’s Runestone.[p/] I had it commissioned for you after you passed the exam last month.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::da1b5f9d9672a49b",
     "original": "Tyrion: ...You’ve had one ready this entire time?",
-    "translation": "",
+    "translation": "Tyrion: ……你这一路一直备着这个？",
     "context": "{\n  \"id\": \"line:0ce8d97\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: ...You’ve had one ready this entire time?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fcd8113ccd493758",
     "original": "Ruby: Cuthbert,[p/] are you crying?",
-    "translation": "",
+    "translation": "Ruby: 卡斯伯特，[p/]你是在哭吗？",
     "context": "{\n  \"id\": \"line:06f0f1e\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: Cuthbert,[p/] are you crying?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::16e7bed4d2e8a06a",
     "original": "I wiped my eyes and delicately stored the Runestone in the pocket of my jacket.",
-    "translation": "",
+    "translation": "我擦了擦眼睛，小心翼翼地将符石保存进自己的口袋。",
     "context": "{\n  \"id\": \"line:0a52447\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"I wiped my eyes and delicately stored the Runestone in the pocket of my jacket.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d430d611fdee3fe7",
     "original": "Ruby: You embarrassed them today.[p/] Don’t expect them to be that sloppy again.",
-    "translation": "",
+    "translation": "Ruby: 你今天让他们出尽洋相。[p/]别指望他们明天还会这么散漫。",
     "context": "{\n  \"id\": \"line:0d96cb8\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: You embarrassed them today.[p/] Don’t expect them to be that sloppy again.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5fde2e639c0592b2",
     "original": "Ruby: As much as I hate to admit it,[p/] your investigative mind is sharper than mine.",
-    "translation": "",
+    "translation": "Ruby: 虽然我不愿意承认，[p/]你的调查思维比我更敏锐。",
     "context": "{\n  \"id\": \"line:0f3bf76\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: As much as I hate to admit it,[p/] your investigative mind is sharper than mine.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b21416fa28039e25",
     "original": "Ruby: If anyone can get through this,[p/] it’s you.",
-    "translation": "",
+    "translation": "Ruby: 如果有人能解决这个难题，[p/]那一定是你。",
     "context": "{\n  \"id\": \"line:08fc0fd\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: If anyone can get through this,[p/] it’s you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5a17df094a8a3b31",
     "original": "Tyrion: O-[p/][s/]Oh...[p/] Um...[p/][s/] Thank you!",
-    "translation": "",
+    "translation": "Tyrion: 噢、[p/][s/]哦……[p/][s/]呃——感谢您！",
     "context": "{\n  \"id\": \"line:00960bb\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: O-[p/][s/]Oh...[p/] Um...[p/][s/] Thank you!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::da987d635b0c188b",
     "original": "She turned to take a seat at the bench near the courtroom entrance.",
-    "translation": "",
+    "translation": "她走向法庭入口的一把长椅，坐了下来。",
     "context": "{\n  \"id\": \"line:05277b8\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"She turned to take a seat at the bench near the courtroom entrance.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bd699a7216edaab8",
     "original": "It looked like she would be staying here until the case was over.",
-    "translation": "",
+    "translation": "看起来在案件结束前，她都会待在这里。",
     "context": "{\n  \"id\": \"line:0e0ed3b\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"It looked like she would be staying here until the case was over.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::524d6547a3c28341",
     "original": "I tucked Celeste’s Spell Compendium into my jacket.",
-    "translation": "",
+    "translation": "我把塞莱斯特的法术汇编塞进自己的夹克。",
     "context": "{\n  \"id\": \"line:0418173\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"I tucked Celeste’s Spell Compendium into my jacket.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::df5799dcf6330e7b",
     "original": "I hadn’t slept,[p/] and my body still ached from the carriage ride.",
-    "translation": "",
+    "translation": "我一直没睡觉，[p/]身体因为驾马车长途跋涉浑身酸痛。",
     "context": "{\n  \"id\": \"line:09411cd\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"I hadn’t slept,[p/] and my body still ached from the carriage ride.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f704fa04dbf5afa6",
     "original": "I still didn't know whether I was truly up to this,[p/] but none of that mattered.",
-    "translation": "",
+    "translation": "我仍然不知道自己是否真的胜任，[p/]但这已经不重要了。",
     "context": "{\n  \"id\": \"line:0b16c2f\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"I still didn't know whether I was truly up to this,[p/] but none of that mattered.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::22d14b8f0507b63e",
     "original": "Celeste was counting on me,[p/] and I wouldn't let anyone get away with killing Flinhart—[p/]even if the Steelwinds were involved.",
-    "translation": "",
+    "translation": "塞莱斯特现在全指望着我，[p/]而我不会让任何杀害弗林哈特的人逍遥法外——[p/]即便是斯蒂尔文德家参与其中。",
     "context": "{\n  \"id\": \"line:03109df\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Celeste was counting on me,[p/] and I wouldn't let anyone get away with killing Flinhart—[p/]even if the Steelwinds were involved.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::de9575f2d2b4f12a",
     "original": "The Inquisition had set up a teleportation circle at the crime scene.[p/] As the defense attorney for this case,[p/] I was permitted to use it.",
-    "translation": "",
+    "translation": "裁判所已经设立了通向犯罪现场的传送门。[p/] 作为本案的辩护律师，[p/]我被允许使用它。",
     "context": "{\n  \"id\": \"line:0991e78\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"The Inquisition had set up a teleportation circle at the crime scene.[p/] As the defense attorney for this case,[p/] I was permitted to use it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2e8c056e6920cea2",
     "original": "With it,[p/] I could instantly travel back and forth between the McCoy Tavern and the capital.",
-    "translation": "",
+    "translation": "有了这个，[p/]我可以在麦考伊酒馆和首都间瞬间完成往返。",
     "context": "{\n  \"id\": \"line:01e5e1b\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"With it,[p/] I could instantly travel back and forth between the McCoy Tavern and the capital.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a7b952284b82f504",
     "original": "It was miles better than having to travel by carriage.",
-    "translation": "",
+    "translation": "那可比坐马车好到不知道哪里去了。",
     "context": "{\n  \"id\": \"line:04d7df7\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"It was miles better than having to travel by carriage.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ec5c098e11b84594",
     "original": "Orym: Oh...[p/] It’s you...",
-    "translation": "",
+    "translation": "Orym: 哦……[p/]是你……",
     "context": "{\n  \"id\": \"line:08fe60b\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"Orym: Oh...[p/] It’s you...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3bec638c0c333eac",
     "original": "Orym: What are you doing here?",
-    "translation": "",
+    "translation": "Orym: 你来干什么？",
     "context": "{\n  \"id\": \"line:02ed279\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"Orym: What are you doing here?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a3246adcf331ded6",
     "original": "Commander White stepped in my way as I approached the tavern entrance.",
-    "translation": "",
+    "translation": "我一走进酒馆，怀特检察官就走来挡住我的路。",
     "context": "{\n  \"id\": \"line:015d527\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"Commander White stepped in my way as I approached the tavern entrance.\"\n}"
   },
   {
