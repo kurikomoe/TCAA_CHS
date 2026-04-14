@@ -116,7 +116,7 @@
   {
     "key": "C1 Dialogue.csv::translation::1c0e357d42833447",
     "original": "Tyrion: The witness couldn’t have seen [i]anything[/i],[p/] much less a homicide!",
-    "translation": "Tyrion: 证人根本[i]什么都看不见[/i]，[p/]更别提<nobr>目睹</nobr><space=-2em><voffset=-0.8em>・・</voffset>了一场<color=#FFA500>凶杀</color>！",
+    "translation": "Tyrion: 证人根本[i]什么都看不见[/i]！[p/]更别提目睹了一场[i]凶杀[/i]！",
     "context": "{\n  \"id\": \"line:09c3b09\",\n  \"node\": \"Start\",\n  \"text\": \"Tyrion: The witness couldn’t have seen [i]anything[/i],[p/] much less a homicide!\"\n}"
   },
   {
