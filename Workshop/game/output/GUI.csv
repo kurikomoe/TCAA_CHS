@@ -5,15 +5,18 @@ settings,设置,Button on the Title Screen.
 crowdfunders,众筹名单,Button on the Title Screen.
 credits,致谢名单,Button on the Title Screen.
 quit game,退出游戏,Button on the Title Screen.
+Credits,,Header on the Credits Menu.
+Crowdfunders,,Header on the Crowdfunders Menu.
 Play Episode,游玩章节,Button on the Episode Select Menu.
 Occupation,职业,Field used when displaying character information.
 Age,年龄,Field used when displaying character information.
 Arcane Art,奥术,Field used when displaying character information.
 evidence,证据,Button on the dialogue box.
 menus,菜单,Button on the dialogue box.
-auto,自动播放,Button on the dialogue box.
-text log,文本日志,Button on the dialogue box.
-hide gui,隐藏界面,Button on the dialogue box.
+auto,自动,Button on the dialogue box.
+text log,日志,Button on the dialogue box.
+hide gui,隐藏,Button on the dialogue box.
+back,,Option shown when TALKING to characters in-game.
 Evidence,证据,Button Text on the Pause Menu.
 Save/Load,保存/加载,Button Text on the Pause Menu.
 Text Log,文本日志,Button Text on the Pause Menu.
@@ -29,6 +32,7 @@ close the application,关闭程序,"Text under the ""Quit"" button on the Pause 
 Clues,线索,Tab heading on the Evidence Menu.
 Spells,法术,Tab heading on the Evidence Menu.
 People,人物,Tab heading on the Evidence Menu.
+PRESENT EVIDENCE!,,Button text on the Evidence Menu.
 Save #,存档 #,Indicates the file # of each save file on the Save Menu.
 Episode,章节,Indicates the Episode of each save file on the Save Menu.
 Investigation,调查阶段,Indicates the section type of each save file on the Save Menu.
@@ -47,59 +51,65 @@ Input,控制,Tab button on the Settings Menu.
 Workshop,创意工坊,Tab button on the Settings Menu.
 Text Speed,文本速度,Gameplay Option in the Settings Menu.
 Character Emotes,,Gameplay Option in the Settings Menu.
-Language [Mod],语言 [模组],Gameplay Option in the Settings Menu.
+Language [Mod],语言 [模组],Workshop Option in the Settings Menu.
+Refresh,,Button on the Workshop Tab of the Settings Menu that refreshes the list of Workshop Items.
 Resolution,分辨率,Graphics Option in the Settings Menu.
-Screen Mode,,Graphics Option in the Settings Menu.
-Refresh Rate,,Graphics Option in the Settings Menu.
-Vsync,,Graphics Option in the Settings Menu.
-Master Volume,,Audio Option in the Settings Menu.
-Music Volume,,Audio Option in the Settings Menu.
-SFX Volume,,Audio Option in the Settings Menu.
-NAME,,Heading in the Input Section of the Settings Menu.
-KEYBOARD,,Heading in the Input Section of the Settings Menu.
-JOYSTICK,,Heading in the Input Section of the Settings Menu.
+Screen Mode,窗口设置,Graphics Option in the Settings Menu.
+Refresh Rate,刷新率,Graphics Option in the Settings Menu.
+Vsync,垂直同步,Graphics Option in the Settings Menu.
+Master Volume,主音量,Audio Option in the Settings Menu.
+Music Volume,音乐音量,Audio Option in the Settings Menu.
+SFX Volume,音效音量,Audio Option in the Settings Menu.
+NAME,名称,Heading in the Input Section of the Settings Menu.
+KEYBOARD,键盘,Heading in the Input Section of the Settings Menu.
+JOYSTICK,手柄,Heading in the Input Section of the Settings Menu.
 Proceed,,Rebindable input in the Settings Menu.
-Skip,,Rebindable input in the Settings Menu.
-Open Menus,,Rebindable input in the Settings Menu.
-Skip Scene,,Rebindable input in the Settings Menu.
-Autoplay,,Rebindable input in the Settings Menu.
-Hide Gui,,Rebindable input in the Settings Menu.
-Open Evidence,,Rebindable input in the Settings Menu.
-Detect Magic,,Rebindable input in the Settings Menu.
-Press,,Rebindable input in the Settings Menu.
-Present,,Rebindable input in the Settings Menu.
-OK,,Appears on dialogue boxes asking the player to confirm or cancel.
-Cancel,,Appears on dialogue boxes asking the player to confirm or cancel.
-Continue,,Appears on Tutorial Windows.
-Clear,,Appears on the dialogue box that confirms if a player wants to clear an input on the Settings Menu.
-Submit,,"On the ""Submit"" button of Deduction segments."
-Objection!,,"""Objection!"" as it is written in the Text Log."
-PRESS,,Label used on the PRESS button that appears during testimonies.
-PRESENT,,Label used on the PRESENT button that appears during testimonies.
+Skip,跳过,Rebindable input in the Settings Menu.
+Open Menus,打开菜单,Rebindable input in the Settings Menu.
+Skip Scene,跳过场景,Rebindable input in the Settings Menu.
+Autoplay,自动播放,Rebindable input in the Settings Menu.
+Hide GUI,,Rebindable input in the Settings Menu.
+Open Evidence,显示证据,Rebindable input in the Settings Menu.
+Detect Magic,法术探测,Rebindable input in the Settings Menu.
+Press,按下,Rebindable input in the Settings Menu.
+Present,出示,Rebindable input in the Settings Menu.
+OK,OK,Appears on dialogue boxes asking the player to confirm or cancel.
+Cancel,取消,Appears on dialogue boxes asking the player to confirm or cancel.
+Continue,继续,Appears on Tutorial Windows.
+Clear,清除,Appears on the dialogue box that confirms if a player wants to clear an input on the Settings Menu.
+Submit,提交,"On the ""Submit"" button of Deduction segments."
+Objection!,异议！,"""Objection!"" as it is written in the Text Log."
+PRESS,按下,Label used on the PRESS button that appears during testimonies.
+PRESENT,出示,Label used on the PRESENT button that appears during testimonies.
 OBTAINED EVIDENCE!,,Shown when the player obtains a new piece of evidence.
-EVIDENCE UPDATED!,,Shown when the player obtains an update to an existing piece of evidence.
-Examine,,An Option Button shown when at a location during an Investigation.
-Talk,,An Option Button shown when at a location during an Investigation.
-Move,,An Option Button shown when at a location during an Investigation.
-Menus,,An Option Button shown when at a location during an Investigation.
+EVIDENCE UPDATED!,证据已更新！,Shown when the player obtains an update to an existing piece of evidence.
+Examine,检查,An Option Button shown when at a location during an Investigation.
+Talk,交谈,An Option Button shown when at a location during an Investigation.
+Move,移动,An Option Button shown when at a location during an Investigation.
+Menus,菜单,An Option Button shown when at a location during an Investigation.
 Negotiate,,An Option Button shown during Arguments.
 Comply,,An Option Button shown during Arguments.
 Call,,"An Option Button shown during Arguments. ""Call"" refers to calling your opponent's bluff."
-Logic,,An Option Button shown during Arguments.
-Intuition,,An Option Button shown during Arguments.
-Empathy,,An Option Button shown during Arguments.
+Logic,逻辑,An Option Button shown during Arguments.
+Intuition,直觉,An Option Button shown during Arguments.
+Empathy,同情,An Option Button shown during Arguments.
 Deflect,,"An Option Button shown during Arguments. ""Deflect"" refers to deflecting your opponent's statement and changing the subject."
 Interpret,,An Option Button shown during Arguments.
 Project,,"An Option Button shown when using the Empowered Eye of Horus on a witness. ""Project"" refers to magically projecting an idea into the witness's mind."
 Doubt,,An Option Button shown during Arguments.
-Agree,,An Option Button shown during Arguments.
+Agree,同意,An Option Button shown during Arguments.
 Rationalize,,An Option Button shown during Arguments.
 Appeal,,An Option Button shown during Arguments.
 Threaten,,An Option Button shown during Arguments.
-Completed!,,On the Completion Card shown at the end of each Case.
-School,,An item field on the Evidence Menu.
-Incantation,,An item field on the Evidence Menu.
+Defend,,An Option Button shown during Arguments.
+Completed!,已完成！,On the Completion Card shown at the end of each Case.
+School,种类,An item field on the Evidence Menu.
+Incantation,咏唱,An item field on the Evidence Menu.
 Gesture,,An item field on the Evidence Menu.
 Duration,,An item field on the Evidence Menu.
 Concentration,,An item field on the Evidence Menu.
 5 Minutes Later,,Shown after Celeste absolutely bodies those two teenagers.
+Loading Translations...,,Shown whenever the translations for an episode are being loaded.
+Use when the opponent's THOUGHT contradicts the EVIDENCE.,,"A caption for the ""LOGIC"" option. Shown during Arguments."
+Use when the opponent's THOUGHT contradicts their CLAIM.,,"A caption for the ""INTUITION"" option. Shown during Arguments."
+Use when the opponent’s EMOTIONS contradict their CLAIM.,,"A caption for the ""EMPATHY"" option. Shown during Arguments."

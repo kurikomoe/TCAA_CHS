@@ -1,0 +1,75 @@
+name: SyncWorkspaceBuild
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"   # Every 1h
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  SyncWorkspaceBuild:
+    name: "Build Workshop Translations"
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ github.token }}
+      PARAZ_PROJECT_ID: ${{ secrets.PARATRANZ_PROJECT_ID }}
+      PARAZ_TOKEN: ${{ secrets.PARATRANZ_TOKEN }}
+
+    steps:
+      - uses: szenius/set-timezone@v2.0
+        with:
+          timezoneLinux: "Asia/Shanghai"
+
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACTION_GITHUB_TOKEN || github.token }}
+
+      - uses: extractions/setup-just@v2
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: openapi-generators/openapitools-generator-action@v1.5.0
+        with:
+          generator: python
+          openapi-file: .github/workflows/paratranz-openapi.json
+          command-args: "-o third/openapi-python"
+
+      - uses: snok/install-poetry@v1.4.1
+
+      - name: Install Python dependencies
+        run: |
+          poetry config virtualenvs.create false
+          poetry install
+
+      - name: Sync latest translations from Paratranz
+        run: just sync
+
+      - name: Copy synced translations to Workshop/game/orig
+        run: |
+          mkdir -p Workshop/game/orig
+          rsync -a --delete "Texts/@paraz-out/" "Workshop/paraz/0.src/"
+
+      - name: Build workspace translation artifacts
+        working-directory: Workshop
+        run: just build
+
+      - name: Upload Workshop output artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: tcaa_chs_workshop
+          path: Workshop/game/output
+
+      - name: Generate timestamp
+        id: timestamp
+        run: echo "timestamp=$(date +'%y%m%d.%H%M')" >> $GITHUB_ENV
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9.1.4
+        with:
+          committer_name: GitHub Actions
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "[skip ci][${{ env.timestamp }}] sync workspace build outputs"

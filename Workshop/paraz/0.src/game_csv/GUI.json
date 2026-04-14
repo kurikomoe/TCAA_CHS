@@ -86,21 +86,21 @@
   {
     "key": "GUI.csv::TRANSLATION::0d612c12d2ac3362",
     "original": "auto",
-    "translation": "自动播放",
+    "translation": "自动",
     "stage": 1,
     "context": "{\n  \"text\": \"auto\",\n  \"comments\": \"Button on the dialogue box.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::b0623c4259fb2522",
     "original": "text log",
-    "translation": "文本日志",
+    "translation": "日志",
     "stage": 1,
     "context": "{\n  \"text\": \"text log\",\n  \"comments\": \"Button on the dialogue box.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::3251f0e3eac2044d",
     "original": "hide gui",
-    "translation": "隐藏界面",
+    "translation": "隐藏",
     "stage": 1,
     "context": "{\n  \"text\": \"hide gui\",\n  \"comments\": \"Button on the dialogue box.\"\n}"
   },
@@ -340,7 +340,7 @@
     "original": "Language [Mod]",
     "translation": "语言 [模组]",
     "stage": 1,
-    "context": "{\n  \"text\": \"Language [Mod]\",\n  \"comments\": \"Gameplay Option in the Settings Menu.\"\n}"
+    "context": "{\n  \"text\": \"Language [Mod]\",\n  \"comments\": \"Workshop Option in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::516aae52959dcf53",
@@ -352,64 +352,64 @@
   {
     "key": "GUI.csv::TRANSLATION::c3f3f62039769da9",
     "original": "Screen Mode",
-    "translation": "",
-    "stage": 0,
+    "translation": "窗口设置",
+    "stage": 1,
     "context": "{\n  \"text\": \"Screen Mode\",\n  \"comments\": \"Graphics Option in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::a3f165d9951edd8d",
     "original": "Refresh Rate",
-    "translation": "",
-    "stage": 0,
+    "translation": "刷新率",
+    "stage": 1,
     "context": "{\n  \"text\": \"Refresh Rate\",\n  \"comments\": \"Graphics Option in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::ccd60c35583d7c73",
     "original": "Vsync",
-    "translation": "",
-    "stage": 0,
+    "translation": "垂直同步",
+    "stage": 1,
     "context": "{\n  \"text\": \"Vsync\",\n  \"comments\": \"Graphics Option in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::ad50e3dc5798ff49",
     "original": "Master Volume",
-    "translation": "",
-    "stage": 0,
+    "translation": "主音量",
+    "stage": 1,
     "context": "{\n  \"text\": \"Master Volume\",\n  \"comments\": \"Audio Option in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::3d6052382b675f94",
     "original": "Music Volume",
-    "translation": "",
-    "stage": 0,
+    "translation": "音乐音量",
+    "stage": 1,
     "context": "{\n  \"text\": \"Music Volume\",\n  \"comments\": \"Audio Option in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::729429a603112e49",
     "original": "SFX Volume",
-    "translation": "",
-    "stage": 0,
+    "translation": "音效音量",
+    "stage": 1,
     "context": "{\n  \"text\": \"SFX Volume\",\n  \"comments\": \"Audio Option in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::a9d371451b6909ac",
     "original": "NAME",
-    "translation": "",
-    "stage": 0,
+    "translation": "名称",
+    "stage": 1,
     "context": "{\n  \"text\": \"NAME\",\n  \"comments\": \"Heading in the Input Section of the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::e31f6e8ddedd90b0",
     "original": "KEYBOARD",
-    "translation": "",
-    "stage": 0,
+    "translation": "键盘",
+    "stage": 1,
     "context": "{\n  \"text\": \"KEYBOARD\",\n  \"comments\": \"Heading in the Input Section of the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::7d9ddcb138f864f7",
     "original": "JOYSTICK",
-    "translation": "",
-    "stage": 0,
+    "translation": "手柄",
+    "stage": 1,
     "context": "{\n  \"text\": \"JOYSTICK\",\n  \"comments\": \"Heading in the Input Section of the Settings Menu.\"\n}"
   },
   {
@@ -422,120 +422,113 @@
   {
     "key": "GUI.csv::TRANSLATION::3da474537ac378c6",
     "original": "Skip",
-    "translation": "",
-    "stage": 0,
+    "translation": "跳过",
+    "stage": 1,
     "context": "{\n  \"text\": \"Skip\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::4fa8b8fac97d5729",
     "original": "Open Menus",
-    "translation": "",
-    "stage": 0,
+    "translation": "打开菜单",
+    "stage": 1,
     "context": "{\n  \"text\": \"Open Menus\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::1a19c0a35a522ff1",
     "original": "Skip Scene",
-    "translation": "",
-    "stage": 0,
+    "translation": "跳过场景",
+    "stage": 1,
     "context": "{\n  \"text\": \"Skip Scene\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::95619b532fe893a1",
     "original": "Autoplay",
-    "translation": "",
-    "stage": 0,
+    "translation": "自动播放",
+    "stage": 1,
     "context": "{\n  \"text\": \"Autoplay\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
-  },
-  {
-    "key": "GUI.csv::TRANSLATION::d6ff68cd49eac124",
-    "original": "Hide Gui",
-    "translation": "",
-    "stage": 0,
-    "context": "{\n  \"text\": \"Hide Gui\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::d3c38d062eebefb4",
     "original": "Open Evidence",
-    "translation": "",
-    "stage": 0,
+    "translation": "显示证据",
+    "stage": 1,
     "context": "{\n  \"text\": \"Open Evidence\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::30d803ebd4067d3b",
     "original": "Detect Magic",
-    "translation": "",
-    "stage": 0,
+    "translation": "法术探测",
+    "stage": 1,
     "context": "{\n  \"text\": \"Detect Magic\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::ea683ad616063b73",
     "original": "Press",
-    "translation": "",
-    "stage": 0,
+    "translation": "按下",
+    "stage": 1,
     "context": "{\n  \"text\": \"Press\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::4e9f7a31eef4c69e",
     "original": "Present",
-    "translation": "",
-    "stage": 0,
+    "translation": "出示",
+    "stage": 1,
     "context": "{\n  \"text\": \"Present\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::9ce3bd4224c8c178",
     "original": "OK",
-    "translation": "",
-    "stage": 0,
+    "translation": "OK",
+    "stage": 1,
     "context": "{\n  \"text\": \"OK\",\n  \"comments\": \"Appears on dialogue boxes asking the player to confirm or cancel.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::77dfd2135f4db726",
     "original": "Cancel",
-    "translation": "",
-    "stage": 0,
+    "translation": "取消",
+    "stage": 1,
     "context": "{\n  \"text\": \"Cancel\",\n  \"comments\": \"Appears on dialogue boxes asking the player to confirm or cancel.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::2e02623966f9391f",
     "original": "Continue",
-    "translation": "",
-    "stage": 0,
+    "translation": "继续",
+    "stage": 1,
     "context": "{\n  \"text\": \"Continue\",\n  \"comments\": \"Appears on Tutorial Windows.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::719ea396ad92e01b",
     "original": "Clear",
-    "translation": "",
-    "stage": 0,
+    "translation": "清除",
+    "stage": 1,
     "context": "{\n  \"text\": \"Clear\",\n  \"comments\": \"Appears on the dialogue box that confirms if a player wants to clear an input on the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::2dacf65959849884",
     "original": "Submit",
-    "translation": "",
-    "stage": 0,
+    "translation": "提交",
+    "stage": 1,
     "context": "{\n  \"text\": \"Submit\",\n  \"comments\": \"On the \\\"Submit\\\" button of Deduction segments.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::3f5af60a2738a458",
     "original": "Objection!",
-    "translation": "",
-    "stage": 0,
+    "translation": "异议！",
+    "stage": 1,
     "context": "{\n  \"text\": \"Objection!\",\n  \"comments\": \"\\\"Objection!\\\" as it is written in the Text Log.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::fcc710bba11a2cda",
     "original": "PRESS",
-    "translation": "",
-    "stage": 0,
+    "translation": "按下",
+    "stage": 1,
     "context": "{\n  \"text\": \"PRESS\",\n  \"comments\": \"Label used on the PRESS button that appears during testimonies.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::b40f85dcc743fd99",
     "original": "PRESENT",
-    "translation": "",
-    "stage": 0,
+    "translation": "出示",
+    "stage": 1,
     "context": "{\n  \"text\": \"PRESENT\",\n  \"comments\": \"Label used on the PRESENT button that appears during testimonies.\"\n}"
   },
   {
@@ -548,36 +541,36 @@
   {
     "key": "GUI.csv::TRANSLATION::7a3f4c47330997bb",
     "original": "EVIDENCE UPDATED!",
-    "translation": "",
-    "stage": 0,
+    "translation": "证据已更新！",
+    "stage": 1,
     "context": "{\n  \"text\": \"EVIDENCE UPDATED!\",\n  \"comments\": \"Shown when the player obtains an update to an existing piece of evidence.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::e25105ba7fcfe263",
     "original": "Examine",
-    "translation": "",
-    "stage": 0,
+    "translation": "检查",
+    "stage": 1,
     "context": "{\n  \"text\": \"Examine\",\n  \"comments\": \"An Option Button shown when at a location during an Investigation.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::4e6a710d7f8571d8",
     "original": "Talk",
-    "translation": "",
-    "stage": 0,
+    "translation": "交谈",
+    "stage": 1,
     "context": "{\n  \"text\": \"Talk\",\n  \"comments\": \"An Option Button shown when at a location during an Investigation.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::76cdb950721642b6",
     "original": "Move",
-    "translation": "",
-    "stage": 0,
+    "translation": "移动",
+    "stage": 1,
     "context": "{\n  \"text\": \"Move\",\n  \"comments\": \"An Option Button shown when at a location during an Investigation.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::e7c3800e31ff2e76",
     "original": "Menus",
-    "translation": "",
-    "stage": 0,
+    "translation": "菜单",
+    "stage": 1,
     "context": "{\n  \"text\": \"Menus\",\n  \"comments\": \"An Option Button shown when at a location during an Investigation.\"\n}"
   },
   {
@@ -604,22 +597,22 @@
   {
     "key": "GUI.csv::TRANSLATION::3d52a6d8fedcc48a",
     "original": "Logic",
-    "translation": "",
-    "stage": 0,
+    "translation": "逻辑",
+    "stage": 1,
     "context": "{\n  \"text\": \"Logic\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::9998a35d5b985aa5",
     "original": "Intuition",
-    "translation": "",
-    "stage": 0,
+    "translation": "直觉",
+    "stage": 1,
     "context": "{\n  \"text\": \"Intuition\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::03b53781e1ea55df",
     "original": "Empathy",
-    "translation": "",
-    "stage": 0,
+    "translation": "同情",
+    "stage": 1,
     "context": "{\n  \"text\": \"Empathy\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
   },
   {
@@ -653,8 +646,8 @@
   {
     "key": "GUI.csv::TRANSLATION::ee68d3496bb455d5",
     "original": "Agree",
-    "translation": "",
-    "stage": 0,
+    "translation": "同意",
+    "stage": 1,
     "context": "{\n  \"text\": \"Agree\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
   },
   {
@@ -681,22 +674,22 @@
   {
     "key": "GUI.csv::TRANSLATION::e677902d0b2e56a2",
     "original": "Completed!",
-    "translation": "",
-    "stage": 0,
+    "translation": "已完成！",
+    "stage": 1,
     "context": "{\n  \"text\": \"Completed!\",\n  \"comments\": \"On the Completion Card shown at the end of each Case.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::f2f3d66a7978c207",
     "original": "School",
-    "translation": "",
-    "stage": 0,
+    "translation": "种类",
+    "stage": 1,
     "context": "{\n  \"text\": \"School\",\n  \"comments\": \"An item field on the Evidence Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::0cfd83c408d45c33",
     "original": "Incantation",
-    "translation": "",
-    "stage": 0,
+    "translation": "咏唱",
+    "stage": 1,
     "context": "{\n  \"text\": \"Incantation\",\n  \"comments\": \"An item field on the Evidence Menu.\"\n}"
   },
   {
@@ -726,5 +719,82 @@
     "translation": "",
     "stage": 0,
     "context": "{\n  \"text\": \"5 Minutes Later\",\n  \"comments\": \"Shown after Celeste absolutely bodies those two teenagers.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::bfac50d6424b5166",
+    "original": "Credits",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"Credits\",\n  \"comments\": \"Header on the Credits Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::75a570ba36c9b6cd",
+    "original": "Crowdfunders",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"Crowdfunders\",\n  \"comments\": \"Header on the Crowdfunders Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::61bb8d29b5be7db3",
+    "original": "back",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"back\",\n  \"comments\": \"Option shown when TALKING to characters in-game.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::ec6880358c295d2a",
+    "original": "PRESENT EVIDENCE!",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"PRESENT EVIDENCE!\",\n  \"comments\": \"Button text on the Evidence Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::56e3badc4e6c5cc9",
+    "original": "Refresh",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"Refresh\",\n  \"comments\": \"Button on the Workshop Tab of the Settings Menu that refreshes the list of Workshop Items.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::800d1b7a72c23c50",
+    "original": "Hide GUI",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"Hide GUI\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::da6bb78c4cbc80fc",
+    "original": "Defend",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"Defend\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::1ea47a85cc87c299",
+    "original": "Loading Translations...",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"Loading Translations...\",\n  \"comments\": \"Shown whenever the translations for an episode are being loaded.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::2d042aa05cfe931b",
+    "original": "Use when the opponent's THOUGHT contradicts the EVIDENCE.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"Use when the opponent's THOUGHT contradicts the EVIDENCE.\",\n  \"comments\": \"A caption for the \\\"LOGIC\\\" option. Shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::29ebcfdbe9d68421",
+    "original": "Use when the opponent's THOUGHT contradicts their CLAIM.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"Use when the opponent's THOUGHT contradicts their CLAIM.\",\n  \"comments\": \"A caption for the \\\"INTUITION\\\" option. Shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::a8c66052298a6738",
+    "original": "Use when the opponent’s EMOTIONS contradict their CLAIM.",
+    "translation": "",
+    "stage": 0,
+    "context": "{\n  \"text\": \"Use when the opponent’s EMOTIONS contradict their CLAIM.\",\n  \"comments\": \"A caption for the \\\"EMPATHY\\\" option. Shown during Arguments.\"\n}"
   }
 ]

@@ -36,6 +36,18 @@
     "context": "{\n  \"text\": \"quit game\",\n  \"comments\": \"Button on the Title Screen.\"\n}"
   },
   {
+    "key": "GUI.csv::TRANSLATION::bfac50d6424b5166",
+    "original": "Credits",
+    "translation": "",
+    "context": "{\n  \"text\": \"Credits\",\n  \"comments\": \"Header on the Credits Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::75a570ba36c9b6cd",
+    "original": "Crowdfunders",
+    "translation": "",
+    "context": "{\n  \"text\": \"Crowdfunders\",\n  \"comments\": \"Header on the Crowdfunders Menu.\"\n}"
+  },
+  {
     "key": "GUI.csv::TRANSLATION::806e6dd899dae7a5",
     "original": "Play Episode",
     "translation": "",
@@ -88,6 +100,12 @@
     "original": "hide gui",
     "translation": "",
     "context": "{\n  \"text\": \"hide gui\",\n  \"comments\": \"Button on the dialogue box.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::61bb8d29b5be7db3",
+    "original": "back",
+    "translation": "",
+    "context": "{\n  \"text\": \"back\",\n  \"comments\": \"Option shown when TALKING to characters in-game.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::7ea014de7bfb6a4e",
@@ -178,6 +196,12 @@
     "original": "People",
     "translation": "",
     "context": "{\n  \"text\": \"People\",\n  \"comments\": \"Tab heading on the Evidence Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::ec6880358c295d2a",
+    "original": "PRESENT EVIDENCE!",
+    "translation": "",
+    "context": "{\n  \"text\": \"PRESENT EVIDENCE!\",\n  \"comments\": \"Button text on the Evidence Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::e37cc54558d79684",
@@ -291,7 +315,13 @@
     "key": "GUI.csv::TRANSLATION::83a0704fa49488ef",
     "original": "Language [Mod]",
     "translation": "",
-    "context": "{\n  \"text\": \"Language [Mod]\",\n  \"comments\": \"Gameplay Option in the Settings Menu.\"\n}"
+    "context": "{\n  \"text\": \"Language [Mod]\",\n  \"comments\": \"Workshop Option in the Settings Menu.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::56e3badc4e6c5cc9",
+    "original": "Refresh",
+    "translation": "",
+    "context": "{\n  \"text\": \"Refresh\",\n  \"comments\": \"Button on the Workshop Tab of the Settings Menu that refreshes the list of Workshop Items.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::516aae52959dcf53",
@@ -384,10 +414,10 @@
     "context": "{\n  \"text\": \"Autoplay\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
   },
   {
-    "key": "GUI.csv::TRANSLATION::d6ff68cd49eac124",
-    "original": "Hide Gui",
+    "key": "GUI.csv::TRANSLATION::800d1b7a72c23c50",
+    "original": "Hide GUI",
     "translation": "",
-    "context": "{\n  \"text\": \"Hide Gui\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
+    "context": "{\n  \"text\": \"Hide GUI\",\n  \"comments\": \"Rebindable input in the Settings Menu.\"\n}"
   },
   {
     "key": "GUI.csv::TRANSLATION::d3c38d062eebefb4",
@@ -582,6 +612,12 @@
     "context": "{\n  \"text\": \"Threaten\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
   },
   {
+    "key": "GUI.csv::TRANSLATION::da6bb78c4cbc80fc",
+    "original": "Defend",
+    "translation": "",
+    "context": "{\n  \"text\": \"Defend\",\n  \"comments\": \"An Option Button shown during Arguments.\"\n}"
+  },
+  {
     "key": "GUI.csv::TRANSLATION::e677902d0b2e56a2",
     "original": "Completed!",
     "translation": "",
@@ -622,5 +658,29 @@
     "original": "5 Minutes Later",
     "translation": "",
     "context": "{\n  \"text\": \"5 Minutes Later\",\n  \"comments\": \"Shown after Celeste absolutely bodies those two teenagers.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::1ea47a85cc87c299",
+    "original": "Loading Translations...",
+    "translation": "",
+    "context": "{\n  \"text\": \"Loading Translations...\",\n  \"comments\": \"Shown whenever the translations for an episode are being loaded.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::2d042aa05cfe931b",
+    "original": "Use when the opponent's THOUGHT contradicts the EVIDENCE.",
+    "translation": "",
+    "context": "{\n  \"text\": \"Use when the opponent's THOUGHT contradicts the EVIDENCE.\",\n  \"comments\": \"A caption for the \\\"LOGIC\\\" option. Shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::29ebcfdbe9d68421",
+    "original": "Use when the opponent's THOUGHT contradicts their CLAIM.",
+    "translation": "",
+    "context": "{\n  \"text\": \"Use when the opponent's THOUGHT contradicts their CLAIM.\",\n  \"comments\": \"A caption for the \\\"INTUITION\\\" option. Shown during Arguments.\"\n}"
+  },
+  {
+    "key": "GUI.csv::TRANSLATION::a8c66052298a6738",
+    "original": "Use when the opponent’s EMOTIONS contradict their CLAIM.",
+    "translation": "",
+    "context": "{\n  \"text\": \"Use when the opponent’s EMOTIONS contradict their CLAIM.\",\n  \"comments\": \"A caption for the \\\"EMPATHY\\\" option. Shown during Arguments.\"\n}"
   }
 ]

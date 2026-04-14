@@ -9,7 +9,9 @@ export:
   python3 to_paraz.py --game-dir game/orig --out-dir paraz/1.game_gen_csv
 
 merge:
+  @echo "=================================="
   python3 update.py --new-dir paraz/1.game_gen_csv --old-dir paraz/0.src/game_csv --out-dir paraz/2.game_merge_csv
+  @echo "=================================="
 
 import:
   python3 to_game_csv.py --source-game-dir game/orig --out-game-dir game/output --json-dir paraz/2.game_merge_csv
