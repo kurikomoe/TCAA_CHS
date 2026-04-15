@@ -1179,16 +1179,16 @@ line:0df52c9,TavernIntro,Orym: ...You can take that rock out of my face now.,Ory
 line:0d8d35d,TavernIntro,Tyrion: S-[p/][s/]Sorry...,Tyrion: 那、[p/][s/]对不起……
 line:0e9f90f,CelesteRoom_Examine,Player: Bed,
 line:0545498,CelesteRoom_Examine,Tyrion: It's a fancy-looking bed.,Tyrion: 看起来很豪华的床。
-line:071bb6c,CelesteRoom_Examine,Jolene: Do you like it?[p/] Celeste had it custom-made by someone in the city.,
-line:0eed900,CelesteRoom_Examine,Tyrion: ...Wouldn’t something like this be really expensive?,
-line:0434808,CelesteRoom_Examine,Jolene: It was.[p/] I was really surprised when she returned from her travels.,
-line:0feb738,CelesteRoom_Examine,Jolene: She was making a lot of gold from her job as a mercenary.,
-line:0e41f4a,CelesteRoom_Examine,"Jolene: I’m happy for her,[p/] but I still wish she'd do something less dangerous...",
+line:071bb6c,CelesteRoom_Examine,Jolene: Do you like it?[p/] Celeste had it custom-made by someone in the city.,Jolene: 你喜欢吗？[p/]这是塞莱斯特是到城里请人定做的。
+line:0eed900,CelesteRoom_Examine,Tyrion: ...Wouldn’t something like this be really expensive?,Tyrion: ……那这种家具不是很贵吗？
+line:0434808,CelesteRoom_Examine,Jolene: It was.[p/] I was really surprised when she returned from her travels.,Jolene: 确实不便宜，[p/]她带着这些东西回来的时候我都震惊了。
+line:0feb738,CelesteRoom_Examine,Jolene: She was making a lot of gold from her job as a mercenary.,Jolene: 我家宝贝当雇佣兵确实赚了不少。
+line:0e41f4a,CelesteRoom_Examine,"Jolene: I’m happy for her,[p/] but I still wish she'd do something less dangerous...",Jolene:我虽然为她高兴，[p/]但还是希望她能做些没那么危险的工作……
 line:087ae1e,CelesteRoom_Examine,Player: Door,
-line:0ae3ed0,CelesteRoom_Examine,Tyrion: It's a door leading to the upstairs hallway.,
+line:0ae3ed0,CelesteRoom_Examine,Tyrion: It's a door leading to the upstairs hallway.,Tyrion: 是一扇通向二层走廊的门。
 line:08fe918,CelesteRoom_Examine,Player: Table,
-line:007951c,CelesteRoom_Examine,Tyrion: It's a table with several chairs.[p/] It’s probably used for entertaining guests.,
-line:0ce2ae2,CelesteRoom_Examine,"It didn’t look like it's seen much use, though...",
+line:007951c,CelesteRoom_Examine,Tyrion: It's a table with several chairs.[p/] It’s probably used for entertaining guests.,Tyrion: 一张桌子和几把椅子。[p/]一定是用来招待客人的。
+line:0ce2ae2,CelesteRoom_Examine,"It didn’t look like it's seen much use, though...",虽然看起来并没有怎么用过……
 line:0ab1eeb,CelesteRoom_Examine,Player: Painting,
 line:0753f84,CelesteRoom_Examine,Tyrion: It's a painting of a woman with a strange animal.[p/] The text says “Madeline Kipling”.,
 line:0e63b80,CelesteRoom_Examine,"Jolene: Oh,[p/] I’ve always loved that painting![p/] Celeste brought it back from her travels.",

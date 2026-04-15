@@ -6626,31 +6626,31 @@
   {
     "key": "C1 Dialogue.csv::translation::8ba2ae6449907031",
     "original": "Jolene: Do you like it?[p/] Celeste had it custom-made by someone in the city.",
-    "translation": "",
+    "translation": "Jolene: 你喜欢吗？[p/]这是塞莱斯特是到城里请人定做的。",
     "context": "{\n  \"id\": \"line:071bb6c\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Jolene: Do you like it?[p/] Celeste had it custom-made by someone in the city.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e20a9634b0400c5a",
     "original": "Tyrion: ...Wouldn’t something like this be really expensive?",
-    "translation": "",
+    "translation": "Tyrion: ……那这种家具不是很贵吗？",
     "context": "{\n  \"id\": \"line:0eed900\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Tyrion: ...Wouldn’t something like this be really expensive?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::109e8429e3942623",
     "original": "Jolene: It was.[p/] I was really surprised when she returned from her travels.",
-    "translation": "",
+    "translation": "Jolene: 确实不便宜，[p/]她带着这些东西回来的时候我都震惊了。",
     "context": "{\n  \"id\": \"line:0434808\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Jolene: It was.[p/] I was really surprised when she returned from her travels.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::76791808d5bbfc1a",
     "original": "Jolene: She was making a lot of gold from her job as a mercenary.",
-    "translation": "",
+    "translation": "Jolene: 我家宝贝当雇佣兵确实赚了不少。",
     "context": "{\n  \"id\": \"line:0feb738\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Jolene: She was making a lot of gold from her job as a mercenary.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::85ddd4b64f13f879",
     "original": "Jolene: I’m happy for her,[p/] but I still wish she'd do something less dangerous...",
-    "translation": "",
+    "translation": "Jolene:我虽然为她高兴，[p/]但还是希望她能做些没那么危险的工作……",
     "context": "{\n  \"id\": \"line:0e41f4a\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Jolene: I’m happy for her,[p/] but I still wish she'd do something less dangerous...\"\n}"
   },
   {
@@ -6662,7 +6662,7 @@
   {
     "key": "C1 Dialogue.csv::translation::d192e663d91db03f",
     "original": "Tyrion: It's a door leading to the upstairs hallway.",
-    "translation": "",
+    "translation": "Tyrion: 是一扇通向二层走廊的门。",
     "context": "{\n  \"id\": \"line:0ae3ed0\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Tyrion: It's a door leading to the upstairs hallway.\"\n}"
   },
   {
@@ -6674,13 +6674,13 @@
   {
     "key": "C1 Dialogue.csv::translation::71cab8b0dabbebd2",
     "original": "Tyrion: It's a table with several chairs.[p/] It’s probably used for entertaining guests.",
-    "translation": "",
+    "translation": "Tyrion: 一张桌子和几把椅子。[p/]一定是用来招待客人的。",
     "context": "{\n  \"id\": \"line:007951c\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Tyrion: It's a table with several chairs.[p/] It’s probably used for entertaining guests.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::18186e5e9ddda21a",
     "original": "It didn’t look like it's seen much use, though...",
-    "translation": "",
+    "translation": "虽然看起来并没有怎么用过……",
     "context": "{\n  \"id\": \"line:0ce2ae2\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"It didn’t look like it's seen much use, though...\"\n}"
   },
   {
