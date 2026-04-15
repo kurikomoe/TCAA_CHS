@@ -7982,372 +7982,372 @@
   {
     "key": "C1 Dialogue.csv::translation::fe5aa5bdc630478a",
     "original": "Tyrion: ...Is this about the rumors?",
-    "translation": "Tyrion: ……您是说那些传言？",
+    "translation": "Tyrion: ……您是说那些流言？",
     "stage": 1,
     "context": "{\n  \"id\": \"line:09da532\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: ...Is this about the rumors?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eb85deb59ee7198c",
     "original": "Jolene: ...”Rumors”?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: ……“流言”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:042ca3a\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: ...”Rumors”?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3589a031b02c54de",
     "original": "Tyrion: When my mentor started fighting against the justice system,[p/] the nobility started levying accusations of misconduct against her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 在我的导师开始与司法系统作斗争时，[p/]贵族们开始对她提出行为不端的指控。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aff283\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: When my mentor started fighting against the justice system,[p/] the nobility started levying accusations of misconduct against her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ebc0c26030aaf759",
     "original": "Tyrion: They spread rumors that she engaged in bribery,[p/] forgery,[p/] and blackmail—[p/]all to discredit her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 说她参与了贿赂、[p/]伪造[p/]以及敲诈——[p/]这些流言传播开来，只为了抹黑她的声誉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:029be10\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: They spread rumors that she engaged in bribery,[p/] forgery,[p/] and blackmail—[p/]all to discredit her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2e8973eb3df24cb5",
     "original": "Jolene: ...Is that really true?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: ……真的是这样吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082cb0f\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: ...Is that really true?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5267c760b5ba3511",
     "original": "Tyrion: She personally taught me how to defend persecuted mages like your daughter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 正是她本人教导了我，要如何为向您女儿一样被迫害的法师们辩护。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0093560\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: She personally taught me how to defend persecuted mages like your daughter.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::190e55a3a9c419c5",
     "original": "Tyrion: You’ve seen how I defended Celeste.[p/] I’m doing everything honestly and legally.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 您已经看到了我是如何为塞莱斯特辩护的。[p/]我的所作所为都是诚实而合法的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:016c8fe\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: You’ve seen how I defended Celeste.[p/] I’m doing everything honestly and legally.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::da0bcc4f0e823df0",
     "original": "Jolene: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: .……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07f5314\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: ...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d224c9156ee88bec",
     "original": "Tyrion: Ms. McCoy,[p/] I know you don’t know who to trust right now,[p/] but I need to know more about Flinhart.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 麦考伊女士。[p/]我清楚，您现在不确定该相信谁。[p/]但我需要知道更多关于弗林哈特的事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e4c71f\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: Ms. McCoy,[p/] I know you don’t know who to trust right now,[p/] but I need to know more about Flinhart.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::68f1c39a493be098",
     "original": "Tyrion: Right now,[p/] I don’t have any leads as to who might’ve done this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 目前，[p/]究竟是谁做出这次犯罪，我还没有什么头绪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b992f4\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: Right now,[p/] I don’t have any leads as to who might’ve done this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::70ca84a970166d9b",
     "original": "Jolene: [i]*sigh*[/i][p/] ...Okay,[p/] but promise me that you won't mention any of this in court.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: [i]*叹气*[/i][p/]……好吧，[p/]但请你保证不要再法庭上提起这件事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f99a7\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: [i]*sigh*[/i][p/] ...Okay,[p/] but promise me that you won't mention any of this in court.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7910f59e0db471b1",
     "original": "Jolene: I don't want Celeste being dragged into another scandal,[p/] and I sure as hell don't want any more Steelwinds showing up in town.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我不愿意塞莱斯特再卷入另一桩丑闻了。[p/]而且我绝对不想还有更多的斯蒂尔文德士兵在村子里出现。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0186bef\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: I don't want Celeste being dragged into another scandal,[p/] and I sure as hell don't want any more Steelwinds showing up in town.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6319bf851f27d2e4",
     "original": "Tyrion: I can't make any promises,[p/] but my priority will always be to keep your daughter safe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我无法作出承诺，[p/]但我最优先的事项一直是保证您女儿的安全。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082b9ae\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: I can't make any promises,[p/] but my priority will always be to keep your daughter safe.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::35862bcf5609e181",
     "original": "Jolene: I guess that's as much as I can ask for...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我想我也只能要求这么多了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06a458b\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: I guess that's as much as I can ask for...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d6f9657d23f1f6e8",
     "original": "Flinhart’s Past",
-    "translation": "",
-    "stage": 0,
+    "translation": "弗林哈特的往事",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09d3775\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Flinhart’s Past\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::be932ef44feb7c29",
     "original": "Jolene: Effie was Flinhart’s younger sister.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 埃菲是弗林哈特的妹妹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0041b96\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: Effie was Flinhart’s younger sister.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2ba0ddf24315dc26",
     "original": "Jolene: Celeste doesn't know about her.[p/] She died twenty years ago,[p/] and Flinhart never brought her up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 塞莱斯特不知道她的存在。[p/]她二十年前就死了，[p/]而弗林哈特从未提起过她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05f4107\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: Celeste doesn't know about her.[p/] She died twenty years ago,[p/] and Flinhart never brought her up.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::225e6c95c0f5d8e8",
     "original": "Tyrion: What happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……发生了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0256f1c\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: What happened?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7c1f1334dc89b1c8",
     "original": "Jolene: She was friends with the son of the ruling noble back then,[p/] and he’d always sneak into town to see her. [h=\"...He was so different back then.\" e=\"sa\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 她当时与领主家的儿子很玩得来，[p/]他也经常偷偷溜到村里来见她。[h=\"……他那时候与现在差别真大。\" e=\"sa\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03126a0\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: She was friends with the son of the ruling noble back then,[p/] and he’d always sneak into town to see her. [h=\\\"...He was so different back then.\\\" e=\\\"sa\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c123b98ad6f76620",
     "original": "Jolene: Effie had always loved magic.[p/] It reminded her of the fairy tales she read growing up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 埃菲一直很喜欢奥术。[p/]它让她想起小时候读到的那些童话故事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dbe447\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: Effie had always loved magic.[p/] It reminded her of the fairy tales she read growing up.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::56d3d8df558da0e5",
     "original": "Jolene: He’d always show her his spells by the lake,[p/] all to make her smile.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 而领主家的儿子老是在湖边向她表演法术，[p/]只为博她一笑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bce6e5\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: He’d always show her his spells by the lake,[p/] all to make her smile.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::90081db991640d1a",
     "original": "Jolene: But he’d been warned not to use his spells without his instructor present.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 但他也曾被警告过，不要再指导人不在场的情况下使用法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f4e902\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: But he’d been warned not to use his spells without his instructor present.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::879a50ae4341f798",
     "original": "Jolene: ...One day,[p/] he lost control of one of his spells and wounded Effie.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: ……而有一天，[p/]他的某个法术失控了，重伤了艾菲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d1af4f\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: ...One day,[p/] he lost control of one of his spells and wounded Effie.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::48826f246c8c1da5",
     "original": "Jolene: We rushed her back into the town,[p/] but it was too late.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我们赶紧把她带回村子，[p/]但一切为时已晚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0983497\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: We rushed her back into the town,[p/] but it was too late.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8a170b13c8047d25",
     "original": "Jolene: By the time we could dress her wounds,[p/] she was already gone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我们刚包扎好她的伤口时，[p/]她就已经去世了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:067e334\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: By the time we could dress her wounds,[p/] she was already gone.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f2cd2f0b94babba6",
     "original": "Stories like that were awfully common among the nobility these days...",
-    "translation": "",
-    "stage": 0,
+    "translation": "如今，这样的故事在贵族圈子里简直司空见惯到糟糕的地步。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0887b6a\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Stories like that were awfully common among the nobility these days...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::81bb254a3059b798",
     "original": "Jolene: The next day,[p/] the Arcane Inquisition came to investigate what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 第二天，[p/]奥术裁判所来调查事情的来龙去脉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ea076a\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: The next day,[p/] the Arcane Inquisition came to investigate what happened.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c274ba028bc6c6f7",
     "original": "Jolene: The boy’s parents used their influence to cover everything up.[p/] They even threatened Flinhart’s family into staying quiet.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 那个男孩的父母利用他们的影响力掩盖了一切，[p/]他们甚至威胁弗林哈特一家保持沉默。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:073c43a\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: The boy’s parents used their influence to cover everything up.[p/] They even threatened Flinhart’s family into staying quiet.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c0a23e2677aa8996",
     "original": "Jolene: After that,[p/] they told the town that Effie had been mauled to death by a wolf.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 在那之后，[p/]他们告诉全村人，艾菲是被野狼咬死的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0085964\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: After that,[p/] they told the town that Effie had been mauled to death by a wolf.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e450056393890cb2",
     "original": "Jolene: Flinhart all but declared war on the nobility after that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 自那时起，弗林哈特就向贵族们全面开战了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aa8590\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: Flinhart all but declared war on the nobility after that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9c71b8522305df40",
     "original": "Jolene: He turned our tavern into a meeting place for commoners who shared his resentment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 他把我们的酒馆变成了那些与他有共同怨恨的平民的聚会场所。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06b791d\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: He turned our tavern into a meeting place for commoners who shared his resentment.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::21a7aedc7fa249ec",
     "original": "Jolene: Word spread,[p/] and night after night,[p/] more and more revolutionaries started showing up to his rallies.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 消息传播开来，[p/]一夜又一夜过去，[p/]越来越多的革命人士出现在他的集会上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aacf1b\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: Word spread,[p/] and night after night,[p/] more and more revolutionaries started showing up to his rallies.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e4e03b342d8b8dcf",
     "original": "Jolene: It wasn’t long before they started planning a revolution.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 没过多久，他们开始筹备革命计划。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0feb16d\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: It wasn’t long before they started planning a revolution.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::110d5ed3fd6e8ed4",
     "original": "Jolene: They started contacting like-minded groups in the towns nearby.[p/] They were even starting to arm themselves.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 他们开始联络附近村镇政见相合的群体。[p/]他们甚至开始组建自己的武装。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0753311\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: They started contacting like-minded groups in the towns nearby.[p/] They were even starting to arm themselves.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::91d11a4a44f9901b",
     "original": "Jolene: I could only watch as everything unfolded.[p/] I'd heard stories about what the Steelwinds were doing to people like him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我只能眼睁睁看着一切发生。[p/]我听说了斯蒂尔文德那些人会怎么处置他这样的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c142b2\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: I could only watch as everything unfolded.[p/] I'd heard stories about what the Steelwinds were doing to people like him.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c14420a6e3911bfc",
     "original": "Jolene: I begged him to stop,[p/] so did some of the other townfolk.[p/] We knew he was going to get all of us killed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我恳求他停下来，[p/]有些其他的村民也求他。[p/]我们知道他会把我们都害死。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0be976a\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: I begged him to stop,[p/] so did some of the other townfolk.[p/] We knew he was going to get all of us killed.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d2c2969b6a576314",
     "original": "Jolene: ...I was shocked when the knights told me he’d been murdered,[p/] but I wasn’t surprised.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: ……骑士们告诉我他被杀害的时候，我很震惊，[p/]但并不意外。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02b44af\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: ...I was shocked when the knights told me he’d been murdered,[p/] but I wasn’t surprised.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5d123990be130147",
     "original": "Jolene: [i]*sigh*[/i][p/] I really hoped he’d let go of his anger when Celeste showed up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: [i]*叹气*[/i][p/]当塞莱斯特出现的时候，我真的希望他能控制住自己的愤怒。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04fd444\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: [i]*sigh*[/i][p/] I really hoped he’d let go of his anger when Celeste showed up.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5a8e4a93d577dafe",
     "original": "Jolene: He was really starting to change after we adopted her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 而我们收养她之后他确实开始改变了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:041bee2\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: He was really starting to change after we adopted her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::597b2ea10eb4d457",
     "original": "Celeste McCoy",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特·麦考伊",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:019f897\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Celeste McCoy\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b54a3790e4433b95",
     "original": "Tyrion: Can you tell me more about Celeste?[p/] How did she become a part of your family?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 您能说说更多关于塞莱斯特的事情吗？[p/]她怎么变成你们家一份子的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07f0e26\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: Can you tell me more about Celeste?[p/] How did she become a part of your family?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::78e3a206b51f13dd",
     "original": "Jolene: It all happened nineteen years ago,[p/] a year after Effie’s death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 那是十九年前，[p/]埃菲去世的一年之后。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b29f05\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: It all happened nineteen years ago,[p/] a year after Effie’s death.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3773b1eccacc978a",
     "original": "Jolene: We were closing one night when we found a baby with white hair abandoned in the dining area.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 某天我们准备关门的时候，发现在餐厅里有一个被遗弃的白发婴儿。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06997e6\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: We were closing one night when we found a baby with white hair abandoned in the dining area.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3e9c0aa32729b8f1",
     "original": "Jolene: We waited weeks for her parents to come by,[p/] but no one ever came looking for her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我们等她的父母等了几个星期，[p/]但并没有人来找她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07374f4\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: We waited weeks for her parents to come by,[p/] but no one ever came looking for her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3fcad7932801e55d",
     "original": "Jolene: We named her “Celeste”,[p/] after the full moon that was out that night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我们就给她取了“塞莱斯特（Celeste）”这个名字，[p/]以纪念那一夜的满月。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c510b\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: We named her “Celeste”,[p/] after the full moon that was out that night.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0542e5156b54f1e6",
     "original": "Jolene: We’d always wanted a child,[p/] so I thought she must have been a gift from the Scaled Lord.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我们一直想要个孩子，[p/]所以我认为肯定是鳞甲领主将她赠予我们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0075efa\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: We’d always wanted a child,[p/] so I thought she must have been a gift from the Scaled Lord.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::94b77923f1a7c0a7",
     "original": "Jolene: But one day,[p/] I spotted Celeste practicing her magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 但有一天，[p/]我看到塞莱斯特在练习法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a309b7\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: But one day,[p/] I spotted Celeste practicing her magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5db974f9105ee780",
     "original": "Jolene: I think that’s when I realized that a noble must have abandoned her at our inn.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我觉得那就是我第一次意识到肯定是一名贵族将她遗弃在我们的酒馆。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03b9c21\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: I think that’s when I realized that a noble must have abandoned her at our inn.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::315dba78a637c665",
     "original": "Jolene: I didn’t care, though.[p/] I loved her all the same.[p/] Flinhart did too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 虽然我不在乎。[p/]我与原来一样爱着她[p/]弗林哈特也是这样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6996c\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: I didn’t care, though.[p/] I loved her all the same.[p/] Flinhart did too.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a0a0f7f5520e3504",
     "original": "Tyrion: Wait...[p/] You [i]knew[/i] that she was a mage this entire time?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等一等……[p/]所以你早就[i]知道[/i]她是个法师？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c1b5e7\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: Wait...[p/] You [i]knew[/i] that she was a mage this entire time?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a1c44f7128917522",
     "original": "Jolene: I did.[p/] You haven't known her very long,[p/] but she's a terrible liar.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 嗯，[p/]你和她相处不久，[p/]但她其实很不擅长说谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a15853\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: I did.[p/] You haven't known her very long,[p/] but she's a terrible liar.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::195cfa0a862475da",
     "original": "Jolene: Flinhart must have noticed it too,[p/] but I think that he didn’t want to believe it. [h=\"It’s my fault.|I should have forced him to see the truth.\" e=\"s\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 弗林哈特肯定也注意到了，[p/]我想他只是不愿去相信罢了。  [h=\"都是我的错，我本该让他看清真相的。\" e=\"s\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e4574a\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: Flinhart must have noticed it too,[p/] but I think that he didn’t want to believe it. [h=\\\"It’s my fault.|I should have forced him to see the truth.\\\" e=\\\"s\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::82a529fbaebd6dc4",
     "original": "Flinhart and Celeste",
-    "translation": "",
-    "stage": 0,
+    "translation": "弗林哈特与塞莱斯特",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a45c4\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Flinhart and Celeste\"\n}"
   },
   {
