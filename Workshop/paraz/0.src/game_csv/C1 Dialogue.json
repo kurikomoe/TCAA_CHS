@@ -170,7 +170,7 @@
   {
     "key": "C1 Dialogue.csv::translation::8819cef230f212ea",
     "original": "[i]That[/i] was why I fought.",
-    "translation": "[i]这[/i]证是我奋战的原因。",
+    "translation": "[i]这[/i]正是我奋战的原因。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:018aa46\",\n  \"node\": \"Start\",\n  \"text\": \"[i]That[/i] was why I fought.\"\n}"
   },
