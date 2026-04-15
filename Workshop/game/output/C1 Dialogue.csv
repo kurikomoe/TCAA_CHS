@@ -1190,32 +1190,32 @@ line:08fe918,CelesteRoom_Examine,Player: Table,
 line:007951c,CelesteRoom_Examine,Tyrion: It's a table with several chairs.[p/] It’s probably used for entertaining guests.,Tyrion: 一张桌子和几把椅子。[p/]一定是用来招待客人的。
 line:0ce2ae2,CelesteRoom_Examine,"It didn’t look like it's seen much use, though...",虽然看起来并没有怎么用过……
 line:0ab1eeb,CelesteRoom_Examine,Player: Painting,
-line:0753f84,CelesteRoom_Examine,Tyrion: It's a painting of a woman with a strange animal.[p/] The text says “Madeline Kipling”.,
-line:0e63b80,CelesteRoom_Examine,"Jolene: Oh,[p/] I’ve always loved that painting![p/] Celeste brought it back from her travels.",
-line:09656bc,CelesteRoom_Examine,Jolene: That girl runs a wildlife sanctuary for endangered species.,
-line:0d8d1ca,CelesteRoom_Examine,"Jolene: I think that creature is called a ""Feykip"".[p/] They live in the swamps of the Eastern Kingdoms.",
-line:05ee7e5,CelesteRoom_Examine,I never knew that creatures like this even existed.,
-line:00161a5,CelesteRoom_Examine,Back,
-line:0db3732,CelesteRoom_Talk,Flinhart McCoy,
-line:0799255,CelesteRoom_Talk,Tyrion: Can you tell me more about your husband?[p/] Why did he hate magic so much?,
-line:0c489f2,CelesteRoom_Talk,"Tyrion: I understand that magic is a symbol of the nobility,[p/] but things sounded different with him.",
-line:0232df7,CelesteRoom_Talk,Tyrion: It’s as if he thought Celeste had betrayed him somehow.,
-line:095d725,CelesteRoom_Talk,"Jolene: ...I wasn’t there when they were arguing,[p/] but I can only imagine what he said to her.",
-line:031f21a,CelesteRoom_Talk,"Jolene: He’s never had anything good to say about mages,[p/] and I could see how much his words indirectly hurt her.",
-line:04e5f06,CelesteRoom_Talk,Tyrion: Did something happen?,
-line:02d07e8,CelesteRoom_Talk,"Jolene: ...I don’t really know. [h=""I don’t trust him enough.|I shouldn't talk about Effie."" e=""fs""/]",
-line:04beab2,CelesteRoom_Talk,Who was “Effie”?,
-line:01fcaea,CelesteRoom_Talk,“Effie”,
-line:025c365,CelesteRoom_Talk,Tyrion: Does Flinhart’s resentment have something to do with Effie?,
-line:0a5e1ad,CelesteRoom_Talk,Jolene: ...!,
-line:093d0e2,CelesteRoom_Talk,Jolene: ...How do you know about her?[p/][s/] There shouldn't be any records of what happened.,
-line:0c5d17e,CelesteRoom_Talk,Tyrion: I have my ways of finding out.,
-line:000995a,CelesteRoom_Talk,Jolene: ...Of course.[p/] You work for Ruby Tymora.,
-line:009c667,CelesteRoom_Talk,Jolene: What did she do?[p/] Did she strong-arm one of the neighbors into talking?,
-line:03b6c64,CelesteRoom_Talk,Jolene: We don’t need people like her going around Kornhaven and opening up old wounds.,
-line:097a54e,CelesteRoom_Talk,Tyrion: What?,
-line:0639eb8,CelesteRoom_Talk,"Jolene: Flinhart always idolized her,[p/] but I could never stand her methods.",
-line:09da532,CelesteRoom_Talk,Tyrion: ...Is this about the rumors?,
+line:0753f84,CelesteRoom_Examine,Tyrion: It's a painting of a woman with a strange animal.[p/] The text says “Madeline Kipling”.,Tyrion: 一幅描绘一位女士和某个奇怪生物的画。[p/]有文字标注为“Madeline Kipling”。
+line:0e63b80,CelesteRoom_Examine,"Jolene: Oh,[p/] I’ve always loved that painting![p/] Celeste brought it back from her travels.",Jolene: 噢，[p/]我一直很喜欢那幅画！[p/]是塞莱斯特从外面带回来的。
+line:09656bc,CelesteRoom_Examine,Jolene: That girl runs a wildlife sanctuary for endangered species.,Jolene: 画上的女孩子经营着濒危动物保护中心。
+line:0d8d1ca,CelesteRoom_Examine,"Jolene: I think that creature is called a ""Feykip"".[p/] They live in the swamps of the Eastern Kingdoms.",Jolene: 那种动物应该叫“Feykip”。[p/]它们生活在东方古国的沼泽中。
+line:05ee7e5,CelesteRoom_Examine,I never knew that creatures like this even existed.,我从不知道竟然存在这样的生物。
+line:00161a5,CelesteRoom_Examine,Back,返回
+line:0db3732,CelesteRoom_Talk,Flinhart McCoy,弗林哈特·麦考伊
+line:0799255,CelesteRoom_Talk,Tyrion: Can you tell me more about your husband?[p/] Why did he hate magic so much?,Tyrion: 能说说更多关于您丈夫的事情吗？[p/]他为什么如此讨厌魔法？
+line:0c489f2,CelesteRoom_Talk,"Tyrion: I understand that magic is a symbol of the nobility,[p/] but things sounded different with him.",Tyrion: 我明白法术就是贵族的标志，[p/]但对他来说好像不止如此。
+line:0232df7,CelesteRoom_Talk,Tyrion: It’s as if he thought Celeste had betrayed him somehow.,Tyrion: 不知为何，他似乎觉得连塞莱斯特都背叛了他。
+line:095d725,CelesteRoom_Talk,"Jolene: ...I wasn’t there when they were arguing,[p/] but I can only imagine what he said to her.",Jolene: ……他们吵架的时候我并不在场，[p/]但我能猜到他对我女儿是怎么说的。
+line:031f21a,CelesteRoom_Talk,"Jolene: He’s never had anything good to say about mages,[p/] and I could see how much his words indirectly hurt her.",Jolene: 他从不对法师们有任何一句好话，[p/]我也能猜到他的言语让塞莱斯特带来多么重地受伤。
+line:04e5f06,CelesteRoom_Talk,Tyrion: Did something happen?,Tyrion: 发生过什么事吗？
+line:02d07e8,CelesteRoom_Talk,"Jolene: ...I don’t really know. [h=""I don’t trust him enough.|I shouldn't talk about Effie."" e=""fs""/]","Jolene: ……我并不清楚。[h=""他还不足够可信。|我不应该提起埃菲的事。"" e=""fs""/]"
+line:04beab2,CelesteRoom_Talk,Who was “Effie”?,“埃菲”是谁？
+line:01fcaea,CelesteRoom_Talk,“Effie”,“埃菲”
+line:025c365,CelesteRoom_Talk,Tyrion: Does Flinhart’s resentment have something to do with Effie?,Tyrion: 弗林哈特的怨恨与埃菲有关系吗？
+line:0a5e1ad,CelesteRoom_Talk,Jolene: ...!,Jolene: .……！
+line:093d0e2,CelesteRoom_Talk,Jolene: ...How do you know about her?[p/][s/] There shouldn't be any records of what happened.,Jolene: ……你怎么知道她的？[p/][s/]那件事应该没有什么记录才对。
+line:0c5d17e,CelesteRoom_Talk,Tyrion: I have my ways of finding out.,Tyrion: 我有自己的调查渠道。
+line:000995a,CelesteRoom_Talk,Jolene: ...Of course.[p/] You work for Ruby Tymora.,Jolene: .……那当然。[p/]毕竟你是为鲁比·泰摩拉工作。
+line:009c667,CelesteRoom_Talk,Jolene: What did she do?[p/] Did she strong-arm one of the neighbors into talking?,Jolene: 她做了什么？[p/] 她是不是用了强硬手段撬开邻里的嘴巴？
+line:03b6c64,CelesteRoom_Talk,Jolene: We don’t need people like her going around Kornhaven and opening up old wounds.,Jolene: 我们不想让她这样喜欢揭开旧伤疤的人来到科尔哈文。
+line:097a54e,CelesteRoom_Talk,Tyrion: What?,Tyrion: 什么？
+line:0639eb8,CelesteRoom_Talk,"Jolene: Flinhart always idolized her,[p/] but I could never stand her methods.",Jolene: 弗林哈特总是很崇拜她，[p/]但我从来不太理解她的那套做法。
+line:09da532,CelesteRoom_Talk,Tyrion: ...Is this about the rumors?,Tyrion: ……您是说那些传言？
 line:042ca3a,CelesteRoom_Talk,Jolene: ...”Rumors”?,
 line:0aff283,CelesteRoom_Talk,"Tyrion: When my mentor started fighting against the justice system,[p/] the nobility started levying accusations of misconduct against her.",
 line:029be10,CelesteRoom_Talk,"Tyrion: They spread rumors that she engaged in bribery,[p/] forgery,[p/] and blackmail—[p/]all to discredit her.",
@@ -1289,7 +1289,7 @@ line:0d8d6e7,CelesteRoom_Talk,"Jolene: Celeste would always help herself to our 
 line:00f6cc3,CelesteRoom_Talk,Tyrion: Really?[p/] When was the last time you saw it?,
 line:0e3b039,CelesteRoom_Talk,Jolene: It was right before I left the house that night.,
 line:0172e09,CelesteRoom_Talk,Jolene: It would’ve been in his room before their argument.,
-line:05cd621,CelesteRoom_Talk,Back,
+line:05cd621,CelesteRoom_Talk,Back,返回
 line:00a47e0,CelesteRoom_Present,Runestone,
 line:08b511b,CelesteRoom_Present,Jolene: Oh?[p/] What’s this?,
 line:05e3a5b,CelesteRoom_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It identifies me as a certified attorney.,
@@ -1338,7 +1338,7 @@ line:0c6f804,CelesteRoom_Present,Tyrion: She doesn’t exactly look like one.,
 line:0e44134,CelesteRoom_Present,Jolene: Then you haven’t known her long enough.,
 line:0d6ca1b,CelesteRoom_Present,"Jolene: Even when she was a kid,[p/] she was always picking fights with people.",
 line:03f0b5e,CelesteRoom_Present,Jolene: She's definitely Flinhart's daughter.,
-line:0907c56,CelesteRoom_Present,Back,
+line:0907c56,CelesteRoom_Present,Back,返回
 line:091238a,CelesteRoom_Present,Default,
 line:0c55024,CelesteRoom_Present,Tyrion: Can you tell me more about this?,
 line:081735b,CelesteRoom_Present,"Jolene: I’m sorry,[p/] but I don't know much about these things.",
@@ -1522,7 +1522,7 @@ line:01bd41e,Dungeon_Examine,But prisoner safety was probably the last thing on 
 line:0061ef1,Dungeon_Examine,Window,
 line:028b5a7,Dungeon_Examine,The cell had a barred window.[p/] The bars were rusted.,
 line:0ab4fb5,Dungeon_Examine,"If a prisoner tried to escape,[p/] there would be a three-story drop to freedom.",
-line:0b3fc2b,Dungeon_Examine,Back,
+line:0b3fc2b,Dungeon_Examine,Back,返回
 line:0d9dff5,Dungeon_Talk,Flinhart's Hatred (ARGUMENT),
 line:08b8553,Dungeon_Talk,The Trial,
 line:01e269c,Dungeon_Talk,Tyrion: ...I’m really sorry for what happened today.,
@@ -1556,7 +1556,7 @@ line:0183d70,Dungeon_Talk,Tyrion: ...Isn’t travel outside of Wyverngarde illeg
 line:0a1c85e,Dungeon_Talk,Celeste: ...Mercenaries don’t have a lot more legitimate options for work in Wyverngarde.[p/] I did what I had to do.,
 line:0ce549e,Dungeon_Talk,"I doubted I’d be able to contact the sword’s maker in time,[p/] if at all.[p/] I would just have to take her word for it.",
 line:0225e2c,Dungeon_Talk,"But if what she was saying was true,[p/] why weren't the traces of [b]transmutation[/b] magic covering the entire sword?",
-line:0467a8e,Dungeon_Talk,Flinhart McCoy,
+line:0467a8e,Dungeon_Talk,Flinhart McCoy,弗林哈特·麦考伊
 line:0751e47,Dungeon_Talk,Tyrion: Could you tell me more about your father?,
 line:0fa3cf2,Dungeon_Talk,Celeste: ...,Celeste: ……
 line:076b0e4,Dungeon_Talk,Tyrion: I’m sorry.[p/] I know this must be difficult for you.,
@@ -1629,7 +1629,7 @@ line:0e0f96e,Dungeon_Talk,Celeste: ...,Celeste: ……
 line:07fa7d7,Dungeon_Talk,Tyrion: ...I’m your lawyer.[p/] I’m not going to do anything strange.,
 line:09f496f,Dungeon_Talk,"Celeste: ...S-[p/][s/]Sorry,[p/] you’re right.",
 line:01de312,Dungeon_Talk,Celeste: I always keep the key on me.[p/] You can use this to get inside.,
-line:0ab9f8a,Dungeon_Talk,Back,
+line:0ab9f8a,Dungeon_Talk,Back,返回
 line:0b2610e,Dungeon_Present,Runestone,
 line:09bc6b9,Dungeon_Present,"Celeste: Oh, what’s that?",
 line:09dc2d7,Dungeon_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,
@@ -1662,7 +1662,7 @@ line:0c82736,Dungeon_Present,"Celeste: Honestly,[p/] I was hoping it would make 
 line:06da3be,Dungeon_Present,Celeste: He’d get so angry every time it stopped working.[p/] He really hated the thing.,
 line:061f91c,Dungeon_Present,"Tyrion: Yeah...[p/] Without an Arcane Power Cell,[p/] those lights aren't very useful.",
 line:05327cf,Dungeon_Present,Celeste: ...I don't know why he kept trying to use it when he hated it so much.,
-line:0d3516b,Dungeon_Present,Back,
+line:0d3516b,Dungeon_Present,Back,返回
 line:02a227a,Dungeon_Present,Default,
 line:0980244,Dungeon_Present,Tyrion: Can you tell me more about this?,
 line:05ef3f2,Dungeon_Present,Celeste: Oh...[p/] I don't really know what to say about that.[p/] Sorry.,
@@ -2247,7 +2247,7 @@ line:088b7b3,Lobby_Examine,"When I was a child,[p/] I used to sit there during M
 line:034d10c,Lobby_Examine,Door,
 line:0e6c4bf,Lobby_Examine,This door led to the courtroom.,
 line:01b053c,Lobby_Examine,"Beyond these doors,[p/] the fates of countless people had been decided.",
-line:0089a14,Lobby_Examine,Back,
+line:0089a14,Lobby_Examine,Back,返回
 line:089c472,Lobby_Talk,The Investigation,
 line:0da8fa9,Lobby_Talk,Ruby: You should really head to the crime scene and gather as much information as possible.,
 line:065e7e2,Lobby_Talk,Tyrion: Right...[p/] I still have no idea what happened the night of the murder.,
@@ -2274,14 +2274,14 @@ line:0d4a4b1,Lobby_Talk,Ruby: You might find something useful there.,
 line:0793c5d,Lobby_Talk,Ruby: You've learned a lot.[p/] I think you've collected enough evidence for the upcoming trial.,
 line:01a8628,Lobby_Talk,But there was one last thing I needed to do.[p/] I needed to talk to Celeste.,
 line:0720268,Lobby_Talk,It wouldn’t be right to leave things as they are.,
-line:0eff7f8,Lobby_Talk,Back,
+line:0eff7f8,Lobby_Talk,Back,返回
 line:0b0598d,Lobby_Present,Runestone,
 line:01babb6,Lobby_Present,Tyrion: I can’t believe it...[p/] I finally have an Attorney’s Runestone...,
 line:0fa50f7,Lobby_Present,Ruby: You worked hard for it.,
 line:0b45b0d,Lobby_Present,Tyrion: I never got a chance to thank you.,
 line:00f24b7,Lobby_Present,Ruby: ...Just focus on your current case.,
 line:0bea974,Lobby_Present,Ruby: It has a lot of different functions.[p/] I can go over the manual with you after you acquit McCoy.,
-line:0f0dab7,Lobby_Present,Back,
+line:0f0dab7,Lobby_Present,Back,返回
 line:0b5d2f2,Lobby_Present,Default,
 line:08a3a37,Lobby_Present,Ruby: ...I’m not going to go over every piece of evidence with you.[p/] You'll learn nothing if I do that.,
 line:0d4d290,Lobby_Present,Tyrion: ...Can you at least give me a hint?,
@@ -2389,7 +2389,7 @@ line:0e79c93,Tavern_Examine,Orym: I didn’t ask for a science lesson.,
 line:03d8e60,Tavern_Examine,"Orym: Anyways,[p/] look where artificery got these folks.",
 line:0483785,Tavern_Examine,"Orym: The energy cell broke,[p/] and they haven’t had any power for weeks.",
 line:0d25e51,Tavern_Examine,Orym: Just goes to show that nothing can beat good old oil and flame.,
-line:021713c,Tavern_Examine,Back,
+line:021713c,Tavern_Examine,Back,返回
 line:04c604b,Tavern_Talk,Help (Argument),
 line:0302533,Tavern_Talk,Questions,
 line:055995c,Tavern_Talk,"Tyrion: Commander White,[p/] I was wondering if I could ask you some questions.",
@@ -2449,7 +2449,7 @@ line:0fd0cc6,Tavern_Talk,"Orym: [i]*sigh*[/i] I know we made a mistake,[p/] but 
 line:0049f5e,Tavern_Talk,Tyrion: Really?[p/] Could I see it?,
 line:0e6223e,Tavern_Talk,"Orym: Knock yourself out.[p/] I have a bunch of copies.[p/] Don’t know how much good it’ll do you, though.",
 line:0bfecef,Tavern_Talk,Aria Steelwind,
-line:08cc96e,Tavern_Talk,Back,
+line:08cc96e,Tavern_Talk,Back,返回
 line:0802b63,OrymRubyTalk,Tyrion: I have to ask...[p/] Did something happen between you and Ms. Tymora?,
 line:00f221d,OrymRubyTalk,"Orym: Hah![p/][s/] “[i]Ms.[/i] Tymora”.[p/] You really are her lackey, through and through.",
 line:04ade9f,OrymRubyTalk,Tyrion: ...She's my legal guardian.[p/] I owe a lot to her.,
@@ -2524,7 +2524,7 @@ line:0891633,Tavern_Present,Shattered Bottle of Lotus Juice,
 line:09b0208,Tavern_Present,"Tyrion: I wonder what ""Lotus Juice"" is...",
 line:01b94da,Tavern_Present,Orym: It's not any drink that I've heard of.[p/] It must be some kind of foreign brand.,
 line:0e8a180,Tavern_Present,Orym: I wonder how they got their hands on something like this.,
-line:06056d4,Tavern_Present,Back,
+line:06056d4,Tavern_Present,Back,返回
 line:0c5c3bf,Tavern_Present,Default,
 line:00e16ed,Tavern_Present,Tyrion: What do you think about this?,
 line:026171a,Tavern_Present,Orym: Uh...[p/] I don't know what you're expecting me to say.,
@@ -3053,7 +3053,7 @@ line:04db3fa,Upstairs_Examine,There was a door at the end of the hallway.,
 line:0820d0e,Upstairs_Examine,I saw light from under the door.[p/] Someone was inside.,
 line:0406dca,Upstairs_Examine,"I tried to open the door,[p/] but it seemed to be locked.",
 line:0c0355a,Upstairs_Examine,"I knocked on the door,[p/] but received no answer in return.",
-line:02246e9,Upstairs_Examine,Back,
+line:02246e9,Upstairs_Examine,Back,返回
 line:073aaec,PierceAppears,"As I made my way up the stairs,[p/] I overheard Steelwind arguing with someone.",
 line:02cab98,PierceAppears,"Aria: If you keep showing your face here,[p/] people will start asking questions.",
 line:0bfd5dd,PierceAppears,Aria: I have the investigation under control now.[p/] All you have to do is stay quiet until this is over.,

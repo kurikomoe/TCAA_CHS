@@ -6692,157 +6692,157 @@
   {
     "key": "C1 Dialogue.csv::translation::9507bd95454c5aa6",
     "original": "Tyrion: It's a painting of a woman with a strange animal.[p/] The text says “Madeline Kipling”.",
-    "translation": "",
+    "translation": "Tyrion: 一幅描绘一位女士和某个奇怪生物的画。[p/]有文字标注为“Madeline Kipling”。",
     "context": "{\n  \"id\": \"line:0753f84\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Tyrion: It's a painting of a woman with a strange animal.[p/] The text says “Madeline Kipling”.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0da1a8e72e5eac21",
     "original": "Jolene: Oh,[p/] I’ve always loved that painting![p/] Celeste brought it back from her travels.",
-    "translation": "",
+    "translation": "Jolene: 噢，[p/]我一直很喜欢那幅画！[p/]是塞莱斯特从外面带回来的。",
     "context": "{\n  \"id\": \"line:0e63b80\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Jolene: Oh,[p/] I’ve always loved that painting![p/] Celeste brought it back from her travels.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::033a5468384360e4",
     "original": "Jolene: That girl runs a wildlife sanctuary for endangered species.",
-    "translation": "",
+    "translation": "Jolene: 画上的女孩子经营着濒危动物保护中心。",
     "context": "{\n  \"id\": \"line:09656bc\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Jolene: That girl runs a wildlife sanctuary for endangered species.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fb344dac799fc764",
     "original": "Jolene: I think that creature is called a \"Feykip\".[p/] They live in the swamps of the Eastern Kingdoms.",
-    "translation": "",
+    "translation": "Jolene: 那种动物应该叫“Feykip”。[p/]它们生活在东方古国的沼泽中。",
     "context": "{\n  \"id\": \"line:0d8d1ca\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Jolene: I think that creature is called a \\\"Feykip\\\".[p/] They live in the swamps of the Eastern Kingdoms.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c59d1e6e28f62032",
     "original": "I never knew that creatures like this even existed.",
-    "translation": "",
+    "translation": "我从不知道竟然存在这样的生物。",
     "context": "{\n  \"id\": \"line:05ee7e5\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"I never knew that creatures like this even existed.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b52b36b7269fbfc5",
     "original": "Back",
-    "translation": "",
+    "translation": "返回",
     "context": "{\n  \"id\": \"line:00161a5\",\n  \"node\": \"CelesteRoom_Examine\",\n  \"text\": \"Back\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c93546d26aa502a3",
     "original": "Flinhart McCoy",
-    "translation": "",
+    "translation": "弗林哈特·麦考伊",
     "context": "{\n  \"id\": \"line:0db3732\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Flinhart McCoy\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ce5eb465908385f3",
     "original": "Tyrion: Can you tell me more about your husband?[p/] Why did he hate magic so much?",
-    "translation": "",
+    "translation": "Tyrion: 能说说更多关于您丈夫的事情吗？[p/]他为什么如此讨厌魔法？",
     "context": "{\n  \"id\": \"line:0799255\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: Can you tell me more about your husband?[p/] Why did he hate magic so much?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c8f602d297be8292",
     "original": "Tyrion: I understand that magic is a symbol of the nobility,[p/] but things sounded different with him.",
-    "translation": "",
+    "translation": "Tyrion: 我明白法术就是贵族的标志，[p/]但对他来说好像不止如此。",
     "context": "{\n  \"id\": \"line:0c489f2\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: I understand that magic is a symbol of the nobility,[p/] but things sounded different with him.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9eb9430227ada5a0",
     "original": "Tyrion: It’s as if he thought Celeste had betrayed him somehow.",
-    "translation": "",
+    "translation": "Tyrion: 不知为何，他似乎觉得连塞莱斯特都背叛了他。",
     "context": "{\n  \"id\": \"line:0232df7\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: It’s as if he thought Celeste had betrayed him somehow.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0440acd4eddfbed6",
     "original": "Jolene: ...I wasn’t there when they were arguing,[p/] but I can only imagine what he said to her.",
-    "translation": "",
+    "translation": "Jolene: ……他们吵架的时候我并不在场，[p/]但我能猜到他对我女儿是怎么说的。",
     "context": "{\n  \"id\": \"line:095d725\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: ...I wasn’t there when they were arguing,[p/] but I can only imagine what he said to her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cee1f5305be6edea",
     "original": "Jolene: He’s never had anything good to say about mages,[p/] and I could see how much his words indirectly hurt her.",
-    "translation": "",
+    "translation": "Jolene: 他从不对法师们有任何一句好话，[p/]我也能猜到他的言语让塞莱斯特带来多么重地受伤。",
     "context": "{\n  \"id\": \"line:031f21a\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: He’s never had anything good to say about mages,[p/] and I could see how much his words indirectly hurt her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::575706206b28ee5d",
     "original": "Tyrion: Did something happen?",
-    "translation": "",
+    "translation": "Tyrion: 发生过什么事吗？",
     "context": "{\n  \"id\": \"line:04e5f06\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: Did something happen?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::44ca8c6da2c72cf3",
     "original": "Jolene: ...I don’t really know. [h=\"I don’t trust him enough.|I shouldn't talk about Effie.\" e=\"fs\"/]",
-    "translation": "",
+    "translation": "Jolene: ……我并不清楚。[h=\"他还不足够可信。|我不应该提起埃菲的事。\" e=\"fs\"/]",
     "context": "{\n  \"id\": \"line:02d07e8\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: ...I don’t really know. [h=\\\"I don’t trust him enough.|I shouldn't talk about Effie.\\\" e=\\\"fs\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d668193082d530f8",
     "original": "Who was “Effie”?",
-    "translation": "",
+    "translation": "“埃菲”是谁？",
     "context": "{\n  \"id\": \"line:04beab2\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Who was “Effie”?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8278b978d74dffca",
     "original": "“Effie”",
-    "translation": "",
+    "translation": "“埃菲”",
     "context": "{\n  \"id\": \"line:01fcaea\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"“Effie”\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6ad06d658fe824c9",
     "original": "Tyrion: Does Flinhart’s resentment have something to do with Effie?",
-    "translation": "",
+    "translation": "Tyrion: 弗林哈特的怨恨与埃菲有关系吗？",
     "context": "{\n  \"id\": \"line:025c365\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: Does Flinhart’s resentment have something to do with Effie?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::150c770910bb871d",
     "original": "Jolene: ...!",
-    "translation": "",
+    "translation": "Jolene: .……！",
     "context": "{\n  \"id\": \"line:0a5e1ad\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: ...!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ccab1748a0571e59",
     "original": "Jolene: ...How do you know about her?[p/][s/] There shouldn't be any records of what happened.",
-    "translation": "",
+    "translation": "Jolene: ……你怎么知道她的？[p/][s/]那件事应该没有什么记录才对。",
     "context": "{\n  \"id\": \"line:093d0e2\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: ...How do you know about her?[p/][s/] There shouldn't be any records of what happened.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d3459d9cf0febb54",
     "original": "Tyrion: I have my ways of finding out.",
-    "translation": "",
+    "translation": "Tyrion: 我有自己的调查渠道。",
     "context": "{\n  \"id\": \"line:0c5d17e\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: I have my ways of finding out.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ebb1e692e0a75074",
     "original": "Jolene: ...Of course.[p/] You work for Ruby Tymora.",
-    "translation": "",
+    "translation": "Jolene: .……那当然。[p/]毕竟你是为鲁比·泰摩拉工作。",
     "context": "{\n  \"id\": \"line:000995a\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: ...Of course.[p/] You work for Ruby Tymora.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::171e2041360398d6",
     "original": "Jolene: What did she do?[p/] Did she strong-arm one of the neighbors into talking?",
-    "translation": "",
+    "translation": "Jolene: 她做了什么？[p/] 她是不是用了强硬手段撬开邻里的嘴巴？",
     "context": "{\n  \"id\": \"line:009c667\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: What did she do?[p/] Did she strong-arm one of the neighbors into talking?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::af8184ff8383015c",
     "original": "Jolene: We don’t need people like her going around Kornhaven and opening up old wounds.",
-    "translation": "",
+    "translation": "Jolene: 我们不想让她这样喜欢揭开旧伤疤的人来到科尔哈文。",
     "context": "{\n  \"id\": \"line:03b6c64\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: We don’t need people like her going around Kornhaven and opening up old wounds.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::be00ac24412bebea",
     "original": "Tyrion: What?",
-    "translation": "",
+    "translation": "Tyrion: 什么？",
     "context": "{\n  \"id\": \"line:097a54e\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: What?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ce74a1ce6a70eaa0",
     "original": "Jolene: Flinhart always idolized her,[p/] but I could never stand her methods.",
-    "translation": "",
+    "translation": "Jolene: 弗林哈特总是很崇拜她，[p/]但我从来不太理解她的那套做法。",
     "context": "{\n  \"id\": \"line:0639eb8\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Jolene: Flinhart always idolized her,[p/] but I could never stand her methods.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fe5aa5bdc630478a",
     "original": "Tyrion: ...Is this about the rumors?",
-    "translation": "",
+    "translation": "Tyrion: ……您是说那些传言？",
     "context": "{\n  \"id\": \"line:09da532\",\n  \"node\": \"CelesteRoom_Talk\",\n  \"text\": \"Tyrion: ...Is this about the rumors?\"\n}"
   },
   {
