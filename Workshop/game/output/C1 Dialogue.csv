@@ -1342,70 +1342,70 @@ line:0907c56,CelesteRoom_Present,Back,返回
 line:091238a,CelesteRoom_Present,Default,
 line:0c55024,CelesteRoom_Present,Tyrion: Can you tell me more about this?,Tyrion: 你对这个有什么想法吗？
 line:081735b,CelesteRoom_Present,"Jolene: I’m sorry,[p/] but I don't know much about these things.",Jolene: 对不起啊，[p/]但对这个我真的不怎么了解。
-line:09c40fc,CelesteRoom_Check,"I slid Celeste’s key into the lock and turned it,[p/] allowing the door to creak open.",
-line:01c6368,CelesteRoom_Check,I heard the fumbling of objects on the other side.[p/] Someone else was there.,
-line:080ccbf,CelesteRoom_Check,Jolene: I’ve already told you [s/]“[i]knights[/i]” everything that I know!,
-line:0cea28c,CelesteRoom_Check,Jolene: What more do you—?!,
-line:05bfac4,CelesteRoom_Check,Jolene: Oh?[p/][s/] It’s you!,
-line:038df3e,CelesteRoom_Check,Something about the way the woman carried herself reminded me of Celeste.,
-line:0e45d0b,CelesteRoom_Check,"I knew she was adopted,[p/] but she clearly took after her mother.",
-line:072dfc0,CelesteRoom_Check,I recognized the same bubbly warmth in the woman's posture[p/]—tempered with a subtle hint of maturity.,
-line:04fee99,CelesteRoom_Check,"Tyrion: ...Sorry if I'm intruding,[p/] but what are you doing in Celeste’s room?",
-line:01bd200,CelesteRoom_Check,"Jolene: Oh, I’m so sorry.[p/] I'm Jolene.[p/] I'm Celeste's mother.",
-line:065316b,CelesteRoom_Check,Jolene: I can’t thank you enough for everything that you’ve done for her.,
-line:05dc47c,CelesteRoom_Check,Jolene: I really appreciate you sticking by her after she hit you like that.,
-line:07741ad,CelesteRoom_Check,"Tyrion: I-[p/][s/]It’s fine, really.",
-line:0867ac2,CelesteRoom_Check,I kind of deserved it for freezing up like that.,
-line:0ad719c,CelesteRoom_Check,"Anyways,[p/] Jolene was Flinhart’s wife.[p/] That meant that she knew him better than anyone else,[p/] even Celeste.",
-line:0e40580,CelesteRoom_Check,Tyrion: Do you mind if I ask you some questions?,
-line:0320b4d,CelesteRoom_Check,"Jolene: ...O-[p/][s/]Of course![p/][s/] I’ll do anything to help! [h=""He’s helped Celeste a lot.|But can I really trust him?"" e=""f""/]",
-line:0fb1b6c,CelesteRoom_Check,The Eye revealed a hint of fear and distrust from her.,
-line:03a9bf1,CelesteRoom_Check,"I’d investigated the tavern as much as I could,[p/] but there was still one last thing I needed to do.",
-line:077ac63,CelesteRoom_Check,It was time to head back to the dungeons and TALK to Celeste.,
-line:02ca2c4,CelesteFail,Celeste: I really appreciate you trying to make me feel better.,
-line:032914b,CelesteFail,Celeste: But I know the truth...[p/] Nothing will change that.,
-line:08a07f4,CelesteFail,Damn it all...[p/] I still wasn’t getting through to her.,
-line:0b62f6a,CelesteArgue,That final argument with her father would be a lasting scar on Celeste.,
-line:00b4f20,CelesteArgue,"Throughout this entire investigation,[p/] I’d learned how much they cared for each other.",
-line:0fe4205,CelesteArgue,I couldn't leave things as they were.,
-line:05e6318,CelesteArgue,Yes,
-line:0b3454b,CelesteArgue,No,
-line:016da5d,CelesteArgue,"Celeste: I know you’re just trying to make me feel better,[p/] but my dad has hated mages.",
-line:05677bc,CelesteArgue,Celeste: I knew that better than anyone.,
+line:09c40fc,CelesteRoom_Check,"I slid Celeste’s key into the lock and turned it,[p/] allowing the door to creak open.",我将塞莱斯特的钥匙插入锁孔并转动，[p/]让门吱呀一声打开。
+line:01c6368,CelesteRoom_Check,I heard the fumbling of objects on the other side.[p/] Someone else was there.,我听见门后有东西翻来翻去的声音。[p/]还有人在这里。
+line:080ccbf,CelesteRoom_Check,Jolene: I’ve already told you [s/]“[i]knights[/i]” everything that I know!,Jolene: 我早就把所有知道的事情告诉你们这帮[s/]“[i]骑士[/i]” 了！
+line:0cea28c,CelesteRoom_Check,Jolene: What more do you—?!,Jolene: 你们到底还要打听什——？！
+line:05bfac4,CelesteRoom_Check,Jolene: Oh?[p/][s/] It’s you!,Jolene: 哦？[p/][s/]是你啊！
+line:038df3e,CelesteRoom_Check,Something about the way the woman carried herself reminded me of Celeste.,这位女士的言行举止让我有些想起了塞莱斯特。
+line:0e45d0b,CelesteRoom_Check,"I knew she was adopted,[p/] but she clearly took after her mother.",我知道她是被领养的，[p/]但她显然更像塞莱斯特真正的妈妈。
+line:072dfc0,CelesteRoom_Check,I recognized the same bubbly warmth in the woman's posture[p/]—tempered with a subtle hint of maturity.,我从那位女士的姿态中感受到了同样的活泼热情——[p/]同时又透着一丝微妙的成熟气质。
+line:04fee99,CelesteRoom_Check,"Tyrion: ...Sorry if I'm intruding,[p/] but what are you doing in Celeste’s room?",Tyrion: .……抱歉打扰，[p/]但您在塞莱斯特的房间里做什么呢？
+line:01bd200,CelesteRoom_Check,"Jolene: Oh, I’m so sorry.[p/] I'm Jolene.[p/] I'm Celeste's mother.",Jolene: 啊，不好意思。[p/]我叫朱莲尼，[p/]是塞莱斯特的妈妈。
+line:065316b,CelesteRoom_Check,Jolene: I can’t thank you enough for everything that you’ve done for her.,Jolene: 你为她所做的一切，我怎么谢谢你都不够。
+line:05dc47c,CelesteRoom_Check,Jolene: I really appreciate you sticking by her after she hit you like that.,Jolene: 她给了你一下子之后，你还坚定地为她辩护，实在感激。
+line:07741ad,CelesteRoom_Check,"Tyrion: I-[p/][s/]It’s fine, really.",Tyrion: 那、[p/][s/]那其实没什么，真的。
+line:0867ac2,CelesteRoom_Check,I kind of deserved it for freezing up like that.,我就那么呆在那里，也算是咎由自取。
+line:0ad719c,CelesteRoom_Check,"Anyways,[p/] Jolene was Flinhart’s wife.[p/] That meant that she knew him better than anyone else,[p/] even Celeste.",总而言之，[p/]朱莲尼是弗林哈特的妻子。[p/]这也意味着她比任何人都了解弗林哈特，[p/]包括塞莱斯特。
+line:0e40580,CelesteRoom_Check,Tyrion: Do you mind if I ask you some questions?,Tyrion: 介意我向您问几个问题吗？
+line:0320b4d,CelesteRoom_Check,"Jolene: ...O-[p/][s/]Of course![p/][s/] I’ll do anything to help! [h=""He’s helped Celeste a lot.|But can I really trust him?"" e=""f""/]","Jolene: ……当、[p/][s/]当然了！[p/][s/]我会尽我所能帮助你！[h=""他帮了塞莱斯特很多忙。|但我真的能相信他吗？"" e=""f""/]"
+line:0fb1b6c,CelesteRoom_Check,The Eye revealed a hint of fear and distrust from her.,荷鲁斯之眼从她设上揭露出一点害怕与不信任。
+line:03a9bf1,CelesteRoom_Check,"I’d investigated the tavern as much as I could,[p/] but there was still one last thing I needed to do.",我已经尽可能调查了整个酒馆，[p/]但还有最后一件我需要做的事情。
+line:077ac63,CelesteRoom_Check,It was time to head back to the dungeons and TALK to Celeste.,现在是时候回到地牢与塞莱斯特<size=1.5em>交谈</size>了。
+line:02ca2c4,CelesteFail,Celeste: I really appreciate you trying to make me feel better.,Celeste: 我很感激你想试着让我感觉好一点。
+line:032914b,CelesteFail,Celeste: But I know the truth...[p/] Nothing will change that.,Celeste: 但我知道事实……[p/]什么都改变不了了。
+line:08a07f4,CelesteFail,Damn it all...[p/] I still wasn’t getting through to her.,糟糕了……[p/]我仍然没能打动她。
+line:0b62f6a,CelesteArgue,That final argument with her father would be a lasting scar on Celeste.,与父亲最后的那次争吵，成为了塞莱斯特心中难以磨灭的伤疤。
+line:00b4f20,CelesteArgue,"Throughout this entire investigation,[p/] I’d learned how much they cared for each other.",在整个调查过程中，[p/]我已经知道她们有多么关心彼此。
+line:0fe4205,CelesteArgue,I couldn't leave things as they were.,我不能让事情就这样不了了之。
+line:05e6318,CelesteArgue,Yes,是
+line:0b3454b,CelesteArgue,No,否
+line:016da5d,CelesteArgue,"Celeste: I know you’re just trying to make me feel better,[p/] but my dad has hated mages.",Celeste: 我知道你只是想让我感觉好一点，[p/]但我爸爸一直憎恨法师。
+line:05677bc,CelesteArgue,Celeste: I knew that better than anyone.,Celeste: 我比任何人都清楚这一点。
 line:0021cf2,CelesteArgue1,Effie,
 line:086d5d6,CelesteArgue1,Default,
-line:0238edb,CelesteArgue1,Celeste: ...What is this?,
-line:0107834,CelesteArgue1,Tyrion: This is the reason why your father hated magic.,
-line:0646613,CelesteArgue1,Celeste: That doesn't really make any sense.,
-line:0d6b452,CelesteArgue1,Tyrion: I-[p/][s/]I guess you're right...,
-line:0de1e26,CelesteArgue2,"Tyrion: I don’t know if it’s my place to say this,[p/] but there’s a reason why your father hated magic.",
+line:0238edb,CelesteArgue1,Celeste: ...What is this?,Celeste: ……这是什么？
+line:0107834,CelesteArgue1,Tyrion: This is the reason why your father hated magic.,Tyrion: 这正是你父亲憎恨魔法的原因。
+line:0646613,CelesteArgue1,Celeste: That doesn't really make any sense.,Celeste: 这根本说不通。
+line:0d6b452,CelesteArgue1,Tyrion: I-[p/][s/]I guess you're right...,Tyrion: 我、[p/][s/]我想你是对的……
+line:0de1e26,CelesteArgue2,"Tyrion: I don’t know if it’s my place to say this,[p/] but there’s a reason why your father hated magic.",Tyrion: 不知道是否该由我来说，[p/]但你父亲憎恨魔法是有原因的。
 line:0cdcd65,CelesteArgue2,Celeste: ...What?,Celeste: .……啊？
-line:0c17051,CelesteArgue2,"Tyrion: Decades ago,[p/] he had a sister.[p/] She was killed by a mage in a tragic accident.",
-line:0da0150,CelesteArgue2,Tyrion: That's why he resents magic so much.[p/] It ripped away someone that he loved dearly.,
-line:0b77d55,CelesteArgue2,Celeste: I-[p/][s/]I never knew that...,
-line:0ee76e2,CelesteArgue2,"Celeste: But that just proves it then, doesn't it?",
-line:0c4ef59,CelesteArgue2,"Celeste: I knew how he felt about it,[p/] but I didn’t care.[p/] I just wanted to get away from my life here.",
-line:054f0ac,CelesteArgue2,Celeste: He had every right to be angry at me.[p/] I was being selfish.,
+line:0c17051,CelesteArgue2,"Tyrion: Decades ago,[p/] he had a sister.[p/] She was killed by a mage in a tragic accident.","Tyrion: 二十年前，,[p/]他曾有个妹妹。[p/]而她在一场不幸的事故中被一名法师杀害了。"
+line:0da0150,CelesteArgue2,Tyrion: That's why he resents magic so much.[p/] It ripped away someone that he loved dearly.,Tyrion: 这就是他如此憎恨魔法的原因，[p/]它夺走了他亲爱之人的性命。
+line:0b77d55,CelesteArgue2,Celeste: I-[p/][s/]I never knew that...,Celeste: 我、[p/][s/]我从来都不知道那件事……
+line:0ee76e2,CelesteArgue2,"Celeste: But that just proves it then, doesn't it?",Celeste: 但这恰好证明了这一点，不是吗？
+line:0c4ef59,CelesteArgue2,"Celeste: I knew how he felt about it,[p/] but I didn’t care.[p/] I just wanted to get away from my life here.",Celeste: 我知道他会有怎样的感受，[p/]但我却满不在乎。[p/]我只想摆脱这里的生活。
+line:054f0ac,CelesteArgue2,Celeste: He had every right to be angry at me.[p/] I was being selfish.,Celeste: 他完全有理由对我生气。[p/]我太自私了。
 line:0c0a88b,CelesteArgue3,Occupation2,
 line:0d291b6,CelesteArgue3,Default,
 line:0b9d2a4,CelesteArgue3,Celeste: ...What?,Celeste: .……啊？
-line:0407d41,CelesteArgue3,"Tyrion: You're not a selfish person, Celeste,[p/] and this proves it.",
+line:0407d41,CelesteArgue3,"Tyrion: You're not a selfish person, Celeste,[p/] and this proves it.",Tyrion: 你并不是个自私的人，塞莱斯特。[p/]而这个证据证明了这一点。
 line:036cf97,CelesteArgue3,Celeste: ...,Celeste: ……
-line:0f2c49b,CelesteArgue3,"Celeste: Thank you,[p/] but I don't really see how that proves anything.",
-line:00d0011,CelesteArgue3,Tyrion: S-[p/][s/]Sorry...[p/] I meant to show you something else.,
-line:09560ea,CelesteArgue4,"Tyrion: But you didn’t learn magic just to benefit yourself, though.",
-line:0568799,CelesteArgue4,Tyrion: You used it to support your family.[p/] You gave them hope when the nobility shut down their tavern.,
-line:04da3c1,CelesteArgue4,Celeste: T-[p/][s/]That’s—,
-line:054d096,CelesteArgue4,Tyrion: You didn’t have a choice.,
-line:069afb1,CelesteArgue4,"Tyrion: You had a gift,[p/] and you used it to your advantage.[p/] That’s not selfish.",
+line:0f2c49b,CelesteArgue3,"Celeste: Thank you,[p/] but I don't really see how that proves anything.",Celeste: 谢谢你，[p/]但我看不出来那个有证明什么。
+line:00d0011,CelesteArgue3,Tyrion: S-[p/][s/]Sorry...[p/] I meant to show you something else.,Tyrion: 对、[p/][s/]对不起……[p/]我本来是要给你看另一个东西。
+line:09560ea,CelesteArgue4,"Tyrion: But you didn’t learn magic just to benefit yourself, though.",Tyrion: 但你不仅仅是为了自己受益而学习法术的。
+line:0568799,CelesteArgue4,Tyrion: You used it to support your family.[p/] You gave them hope when the nobility shut down their tavern.,Tyrion: 你用它支持家计，[p/]在贵族关闭你们家酒馆时给了他们一个希望。
+line:04da3c1,CelesteArgue4,Celeste: T-[p/][s/]That’s—,CELESTE: 那、[p/][s/]那是——
+line:054d096,CelesteArgue4,Tyrion: You didn’t have a choice.,Tyrion: 你也没有其他选择。
+line:069afb1,CelesteArgue4,"Tyrion: You had a gift,[p/] and you used it to your advantage.[p/] That’s not selfish.",Tyrion: 你有这份天赋，[p/]并利用你的天赋获益。[p/]这称不上自私。
 line:0925b73,CelesteArgue4,Celeste: ...,Celeste: ……
-line:0ca9d54,CelesteArgue4,Celeste: Shut up...,
+line:0ca9d54,CelesteArgue4,Celeste: Shut up...,Celeste: 别再说了……
 line:0c3536b,CelesteArgue4,Tyrion: ...What?,Tyrion: ……怎么了？
-line:05db8be,CelesteArgue4,"Celeste: Just shut up, Tyrion! [h=""Why won’t you leave me alone?!"" e=""saf""/]",
-line:0da7c26,CelesteArgue4,Tyrion: Celeste—,
-line:03117bf,CelesteArgue4,Celeste: You don't know anything!,
-line:05c0563,CelesteArgue4,Celeste: You weren’t there![p/][s/] You didn’t hear what he said to me!,
-line:0f976dc,CelesteArgue4,Celeste: You didn’t see the way he was looking at me!,
+line:05db8be,CelesteArgue4,"Celeste: Just shut up, Tyrion! [h=""Why won’t you leave me alone?!"" e=""saf""/]","Celeste: 别再说了，提利昂！ [h=""你为什么不能让我一个人静一静？！"" e=""saf""/]"
+line:0da7c26,CelesteArgue4,Tyrion: Celeste—,Tyrion: 塞莱斯特——
+line:03117bf,CelesteArgue4,Celeste: You don't know anything!,Celeste: 你什么都不知道！
+line:05c0563,CelesteArgue4,Celeste: You weren’t there![p/][s/] You didn’t hear what he said to me!,Celeste: 你当时根本不在那！[p/][s/]你没听到他说了什么！
+line:0f976dc,CelesteArgue4,Celeste: You didn’t see the way he was looking at me!,Celeste: 你没有看到他当时看着我的眼神！
 line:019b50d,CelesteArgue4,Celeste: I knew him![p/][s/] I knew him better than anyone!,
 line:0de5b94,CelesteArgue4,"Celeste: He loved me![p/][s/] He took care of me,[p/][s/] and I threw it all away!",
 line:03a35a1,CelesteArgue4,Celeste: I [i]chose[/i] to become a mage![p/][s/] He would never forgive me for that!,
@@ -2295,8 +2295,8 @@ line:02026e1,OrymArgue,Commander White was being hostile towards me.,
 line:0165121,OrymArgue,"At first,[p/] I'd thought he was just being corrupt or apathetic.",
 line:005eaf7,OrymArgue,But he seemed to have a personal grudge against Ms. Tymora and me.,
 line:0ecab85,OrymArgue,"If I could clear up this misunderstanding,[p/] he might help me.",
-line:06a3b84,OrymArgue,Yes,
-line:0cc15c4,OrymArgue,No,
+line:06a3b84,OrymArgue,Yes,是
+line:0cc15c4,OrymArgue,No,否
 line:0ab4553,OrymArgue,"Tyrion: Do you have an issue with me, Commander White?",
 line:0d4c62f,OrymArgue,Orym: Don’t give me that crap![p/][s/] I’ve seen who you work for.,
 line:0eaf442,OrymArgue,Orym: You think I don't know what you're doing?,

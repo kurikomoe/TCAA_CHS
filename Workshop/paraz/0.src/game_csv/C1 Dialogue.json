@@ -8843,288 +8843,288 @@
   {
     "key": "C1 Dialogue.csv::translation::190ed4ab1bf1b2d3",
     "original": "I slid Celeste’s key into the lock and turned it,[p/] allowing the door to creak open.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我将塞莱斯特的钥匙插入锁孔并转动，[p/]让门吱呀一声打开。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09c40fc\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"I slid Celeste’s key into the lock and turned it,[p/] allowing the door to creak open.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::768e1eda77d7eae6",
     "original": "I heard the fumbling of objects on the other side.[p/] Someone else was there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我听见门后有东西翻来翻去的声音。[p/]还有人在这里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c6368\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"I heard the fumbling of objects on the other side.[p/] Someone else was there.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d5c06a8536ad9b3a",
     "original": "Jolene: I’ve already told you [s/]“[i]knights[/i]” everything that I know!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 我早就把所有知道的事情告诉你们这帮[s/]“[i]骑士[/i]” 了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:080ccbf\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Jolene: I’ve already told you [s/]“[i]knights[/i]” everything that I know!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c4fc1a3c55686194",
     "original": "Jolene: What more do you—?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 你们到底还要打听什——？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cea28c\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Jolene: What more do you—?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e1ae77b6c4701935",
     "original": "Jolene: Oh?[p/][s/] It’s you!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 哦？[p/][s/]是你啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05bfac4\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Jolene: Oh?[p/][s/] It’s you!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f69d0c064534d060",
     "original": "Something about the way the woman carried herself reminded me of Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这位女士的言行举止让我有些想起了塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:038df3e\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Something about the way the woman carried herself reminded me of Celeste.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5d7ce69cd3768919",
     "original": "I knew she was adopted,[p/] but she clearly took after her mother.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我知道她是被领养的，[p/]但她显然更像塞莱斯特真正的妈妈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e45d0b\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"I knew she was adopted,[p/] but she clearly took after her mother.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d09d1d9a160c5cb1",
     "original": "I recognized the same bubbly warmth in the woman's posture[p/]—tempered with a subtle hint of maturity.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我从那位女士的姿态中感受到了同样的活泼热情——[p/]同时又透着一丝微妙的成熟气质。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:072dfc0\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"I recognized the same bubbly warmth in the woman's posture[p/]—tempered with a subtle hint of maturity.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7d8707b400adb74b",
     "original": "Tyrion: ...Sorry if I'm intruding,[p/] but what are you doing in Celeste’s room?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: .……抱歉打扰，[p/]但您在塞莱斯特的房间里做什么呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04fee99\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Tyrion: ...Sorry if I'm intruding,[p/] but what are you doing in Celeste’s room?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0d017d5adb3b7bd7",
     "original": "Jolene: Oh, I’m so sorry.[p/] I'm Jolene.[p/] I'm Celeste's mother.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 啊，不好意思。[p/]我叫朱莲尼，[p/]是塞莱斯特的妈妈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01bd200\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Jolene: Oh, I’m so sorry.[p/] I'm Jolene.[p/] I'm Celeste's mother.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8b4e293678d4355a",
     "original": "Jolene: I can’t thank you enough for everything that you’ve done for her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 你为她所做的一切，我怎么谢谢你都不够。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:065316b\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Jolene: I can’t thank you enough for everything that you’ve done for her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bfc17e3a476da5cd",
     "original": "Jolene: I really appreciate you sticking by her after she hit you like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: 她给了你一下子之后，你还坚定地为她辩护，实在感激。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05dc47c\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Jolene: I really appreciate you sticking by her after she hit you like that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::98bd27b862d044ba",
     "original": "Tyrion: I-[p/][s/]It’s fine, really.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那、[p/][s/]那其实没什么，真的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07741ad\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Tyrion: I-[p/][s/]It’s fine, really.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3ae28b5cedebc54c",
     "original": "I kind of deserved it for freezing up like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我就那么呆在那里，也算是咎由自取。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0867ac2\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"I kind of deserved it for freezing up like that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::72257a4f3e703926",
     "original": "Anyways,[p/] Jolene was Flinhart’s wife.[p/] That meant that she knew him better than anyone else,[p/] even Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "总而言之，[p/]朱莲尼是弗林哈特的妻子。[p/]这也意味着她比任何人都了解弗林哈特，[p/]包括塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ad719c\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Anyways,[p/] Jolene was Flinhart’s wife.[p/] That meant that she knew him better than anyone else,[p/] even Celeste.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::67ab3e588cc217ba",
     "original": "Tyrion: Do you mind if I ask you some questions?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 介意我向您问几个问题吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e40580\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Tyrion: Do you mind if I ask you some questions?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::570625d8b53e17f4",
     "original": "Jolene: ...O-[p/][s/]Of course![p/][s/] I’ll do anything to help! [h=\"He’s helped Celeste a lot.|But can I really trust him?\" e=\"f\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jolene: ……当、[p/][s/]当然了！[p/][s/]我会尽我所能帮助你！[h=\"他帮了塞莱斯特很多忙。|但我真的能相信他吗？\" e=\"f\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0320b4d\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"Jolene: ...O-[p/][s/]Of course![p/][s/] I’ll do anything to help! [h=\\\"He’s helped Celeste a lot.|But can I really trust him?\\\" e=\\\"f\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a7efa1c77a597c1d",
     "original": "The Eye revealed a hint of fear and distrust from her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "荷鲁斯之眼从她设上揭露出一点害怕与不信任。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fb1b6c\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"The Eye revealed a hint of fear and distrust from her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c135bf10134499bb",
     "original": "I’d investigated the tavern as much as I could,[p/] but there was still one last thing I needed to do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我已经尽可能调查了整个酒馆，[p/]但还有最后一件我需要做的事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03a9bf1\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"I’d investigated the tavern as much as I could,[p/] but there was still one last thing I needed to do.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::66228fd431717592",
     "original": "It was time to head back to the dungeons and TALK to Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "现在是时候回到地牢与塞莱斯特<size=1.5em>交谈</size>了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:077ac63\",\n  \"node\": \"CelesteRoom_Check\",\n  \"text\": \"It was time to head back to the dungeons and TALK to Celeste.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2f9dc99c7eff6b63",
     "original": "Celeste: I really appreciate you trying to make me feel better.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我很感激你想试着让我感觉好一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02ca2c4\",\n  \"node\": \"CelesteFail\",\n  \"text\": \"Celeste: I really appreciate you trying to make me feel better.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f905d0c39e5ed7d4",
     "original": "Celeste: But I know the truth...[p/] Nothing will change that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但我知道事实……[p/]什么都改变不了了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:032914b\",\n  \"node\": \"CelesteFail\",\n  \"text\": \"Celeste: But I know the truth...[p/] Nothing will change that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b3a9d58a674022ff",
     "original": "Damn it all...[p/] I still wasn’t getting through to her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "糟糕了……[p/]我仍然没能打动她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08a07f4\",\n  \"node\": \"CelesteFail\",\n  \"text\": \"Damn it all...[p/] I still wasn’t getting through to her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::956cf3d71839335d",
     "original": "That final argument with her father would be a lasting scar on Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "与父亲最后的那次争吵，成为了塞莱斯特心中难以磨灭的伤疤。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b62f6a\",\n  \"node\": \"CelesteArgue\",\n  \"text\": \"That final argument with her father would be a lasting scar on Celeste.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c446a34f19497f56",
     "original": "Throughout this entire investigation,[p/] I’d learned how much they cared for each other.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在整个调查过程中，[p/]我已经知道她们有多么关心彼此。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00b4f20\",\n  \"node\": \"CelesteArgue\",\n  \"text\": \"Throughout this entire investigation,[p/] I’d learned how much they cared for each other.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a41ae88244d45e6e",
     "original": "I couldn't leave things as they were.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我不能让事情就这样不了了之。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fe4205\",\n  \"node\": \"CelesteArgue\",\n  \"text\": \"I couldn't leave things as they were.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5397e0583f14f6c8",
     "original": "Yes",
-    "translation": "",
-    "stage": 0,
+    "translation": "是",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05e6318\",\n  \"node\": \"CelesteArgue\",\n  \"text\": \"Yes\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::816c52fd2bdd94a6",
     "original": "No",
-    "translation": "",
-    "stage": 0,
+    "translation": "否",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b3454b\",\n  \"node\": \"CelesteArgue\",\n  \"text\": \"No\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c738904ec9afe882",
     "original": "Celeste: I know you’re just trying to make me feel better,[p/] but my dad has hated mages.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我知道你只是想让我感觉好一点，[p/]但我爸爸一直憎恨法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:016da5d\",\n  \"node\": \"CelesteArgue\",\n  \"text\": \"Celeste: I know you’re just trying to make me feel better,[p/] but my dad has hated mages.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d71e93fcd97189a9",
     "original": "Celeste: I knew that better than anyone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我比任何人都清楚这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05677bc\",\n  \"node\": \"CelesteArgue\",\n  \"text\": \"Celeste: I knew that better than anyone.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4d0975cb02953515",
     "original": "Celeste: ...What is this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……这是什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0238edb\",\n  \"node\": \"CelesteArgue1\",\n  \"text\": \"Celeste: ...What is this?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d7f4df7680e77db3",
     "original": "Tyrion: This is the reason why your father hated magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这正是你父亲憎恨魔法的原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0107834\",\n  \"node\": \"CelesteArgue1\",\n  \"text\": \"Tyrion: This is the reason why your father hated magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::10701b567a0db459",
     "original": "Celeste: That doesn't really make any sense.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这根本说不通。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0646613\",\n  \"node\": \"CelesteArgue1\",\n  \"text\": \"Celeste: That doesn't really make any sense.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4622a6321edf2835",
     "original": "Tyrion: I-[p/][s/]I guess you're right...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我、[p/][s/]我想你是对的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d6b452\",\n  \"node\": \"CelesteArgue1\",\n  \"text\": \"Tyrion: I-[p/][s/]I guess you're right...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c4f040463b224b46",
     "original": "Tyrion: I don’t know if it’s my place to say this,[p/] but there’s a reason why your father hated magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不知道是否该由我来说，[p/]但你父亲憎恨魔法是有原因的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0de1e26\",\n  \"node\": \"CelesteArgue2\",\n  \"text\": \"Tyrion: I don’t know if it’s my place to say this,[p/] but there’s a reason why your father hated magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::880373188ac42929",
     "original": "Tyrion: Decades ago,[p/] he had a sister.[p/] She was killed by a mage in a tragic accident.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 二十年前，,[p/]他曾有个妹妹。[p/]而她在一场不幸的事故中被一名法师杀害了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c17051\",\n  \"node\": \"CelesteArgue2\",\n  \"text\": \"Tyrion: Decades ago,[p/] he had a sister.[p/] She was killed by a mage in a tragic accident.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::441bc6438bf24fe9",
     "original": "Tyrion: That's why he resents magic so much.[p/] It ripped away someone that he loved dearly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这就是他如此憎恨魔法的原因，[p/]它夺走了他亲爱之人的性命。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0da0150\",\n  \"node\": \"CelesteArgue2\",\n  \"text\": \"Tyrion: That's why he resents magic so much.[p/] It ripped away someone that he loved dearly.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3531f72d4059c719",
     "original": "Celeste: I-[p/][s/]I never knew that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我、[p/][s/]我从来都不知道那件事……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b77d55\",\n  \"node\": \"CelesteArgue2\",\n  \"text\": \"Celeste: I-[p/][s/]I never knew that...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cd1c710828c6ebf3",
     "original": "Celeste: But that just proves it then, doesn't it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但这恰好证明了这一点，不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ee76e2\",\n  \"node\": \"CelesteArgue2\",\n  \"text\": \"Celeste: But that just proves it then, doesn't it?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d023b7b7b2a3a403",
     "original": "Celeste: I knew how he felt about it,[p/] but I didn’t care.[p/] I just wanted to get away from my life here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我知道他会有怎样的感受，[p/]但我却满不在乎。[p/]我只想摆脱这里的生活。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c4ef59\",\n  \"node\": \"CelesteArgue2\",\n  \"text\": \"Celeste: I knew how he felt about it,[p/] but I didn’t care.[p/] I just wanted to get away from my life here.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cff6a0488ce1d223",
     "original": "Celeste: He had every right to be angry at me.[p/] I was being selfish.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 他完全有理由对我生气。[p/]我太自私了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:054f0ac\",\n  \"node\": \"CelesteArgue2\",\n  \"text\": \"Celeste: He had every right to be angry at me.[p/] I was being selfish.\"\n}"
   },
   {
@@ -9137,99 +9137,99 @@
   {
     "key": "C1 Dialogue.csv::translation::7b0857cf70acb008",
     "original": "Tyrion: You're not a selfish person, Celeste,[p/] and this proves it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你并不是个自私的人，塞莱斯特。[p/]而这个证据证明了这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0407d41\",\n  \"node\": \"CelesteArgue3\",\n  \"text\": \"Tyrion: You're not a selfish person, Celeste,[p/] and this proves it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6487cdba3fa4db04",
     "original": "Celeste: Thank you,[p/] but I don't really see how that proves anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 谢谢你，[p/]但我看不出来那个有证明什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f2c49b\",\n  \"node\": \"CelesteArgue3\",\n  \"text\": \"Celeste: Thank you,[p/] but I don't really see how that proves anything.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e372cfa20b3bc7fe",
     "original": "Tyrion: S-[p/][s/]Sorry...[p/] I meant to show you something else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 对、[p/][s/]对不起……[p/]我本来是要给你看另一个东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00d0011\",\n  \"node\": \"CelesteArgue3\",\n  \"text\": \"Tyrion: S-[p/][s/]Sorry...[p/] I meant to show you something else.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1f99ec6ec0f45a84",
     "original": "Tyrion: But you didn’t learn magic just to benefit yourself, though.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但你不仅仅是为了自己受益而学习法术的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09560ea\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Tyrion: But you didn’t learn magic just to benefit yourself, though.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b4990dd7303d5e3e",
     "original": "Tyrion: You used it to support your family.[p/] You gave them hope when the nobility shut down their tavern.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你用它支持家计，[p/]在贵族关闭你们家酒馆时给了他们一个希望。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0568799\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Tyrion: You used it to support your family.[p/] You gave them hope when the nobility shut down their tavern.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::719ab745b6a2f44b",
     "original": "Celeste: T-[p/][s/]That’s—",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 那、[p/][s/]那是——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04da3c1\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Celeste: T-[p/][s/]That’s—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cee8f7f01ac8018e",
     "original": "Tyrion: You didn’t have a choice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你也没有其他选择。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:054d096\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Tyrion: You didn’t have a choice.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f7aba3fdb817f41c",
     "original": "Tyrion: You had a gift,[p/] and you used it to your advantage.[p/] That’s not selfish.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你有这份天赋，[p/]并利用你的天赋获益。[p/]这称不上自私。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:069afb1\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Tyrion: You had a gift,[p/] and you used it to your advantage.[p/] That’s not selfish.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::831683aa9e03655f",
     "original": "Celeste: Shut up...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 别再说了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ca9d54\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Celeste: Shut up...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b3f013152ba22f8a",
     "original": "Celeste: Just shut up, Tyrion! [h=\"Why won’t you leave me alone?!\" e=\"saf\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 别再说了，提利昂！ [h=\"你为什么不能让我一个人静一静？！\" e=\"saf\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05db8be\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Celeste: Just shut up, Tyrion! [h=\\\"Why won’t you leave me alone?!\\\" e=\\\"saf\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0ecbc78e0a812849",
     "original": "Tyrion: Celeste—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0da7c26\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Tyrion: Celeste—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f6ac9e15febb2bcb",
     "original": "Celeste: You don't know anything!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你什么都不知道！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03117bf\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Celeste: You don't know anything!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3e605f54c49b36c2",
     "original": "Celeste: You weren’t there![p/][s/] You didn’t hear what he said to me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你当时根本不在那！[p/][s/]你没听到他说了什么！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05c0563\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Celeste: You weren’t there![p/][s/] You didn’t hear what he said to me!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3494790bfe160f19",
     "original": "Celeste: You didn’t see the way he was looking at me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你没有看到他当时看着我的眼神！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f976dc\",\n  \"node\": \"CelesteArgue4\",\n  \"text\": \"Celeste: You didn’t see the way he was looking at me!\"\n}"
   },
   {
