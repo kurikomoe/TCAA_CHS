@@ -1325,23 +1325,23 @@ line:000a710,CelesteRoom_Present,"Jolene: Flinhart actually hated the idea,[p/] 
 line:0f317ba,CelesteRoom_Present,"Jolene: It is a bit of a problem, though.",Jolene: 但它确实有点点毛病。
 line:05eeae6,CelesteRoom_Present,Jolene: Sometimes the other townsfolk vandalize it when we’re out.,Jolene: 有时我们不在的时候，其他村民会破坏它。
 line:09c6ff1,CelesteRoom_Present,Bottle3,
-line:01d6b15,CelesteRoom_Present,Jolene: It's such a shame.[p/] Flinhart was really looking forward to giving Celeste the Lotus Juice.,
-line:012e08e,CelesteRoom_Present,It was probably his last gift to her...,
-line:09bda60,CelesteRoom_Present,It's too bad that it's become part of the crime scene.,
+line:01d6b15,CelesteRoom_Present,Jolene: It's such a shame.[p/] Flinhart was really looking forward to giving Celeste the Lotus Juice.,Jolene: 这真是太遗憾了。[p/]弗林哈特一直很期待把这瓶莲之水交给塞莱斯特的。
+line:012e08e,CelesteRoom_Present,It was probably his last gift to her...,这或许是他留给塞莱斯特的最后礼物了……
+line:09bda60,CelesteRoom_Present,It's too bad that it's become part of the crime scene.,而它成为了犯罪现场的一部分，真的很糟糕。
 line:06156a3,CelesteRoom_Present,Effie,
-line:014ddf2,CelesteRoom_Present,Tyrion: I'm so sorry about what happened to Effie.,
-line:070c2ac,CelesteRoom_Present,Tyrion: That must have been traumatizing.,
-line:025d9f7,CelesteRoom_Present,Jolene: These things happen more commonly than you'd think.,
+line:014ddf2,CelesteRoom_Present,Tyrion: I'm so sorry about what happened to Effie.,Tyrion: 我对埃菲的事深感遗憾。
+line:070c2ac,CelesteRoom_Present,Tyrion: That must have been traumatizing.,Tyrion: 那一定很不好受。
+line:025d9f7,CelesteRoom_Present,Jolene: These things happen more commonly than you'd think.,Jolene: 这种事比你想的要普遍得多。
 line:0305633,CelesteRoom_Present,Occupation|Occupation2,
-line:0311452,CelesteRoom_Present,Tyrion: I'm still surprised that Celeste is a mercenary.,
-line:0c6f804,CelesteRoom_Present,Tyrion: She doesn’t exactly look like one.,
-line:0e44134,CelesteRoom_Present,Jolene: Then you haven’t known her long enough.,
-line:0d6ca1b,CelesteRoom_Present,"Jolene: Even when she was a kid,[p/] she was always picking fights with people.",
-line:03f0b5e,CelesteRoom_Present,Jolene: She's definitely Flinhart's daughter.,
+line:0311452,CelesteRoom_Present,Tyrion: I'm still surprised that Celeste is a mercenary.,Tyrion: 塞莱斯特在当雇佣兵这事儿还是让我很惊讶。
+line:0c6f804,CelesteRoom_Present,Tyrion: She doesn’t exactly look like one.,Tyrion: 她看起来并不像是干那行的。
+line:0e44134,CelesteRoom_Present,Jolene: Then you haven’t known her long enough.,Jolene: 只能说你认识她还不够久。
+line:0d6ca1b,CelesteRoom_Present,"Jolene: Even when she was a kid,[p/] she was always picking fights with people.",Jolene: 她还只是个小孩子的时候，[p/]就总是和别人找茬。
+line:03f0b5e,CelesteRoom_Present,Jolene: She's definitely Flinhart's daughter.,Jolene: 她毫无疑问是弗林哈特的女儿。
 line:0907c56,CelesteRoom_Present,Back,返回
 line:091238a,CelesteRoom_Present,Default,
-line:0c55024,CelesteRoom_Present,Tyrion: Can you tell me more about this?,
-line:081735b,CelesteRoom_Present,"Jolene: I’m sorry,[p/] but I don't know much about these things.",
+line:0c55024,CelesteRoom_Present,Tyrion: Can you tell me more about this?,Tyrion: 你对这个有什么想法吗？
+line:081735b,CelesteRoom_Present,"Jolene: I’m sorry,[p/] but I don't know much about these things.",Jolene: 对不起啊，[p/]但对这个我真的不怎么了解。
 line:09c40fc,CelesteRoom_Check,"I slid Celeste’s key into the lock and turned it,[p/] allowing the door to creak open.",
 line:01c6368,CelesteRoom_Check,I heard the fumbling of objects on the other side.[p/] Someone else was there.,
 line:080ccbf,CelesteRoom_Check,Jolene: I’ve already told you [s/]“[i]knights[/i]” everything that I know!,
@@ -1664,7 +1664,7 @@ line:061f91c,Dungeon_Present,"Tyrion: Yeah...[p/] Without an Arcane Power Cell,[
 line:05327cf,Dungeon_Present,Celeste: ...I don't know why he kept trying to use it when he hated it so much.,
 line:0d3516b,Dungeon_Present,Back,返回
 line:02a227a,Dungeon_Present,Default,
-line:0980244,Dungeon_Present,Tyrion: Can you tell me more about this?,
+line:0980244,Dungeon_Present,Tyrion: Can you tell me more about this?,Tyrion: 你对这个有什么想法吗？
 line:05ef3f2,Dungeon_Present,Celeste: Oh...[p/] I don't really know what to say about that.[p/] Sorry.,
 line:0714959,Dungeon_Check,"I returned to the dungeons,[p/] but Celeste’s cell was empty.",
 line:0048751,Dungeon_Check,The Inquisition must’ve still been questioning her.[p/] I would need to come back later.,

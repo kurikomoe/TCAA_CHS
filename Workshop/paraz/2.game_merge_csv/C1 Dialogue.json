@@ -7484,19 +7484,19 @@
   {
     "key": "C1 Dialogue.csv::translation::243608c1c2248cdb",
     "original": "Jolene: It's such a shame.[p/] Flinhart was really looking forward to giving Celeste the Lotus Juice.",
-    "translation": "",
+    "translation": "Jolene: 这真是太遗憾了。[p/]弗林哈特一直很期待把这瓶莲之水交给塞莱斯特的。",
     "context": "{\n  \"id\": \"line:01d6b15\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Jolene: It's such a shame.[p/] Flinhart was really looking forward to giving Celeste the Lotus Juice.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4bb559ca27eef070",
     "original": "It was probably his last gift to her...",
-    "translation": "",
+    "translation": "这或许是他留给塞莱斯特的最后礼物了……",
     "context": "{\n  \"id\": \"line:012e08e\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"It was probably his last gift to her...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ce510cd1f4cbb102",
     "original": "It's too bad that it's become part of the crime scene.",
-    "translation": "",
+    "translation": "而它成为了犯罪现场的一部分，真的很糟糕。",
     "context": "{\n  \"id\": \"line:09bda60\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"It's too bad that it's become part of the crime scene.\"\n}"
   },
   {
@@ -7508,19 +7508,19 @@
   {
     "key": "C1 Dialogue.csv::translation::9e7cc8d910b7ed21",
     "original": "Tyrion: I'm so sorry about what happened to Effie.",
-    "translation": "",
+    "translation": "Tyrion: 我对埃菲的事深感遗憾。",
     "context": "{\n  \"id\": \"line:014ddf2\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Tyrion: I'm so sorry about what happened to Effie.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::acae23aba40d4faa",
     "original": "Tyrion: That must have been traumatizing.",
-    "translation": "",
+    "translation": "Tyrion: 那一定很不好受。",
     "context": "{\n  \"id\": \"line:070c2ac\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Tyrion: That must have been traumatizing.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8462344ab8ae9f7d",
     "original": "Jolene: These things happen more commonly than you'd think.",
-    "translation": "",
+    "translation": "Jolene: 这种事比你想的要普遍得多。",
     "context": "{\n  \"id\": \"line:025d9f7\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Jolene: These things happen more commonly than you'd think.\"\n}"
   },
   {
@@ -7532,31 +7532,31 @@
   {
     "key": "C1 Dialogue.csv::translation::e537f12bbc8db146",
     "original": "Tyrion: I'm still surprised that Celeste is a mercenary.",
-    "translation": "",
+    "translation": "Tyrion: 塞莱斯特在当雇佣兵这事儿还是让我很惊讶。",
     "context": "{\n  \"id\": \"line:0311452\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Tyrion: I'm still surprised that Celeste is a mercenary.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::af06f33dcb7c3d7c",
     "original": "Tyrion: She doesn’t exactly look like one.",
-    "translation": "",
+    "translation": "Tyrion: 她看起来并不像是干那行的。",
     "context": "{\n  \"id\": \"line:0c6f804\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Tyrion: She doesn’t exactly look like one.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::24ce2dcd353fa83e",
     "original": "Jolene: Then you haven’t known her long enough.",
-    "translation": "",
+    "translation": "Jolene: 只能说你认识她还不够久。",
     "context": "{\n  \"id\": \"line:0e44134\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Jolene: Then you haven’t known her long enough.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ee7e2fcdeb0b3641",
     "original": "Jolene: Even when she was a kid,[p/] she was always picking fights with people.",
-    "translation": "",
+    "translation": "Jolene: 她还只是个小孩子的时候，[p/]就总是和别人找茬。",
     "context": "{\n  \"id\": \"line:0d6ca1b\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Jolene: Even when she was a kid,[p/] she was always picking fights with people.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dd46e25cc086abb6",
     "original": "Jolene: She's definitely Flinhart's daughter.",
-    "translation": "",
+    "translation": "Jolene: 她毫无疑问是弗林哈特的女儿。",
     "context": "{\n  \"id\": \"line:03f0b5e\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Jolene: She's definitely Flinhart's daughter.\"\n}"
   },
   {
@@ -7568,13 +7568,13 @@
   {
     "key": "C1 Dialogue.csv::translation::71d79632f25a5623",
     "original": "Tyrion: Can you tell me more about this?",
-    "translation": "",
+    "translation": "Tyrion: 你对这个有什么想法吗？",
     "context": "{\n  \"id\": \"line:0c55024\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Tyrion: Can you tell me more about this?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::77ef22bc83b02b67",
     "original": "Jolene: I’m sorry,[p/] but I don't know much about these things.",
-    "translation": "",
+    "translation": "Jolene: 对不起啊，[p/]但对这个我真的不怎么了解。",
     "context": "{\n  \"id\": \"line:081735b\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Jolene: I’m sorry,[p/] but I don't know much about these things.\"\n}"
   },
   {
