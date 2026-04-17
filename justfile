@@ -20,6 +20,8 @@ charset:
         --input-base third/通用规范汉字表.txt \
         --input-base third/controller.txt \
         --inputs Texts/@paraz-out \
+        --inputs ./Workshop/paraz/0.src \
+        --inputs ./Workshop/game/orig \
         --output Fonts/chinese.txt
 
 fonts:

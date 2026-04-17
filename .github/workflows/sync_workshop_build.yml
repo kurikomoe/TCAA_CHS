@@ -63,6 +63,9 @@ jobs:
           name: tcaa_chs_workshop
           path: Workshop/game/output
 
+      - name: Update charset
+        run: just charset
+
       - name: Generate timestamp
         id: timestamp
         run: echo "timestamp=$(date +'%y%m%d.%H%M')" >> $GITHUB_ENV
