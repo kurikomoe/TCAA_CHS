@@ -8690,457 +8690,457 @@
   {
     "key": "C1 Dialogue.csv::translation::509e6a051ecad791",
     "original": "Celeste: That sword was a gift from one of my clients.",
-    "translation": "",
+    "translation": "Celeste: 那把剑是来自我的一个客户的赠礼。",
     "context": "{\n  \"id\": \"line:03984e7\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: That sword was a gift from one of my clients.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a4ebbfd39531f99f",
     "original": "Celeste: He said it was specially carved from the bones of a Purple Worm.[p/] [b]Transmutation[/b] spells can't damage them.",
-    "translation": "",
+    "translation": "Celeste: 他说这把剑是用一条紫色巨虫的骨头一体雕刻成形的，[p/][b]形变术[/b]没办法损害到它。",
     "context": "{\n  \"id\": \"line:059caba\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: He said it was specially carved from the bones of a Purple Worm.[p/] [b]Transmutation[/b] spells can't damage them.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9c64a1e3c50ddb44",
     "original": "Celeste: I’ve had it for years,[p/] and it doesn’t have a single chip in it.[p/] I don't even need to sharpen it.",
-    "translation": "",
+    "translation": "Celeste: 我已经用了好几年了，[p/]上面连一个缺口都没有。[p/]我甚至都不需要打磨它。",
     "context": "{\n  \"id\": \"line:00c2f99\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: I’ve had it for years,[p/] and it doesn’t have a single chip in it.[p/] I don't even need to sharpen it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2d26c95aeb92b4a9",
     "original": "Tyrion: ...Where did you get this sword again?",
-    "translation": "",
+    "translation": "Tyrion: .……你到底从哪里得到这把宝剑的？",
     "context": "{\n  \"id\": \"line:0f24fcc\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: ...Where did you get this sword again?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cdb99164a0016e0b",
     "original": "Celeste: Um...[p/] The Eastern Kingdoms...",
-    "translation": "",
+    "translation": "Celeste: 嗯……[p/]是东方古国……",
     "context": "{\n  \"id\": \"line:0c0938d\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Um...[p/] The Eastern Kingdoms...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fa99f51526843dde",
     "original": "Tyrion: ...Isn’t travel outside of Wyverngarde illegal?",
-    "translation": "",
+    "translation": "Tyrion: ……离开维文加德国境不是违法行为吗？",
     "context": "{\n  \"id\": \"line:0183d70\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: ...Isn’t travel outside of Wyverngarde illegal?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5d699fea280a805a",
     "original": "Celeste: ...Mercenaries don’t have a lot more legitimate options for work in Wyverngarde.[p/] I did what I had to do.",
-    "translation": "",
+    "translation": "Celeste: ……雇佣兵在维文加德里找不到什么合法的工作。[p/]我只好做我该做的事情。",
     "context": "{\n  \"id\": \"line:0a1c85e\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: ...Mercenaries don’t have a lot more legitimate options for work in Wyverngarde.[p/] I did what I had to do.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a88b46ca246ff42a",
     "original": "I doubted I’d be able to contact the sword’s maker in time,[p/] if at all.[p/] I would just have to take her word for it.",
-    "translation": "",
+    "translation": "我估计没可能及时联系上这把剑的制作者，[p/]如果有这么个人的话。[p/] 我只能相信她的话了。",
     "context": "{\n  \"id\": \"line:0ce549e\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"I doubted I’d be able to contact the sword’s maker in time,[p/] if at all.[p/] I would just have to take her word for it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2d36bb029eb76fbf",
     "original": "But if what she was saying was true,[p/] why weren't the traces of [b]transmutation[/b] magic covering the entire sword?",
-    "translation": "",
+    "translation": "但如果她说的是真的，[p/]那为什么[b]形变术[/b]的痕迹没有覆盖在整把剑上呢？",
     "context": "{\n  \"id\": \"line:0225e2c\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"But if what she was saying was true,[p/] why weren't the traces of [b]transmutation[/b] magic covering the entire sword?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e8211920a1b65a64",
     "original": "Tyrion: Could you tell me more about your father?",
-    "translation": "",
+    "translation": "Tyrion: 能和我聊聊你父亲吗？",
     "context": "{\n  \"id\": \"line:0751e47\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: Could you tell me more about your father?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e8abfbecbcbfbddc",
     "original": "Tyrion: I’m sorry.[p/] I know this must be difficult for you.",
-    "translation": "",
+    "translation": "Tyrion: 我很遗憾，[p/]我知道对你来说这肯定很艰难。",
     "context": "{\n  \"id\": \"line:076b0e4\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: I’m sorry.[p/] I know this must be difficult for you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8c56835764552e62",
     "original": "Tyrion: I remember how you two were yesterday.",
-    "translation": "",
+    "translation": "Tyrion: 我还记得你们昨天发生的事情。",
     "context": "{\n  \"id\": \"line:0eba54d\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: I remember how you two were yesterday.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f43b1b0258e88692",
     "original": "Celeste: ...Is this really going to help?",
-    "translation": "",
+    "translation": "Celeste: ……这真的会有帮助吗？",
     "context": "{\n  \"id\": \"line:019b1c9\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: ...Is this really going to help?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ef316b7768f79815",
     "original": "Tyrion: Knowing more about him could help me figure out who actually did this.",
-    "translation": "",
+    "translation": "Tyrion: 增加对他的了解或许能帮我找找出真凶的身份。",
     "context": "{\n  \"id\": \"line:0d3341c\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: Knowing more about him could help me figure out who actually did this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::53e5878899f9f55e",
     "original": "Celeste: [i]*sigh*[/i][p/] Okay...",
-    "translation": "",
+    "translation": "Celeste: [i]*叹气*[/i][p/]那好吧……",
     "context": "{\n  \"id\": \"line:0f7cf6d\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: [i]*sigh*[/i][p/] Okay...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::433b9214a7ef265f",
     "original": "Celeste: I was adopted by the McCoys when I was a baby,[p/] but they always treated me like I was part of their family.",
-    "translation": "",
+    "translation": "Celeste: 我还是个婴儿的时候就被麦考伊家收养了，[p/]但他们一直把我当亲生女儿对待。",
     "context": "{\n  \"id\": \"line:0e2e246\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: I was adopted by the McCoys when I was a baby,[p/] but they always treated me like I was part of their family.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7f4cbf83dd2569b5",
     "original": "Celeste: The townsfolk would always shoo me away.[p/] They didn’t want anything to do with a “noble bastard”.",
-    "translation": "",
+    "translation": "Celeste: 村民们总是对我出言不逊，[p/]他们不想和这个“贵族的野种”搭上关系。",
     "context": "{\n  \"id\": \"line:07de4e9\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: The townsfolk would always shoo me away.[p/] They didn’t want anything to do with a “noble bastard”.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6ae3e82d536d6273",
     "original": "Celeste: My dad got into a bunch of fights with them over that.",
-    "translation": "",
+    "translation": "Celeste: 我爸爸好几次为了这事和他们打架。",
     "context": "{\n  \"id\": \"line:0de6443\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: My dad got into a bunch of fights with them over that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::089cd1dec2cdf22b",
     "original": "Celeste: ... [h=\"But I had to go and ruin everything...\" e=\"s\"/]",
-    "translation": "",
+    "translation": "Celeste: ... [h=\"但我还是出走了，又毁掉了一切……\" e=\"s\"/]",
     "context": "{\n  \"id\": \"line:0b4a60d\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: ... [h=\\\"But I had to go and ruin everything...\\\" e=\\\"s\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1921aa7be504a71a",
     "original": "Tyrion: He was a voice of dissidence,[p/] wasn't he?[p/] Did you share his views?",
-    "translation": "",
+    "translation": "Tyrion: 他还是个政治异见领袖，[p/]是不是？[p/]你和他观点一致吗？",
     "context": "{\n  \"id\": \"line:049891e\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: He was a voice of dissidence,[p/] wasn't he?[p/] Did you share his views?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c4dc8ec996ff8b39",
     "original": "Celeste: I...[p/] knew he hated the nobility,[p/] but I didn't know about his rallies until just recently.",
-    "translation": "",
+    "translation": "Celeste: 我……[p/]知道他憎恨贵族，[p/]但我直到最近才知道他举行的那些集会。",
     "context": "{\n  \"id\": \"line:0c3f55d\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: I...[p/] knew he hated the nobility,[p/] but I didn't know about his rallies until just recently.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0a27d58964a1d5a2",
     "original": "Celeste: If I knew how much danger his life was in,[p/] I'd have never left Wyverngarde.[p/] I think he knew that.",
-    "translation": "",
+    "translation": "Celeste: 如果我知道他在承受多大的危险，[p/]我就不会离开维文加德。[p/]我觉得他也知道这一点。",
     "context": "{\n  \"id\": \"line:0bd926b\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: If I knew how much danger his life was in,[p/] I'd have never left Wyverngarde.[p/] I think he knew that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::56ad9c3db6a31d92",
     "original": "Celeste: If I'd been there that night,[p/] he'd still be— [h=\"It's all my fault...\" e=\"s\" /]",
-    "translation": "",
+    "translation": "Celeste: 如果那晚我在那里，[p/]他就不会—— [h=\"这都是我的错……\" e=\"s\" /]",
     "context": "{\n  \"id\": \"line:010aed8\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: If I'd been there that night,[p/] he'd still be— [h=\\\"It's all my fault...\\\" e=\\\"s\\\" /]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fc70d6dfd12bcf6c",
     "original": "Tyrion: It's not your fault.[p/] No one could have expected that.",
-    "translation": "",
+    "translation": "Tyrion: 那不是你的错。[p/]没人会预料到这种事情发生。",
     "context": "{\n  \"id\": \"line:0ce224e\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: It's not your fault.[p/] No one could have expected that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6ad5f89ff31501e2",
     "original": "...I felt sorry for her,[p/] but I really needed to know more.",
-    "translation": "",
+    "translation": "……我感觉对不起她，[p/]但我真的需要知道更多信息。",
     "context": "{\n  \"id\": \"line:083f14c\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"...I felt sorry for her,[p/] but I really needed to know more.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1f3e66b5a492fbea",
     "original": "Any witnesses?",
-    "translation": "",
+    "translation": "有其他目击者吗？",
     "context": "{\n  \"id\": \"line:027a380\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Any witnesses?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::83c067327300f03d",
     "original": "Tyrion: I could hear your argument from my room last night...",
-    "translation": "",
+    "translation": "Tyrion: 我昨晚在房间里都能听到你们的争吵……",
     "context": "{\n  \"id\": \"line:0376e5e\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: I could hear your argument from my room last night...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c164625f5d47bc79",
     "original": "Tyrion: Your neighbours must have overheard it, too.",
-    "translation": "",
+    "translation": "Tyrion: 那么邻居们肯定也听到了。",
     "context": "{\n  \"id\": \"line:068fa48\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: Your neighbours must have overheard it, too.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::395e0ce2db7655ab",
     "original": "Tyrion: Did any of them come by to check up on you two?[p/] They might have seen the person who did this.",
-    "translation": "",
+    "translation": "Tyrion: 他们中有人来看看你们的情况吗？[p/]或许他们有看到真凶。",
     "context": "{\n  \"id\": \"line:09850cd\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: Did any of them come by to check up on you two?[p/] They might have seen the person who did this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::416ae492fed94428",
     "original": "Celeste: ...I doubt it.[p/] Even if they did see something,[p/] they wouldn't testify for someone like me.",
-    "translation": "",
+    "translation": "Celeste: ……我觉得没有。[p/]即使他们看到什么了，[p/]也不会为我这样的人作证的。",
     "context": "{\n  \"id\": \"line:02e8105\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: ...I doubt it.[p/] Even if they did see something,[p/] they wouldn't testify for someone like me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ac526860c353e005",
     "original": "Tyrion: Why?[p/] I thought your father was a key figure among the dissidents.",
-    "translation": "",
+    "translation": "Tyrion: 为什么？[p/]我以为你父亲在反对群体中是很重要的一员。",
     "context": "{\n  \"id\": \"line:0f76dcd\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: Why?[p/] I thought your father was a key figure among the dissidents.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::af21acfb5a0a2b31",
     "original": "Celeste: Yeah...[p/] But all of his supporters come from the neighbouring towns.",
-    "translation": "",
+    "translation": "Celeste: 是这样没错……[p/]但他的支持者都是附近几个其他村镇的。",
     "context": "{\n  \"id\": \"line:07a8092\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Yeah...[p/] But all of his supporters come from the neighbouring towns.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f70daed3ed305d74",
     "original": "Celeste: Everyone [i]inside[/i] the village hates our family.",
-    "translation": "",
+    "translation": "Celeste: 村子[i]里[/i]的每一个人都讨厌我们家。",
     "context": "{\n  \"id\": \"line:0794945\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Everyone [i]inside[/i] the village hates our family.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7e8c14d303470e40",
     "original": "Celeste: People could tell I was adopted.[p/] It's not as if I look like either of my parents.",
-    "translation": "",
+    "translation": "Celeste: 人们都能发现我是被领养的。[p/]毕竟我和爸爸妈妈长得不像。",
     "context": "{\n  \"id\": \"line:01e66ba\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: People could tell I was adopted.[p/] It's not as if I look like either of my parents.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::aed93bd4b07a638d",
     "original": "Celeste: Rumors spread about how some noble lord must've had a tryst with my mom.",
-    "translation": "",
+    "translation": "Celeste: 还有流言到处传播，说我妈妈和某个贵族老爷肯定有私通。",
     "context": "{\n  \"id\": \"line:0541254\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Rumors spread about how some noble lord must've had a tryst with my mom.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f6bfc259bfe1a3e0",
     "original": "Celeste: They were wrong, obviously,[p/] but it's hard to stop a rumor like that when it spreads.",
-    "translation": "",
+    "translation": "Celeste: 当然他们是一派胡言，[p/]但这样的谣言一旦传开，就很难制止了。",
     "context": "{\n  \"id\": \"line:0a7b686\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: They were wrong, obviously,[p/] but it's hard to stop a rumor like that when it spreads.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f9a5a0e4caf522e7",
     "original": "Tyrion: That's terrible...",
-    "translation": "",
+    "translation": "Tyrion: 那太糟糕了……",
     "context": "{\n  \"id\": \"line:03a1e5e\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: That's terrible...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2b3a6ae45750b17e",
     "original": "Celeste: It's fine.[p/] I stopped caring about it years ago.",
-    "translation": "",
+    "translation": "Celeste: 还好啦。[p/]好几年前我就不再在乎这个了。",
     "context": "{\n  \"id\": \"line:02c5758\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: It's fine.[p/] I stopped caring about it years ago.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7c63f93be9e68276",
     "original": "Celeste: Things were manageable before,[p/] but things got worse when my dad started speaking out against the nobility.",
-    "translation": "",
+    "translation": "Celeste: 之前情况还有所克制，[p/]但我爸爸开始公开反对贵族以后就越来越糟糕了。",
     "context": "{\n  \"id\": \"line:0f64736\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Things were manageable before,[p/] but things got worse when my dad started speaking out against the nobility.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6cae4e47a4652aa3",
     "original": "Celeste: He wasn't just a pariah at that point.[p/] He was drawing a lot of attention to Kornhaven.",
-    "translation": "",
+    "translation": "Celeste: 他那时就不只是一个被排斥的人了。[p/]他给科尔哈文带来了很多关注。",
     "context": "{\n  \"id\": \"line:0dc98fd\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: He wasn't just a pariah at that point.[p/] He was drawing a lot of attention to Kornhaven.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dfbbd139ee46113c",
     "original": "Celeste: Everyone's heard the rumors about what the Grand General is doing in villages like ours.",
-    "translation": "",
+    "translation": "Celeste: 所有人都听说过那位大将军在像我们这样的村子里做了什么。",
     "context": "{\n  \"id\": \"line:0910701\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Everyone's heard the rumors about what the Grand General is doing in villages like ours.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::85b68e5808bfbce4",
     "original": "Celeste: The neighbours tried to threaten my dad to stop, and when that didn't work, they started vandalizing our tavern.[p/] They'd even steal my parents' supplies.",
-    "translation": "",
+    "translation": "Celeste: 邻居们尝试威胁我父亲收手，但发现没有用的时候，他们就开始打砸我们的酒馆。[p/]他们甚至偷窃我爸妈的物资。",
     "context": "{\n  \"id\": \"line:02ed8df\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: The neighbours tried to threaten my dad to stop, and when that didn't work, they started vandalizing our tavern.[p/] They'd even steal my parents' supplies.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0faac7070b7b851f",
     "original": "Celeste: I had to come back to Wyverngarde because some of the other villagers broke into the tavern.",
-    "translation": "",
+    "translation": "Celeste: 我就是因为村民们开始破坏酒馆才不得不回到维文加德的。",
     "context": "{\n  \"id\": \"line:00925de\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: I had to come back to Wyverngarde because some of the other villagers broke into the tavern.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4b51529a99c14472",
     "original": "Tyrion: ...They were cowards.[p/] They thought they could scare your dad into stopping.",
-    "translation": "",
+    "translation": "Tyrion: ……真是一群懦夫。[p/]他们以为靠恐吓就能阻止你父亲。",
     "context": "{\n  \"id\": \"line:02066cf\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: ...They were cowards.[p/] They thought they could scare your dad into stopping.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b7cde26c9e62681e",
     "original": "Celeste: They were scared.[p/] My dad [i]was[/i] painting a giant target on this region.",
-    "translation": "",
+    "translation": "Celeste: 吓破胆的是他们。[p/]我父亲[i]正在[/i]把这片区域变成一个巨大的靶子。",
     "context": "{\n  \"id\": \"line:0d1903e\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: They were scared.[p/] My dad [i]was[/i] painting a giant target on this region.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::64e600693fc5eb5e",
     "original": "Celeste: It's not as if the kingdom would care if a village like ours were destroyed.",
-    "translation": "",
+    "translation": "Celeste: 王国似乎并不在乎像我们这样的村庄被摧毁。",
     "context": "{\n  \"id\": \"line:08bdcc7\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: It's not as if the kingdom would care if a village like ours were destroyed.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dc277fb81d3a1875",
     "original": "...She wasn't wrong.[p/] Stories of Lucio Steelwind were circulating in the papers for months.",
-    "translation": "",
+    "translation": "……她说得没错。[p/]卢西奥·斯蒂尔文德的故事已经在报纸上流传好几个月了。",
     "context": "{\n  \"id\": \"line:099ab86\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"...She wasn't wrong.[p/] Stories of Lucio Steelwind were circulating in the papers for months.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::77685fa89218ad8b",
     "original": "Even with that,[p/] he still stood at the top of this kingdom.[p/] There were no real consequences.",
-    "translation": "",
+    "translation": "即便如此，[p/]他仍然站在王国的最高层。[p/]没有遭到任何实际的影响。",
     "context": "{\n  \"id\": \"line:017ca60\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Even with that,[p/] he still stood at the top of this kingdom.[p/] There were no real consequences.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::41a20a577d25e8c8",
     "original": "The Argument",
-    "translation": "",
+    "translation": "争执",
     "context": "{\n  \"id\": \"line:04426c7\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"The Argument\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6fbb023c268893b1",
     "original": "Tyrion: Could you tell me why Flinhart was so angry at you?",
-    "translation": "",
+    "translation": "Tyrion: 你能否告诉我弗林哈特为什么对你那么生气吗？",
     "context": "{\n  \"id\": \"line:0d12fc0\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: Could you tell me why Flinhart was so angry at you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d32149cd17ce28b9",
     "original": "Celeste: [i]*sigh*[/i] For as long as I can remember,[p/] my dad has hated magic.",
-    "translation": "",
+    "translation": "Celeste: [i]*叹气*[/i]打我记事起，[p/]我爸爸就一直很憎恨法师。",
     "context": "{\n  \"id\": \"line:095d55d\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: [i]*sigh*[/i] For as long as I can remember,[p/] my dad has hated magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c6baf0eeb78f710d",
     "original": "Celeste: If you even mentioned it around him,[p/] he’d fly into a rage about it.",
-    "translation": "",
+    "translation": "Celeste: 就算你只是在他附近提到这个字眼，[p/]他都会因此暴怒。",
     "context": "{\n  \"id\": \"line:04e9d2d\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: If you even mentioned it around him,[p/] he’d fly into a rage about it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::07567e6a8e6d138d",
     "original": "Tyrion: ...And you were born a mage.",
-    "translation": "",
+    "translation": "Tyrion: ……而你却有法师的天赋。",
     "context": "{\n  \"id\": \"line:0e1a0f3\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: ...And you were born a mage.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e848c3d62f7ca1bd",
     "original": "Celeste: Ever since our tavern closed,[p/] my family’s been in a lot of debt.",
-    "translation": "",
+    "translation": "Celeste: 自从酒馆停业后，[p/]我家就欠了很多债。",
     "context": "{\n  \"id\": \"line:0f2713e\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Ever since our tavern closed,[p/] my family’s been in a lot of debt.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b8d46118b0cfd579",
     "original": "Celeste: Fighting always came naturally to me,[p/] so I became a mercenary and learned how to use magic to help me fight.",
-    "translation": "",
+    "translation": "Celeste: 我天生就擅长战斗，[p/]所以我去当了雇佣兵，还学习魔法来帮助自己战斗。",
     "context": "{\n  \"id\": \"line:0f1347e\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Fighting always came naturally to me,[p/] so I became a mercenary and learned how to use magic to help me fight.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::98cb67a0a7bfc104",
     "original": "Celeste: Most of Wyverngarde's mages are in the nobility.[p/] People will pay a lot for a soldier who can use arcane magic.",
-    "translation": "",
+    "translation": "Celeste: 维文加德的绝大多数法师都是贵族，[p/]可以使用奥术的士兵也会得到更多报酬。",
     "context": "{\n  \"id\": \"line:0d5c204\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Most of Wyverngarde's mages are in the nobility.[p/] People will pay a lot for a soldier who can use arcane magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::430d1ecaa1a206d1",
     "original": "...So [i]that's[/i] why she was a mercenary.",
-    "translation": "",
+    "translation": "……所以[i]这就是[/i]她成为雇佣兵的原因。",
     "context": "{\n  \"id\": \"line:04a6352\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"...So [i]that's[/i] why she was a mercenary.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::caa03b1bafa13bb4",
     "original": "Celeste: Last night,[p/] my dad found my Spell Compendium.",
-    "translation": "",
+    "translation": "Celeste: 昨天晚上，[p/]爸爸发现了我的法术汇编。",
     "context": "{\n  \"id\": \"line:0fabaab\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Last night,[p/] my dad found my Spell Compendium.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8c39f0b2911f4fac",
     "original": "Celeste: When I saw him holding it,[p/] I finally came clean to him,[p/] and that set him off.",
-    "translation": "",
+    "translation": "Celeste: 我看到他拿着它的时候，[p/]我只能和他坦白了一切，[p/]这让他大为光火。",
     "context": "{\n  \"id\": \"line:00f0c30\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: When I saw him holding it,[p/] I finally came clean to him,[p/] and that set him off.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3f31721d8fc39b9c",
     "original": "Celeste: He shouted at me.[p/] He told me that I’d betrayed him and everything he stood for.",
-    "translation": "",
+    "translation": "Celeste: 他冲我大吼大叫。[p/]他跟我说，我背叛了他和他代表的一切。",
     "context": "{\n  \"id\": \"line:030ed9c\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: He shouted at me.[p/] He told me that I’d betrayed him and everything he stood for.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::22bb55eb950be6b2",
     "original": "Tyrion: ...I can't imagine how that must have felt.",
-    "translation": "",
+    "translation": "Tyrion: ……我没法想象那会是什么感受。",
     "context": "{\n  \"id\": \"line:09142aa\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: ...I can't imagine how that must have felt.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::81030ba9458dbb75",
     "original": "Celeste: I deserved it...[p/] I knew how much he hated magic.",
-    "translation": "",
+    "translation": "Celeste: 是我自找的……[p/]我明知他有多憎恨法术。",
     "context": "{\n  \"id\": \"line:0de6016\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: I deserved it...[p/] I knew how much he hated magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::60a882aa710831d1",
     "original": "Celeste: He was fighting for what he believed in,[p/] and I wasn't even there to protect him.",
-    "translation": "",
+    "translation": "Celeste: 他为自己相信的理念奋斗，[p/]但我甚至都没有在那里保护他。",
     "context": "{\n  \"id\": \"line:0bd2448\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: He was fighting for what he believed in,[p/] and I wasn't even there to protect him.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::46f6510fd9f9861e",
     "original": "Tyrion: ...Don’t say that.[p/] You couldn't have known what would happen.",
-    "translation": "",
+    "translation": "Tyrion: ……不要这么说。[p/]你没法知道会发生那种事情。",
     "context": "{\n  \"id\": \"line:02243fb\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: ...Don’t say that.[p/] You couldn't have known what would happen.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6acf115476befe51",
     "original": "Tyrion: I’m sure he still loved you.[p/] He just lost his temper.",
-    "translation": "",
+    "translation": "Tyrion: 我确信他依然爱着你，[p/]只是一时间没法控制自己的情绪。",
     "context": "{\n  \"id\": \"line:058b38a\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: I’m sure he still loved you.[p/] He just lost his temper.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4cb3aef6d6e7c33c",
     "original": "Celeste: No... [p/]I could see it in his eyes.[p/] He hated me. [h=\"And he died hating me...\" e=\"as\"/]",
-    "translation": "",
+    "translation": "Celeste: 不是的…… [p/]I我能从他的眼神中看出来，[p/]他恨透了我。[h=\"而且他到死都恨着我……\" e=\"as\"/]",
     "context": "{\n  \"id\": \"line:07e8627\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: No... [p/]I could see it in his eyes.[p/] He hated me. [h=\\\"And he died hating me...\\\" e=\\\"as\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c4dd847755e012d1",
     "original": "I felt a sharp pain in my chest as I read that,[p/] but I didn’t say anything more.",
-    "translation": "",
+    "translation": "我读到她想法的时候感到胸口一阵剧痛，[p/]但我没法再说什么。",
     "context": "{\n  \"id\": \"line:0c47b8b\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"I felt a sharp pain in my chest as I read that,[p/] but I didn’t say anything more.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8ddd93477a109236",
     "original": "Locked Door",
-    "translation": "",
+    "translation": "上锁的门",
     "context": "{\n  \"id\": \"line:029d295\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Locked Door\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d96099e4803da0fd",
     "original": "Tyrion: ...There’s a locked room in the tavern.[p/] It's at the very end of the hallway upstairs.",
-    "translation": "",
+    "translation": "Tyrion: ……酒馆里有一扇上锁的门。[p/]就是楼上走廊最里面那扇。",
     "context": "{\n  \"id\": \"line:036adbd\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: ...There’s a locked room in the tavern.[p/] It's at the very end of the hallway upstairs.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::03070a426d80f81e",
     "original": "Tyrion: The Inquisition probably searched it already,[p/] but it’s the only room I haven’t seen yet.",
-    "translation": "",
+    "translation": "Tyrion: 裁判所可能已经搜过里面了，[p/]但那是我唯一没调查过的房间。",
     "context": "{\n  \"id\": \"line:07a87af\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: The Inquisition probably searched it already,[p/] but it’s the only room I haven’t seen yet.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::32e1fa03b62dfe81",
     "original": "Celeste: At the end of the hallway?[p/] I think that’s my room.",
-    "translation": "",
+    "translation": "Celeste:走廊最里面？[p/]那应该是我的房间。",
     "context": "{\n  \"id\": \"line:01d31c5\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: At the end of the hallway?[p/] I think that’s my room.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::844ff825bc5ed5c4",
     "original": "Tyrion: Do you know how I could get in there?",
-    "translation": "",
+    "translation": "Tyrion: 你知道怎么能让我进去吗？",
     "context": "{\n  \"id\": \"line:0cdae26\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: Do you know how I could get in there?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c14aa4c23c3fb7da",
     "original": "Tyrion: ...I’m your lawyer.[p/] I’m not going to do anything strange.",
-    "translation": "",
+    "translation": "Tyrion: ……我是你的律师。[p/]我不会做什么奇怪的事情的。",
     "context": "{\n  \"id\": \"line:07fa7d7\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: ...I’m your lawyer.[p/] I’m not going to do anything strange.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::47f9b07349643c76",
     "original": "Celeste: ...S-[p/][s/]Sorry,[p/] you’re right.",
-    "translation": "",
+    "translation": "Celeste: ……抱、[p/][s/]抱歉。[p/]你说得对。",
     "context": "{\n  \"id\": \"line:09f496f\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: ...S-[p/][s/]Sorry,[p/] you’re right.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::786a2032fb924b9a",
     "original": "Celeste: I always keep the key on me.[p/] You can use this to get inside.",
-    "translation": "",
+    "translation": "Celeste: 我身上一直带着钥匙。[p/]你能用这个进去。",
     "context": "{\n  \"id\": \"line:01de312\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: I always keep the key on me.[p/] You can use this to get inside.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::38a1bdd2cf548101",
     "original": "Celeste: Oh, what’s that?",
-    "translation": "",
+    "translation": "Celeste: 哦？那是什么？",
     "context": "{\n  \"id\": \"line:09bc6b9\",\n  \"node\": \"Dungeon_Present\",\n  \"text\": \"Celeste: Oh, what’s that?\"\n}"
   },
   {
