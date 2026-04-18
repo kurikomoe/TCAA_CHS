@@ -9837,64 +9837,64 @@
   {
     "key": "C1 Dialogue.csv::translation::66e8ae7fb301095a",
     "original": "Aria: Has Pierce given you all of the details, Rudolf?[p/] Will you remember them?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 鲁道夫，皮尔斯有将所有细节交代给你吗？[p/]你到时后能不能记清？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04efe3c\",\n  \"node\": \"CelesteArgue9\",\n  \"text\": \"Aria: Has Pierce given you all of the details, Rudolf?[p/] Will you remember them?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::19e1829c6e003f8d",
     "original": "Rhys: Yes.[p/] My notes are pristine,[p/] and I pride myself on my eidetic memory.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rhys: 没问题。[p/]我的笔记很清晰，[p/]而我也一直为自己的过目不忘的记忆力为傲。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:085c246\",\n  \"node\": \"CelesteArgue9\",\n  \"text\": \"Rhys: Yes.[p/] My notes are pristine,[p/] and I pride myself on my eidetic memory.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::868c6884d07756b1",
     "original": "Aria: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:094d781\",\n  \"node\": \"CelesteArgue9\",\n  \"text\": \"Aria: ...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1ec6423fc7774b34",
     "original": "Aria: Just so there are no misunderstandings,[p/] I do not approve of this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 为避免产生误解，[p/]我还是得声明，我不支持这么做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:053ab3a\",\n  \"node\": \"CelesteArgue9\",\n  \"text\": \"Aria: Just so there are no misunderstandings,[p/] I do not approve of this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::134171980fa07fad",
     "original": "Garrick: You said it yourself, Lady Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 斯蒂尔文德小姐，你自己也做出了这样的推论。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06aea50\",\n  \"node\": \"CelesteArgue9\",\n  \"text\": \"Garrick: You said it yourself, Lady Steelwind.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::150ca642250731ad",
     "original": "Garrick: The evidence proves that I couldn’t have murdered Flinhart,[p/] which leaves the bastard child as the only suspect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 证据已经证明了我没办法杀害弗林哈特，[p/]也意味着那个小野种就是唯一的嫌疑人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:059e448\",\n  \"node\": \"CelesteArgue9\",\n  \"text\": \"Garrick: The evidence proves that I couldn’t have murdered Flinhart,[p/] which leaves the bastard child as the only suspect.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::637008e56e403059",
     "original": "Garrick: We don’t know what sort of tricks Tymora’s stooge may pull tomorrow.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我们可不知道泰摩拉的小跟班明天会搞出什么手段。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:063687f\",\n  \"node\": \"CelesteArgue9\",\n  \"text\": \"Garrick: We don’t know what sort of tricks Tymora’s stooge may pull tomorrow.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6101118d8894a474",
     "original": "Garrick: Just see this as a way of securing a just verdict.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我们就当这是谋取公正判决的方法吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c1dc8e\",\n  \"node\": \"CelesteArgue9\",\n  \"text\": \"Garrick: Just see this as a way of securing a just verdict.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d1bfce7533da2f12",
     "original": "Garrick: ...There will be no need for your father to intervene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: .……也就没有让你父亲插手的必要了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ea34ae\",\n  \"node\": \"CelesteArgue9\",\n  \"text\": \"Garrick: ...There will be no need for your father to intervene.\"\n}"
   },
   {
@@ -9907,22 +9907,22 @@
   {
     "key": "C1 Dialogue.csv::translation::8cc351d7f4a7a6ca",
     "original": "There was a steel door that led into the cell.[p/] A magical mechanism covered by a steel box was placed over the lock.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一扇通往牢房的铁门。[p/]门锁外面盖着被一个钢盒保护着的魔法装置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0983ea3\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"There was a steel door that led into the cell.[p/] A magical mechanism covered by a steel box was placed over the lock.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9f874d6994471a98",
     "original": "...I couldn’t help but notice that the mechanism had a dent in it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……我实在没法不注意到那个装置上有一道划痕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:000b722\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"...I couldn’t help but notice that the mechanism had a dent in it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c950107a06fc4c84",
     "original": "It looked like the impact had come from within the cell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看起来冲击是从牢房内侧发起的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00f49b0\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"It looked like the impact had come from within the cell.\"\n}"
   },
   {
@@ -9935,15 +9935,15 @@
   {
     "key": "C1 Dialogue.csv::translation::beb22371628da1c8",
     "original": "Lit torches were hanging on the cell walls.[p/] It seemed a bit irresponsible to light a fire in here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "点燃的火把挂在牢房的墙上。[p/]在这里点火看起来有点不负责任。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:073ac12\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"Lit torches were hanging on the cell walls.[p/] It seemed a bit irresponsible to light a fire in here.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::654e0f21bcb47ed9",
     "original": "But prisoner safety was probably the last thing on the Inquisition’s mind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但囚犯们的安全显然是裁判所最不关心的事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01bd41e\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"But prisoner safety was probably the last thing on the Inquisition’s mind.\"\n}"
   },
   {
@@ -9956,127 +9956,127 @@
   {
     "key": "C1 Dialogue.csv::translation::7cb3c1d109ae4466",
     "original": "The cell had a barred window.[p/] The bars were rusted.",
-    "translation": "",
-    "stage": 0,
+    "translation": "牢房里有一扇带有铁栏杆的窗户。[p/]栏杆已经生锈了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:028b5a7\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"The cell had a barred window.[p/] The bars were rusted.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ecda63cd19ca0a75",
     "original": "If a prisoner tried to escape,[p/] there would be a three-story drop to freedom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果秋芳想逃跑的话，[p/]从此通向自由的道路得有三层楼那么高。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ab4fb5\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"If a prisoner tried to escape,[p/] there would be a three-story drop to freedom.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::393e10227064cfd6",
     "original": "Flinhart's Hatred (ARGUMENT)",
-    "translation": "",
-    "stage": 0,
+    "translation": "弗林哈特的憎恨(辩论)",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d9dff5\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Flinhart's Hatred (ARGUMENT)\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3472c01a05452365",
     "original": "The Trial",
-    "translation": "",
-    "stage": 0,
+    "translation": "庭审",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b8553\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"The Trial\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bdea2df098feebae",
     "original": "Tyrion: ...I’m really sorry for what happened today.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我为今天发生的事情深感抱歉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e269c\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: ...I’m really sorry for what happened today.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::08f53eb902a5d6dc",
     "original": "Celeste: Well, it all ended up okay in the end, right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 好啦，最后结果还可以，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06805ed\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Well, it all ended up okay in the end, right?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::89274a9c1f6b2ddb",
     "original": "That was unusually forgiving.[p/] If she hadn't calmed me down,[p/] the trial may have ended very differently.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这个原谅并不容易。[p/]如果她那时没能让我冷静下来，[p/]庭审一定会以很不一样的方式结束。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0513887\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"That was unusually forgiving.[p/] If she hadn't calmed me down,[p/] the trial may have ended very differently.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fb10c3a17f05c41d",
     "original": "Celeste: ...I still don’t understand, though.[p/] Why were there so many traces of magic at the crime scene?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……不过，我还是不明白。[p/]为什么犯罪现场有那么多的魔法痕迹？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:086b02b\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: ...I still don’t understand, though.[p/] Why were there so many traces of magic at the crime scene?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6b0f85e9bb61dc76",
     "original": "Tyrion: Did you cast [b]Mage Blade[/b] on your sword that day?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你那天给你的剑附魔[b]法术剑刃[/b]了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06b9912\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: Did you cast [b]Mage Blade[/b] on your sword that day?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9a4bdcb457a8d47b",
     "original": "Celeste: I used it when I was training last week.[p/] Is that where those traces came from?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我上周在锻炼的时候确实用了。[p/]那是痕迹的来源吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0defa48\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: I used it when I was training last week.[p/] Is that where those traces came from?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a37a8054261972d6",
     "original": "Tyrion: No...[p/] Magical traces only last for forty-eight hours.[p/] After that,[p/] they disappear completely.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不对……[p/]魔法痕迹只能残留48小时。[p/]如果是那时候的，[p/]早就该消失了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06c4fc4\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: No...[p/] Magical traces only last for forty-eight hours.[p/] After that,[p/] they disappear completely.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::848086de0aed78b6",
     "original": "Tyrion: Not to mention that spells only leave traces of magic on the objects that they are cast on.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 更不用说法术应该只在它们的施放对象上留下痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0497ee4\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: Not to mention that spells only leave traces of magic on the objects that they are cast on.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9737cf8254867a6e",
     "original": "Tyrion: Even if the sword made physical contact with the body,[p/] the traces shouldn’t have spread to the wound.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 即使被附魔的剑解除了尸体，[p/]痕迹也不该扩散到伤口上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00872fd\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: Even if the sword made physical contact with the body,[p/] the traces shouldn’t have spread to the wound.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ab2d03e483a733a4",
     "original": "Celeste: Really?[p/] What does that mean, then?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 真的？[p/]那这意思是？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04eb584\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Really?[p/] What does that mean, then?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::14b9e79f7a6b4198",
     "original": "Tyrion: ...I don’t know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我还不知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03cc1c5\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: ...I don’t know.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::155f00a0487bb70b",
     "original": "Tyrion: The floor next to the body had a strange texture to it, too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 尸体附近的地板上也有奇怪的痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:051b744\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: The floor next to the body had a strange texture to it, too.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f906236bfff7594a",
     "original": "Tyrion: If the killer used a [b]transmutation[/b] spell,[p/] it may have changed your sword and the surrounding floor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果凶手确实使用了某种[b]形变术[/b]，[p/]它可能使你的剑和那附近的地板发生了什么变化。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b43f3\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: If the killer used a [b]transmutation[/b] spell,[p/] it may have changed your sword and the surrounding floor.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ff4b490167653253",
     "original": "Celeste: That doesn’t make any sense, though.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不过这根本说不通。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a589c3\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: That doesn’t make any sense, though.\"\n}"
   },
   {
@@ -10089,50 +10089,50 @@
   {
     "key": "C1 Dialogue.csv::translation::b9c9d017d37e1d78",
     "original": "Tyrion: I know my theory sounds far-fetched,[p/] but the traces were only on parts of the sword.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我知道自己的推论很牵强，[p/]但剑上只有一部分附着了魔法痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03a1898\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: I know my theory sounds far-fetched,[p/] but the traces were only on parts of the sword.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::58415a3218f01ede",
     "original": "Tyrion: That must mean that the outer layer of the sword must have broken off during the murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那只能意味着在作案过程中那把剑的外表部分肯定发生了断裂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a4c45b\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: That must mean that the outer layer of the sword must have broken off during the murder.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f77c3f31000e5884",
     "original": "Celeste: But my sword can't be damaged like that,[p/] even when [b]transmutation[/b] magic is used on it.[p/] That’s the whole reason why I have it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但我的剑不可能那样损伤。[p/]即使是对它施放[b]形变术[/b]也不可能。[p/]本来就是因为它有这么坚固我才一直用它。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:083ac35\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: But my sword can't be damaged like that,[p/] even when [b]transmutation[/b] magic is used on it.[p/] That’s the whole reason why I have it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3d1f6c986d4c45a7",
     "original": "Tyrion: How can you be so sure?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你对它的强度有多确定？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07c8dcd\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Tyrion: How can you be so sure?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::961bb2d2130112f2",
     "original": "Celeste: Back when I was traveling,[p/] I’d always break my weapons by swinging them too hard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我还在外头工作的时候，[p/]经常因为挥舞过猛折断自己的兵器。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:095af49\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: Back when I was traveling,[p/] I’d always break my weapons by swinging them too hard.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a1151feb68c11388",
     "original": "Celeste: They’d end up breaking in two or three swings—[p/]maybe four if it was well-made.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 它们总是断成两三截——[p/]如果品质好的话也许是四截。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0228b0b\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: They’d end up breaking in two or three swings—[p/]maybe four if it was well-made.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::48335a87047ac59a",
     "original": "...How much force was she swinging these weapons with?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……她得用多大力气挥舞武器才会变成这样？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:085d5ce\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"...How much force was she swinging these weapons with?\"\n}"
   },
   {
