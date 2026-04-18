@@ -1632,117 +1632,117 @@ line:01de312,Dungeon_Talk,Celeste: I always keep the key on me.[p/] You can use 
 line:0ab9f8a,Dungeon_Talk,Back,返回
 line:0b2610e,Dungeon_Present,Runestone,符石
 line:09bc6b9,Dungeon_Present,"Celeste: Oh, what’s that?",Celeste: 哦？那是什么？
-line:09dc2d7,Dungeon_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,
-line:02c664a,Dungeon_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,
-line:024d380,Dungeon_Present,Celeste: You seem...[p/] really excited about it.,
-line:0c7210c,Dungeon_Present,Tyrion: I’ve just wanted one since I was a child.[p/] I can’t believe I finally have one.,
-line:03e853c,Dungeon_Present,"Celeste: ...Oh, that’s nice.[p/] I'm happy for you.",
-line:0619870,Dungeon_Present,"She was trying to be positive,[p/] but there were clearly more important things on her mind.",
-line:02be364,Dungeon_Present,I straightened my tie and stowed the Runestone back in my jacket.,
+line:09dc2d7,Dungeon_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,Tyrion: 这是个律师符石。[p/]它证明我持证律师的身份。
+line:02c664a,Dungeon_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和犯罪现场的照片！
+line:024d380,Dungeon_Present,Celeste: You seem...[p/] really excited about it.,Celeste: 你看起来……[p/]对此非常兴奋。
+line:0c7210c,Dungeon_Present,Tyrion: I’ve just wanted one since I was a child.[p/] I can’t believe I finally have one.,Tyrion: 我还小的时候就一直希望有一个。[p/]难以相信我终于有一个了。
+line:03e853c,Dungeon_Present,"Celeste: ...Oh, that’s nice.[p/] I'm happy for you.",Celeste: ……噢，那真好。[p/]我为你感到高兴。
+line:0619870,Dungeon_Present,"She was trying to be positive,[p/] but there were clearly more important things on her mind.",她想表现得积极一点，[p/]但她显然有更重要的事情要操心。
+line:02be364,Dungeon_Present,I straightened my tie and stowed the Runestone back in my jacket.,我拉了拉自己的领带，将符石放回自己上衣内侧。
 line:097a852,Dungeon_Present,Flinhart|Flinhart Autopsy|Photo,
-line:02bf57b,Dungeon_Present,I shouldn't show this to her.[p/] She's already been through enough.,
-line:062ddd5,Dungeon_Present,I shouldn't remind her about her father more than I needed to.,
+line:02bf57b,Dungeon_Present,I shouldn't show this to her.[p/] She's already been through enough.,我不该把这个给她看。[p/]她已经经历太多了。
+line:062ddd5,Dungeon_Present,I shouldn't remind her about her father more than I needed to.,除非真的有需要，我不该再向她提起她父亲。
 line:0d1f481,Dungeon_Present,Sword,
-line:0efbb0c,Dungeon_Present,Tyrion: This is a pretty strange sword.[p/] I've never seen anything like it.,
-line:0319cad,Dungeon_Present,Celeste: Do you like it?[p/] It was a gift from an Ixian lord.,
-line:0e73b05,Dungeon_Present,Tyrion: ...I’d like to remind you that travel outside of Wyverngarde is illegal.,
-line:0abab60,Dungeon_Present,Tyrion: You shouldn’t make a habit of telling people where you got it from.,
-line:0ffc457,Dungeon_Present,"Celeste: Yeah, yeah...",
+line:0efbb0c,Dungeon_Present,Tyrion: This is a pretty strange sword.[p/] I've never seen anything like it.,Tyrion: 真是把稀奇的剑，[p/]我从没见过类似的东西。
+line:0319cad,Dungeon_Present,Celeste: Do you like it?[p/] It was a gift from an Ixian lord.,Celeste: 你喜欢吗？[p/]那是伊克斯王的礼物。
+line:0e73b05,Dungeon_Present,Tyrion: ...I’d like to remind you that travel outside of Wyverngarde is illegal.,Tyrion: ……我得提醒你，擅自离开维文加德国境是违法行为。
+line:0abab60,Dungeon_Present,Tyrion: You shouldn’t make a habit of telling people where you got it from.,Tyrion: 你不该随便告诉别人你从哪里得到它的。
+line:0ffc457,Dungeon_Present,"Celeste: Yeah, yeah...",Celeste: 好的，好的……
 line:05078c8,Dungeon_Present,Celeste's Spell Compendium|Mage Blade,
-line:04c0196,Dungeon_Present,Tyrion: [b]Mage Blade[/b]...,
-line:0fe22d3,Dungeon_Present,Celeste: It's a spell that magically sharpens my sword so that it can cut through plate armor.,
-line:078dcb3,Dungeon_Present,Tyrion: ...Did you find yourself using this spell a lot?,
-line:00d569f,Dungeon_Present,"Celeste: Well, it's not just for plate armor.[p/] I can cut through all kinds of things with it.",
-line:0d52ffb,Dungeon_Present,"Celeste: Trees,[p/] boulders,[p/] ballistas,[p/] fortified gates—[p/]it cuts through most of those things like butter.",
-line:0edf7ca,Dungeon_Present,...I was really starting to wonder what kind of life she led before today.,
+line:04c0196,Dungeon_Present,Tyrion: [b]Mage Blade[/b]...,Tyrion: [b]法术剑刃[/b]……
+line:0fe22d3,Dungeon_Present,Celeste: It's a spell that magically sharpens my sword so that it can cut through plate armor.,Celeste: 这个法术能让我的剑变得锋利，能够砍穿板甲。
+line:078dcb3,Dungeon_Present,Tyrion: ...Did you find yourself using this spell a lot?,Tyrion: ……你经常需要使用这个法术吗？
+line:00d569f,Dungeon_Present,"Celeste: Well, it's not just for plate armor.[p/] I can cut through all kinds of things with it.",Celeste: 好吧，也不只是为了破甲。[p/]我能用这个切割各种东西。
+line:0d52ffb,Dungeon_Present,"Celeste: Trees,[p/] boulders,[p/] ballistas,[p/] fortified gates—[p/]it cuts through most of those things like butter.",Celeste: 树啊、[p/]大石头啊、[p/]弩炮啊、[p/]还有要塞的大门——[p/]它能把大多数东西像切黄油一样切开。
+line:0edf7ca,Dungeon_Present,...I was really starting to wonder what kind of life she led before today.,……我真的有点开始好奇她之前都过着怎样的生活。
 line:00d790a,Dungeon_Present,Power|Power2,
-line:056a811,Dungeon_Present,Tyrion: I didn't expect to find artificery in a village like yours.,
-line:0d2ca02,Dungeon_Present,"Celeste: Yeah...[p/] I bought it for my family to make their lives easier,[p/] but I think it just made things more complicated.",
-line:0c82736,Dungeon_Present,"Celeste: Honestly,[p/] I was hoping it would make my dad hate magic less,[p/] but it malfunctioned a lot.",
-line:06da3be,Dungeon_Present,Celeste: He’d get so angry every time it stopped working.[p/] He really hated the thing.,
-line:061f91c,Dungeon_Present,"Tyrion: Yeah...[p/] Without an Arcane Power Cell,[p/] those lights aren't very useful.",
-line:05327cf,Dungeon_Present,Celeste: ...I don't know why he kept trying to use it when he hated it so much.,
+line:056a811,Dungeon_Present,Tyrion: I didn't expect to find artificery in a village like yours.,Tyrion: 没想到在你们村这种地方能找到奥术能源装置。
+line:0d2ca02,Dungeon_Present,"Celeste: Yeah...[p/] I bought it for my family to make their lives easier,[p/] but I think it just made things more complicated.",Celeste: 是啊……[p/]我原本是为了让他们平时生活更方便才买的，[p/]但我觉得这个把事情搞复杂了。
+line:0c82736,Dungeon_Present,"Celeste: Honestly,[p/] I was hoping it would make my dad hate magic less,[p/] but it malfunctioned a lot.",Celeste: 老实说，[p/]我本来希望这能减少爸爸对魔法的厌恶，[p/]但它经常出故障。
+line:06da3be,Dungeon_Present,Celeste: He’d get so angry every time it stopped working.[p/] He really hated the thing.,Celeste: 那东西不好用的时候他都会很生气，[p/]他真的很讨厌这个灯。
+line:061f91c,Dungeon_Present,"Tyrion: Yeah...[p/] Without an Arcane Power Cell,[p/] those lights aren't very useful.",Tyrion: 嗯……[p/]没了奥术储能单元，[p/]这些灯就变成纯粹的摆设了。
+line:05327cf,Dungeon_Present,Celeste: ...I don't know why he kept trying to use it when he hated it so much.,Celeste: ……但我搞不懂他既然这么讨厌它，为什么还要一直用。
 line:0d3516b,Dungeon_Present,Back,返回
 line:02a227a,Dungeon_Present,Default,
 line:0980244,Dungeon_Present,Tyrion: Can you tell me more about this?,Tyrion: 你对这个有什么想法吗？
-line:05ef3f2,Dungeon_Present,Celeste: Oh...[p/] I don't really know what to say about that.[p/] Sorry.,
-line:0714959,Dungeon_Check,"I returned to the dungeons,[p/] but Celeste’s cell was empty.",
-line:0048751,Dungeon_Check,The Inquisition must’ve still been questioning her.[p/] I would need to come back later.,
-line:06c6f29,Dungeon_Check,I arrived back at the dungeons.[p/] Celeste was huddled down in the corner of her cell.,
-line:0173f09,Dungeon_Check,"She noticed me,[p/] and the weight from her shoulders seemed to lift,[p/] if only for a moment.",
-line:07e9f0b,Dungeon_Check,Celeste: Hi...,
-line:0c0ab8b,Dungeon_Check,"She had avoided me before,[p/] but I doubt she had seen many friendly faces since the trial.",
-line:02cd025,Dungeon_Check,"Tyrion: Hi,[p/] I can’t stay for long.",
-line:0e6ddd5,Dungeon_Check,Tyrion: I just need to ask you some questions about the case.,
-line:0988610,Dungeon_Check,Celeste: Right...,
-line:0c6f4c0,Dungeon_Check,"Celeste: Oh, you’re back.[p/] Did you forget something?",
-line:064b93b,Dungeon_Check,Tyrion: ...There was one last thing that I wanted to talk to you about.,
-line:08acca3,Dungeon_Check,Tyrion: I wanted to talk to you about the argument you had with Flinhart.,
+line:05ef3f2,Dungeon_Present,Celeste: Oh...[p/] I don't really know what to say about that.[p/] Sorry.,Celeste: 啊……[p/]我也不知道说什么。[p/]抱歉。
+line:0714959,Dungeon_Check,"I returned to the dungeons,[p/] but Celeste’s cell was empty.",我返回了地牢，[p/]但塞莱斯特的牢房是空的。
+line:0048751,Dungeon_Check,The Inquisition must’ve still been questioning her.[p/] I would need to come back later.,裁判所还在审问她。[p/]我得稍晚些时候再回来。
+line:06c6f29,Dungeon_Check,I arrived back at the dungeons.[p/] Celeste was huddled down in the corner of her cell.,我返回地牢，[p/]塞莱斯特正蜷缩在牢房的一角。
+line:0173f09,Dungeon_Check,"She noticed me,[p/] and the weight from her shoulders seemed to lift,[p/] if only for a moment.",她看到了我，[p/]似乎肩膀上的负担稍微轻了一点，[p/]哪怕只有片刻。
+line:07e9f0b,Dungeon_Check,Celeste: Hi...,Celeste: 嗨……
+line:0c0ab8b,Dungeon_Check,"She had avoided me before,[p/] but I doubt she had seen many friendly faces since the trial.",她之前有点躲着我，[p/]但我怀疑庭审以来她就没见到过友好的脸色。
+line:02cd025,Dungeon_Check,"Tyrion: Hi,[p/] I can’t stay for long.",Tyrion: 你好啊，[p/]我没法待太久。
+line:0e6ddd5,Dungeon_Check,Tyrion: I just need to ask you some questions about the case.,Tyrion: 我需要就这个案件问你几个问题。
+line:0988610,Dungeon_Check,Celeste: Right...,Celeste: 好吧……
+line:0c6f4c0,Dungeon_Check,"Celeste: Oh, you’re back.[p/] Did you forget something?",Celeste: 噢，你回来了。[p/]你是忘记了什么吗？
+line:064b93b,Dungeon_Check,Tyrion: ...There was one last thing that I wanted to talk to you about.,Tyrion: ……我还有最后一件事情要和你谈谈。
+line:08acca3,Dungeon_Check,Tyrion: I wanted to talk to you about the argument you had with Flinhart.,Tyrion: 我想要和你谈一谈弗林哈特和你的那次争吵。
 line:0eb9518,Dungeon_Check,Celeste: Oh...,Celeste: 噢……
-line:0e67321,Dungeon_Check,I knew what it was like to lose a parent.,
-line:0354e0d,Dungeon_Check,I’d never be able to carry that burden if I thought my mother had died hating me.,
-line:07fe37f,Dungeon_Check,"Tyrion: I know he was angry at you,[p/] but after everything I’ve heard about you two,[p/] I know that he still loved you.",
-line:04ed0a6,Dungeon_Check,Celeste: Tyrion—,
-line:0d1e17c,Dungeon_Check,"Tyrion: Even in his final moments,[p/] I’m sure that he still cared for you.",
-line:0ad7cb6,Dungeon_Check,"Celeste: I... [h=""Shut up...|You don't know what you're talking about."" e=""as""/]",
-line:039845a,Dungeon_Check,"It looked like it wouldn’t be that simple, though.",
-line:08e7019,Dungeon_Check,I would need to PERSUADE her if I wanted her to believe me.,
-line:0c892dc,GarrickArgue,"Garrick: I’ll tell you exactly what I have to say, you commoner!",
-line:03e6e80,GarrickArgue,"Garrick: [i]I’m[/i] not the one on trial, here!",
-line:0175a75,GarrickArgue,Garrick: We’re here because that bastard child didn’t know her place!,
-line:07078fb,GarrickArgue,Garrick: That girl used our holy arts to murder her father because she lacked a noble's temperament!,
+line:0e67321,Dungeon_Check,I knew what it was like to lose a parent.,我知道失去父母是什么样的感受。
+line:0354e0d,Dungeon_Check,I’d never be able to carry that burden if I thought my mother had died hating me.,如果我认为我母亲至死都恨着自己，我也绝无可能承受得住。
+line:07fe37f,Dungeon_Check,"Tyrion: I know he was angry at you,[p/] but after everything I’ve heard about you two,[p/] I know that he still loved you.",Tyrion: 我知道他当时对你生气，[p/]但在听说关于你们俩的一切之后，[p/]我知道他仍然爱着你。
+line:04ed0a6,Dungeon_Check,Celeste: Tyrion—,Celeste: 提利昂——
+line:0d1e17c,Dungeon_Check,"Tyrion: Even in his final moments,[p/] I’m sure that he still cared for you.",Tyrion: 即使在他临终之时，[p/]我确信他仍然在关心着你。
+line:0ad7cb6,Dungeon_Check,"Celeste: I... [h=""Shut up...|You don't know what you're talking about."" e=""as""/]","Celeste: 我……[h=""闭嘴……|你根本不知道自己在说什么。"" e=""as""/]"
+line:039845a,Dungeon_Check,"It looked like it wouldn’t be that simple, though.",看起来不会那么简单。
+line:08e7019,Dungeon_Check,I would need to PERSUADE her if I wanted her to believe me.,如果想要她相信我，我就需要[i]说服[/i]她。
+line:0c892dc,GarrickArgue,"Garrick: I’ll tell you exactly what I have to say, you commoner!",Garrick: 我只会告诉你我必须要说的内容，平民！
+line:03e6e80,GarrickArgue,"Garrick: [i]I’m[/i] not the one on trial, here!",Garrick: 接受法庭审判的人[i]不是我[/i]，听到没？！
+line:0175a75,GarrickArgue,Garrick: We’re here because that bastard child didn’t know her place!,Garrick: 我们来这儿只是因为那个小野种不清楚自己几斤几两！
+line:07078fb,GarrickArgue,Garrick: That girl used our holy arts to murder her father because she lacked a noble's temperament!,Garrick: 那个女孩用我们神圣的法术杀害了自己的父亲，因为她缺乏贵族的修养！
 line:06bbb39,GarrickArgue1,Conjure Light|Map3,
 line:099713a,GarrickArgue1,Default,
-line:0be3fa6,GarrickArgue1,No...[p/] That wasn't right.,
-line:035af35,GarrickArgue1,"He claimed to have witnessed the whole murder,[p/] but I’ve already proved that he didn’t in the last testimony.",
-line:0d8cdab,GarrickArgue1,All I had to do was show the evidence that proved him wrong.,
-line:08f8c69,GarrickArgue2,"Tyrion: And how, pray tell, did you see “everything""?",
-line:0a7d206,GarrickArgue2,"Tyrion: If you recall,[p/] you testified that you only took a single step inside the inn.",
-line:057b8c7,GarrickArgue2,"Tyrion: However,[p/] you would've needed to be within 15ft to see my client with [b]Conjure Light[/b].",
-line:0d2a8ba,GarrickArgue2,Garrick: This again?!,
-line:075f1ac,GarrickArgue2,"Garrick: If you’re going to keep treading on that one detail,[p/][s/] then I admit it![p/][s/] I stepped further into the inn!",
-line:0a7240f,GarrickArgue2,Garrick: I kept that out of my testimony![p/][s/] All because I knew that you and Tymora would use it against me!,
-line:093552d,GarrickArgue2,Judge: L-[p/][s/]Lord Pierce!,
-line:03939bf,GarrickArgue2,"Tyrion: But you didn’t just withhold that detail from your testimony, did you?",
-line:0cd628b,GarrickArgue2,"Tyrion: You testified the contrary![p/][s/] You committed perjury, Pierce![p/][s/] Plain and simple!",
-line:03d7747,GarrickArgue2,Garrick: That’s—!,
-line:04c0c8e,GarrickArgue2,"Tyrion: And let’s not stop there![p/] For your story to be true,[p/] you would have needed to be within 15ft of my client.",
-line:02678c9,GarrickArgue2,"Tyrion: According to your testimony,[p/] my client had just finished murdering her father.[p/] Wouldn’t she have noticed you?",
-line:03ca9eb,GarrickArgue2,Garrick: I-[p/][s/]I...,
-line:027030a,GarrickArgue2,"Tyrion: If you were that close,[p/][s/] then surely you were close enough to apprehend her!",
-line:0a8bfce,GarrickArgue2,Tyrion: So why didn’t you?[p/][s/] Don’t you have a duty to your citizens you lord over?,
-line:0cbdb6d,GarrickArgue2,Garrick: Shut your filthy mouth!,
-line:0e734ea,GarrickArgue2,Garrick: That woman was armed![p/][s/] I had no reason to put my life in danger!,
-line:0e1b415,GarrickArgue2,Garrick: I was terrified when I saw her holding that bloody sword!,
-line:03855b1,GarrickArgue2,"Garrick: She’d just murdered a man,[p/][s/] and I might’ve very well been next!",
+line:0be3fa6,GarrickArgue1,No...[p/] That wasn't right.,不……[p/]那肯定不对。
+line:035af35,GarrickArgue1,"He claimed to have witnessed the whole murder,[p/] but I’ve already proved that he didn’t in the last testimony.",他宣称目睹了凶杀的全部经过，[p/]但在上一轮证言里我已经证明了他没有。
+line:0d8cdab,GarrickArgue1,All I had to do was show the evidence that proved him wrong.,我需要做的就是提出证明他谬误的证据。
+line:08f8c69,GarrickArgue2,"Tyrion: And how, pray tell, did you see “everything""?",Tyrion: 那告诉我，你怎么看到“一切”的？
+line:0a7d206,GarrickArgue2,"Tyrion: If you recall,[p/] you testified that you only took a single step inside the inn.",Tyrion: 如果你还记得的话，[p/]你刚作证自己只踏进酒馆一步。
+line:057b8c7,GarrickArgue2,"Tyrion: However,[p/] you would've needed to be within 15ft to see my client with [b]Conjure Light[/b].",Tyrion: 然而，[p/]你必须要靠近到15英尺内才能用[b]祈愿光芒[/b]看到我的委托人。
+line:0d2a8ba,GarrickArgue2,Garrick: This again?!,Garrick: 又来这套？！
+line:075f1ac,GarrickArgue2,"Garrick: If you’re going to keep treading on that one detail,[p/][s/] then I admit it![p/][s/] I stepped further into the inn!",Garrick: 你要是一直揪着细节不放，[p/][s/]那我承认！[p/][s/]我当晚进了酒馆！
+line:0a7240f,GarrickArgue2,Garrick: I kept that out of my testimony![p/][s/] All because I knew that you and Tymora would use it against me!,Garrick: 我在证词里隐瞒了这一点，[p/][s/]就是因为我知道你和泰摩拉会抓住这个攻击我！
+line:093552d,GarrickArgue2,Judge: L-[p/][s/]Lord Pierce!,Judge: 皮、[p/][s/]皮尔斯勋爵！
+line:03939bf,GarrickArgue2,"Tyrion: But you didn’t just withhold that detail from your testimony, did you?",Tyrion: 但你可不只是在证词里隐瞒了细节啊，不是吗？
+line:0cd628b,GarrickArgue2,"Tyrion: You testified the contrary![p/][s/] You committed perjury, Pierce![p/][s/] Plain and simple!",Tyrion: 你的证词恰恰相反！[p/][s/]你作伪证了，皮尔斯！[p/][s/]直白又简单的伪证！
+line:03d7747,GarrickArgue2,Garrick: That’s—!,Garrick: 那是——！
+line:04c0c8e,GarrickArgue2,"Tyrion: And let’s not stop there![p/] For your story to be true,[p/] you would have needed to be within 15ft of my client.",Tyrion: 而且还没完！[p/]如果你说的情况是真的，[p/]你就必须走到我委托人15英尺以内的位置。
+line:02678c9,GarrickArgue2,"Tyrion: According to your testimony,[p/] my client had just finished murdering her father.[p/] Wouldn’t she have noticed you?",Tyrion: 根据你的证词，[p/]那时我的委托人刚刚杀死自己的父亲。[p/]她怎么会没发现你？
+line:03ca9eb,GarrickArgue2,Garrick: I-[p/][s/]I...,Garrick: 我、[p/][s/]我……
+line:027030a,GarrickArgue2,"Tyrion: If you were that close,[p/][s/] then surely you were close enough to apprehend her!",Tyrion: 你如果靠得那么近，[p/][s/]那距离肯定也足够你抓住她！
+line:0a8bfce,GarrickArgue2,Tyrion: So why didn’t you?[p/][s/] Don’t you have a duty to your citizens you lord over?,Tyrion: 那你为什么没有？[p/][s/]你作为领主不是有对自己臣民的义务吗？
+line:0cbdb6d,GarrickArgue2,Garrick: Shut your filthy mouth!,Garrick: 闭上你肮脏的嘴！
+line:0e734ea,GarrickArgue2,Garrick: That woman was armed![p/][s/] I had no reason to put my life in danger!,Garrick: 那女人当时有武器！[p/][s/]我没理由冒这个险！
+line:0e1b415,GarrickArgue2,Garrick: I was terrified when I saw her holding that bloody sword!,Garrick: 看见她拿着把滴血的剑早就把我吓坏了！
+line:03855b1,GarrickArgue2,"Garrick: She’d just murdered a man,[p/][s/] and I might’ve very well been next!",Garrick: 她刚杀了个人，[p/][s/]我很可能就是下一个！
 line:0e2159c,GarrickArgue3,Photo,
 line:0045729,GarrickArgue3,Default,
-line:0016fef,GarrickArgue3,No...[p/] He claimed that Celeste was holding her sword after stabbing Flinhart.,
-line:07ca5c4,GarrickArgue3,"However,[p/] that proposed sequence of events shouldn't have been possible.",
-line:05e7de9,GarrickArgue4,"Tyrion: But that can’t be right.[p/] Can it, Lord Pierce?",
-line:0d083d8,GarrickArgue4,Tyrion: This photo of the crime scene shows that the sword was left inside the victim’s body.,
-line:0a8b67c,GarrickArgue4,Tyrion: How could she still be wielding it if it never left the body?,
-line:0c618d1,GarrickArgue4,Garrick: W-[p/][s/]What?![p/][s/] I—,
-line:05514b4,GarrickArgue4,Garrick: Agh![p/][s/] Damn you![p/][s/] DAMN YOU!,
-line:0a6c60e,GarrickArgue4,Garrick: Steelwind![p/][s/] Why aren’t you saying anything?!,
-line:012e3d1,GarrickArgue4,AriaC: W-[p/][s/]What?!,
-line:0273a51,GarrickArgue4,AriaC: U-[p/][s/]Um...[p/][s/] I...,
-line:06e907f,GarrickArgue4,Steelwind froze.,
-line:0b12ea0,GarrickArgue4,"Even when I had the advantage,[p/] she always maintained her usual poise.",
-line:0bfb864,GarrickArgue4,But now she was scrambling for something to say.[p/] Nothing came to her.,
-line:0376856,GarrickArgue4,Judge: L-[p/][s/]Lord Pierce.[p/] Please calm down!,
-line:0bce735,GarrickArgue4,Garrick: How can I remain calm when this [i]charlatan[/i] is trying to frame me?!,
-line:03313db,GarrickArgue4,Garrick: This is a complete travesty!,
-line:018ec5d,GarrickArgue4,Garrick: I came here to reveal the truth and testify against that criminal!,
-line:0708174,GarrickArgue4,Garrick: And what do I get instead?![p/][s/] Slander from some lowly peasant!,
-line:08e29fe,GarrickArgue4,"Tyrion: You talk about justice,[p/][s/] but you’ve committed several acts of perjury to twist the outcome of this trial!",
-line:0ec8e52,GarrickArgue4,Tyrion: You don’t care about justice![p/] You're just here to cover up your crime!,
-line:01596e6,GarrickArgue4,Garrick: You filthy little—!,
-line:0047ef0,GarrickArgue4,"Tyrion: So admit it, Pierce![p/][s/] You created a makeshift sword with [b]Shape Liquid[/b] and used it to impale Flinhart!",
-line:070056e,GarrickArgue4,"Tyrion: You shoved my client’s sword into the wound,[p/][s/] while the remnants of the real murder weapon melted!",
-line:0ed77cc,GarrickArgue4,"Tyrion: You thought it was a perfect crime, didn't you?!",
-line:067f74f,GarrickArgue5,Garrick: I-[p/][s/]I...,
-line:08be8f0,GarrickArgue5,"Garrick: ... [h=""Wait...|What did he just say?"" e=""afh""/]",
+line:0016fef,GarrickArgue3,No...[p/] He claimed that Celeste was holding her sword after stabbing Flinhart.,不对……[p/]他宣称塞莱斯特刺杀弗林哈特之后还拿着那把剑。
+line:07ca5c4,GarrickArgue3,"However,[p/] that proposed sequence of events shouldn't have been possible.",然而，[p/]他提出的这一系列事件根本不该发生。
+line:05e7de9,GarrickArgue4,"Tyrion: But that can’t be right.[p/] Can it, Lord Pierce?",Tyrion: 但那根本不可能，[p/]不是吗，皮尔斯勋爵？
+line:0d083d8,GarrickArgue4,Tyrion: This photo of the crime scene shows that the sword was left inside the victim’s body.,Tyrion: 犯罪现场的照片显示那把剑留在被害人的尸体里面。
+line:0a8b67c,GarrickArgue4,Tyrion: How could she still be wielding it if it never left the body?,Tyrion: 她怎么能在剑还在尸体里的时候挥舞它？
+line:0c618d1,GarrickArgue4,Garrick: W-[p/][s/]What?![p/][s/] I—,Garrick: 什、[p/][s/]什么？！[p/][s/]我——
+line:05514b4,GarrickArgue4,Garrick: Agh![p/][s/] Damn you![p/][s/] DAMN YOU!,Garrick: 啊！[p/][s/]你这混蛋！[p/][s/] <size=1.5em>你这混蛋！</size>
+line:0a6c60e,GarrickArgue4,Garrick: Steelwind![p/][s/] Why aren’t you saying anything?!,Garrick: 斯蒂尔文德！[p/]你为什么只是看着？！
+line:012e3d1,GarrickArgue4,AriaC: W-[p/][s/]What?!,AriaC: 什、[p/][s/]什么？！
+line:0273a51,GarrickArgue4,AriaC: U-[p/][s/]Um...[p/][s/] I...,AriaC: 呃、[p/][s/]嗯…….[p/][s/]我……
+line:06e907f,GarrickArgue4,Steelwind froze.,斯蒂尔文德呆站着。
+line:0b12ea0,GarrickArgue4,"Even when I had the advantage,[p/] she always maintained her usual poise.",即使我之前占据优势的时候，[p/]她也总是维持平时的姿态。
+line:0bfb864,GarrickArgue4,But now she was scrambling for something to say.[p/] Nothing came to her.,但现在她只能努力找点话说，[p/]却没办法说出什么。
+line:0376856,GarrickArgue4,Judge: L-[p/][s/]Lord Pierce.[p/] Please calm down!,Judge: 皮、[p/][s/]皮尔斯勋爵。[p/]请您冷静下来！
+line:0bce735,GarrickArgue4,Garrick: How can I remain calm when this [i]charlatan[/i] is trying to frame me?!,Garrick: 这个[i]骗子[/i]在胡说八道陷害我，你要我怎么冷静？！
+line:03313db,GarrickArgue4,Garrick: This is a complete travesty!,Garrick: 这完全是一出闹剧！
+line:018ec5d,GarrickArgue4,Garrick: I came here to reveal the truth and testify against that criminal!,Garrick: 我是来揭露真相和指证罪犯的！
+line:0708174,GarrickArgue4,Garrick: And what do I get instead?![p/][s/] Slander from some lowly peasant!,Garrick: 而我得到了什么？！[p/][s/] 只得到某个土包子对我的诽谤！
+line:08e29fe,GarrickArgue4,"Tyrion: You talk about justice,[p/][s/] but you’ve committed several acts of perjury to twist the outcome of this trial!",Tyrion: 你张口正义闭口正义的，[p/][s/]可你为了扭曲审理结果不惜作伪证！
+line:0ec8e52,GarrickArgue4,Tyrion: You don’t care about justice![p/] You're just here to cover up your crime!,Tyrion: 你根本就不在乎什么正义！[p/]你只是来掩盖自己的罪行！
+line:01596e6,GarrickArgue4,Garrick: You filthy little—!,Garrick: 你这个肮脏的小——！
+line:0047ef0,GarrickArgue4,"Tyrion: So admit it, Pierce![p/][s/] You created a makeshift sword with [b]Shape Liquid[/b] and used it to impale Flinhart!",Tyrion: 承认吧，皮尔斯！[p/][s/]你用[b]形变液体[/b]做了把临时的剑，并用它刺杀了弗林哈特！
+line:070056e,GarrickArgue4,"Tyrion: You shoved my client’s sword into the wound,[p/][s/] while the remnants of the real murder weapon melted!",Tyrion: 然后你用我委托人的剑插入伤口，[p/][s/]而真正凶器的残留物融化了！
+line:0ed77cc,GarrickArgue4,"Tyrion: You thought it was a perfect crime, didn't you?!",Tyrion: 你觉得那是个完美犯罪，不是吗？！
+line:067f74f,GarrickArgue5,Garrick: I-[p/][s/]I...,Garrick: 我、[p/][s/]我……
+line:08be8f0,GarrickArgue5,"Garrick: ... [h=""Wait...|What did he just say?"" e=""afh""/]","Garrick: ……[h=""等等……|他刚刚说了什么？"" e=""afh""/]"
 line:0176b75,GarrickArgue5,Garrick: Haha...,
 line:06e9aa6,GarrickArgue5,Tyrion: ...What?,Tyrion: ……怎么了？
 line:0a49d8d,GarrickArgue5,Garrick: HAHAHAHAHAHA!,
@@ -1752,8 +1752,8 @@ line:085e9f4,GarrickArgue5,"Garrick: My apologies, Your Honor.[p/][s/] It’s ju
 line:0539998,GarrickArgue5,"Garrick: The defense has put forward an interesting theory,[p/] but there’s [i]one[/i] problem with it.",
 line:0d47682,GarrickArgue5,Tyrion: And what’s that?,
 line:08e1c7a,GarrickArgue5,Garrick: I think you said it yourself.,
-line:02b2c42,GarrickArgue5,"Tyrion: You shoved my client’s sword into the wound,[p/][s/] while the remnants of the real murder weapon melted!",
-line:0f93ade,GarrickArgue5,"Tyrion: You thought it was a perfect crime, didn't you?!",
+line:02b2c42,GarrickArgue5,"Tyrion: You shoved my client’s sword into the wound,[p/][s/] while the remnants of the real murder weapon melted!",Tyrion: 然后你用我委托人的剑插入伤口，[p/][s/]而真正凶器的残留物融化了！
+line:0f93ade,GarrickArgue5,"Tyrion: You thought it was a perfect crime, didn't you?!",Tyrion: 你觉得那是个完美犯罪，不是吗？！
 line:00224e2,GarrickArgue5,Garrick: You’re right![p/][s/] It [i]would[/i] have been a perfect crime!,
 line:0cd3b2f,GarrickArgue5,Garrick: Because any evidence to support that theory would’ve evaporated with that melted blade!,
 line:0e10b3e,GarrickArgue5,AriaC: What?!,
@@ -1935,7 +1935,7 @@ line:022d07f,GarrickFinal5,"Fredrick: You’re grieving,[p/] but it will pass.[p
 line:0e0dbc3,GarrickFinal5,"Garrick: No,[p/] Father...[p/] I loved her,[p/] and I [i]killed[/i] her...",
 line:08ad299,GarrickFinal5,"Fredrick: Garrick...[p/] You sweet,[p/] innocent child.",
 line:0b30c81,GarrickFinal5,"Fredrick: Flowers may be beautiful and bring you joy,[p/] but do you call it “murder"" when you accidentally step on one?",
-line:08e38ff,GarrickFinal5,Garrick: I-[p/][s/]I...,
+line:08e38ff,GarrickFinal5,Garrick: I-[p/][s/]I...,Garrick: 我、[p/][s/]我……
 line:01fe5af,GarrickFinal6,"Fredrick: These people—[p/]these [p/][s/]peasants—[p/]they may resemble us,[p/] but you know deep in your heart that they aren’t like us.",
 line:0cb3441,GarrickFinal6,Garrick: ...What?,
 line:0ca93a3,GarrickFinal6,"Fredrick: We have the Scaled Lord’s favor,[p/] and they do not.",
