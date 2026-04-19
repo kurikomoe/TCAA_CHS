@@ -110,7 +110,7 @@
   {
     "key": "C1 Dialogue.csv::translation::a756d7059ba81a69",
     "original": "Tyrion: Steelwind,[p/] think about the state of the crime scene!",
-    "translation": "Tyrion: 斯蒂尔文德，[p/]仔细想想犯罪现场的情况！",
+    "translation": "Tyrion: 斯蒂尔文德，[p/]仔细想想案发现场的情况！",
     "context": "{\n  \"id\": \"line:09fb479\",\n  \"node\": \"Start\",\n  \"text\": \"Tyrion: Steelwind,[p/] think about the state of the crime scene!\"\n}"
   },
   {
@@ -308,7 +308,7 @@
   {
     "key": "C1 Dialogue.csv::translation::078f771e87957818",
     "original": "She was wearing the same expression she used when inspecting a crime scene.",
-    "translation": "她脸上摆出一副调查犯罪现场时同样的表情。",
+    "translation": "她脸上摆出一副调查案发现场时同样的表情。",
     "context": "{\n  \"id\": \"line:078675d\",\n  \"node\": \"HitChild\",\n  \"text\": \"She was wearing the same expression she used when inspecting a crime scene.\"\n}"
   },
   {
@@ -3548,7 +3548,7 @@
   {
     "key": "C1 Dialogue.csv::translation::98ece2ba7150356c",
     "original": "Her case would be pushed to trial within the day.[p/] Supposedly,[p/] they discovered traces of magic at the crime scene.",
-    "translation": "她的案件将在一日内召开审理。[p/]而且裁判所应该在犯罪现场发现了魔法痕迹。",
+    "translation": "她的案件将在一日内召开审理。[p/]而且裁判所应该在案发现场发现了魔法痕迹。",
     "context": "{\n  \"id\": \"line:025718f\",\n  \"node\": \"CelDungeon\",\n  \"text\": \"Her case would be pushed to trial within the day.[p/] Supposedly,[p/] they discovered traces of magic at the crime scene.\"\n}"
   },
   {
@@ -3596,7 +3596,7 @@
   {
     "key": "C1 Dialogue.csv::translation::912a66fdeb07bc8c",
     "original": "I didn't usually accompany Ms. Tymora to her crime scenes,[p/] but the few times I had,[p/] he was always there to run interference.",
-    "translation": "我不经常陪伴泰摩拉女士调查犯罪现场，[p/]但有那么几次去了的场合，[p/]他总是在那里制造阻碍。",
+    "translation": "我不经常陪伴泰摩拉女士调查案发现场，[p/]但有那么几次去了的场合，[p/]他总是在那里制造阻碍。",
     "context": "{\n  \"id\": \"line:0812841\",\n  \"node\": \"CelDungeon\",\n  \"text\": \"I didn't usually accompany Ms. Tymora to her crime scenes,[p/] but the few times I had,[p/] he was always there to run interference.\"\n}"
   },
   {
@@ -3932,7 +3932,7 @@
   {
     "key": "C1 Dialogue.csv::translation::a0388fd779b325eb",
     "original": "Ruby: They found your sword inside his body,[p/] and there were traces of [b]transmutation[/b] magic around the crime scene.",
-    "translation": "Ruby: 他们在尸体上找到了你的剑，[p/]然后犯罪现场有许多[b]形变术[/b]的魔法痕迹。",
+    "translation": "Ruby: 他们在尸体上找到了你的剑，[p/]然后案发现场有许多[b]形变术[/b]的魔法痕迹。",
     "context": "{\n  \"id\": \"line:0054f2f\",\n  \"node\": \"RubyConfront\",\n  \"text\": \"Ruby: They found your sword inside his body,[p/] and there were traces of [b]transmutation[/b] magic around the crime scene.\"\n}"
   },
   {
@@ -5192,7 +5192,7 @@
   {
     "key": "C1 Dialogue.csv::translation::2bcc4ca386e28e0d",
     "original": "Orym: Yeah...[p/] It’s pretty obvious from the crime scene.",
-    "translation": "Orym: 当然了……[p/]从犯罪现场的情况来看再明显不过。",
+    "translation": "Orym: 当然了……[p/]从案发现场的情况来看再明显不过。",
     "context": "{\n  \"id\": \"line:031b71c\",\n  \"node\": \"OrymObj\",\n  \"text\": \"Orym: Yeah...[p/] It’s pretty obvious from the crime scene.\"\n}"
   },
   {
@@ -5462,7 +5462,7 @@
   {
     "key": "C1 Dialogue.csv::translation::199f5cbbb65a746f",
     "original": "Because of that,[p/] crimes needed to be investigated before all the magical traces disappeared from the crime scene.",
-    "translation": "正因如此，[p/]在犯罪现场的魔法痕迹消失前，所有关于案件的调查必须完成。",
+    "translation": "正因如此，[p/]在案发现场的魔法痕迹消失前，所有关于案件的调查必须完成。",
     "context": "{\n  \"id\": \"line:0d1e647\",\n  \"node\": \"OrymTest1\",\n  \"text\": \"Because of that,[p/] crimes needed to be investigated before all the magical traces disappeared from the crime scene.\"\n}"
   },
   {
@@ -5624,7 +5624,7 @@
   {
     "key": "C1 Dialogue.csv::translation::863211249c9eb10d",
     "original": "Orym: We always find random magical traces at crime scenes.[p/] We can’t always explain each trace we detect.",
-    "translation": "Orym: 我们经常会在犯罪现场发现一些没规律的魔法痕迹。[p/]我们本来也没法解释每一道痕迹的来源。",
+    "translation": "Orym: 我们经常会在案发现场发现一些没规律的魔法痕迹。[p/]我们本来也没法解释每一道痕迹的来源。",
     "context": "{\n  \"id\": \"line:085e6dc\",\n  \"node\": \"Orym2Cross\",\n  \"text\": \"Orym: We always find random magical traces at crime scenes.[p/] We can’t always explain each trace we detect.\"\n}"
   },
   {
@@ -6062,7 +6062,7 @@
   {
     "key": "C1 Dialogue.csv::translation::9fad3eadb2f46085",
     "original": "Judge: We will give the Inquisition time to investigate the crime scene and clear these unknowns.",
-    "translation": "JUDGE: 我们将给予裁判所一些时间来充分调查犯罪现场，解释这些未解之谜。",
+    "translation": "JUDGE: 我们将给予裁判所一些时间来充分调查案发现场，解释这些未解之谜。",
     "context": "{\n  \"id\": \"line:037b188\",\n  \"node\": \"JudgeSuspend\",\n  \"text\": \"Judge: We will give the Inquisition time to investigate the crime scene and clear these unknowns.\"\n}"
   },
   {
@@ -6440,7 +6440,7 @@
   {
     "key": "C1 Dialogue.csv::translation::6490fa1de7d1a27a",
     "original": "Tyrion: Right now,[p/] I want to take a look at the crime scene.",
-    "translation": "Tyrion: 现在，[p/]我想看一看犯罪现场。",
+    "translation": "Tyrion: 现在，[p/]我想看一看案发现场。",
     "context": "{\n  \"id\": \"line:0bc4c70\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Tyrion: Right now,[p/] I want to take a look at the crime scene.\"\n}"
   },
   {
@@ -6452,7 +6452,7 @@
   {
     "key": "C1 Dialogue.csv::translation::322075e944e2a811",
     "original": "Ruby: ...If you’re planning to investigate the crime scene,[p/] you’ll need this.",
-    "translation": "Ruby: ……如果你计划调查犯罪现场，[p/]那你就需要这个。",
+    "translation": "Ruby: ……如果你计划调查案发现场，[p/]那你就需要这个。",
     "context": "{\n  \"id\": \"line:07f7011\",\n  \"node\": \"RubyGivesComp\",\n  \"text\": \"Ruby: ...If you’re planning to investigate the crime scene,[p/] you’ll need this.\"\n}"
   },
   {
@@ -6554,7 +6554,7 @@
   {
     "key": "C1 Dialogue.csv::translation::de9575f2d2b4f12a",
     "original": "The Inquisition had set up a teleportation circle at the crime scene.[p/] As the defense attorney for this case,[p/] I was permitted to use it.",
-    "translation": "裁判所已经设立了通向犯罪现场的传送门。[p/] 作为本案的辩护律师，[p/]我被允许使用它。",
+    "translation": "裁判所已经设立了通向案发现场的传送门。[p/] 作为本案的辩护律师，[p/]我被允许使用它。",
     "context": "{\n  \"id\": \"line:0991e78\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"The Inquisition had set up a teleportation circle at the crime scene.[p/] As the defense attorney for this case,[p/] I was permitted to use it.\"\n}"
   },
   {
@@ -6596,7 +6596,7 @@
   {
     "key": "C1 Dialogue.csv::translation::fc895114b1a0fbd4",
     "original": "Tyrion: I’m the defense attorney in this case.[p/] I have every right to look at the crime scene.",
-    "translation": "Tyrion: 我是本案的辩护律师。[p/]我完全有权利调查犯罪现场。",
+    "translation": "Tyrion: 我是本案的辩护律师。[p/]我完全有权利调查案发现场。",
     "context": "{\n  \"id\": \"line:05b8b78\",\n  \"node\": \"TavernIntro\",\n  \"text\": \"Tyrion: I’m the defense attorney in this case.[p/] I have every right to look at the crime scene.\"\n}"
   },
   {
@@ -7310,7 +7310,7 @@
   {
     "key": "C1 Dialogue.csv::translation::bc2ff22bdac92a4f",
     "original": "Tyrion: Yeah,[p/] it also has a magical tool that lets me take pictures of crime scenes.",
-    "translation": "Tyrion: 是的，[p/]它还是一个可以对犯罪现场拍下照片的魔法工具。",
+    "translation": "Tyrion: 是的，[p/]它还是一个可以对案发现场拍下照片的魔法工具。",
     "context": "{\n  \"id\": \"line:0608439\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"Tyrion: Yeah,[p/] it also has a magical tool that lets me take pictures of crime scenes.\"\n}"
   },
   {
@@ -7496,7 +7496,7 @@
   {
     "key": "C1 Dialogue.csv::translation::ce510cd1f4cbb102",
     "original": "It's too bad that it's become part of the crime scene.",
-    "translation": "而它成为了犯罪现场的一部分，真的很糟糕。",
+    "translation": "而它成为了案发现场的一部分，真的很糟糕。",
     "context": "{\n  \"id\": \"line:09bda60\",\n  \"node\": \"CelesteRoom_Present\",\n  \"text\": \"It's too bad that it's become part of the crime scene.\"\n}"
   },
   {
@@ -7982,7 +7982,7 @@
   {
     "key": "C1 Dialogue.csv::translation::c3786247717825f7",
     "original": "Tyrion: It's a bottle of Lotus Juice.[p/] These shards were on the floor of the crime scene.",
-    "translation": "Tyrion: 这是莲之水的瓶子。[p/] 这些碎片是在犯罪现场的地面上发现的。",
+    "translation": "Tyrion: 这是莲之水的瓶子。[p/] 这些碎片是在案发现场的地面上发现的。",
     "context": "{\n  \"id\": \"line:06da1f2\",\n  \"node\": \"CelesteArgue6\",\n  \"text\": \"Tyrion: It's a bottle of Lotus Juice.[p/] These shards were on the floor of the crime scene.\"\n}"
   },
   {
@@ -8576,7 +8576,7 @@
   {
     "key": "C1 Dialogue.csv::translation::fb10c3a17f05c41d",
     "original": "Celeste: ...I still don’t understand, though.[p/] Why were there so many traces of magic at the crime scene?",
-    "translation": "Celeste: ……不过，我还是不明白。[p/]为什么犯罪现场有那么多的魔法痕迹？",
+    "translation": "Celeste: ……不过，我还是不明白。[p/]为什么案发现场有那么多的魔法痕迹？",
     "context": "{\n  \"id\": \"line:086b02b\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"Celeste: ...I still don’t understand, though.[p/] Why were there so many traces of magic at the crime scene?\"\n}"
   },
   {
@@ -9152,7 +9152,7 @@
   {
     "key": "C1 Dialogue.csv::translation::d714e63c3bd2b063",
     "original": "Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!",
-    "translation": "Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和犯罪现场的照片！",
+    "translation": "Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和案发现场的照片！",
     "context": "{\n  \"id\": \"line:02c664a\",\n  \"node\": \"Dungeon_Present\",\n  \"text\": \"Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!\"\n}"
   },
   {
@@ -9632,7 +9632,7 @@
   {
     "key": "C1 Dialogue.csv::translation::5b71e55e10c5f7c3",
     "original": "Tyrion: This photo of the crime scene shows that the sword was left inside the victim’s body.",
-    "translation": "Tyrion: 犯罪现场的照片显示那把剑留在被害人的尸体里面。",
+    "translation": "Tyrion: 案发现场的照片显示那把剑留在被害人的尸体里面。",
     "context": "{\n  \"id\": \"line:0d083d8\",\n  \"node\": \"GarrickArgue4\",\n  \"text\": \"Tyrion: This photo of the crime scene shows that the sword was left inside the victim’s body.\"\n}"
   },
   {
@@ -9926,7 +9926,7 @@
   {
     "key": "C1 Dialogue.csv::translation::dda45912d8b20ccc",
     "original": "Otherwise,[p/] there wouldn’t have been any traces of [b]transmutation[/b] at the crime scene.",
-    "translation": "否则，[p/]犯罪现场根本就不会残留任何[b]形变术[/b]的痕迹。",
+    "translation": "否则，[p/]案发现场根本就不会残留任何[b]形变术[/b]的痕迹。",
     "context": "{\n  \"id\": \"line:071061d\",\n  \"node\": \"GarrickArgue6\",\n  \"text\": \"Otherwise,[p/] there wouldn’t have been any traces of [b]transmutation[/b] at the crime scene.\"\n}"
   },
   {
@@ -10142,7 +10142,7 @@
   {
     "key": "C1 Dialogue.csv::translation::eaf2c3f576c99366",
     "original": "That made sense.[p/] There wasn’t any ice at the crime scene.",
-    "translation": "这确实有道理。[p/]犯罪现场没有发现冰块。",
+    "translation": "这确实有道理。[p/]案发现场没有发现冰块。",
     "context": "{\n  \"id\": \"line:0325de2\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"That made sense.[p/] There wasn’t any ice at the crime scene.\"\n}"
   },
   {
@@ -10514,7 +10514,7 @@
   {
     "key": "C1 Dialogue.csv::translation::d5ceb5d12dad194d",
     "original": "Tyrion: I wondered why there were so many traces of [b]transmutation[b/] scattered around the crime scene.",
-    "translation": "Tyrion: 我一直奇怪为什么有这么多[b]形变术[b/]的痕迹遍布在犯罪现场。",
+    "translation": "Tyrion: 我一直奇怪为什么有这么多[b]形变术[b/]的痕迹遍布在案发现场。",
     "context": "{\n  \"id\": \"line:0cf3f94\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: I wondered why there were so many traces of [b]transmutation[b/] scattered around the crime scene.\"\n}"
   },
   {
@@ -12344,31 +12344,31 @@
   {
     "key": "C1 Dialogue.csv::translation::aa4a120e12f08795",
     "original": "Tyrion: It's a painting of a knight.",
-    "translation": "",
+    "translation": "Tyrion: 描绘着一位骑士的画。",
     "context": "{\n  \"id\": \"line:040d5d7\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"Tyrion: It's a painting of a knight.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::95907c78d7c11fd8",
     "original": "Tyrion: There's some text under it.",
-    "translation": "",
+    "translation": "Tyrion: 下面写着什么。",
     "context": "{\n  \"id\": \"line:05a196b\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"Tyrion: There's some text under it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fee0ffaba5ef4b00",
     "original": "Tyrion: \"General David Serrano:[p/] former Chief of the Kingsguard.[p/] A beloved ally of House Steelwind who served during the Great Luminite War.\"",
-    "translation": "",
+    "translation": "Tyrion: “David Serrano 将军：前国王卫队队长。[p/]一位深受爱戴的斯蒂尔文德家盟友，曾参与了大圣战。”",
     "context": "{\n  \"id\": \"line:03b951c\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"Tyrion: \\\"General David Serrano:[p/] former Chief of the Kingsguard.[p/] A beloved ally of House Steelwind who served during the Great Luminite War.\\\"\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d88b86706d2aa0db",
     "original": "Tyrion: \"The annals of history have countless tales of his courage,[p/] wit,[p/] and heroism.\"",
-    "translation": "",
+    "translation": "Tyrion: “史记上记载了无数关于他充满勇气、[p/]智慧、[p/]和英雄气概的故事。”",
     "context": "{\n  \"id\": \"line:0fecf2d\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"Tyrion: \\\"The annals of history have countless tales of his courage,[p/] wit,[p/] and heroism.\\\"\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6c9b46526135b7e8",
     "original": "Tyrion: \"With this plaque,[p/] we thank and honor him for coming to the defense of our kingdom during one of our greatest times of need.\"",
-    "translation": "",
+    "translation": "Tyrion: “借此画像感谢他在我们最需要的时候保卫了王国。”",
     "context": "{\n  \"id\": \"line:043b667\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"Tyrion: \\\"With this plaque,[p/] we thank and honor him for coming to the defense of our kingdom during one of our greatest times of need.\\\"\"\n}"
   },
   {
@@ -12380,247 +12380,247 @@
   {
     "key": "C1 Dialogue.csv::translation::38f5504e581d3283",
     "original": "There was a bench outside the courtroom.",
-    "translation": "",
+    "translation": "法庭外放置的一张长椅。",
     "context": "{\n  \"id\": \"line:040b7fe\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"There was a bench outside the courtroom.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5fb1fcf973479d0c",
     "original": "When I was a child,[p/] I used to sit there during Ms. Tymora’s trials.",
-    "translation": "",
+    "translation": "当我还是个小孩时，[p/]我经常坐在这里等泰摩拉女士闭庭。",
     "context": "{\n  \"id\": \"line:088b7b3\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"When I was a child,[p/] I used to sit there during Ms. Tymora’s trials.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9bf274e808fc67b5",
     "original": "This door led to the courtroom.",
-    "translation": "",
+    "translation": "这扇门通向法庭。",
     "context": "{\n  \"id\": \"line:0e6c4bf\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"This door led to the courtroom.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ebc835244aeb288e",
     "original": "Beyond these doors,[p/] the fates of countless people had been decided.",
-    "translation": "",
+    "translation": "在这扇门之后，[p/]无数人的命运被他人决定。",
     "context": "{\n  \"id\": \"line:01b053c\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"Beyond these doors,[p/] the fates of countless people had been decided.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1c1613be1c140d90",
     "original": "The Investigation",
-    "translation": "",
+    "translation": "调查",
     "context": "{\n  \"id\": \"line:089c472\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"The Investigation\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5d81a20d1739ab87",
     "original": "Ruby: You should really head to the crime scene and gather as much information as possible.",
-    "translation": "",
+    "translation": "Ruby: 你该前往案发现场，尽可能收集信息。",
     "context": "{\n  \"id\": \"line:0da8fa9\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: You should really head to the crime scene and gather as much information as possible.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e83eaa2178487d97",
     "original": "Tyrion: Right...[p/] I still have no idea what happened the night of the murder.",
-    "translation": "",
+    "translation": "Tyrion: 没错……[p/]对于案发当晚发生了什么，我一无所知。",
     "context": "{\n  \"id\": \"line:065e7e2\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Tyrion: Right...[p/] I still have no idea what happened the night of the murder.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1e93f895da7285d7",
     "original": "Tyrion: I found a lot of clues,[p/] but I still don’t know what really happened that night.",
-    "translation": "",
+    "translation": "Tyrion: 我找到了不少线索，[p/]但仍然不知道当晚到底发生了什么。",
     "context": "{\n  \"id\": \"line:084c1ac\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Tyrion: I found a lot of clues,[p/] but I still don’t know what really happened that night.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6ad0e6e324b8c130",
     "original": "Ruby: Knowing the state of a crime scene will be instrumental to cross-examining witnesses in the trial tomorrow.",
-    "translation": "",
+    "translation": "Ruby:  了解案发现场的情况对于明天审判中的交叉讯问环节至关重要。",
     "context": "{\n  \"id\": \"line:03e182d\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: Knowing the state of a crime scene will be instrumental to cross-examining witnesses in the trial tomorrow.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a2da0b7f73fc24f0",
     "original": "Ruby: Each piece of evidence gives you a weapon you can use to cut through the prosecution’s lies.",
-    "translation": "",
+    "translation": "Ruby: 每一件证据都是你击破检方谎言的武器。",
     "context": "{\n  \"id\": \"line:09b3d4b\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: Each piece of evidence gives you a weapon you can use to cut through the prosecution’s lies.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5b490b854ef8f4ef",
     "original": "Right...[p/] I needed to consider each piece of evidence that I’d gathered.[p/] They would be powerful tools in my cross-examinations.",
-    "translation": "",
+    "translation": "没错……[p/]我该逐件思考一下找到的所有证据。[p/]它们在交叉询问中是很强力的工具。",
     "context": "{\n  \"id\": \"line:0851fbd\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Right...[p/] I needed to consider each piece of evidence that I’d gathered.[p/] They would be powerful tools in my cross-examinations.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eb182ee1afa8a8ac",
     "original": "Tyrion: Flinhart was a complicated man...",
-    "translation": "",
+    "translation": "Tyrion: 弗林哈特真是个复杂的男人……",
     "context": "{\n  \"id\": \"line:0069ff8\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Tyrion: Flinhart was a complicated man...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e5377ebc947a2d8a",
     "original": "Ruby: It's not uncommon for people like him to despise magic.[p/] To them,[p/] magic is a symbol of the nobility and the King.",
-    "translation": "",
+    "translation": "Ruby: 像他那样鄙夷法术的平民并不少见。[p/]对他们而言，[p/]法术就是贵族与国王的象征。",
     "context": "{\n  \"id\": \"line:03f4645\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: It's not uncommon for people like him to despise magic.[p/] To them,[p/] magic is a symbol of the nobility and the King.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9783d4c952980e24",
     "original": "Tyrion: I don’t know...[p/] His hatred sounds like it was really personal for some reason.[p/] I think something else may have happened.",
-    "translation": "",
+    "translation": "Tyrion: 我虽然不知道详情……[p/]他的怨恨听起来个人因素很重。[p/]我想肯定发生过什么事情。",
     "context": "{\n  \"id\": \"line:0e2b101\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Tyrion: I don’t know...[p/] His hatred sounds like it was really personal for some reason.[p/] I think something else may have happened.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f79c67b8b358103d",
     "original": "Ruby: You've definitely learned a lot.[p/] You did as well as you could have with so little time.",
-    "translation": "",
+    "translation": "Ruby: 你真的已经知道很多了。[p/]在这么紧的时间里你已经做得足够好了。",
     "context": "{\n  \"id\": \"line:0a8d83b\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: You've definitely learned a lot.[p/] You did as well as you could have with so little time.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2de879ef61522ccb",
     "original": "Tyrion: I just hope it’s enough...",
-    "translation": "",
+    "translation": "Tyrion: 我是希望足够了……",
     "context": "{\n  \"id\": \"line:0d6a539\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Tyrion: I just hope it’s enough...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fb92ba9299f38211",
     "original": "Only time would tell if it was all worth it.",
-    "translation": "",
+    "translation": "只有时间能证明这一切是否值得。",
     "context": "{\n  \"id\": \"line:0f3deeb\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Only time would tell if it was all worth it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d1d47918239e741c",
     "original": "But there was one last thing I needed to do.[p/] I needed to talk to Celeste.",
-    "translation": "",
+    "translation": "但我还有最后一件事要做。[p/]我需要与塞莱斯特谈一谈。",
     "context": "{\n  \"id\": \"line:0c45dac\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"But there was one last thing I needed to do.[p/] I needed to talk to Celeste.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7e8996c203eb069f",
     "original": "It wouldn’t be right to leave things as they are.",
-    "translation": "",
+    "translation": "让事情就这样不了了之可不好。",
     "context": "{\n  \"id\": \"line:01b6f1a\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"It wouldn’t be right to leave things as they are.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d79f158ee320cc48",
     "original": "Next Lead",
-    "translation": "",
+    "translation": "下一个目的",
     "context": "{\n  \"id\": \"line:050f497\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Next Lead\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4bfec3e9d3434b80",
     "original": "Tyrion: Where should I go next, Ms. Tymora?",
-    "translation": "",
+    "translation": "Tyrion: 泰摩拉女士，我接下来该去哪里？",
     "context": "{\n  \"id\": \"line:0372bd2\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Tyrion: Where should I go next, Ms. Tymora?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::61b1541ebb458724",
     "original": "Ruby: ...You haven't really gone anywhere.[p/] You should really head to the crime scene.",
-    "translation": "",
+    "translation": "Ruby: ……你还哪儿都没去呢。[p/]你应该前往案发现场。",
     "context": "{\n  \"id\": \"line:0cb5d5b\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: ...You haven't really gone anywhere.[p/] You should really head to the crime scene.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f85ef166870d6cbd",
     "original": "Tyrion: R-[p/][s/]Right...[p/] Of course.",
-    "translation": "",
+    "translation": "Tyrion: 对、[p/][s/]对的……[p/]当然了。",
     "context": "{\n  \"id\": \"line:089eb12\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Tyrion: R-[p/][s/]Right...[p/] Of course.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dbd505fdbab03226",
     "original": "Ruby: The Inquisition should be done questioning Celeste by now.[p/] It might be helpful to talk to her and find out why she was arguing with Flinhart.",
-    "translation": "",
+    "translation": "Ruby: 这会儿裁判所应该已经结束了对塞莱斯特的讯问。[p/]与她交谈，找出她与弗林哈特争吵的原因应该很有帮助。",
     "context": "{\n  \"id\": \"line:07cfccd\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: The Inquisition should be done questioning Celeste by now.[p/] It might be helpful to talk to her and find out why she was arguing with Flinhart.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9a0b627d8a09c6c0",
     "original": "Ruby: ...Hopefully,[p/] she’ll actually cooperate with you this time.",
-    "translation": "",
+    "translation": "Ruby: ……当然，[p/]希望她这次会配合你。",
     "context": "{\n  \"id\": \"line:0e87332\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: ...Hopefully,[p/] she’ll actually cooperate with you this time.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::82e1bd0163d70d48",
     "original": "Ruby: McCoy gave you the key to her room. I doubt you’ll find anything,[p/] but it's the only room in the tavern that you haven't checked.",
-    "translation": "",
+    "translation": "Ruby: 麦考伊把她房间的钥匙给你了。虽然可能找不到什么东西，[p/]但那是酒馆里你唯一还没检查过的房间。",
     "context": "{\n  \"id\": \"line:0737350\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: McCoy gave you the key to her room. I doubt you’ll find anything,[p/] but it's the only room in the tavern that you haven't checked.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::13402493a335ea2d",
     "original": "Ruby: You might find something useful there.",
-    "translation": "",
+    "translation": "Ruby: 没准能找到些有用的情报。",
     "context": "{\n  \"id\": \"line:0d4a4b1\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: You might find something useful there.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dfefbc4b67087a91",
     "original": "Ruby: You've learned a lot.[p/] I think you've collected enough evidence for the upcoming trial.",
-    "translation": "",
+    "translation": "Ruby: 你已经知道很多事情了。[p/]我想你已经为马上到来的庭审收集了足够的证据。",
     "context": "{\n  \"id\": \"line:0793c5d\",\n  \"node\": \"Lobby_Talk\",\n  \"text\": \"Ruby: You've learned a lot.[p/] I think you've collected enough evidence for the upcoming trial.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::52e9c9478cc362f5",
     "original": "Tyrion: I can’t believe it...[p/] I finally have an Attorney’s Runestone...",
-    "translation": "",
+    "translation": "Tyrion: 难以置信……[p/]我终于拥有一块律师符石了……",
     "context": "{\n  \"id\": \"line:01babb6\",\n  \"node\": \"Lobby_Present\",\n  \"text\": \"Tyrion: I can’t believe it...[p/] I finally have an Attorney’s Runestone...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e147011f2e27b68c",
     "original": "Ruby: You worked hard for it.",
-    "translation": "",
+    "translation": "Ruby: 你为此非常努力。",
     "context": "{\n  \"id\": \"line:0fa50f7\",\n  \"node\": \"Lobby_Present\",\n  \"text\": \"Ruby: You worked hard for it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ca850acf0ccdfa32",
     "original": "Tyrion: I never got a chance to thank you.",
-    "translation": "",
+    "translation": "Tyrion: 我一直都没机会感谢您。",
     "context": "{\n  \"id\": \"line:0b45b0d\",\n  \"node\": \"Lobby_Present\",\n  \"text\": \"Tyrion: I never got a chance to thank you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::84d9cb59ee8621ca",
     "original": "Ruby: ...Just focus on your current case.",
-    "translation": "",
+    "translation": "Ruby: ……你只要专注在眼前的案子就好。",
     "context": "{\n  \"id\": \"line:00f24b7\",\n  \"node\": \"Lobby_Present\",\n  \"text\": \"Ruby: ...Just focus on your current case.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f42d094a7514151a",
     "original": "Ruby: It has a lot of different functions.[p/] I can go over the manual with you after you acquit McCoy.",
-    "translation": "",
+    "translation": "Ruby: 它有好多功能。[p/]等你让麦考伊无罪释放后，我可以和你一起好好研究说明书。",
     "context": "{\n  \"id\": \"line:0bea974\",\n  \"node\": \"Lobby_Present\",\n  \"text\": \"Ruby: It has a lot of different functions.[p/] I can go over the manual with you after you acquit McCoy.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f6096d396009ccd1",
     "original": "Ruby: ...I’m not going to go over every piece of evidence with you.[p/] You'll learn nothing if I do that.",
-    "translation": "",
+    "translation": "Ruby: ……我不会就每件证据和你详细讨论。[p/]那样的话你学不到东西。",
     "context": "{\n  \"id\": \"line:08a3a37\",\n  \"node\": \"Lobby_Present\",\n  \"text\": \"Ruby: ...I’m not going to go over every piece of evidence with you.[p/] You'll learn nothing if I do that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::946a28cd1270dc5a",
     "original": "Tyrion: ...Can you at least give me a hint?",
-    "translation": "",
+    "translation": "Tyrion: ……您能至少给我点提示吗？",
     "context": "{\n  \"id\": \"line:0d4d290\",\n  \"node\": \"Lobby_Present\",\n  \"text\": \"Tyrion: ...Can you at least give me a hint?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::83b5fbb3620f25fb",
     "original": "Ruby: No.",
-    "translation": "",
+    "translation": "Ruby: 不。",
     "context": "{\n  \"id\": \"line:0edb256\",\n  \"node\": \"Lobby_Present\",\n  \"text\": \"Ruby: No.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::374a960597eda881",
     "original": "Ruby: Oh, Cuthbert.[p/] You're back?",
-    "translation": "",
+    "translation": "Ruby: 卡斯伯特，[p/]你回来了？",
     "context": "{\n  \"id\": \"line:018b5f6\",\n  \"node\": \"Lobby_Check\",\n  \"text\": \"Ruby: Oh, Cuthbert.[p/] You're back?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::454c4165ca638de7",
     "original": "Tyrion: Sorry...[p/] I guess I'm just a little lost about where to go.",
-    "translation": "",
+    "translation": "Tyrion: 抱歉……[p/]我有点不知道该去哪儿了。",
     "context": "{\n  \"id\": \"line:02379ca\",\n  \"node\": \"Lobby_Check\",\n  \"text\": \"Tyrion: Sorry...[p/] I guess I'm just a little lost about where to go.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f3b400e2dc8e4cab",
     "original": "Ruby: Hm...[p/] Well,[p/] I guess I can give you [i]some[/i] guidance.",
-    "translation": "",
+    "translation": "Ruby: 嗯……[p/]那好吧，[p/]我想我可以给你[i]一点[/i]引导。",
     "context": "{\n  \"id\": \"line:077b1be\",\n  \"node\": \"Lobby_Check\",\n  \"text\": \"Ruby: Hm...[p/] Well,[p/] I guess I can give you [i]some[/i] guidance.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8f82633fa9cbc9c5",
     "original": "Orym: Look,[p/] we can talk about this all day, kid.[p/] You’re getting nothing out of me.",
-    "translation": "",
+    "translation": "Orym: 小子，[p/]这没有意义，我们能争论一整天。[p/]你从我这儿什么也得不到。",
     "context": "{\n  \"id\": \"line:05cd9ac\",\n  \"node\": \"OrymFail\",\n  \"text\": \"Orym: Look,[p/] we can talk about this all day, kid.[p/] You’re getting nothing out of me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9dbd814fd54ed531",
     "original": "Damn it...[p/] I still couldn’t get through to him...",
-    "translation": "",
+    "translation": "该死……[p/]我还是没有说动他……",
     "context": "{\n  \"id\": \"line:09e086f\",\n  \"node\": \"OrymFail\",\n  \"text\": \"Damn it...[p/] I still couldn’t get through to him...\"\n}"
   },
   {
