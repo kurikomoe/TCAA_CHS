@@ -14625,8 +14625,8 @@
   {
     "key": "C3 Dialogue.csv::translation::63a3a6c91c4f07c8",
     "original": "Lloyd: But they were protected by the Ordo Astralis:[p/] a peacekeeping organization that had every other nation in the world under its thumb.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 但他们是被星辰秩序庇护的，[p/]那个将世上所有其他国家都置于其掌控之下的维和组织。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ce4123\",\n  \"node\": \"LloydMonologue\",\n  \"text\": \"Lloyd: But they were protected by the Ordo Astralis:[p/] a peacekeeping organization that had every other nation in the world under its thumb.\"\n}"
   },
   {
