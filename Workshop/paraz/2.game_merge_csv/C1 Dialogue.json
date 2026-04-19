@@ -11966,343 +11966,343 @@
   {
     "key": "C1 Dialogue.csv::translation::ddbb0f304e8eff6a",
     "original": "Remus: People are dying, Lucio![p/][s/] [i]Children[/i] are dying under your watch!",
-    "translation": "",
+    "translation": "Remus: 民众正在死去，卢西奥！[p/][s/][i]孩子们[/i]就在你的眼皮子底下死去！",
     "context": "{\n  \"id\": \"line:0d644eb\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Remus: People are dying, Lucio![p/][s/] [i]Children[/i] are dying under your watch!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a5b4d1eb3b667f81",
     "original": "Lucio: Do you truly think me capable of such atrocities, Your Grace?",
-    "translation": "",
+    "translation": "Lucio: 殿下，您真的认为我有能力做出这么多暴行吗？",
     "context": "{\n  \"id\": \"line:0fdcf90\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Lucio: Do you truly think me capable of such atrocities, Your Grace?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::146344241e4c9200",
     "original": "Lucio: If you do,[p/] then strike me down now.[p/] You have the power to do so.",
-    "translation": "",
+    "translation": "Lucio: 如果您是这么认为的，[p/]那么就在这里击倒我吧。[p/]您有这样的力量。",
     "context": "{\n  \"id\": \"line:0b97c50\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Lucio: If you do,[p/] then strike me down now.[p/] You have the power to do so.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a85131a017aeb3ac",
     "original": "Remus: You know I won't do that, Lucio.",
-    "translation": "",
+    "translation": "Remus: 卢西奥，你知道我不会这么做。",
     "context": "{\n  \"id\": \"line:0cc30e4\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Remus: You know I won't do that, Lucio.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cdd0dbf1d174ebfd",
     "original": "Lucio: Then stay out of my way.",
-    "translation": "",
+    "translation": "Lucio: 那就不要再阻挡我。",
     "context": "{\n  \"id\": \"line:042044c\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Lucio: Then stay out of my way.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::57f64df6e21ea7e1",
     "original": "Remus: What has become of all of you?",
-    "translation": "",
+    "translation": "Remus: 你到底怎么了？",
     "context": "{\n  \"id\": \"line:07b59d8\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Remus: What has become of all of you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::151c472122096088",
     "original": "Knight: Pierce,[p/] you have a visitor.",
-    "translation": "",
+    "translation": "Knight: 皮尔斯，[p/]有访客。",
     "context": "{\n  \"id\": \"line:0d3ff8b\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Knight: Pierce,[p/] you have a visitor.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0d3716bfeebd8626",
     "original": "Garrick: Hmph...[p/] Steelwind's brat again?[p/] I’m in no mood for another sanctimonious lecture.",
-    "translation": "",
+    "translation": "Garrick: 哼……[p/]又是斯蒂尔文德家的小鬼？[p/]我没心情再听一场虚伪的演讲。",
     "context": "{\n  \"id\": \"line:028cabe\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Garrick: Hmph...[p/] Steelwind's brat again?[p/] I’m in no mood for another sanctimonious lecture.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8fd88407897c6e68",
     "original": "Jolene: Gary.",
-    "translation": "",
+    "translation": "Jolene: 加里。",
     "context": "{\n  \"id\": \"line:0b56032\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Jolene: Gary.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eddd8d01d042d0ad",
     "original": "Garrick: ...Jolene?",
-    "translation": "",
+    "translation": "Garrick: ……朱莲尼？",
     "context": "{\n  \"id\": \"line:04028a5\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Garrick: ...Jolene?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::08f14bef644ebfe0",
     "original": "Garrick: Ha...[P/] Time has not been kind to you.",
-    "translation": "",
+    "translation": "Garrick: 哈……[P/]时间对你可没怎么留情啊。",
     "context": "{\n  \"id\": \"line:06e8236\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Garrick: Ha...[P/] Time has not been kind to you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::abedd141c6094483",
     "original": "Jolene: Excuse you![p/] I'll have you know that I still get mistaken for twenty everywhere I go.",
-    "translation": "",
+    "translation": "Jolene: 说什么呢！[p/]告诉你，不管到哪儿都有人以为我只有二十出头。",
     "context": "{\n  \"id\": \"line:06d8091\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Jolene: Excuse you![p/] I'll have you know that I still get mistaken for twenty everywhere I go.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3c060c8378e19c95",
     "original": "Garrick: Hmph...[p/] I suppose some things never change.",
-    "translation": "",
+    "translation": "Garrick: 哼……[p/]我想总有些没有改变的事情吧。",
     "context": "{\n  \"id\": \"line:07eac30\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Garrick: Hmph...[p/] I suppose some things never change.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3ba5bd0807067648",
     "original": "Garrick: ...Let’s get on with it, then.",
-    "translation": "",
+    "translation": "Garrick: ……那来吧。",
     "context": "{\n  \"id\": \"line:04d50f4\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Garrick: ...Let’s get on with it, then.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::84f699271503c7fe",
     "original": "Jolene: What?",
-    "translation": "",
+    "translation": "Jolene: 什么意思？",
     "context": "{\n  \"id\": \"line:005b7e6\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Jolene: What?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::47577ffd64fa163b",
     "original": "Garrick: Go on.[p/] Yell at me.[p/] Curse at me.",
-    "translation": "",
+    "translation": "Garrick: 来吧。[p/]冲我吼叫、[p/] 诅咒我。",
     "context": "{\n  \"id\": \"line:08da2c2\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Garrick: Go on.[p/] Yell at me.[p/] Curse at me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6b0a6bacdb99cf5d",
     "original": "Garrick: I doubt anyone would lift a finger if you opened this cell and beat me half to death.",
-    "translation": "",
+    "translation": "Garrick: 就算你打开牢房给我打个半死，我想也不会有人为我动一动手指头。",
     "context": "{\n  \"id\": \"line:0840147\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Garrick: I doubt anyone would lift a finger if you opened this cell and beat me half to death.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::864169c7f6b99660",
     "original": "Garrick: So...?[p/][s/] Do it.",
-    "translation": "",
+    "translation": "Garrick: 所以……？[p/][s/]来吧。",
     "context": "{\n  \"id\": \"line:0042bf7\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Garrick: So...?[p/][s/] Do it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0014f55ae161d19d",
     "original": "Jolene: [i]*sigh*[/i]",
-    "translation": "",
+    "translation": "Jolene: [i]*叹气*[/i]",
     "context": "{\n  \"id\": \"line:00cb2f2\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Jolene: [i]*sigh*[/i]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a7b12665c207a783",
     "original": "Jolene: ...I forgive you.",
-    "translation": "",
+    "translation": "Jolene: ……我原谅你。",
     "context": "{\n  \"id\": \"line:0f8db1c\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Jolene: ...I forgive you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8a518be8701be093",
     "original": "Jolene: I forgive you for killing my husband, Garrick.",
-    "translation": "",
+    "translation": "Jolene: 我原谅你杀死我丈夫的事，加里克。",
     "context": "{\n  \"id\": \"line:0ec22e4\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Jolene: I forgive you for killing my husband, Garrick.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c19b2221af6dd17a",
     "original": "Garrick: ...Have you lost your mind?[p/] Do you think I feel [i]any[/i] remorse?",
-    "translation": "",
+    "translation": "Garrick: ……你疯了？[p/]你以为我会有[i]任何[/i]悔恨的想法？",
     "context": "{\n  \"id\": \"line:047ab78\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Garrick: ...Have you lost your mind?[p/] Do you think I feel [i]any[/i] remorse?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0f47096b908e822a",
     "original": "Garrick: Do you think I’m still that weak child?",
-    "translation": "",
+    "translation": "Garrick: 你还把我当那个弱小的孩子？",
     "context": "{\n  \"id\": \"line:0d1ef7c\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Garrick: Do you think I’m still that weak child?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ae31a9b1530b3a48",
     "original": "Jolene: ...I just don’t have the energy for it.",
-    "translation": "",
+    "translation": "Jolene: ……我只是没力气去那么做。",
     "context": "{\n  \"id\": \"line:0cc6709\",\n  \"node\": \"GarrickJol\",\n  \"text\": \"Jolene: ...I just don’t have the energy for it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::29e9aac70a800cf8",
     "original": "Jolene: I saw what that resentment did to my husband.[p/] It festered inside of him like an infection.",
-    "translation": "",
+    "translation": "Jolene: 我看到了那种怨恨对我丈夫的影响。[p/]那就像感染一样在他的内心溃烂。",
     "context": "{\n  \"id\": \"line:0325788\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: I saw what that resentment did to my husband.[p/] It festered inside of him like an infection.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9251628f2fdd473a",
     "original": "Jolene: ...I’m the only family Celeste has left.",
-    "translation": "",
+    "translation": "Jolene: ……我的家人只剩下塞莱斯特了。",
     "context": "{\n  \"id\": \"line:02f66e8\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: ...I’m the only family Celeste has left.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3c90eca78190581f",
     "original": "Garrick: ...If only you knew where she really came from.",
-    "translation": "",
+    "translation": "Garrick: ……要是你知道她从何而来就又不一样了。",
     "context": "{\n  \"id\": \"line:094d385\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Garrick: ...If only you knew where she really came from.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c9589f3b3bc39587",
     "original": "Jolene: I don’t need to.[p/] She’s reckless,[p/] stubborn,[p/] and a little spoiled, too.",
-    "translation": "",
+    "translation": "Jolene: 我不需要知道。[p/]她又鲁莽、[p/]又固执、[p/]还有点被宠坏了。",
     "context": "{\n  \"id\": \"line:0740bc6\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: I don’t need to.[p/] She’s reckless,[p/] stubborn,[p/] and a little spoiled, too.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::27c1c3ef1744dccb",
     "original": "Jolene: She takes after me in a lot of ways,[p/] and she takes a little too much after her father.",
-    "translation": "",
+    "translation": "Jolene: 她在很多方面像我，[p/]但又和她父亲有些太像了。",
     "context": "{\n  \"id\": \"line:03f14cb\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: She takes after me in a lot of ways,[p/] and she takes a little too much after her father.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3b0af1e264ad0c95",
     "original": "Jolene: But she’s a good person.[p/] She’s the kindest person I’ve ever known,[p/] and I’m proud to call her my daughter.",
-    "translation": "",
+    "translation": "Jolene: 但她终归是个好人。[p/]她是我所知最可爱的人，[p/]我也很自豪拥有这么一位女儿。",
     "context": "{\n  \"id\": \"line:0f00a32\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: But she’s a good person.[p/] She’s the kindest person I’ve ever known,[p/] and I’m proud to call her my daughter.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c0fe999527084ad2",
     "original": "Garrick: Then you’re a fool.",
-    "translation": "",
+    "translation": "Garrick: 那你就是个白痴而已。",
     "context": "{\n  \"id\": \"line:0393dab\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Garrick: Then you’re a fool.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::894be14264eb0941",
     "original": "Jolene: Gary,[p/] Flinhart didn’t blame you for what happened to Effie.",
-    "translation": "",
+    "translation": "Jolene: 加里，[p/]弗林哈特并不因为埃菲的事情责怪你。",
     "context": "{\n  \"id\": \"line:0aee9c3\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: Gary,[p/] Flinhart didn’t blame you for what happened to Effie.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b739781b80b7b4ca",
     "original": "Garrick: ...That’s a lie.[p/] All he ever [i]did[/i] was blame me.",
-    "translation": "",
+    "translation": "Garrick: .……那肯定是假的。[p/]他所做的[i]一切[/i]都是在归咎于我。",
     "context": "{\n  \"id\": \"line:0ceebab\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Garrick: ...That’s a lie.[p/] All he ever [i]did[/i] was blame me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::55c41649af71768e",
     "original": "Jolene: He didn’t blame you until you shut yourself away in your manor.",
-    "translation": "",
+    "translation": "Jolene: 直到你把自己锁进庄园之前，他都没有责怪你。",
     "context": "{\n  \"id\": \"line:0872fcb\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: He didn’t blame you until you shut yourself away in your manor.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::607583026b99ae1f",
     "original": "Jolene: We were all in so much pain over what happened,[p/] and you abandoned us.",
-    "translation": "",
+    "translation": "Jolene: 那件事发生的时候，我们都承受着巨大的痛苦，[p/]你却抛弃了我们。",
     "context": "{\n  \"id\": \"line:06303ad\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: We were all in so much pain over what happened,[p/] and you abandoned us.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1a52e45c9fcc0021",
     "original": "Garrick: ...And you expect me to apologize for that?",
-    "translation": "",
+    "translation": "Garrick: ……那你是要我为此道歉？",
     "context": "{\n  \"id\": \"line:0c24eef\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Garrick: ...And you expect me to apologize for that?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::728c9d2c49bd1c7a",
     "original": "Jolene: Effie always loved that spell.",
-    "translation": "",
+    "translation": "Jolene: 埃菲一直很喜欢那道法术。",
     "context": "{\n  \"id\": \"line:09ec1b1\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: Effie always loved that spell.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7829a10bb48cd1e1",
     "original": "Jolene: Do you remember how she’d dance in the lake while you shaped the water around her feet?",
-    "translation": "",
+    "translation": "Jolene: 你还记得她是怎么你塑形的湖面上起舞的吗？",
     "context": "{\n  \"id\": \"line:0ed53b6\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: Do you remember how she’d dance in the lake while you shaped the water around her feet?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::09a319897a38e59e",
     "original": "Jolene: She thought that spell was the most beautiful thing she’d ever seen.",
-    "translation": "",
+    "translation": "Jolene: 她觉得那是她所见过最美丽的魔法。",
     "context": "{\n  \"id\": \"line:003f511\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Jolene: She thought that spell was the most beautiful thing she’d ever seen.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f1b04eca9a48915b",
     "original": "Garrick: ...That person died a long time ago.",
-    "translation": "",
+    "translation": "Garrick: ……那个人已经死了很久了。",
     "context": "{\n  \"id\": \"line:08038fb\",\n  \"node\": \"GarrickJol2\",\n  \"text\": \"Garrick: ...That person died a long time ago.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9afdacf3d8b1fd26",
     "original": "Jolene: Effie or you?",
-    "translation": "",
+    "translation": "Jolene: 是说埃菲还是说你自己？",
     "context": "{\n  \"id\": \"line:08baf0b\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Jolene: Effie or you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::780d3d12388035c1",
     "original": "Garrick: You’re a weed.",
-    "translation": "",
+    "translation": "Garrick: 你不过是根杂草。",
     "context": "{\n  \"id\": \"line:0222b7f\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: You’re a weed.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4f3671a3c6a404c1",
     "original": "Jolene: ...Excuse me?",
-    "translation": "",
+    "translation": "Jolene: ……你说什么？",
     "context": "{\n  \"id\": \"line:048a229\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Jolene: ...Excuse me?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::070fe4d512507135",
     "original": "Garrick: That’s all you are, Jolene!",
-    "translation": "",
+    "translation": "Garrick: 你不过是根杂草，朱莲尼！",
     "context": "{\n  \"id\": \"line:079ce48\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: That’s all you are, Jolene!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::38095418e2d9e0c4",
     "original": "Garrick: A wilting weed on the road,[p/][s/] waiting to be trampled over by this cold, wretched world!",
-    "translation": "",
+    "translation": "Garrick: 只是路边一棵枯萎的杂草，[p/][s/]等着被这个冰冷而悲惨的世界碾碎！",
     "context": "{\n  \"id\": \"line:06b71b1\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: A wilting weed on the road,[p/][s/] waiting to be trampled over by this cold, wretched world!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::18c9d7a6488e82e2",
     "original": "Garrick: Do you think yourself virtuous for spewing out such empty platitudes?!",
-    "translation": "",
+    "translation": "Garrick: 你满口陈词滥调，自认为道德高尚吗？！",
     "context": "{\n  \"id\": \"line:0157a89\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: Do you think yourself virtuous for spewing out such empty platitudes?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3a4e72def473fabe",
     "original": "Garrick: Admit it![p/][s/] You hate me![p/][s/] You despise me!",
-    "translation": "",
+    "translation": "Garrick: 承认吧！[p/][s/]你憎恨我！[p/][s/]你鄙视我！",
     "context": "{\n  \"id\": \"line:0d355c8\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: Admit it![p/][s/] You hate me![p/][s/] You despise me!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::55a42a4e84f8b5c9",
     "original": "Garrick: If you could stomach it,[p/][s/] you’d climb into this cell and plunge a blade into my chest—[p/][s/]just like [i]I[/i] did to your husband!",
-    "translation": "",
+    "translation": "Garrick: 如果你做得到的话，[p/][s/]你会钻进这间牢房然后把剑插入我的胸膛——[p/][s/]就像[i]我[/i]对你丈夫所做的事情一模一样！",
     "context": "{\n  \"id\": \"line:0561b45\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: If you could stomach it,[p/][s/] you’d climb into this cell and plunge a blade into my chest—[p/][s/]just like [i]I[/i] did to your husband!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::773b58b5d00e6e40",
     "original": "Jolene: [i]*sigh*[/i][p/] No...[p/] Right now,[p/] I only feel sorry for you.",
-    "translation": "",
+    "translation": "Jolene: [i]*叹气*[/i][p/]并不会……[p/]现在，[p/]我只为你这个人感到遗憾。",
     "context": "{\n  \"id\": \"line:070d195\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Jolene: [i]*sigh*[/i][p/] No...[p/] Right now,[p/] I only feel sorry for you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::91916ea1088363e8",
     "original": "Jolene: I never thought you were weak.[p/] You were the kindest person I knew.",
-    "translation": "",
+    "translation": "Jolene: 我没想过你这么脆弱。[p/]你曾是我认为最善良的人。",
     "context": "{\n  \"id\": \"line:033ae5f\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Jolene: I never thought you were weak.[p/] You were the kindest person I knew.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::477ac8d01c251394",
     "original": "Jolene: I miss that man,[p/] but you're right.[p/] He's gone now.",
-    "translation": "",
+    "translation": "Jolene: 我还会怀念他，[p/]但你说得很对。[p/]那个人早就死了。",
     "context": "{\n  \"id\": \"line:002100e\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Jolene: I miss that man,[p/] but you're right.[p/] He's gone now.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a5f22005ad5d520d",
     "original": "Jolene: Good luck with your trial, Garrick.",
-    "translation": "",
+    "translation": "Jolene: 庭审好运，加里克。",
     "context": "{\n  \"id\": \"line:08308aa\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Jolene: Good luck with your trial, Garrick.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::be7c260c2ed43c0a",
     "original": "Garrick: Ha![p/][s/] I don’t need luck!",
-    "translation": "",
+    "translation": "Garrick: 哈！[p/][s/]我可不需要什么好运！",
     "context": "{\n  \"id\": \"line:0e92c1a\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: Ha![p/][s/] I don’t need luck!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::265fa3292de3b194",
     "original": "Garrick: With [i]my[/i] connections,[p/][s/] I’ll be out of this cell by week’s end!",
-    "translation": "",
+    "translation": "Garrick: 凭借我的[i]关系[/i]，[p/][s/]我这周末就能从这里出去！",
     "context": "{\n  \"id\": \"line:0f5e976\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: With [i]my[/i] connections,[p/][s/] I’ll be out of this cell by week’s end!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a2e5982584c0bb9d",
     "original": "Garrick: AGH!",
-    "translation": "",
+    "translation": "Garrick: <size=1.5em>呃啊！</size>",
     "context": "{\n  \"id\": \"line:03f9765\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: AGH!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::782762730e872d13",
     "original": "Garrick: I'll show you...[p/] I'll show all of you...",
-    "translation": "",
+    "translation": "Garrick: 我会让你看到……[p/]我会让你们所有人看到……",
     "context": "{\n  \"id\": \"line:064c9e1\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: I'll show you...[p/] I'll show all of you...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::826ca69b5c3c2bc0",
     "original": "Garrick: Your daughter will be of use to me yet.",
-    "translation": "",
+    "translation": "Garrick: 你女儿之后还会对我有用处。",
     "context": "{\n  \"id\": \"line:03aba73\",\n  \"node\": \"GarrickJol3\",\n  \"text\": \"Garrick: Your daughter will be of use to me yet.\"\n}"
   },
   {
@@ -12314,25 +12314,25 @@
   {
     "key": "C1 Dialogue.csv::translation::e8aaa177d958d4da",
     "original": "Tyrion: It's a painting of a knight.[p/] There's some text under it.",
-    "translation": "",
+    "translation": "Tyrion: 描绘一位骑士的画。[p/]底下有文字标注。",
     "context": "{\n  \"id\": \"line:056ce23\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"Tyrion: It's a painting of a knight.[p/] There's some text under it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fe22fe19947c373b",
     "original": "Tyrion: \"Sir Diogo:[p/] former Commander of the Arcane Inquisition.[p/] Well-beloved by both the people and his fellow knights.\"",
-    "translation": "",
+    "translation": "Tyrion: \"Sir Diogo 阁下:[p/]前奥术裁判所指挥官。[p/]深受民众与他的随从骑士们的爱戴。\"",
     "context": "{\n  \"id\": \"line:0beb716\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"Tyrion: \\\"Sir Diogo:[p/] former Commander of the Arcane Inquisition.[p/] Well-beloved by both the people and his fellow knights.\\\"\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e11cca22253202e0",
     "original": "Tyrion: \"After many years of service,[p/] Commander Diogo retired with honors.\"",
-    "translation": "",
+    "translation": "Tyrion: “经过多年的辛勤工作，[p/]Diogo 指挥官光荣退休。”",
     "context": "{\n  \"id\": \"line:0fcd17b\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"Tyrion: \\\"After many years of service,[p/] Commander Diogo retired with honors.\\\"\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::63bc67d4b7c58495",
     "original": "Tyrion: \"With this plaque,[p/] we thank and honor him for his dedication and commitment to the kingdom of Wyverngarde.\"",
-    "translation": "",
+    "translation": "Tyrion: “谨以此画像感谢他为维文加德所作出的贡献，并为他献上最崇高的敬意。”",
     "context": "{\n  \"id\": \"line:082fe7f\",\n  \"node\": \"Lobby_Examine\",\n  \"text\": \"Tyrion: \\\"With this plaque,[p/] we thank and honor him for his dedication and commitment to the kingdom of Wyverngarde.\\\"\"\n}"
   },
   {
