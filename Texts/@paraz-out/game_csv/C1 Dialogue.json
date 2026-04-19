@@ -12567,596 +12567,596 @@
   {
     "key": "C1 Dialogue.csv::translation::29c364ced3da9988",
     "original": "Garrick: They’re all just peasants—[p/][s/]ALL OF THEM!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 他们只是平民——[p/][s/]<size=1.5em>所有人都是！</size>",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c282fe\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: They’re all just peasants—[p/][s/]ALL OF THEM!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bfdfb54cd66e73e8",
     "original": "Garrick: Is it \"murder\" to protect my kingdom?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 保卫我们的国家能叫做“谋杀”吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08a1e48\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: Is it \\\"murder\\\" to protect my kingdom?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ea61c9bee8b30f14",
     "original": "Garrick: Is it \"murder\" to pull weeds before they blight my land?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 拔掉那些毁坏我的土地的杂草叫做“谋杀”吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f0bcbd\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: Is it \\\"murder\\\" to pull weeds before they blight my land?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::73c5f9ab113c1c3e",
     "original": "Garrick: That fool of a man was spreading [i]poison[/i],[p/][s/] and I did my duty by removing him!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 那个蠢汉四处泼洒[i]毒药[/i]，[p/][s/]我只是履行了除掉他的责任！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09b9611\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: That fool of a man was spreading [i]poison[/i],[p/][s/] and I did my duty by removing him!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dfc03852e388dff1",
     "original": "Celeste: You’re a monster...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你就是个怪物……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a9339c\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"Celeste: You’re a monster...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9c5cb08f7799d36d",
     "original": "Garrick: I’m a [i]NOBLEMAN[/i]—[p/][s/]a chosen vessel of the Scaled Lord’s will!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我可是一名[i]<size=1.5em>贵族</size>[/i]——[p/][s/]由鳞甲领主选定的血脉！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d0a492\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"Garrick: I’m a [i]NOBLEMAN[/i]—[p/][s/]a chosen vessel of the Scaled Lord’s will!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1a4c8a483b707f18",
     "original": "Garrick: You are all [i]nothing[/i]![p/][s/] Do you honestly think you can indict [i]ME[/i]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 而你们[i]什么也不是[/i]！[p/][s/]你们真以为能定[i]我[/i]的罪?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03e37fc\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"Garrick: You are all [i]nothing[/i]![p/][s/] Do you honestly think you can indict [i]ME[/i]?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4870a3cd2f3a3b05",
     "original": "Garrick: My word carries more power than [i]a hundred[/i] of yours!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我的言语可比[i]一百[/i]个你们这样的人要管用！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c918fb\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"Garrick: My word carries more power than [i]a hundred[/i] of yours!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::457cb3db7567a4c9",
     "original": "AriaC: Bailiff.[p/] Escort Pierce to a holding cell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 法警。[p/]把皮尔斯押到牢房去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a97e32\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"AriaC: Bailiff.[p/] Escort Pierce to a holding cell.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::41b30f9b453dd9df",
     "original": "Garrick: ...S-[p/][s/]Steelwind?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……斯、[p/][s/]斯蒂尔文德？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00851cc\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"Garrick: ...S-[p/][s/]Steelwind?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::de7fa4998f3a7d44",
     "original": "AriaC: First-degree murder is punishable by execution, Lord Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 一级谋杀会被处以死刑，皮尔斯勋爵。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04f3f17\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"AriaC: First-degree murder is punishable by execution, Lord Pierce.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2c0cc1aee45baec0",
     "original": "AriaC: I suggest you remain silent.[p/] Lest you incriminate yourself further.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我建议你保持沉默，[p/]以免进一步自证其罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:067c2e7\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"AriaC: I suggest you remain silent.[p/] Lest you incriminate yourself further.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::768969d4846592ee",
     "original": "Garrick: Y-[p/][s/]You can’t be serious!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 你、[p/][s/]你不是认真的吧！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07982bd\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"Garrick: Y-[p/][s/]You can’t be serious!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::06c0dfd98e737de3",
     "original": "Garrick: [i]You[/i],[p/] of all people,[p/] must understand the position I was in!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 在所有人里，[p/][i]你[/i][p/]是最明白我处于什么地位的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0933d0b\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"Garrick: [i]You[/i],[p/] of all people,[p/] must understand the position I was in!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eec835b5a656700a",
     "original": "Garrick: Your father knows what it takes to maintain order![p/][s/] If not for me—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 你父亲知道是什么维持着秩序！[p/][s/]如果不是我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f07231\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"Garrick: Your father knows what it takes to maintain order![p/][s/] If not for me—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c3d9fedd50c5ac37",
     "original": "AriaC: Shut your insidious mouth!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 闭上你那张恶毒的嘴！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bf0aa3\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"AriaC: Shut your insidious mouth!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6cf9909178a78f0f",
     "original": "AriaC: I will never understand your sick, disgusting mind![p/][s/] I’d sooner slit my own throat!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 要我理解你那种病态而恶心的思维？[p/][s/]我宁愿早点割断自己的喉咙！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dccc8c\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"AriaC: I will never understand your sick, disgusting mind![p/][s/] I’d sooner slit my own throat!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0ff2de6efabf86ca",
     "original": "AriaC: Well?![p/][s/] What are you all waiting for?![p/][s/] Take him away!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 人呢？！[p/][s/]你们还在等什么？！[p/][s/]把他给我带下去！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e38f01\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"AriaC: Well?![p/][s/] What are you all waiting for?![p/][s/] Take him away!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::391f53a801e22039",
     "original": "Judge: Y-[p/][s/]Yes...![p/][s/] Take him away at once!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 遵、[p/][s/]遵命……！[p/][s/]把他立刻带下去！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:012b7d6\",\n  \"node\": \"GarrickFinal7\",\n  \"text\": \"Judge: Y-[p/][s/]Yes...![p/][s/] Take him away at once!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::49d8326d5783c293",
     "original": "Celeste: I can’t believe it...[p/][s/] We actually won...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 难以置信……[p/][s/]我们真的胜诉了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a958b8\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Celeste: I can’t believe it...[p/][s/] We actually won...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e0be62e257ac4da0",
     "original": "Celeste: T-[p/][s/]Tyrion...[p/][s/] I—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提、[p/][s/]提利昂……[p/][s/]我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:097eddb\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Celeste: T-[p/][s/]Tyrion...[p/][s/] I—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5a22c04598434587",
     "original": "Tyrion: I know, Celeste...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我明白，塞莱斯特……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e16e79\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Tyrion: I know, Celeste...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::64e8afa2d27a71af",
     "original": "Celeste: Tyrion...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07df4ab\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Celeste: Tyrion...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::492d828adf146f20",
     "original": "Teary-eyed,[p/] she threw her arms around me,[p/] embracing me tightly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她泪眼婆娑，[p/]向我张开双臂，[p/]然后抱紧了我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a1513f\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Teary-eyed,[p/] she threw her arms around me,[p/] embracing me tightly.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::77f6310da9e219b3",
     "original": "I just stood there wide-eyed,[p/] looking toward the gallery members who were staring at us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我睁大了眼呆在那里，[p/]看向旁听席上盯着我们看的人们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ce9b18\",\n  \"node\": \"FinalScene\",\n  \"text\": \"I just stood there wide-eyed,[p/] looking toward the gallery members who were staring at us.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b2de93e54f3fbff1",
     "original": "...I was unsure of where to put my hands.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……我不知道自己的手该放哪里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b0afd4\",\n  \"node\": \"FinalScene\",\n  \"text\": \"...I was unsure of where to put my hands.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7613aefa94c09472",
     "original": "Ruby: That was...[p/] [i]remarkable[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 那还真是……[p/] [i]引人注目[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0729e89\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Ruby: That was...[p/] [i]remarkable[/i].\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8ddb9beaaef9afa5",
     "original": "Tyrion: M-[p/][s/]Ms. Tymora!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰、[p/][s/]泰摩拉女士！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0141f58\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Tyrion: M-[p/][s/]Ms. Tymora!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0e6dd84c72d2ba38",
     "original": "Ruby: I’ll be honest.[p/] When I realized that the murder weapon had evaporated,[p/] I thought that the case was over.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 说实话。[p/]我意识到凶器已经蒸发掉的时候，[p/]我真以为这个案子完了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bf9cf7\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Ruby: I’ll be honest.[p/] When I realized that the murder weapon had evaporated,[p/] I thought that the case was over.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2b9c9dba820d1559",
     "original": "Ruby: You did a great job of turning that around.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 能从那个局面逆转，你干得非常出色。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:006bf79\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Ruby: You did a great job of turning that around.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a905ba162b084f3d",
     "original": "Tyrion: It was just luck...[p/] If he'd used water,[p/] things would have ended very differently.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 只是运气好……[p/]如果他当时用的是水，[p/]结果就会很不一样了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:065a627\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Tyrion: It was just luck...[p/] If he'd used water,[p/] things would have ended very differently.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::311c97040e57f255",
     "original": "Ruby: It had nothing to do with luck—[p/]not this time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 这与运气无关——[p/]至少这次不是。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0baae95\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Ruby: It had nothing to do with luck—[p/]not this time.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::48368d62056bd662",
     "original": "Ruby: You were able to deduce which liquid he used,[p/] and you did it just by looking at a few shards of broken glass.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你能够推断出他用的液体来自哪里，[p/]而你只是看了一眼玻璃碎片。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e7e482\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Ruby: You were able to deduce which liquid he used,[p/] and you did it just by looking at a few shards of broken glass.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::30664b0594a30b81",
     "original": "Ruby: I knew your deductive skills were good,[p/] but that was incredible.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我知道你的演绎能力很强，[p/]但没想到这么不可思议。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06d0590\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Ruby: I knew your deductive skills were good,[p/] but that was incredible.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::81edd6ef1c62694b",
     "original": "It wasn’t just deduction, though.[p/] I did something with the Eye of Horus today[p/]—something I’d never done before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然那不只是推理。[p/]我用荷鲁斯之眼做了一些事情[p/]——那是我从未知晓的用法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0769348\",\n  \"node\": \"FinalScene\",\n  \"text\": \"It wasn’t just deduction, though.[p/] I did something with the Eye of Horus today[p/]—something I’d never done before.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::582de87257d69732",
     "original": "I had an amazing ability,[p/] but I was starting to realize that I knew next to nothing about it...",
-    "translation": "",
-    "stage": 0,
+    "translation": "我身惊人的异能，[p/] 但我开始意识到，我对它几乎一无所知……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0038c10\",\n  \"node\": \"FinalScene\",\n  \"text\": \"I had an amazing ability,[p/] but I was starting to realize that I knew next to nothing about it...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::aecb195cadfcad24",
     "original": "If I wanted to use it effectively,[p/] I needed to learn more.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果我想更有效地利用它，[p/]我就得加深学习。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:043dd9e\",\n  \"node\": \"FinalScene\",\n  \"text\": \"If I wanted to use it effectively,[p/] I needed to learn more.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d8a0b9c3780ad666",
     "original": "Aria: You all are quite lively.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 你们看起来精神不错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0799ce3\",\n  \"node\": \"FinalScene\",\n  \"text\": \"Aria: You all are quite lively.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1b804502ed5eb47b",
     "original": "Aria: There’s no need for such hostility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 没必要这么敌视我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04c9a9d\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: There’s no need for such hostility.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b2ddedf6e5deb049",
     "original": "Aria: Though, I wouldn’t expect any less from the hound of the Eyetaker.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 不过，我本就没有对“夺眼者”的狗抱什么期待。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e9f385\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: Though, I wouldn’t expect any less from the hound of the Eyetaker.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::621d5a9d94c57b28",
     "original": "Ruby: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e4bacc\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Ruby: ...!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::52ee4e85206f7ef5",
     "original": "...What did she mean by [i]that[/i]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……她[i]这话[/i]是什么意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01793e3\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"...What did she mean by [i]that[/i]?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::77474073553c3491",
     "original": "I glanced at Ms. Tymora,[p/] but she avoided eye contact with me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我看了一眼泰摩拉女士，[p/]但她回避与我视线相交。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07bf52a\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"I glanced at Ms. Tymora,[p/] but she avoided eye contact with me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6b8cee86d178c0b1",
     "original": "It was subtle,[p/] but her posture stiffened,[p/] and her brow clenched ever so slightly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然很轻微，[p/]但她的身姿变得僵硬，[p/]眉头也微微皱起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:062d0bb\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"It was subtle,[p/] but her posture stiffened,[p/] and her brow clenched ever so slightly.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e81e97d5c5d06c42",
     "original": "I couldn't see any thoughts through the Eye of Horus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我通过荷鲁斯之眼看不到任何想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0992867\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"I couldn't see any thoughts through the Eye of Horus.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7303e66a807d2c30",
     "original": "Aria: I must admit.[p/] I was hoping to test my mind against yours directly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我必须承认。[p/]本来我是想直接与你对决来测试自己的水平。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:044e4b8\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: I must admit.[p/] I was hoping to test my mind against yours directly.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ede6efb6826e1055",
     "original": "Aria: However,[p/] your protégé proved to be a worthy adversary.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 不过，[p/]你的徒弟证明他也是位称职的对手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aef868\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: However,[p/] your protégé proved to be a worthy adversary.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::863f714519d0cbf2",
     "original": "Ruby: ...Is this some kind of game to you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: ……对你来说这只是某种游戏吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:032fc9c\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Ruby: ...Is this some kind of game to you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ce612acd4826e0f7",
     "original": "Ruby: You almost condemned an innocent girl to death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你差点让一个无辜的女孩被判处死刑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0971bc4\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Ruby: You almost condemned an innocent girl to death.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0d965d60d96de5b6",
     "original": "Aria: The courts operate by having two powers of opposition.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 法庭是通过两种对立的力量来运作的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06d0185\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: The courts operate by having two powers of opposition.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1057286a4d5f43f2",
     "original": "Aria: When those powers are balanced,[p/] justice prevails,[p/] just like it did today.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 当二者平衡，[p/]正义便会彰显，[p/]就如今天发生的事情一般。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0316945\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: When those powers are balanced,[p/] justice prevails,[p/] just like it did today.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::02661f8241f30e35",
     "original": "Aria: Your victory today was just the system working as intended.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 你今天的胜利只是这个系统正常运作的结果。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0001238\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: Your victory today was just the system working as intended.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9dfff27b0b701418",
     "original": "Ruby: Ha![p/][s/] “Working as intended\"!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 哈！[p/][s/]“正常运作”！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0287906\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Ruby: Ha![p/][s/] “Working as intended\\\"!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::484a86e5fc517f3f",
     "original": "Ruby: You know very well our system only exists to protect your people.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你很清楚，[p/]我们的司法体系只是为了保护像你一样的贵族。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02a9523\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Ruby: You know very well our system only exists to protect your people.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f56ea74a0ef10992",
     "original": "Ruby: You can act as sanctimonious as you want.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 你可以尽情装出一副道貌岸然的样子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a8afce\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Ruby: You can act as sanctimonious as you want.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0d371a018bd8dea7",
     "original": "Ruby: That doesn’t change that with each passing day,[p/] your father butchers more and more innocents.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 但现状毫无变化。每过一天，[p/]你的父亲都会屠杀愈来愈多的无辜民众。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:072c812\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Ruby: That doesn’t change that with each passing day,[p/] your father butchers more and more innocents.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bec556c18c3662e9",
     "original": "Aria: I know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0da9883\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: I know.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4bc261533dc5c59d",
     "original": "Aria: But I'm not my father.[p/] I walk a different path.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 但我不是我的父亲。[p/]我也不跟他是同路人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01ff4bd\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: But I'm not my father.[p/] I walk a different path.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8305c6d62f67c00c",
     "original": "Aria: ...I know you have no reason to believe me,[p/] so I'll let my actions speak for me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……我知道你没有详细我的理由，[p/]所以让我的行动来证明吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b4f9a2\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: ...I know you have no reason to believe me,[p/] so I'll let my actions speak for me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4c9c42831f05fc9f",
     "original": "Aria: I look forward to doing battle with you again, Tyrion Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我很期待下次在法庭上与你见面，提利昂·卡斯伯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e9e13a\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: I look forward to doing battle with you again, Tyrion Cuthbert.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d57afd0c2c7d3432",
     "original": "Tyrion: Steelwind, why [i]did[/i] you arrest Pierce at the end of the trial?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 斯蒂尔文德，你为什么在庭审的最后[i]主动[/i]逮捕了皮尔斯？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e998ef\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Tyrion: Steelwind, why [i]did[/i] you arrest Pierce at the end of the trial?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eca4abf8378b4b6a",
     "original": "Aria: I don't understand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我不知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ad1451\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: I don't understand.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::829818ed6f4d6243",
     "original": "Tyrion: He was right in a way.[p/] You didn't need to do that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 某种意义上他是对的，[p/]你本不必这么做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0919e3b\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Tyrion: He was right in a way.[p/] You didn't need to do that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::37d052a830266fde",
     "original": "Aria: He openly admitted to first-degree murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 他公开承认了自己一等谋杀罪的罪行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:026377a\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: He openly admitted to first-degree murder.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::44174866c7a705dc",
     "original": "Aria: Why wouldn't I have him arrested?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 那我为什么不逮捕他？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:079dee8\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: Why wouldn't I have him arrested?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a6076bcb46bb0a0d",
     "original": "Tyrion: Nevermind then.[p/] I'm also looking forward to facing you again.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那算了。[p/]我也期待再次与你对决。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e6475\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Tyrion: Nevermind then.[p/] I'm also looking forward to facing you again.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d1518aa26e228858",
     "original": "Aria: Good.[p/] I hope to see you soon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 很好。[p/]回头见。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0632fa9\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Aria: Good.[p/] I hope to see you soon.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6c3b051fe77b968f",
     "original": "I still couldn’t tell what she was thinking,[p/] even with the Eye of Horus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我仍然不知道她的真实想法，[p/]即使用上荷鲁斯之眼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d357d0\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"I still couldn’t tell what she was thinking,[p/] even with the Eye of Horus.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ca221eeaa33a3f1d",
     "original": "She definitely wasn't the bloodthirsty killer that her father was.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她显然不是她父亲那种渴血的杀人魔。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c61d38\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"She definitely wasn't the bloodthirsty killer that her father was.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::51716a7695726a07",
     "original": "Celeste: [i]*sighs*[/i][p/] Well, that kind of killed the mood, didn’t it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: [i]*叹气*[/i][p/]好吧，这还真有点扫兴，是吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bf6532\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Celeste: [i]*sighs*[/i][p/] Well, that kind of killed the mood, didn’t it?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::34d72bf5ed452831",
     "original": "Ruby: Not at all.[p/] I think we should celebrate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我不觉得。[p/]我们应该找个地方庆祝一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b3330e\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Ruby: Not at all.[p/] I think we should celebrate.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::96c6eff08107fecf",
     "original": "Celeste: What are you thinking?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你是这么觉得的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c9da96\",\n  \"node\": \"FinalScene2\",\n  \"text\": \"Celeste: What are you thinking?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fbbc40f87db244ca",
     "original": "Ruby: There’s this high-class restaurant in the upper quarter of Ratholme.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 瑞思霍姆的上城区里有一个高档餐厅。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:001ff80\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"Ruby: There’s this high-class restaurant in the upper quarter of Ratholme.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c4a2c4185b6238ba",
     "original": "Ruby: They usually only serve nobles,[p/] but they let anyone in if they have enough gold.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 虽然他们通常只招待贵族，[p/]但你知道的，有钱能使鬼推磨。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03e8083\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"Ruby: They usually only serve nobles,[p/] but they let anyone in if they have enough gold.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8b659faa8bdca1fd",
     "original": "Tyrion: Wait...[p/] Do [i]we[/i] have enough gold?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等下……[p/][i]我们[/i]钱够吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03572b1\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"Tyrion: Wait...[p/] Do [i]we[/i] have enough gold?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5eaa2928934c7c63",
     "original": "Ruby: I have some connections with the staff there.[p/] Don't worry about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我和那里的员工有些联系。[p/]这方面就别担心了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06bcb1c\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"Ruby: I have some connections with the staff there.[p/] Don't worry about it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::304fd0c6cbf9e3f1",
     "original": "These last two days marked the beginning of my journey into the world of law and magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "过去的两天标志着我通向法律与奥术的旅程就此开始。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c3a621\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"These last two days marked the beginning of my journey into the world of law and magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bd4cbba3b56ae675",
     "original": "Our justice system was broken—[p/]rotten from the inside—[p/] but I had a voice now.[p/] I would never stop fighting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我们的司法系统几近失能——[p/]而且是从内部腐坏——[p/]但现在我能产生一点影响。[p/]我不会停止战斗。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e122bc\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"Our justice system was broken—[p/]rotten from the inside—[p/] but I had a voice now.[p/] I would never stop fighting.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1ee3c1affb68ad03",
     "original": "With my skills and the Eye of Horus,[p/] I knew nothing could stop me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "凭借我的辩护能力与荷鲁斯之眼，[p/]我知道没有什么挡得住我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0288133\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"With my skills and the Eye of Horus,[p/] I knew nothing could stop me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d4291e8c38650eda",
     "original": "...Or at least that’s what I'd hoped.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……至少我是如此希望。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:099bdf4\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"...Or at least that’s what I'd hoped.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f8c92d87816d7e58",
     "original": "Eris: ...This feeling![p/][s/] I knew it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……这种感觉！[p/][s/]我知道这个！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0343ce2\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"Eris: ...This feeling![p/][s/] I knew it!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8b31d7901b7ee006",
     "original": "Eris: His radiant soul is finally ripe for the reaping!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 他那耀眼的灵魂终于长成成熟的果实了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ba9c5d\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"Eris: His radiant soul is finally ripe for the reaping!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fcaacf61008ba074",
     "original": "Eris: Even this small speck of time has felt like an eternity!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 即使只是这么一小段时间，也感觉像是度过了永恒的岁月！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bf6b7b\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"Eris: Even this small speck of time has felt like an eternity!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f8d9d0dbf50b84eb",
     "original": "Eris: I can’t wait any longer...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我一刻也等不了了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:042706d\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"Eris: I can’t wait any longer...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ce97af8acda3af07",
     "original": "Eris: I can’t wait to see that wretched light drain from his eyes...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我等不及要看到那难以忍受的光辉在他的双眼里消散……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cde37a\",\n  \"node\": \"FinalScene3\",\n  \"text\": \"Eris: I can’t wait to see that wretched light drain from his eyes...\"\n}"
   },
   {
