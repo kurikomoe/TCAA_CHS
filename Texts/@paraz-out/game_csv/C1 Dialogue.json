@@ -11692,22 +11692,22 @@
   {
     "key": "C1 Dialogue.csv::translation::218be7617ba87a56",
     "original": "Garrick: After all the trouble I went to,[p/] I can’t believe that boy figured out which spell I used.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我都费了那么多周折，[p/]很难相信那个男的还能找出我用的是哪个法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ae4dd9\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: After all the trouble I went to,[p/] I can’t believe that boy figured out which spell I used.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0f1cbc988d352a49",
     "original": "Garrick: Well, no matter.[p/] It’s not as if there’s any evidence that implicates me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 还好，没什么影响。[p/]好像并没有任何能证明我有罪的证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0832335\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Well, no matter.[p/] It’s not as if there’s any evidence that implicates me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b8284aba5402d1e5",
     "original": "Garrick: I’m lucky that old fool had that bottle of water with him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 还好那个老家伙拿着瓶水。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a0037\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I’m lucky that old fool had that bottle of water with him.\"\n}"
   },
   {
@@ -11720,22 +11720,22 @@
   {
     "key": "C1 Dialogue.csv::translation::efa9378cb6dbcbf1",
     "original": "Garrick: Perhaps I should have used this spell to create the blade...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 或许当时我应该用这个法术来制造剑的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00ffbbe\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Perhaps I should have used this spell to create the blade...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::31cac716dfbb12df",
     "original": "Garrick: No...[p/] It was far safer to use that bottle he was holding...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 不对……[p/]当时用他手里握着的水瓶安全得多……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f2ad26\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: No...[p/] It was far safer to use that bottle he was holding...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7d9d7e8e09444b47",
     "original": "Garrick: Conjuring my own water could have left evidence behind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 形变我自身携带的水必然会留下证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00ef769\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Conjuring my own water could have left evidence behind.\"\n}"
   },
   {
@@ -11748,22 +11748,22 @@
   {
     "key": "C1 Dialogue.csv::translation::1c0849ac4d7d4f41",
     "original": "Garrick: Hmph...[p/] What a crass and basic spell.[p/] It’s no wonder that it’s the only spell that bastard knows.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 哼……[p/]真是个粗鲁又低级的法术。[p/]难怪那个野种唯一会的就是这个。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082c20d\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Hmph...[p/] What a crass and basic spell.[p/] It’s no wonder that it’s the only spell that bastard knows.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3a210a4fdf983a26",
     "original": "That didn’t give me anything I could use...",
-    "translation": "",
-    "stage": 0,
+    "translation": "这可没给我什么能用的东西……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00bd5fb\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"That didn’t give me anything I could use...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3007f2161c81be34",
     "original": "I needed to try something else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我得试一试其他的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b63dc3\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"I needed to try something else.\"\n}"
   },
   {
