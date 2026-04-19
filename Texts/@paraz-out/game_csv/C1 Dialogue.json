@@ -13204,14 +13204,14 @@
   {
     "key": "C1 Dialogue.csv::translation::f698af10dd7b2185",
     "original": "Lloyd: I have advocated for the Arcurians more than anyone else,[p/] but I haven't had enough time to look into them!",
-    "translation": "Lloyd: 我声援阿库瑞安人比谁都卖力，[p/]可说实话，我根本没时间去深入了解他们！",
+    "translation": "Lloyd: 我声援阿卡鲁斯人比谁都卖力，[p/]可说实话，我根本没时间去深入了解他们！",
     "stage": 1,
     "context": "{\n  \"id\": \"line:0fad992\",\n  \"node\": \"PillarMeeting\",\n  \"text\": \"Lloyd: I have advocated for the Arcurians more than anyone else,[p/] but I haven't had enough time to look into them!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ea5370e95548dc25",
     "original": "William: The Arcurians are an efficient yet simple folk.",
-    "translation": "William: 阿库瑞安人都是作风利落又纯朴简单的。",
+    "translation": "William: 阿卡鲁斯人都是作风利落又纯朴简单的。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:0160190\",\n  \"node\": \"PillarMeeting\",\n  \"text\": \"William: The Arcurians are an efficient yet simple folk.\"\n}"
   },
@@ -13519,442 +13519,442 @@
   {
     "key": "C1 Dialogue.csv::translation::376c606da9092b5e",
     "original": "William: Hmph...[p/] He could have fooled me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 哼……[p/]我可一点没看出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05657a6\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"William: Hmph...[p/] He could have fooled me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3db90a053c497067",
     "original": "William: A leader wins respect and loyalty.[p/] He doesn't hold his people hostage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 领袖应该为自己赢得尊重与忠诚，[p/]而不是把民众当成人质。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cb0e59\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"William: A leader wins respect and loyalty.[p/] He doesn't hold his people hostage.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::910c8fb6620ace00",
     "original": "William: Mark my words.[p/] If this bloodshed continues,[p/] the commoners [i]will[/i] revolt.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 记住我的话。[p/]如果这场流血冲突持续下去，[p/]平民们[i]会[/i]发起暴动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ef0e42\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"William: Mark my words.[p/] If this bloodshed continues,[p/] the commoners [i]will[/i] revolt.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e5e19e1438f7fe04",
     "original": "William: These recent insurrections are just the start,[p/] and this will only continue if we allow Lucio's daughter to take the throne.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 最近的叛乱只是个开始，[p/]而如果我们允许卢西奥的女儿登上王座，就只会继续下去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01ffb6c\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"William: These recent insurrections are just the start,[p/] and this will only continue if we allow Lucio's daughter to take the throne.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3760d9672029cddc",
     "original": "Coraline: ...If we're discussing Lady Steelwind's marriage to the Crown Prince,[p/] surely he should be a part of this meeting as well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: ……如果我们是在讨论斯蒂尔文德小姐和王储殿下的婚约，[p/]那王储殿下就也应该出席这次会议。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08dd47d\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"Coraline: ...If we're discussing Lady Steelwind's marriage to the Crown Prince,[p/] surely he should be a part of this meeting as well.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d7c200e9ad16b7e1",
     "original": "William: Please.[p/] What can that bright-eyed boy contribute to this conversation?",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 拜托。[p/]那个两眼亮晶晶的傻小子能对这次会谈产生什么帮助？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f9de8d\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"William: Please.[p/] What can that bright-eyed boy contribute to this conversation?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c66845a387b109fc",
     "original": "William: The only thing he's good for is holding fundraisers and cutting red ribbons.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 他唯一擅长的事情就是举办慈善筹款和剪彩。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03c18d1\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"William: The only thing he's good for is holding fundraisers and cutting red ribbons.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5e2fc06b2a9cd080",
     "original": "Coraline: ...William.[p/] He's the heir to the throne.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: ……威廉。[p/]他可是国王的继任者。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0790dd9\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"Coraline: ...William.[p/] He's the heir to the throne.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e00f672e74e687a1",
     "original": "William: Come now...[p/] The [i]true[/i] rulers of Wyverngarde are all assembled in this room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 算了吧……[p/]维文加德[i]真正[/i]的统治者们已经都在这间房里了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06122fd\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"William: Come now...[p/] The [i]true[/i] rulers of Wyverngarde are all assembled in this room.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::063e53f60deba4e6",
     "original": "Coraline: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:039798a\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"Coraline: ...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4cfa1ab86e1df996",
     "original": "Coraline: I'll admit,[p/] the House of Lords has received more petitions against Lucio than any other general in Wyverngarde's history.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: 我承认，[p/]上议院收到反对卢西奥的请愿书已经超过王国历史上任何其他的将军了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ae2d32\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"Coraline: I'll admit,[p/] the House of Lords has received more petitions against Lucio than any other general in Wyverngarde's history.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::79bcdb9c53c649ec",
     "original": "Theon: The Church has also been unable to collect as many tithes as before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theon: 教会也无法收到与从前同等的捐税。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dd002f\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"Theon: The Church has also been unable to collect as many tithes as before.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::930b513fb6aef4e1",
     "original": "Theon: Even the most faithful are asking whether the Scaled Lord would support such cruelty.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theon: 最虔诚的信徒也开始质问，鳞甲领主是否支持这种暴行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c34475\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"Theon: Even the most faithful are asking whether the Scaled Lord would support such cruelty.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3eb7ac664b2db52a",
     "original": "Theon: Their faith is faltering.[p/] This cannot be allowed to continue.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theon: 他们的信仰开始动摇。[p/]不能再这样下去了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:035576a\",\n  \"node\": \"PillarMeeting3\",\n  \"text\": \"Theon: Their faith is faltering.[p/] This cannot be allowed to continue.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::036f2b53793355fe",
     "original": "William: ...Oh, look who [i]finally[/i] decided to show up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: .……啊。看看是谁[i]终于[/i]现身了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03ae630\",\n  \"node\": \"PillarMeeting4\",\n  \"text\": \"William: ...Oh, look who [i]finally[/i] decided to show up.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::322fb70a5e1eb208",
     "original": "Lucio: I know I'm late.[p/] I was caught in a debrief.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 我知道自己迟到了。[p/] 我被战后汇报耽搁了时间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0891e11\",\n  \"node\": \"PillarMeeting4\",\n  \"text\": \"Lucio: I know I'm late.[p/] I was caught in a debrief.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fa1d7bf0bfc50690",
     "original": "Lucio: I find this gathering to be pointless anyway.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 反正我觉得这次集会也没什么意义。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04cc374\",\n  \"node\": \"PillarMeeting4\",\n  \"text\": \"Lucio: I find this gathering to be pointless anyway.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c20c4155c4b35c04",
     "original": "Lloyd: How [i]dare[/i] you, Grand General?![p/][s/] Have you no sense of respect?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 大将军，你怎么[i]敢[/i]？！[p/][s/]你就没有一点尊重人的意识吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a3eba6\",\n  \"node\": \"PillarMeeting4\",\n  \"text\": \"Lloyd: How [i]dare[/i] you, Grand General?![p/][s/] Have you no sense of respect?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d3f6ec9084507c95",
     "original": "Lucio: What use would respect be to ones who can't command it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 尊重不在前线指挥的人又有什么用？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:045a693\",\n  \"node\": \"PillarMeeting4\",\n  \"text\": \"Lucio: What use would respect be to ones who can't command it?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0d13d31571f16f60",
     "original": "Lucio: ...Will [i]you[/i] demand my respect, Master of [b]Abjuration[/b]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: ……你[i]需要[/i]我的尊重吗，[b]防护术[/b]大师？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07afc17\",\n  \"node\": \"PillarMeeting4\",\n  \"text\": \"Lucio: ...Will [i]you[/i] demand my respect, Master of [b]Abjuration[/b]?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e1cb87d5f6620e5d",
     "original": "Lloyd: W-[p/][s/]Well,[p/] I—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 好、[p/][s/]好吧，[p/]我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f4d8f1\",\n  \"node\": \"PillarMeeting4\",\n  \"text\": \"Lloyd: W-[p/][s/]Well,[p/] I—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9dfd0183842ad00a",
     "original": "Remus: Leave him alone, Lucio.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 别管他了，卢西奥。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dea884\",\n  \"node\": \"PillarMeeting4\",\n  \"text\": \"Remus: Leave him alone, Lucio.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ab7833d2b4c42236",
     "original": "William: We were just discussing your recent catastrophe in the countryside.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 我们在讨论你在乡村地区制造的灾难。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bf0897\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"William: We were just discussing your recent catastrophe in the countryside.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d1083e2419a41ff6",
     "original": "William: From what I've heard,[p/] the death toll has been astronomical.[p/] Did you beat your record?",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 就我听说的，[p/]死亡人数已经达到了惊人的地步。[p/]你又打破了自己的纪录吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02afc32\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"William: From what I've heard,[p/] the death toll has been astronomical.[p/] Did you beat your record?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0b299cebd4951c2e",
     "original": "Lucio: If you have something to say,[p/] than say it plainly, Frega.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 如果你想表示什么，[p/]那直白地说出来就行了，弗雷加。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:001254c\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lucio: If you have something to say,[p/] than say it plainly, Frega.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::65fd5b146fbd42e6",
     "original": "William: House Frega would like to move to have the Steelwinds stripped of their authority and control of Wyverngarde's military.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 弗雷加家族希望国家有所行动，剥夺斯蒂尔文德家的职权以及对军队的控制权。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0330035\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"William: House Frega would like to move to have the Steelwinds stripped of their authority and control of Wyverngarde's military.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4d725296abfff5a5",
     "original": "William: Lloyd,[p/] Coraline,[p/] and the Church agree with me on this matter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 洛伊德、[p/]卡洛琳[p/]与教会在这件事情上都同意我的观点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0773d4c\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"William: Lloyd,[p/] Coraline,[p/] and the Church agree with me on this matter.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::56a47ea56286833a",
     "original": "Lucio: ...Is that so?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: ……是这样吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0670bc2\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lucio: ...Is that so?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::32bdfc7369b93c43",
     "original": "Lloyd: I-[p/][s/]I—[p/][s/] Er,[p/][s/] I mean—[p/][s/] [i]We[/i] of House von Sanctus stand with House Frega on this matter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 我、[p/][s/]我——[p/][s/]呃，[p/][s/]我的意思是——[p/][s/][i]我们[/i]冯·桑克图斯家在这件事与弗雷加家族保持相同立场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07966af\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lloyd: I-[p/][s/]I—[p/][s/] Er,[p/][s/] I mean—[p/][s/] [i]We[/i] of House von Sanctus stand with House Frega on this matter.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::198f3624c37ba600",
     "original": "Coraline: I'm sorry, Lucio,[p/] but it's difficult to argue against what the reports have been saying.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: 对不起，卢西奥。[p/]但要反驳这些报告的内容很困难。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06a3233\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Coraline: I'm sorry, Lucio,[p/] but it's difficult to argue against what the reports have been saying.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c8379e1b1788e8f5",
     "original": "Lucio: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0119624\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lucio: ...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7264ab2da9ee52e8",
     "original": "Coraline: I will bring this matter to the House of Lords.[p/] We'll hold a vote.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: 我会把这件事提交上议院。[p/]我们将投票表决。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d7e846\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Coraline: I will bring this matter to the House of Lords.[p/] We'll hold a vote.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5e83274f4f5c8cbb",
     "original": "Lucio: Then the House of Lords should know about what my agents have discovered.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 那么上议院就该知道我的探员们发现了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0df309e\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lucio: Then the House of Lords should know about what my agents have discovered.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::87932dbda63a84f0",
     "original": "Lucio: The Eastern Kingdoms have joined the Union.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 东方古国已经加入“联盟”了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:071d097\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lucio: The Eastern Kingdoms have joined the Union.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ecfe760f654ca3a7",
     "original": "William: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07bdb19\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"William: What?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::86851ba766b00389",
     "original": "Coraline: ...Surely,[p/] this can't be true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: ……当然，[p/]这不会是真事吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:018b8b4\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Coraline: ...Surely,[p/] this can't be true.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d930104d5fcb7f26",
     "original": "Lucio: It is.[p/] I'm sure the Ordo Astralis will be announcing it publicly within the week.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 就是真的。[p/]而我确信奥尔铎·阿斯特拉利斯这周就会公开宣布这件事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bced2c\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lucio: It is.[p/] I'm sure the Ordo Astralis will be announcing it publicly within the week.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5e3cc5a77642c825",
     "original": "Theon: ...Wyverngarde is now the only nation in the world that hasn't joined their alliance.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theon: ……那维文加德就是世界上唯一一个没有加入这个同盟的国家了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00abf28\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Theon: ...Wyverngarde is now the only nation in the world that hasn't joined their alliance.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a296e4abc7178969",
     "original": "Lucio: Correct.[p/] The only thing acting as a deterrent to our enemies is the high [b]evocation[/b] magic of House Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 正是如此。[p/]唯一能威慑敌人的东西就是斯蒂尔文德家的高等级[b]塑能术[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:046f72c\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lucio: Correct.[p/] The only thing acting as a deterrent to our enemies is the high [b]evocation[/b] magic of House Steelwind.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1d78d05712a4cdd6",
     "original": "Lucio: Do you think the House of Lords will be willing to oust the most powerful war mages from our ranks?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio:  你们认为上议院会愿意将我们中最强大的战争法师驱逐出去吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ca4cba\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lucio: Do you think the House of Lords will be willing to oust the most powerful war mages from our ranks?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1f96e03fcb01eed2",
     "original": "William: ...Lucio.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: ……卢西奥。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a6fc8b\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"William: ...Lucio.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ed4fb3a049715b4c",
     "original": "Lucio: Now,[p/] if you're done gnashing your teeth, William,[p/] I have to meet with the rest of my house.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 威廉，[p/]如果已经卖弄完你那点口舌了，[p/]那我该与家族其他人举行会议了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cc0e33\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lucio: Now,[p/] if you're done gnashing your teeth, William,[p/] I have to meet with the rest of my house.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8beb19b5740b0b1d",
     "original": "Lucio: We'll need to prepare in case the Luminites become bold enough to bring war to the western border.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 我们需要做好准备，以防圣国胆子大到在西部边境燃起战火。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0294852\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Lucio: We'll need to prepare in case the Luminites become bold enough to bring war to the western border.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bc521bc50a8a953f",
     "original": "Remus: Lucio,[p/] wait!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 卢西奥，[p/]等等！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07edff2\",\n  \"node\": \"PillarMeeting5\",\n  \"text\": \"Remus: Lucio,[p/] wait!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f39f35a8f1e08502",
     "original": "William: Damn it all![p/][s/] Since when were those orientals so friendly with the Ordo Astralis?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 该死的！[p/][s/]那些东方人什么时候和奥尔铎·阿斯特拉利斯变得友好的？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:005abd3\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"William: Damn it all![p/][s/] Since when were those orientals so friendly with the Ordo Astralis?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2fa7932bd5bb7578",
     "original": "William: I can't believe the Luminites would suffer the company of those mud-eating savages!",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 难以相信圣国人竟然甘于与那些吃泥巴的野人为伍！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:092a316\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"William: I can't believe the Luminites would suffer the company of those mud-eating savages!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b6c879b043c69797",
     "original": "Lloyd: ...Actually,[p/] their culture is very rich.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……实际上，[p/]他们的文化还挺丰富的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c57fa3\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"Lloyd: ...Actually,[p/] their culture is very rich.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::40b3ca4649ec7fc2",
     "original": "Lloyd: [i]I[/i],[p/] for one,[p/] quite enjoy many of their—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: [i]我[/i]个人[p/]还挺欣赏他们很多的——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f8911b\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"Lloyd: [i]I[/i],[p/] for one,[p/] quite enjoy many of their—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5b6e5115a45d5aee",
     "original": "William: Shut [i]up[/i], Lloyd!",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: [i]闭嘴[/i]，洛伊德！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01237ae\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"William: Shut [i]up[/i], Lloyd!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7349cfd472cf6a5e",
     "original": "William: ...We'll need to expedite our plans.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: ……我们需要加快实施计划。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0056e90\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"William: ...We'll need to expedite our plans.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::72bf949270b09256",
     "original": "Lloyd: ...What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: ……什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01ce13e\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"Lloyd: ...What?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b21834bd1845a3f6",
     "original": "William: Get the Arcarians on the line.[p/] I will have words with them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: 接通与阿卡鲁斯人的传讯。[p/]我要跟他们说几句话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00bde3d\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"William: Get the Arcarians on the line.[p/] I will have words with them.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::75a65f075d8c31c9",
     "original": "Coraline: You have business with Arcarus?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: 你还跟阿卡鲁斯有往来呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a4584\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"Coraline: You have business with Arcarus?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dde59bb57db809b5",
     "original": "William: ...We're brokering a trade deal.[p/] I'm sure the House of Lords will be seeing it soon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "William: ……我们正在推进一项贸易协定签约。[p/]我确信上议院不久就能看到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b2f56\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"William: ...We're brokering a trade deal.[p/] I'm sure the House of Lords will be seeing it soon.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d2d299e623431e59",
     "original": "Coraline: It seems the Cosmos is in our favor then.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: 看起来宇宙在向对我们有利的方向变化。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08bce6b\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"Coraline: It seems the Cosmos is in our favor then.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c74693fe3b88125b",
     "original": "Coraline: They're the only ally we have left.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: 他们是我们仅剩的盟友了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:077af22\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"Coraline: They're the only ally we have left.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8d46fed903b5d9a0",
     "original": "Lloyd: Stay safe, Coraline.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lloyd: 谨祝安泰，卡洛琳。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c4120f\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"Lloyd: Stay safe, Coraline.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ac0837c95dc441b9",
     "original": "Coraline: You too, Lloyd.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Coraline: 你也是，洛伊德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01ed620\",\n  \"node\": \"PillarMeeting6\",\n  \"text\": \"Coraline: You too, Lloyd.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a1806ca09a74efff",
     "original": "Remus: Please tell me these stories aren't true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 请告诉你说的事情不是真的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05ad447\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Remus: Please tell me these stories aren't true.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::87c43e2673ab8072",
     "original": "Remus: Lucio!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: 卢西奥！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d50d0f\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Remus: Lucio!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3ec9eaa59c7dec79",
     "original": "Lucio: ...You already know the answer, Your Grace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: ……殿下，您已经知道答案了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ffa72a\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Lucio: ...You already know the answer, Your Grace.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3652f57fe45d997f",
     "original": "Remus: ...H-[p/][s/]How could you?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Remus: ……你、[p/][s/]你怎么能？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6f0ca\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Remus: ...H-[p/][s/]How could you?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0eaf9b52ab592789",
     "original": "Lucio: I thought you never got involved in matters of the state.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 我还以为您永远不会插手国务。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:027e366\",\n  \"node\": \"PillarMeeting7\",\n  \"text\": \"Lucio: I thought you never got involved in matters of the state.\"\n}"
   },
   {
