@@ -11706,7 +11706,7 @@
   {
     "key": "C1 Dialogue.csv::translation::b8284aba5402d1e5",
     "original": "Garrick: I’m lucky that old fool had that bottle of water with him.",
-    "translation": "Garrick: 还好那个老家伙拿着瓶水。",
+    "translation": "Garrick: 还好那个老家伙拿着那瓶水。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:04a0037\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I’m lucky that old fool had that bottle of water with him.\"\n}"
   },
@@ -11776,36 +11776,36 @@
   {
     "key": "C1 Dialogue.csv::translation::088751f1c3ddc987",
     "original": "Garrick: Ugh... What kind of fool installs artificery only to leave it in disrepair?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 啊……什么样的蠢蛋才会装个奥术能源灯又让它就那么坏在那里？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dbbe42\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Ugh... What kind of fool installs artificery only to leave it in disrepair?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9694952972c3582b",
     "original": "Garrick: I would have never had to cast [b]Conjure Light[/b] if those lights were functional.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 但凡有一盏灯是好用的，我都不需要用[b]祈愿光芒[/b]来照明。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05e124e\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I would have never had to cast [b]Conjure Light[/b] if those lights were functional.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3749b76a7a2df93c",
     "original": "That didn’t tell me anything that I didn’t already know...",
-    "translation": "",
-    "stage": 0,
+    "translation": "这可没告诉我什么还不知道的东西……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e5b63f\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"That didn’t tell me anything that I didn’t already know...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c40b83eb35058048",
     "original": "PROJECTING evidence relating to the murder was definitely the key to finding what I needed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "<size=1.5em>投射</size> 谋杀相关证据，这一定是达成目标的关键。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0912b7c\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"PROJECTING evidence relating to the murder was definitely the key to finding what I needed.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4d321db4dd0df0b4",
     "original": "I needed to try something else",
-    "translation": "",
-    "stage": 0,
+    "translation": "我得试一试其他的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e8bed\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"I needed to try something else\"\n}"
   },
   {
@@ -11818,78 +11818,78 @@
   {
     "key": "C1 Dialogue.csv::translation::aad46b7b1ee529c1",
     "original": "Garrick: If only I could have used [b]Frost Wave[/b],[p/] things would have been much cleaner.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 要是我能用[b]霜波[/b]的话，[p/]事情就简单多了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0999859\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: If only I could have used [b]Frost Wave[/b],[p/] things would have been much cleaner.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0d760edbc57278e0",
     "original": "Garrick: But using such an obvious spell would have only implicated me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 但使用这么有标志性的法术只会暴露我的身份。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b06da3\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: But using such an obvious spell would have only implicated me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eaf2c3f576c99366",
     "original": "That made sense.[p/] There wasn’t any ice at the crime scene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这确实有道理。[p/]犯罪现场没有发现冰块。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0325de2\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"That made sense.[p/] There wasn’t any ice at the crime scene.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::19c035bb8805099d",
     "original": "I doubted that he used [b]Frost Wave[/b] during the murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他在谋杀过程中应该没有使用[b]霜波[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:057c66b\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"I doubted that he used [b]Frost Wave[/b] during the murder.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::afe7042d854dda7c",
     "original": "Garrick: What an ornate sword...[p/] I wonder how a commoner came by such a thing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 真是把华丽的剑……[p/]我好奇一个平民到底怎么得到这样的东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a6bfca\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: What an ornate sword...[p/] I wonder how a commoner came by such a thing.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::78548f9236fad992",
     "original": "Garrick: I should ask the Inquisition for it once the girl is convicted.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 只要那个女孩子一被判罪，我就该找裁判所要过来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f4d583\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I should ask the Inquisition for it once the girl is convicted.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::41f6f8e445234058",
     "original": "Garrick: Even now, that image is still lingering in my mind...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 直到现在，那些情景仍然历历在目……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05eee95\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Even now, that image is still lingering in my mind...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c5565d1d7393ee19",
     "original": "Garrick: Why does it trouble me so much?[p/] He was a fool and an insurgent.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 为什么它让我如此烦恼？[p/]他不过是个蠢蛋，还是个叛乱者。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b78110\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Why does it trouble me so much?[p/] He was a fool and an insurgent.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a24ae3bfc81e78e3",
     "original": "Garrick: ...What would Effie think of me now?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……埃菲会怎么看现在的我？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fd0cf2\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: ...What would Effie think of me now?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8aa473ad1526248d",
     "original": "Garrick: Hmph...[p/] She only knows one spell?[p/] Of course, she would.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 哼……[p/]她只会一种法术？[p/]不过这也理所应当。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b2d7dc\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Hmph...[p/] She only knows one spell?[p/] Of course, she would.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::799accafb2d510f6",
     "original": "Garrick: It’s not as if any of the academies would admit someone like her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 也不会有哪个学院愿意接收她这种人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0610a5f\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: It’s not as if any of the academies would admit someone like her.\"\n}"
   },
   {
@@ -11902,50 +11902,50 @@
   {
     "key": "C1 Dialogue.csv::translation::6375bdc1d630b151",
     "original": "Garrick: I really have an affinity for water magic, don’t I?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我真是天生就适合与水相关的魔法，不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:063b800\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I really have an affinity for water magic, don’t I?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6a462104cc7069cb",
     "original": "Garrick: I should really learn some new spells.[p/] Perhaps a visit to the academy is in order.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我该学一点新法术。[p/]或许该回学院拜访一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f65285\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I should really learn some new spells.[p/] Perhaps a visit to the academy is in order.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3f27eeac5fb65394",
     "original": "Garrick: I can’t believe Flinhart,[p/] of all people,[p/] ended up taking that monster in.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick:难以置信，[p/]在所有人里[p/]最后是弗林哈特收养了那个怪物。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ff82b8\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I can’t believe Flinhart,[p/] of all people,[p/] ended up taking that monster in.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::855c5db2a420b494",
     "original": "Garrick: How blind could he be?[p/] He didn’t even know she was a mage...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 他是瞎了眼吗？[p/]他甚至都不知道她是个法师……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0058ba2\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: How blind could he be?[p/] He didn’t even know she was a mage...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::489215abb041475c",
     "original": "Garrick: Is the Scaled Lord really more than a simple story...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 难道说鳞甲领主不仅仅是一个传说……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0732f04\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Is the Scaled Lord really more than a simple story...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::05563de848c83d92",
     "original": "Garrick: I had hoped to feign being her ally once she was convicted,[p/] but the boy ruined everything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我曾希望，一旦她被定罪，我就假装站在她那一边，[p/]但那个律师搞砸了一切。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b1a43b\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I had hoped to feign being her ally once she was convicted,[p/] but the boy ruined everything.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7c0f6f1cb558dfcf",
     "original": "Garrick: I have no choice but to let her be executed now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: I那我也别无选择，只能让她被处以极刑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07d2f22\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I have no choice but to let her be executed now.\"\n}"
   },
   {
@@ -11958,22 +11958,22 @@
   {
     "key": "C1 Dialogue.csv::translation::a0f9c6c0f778cc7c",
     "original": "Garrick: Flinhart...[p/] How did it come to this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 弗林哈特……[p/]为什么会这样？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f2d804\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Flinhart...[p/] How did it come to this?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f0b9122d3a8a2aeb",
     "original": "Garrick: No...[p/] [i]He[/i] was the one who chose to spread dissidence against the Crown.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 不……[p/]正是[i]他[/i]选择要与皇家作对散播异见。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01ddeff\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: No...[p/] [i]He[/i] was the one who chose to spread dissidence against the Crown.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::61588e214d19d547",
     "original": "Garrick: He should have known what would happen.[p/] If it weren't me,[p/] it would've been someone else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 他知道最后会变成这样。[p/]就算不是我，[p/]也会有其他人动手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b308ae\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: He should have known what would happen.[p/] If it weren't me,[p/] it would've been someone else.\"\n}"
   },
   {
@@ -11986,22 +11986,22 @@
   {
     "key": "C1 Dialogue.csv::translation::99cf83d7faf2c4b7",
     "original": "Garrick: ...I wonder how Jolie is handling all of this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……在这之后朱莲尼会怎么做呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e181e9\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: ...I wonder how Jolie is handling all of this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::70e1fca938208e62",
     "original": "Garrick: ...What?![p/][s/] Why am I thinking of her now, of all times?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……嗯？！[p/][s/]在这么个时候我为什么会想到她？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:028a465\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: ...What?![p/][s/] Why am I thinking of her now, of all times?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::feed556838b7cec4",
     "original": "Garrick: That weed is of no importance to me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 那个平民对我一点都不重要！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ace766\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: That weed is of no importance to me!\"\n}"
   },
   {
@@ -12014,554 +12014,554 @@
   {
     "key": "C1 Dialogue.csv::translation::6ea851e8db2a982a",
     "original": "Garrick: This lawyer is the protégé of the infamous Ruby Tymora.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 那个律师是臭名昭著的鲁比·泰摩拉的徒弟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:016d8de\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: This lawyer is the protégé of the infamous Ruby Tymora.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::582eaa395b83329e",
     "original": "Garrick: I suppose I should have expected as much,[p/] but I never expected him to push me this far.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我早该预料到有一番波折，[p/]但从没想到他会把我逼到这个地步。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a1931\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I suppose I should have expected as much,[p/] but I never expected him to push me this far.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::afb023e14e2a6659",
     "original": "Garrick: I’ll need to be more wary of them in the future.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 以后要多注意他们两个。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0de3ab4\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: I’ll need to be more wary of them in the future.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f9cfddf340d5b7a7",
     "original": "Garrick: ...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a29781\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: ...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f3bbd4eee9a148ca",
     "original": "Garrick: Why am I thinking of such a thing?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我为什么在想这些？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ab8149\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Garrick: Why am I thinking of such a thing?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1e30423a00a8b48c",
     "original": "Hm... That piece of evidence didn’t evoke any useful thoughts from him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "唔……[p/]那份证据没能让他产生什么有用的想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f40e6b\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"Hm... That piece of evidence didn’t evoke any useful thoughts from him.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::48db44247145c601",
     "original": "I needed to PROJECT pieces of evidence related to the murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我需要<size=1.5em>投射</size> 与这次谋杀相关的证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:099f8ab\",\n  \"node\": \"GarrickEye\",\n  \"text\": \"I needed to PROJECT pieces of evidence related to the murder.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::38fada12b6515455",
     "original": "\"A bottle of water\"...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "“那瓶水”……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0540179\",\n  \"node\": \"GarrickFinal\",\n  \"text\": \"\\\"A bottle of water\\\"...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7034b18c9363238b",
     "original": "Garrick: Well, then...[p/] As[p/] [i]riveting[/i] as this has been,[p/] I believe it’s time for me to be on my way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 好吧，那么……[p/]尽管[p/]这确实[i]引人入胜[/i]，[p/]我想我是时候该走了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07dcd22\",\n  \"node\": \"GarrickFinal\",\n  \"text\": \"Garrick: Well, then...[p/] As[p/] [i]riveting[/i] as this has been,[p/] I believe it’s time for me to be on my way.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::20146b739e3f472a",
     "original": "Tyrion: Now wait a minute, Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等下，皮尔斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e7ed3a\",\n  \"node\": \"GarrickFinal\",\n  \"text\": \"Tyrion: Now wait a minute, Pierce.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::366eeda734d6d2a4",
     "original": "Garrick: ...What is it now, you cretin?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……你又要干什么，白痴？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0183269\",\n  \"node\": \"GarrickFinal\",\n  \"text\": \"Garrick: ...What is it now, you cretin?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cd33742dc3f81478",
     "original": "Garrick: I’ll say it as many times as you need to hear.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 你要我说多少遍才懂？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08c2402\",\n  \"node\": \"GarrickFinal\",\n  \"text\": \"Garrick: I’ll say it as many times as you need to hear.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ba5f537d67b9a279",
     "original": "No...[p/] That’s not right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]再好好想想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ad4a59\",\n  \"node\": \"GarrickFinal2\",\n  \"text\": \"No...[p/] That’s not right.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7bae8eb3d2d5f661",
     "original": "He said that he “used a bottle\" to commit the murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他说他用了“那瓶水”来作案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03a51ee\",\n  \"node\": \"GarrickFinal2\",\n  \"text\": \"He said that he “used a bottle\\\" to commit the murder.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3e6d68fda00f6ccd",
     "original": "If my hunch was correct,[p/] then that bottle should be all the evidence I needed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果我的预感是正确的，[p/]那么那个瓶子就是我需要的证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0db13b9\",\n  \"node\": \"GarrickFinal2\",\n  \"text\": \"If my hunch was correct,[p/] then that bottle should be all the evidence I needed.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::259210f062cfbbc2",
     "original": "Tyrion: You’re right, Pierce.[p/] If you used [b]Shape Liquid[/b] on a body of water,[p/] the murder weapon would have evaporated entirely.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你说得对，皮尔斯。[p/]如果你是对水使用了[b]形变液体，[/b][p/]那凶器已经完全蒸发了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0824c15\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: You’re right, Pierce.[p/] If you used [b]Shape Liquid[/b] on a body of water,[p/] the murder weapon would have evaporated entirely.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2f473c72d3675a01",
     "original": "Garrick: Bravo.[p/] It seems you’ve finally gotten that fact through your thick head.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 好啊，[p/]看来你的猪脑袋终于弄明白了这个事实。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f0b202\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Garrick: Bravo.[p/] It seems you’ve finally gotten that fact through your thick head.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f16cb6bfad627c44",
     "original": "Tyrion: But let’s not get ahead of ourselves, Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你先别着急，皮尔斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:078c508\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: But let’s not get ahead of ourselves, Pierce.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::894fda3f71c0bc7c",
     "original": "Tyrion: What if you didn’t use [b]Shape Liquid[/b] on a body of water?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 要是你施加[b]形变液体[/b]的对象[i]不是[/i]水怎么办呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09511c7\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: What if you didn’t use [b]Shape Liquid[/b] on a body of water?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::164e104eaf39e58f",
     "original": "Tyrion: What if it were another type of liquid?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果那是另一种液体呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ffcf2e\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: What if it were another type of liquid?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b99994d1399332cd",
     "original": "Garrick: ...What are you going on about?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……你在卖什么关子？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:045e424\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Garrick: ...What are you going on about?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ee9474612c69d9ae",
     "original": "Tyrion: Pierce,[p/] [b]Shape Liquid[/b] doesn’t just work on water.[p/] It works on all kinds of liquids.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 皮尔斯，[p/][b]形变液体[/b]不仅仅作用于水。[p/]它可以作用于任何液体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09ae75e\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: Pierce,[p/] [b]Shape Liquid[/b] doesn’t just work on water.[p/] It works on all kinds of liquids.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::780c72045b8f9035",
     "original": "Tyrion: There was a shattered bottle next to the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 而尸体附近有一个摔碎的瓶子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0908e5d\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: There was a shattered bottle next to the body.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8f480a3f57e948ea",
     "original": "Tyrion: The liquid you used to form the murder weapon—[p/]it came from that bottle, didn't it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你用作制造凶器的液体——[p/]就是这个瓶子里的，是不是？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a55ab0\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: The liquid you used to form the murder weapon—[p/]it came from that bottle, didn't it?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c92c7955202e454b",
     "original": "Garrick: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03b139a\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Garrick: ...!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8826e6ec04ff2797",
     "original": "Tyrion: You were probably wary of leaving evidence at the crime scene.[p/] You must have decided to use any liquid you could find there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你大概是很小心地不在案发现场留下罪证。[p/]所以你肯定选择使用你能在现场发现的液体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0496b1f\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: You were probably wary of leaving evidence at the crime scene.[p/] You must have decided to use any liquid you could find there.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b1dfb0280db40d7c",
     "original": "Tyrion: Luckily for you,[p/] the victim was holding the perfect quantity of liquid in his hands.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你很幸运，[p/]受害者手里正握着量刚刚好的液体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d9630b\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: Luckily for you,[p/] the victim was holding the perfect quantity of liquid in his hands.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::aa98972002172661",
     "original": "Tyrion: That begs the question:[p/] if we had someone analyze the broken pieces of this bottle—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这就带来一个问题：[p/]如果我们分析这个瓶子的碎片……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b0547e\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: That begs the question:[p/] if we had someone analyze the broken pieces of this bottle—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f52c5187551ae8bb",
     "original": "Tyrion: —would we find traces of [b]transmutation[/b] magic?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……会不会找到[b]形变术[/b]的痕迹呢？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02e36f9\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Tyrion: —would we find traces of [b]transmutation[/b] magic?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::89f80ff7389df136",
     "original": "Garrick: H-[p/][s/]Ha![p/][s/] Do you think you can bluff me?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 呵、[p/][s/]哈！[p/][s/]你以为这就能唬住我？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e8a9da\",\n  \"node\": \"GarrickFinal3\",\n  \"text\": \"Garrick: H-[p/][s/]Ha![p/][s/] Do you think you can bluff me?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d7f6f5d0473e62ee",
     "original": "Garrick: We’ve already established that any water I [i]supposedly[/i] shaped would have evaporated!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我们已经确定了，[i]假定[/i]我使用了不管什么液体，现在都早蒸发完了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b7271\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Garrick: We’ve already established that any water I [i]supposedly[/i] shaped would have evaporated!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cba2bcda2fbf5013",
     "original": "Tyrion: Except the liquid contained in this bottle [i]wasn’t[/i] water![p/][s/] It was tea!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 除非这瓶子里原本装的是[i]水[/i] ！[p/][s/]而它本来装的是茶！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:039e5aa\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: Except the liquid contained in this bottle [i]wasn’t[/i] water![p/][s/] It was tea!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c1eb5dde7ce62021",
     "original": "Garrick: So?![p/][s/] What difference does that make?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 所以呢？！[p/][s/]这又有什么区别？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0077af3\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Garrick: So?![p/][s/] What difference does that make?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::10624faffc857b07",
     "original": "Tyrion: A blade of ice made out of water would have evaporated entirely...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 水做的冰剑也许能蒸发干净……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08a79d9\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: A blade of ice made out of water would have evaporated entirely...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4af3e5cf1ee94a99",
     "original": "Tyrion: But a blade of frozen tea would leave a dried residue![p/][s/] The tea wouldn't completely disappear!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但用冻住的茶做的剑会留下一些茶渍！[p/][s/]茶的成分是不会完全蒸发掉的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:059762b\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: But a blade of frozen tea would leave a dried residue![p/][s/] The tea wouldn't completely disappear!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0367d43899bb8194",
     "original": "Garrick: ...No.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……不。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0504120\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Garrick: ...No.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d5ceb5d12dad194d",
     "original": "Tyrion: I wondered why there were so many traces of [b]transmutation[b/] scattered around the crime scene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我一直奇怪为什么有这么多[b]形变术[b/]的痕迹遍布在犯罪现场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cf3f94\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: I wondered why there were so many traces of [b]transmutation[b/] scattered around the crime scene.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::212a8f9b47db2950",
     "original": "Tyrion: When I felt the texture of the floor,[p/] I'd thought a [b]transmutation[/b] spell had caused some sort of chemical reaction with the wood.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 当我触碰有痕迹的地面时，[p/]我还以为是某种[b]形变术[/b]引起了地板的木材发生了什么化学反应。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0627902\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: When I felt the texture of the floor,[p/] I'd thought a [b]transmutation[/b] spell had caused some sort of chemical reaction with the wood.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::54189eaca63510ae",
     "original": "Tyrion: ...But the [i]real[/i] answer was a lot simpler than that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: .……但是[i]真正[/i]的答案简单得多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:058df59\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: ...But the [i]real[/i] answer was a lot simpler than that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cbe4eb05536184d3",
     "original": "Tyrion: The [b]transmutation[/b] spell didn’t alter the floor at all![p/][p/] It was just a stain from the spilled tea!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 地板没有因为[b]形变术[/b]产生任何改变！[p/][p/]那只是茶水留下的印子！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c9dd85\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: The [b]transmutation[/b] spell didn’t alter the floor at all![p/][p/] It was just a stain from the spilled tea!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::219d7512e8aa56e2",
     "original": "Tyrion: I bet if we compared the tea residue on the floor to the residue inside the bottle,[p/] we’d find traces of [b]transmutation[/b] on them!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我敢打赌，只要好好比对地板上的茶渍与瓶子里的残留，[p/]它们上面都会探测出[b]形变术[/b]的痕迹！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0353b8b\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: I bet if we compared the tea residue on the floor to the residue inside the bottle,[p/] we’d find traces of [b]transmutation[/b] on them!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f5471766b61244b0",
     "original": "Tyrion: There’s your murder weapon, Pierce!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 皮尔斯，这就是你要的凶器！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03338ff\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: There’s your murder weapon, Pierce!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4bd98569e60429a8",
     "original": "Tyrion: ...You have nowhere left to go.[p/] That’s Checkmate.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你已无处可逃。[p/]将死了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c2c59a\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Tyrion: ...You have nowhere left to go.[p/] That’s Checkmate.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::83711b5b2fd5c3c0",
     "original": "AriaC: ...Bailiff![p/][s/] Send for Orym!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……法警！[p/][s/]快把奥蒙叫来！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f123c2\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"AriaC: ...Bailiff![p/][s/] Send for Orym!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::20b3b8ffa3cd579a",
     "original": "AriaC: The Inquisition needs to analyze the crime scene at once!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 裁判所必须马上对案发现场进行分析！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b35370\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"AriaC: The Inquisition needs to analyze the crime scene at once!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0716fddbd7aab1b0",
     "original": "AriaC: We need to confirm the defense’s theory![p/][s/] The time window to detect traces of magic is closing!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我们需要检证辩方的观点！[p/][s/]魔法痕迹残留的期限马上就要到了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:041b5c2\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"AriaC: We need to confirm the defense’s theory![p/][s/] The time window to detect traces of magic is closing!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::63b7aebb50e8cca9",
     "original": "AriaC: ...I have the report from the Inquisition.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……我拿到了裁判所的报告。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ff9d0c\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"AriaC: ...I have the report from the Inquisition.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::750ba5b602e4625f",
     "original": "Judge: W-[p/][s/]What does it say?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 上、[p/][s/]上面怎么说？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c46ac4\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"Judge: W-[p/][s/]What does it say?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c9ef27b53fe10479",
     "original": "AriaC: The traces on the sword,[p/] the body,[p/] even the floor—[p/]they all came from tea residue.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 不论是剑上、[p/]尸体上、[p/]甚至是地板上的痕迹——[p/]它们都来自于茶渍。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09d8a6f\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"AriaC: The traces on the sword,[p/] the body,[p/] even the floor—[p/]they all came from tea residue.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fdd7f2e4ba9f171d",
     "original": "AriaC: We found those same traces on the shards of the broken bottle, too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我们在那个瓶子的碎片上也发现了相同的痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02626db\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"AriaC: We found those same traces on the shards of the broken bottle, too.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e2e6eeae4d549f1e",
     "original": "AriaC: It’s undeniable.[p/] Someone cast a spell on the liquid contained within that bottle.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 无可否认，[p/]确实有人对瓶子里的液体施放了法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0015429\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"AriaC: It’s undeniable.[p/] Someone cast a spell on the liquid contained within that bottle.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0d5e882b4508f362",
     "original": "AriaC: ...And the defendant has no such spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……而被告是没有这类法术的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04928ed\",\n  \"node\": \"GarrickFinal4\",\n  \"text\": \"AriaC: ...And the defendant has no such spell.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8a1876c2a14f7222",
     "original": "Celeste: ...You really did it, didn’t you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: .……你真的做到了哎，不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e1463d\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Celeste: ...You really did it, didn’t you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::27be340d6b722538",
     "original": "Celeste: Why...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 为什么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:088d198\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Celeste: Why...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e12d2d1f18b7779e",
     "original": "Garrick: As if someone like you would ever understand...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 像你这样的人，怎么可能理解……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0120924\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Garrick: As if someone like you would ever understand...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6566d0136f8d4d11",
     "original": "Celeste: “Understand\"?![p/][s/] You murdered my dad!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: “理解”？！[p/][s/]你都把我爸爸杀了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0062698\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Celeste: “Understand\\\"?![p/][s/] You murdered my dad!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8b8270b704dfd67c",
     "original": "Garrick: Murdered...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 杀了……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b8fad0\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Garrick: Murdered...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e55be49ddf871525",
     "original": "Garrick: MURDERED?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: <size=1.5em>杀了</size>？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0508d8c\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Garrick: MURDERED?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::22e2ad5999cb4f21",
     "original": "Garrick: I murdered her...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我杀了她……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a9e6e\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Garrick: I murdered her...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fe843daf1d03e1fa",
     "original": "Garrick: I can’t believe it...[p/] She’s dead...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我不敢相信……[p/]她已经死了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cd78a4\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Garrick: I can’t believe it...[p/] She’s dead...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c58e6644df9055ef",
     "original": "Garrick: Her smile...[p/] Her beautiful voice...[p/] It's all gone...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 她的微笑……[p/]她甜美的嗓音……[p/]都一去不复返了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b9b641\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Garrick: Her smile...[p/] Her beautiful voice...[p/] It's all gone...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3f9c9929c16a78cc",
     "original": "Garrick: I deserve death...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 我该受死……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:000b191\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Garrick: I deserve death...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::be8c008933d15c52",
     "original": "Fredrick: Stop this nonsense.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Fredrick: 别再说这些没用的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f448cd\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Fredrick: Stop this nonsense.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9356480bd7330d6f",
     "original": "Garrick: Father...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 父亲……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0df73af\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Garrick: Father...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::57cbc3a15ef33328",
     "original": "Fredrick: You’re grieving,[p/] but it will pass.[p/] She was only a commoner.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Fredrick: 你很难过，[p/]但都会过去的。[p/]她只是个平民而已。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:022d07f\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Fredrick: You’re grieving,[p/] but it will pass.[p/] She was only a commoner.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3615b0400a12b85f",
     "original": "Garrick: No,[p/] Father...[p/] I loved her,[p/] and I [i]killed[/i] her...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 不，[p/]父亲…….[p/]我爱她，[p/]然后又是我[i]杀死[/i]了她……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e0dbc3\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Garrick: No,[p/] Father...[p/] I loved her,[p/] and I [i]killed[/i] her...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2dcdd192709da9f4",
     "original": "Fredrick: Garrick...[p/] You sweet,[p/] innocent child.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Fredrick: 加里克……[p/]你真是个善良、[p/]天真的孩子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08ad299\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Fredrick: Garrick...[p/] You sweet,[p/] innocent child.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2f5e5c39a2076efd",
     "original": "Fredrick: Flowers may be beautiful and bring you joy,[p/] but do you call it “murder\" when you accidentally step on one?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Fredrick: 花朵可能很漂亮，令你愉悦，[p/]但你要是不小心踩到它，会称之为“杀害”吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b30c81\",\n  \"node\": \"GarrickFinal5\",\n  \"text\": \"Fredrick: Flowers may be beautiful and bring you joy,[p/] but do you call it “murder\\\" when you accidentally step on one?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cc65aa2229e7cdf3",
     "original": "Fredrick: These people—[p/]these [p/][s/]peasants—[p/]they may resemble us,[p/] but you know deep in your heart that they aren’t like us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Fredrick: 那些人——[p/]那些[p/][s/]贫农——[p/]他们或许看起来与我们相似，[p/]但你内心深处知道我们是不一样的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01fe5af\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Fredrick: These people—[p/]these [p/][s/]peasants—[p/]they may resemble us,[p/] but you know deep in your heart that they aren’t like us.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::73df38a501c61d09",
     "original": "Garrick: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: .……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cb3441\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: ...What?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::24e210c822271884",
     "original": "Fredrick: We have the Scaled Lord’s favor,[p/] and they do not.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Fredrick: 我们身负鳞甲领主的赐福，[p/]他们可没有。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ca93a3\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Fredrick: We have the Scaled Lord’s favor,[p/] and they do not.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dcb2ca5bd673e75b",
     "original": "Fredrick: They were created to serve us—[p/]to be utilized by those of us who matter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Fredrick: 他们是为了服侍我们而诞生的——[p/]只为供我们这些重要的人使用。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:012ab25\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Fredrick: They were created to serve us—[p/]to be utilized by those of us who matter.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2cffd5354a5ac031",
     "original": "Garrick: Father...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 父亲……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d821c3\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: Father...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ae4b9fad2cb1cd12",
     "original": "Fredrick: So don’t fret so much over a simple commoner.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Fredrick: 所以，别为一个普通的平民百姓如此烦恼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09f6a9a\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Fredrick: So don’t fret so much over a simple commoner.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::018ca5423c1ebdeb",
     "original": "Fredrick: By next month,[p/] you’ll have completely forgotten about that wretched thing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Fredrick: 到了下个月，[p/] 你就会彻底忘记那件糟糕的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f2073f\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Fredrick: By next month,[p/] you’ll have completely forgotten about that wretched thing.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::78fdd6fffa3361e2",
     "original": "Garrick: Ha...[p/] Haha...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 哈……[p/]哈哈……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:049ce12\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: Ha...[p/] Haha...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1ccabe6854690359",
     "original": "Garrick: HAHAHAHAHAHAHAHA!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 哈哈哈哈哈哈哈！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:014f846\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: HAHAHAHAHAHAHAHA!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c534a39bab6f2f98",
     "original": "Garrick: HOW COULD I HAVE BEEN SO BLIND?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: <size=1.5em>我之前怎么如此盲目</size>?!",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:012ca0e\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: HOW COULD I HAVE BEEN SO BLIND?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f0819a1c099a9c19",
     "original": "Garrick: SHE WAS A SIMPLE FLOWER![p/][s/] NOTHING BUT A WORTHLESS PEASANT!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: <size=1.5em>她只是一朵花罢了！[p/][s/]除了没有价值的贫农以外什么都不是！</size>",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d1d1bf\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: SHE WAS A SIMPLE FLOWER![p/][s/] NOTHING BUT A WORTHLESS PEASANT!\"\n}"
   },
   {
