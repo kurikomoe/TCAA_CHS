@@ -2291,84 +2291,84 @@ line:02379ca,Lobby_Check,Tyrion: Sorry...[p/] I guess I'm just a little lost abo
 line:077b1be,Lobby_Check,"Ruby: Hm...[p/] Well,[p/] I guess I can give you [i]some[/i] guidance.",Ruby: 嗯……[p/]那好吧，[p/]我想我可以给你[i]一点[/i]引导。
 line:05cd9ac,OrymFail,"Orym: Look,[p/] we can talk about this all day, kid.[p/] You’re getting nothing out of me.",Orym: 小子，[p/]这没有意义，我们能争论一整天。[p/]你从我这儿什么也得不到。
 line:09e086f,OrymFail,Damn it...[p/] I still couldn’t get through to him...,该死……[p/]我还是没有说动他……
-line:02026e1,OrymArgue,Commander White was being hostile towards me.,
-line:0165121,OrymArgue,"At first,[p/] I'd thought he was just being corrupt or apathetic.",
-line:005eaf7,OrymArgue,But he seemed to have a personal grudge against Ms. Tymora and me.,
-line:0ecab85,OrymArgue,"If I could clear up this misunderstanding,[p/] he might help me.",
+line:02026e1,OrymArgue,Commander White was being hostile towards me.,怀特指挥官一直对我抱持敌意。
+line:0165121,OrymArgue,"At first,[p/] I'd thought he was just being corrupt or apathetic.",最初，[p/]我只当他同样腐败而冷漠。
+line:005eaf7,OrymArgue,But he seemed to have a personal grudge against Ms. Tymora and me.,但看起来他似乎与泰摩拉女士和我有个人恩怨。
+line:0ecab85,OrymArgue,"If I could clear up this misunderstanding,[p/] he might help me.",如果我能澄清里面的误会，[p/]他可能会帮助我。
 line:06a3b84,OrymArgue,Yes,是
 line:0cc15c4,OrymArgue,No,否
-line:0ab4553,OrymArgue,"Tyrion: Do you have an issue with me, Commander White?",
-line:0d4c62f,OrymArgue,Orym: Don’t give me that crap![p/][s/] I’ve seen who you work for.,
-line:0eaf442,OrymArgue,Orym: You think I don't know what you're doing?,
-line:044f54e,OrymArgue,Orym: I'll be dead in the ground before I help you!,
-line:02e55f3,OrymArgue1,"Deflect [c=""Regardless of what Ms. Tymora has done, [i]I'm[/i] the one heading this case.""/]",
-line:099b383,OrymArgue1,"Tyrion: Regardless of what Ms. Tymora has done,[p/] [i]I'm[/i] the one heading this case.",
-line:017fbc5,OrymArgue1,"Tyrion: You don’t even know me.[p/] Whatever problems you have with her,[p/] they have nothing to do with me.",
+line:0ab4553,OrymArgue,"Tyrion: Do you have an issue with me, Commander White?",Tyrion: 怀特指挥官，你是对我有什么意见吗？
+line:0d4c62f,OrymArgue,Orym: Don’t give me that crap![p/][s/] I’ve seen who you work for.,Orym: 别跟我扯没用的！[p/][s/]我知道你在为谁工作。
+line:0eaf442,OrymArgue,Orym: You think I don't know what you're doing?,Orym: 你以为我不知道你的做法？
+line:044f54e,OrymArgue,Orym: I'll be dead in the ground before I help you!,Orym: 我就是死了也不会帮你！
+line:02e55f3,OrymArgue1,"Deflect [c=""Regardless of what Ms. Tymora has done, [i]I'm[/i] the one heading this case.""/]","Deflect [c=""无论泰摩拉女士曾做过什么，[i]我[/i]才是本案的律师。""/]"
+line:099b383,OrymArgue1,"Tyrion: Regardless of what Ms. Tymora has done,[p/] [i]I'm[/i] the one heading this case.",Tyrion: 无论泰摩拉女士曾做过什么，[p/][i]我[/i]才是本案的律师。
+line:017fbc5,OrymArgue1,"Tyrion: You don’t even know me.[p/] Whatever problems you have with her,[p/] they have nothing to do with me.",Tyrion: 你都不怎么认识我。[p/]不论你和她之间有什么问题，[p/]那都与我无关。
 line:0030434,OrymArgue1,Orym: ...,Orym: ……
-line:00e8ab9,OrymArgue1,"Rationalize [c=""My client deserves a fair trial with fair representation. All I’m trying to do is give that to her""/]",
-line:09134e2,OrymArgue1,Tyrion: It doesn't matter how you feel about Ms. Tymora or me.[p/] My client deserves a fair trial with fair representation.,
-line:07c2206,OrymArgue1,"Tyrion: All I’m trying to do is give that to her,[p/] and I can’t do that if you withhold information from me.",
+line:00e8ab9,OrymArgue1,"Rationalize [c=""My client deserves a fair trial with fair representation. All I’m trying to do is give that to her""/]","Rationalize [c=""我的委托人理应得到公正的审判和律师支持，而我所做的一切都只是为了让她能够得到。""/]"
+line:09134e2,OrymArgue1,Tyrion: It doesn't matter how you feel about Ms. Tymora or me.[p/] My client deserves a fair trial with fair representation.,Tyrion: 你对我或泰摩拉女士的意见不重要，重要的是我的委托人理应得到公正的审判和律师支持。
+line:07c2206,OrymArgue1,"Tyrion: All I’m trying to do is give that to her,[p/] and I can’t do that if you withhold information from me.",Tyrion: 我所做的一切都只是为了让她能够得到这些，[p/]而如果你对我隐藏信息的话，那就没有可能了。
 line:049797c,OrymArgue1,Orym: ...,Orym: ……
-line:0b2a765,OrymArgue1,"Defend [c=""You have no right to throw baseless accusations against Ms. Tymora or me!""/]",
-line:0667147,OrymArgue1,"Tyrion: You have no right to throw baseless accusations against Ms. Tymora or me![p/][s/] Whatever you think she’s done,[p/][s/] you’re mistaken!",
-line:0054b0e,OrymArgue1,Orym: Ha![p/][s/] You’re pretty good liar![p/][s/] You think I’m going to fall for your act?,
-line:06c14ab,OrymArgue1,Orym: I know that woman’s hands are dirty.[p/] Nothing you say is going to change my mind.,
-line:070dc8e,OrymArgue1,That wasn't the right way to respond to his claim.,
-line:0767fdb,OrymArgue1,I needed to remember.[p/] Orym's PSYCHOLOGICAL PROFILE would help me determine the best way to respond.,
-line:0c7fb2d,OrymArgue2,Orym: ...I’ve seen how she defends her clients.,
-line:0b59644,OrymArgue2,"Orym: Forgery,[p/] bribery,[p/] blackmail—[p/]she’ll do whatever it takes to win.",
-line:0671226,OrymArgue2,Orym: It doesn’t matter what you say.[p/] I know you’re just like her...,
-line:0709f3c,OrymArgue3,"Deflect [c=""I’m not Ruby Tymora. What you think of her isn’t relevant here. Regardless of what you’ve seen her do, [i]I’m[/i] trying to run an honest case."" /]",
-line:07a1226,OrymArgue3,Tyrion: I’m not Ruby Tymora.[p/] What you think of her isn’t relevant here.,
-line:02be84f,OrymArgue3,"Tyrion: Regardless of what you’ve seen her do,[p/] [i]I’m[/i] trying to run an honest case.",
+line:0b2a765,OrymArgue1,"Defend [c=""You have no right to throw baseless accusations against Ms. Tymora or me!""/]","Defend [c=""你无权对泰摩拉女士或我进行毫无依据的指控！""/]"
+line:0667147,OrymArgue1,"Tyrion: You have no right to throw baseless accusations against Ms. Tymora or me![p/][s/] Whatever you think she’s done,[p/][s/] you’re mistaken!",Tyrion: 你无权对泰摩拉女士或我进行毫无依据的指控！[p/][s/]不论你觉得她做过什么，[p/][s/]你都搞错了！
+line:0054b0e,OrymArgue1,Orym: Ha![p/][s/] You’re pretty good liar![p/][s/] You think I’m going to fall for your act?,Orym: 哈！[p/][s/]你真是个出色的骗子！[p/][s/]你以为我会吃你这套演技？
+line:06c14ab,OrymArgue1,Orym: I know that woman’s hands are dirty.[p/] Nothing you say is going to change my mind.,Orym: 我知道那女人手段肮脏。[p/]你说什么都没办法改变我的看法。
+line:070dc8e,OrymArgue1,That wasn't the right way to respond to his claim.,这不是回应他的正确方式。
+line:0767fdb,OrymArgue1,I needed to remember.[p/] Orym's PSYCHOLOGICAL PROFILE would help me determine the best way to respond.,我必须记住，[p/]奥蒙的 <size=1.5em>心理档案</size> 能帮我判断最佳的回复方式。
+line:0c7fb2d,OrymArgue2,Orym: ...I’ve seen how she defends her clients.,Orym: ……我看过她怎么为委托人辩护。
+line:0b59644,OrymArgue2,"Orym: Forgery,[p/] bribery,[p/] blackmail—[p/]she’ll do whatever it takes to win.",Orym: 伪造、[p/]贿赂、[p/]敲诈——[p/]只要能赢，她什么都会干。
+line:0671226,OrymArgue2,Orym: It doesn’t matter what you say.[p/] I know you’re just like her...,Orym: 你说什么都不重要。[p/]我知道你和她一样……
+line:0709f3c,OrymArgue3,"Deflect [c=""I’m not Ruby Tymora. What you think of her isn’t relevant here. Regardless of what you’ve seen her do, [i]I’m[/i] trying to run an honest case."" /]","Deflect [c=""我不是鲁比·泰摩拉。无论她做过什么都与我无关，[i]我[/i]会秉公办案。"" /]"
+line:07a1226,OrymArgue3,Tyrion: I’m not Ruby Tymora.[p/] What you think of her isn’t relevant here.,Tyrion: 我不是鲁比·泰摩拉。[p/]你对他怎么想都和现在这件事无关。
+line:02be84f,OrymArgue3,"Tyrion: Regardless of what you’ve seen her do,[p/] [i]I’m[/i] trying to run an honest case.",Tyrion: 无论她做过什么，[p/][i]我[/i]会秉公办案。
 line:0a8c516,OrymArgue3,Orym: ...,Orym: ……
-line:04ae75d,OrymArgue3,"Rationalize [c=""“Forgery, bribery, blackmail”? Have you seen me do any of those things? I’ve only defended my client by pointing out [i]your[/i] mistakes."" /]",
-line:0b24b0a,OrymArgue3,"Tyrion: “Forgery,[p/] bribery,[p/] blackmail”?[p/] Have you seen me do any of those things?",
-line:020a104,OrymArgue3,"Tyrion: Because the way I see it,[p/] I’ve only defended my client by pointing out [i]your[/i] mistakes.",
+line:04ae75d,OrymArgue3,"Rationalize [c=""“Forgery, bribery, blackmail”? Have you seen me do any of those things? I’ve only defended my client by pointing out [i]your[/i] mistakes."" /]","Rationalize [c=""“伪造、贿赂、勒索”？你见我做过这种事吗？目前为止我做的仅仅是指出[i]你的[/i]错误。"" /]"
+line:0b24b0a,OrymArgue3,"Tyrion: “Forgery,[p/] bribery,[p/] blackmail”?[p/] Have you seen me do any of those things?",“伪造、[p/]贿赂、[p/]勒索”？[p/]你见我做过这种事吗？
+line:020a104,OrymArgue3,"Tyrion: Because the way I see it,[p/] I’ve only defended my client by pointing out [i]your[/i] mistakes.",Tyrion: 以我所见，[p/]我只不过是指出[i]你的[/i]错误来为我的委托人辩护。
 line:0d0b3d5,OrymArgue3,Orym: ...,Orym: ……
-line:09f81d1,OrymArgue3,"Defend [c=""Me being her successor has nothing to do with it. You know that helping me is the right thing to do."" /]",
-line:0844f3f,OrymArgue3,Tyrion: Me being her successor has nothing to do with it.,
-line:0e8270b,OrymArgue3,Tyrion: You know that helping me is the right thing to do.,
-line:08376d1,OrymArgue3,Orym: Don’t dodge the question![p/][s/] You want me to trust you when you can’t even give me a straight answer?,
-line:04ca031,OrymArgue3,Deflecting his claim didn’t seem to be effective this time.,
-line:0783477,OrymArgue4,"Orym: Look, kid.[p/] After what I’ve seen her pull in court,[p/] I’m not going to fall for it.",
-line:0a2eb8e,OrymArgue4,"Orym: No matter what,[p/] I know you’re a crooked lawyer raised by the biggest crook of them all.",
-line:0916a44,OrymArgue5,"Deflect [c=""I’m just a defense attorney who’s asking you for information about the case. Nothing that I’ve done has given you any reason to suspect me."" /]",
-line:0bda174,OrymArgue5,Tyrion: I’m just a defense attorney who’s asking you for information about the case.,
-line:02fcee2,OrymArgue5,Tyrion: Nothing that I’ve done has given you any reason to suspect me.,
-line:0178dac,OrymArgue5,"Rationalize [c=""But the only thing that she taught me was how to practice law. Have you seen me engage in any crooked behavior?"" /]",
-line:04cf41d,OrymArgue5,"Tyrion: Her way of teaching me was ruthless,[p/] I’ll give you that.",
-line:007ec0d,OrymArgue5,Tyrion: But the only thing that she taught me was how to practice law.,
-line:070ce01,OrymArgue5,Tyrion: Have you seen me engage in any crooked behavior?,
-line:0a51284,OrymArgue5,"Defend [c=""You have no proof that she’s a “crook”, and you certainly don’t have any proof that I’m one either."" /]",
-line:073a160,OrymArgue5,Tyrion: You’ve made accusation after accusation against her with nothing to prove it.,
-line:0081264,OrymArgue5,"Tyrion: You have no proof that she’s a “crook”,[p/] and you certainly don’t have any proof that I’m one either.",
-line:0b6cc4b,OrymArgue5,"Orym: Like I’ve been saying,[p/] I don’t need any “proof”.",
-line:0f66865,OrymArgue5,"Orym: I’ve seen how she works,[p/] and I know you’re both dirty.",
-line:098bd61,OrymArgue5,It seemed that defending Ms. Tymora would always end badly with the commander.[p/] I needed to try something else.,
+line:09f81d1,OrymArgue3,"Defend [c=""Me being her successor has nothing to do with it. You know that helping me is the right thing to do."" /]","Defend [c=""我是她的徒弟一事与这个案子没有关系。你知道帮助我就是正确之举。"" /]"
+line:0844f3f,OrymArgue3,Tyrion: Me being her successor has nothing to do with it.,Tyrion: 我是她的徒弟一事与这个案子没有关系。
+line:0e8270b,OrymArgue3,Tyrion: You know that helping me is the right thing to do.,Tyrion: 你知道帮助我就是正确之举。
+line:08376d1,OrymArgue3,Orym: Don’t dodge the question![p/][s/] You want me to trust you when you can’t even give me a straight answer?,Orym: 别回避问题！[p/][s/]你连直接回答我都不敢，还想要我相信你？
+line:04ca031,OrymArgue3,Deflecting his claim didn’t seem to be effective this time.,迂回话题似乎在这里并不奏效。
+line:0783477,OrymArgue4,"Orym: Look, kid.[p/] After what I’ve seen her pull in court,[p/] I’m not going to fall for it.",Orym: 听着，小子。[p/]在我看到她法庭上的表现后，[p/]我才不会中招。
+line:0a2eb8e,OrymArgue4,"Orym: No matter what,[p/] I know you’re a crooked lawyer raised by the biggest crook of them all.",Orym: 不管怎么说，[p/]我知道你就是头号骗子养出来的骗子律师。
+line:0916a44,OrymArgue5,"Deflect [c=""I’m just a defense attorney who’s asking you for information about the case. Nothing that I’ve done has given you any reason to suspect me."" /]","Deflect [c=""我仅仅是作为本案的辩护律师向你询问案件信息。我的所作所为从没有给你怀疑我的理由。"" /]"
+line:0bda174,OrymArgue5,Tyrion: I’m just a defense attorney who’s asking you for information about the case.,Tyrion: 我仅仅是作为本案的辩护律师向你询问案件信息。
+line:02fcee2,OrymArgue5,Tyrion: Nothing that I’ve done has given you any reason to suspect me.,Tyrion: 我的所作所为从没有给你怀疑我的理由。
+line:0178dac,OrymArgue5,"Rationalize [c=""But the only thing that she taught me was how to practice law. Have you seen me engage in any crooked behavior?"" /]","Rationalize [c=""她只教过我法律实务。你有见过我做出任何不端行径吗？"" /]"
+line:04cf41d,OrymArgue5,"Tyrion: Her way of teaching me was ruthless,[p/] I’ll give you that.",Tyrion: 我承认她教我的方式非常无情。
+line:007ec0d,OrymArgue5,Tyrion: But the only thing that she taught me was how to practice law.,Tyrion: 但她只教过我如何理解与运用法律。
+line:070ce01,OrymArgue5,Tyrion: Have you seen me engage in any crooked behavior?,Tyrion: 你有见过我做出任何不端行径吗？
+line:0a51284,OrymArgue5,"Defend [c=""You have no proof that she’s a “crook”, and you certainly don’t have any proof that I’m one either."" /]","Defend [c=""你没有确切的证据证明她是个“骗子”，也没有任何证据证明[i]我[/i]是。"" /]"
+line:073a160,OrymArgue5,Tyrion: You’ve made accusation after accusation against her with nothing to prove it.,Tyrion: 你一次又一次毫无根据地指控她。
+line:0081264,OrymArgue5,"Tyrion: You have no proof that she’s a “crook”,[p/] and you certainly don’t have any proof that I’m one either.",Tyrion: 你没有确切的证据证明她是个“骗子”，[p/]也显然没有任何证据证明[i]我[/i]是。
+line:0b6cc4b,OrymArgue5,"Orym: Like I’ve been saying,[p/] I don’t need any “proof”.",Orym: 我一直在说，[p/]我不需要任何“证明”。
+line:0f66865,OrymArgue5,"Orym: I’ve seen how she works,[p/] and I know you’re both dirty.",Orym: 我看到过她是怎么做到，[p/]而我知道你也同样肮脏。
+line:098bd61,OrymArgue5,It seemed that defending Ms. Tymora would always end badly with the commander.[p/] I needed to try something else.,看样子在指挥官面前维护泰摩拉女士只有坏结果。[p/]我得试试其他方针。
 line:0b41235,OrymArgue6,Orym: ...,Orym: ……
-line:0a57493,OrymArgue6,"He spent some time searching for a rebuttal,[p/] but after a while,[p/] he just let out a resigned sigh.",
-line:08f6b1b,OrymArgue6,"Orym: ...You just want info on the case, right?",
-line:024b058,OrymArgue6,Tyrion: Yes.[p/] That’s all I’m asking for.,
-line:0b4a53f,OrymArgue6,"Orym: ...Alright, fine.[p/] I’ll answer your questions.",
-line:065039e,OrymArgue6,Orym: But you better not make me regret this.,
-line:03aa616,OrymArgue6,I successfully PERSUADED Orym White.,
+line:0a57493,OrymArgue6,"He spent some time searching for a rebuttal,[p/] but after a while,[p/] he just let out a resigned sigh.",他花了一些时间寻找反驳的论据，[p/]但过了一小会儿，[p/]他只是无奈地叹了口气。
+line:08f6b1b,OrymArgue6,"Orym: ...You just want info on the case, right?",Orym: ……你想要案件的信息，对吧？
+line:024b058,OrymArgue6,Tyrion: Yes.[p/] That’s all I’m asking for.,Tyrion: 是的，[p/]除此之外别无所求。
+line:0b4a53f,OrymArgue6,"Orym: ...Alright, fine.[p/] I’ll answer your questions.",Orym: ……行，好吧。[p/]我会回答你的问题。
+line:065039e,OrymArgue6,Orym: But you better not make me regret this.,Orym: 但你最好不要让我后悔。
+line:03aa616,OrymArgue6,I successfully PERSUADED Orym White.,我成功<size=1.5em>说服</size>了奥蒙·怀特。
 line:05ab409,Tavern_Examine,Painting 1,
-line:0bf0bf2,Tavern_Examine,Tyrion: It's a portrait of someone.[p/] There's some text on it.,
-line:09c3037,Tavern_Examine,"Tyrion: ""Adam Eveleigh:[p/] Politician of the Pedantic.""",
-line:0e36e96,Tavern_Examine,Orym: I've heard of this guy.[p/] He's some kind of politician from one of the nations south of here.,
-line:0e76879,Tavern_Examine,Orym: I heard he's pretty much a shoo-in to win whatever election they have going there.,
-line:0f75ac1,Tavern_Examine,"An ""election""?[p/] Had Flinhart been studying alternate forms of government for his little ""revolution""?",
+line:0bf0bf2,Tavern_Examine,Tyrion: It's a portrait of someone.[p/] There's some text on it.,Tyrion: 某个人物的肖像画。[p/]下面有几行字。
+line:09c3037,Tavern_Examine,"Tyrion: ""Adam Eveleigh:[p/] Politician of the Pedantic.""",Tyrion: “Adam Eveleigh：[p/]迂腐的政治家。”
+line:0e36e96,Tavern_Examine,Orym: I've heard of this guy.[p/] He's some kind of politician from one of the nations south of here.,Orym: 我听说过这家伙。[p/]他是南边某个国家的政治家。
+line:0e76879,Tavern_Examine,Orym: I heard he's pretty much a shoo-in to win whatever election they have going there.,Orym: 据说无论举行怎样的选举，他都能稳操胜券。
+line:0f75ac1,Tavern_Examine,"An ""election""?[p/] Had Flinhart been studying alternate forms of government for his little ""revolution""?","""选举""？[p/] 弗林哈特是否在为他的小小“革命”研究其他的政府组织体系？"
 line:032505e,Tavern_Examine,Painting 2,
-line:06f08e8,Tavern_Examine,Tyrion: It's a painting of a mage?[p/] There's some text on it.,
-line:00ce5a2,Tavern_Examine,"Tyrion: ""Somala Daghlian:[p/] a legendary practitioner of the Arcane Arts.[p/] He mysteriously disappeared one day.""",
-line:093fafa,Tavern_Examine,"Tyrion: ""It's rumored that he was developing a formula for a new [b]transmutation[/b] spell.""",
-line:0c602ab,Tavern_Examine,"Tyrion: ""Daghlian was reckless in casting the spell,[p/] however,[p/] and he quickly lost control of it.[p/] His body was never found.""",
-line:0660733,Tavern_Examine,"Tyrion: “Many speculate that he didn't die during the accident,[p/] but if that were true,[p/] where did the spell take him?""",
-line:0ee3cd0,Tavern_Examine,Orym: Hmph...[p/] Sounds like a cautionary tale against using magic.,
-line:0625f7f,Tavern_Examine,...That might have explained why Flinhart kept it in his tavern.,
+line:06f08e8,Tavern_Examine,Tyrion: It's a painting of a mage?[p/] There's some text on it.,Tyrion: 那幅画是画的一位法师吗？[p/]下面好像有字标注。
+line:00ce5a2,Tavern_Examine,"Tyrion: ""Somala Daghlian:[p/] a legendary practitioner of the Arcane Arts.[p/] He mysteriously disappeared one day.""",Tyrion: “Somala Daghlian：[p/]传奇奥术实践者。[p/]他突然有一天人间蒸发了。”
+line:093fafa,Tavern_Examine,"Tyrion: ""It's rumored that he was developing a formula for a new [b]transmutation[/b] spell.""",Tyrion: “据说他失踪前正研究着一种新的[b]形变术[/b]范式。”
+line:0c602ab,Tavern_Examine,"Tyrion: ""Daghlian was reckless in casting the spell,[p/] however,[p/] and he quickly lost control of it.[p/] His body was never found.""",Tyrion: “然而，[p/]Daghlian施法时太鲁莽了。[p/]很快失去了对魔法的控制。[p/]他的尸首不知所踪。”
+line:0660733,Tavern_Examine,"Tyrion: “Many speculate that he didn't die during the accident,[p/] but if that were true,[p/] where did the spell take him?""",Tyrion: “许多人怀疑他从事故中逃过一劫。[p/]可如果那是真的，[p/]他去哪儿了呢？”
+line:0ee3cd0,Tavern_Examine,Orym: Hmph...[p/] Sounds like a cautionary tale against using magic.,Orym: 嗯……[p/]听起来像是预防滥用魔法的小故事。
+line:0625f7f,Tavern_Examine,...That might have explained why Flinhart kept it in his tavern.,……这或许就是弗林哈特在酒馆挂着它的原因。
 line:0daaa67,Tavern_Examine,Candles,
-line:0b33b19,Tavern_Examine,"There were candles on each of the tables in the dining area,[p/] but there were also lamps mounted on the walls.",
+line:0b33b19,Tavern_Examine,"There were candles on each of the tables in the dining area,[p/] but there were also lamps mounted on the walls.",餐厅里每张桌子上都有蜡烛，[p/]但墙上也装有灯具。
 line:046b0f9,Tavern_Examine,":On closer inspection,[p/] they appeared to be artificery:[p/] machines that could reproduce the effects of magic.",
 line:0b06d80,Tavern_Examine,Why wasn’t the Inquisition using those instead?,
 line:068a227,Tavern_Examine,Body,

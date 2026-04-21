@@ -14730,470 +14730,470 @@
   {
     "key": "C1 Dialogue.csv::translation::e52162f68ac02605",
     "original": "Commander White was being hostile towards me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "怀特指挥官一直对我抱持敌意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02026e1\",\n  \"node\": \"OrymArgue\",\n  \"text\": \"Commander White was being hostile towards me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1fbd73beae923332",
     "original": "At first,[p/] I'd thought he was just being corrupt or apathetic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "最初，[p/]我只当他同样腐败而冷漠。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0165121\",\n  \"node\": \"OrymArgue\",\n  \"text\": \"At first,[p/] I'd thought he was just being corrupt or apathetic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fbd776843d28ee59",
     "original": "But he seemed to have a personal grudge against Ms. Tymora and me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但看起来他似乎与泰摩拉女士和我有个人恩怨。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:005eaf7\",\n  \"node\": \"OrymArgue\",\n  \"text\": \"But he seemed to have a personal grudge against Ms. Tymora and me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::79ec08e4e8b035e3",
     "original": "If I could clear up this misunderstanding,[p/] he might help me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果我能澄清里面的误会，[p/]他可能会帮助我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ecab85\",\n  \"node\": \"OrymArgue\",\n  \"text\": \"If I could clear up this misunderstanding,[p/] he might help me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5cb6c8825b563498",
     "original": "Tyrion: Do you have an issue with me, Commander White?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 怀特指挥官，你是对我有什么意见吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ab4553\",\n  \"node\": \"OrymArgue\",\n  \"text\": \"Tyrion: Do you have an issue with me, Commander White?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::da49b7338fb70f77",
     "original": "Orym: Don’t give me that crap![p/][s/] I’ve seen who you work for.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 别跟我扯没用的！[p/][s/]我知道你在为谁工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d4c62f\",\n  \"node\": \"OrymArgue\",\n  \"text\": \"Orym: Don’t give me that crap![p/][s/] I’ve seen who you work for.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::08f5d573afd717d8",
     "original": "Orym: You think I don't know what you're doing?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你以为我不知道你的做法？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eaf442\",\n  \"node\": \"OrymArgue\",\n  \"text\": \"Orym: You think I don't know what you're doing?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e90ac475eb85ff3a",
     "original": "Orym: I'll be dead in the ground before I help you!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我就是死了也不会帮你！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:044f54e\",\n  \"node\": \"OrymArgue\",\n  \"text\": \"Orym: I'll be dead in the ground before I help you!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::97c2e5225a90583d",
     "original": "Deflect [c=\"Regardless of what Ms. Tymora has done, [i]I'm[/i] the one heading this case.\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Deflect [c=\"无论泰摩拉女士曾做过什么，[i]我[/i]才是本案的律师。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02e55f3\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"Deflect [c=\\\"Regardless of what Ms. Tymora has done, [i]I'm[/i] the one heading this case.\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2625d6e2f39282a8",
     "original": "Tyrion: Regardless of what Ms. Tymora has done,[p/] [i]I'm[/i] the one heading this case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 无论泰摩拉女士曾做过什么，[p/][i]我[/i]才是本案的律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:099b383\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"Tyrion: Regardless of what Ms. Tymora has done,[p/] [i]I'm[/i] the one heading this case.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e58a723d130476fc",
     "original": "Tyrion: You don’t even know me.[p/] Whatever problems you have with her,[p/] they have nothing to do with me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你都不怎么认识我。[p/]不论你和她之间有什么问题，[p/]那都与我无关。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:017fbc5\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"Tyrion: You don’t even know me.[p/] Whatever problems you have with her,[p/] they have nothing to do with me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::523e1c721546c8e0",
     "original": "Rationalize [c=\"My client deserves a fair trial with fair representation. All I’m trying to do is give that to her\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rationalize [c=\"我的委托人理应得到公正的审判和律师支持，而我所做的一切都只是为了让她能够得到。\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00e8ab9\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"Rationalize [c=\\\"My client deserves a fair trial with fair representation. All I’m trying to do is give that to her\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::051f4dafb9579451",
     "original": "Tyrion: It doesn't matter how you feel about Ms. Tymora or me.[p/] My client deserves a fair trial with fair representation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你对我或泰摩拉女士的意见不重要，重要的是我的委托人理应得到公正的审判和律师支持。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09134e2\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"Tyrion: It doesn't matter how you feel about Ms. Tymora or me.[p/] My client deserves a fair trial with fair representation.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::26e291c17d829872",
     "original": "Tyrion: All I’m trying to do is give that to her,[p/] and I can’t do that if you withhold information from me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我所做的一切都只是为了让她能够得到这些，[p/]而如果你对我隐藏信息的话，那就没有可能了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07c2206\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"Tyrion: All I’m trying to do is give that to her,[p/] and I can’t do that if you withhold information from me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9b77246729cae321",
     "original": "Defend [c=\"You have no right to throw baseless accusations against Ms. Tymora or me!\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Defend [c=\"你无权对泰摩拉女士或我进行毫无依据的指控！\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b2a765\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"Defend [c=\\\"You have no right to throw baseless accusations against Ms. Tymora or me!\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::aed1ae0849f7dceb",
     "original": "Tyrion: You have no right to throw baseless accusations against Ms. Tymora or me![p/][s/] Whatever you think she’s done,[p/][s/] you’re mistaken!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你无权对泰摩拉女士或我进行毫无依据的指控！[p/][s/]不论你觉得她做过什么，[p/][s/]你都搞错了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0667147\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"Tyrion: You have no right to throw baseless accusations against Ms. Tymora or me![p/][s/] Whatever you think she’s done,[p/][s/] you’re mistaken!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d8b15f93b1752d81",
     "original": "Orym: Ha![p/][s/] You’re pretty good liar![p/][s/] You think I’m going to fall for your act?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 哈！[p/][s/]你真是个出色的骗子！[p/][s/]你以为我会吃你这套演技？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0054b0e\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"Orym: Ha![p/][s/] You’re pretty good liar![p/][s/] You think I’m going to fall for your act?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5a4fae4c128ce3ea",
     "original": "Orym: I know that woman’s hands are dirty.[p/] Nothing you say is going to change my mind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我知道那女人手段肮脏。[p/]你说什么都没办法改变我的看法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06c14ab\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"Orym: I know that woman’s hands are dirty.[p/] Nothing you say is going to change my mind.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::84e5e88a1dd320b3",
     "original": "That wasn't the right way to respond to his claim.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这不是回应他的正确方式。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:070dc8e\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"That wasn't the right way to respond to his claim.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::216be2e9c08e42d3",
     "original": "I needed to remember.[p/] Orym's PSYCHOLOGICAL PROFILE would help me determine the best way to respond.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我必须记住，[p/]奥蒙的 <size=1.5em>心理档案</size> 能帮我判断最佳的回复方式。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0767fdb\",\n  \"node\": \"OrymArgue1\",\n  \"text\": \"I needed to remember.[p/] Orym's PSYCHOLOGICAL PROFILE would help me determine the best way to respond.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b9551eceb30989ef",
     "original": "Orym: ...I’ve seen how she defends her clients.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……我看过她怎么为委托人辩护。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c7fb2d\",\n  \"node\": \"OrymArgue2\",\n  \"text\": \"Orym: ...I’ve seen how she defends her clients.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::06ba6a9db9da972e",
     "original": "Orym: Forgery,[p/] bribery,[p/] blackmail—[p/]she’ll do whatever it takes to win.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 伪造、[p/]贿赂、[p/]敲诈——[p/]只要能赢，她什么都会干。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b59644\",\n  \"node\": \"OrymArgue2\",\n  \"text\": \"Orym: Forgery,[p/] bribery,[p/] blackmail—[p/]she’ll do whatever it takes to win.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4893a14c8d797a68",
     "original": "Orym: It doesn’t matter what you say.[p/] I know you’re just like her...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你说什么都不重要。[p/]我知道你和她一样……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0671226\",\n  \"node\": \"OrymArgue2\",\n  \"text\": \"Orym: It doesn’t matter what you say.[p/] I know you’re just like her...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b298a07000aa3157",
     "original": "Deflect [c=\"I’m not Ruby Tymora. What you think of her isn’t relevant here. Regardless of what you’ve seen her do, [i]I’m[/i] trying to run an honest case.\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Deflect [c=\"我不是鲁比·泰摩拉。无论她做过什么都与我无关，[i]我[/i]会秉公办案。\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0709f3c\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Deflect [c=\\\"I’m not Ruby Tymora. What you think of her isn’t relevant here. Regardless of what you’ve seen her do, [i]I’m[/i] trying to run an honest case.\\\" /]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3d84ce878e97a6bc",
     "original": "Tyrion: I’m not Ruby Tymora.[p/] What you think of her isn’t relevant here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我不是鲁比·泰摩拉。[p/]你对他怎么想都和现在这件事无关。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a1226\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Tyrion: I’m not Ruby Tymora.[p/] What you think of her isn’t relevant here.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::285b686a0695e279",
     "original": "Tyrion: Regardless of what you’ve seen her do,[p/] [i]I’m[/i] trying to run an honest case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 无论她做过什么，[p/][i]我[/i]会秉公办案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02be84f\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Tyrion: Regardless of what you’ve seen her do,[p/] [i]I’m[/i] trying to run an honest case.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6d8b80f4aa253498",
     "original": "Rationalize [c=\"“Forgery, bribery, blackmail”? Have you seen me do any of those things? I’ve only defended my client by pointing out [i]your[/i] mistakes.\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rationalize [c=\"“伪造、贿赂、勒索”？你见我做过这种事吗？目前为止我做的仅仅是指出[i]你的[/i]错误。\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04ae75d\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Rationalize [c=\\\"“Forgery, bribery, blackmail”? Have you seen me do any of those things? I’ve only defended my client by pointing out [i]your[/i] mistakes.\\\" /]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8ab365c80752826a",
     "original": "Tyrion: “Forgery,[p/] bribery,[p/] blackmail”?[p/] Have you seen me do any of those things?",
-    "translation": "",
-    "stage": 0,
+    "translation": "“伪造、[p/]贿赂、[p/]勒索”？[p/]你见我做过这种事吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b24b0a\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Tyrion: “Forgery,[p/] bribery,[p/] blackmail”?[p/] Have you seen me do any of those things?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a7538da0923cb929",
     "original": "Tyrion: Because the way I see it,[p/] I’ve only defended my client by pointing out [i]your[/i] mistakes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 以我所见，[p/]我只不过是指出[i]你的[/i]错误来为我的委托人辩护。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:020a104\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Tyrion: Because the way I see it,[p/] I’ve only defended my client by pointing out [i]your[/i] mistakes.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4fbd9dfada534911",
     "original": "Defend [c=\"Me being her successor has nothing to do with it. You know that helping me is the right thing to do.\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Defend [c=\"我是她的徒弟一事与这个案子没有关系。你知道帮助我就是正确之举。\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09f81d1\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Defend [c=\\\"Me being her successor has nothing to do with it. You know that helping me is the right thing to do.\\\" /]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fef02262c44c2e3e",
     "original": "Tyrion: Me being her successor has nothing to do with it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我是她的徒弟一事与这个案子没有关系。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0844f3f\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Tyrion: Me being her successor has nothing to do with it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6f0793ecb9529c26",
     "original": "Tyrion: You know that helping me is the right thing to do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你知道帮助我就是正确之举。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e8270b\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Tyrion: You know that helping me is the right thing to do.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6a02e71f517fa7c0",
     "original": "Orym: Don’t dodge the question![p/][s/] You want me to trust you when you can’t even give me a straight answer?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 别回避问题！[p/][s/]你连直接回答我都不敢，还想要我相信你？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08376d1\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Orym: Don’t dodge the question![p/][s/] You want me to trust you when you can’t even give me a straight answer?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8fcc2c1725f282df",
     "original": "Deflecting his claim didn’t seem to be effective this time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "迂回话题似乎在这里并不奏效。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04ca031\",\n  \"node\": \"OrymArgue3\",\n  \"text\": \"Deflecting his claim didn’t seem to be effective this time.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::04915babe2d82947",
     "original": "Orym: Look, kid.[p/] After what I’ve seen her pull in court,[p/] I’m not going to fall for it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 听着，小子。[p/]在我看到她法庭上的表现后，[p/]我才不会中招。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0783477\",\n  \"node\": \"OrymArgue4\",\n  \"text\": \"Orym: Look, kid.[p/] After what I’ve seen her pull in court,[p/] I’m not going to fall for it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fbe15c641f726524",
     "original": "Orym: No matter what,[p/] I know you’re a crooked lawyer raised by the biggest crook of them all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不管怎么说，[p/]我知道你就是头号骗子养出来的骗子律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a2eb8e\",\n  \"node\": \"OrymArgue4\",\n  \"text\": \"Orym: No matter what,[p/] I know you’re a crooked lawyer raised by the biggest crook of them all.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dd5b1d2523939582",
     "original": "Deflect [c=\"I’m just a defense attorney who’s asking you for information about the case. Nothing that I’ve done has given you any reason to suspect me.\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Deflect [c=\"我仅仅是作为本案的辩护律师向你询问案件信息。我的所作所为从没有给你怀疑我的理由。\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0916a44\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Deflect [c=\\\"I’m just a defense attorney who’s asking you for information about the case. Nothing that I’ve done has given you any reason to suspect me.\\\" /]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f89bf7a4f6638530",
     "original": "Tyrion: I’m just a defense attorney who’s asking you for information about the case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我仅仅是作为本案的辩护律师向你询问案件信息。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bda174\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Tyrion: I’m just a defense attorney who’s asking you for information about the case.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::22380261df7d3254",
     "original": "Tyrion: Nothing that I’ve done has given you any reason to suspect me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我的所作所为从没有给你怀疑我的理由。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02fcee2\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Tyrion: Nothing that I’ve done has given you any reason to suspect me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ee6591c8ef21c008",
     "original": "Rationalize [c=\"But the only thing that she taught me was how to practice law. Have you seen me engage in any crooked behavior?\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Rationalize [c=\"她只教过我法律实务。你有见过我做出任何不端行径吗？\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0178dac\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Rationalize [c=\\\"But the only thing that she taught me was how to practice law. Have you seen me engage in any crooked behavior?\\\" /]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::20d8605786618324",
     "original": "Tyrion: Her way of teaching me was ruthless,[p/] I’ll give you that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我承认她教我的方式非常无情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04cf41d\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Tyrion: Her way of teaching me was ruthless,[p/] I’ll give you that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f19a51670e763989",
     "original": "Tyrion: But the only thing that she taught me was how to practice law.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但她只教过我如何理解与运用法律。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:007ec0d\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Tyrion: But the only thing that she taught me was how to practice law.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f6989a62362942cd",
     "original": "Tyrion: Have you seen me engage in any crooked behavior?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你有见过我做出任何不端行径吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:070ce01\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Tyrion: Have you seen me engage in any crooked behavior?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6a71a8d950ae232d",
     "original": "Defend [c=\"You have no proof that she’s a “crook”, and you certainly don’t have any proof that I’m one either.\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Defend [c=\"你没有确切的证据证明她是个“骗子”，也没有任何证据证明[i]我[/i]是。\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a51284\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Defend [c=\\\"You have no proof that she’s a “crook”, and you certainly don’t have any proof that I’m one either.\\\" /]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2ca0ed42ae02c282",
     "original": "Tyrion: You’ve made accusation after accusation against her with nothing to prove it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你一次又一次毫无根据地指控她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:073a160\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Tyrion: You’ve made accusation after accusation against her with nothing to prove it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1c31054c73e67c4f",
     "original": "Tyrion: You have no proof that she’s a “crook”,[p/] and you certainly don’t have any proof that I’m one either.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你没有确切的证据证明她是个“骗子”，[p/]也显然没有任何证据证明[i]我[/i]是。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0081264\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Tyrion: You have no proof that she’s a “crook”,[p/] and you certainly don’t have any proof that I’m one either.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b009336bdbc06313",
     "original": "Orym: Like I’ve been saying,[p/] I don’t need any “proof”.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我一直在说，[p/]我不需要任何“证明”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b6cc4b\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Orym: Like I’ve been saying,[p/] I don’t need any “proof”.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0b9ddfe7b042dba1",
     "original": "Orym: I’ve seen how she works,[p/] and I know you’re both dirty.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我看到过她是怎么做到，[p/]而我知道你也同样肮脏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f66865\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"Orym: I’ve seen how she works,[p/] and I know you’re both dirty.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::30fc001a4adda80e",
     "original": "It seemed that defending Ms. Tymora would always end badly with the commander.[p/] I needed to try something else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看样子在指挥官面前维护泰摩拉女士只有坏结果。[p/]我得试试其他方针。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:098bd61\",\n  \"node\": \"OrymArgue5\",\n  \"text\": \"It seemed that defending Ms. Tymora would always end badly with the commander.[p/] I needed to try something else.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ca72c57af379878e",
     "original": "He spent some time searching for a rebuttal,[p/] but after a while,[p/] he just let out a resigned sigh.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他花了一些时间寻找反驳的论据，[p/]但过了一小会儿，[p/]他只是无奈地叹了口气。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a57493\",\n  \"node\": \"OrymArgue6\",\n  \"text\": \"He spent some time searching for a rebuttal,[p/] but after a while,[p/] he just let out a resigned sigh.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0be9e0243262d155",
     "original": "Orym: ...You just want info on the case, right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……你想要案件的信息，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08f6b1b\",\n  \"node\": \"OrymArgue6\",\n  \"text\": \"Orym: ...You just want info on the case, right?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::38cec51d2e22a7ce",
     "original": "Tyrion: Yes.[p/] That’s all I’m asking for.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是的，[p/]除此之外别无所求。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:024b058\",\n  \"node\": \"OrymArgue6\",\n  \"text\": \"Tyrion: Yes.[p/] That’s all I’m asking for.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9cb3ef8015d12899",
     "original": "Orym: ...Alright, fine.[p/] I’ll answer your questions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……行，好吧。[p/]我会回答你的问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b4a53f\",\n  \"node\": \"OrymArgue6\",\n  \"text\": \"Orym: ...Alright, fine.[p/] I’ll answer your questions.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b1bdb1621b2c9fc8",
     "original": "Orym: But you better not make me regret this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 但你最好不要让我后悔。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:065039e\",\n  \"node\": \"OrymArgue6\",\n  \"text\": \"Orym: But you better not make me regret this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3be98b914eefed6d",
     "original": "I successfully PERSUADED Orym White.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我成功<size=1.5em>说服</size>了奥蒙·怀特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03aa616\",\n  \"node\": \"OrymArgue6\",\n  \"text\": \"I successfully PERSUADED Orym White.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bf6d8e242509acf5",
     "original": "Tyrion: It's a portrait of someone.[p/] There's some text on it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 某个人物的肖像画。[p/]下面有几行字。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bf0bf2\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Tyrion: It's a portrait of someone.[p/] There's some text on it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::61dc4e960250797b",
     "original": "Tyrion: \"Adam Eveleigh:[p/] Politician of the Pedantic.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “Adam Eveleigh：[p/]迂腐的政治家。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09c3037\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Tyrion: \\\"Adam Eveleigh:[p/] Politician of the Pedantic.\\\"\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d98b614360bd7dd8",
     "original": "Orym: I've heard of this guy.[p/] He's some kind of politician from one of the nations south of here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我听说过这家伙。[p/]他是南边某个国家的政治家。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e36e96\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Orym: I've heard of this guy.[p/] He's some kind of politician from one of the nations south of here.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a39f58eb0ce0cd72",
     "original": "Orym: I heard he's pretty much a shoo-in to win whatever election they have going there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 据说无论举行怎样的选举，他都能稳操胜券。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e76879\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Orym: I heard he's pretty much a shoo-in to win whatever election they have going there.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2904731d35593e03",
     "original": "An \"election\"?[p/] Had Flinhart been studying alternate forms of government for his little \"revolution\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "\"选举\"？[p/] 弗林哈特是否在为他的小小“革命”研究其他的政府组织体系？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f75ac1\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"An \\\"election\\\"?[p/] Had Flinhart been studying alternate forms of government for his little \\\"revolution\\\"?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0d2ba466dd9f680c",
     "original": "Tyrion: It's a painting of a mage?[p/] There's some text on it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那幅画是画的一位法师吗？[p/]下面好像有字标注。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06f08e8\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Tyrion: It's a painting of a mage?[p/] There's some text on it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b4a402c489ffa32f",
     "original": "Tyrion: \"Somala Daghlian:[p/] a legendary practitioner of the Arcane Arts.[p/] He mysteriously disappeared one day.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “Somala Daghlian：[p/]传奇奥术实践者。[p/]他突然有一天人间蒸发了。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00ce5a2\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Tyrion: \\\"Somala Daghlian:[p/] a legendary practitioner of the Arcane Arts.[p/] He mysteriously disappeared one day.\\\"\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8536d78b7d408f1b",
     "original": "Tyrion: \"It's rumored that he was developing a formula for a new [b]transmutation[/b] spell.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “据说他失踪前正研究着一种新的[b]形变术[/b]范式。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093fafa\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Tyrion: \\\"It's rumored that he was developing a formula for a new [b]transmutation[/b] spell.\\\"\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ed9a7e53fd41e8da",
     "original": "Tyrion: \"Daghlian was reckless in casting the spell,[p/] however,[p/] and he quickly lost control of it.[p/] His body was never found.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “然而，[p/]Daghlian施法时太鲁莽了。[p/]很快失去了对魔法的控制。[p/]他的尸首不知所踪。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c602ab\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Tyrion: \\\"Daghlian was reckless in casting the spell,[p/] however,[p/] and he quickly lost control of it.[p/] His body was never found.\\\"\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ff5eee404e26fd62",
     "original": "Tyrion: “Many speculate that he didn't die during the accident,[p/] but if that were true,[p/] where did the spell take him?\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “许多人怀疑他从事故中逃过一劫。[p/]可如果那是真的，[p/]他去哪儿了呢？”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0660733\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Tyrion: “Many speculate that he didn't die during the accident,[p/] but if that were true,[p/] where did the spell take him?\\\"\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0a6993bceb5c2884",
     "original": "Orym: Hmph...[p/] Sounds like a cautionary tale against using magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 嗯……[p/]听起来像是预防滥用魔法的小故事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ee3cd0\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Orym: Hmph...[p/] Sounds like a cautionary tale against using magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::944df8ed9052c160",
     "original": "...That might have explained why Flinhart kept it in his tavern.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……这或许就是弗林哈特在酒馆挂着它的原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0625f7f\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"...That might have explained why Flinhart kept it in his tavern.\"\n}"
   },
   {
@@ -15206,8 +15206,8 @@
   {
     "key": "C1 Dialogue.csv::translation::8d3a278e4c60d26d",
     "original": "There were candles on each of the tables in the dining area,[p/] but there were also lamps mounted on the walls.",
-    "translation": "",
-    "stage": 0,
+    "translation": "餐厅里每张桌子上都有蜡烛，[p/]但墙上也装有灯具。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b33b19\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"There were candles on each of the tables in the dining area,[p/] but there were also lamps mounted on the walls.\"\n}"
   },
   {
