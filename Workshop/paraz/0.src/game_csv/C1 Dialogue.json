@@ -15213,15 +15213,15 @@
   {
     "key": "C1 Dialogue.csv::translation::b90dc74c6bfe670c",
     "original": ":On closer inspection,[p/] they appeared to be artificery:[p/] machines that could reproduce the effects of magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": ":仔细查看，[p/]这些灯是奥术能源装置：[p/]即可以复现法术效果的装置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:046b0f9\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \":On closer inspection,[p/] they appeared to be artificery:[p/] machines that could reproduce the effects of magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c6227bd4fe528914",
     "original": "Why wasn’t the Inquisition using those instead?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么裁判所不用这种灯呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b06d80\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Why wasn’t the Inquisition using those instead?\"\n}"
   },
   {
@@ -15234,29 +15234,29 @@
   {
     "key": "C1 Dialogue.csv::translation::87316619dda456f0",
     "original": "There was a chalk outline on the ground of the tavern,[p/] creating a rough silhouette of Flinhart’s body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "酒馆的地上有粉笔画出的形状，[p/]勾勒出弗林哈特尸体的大致轮廓。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05f2618\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"There was a chalk outline on the ground of the tavern,[p/] creating a rough silhouette of Flinhart’s body.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ef45e2dcf199e905",
     "original": "The chalk lines matched the crime scene photo in my Runestone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "粉笔线与我符石里的案发现场照片相符。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ffd13b\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"The chalk lines matched the crime scene photo in my Runestone.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5cf958788bbda204",
     "original": "I noticed the traces of transmutation magic on the ground in the photo.[p/] I traced my finger over the areas where they had been detected.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我注意到照片里地板上有形变术的痕迹。[p/]我伸出手指描摹被探测出痕迹的地面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d4ffa2\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"I noticed the traces of transmutation magic on the ground in the photo.[p/] I traced my finger over the areas where they had been detected.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::477fb15d5c08107f",
     "original": "The texture was rougher and almost sticky.[p/] Did someone use transmutation magic to alter the floor?",
-    "translation": "",
-    "stage": 0,
+    "translation": "那一部分的地面感觉更粗糙，还有点黏黏的。[p/]是形变术让地板发生了变化吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b846ee\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"The texture was rougher and almost sticky.[p/] Did someone use transmutation magic to alter the floor?\"\n}"
   },
   {
@@ -15269,22 +15269,22 @@
   {
     "key": "C1 Dialogue.csv::translation::daa14e2f8750ebc2",
     "original": "Shards of a broken bottle were next to the chalk outline.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在粉笔线旁边有一些瓶子的碎片。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0941b11\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Shards of a broken bottle were next to the chalk outline.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fa1ea4cbb66999f1",
     "original": "Tyrion: This shard has a label on it.[p/] It says “Lotus Juice”...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这个碎片上还有商标。[p/]上面写着“莲之水”……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bbe2a5\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Tyrion: This shard has a label on it.[p/] It says “Lotus Juice”...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0beb2037b11f5642",
     "original": "Orym: I’ve never heard of that brand before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我从来没听说过这个牌子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:087e3a3\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Orym: I’ve never heard of that brand before.\"\n}"
   },
   {
@@ -15297,582 +15297,582 @@
   {
     "key": "C1 Dialogue.csv::translation::75edc3c826142826",
     "original": "There was a lamp mounted on the wall.[p/] It seemed to be built into the tavern.",
-    "translation": "",
-    "stage": 0,
+    "translation": "墙上安装着灯具。[p/]看起来与酒馆融为一体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fa0d3d\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"There was a lamp mounted on the wall.[p/] It seemed to be built into the tavern.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::71a31479a6788c6f",
     "original": "Tyrion: Is this an artificery machine?[p/] I didn’t expect to find something this sophisticated in a town like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这是奥术能源装置吗？[p/]没想到在这样的村子里有这么精巧的设施。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f4e424\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Tyrion: Is this an artificery machine?[p/] I didn’t expect to find something this sophisticated in a town like this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d69b9ed28af0c735",
     "original": "Orym: Bah![p/] “Artificery” is just magic with a different name...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 呸！[p/] “奥术能源”不过就是换了个名字的魔法……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c376b2\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Orym: Bah![p/] “Artificery” is just magic with a different name...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3832e0cc8df0dfff",
     "original": "Tyrion: Actually,[p/] these machines draw aether from surrounding ley lines to—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 事实上，[p/]这些装置沿着能脉从四周抽取以太——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ced191\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Tyrion: Actually,[p/] these machines draw aether from surrounding ley lines to—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::77b6fecbde1dcdf0",
     "original": "Orym: I didn’t ask for a science lesson.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我可没让你给我上科学课。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e79c93\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Orym: I didn’t ask for a science lesson.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d9ac488c15984e2f",
     "original": "Orym: Anyways,[p/] look where artificery got these folks.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不管怎么样，[p/]看看奥术能源给这些人带来的“便利”吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03d8e60\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Orym: Anyways,[p/] look where artificery got these folks.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::278bde47f65bc85a",
     "original": "Orym: The energy cell broke,[p/] and they haven’t had any power for weeks.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 这个奥术储能单元已经坏了，[p/]他们好几周没有能源了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0483785\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Orym: The energy cell broke,[p/] and they haven’t had any power for weeks.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::317a91992ddd7653",
     "original": "Orym: Just goes to show that nothing can beat good old oil and flame.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 只能说没什么能比过经典的灯油与火组合。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d25e51\",\n  \"node\": \"Tavern_Examine\",\n  \"text\": \"Orym: Just goes to show that nothing can beat good old oil and flame.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d460a1506e3ff207",
     "original": "Help (Argument)",
-    "translation": "",
-    "stage": 0,
+    "translation": "帮助(辩论)",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04c604b\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Help (Argument)\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9a1fc1731f624d1f",
     "original": "Questions",
-    "translation": "",
-    "stage": 0,
+    "translation": "问题",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0302533\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Questions\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::68b06a012d3014a8",
     "original": "Tyrion: Commander White,[p/] I was wondering if I could ask you some questions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 怀特指挥官，[p/]不知是否方便问你几个问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:055995c\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: Commander White,[p/] I was wondering if I could ask you some questions.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::11ba78fff895a63a",
     "original": "Orym: Ha![p/] You seriously think I’m going to help you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 哈！[p/]你真觉得我会帮你？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d59bae\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Ha![p/] You seriously think I’m going to help you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ffc57f59d46193ba",
     "original": "Orym: I know who your boss is,[p/] and I know what you’re up to. [h=\"She probably sent you here to con me.\" e=\"af\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我知道你老大是谁，[p/]你打算做什么我也心知肚明。[h=\"她大概就是安排你来套我话的。\" e=\"af\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:001c519\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: I know who your boss is,[p/] and I know what you’re up to. [h=\\\"She probably sent you here to con me.\\\" e=\\\"af\\\" /]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::560032f6615206c6",
     "original": "Tyrion: ...I just need information about the crime scene,[p/] as is my right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我只是需要案件的一些信息。[p/]这是我的权利。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0982ce1\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: ...I just need information about the crime scene,[p/] as is my right.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e0d86a3eb3e3d296",
     "original": "Orym: Yeah...[p/] Sure you do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 好吧……[p/]你确实有。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dfa665\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Yeah...[p/] Sure you do.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::55284318fc320b19",
     "original": "At first,[p/] I thought that he was just another corrupt knight,[p/] but this felt oddly personal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "最初，[p/]我觉得他只是有一个腐败的骑士。[p/]但感觉他只是有私人恩怨。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0420fb9\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"At first,[p/] I thought that he was just another corrupt knight,[p/] but this felt oddly personal.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c44ab0adbb0e43ca",
     "original": "I wondered if this could all just be a misunderstanding.[p/] I might be able to PERSUADE him to cooperate with me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我猜测可能只是有污秽，[p/]或许能够说服他并让他与我合作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:050c517\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"I wondered if this could all just be a misunderstanding.[p/] I might be able to PERSUADE him to cooperate with me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::400ee754653bd838",
     "original": "The Inquisition",
-    "translation": "",
-    "stage": 0,
+    "translation": "奥术裁判所",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0082b95\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"The Inquisition\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c7e7a00bc988d29b",
     "original": "Tyrion: So, what does the Arcane Inquisition do exactly?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 所以奥术裁判所到底是做什么的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0365de1\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: So, what does the Arcane Inquisition do exactly?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7ce6323d2d249ef3",
     "original": "Orym: ...You trying to pick a fight with me?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……你是来挑事的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d967ce\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: ...You trying to pick a fight with me?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::84a172334d7f6049",
     "original": "Tyrion: No.[p/] I’m genuinely curious.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 没有。[p/]我真的很想知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f23979\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: No.[p/] I’m genuinely curious.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cfc340a4bf370220",
     "original": "Orym: Well, we’re called in whenever they find traces of magic at a crime scene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 好吧，只要在案发现场发现法术痕迹，我们就会被通知加入。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:048ba21\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Well, we’re called in whenever they find traces of magic at a crime scene.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ec2049376a5ddaf9",
     "original": "Tyrion: Do crimes like this happen often?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 像这样的刑事案件经常发生吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07442d7\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: Do crimes like this happen often?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8efc5b2702fa03dd",
     "original": "Orym: Nah...[p/] Maybe once in a blue moon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不……[p/]两三年能有一次吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04c0318\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Nah...[p/] Maybe once in a blue moon.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9d2cbf315cf82e18",
     "original": "It made sense.[p/] Most mages were in the nobility after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这说得通。[p/]毕竟绝大多数法师都是贵族。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:005dd86\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"It made sense.[p/] Most mages were in the nobility after all.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::07886e7f4002f864",
     "original": "The ones who made a habit of falling into scandals didn't last very long.",
-    "translation": "",
-    "stage": 0,
+    "translation": "个别老是卷入丑闻的贵族本来也没法长久活跃。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03ad4db\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"The ones who made a habit of falling into scandals didn't last very long.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a10479b1891abd94",
     "original": "Tyrion: You must have an easy job, then.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那你工作还蛮轻松的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:085b467\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: You must have an easy job, then.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4289f2409aab4905",
     "original": "Orym: ...You got that right. [h=\"That's the only reason we exist|—to clean up the nobility’s messes.\" e=\"as\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……那倒没错。[h=\"我们还存在的唯一原因|——就是打扫贵族留下的烂摊子。\" e=\"as\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:006c504\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: ...You got that right. [h=\\\"That's the only reason we exist|—to clean up the nobility’s messes.\\\" e=\\\"as\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::163a0297e15d840b",
     "original": "He didn’t seem very happy about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看起来他并不因此高兴。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fb7d85\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"He didn’t seem very happy about that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4b8f9c9ea779350e",
     "original": "Mages",
-    "translation": "",
-    "stage": 0,
+    "translation": "法师",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04f5384\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Mages\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bc1d7b111c40d35a",
     "original": "Tyrion: You seem to speak negatively about magic.[p/] Do you have a personal grudge against mages?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 看起来你提到法术时都没什么好话。[p/]你与某些法师有什么恩怨吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02b85d4\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: You seem to speak negatively about magic.[p/] Do you have a personal grudge against mages?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8cebe018b842b7d3",
     "original": "Orym: Hmph...[p/] It ain't a grudge.[p/] It's just common sense.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 哼……[p/]这不是个人恩怨。[p/]这只是共识。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06f771d\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Hmph...[p/] It ain't a grudge.[p/] It's just common sense.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b0d81f07c1cb3b58",
     "original": "Orym: All it takes is one spell.[p/] Some rich kid just needs to wave their hands and mutter some magical nonsense.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 只需要一个法术。[p/]有些富家小子只需大手一挥，念几句莫名其妙的咒语。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:015aebf\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: All it takes is one spell.[p/] Some rich kid just needs to wave their hands and mutter some magical nonsense.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9a6d9af80e5dfc07",
     "original": "Orym: Then the next thing you know, someone’s dead on the ground.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你知道的，下一秒就有人倒地死去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:074fbaa\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Then the next thing you know, someone’s dead on the ground.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9dffee71517585f9",
     "original": "Orym: Not to mention,[p/] if some bonehead [i]really[/i] overuses their magic,[p/] they end up snapping and going on a rampage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 更不用说，[p/]要是哪个傻瓜[i]真的[/i]施法过度，[p/]最后就会失控暴走。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:018017e\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Not to mention,[p/] if some bonehead [i]really[/i] overuses their magic,[p/] they end up snapping and going on a rampage.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fb72a3423f2e2ebd",
     "original": "Tyrion: Are you talking about Mageblight?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你是在说法师之疫？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d08447\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: Are you talking about Mageblight?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6904ea60399a3f03",
     "original": "Orym: Yep.[p/] It's what happens when a mage gets too arrogant,[p/] and nobles have that in spades.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 没错。[p/]当法师太傲慢的时候就会发生，[p/]贵族们对此更是深有体会。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f73119\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Yep.[p/] It's what happens when a mage gets too arrogant,[p/] and nobles have that in spades.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3192853f1b51fc19",
     "original": "Tyrion: I don't know if this is going too far,[p/] but why would you join the Inquisition if you hate mages so much?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我这么说可能僭越了，[p/]你这么憎恨法师，为什么还加入了裁判所呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07e6aa0\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: I don't know if this is going too far,[p/] but why would you join the Inquisition if you hate mages so much?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::80dbad5b28229f74",
     "original": "Tyrion: Considering the fact that—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 考虑到——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b0ae6f\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: Considering the fact that—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d071bd246b442809",
     "original": "Orym: My [i]“job”[/i] is to sweep the nobility’s crimes under the rug?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 考虑到我的“[i]工作[/i]”只是为了包庇犯罪的贵族？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01a27fa\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: My [i]“job”[/i] is to sweep the nobility’s crimes under the rug?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::acd3da59b442d2c1",
     "original": "Tyrion: ...I didn’t mean to insinuate—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我并非有意影射——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0084c16\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: ...I didn’t mean to insinuate—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1588f7d0bae205a9",
     "original": "Orym: Nope.[p/] You have the right of it.[p/] Anytime a noble screws up,[p/] I’m told to look the other way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 没事。[p/]你有这么说的权利。[p/]每当一个贵族搞砸了，[p/]我就被要求放过他们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:091c9dd\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Nope.[p/] You have the right of it.[p/] Anytime a noble screws up,[p/] I’m told to look the other way.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::55787bed78e67d1b",
     "original": "Orym: ...But every once in a while,[p/] I’m allowed to put a criminal mage behind bars.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……但少数时候，[p/]我会被允许把一个有罪的法师关进去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fa50ae\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: ...But every once in a while,[p/] I’m allowed to put a criminal mage behind bars.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2fa051c887e3f3bd",
     "original": "Orym: We can’t go after the nobles,[p/] but any other mage is fair game.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我们没办法追究贵族的过错，[p/]但其他法师就另当别论了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:080484d\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: We can’t go after the nobles,[p/] but any other mage is fair game.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::30fb5a771d0b2a4e",
     "original": "Orym: Or at least,[p/] they were before your boss showed up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 至少，[p/]在你老大出现前是这么回事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01308cb\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Or at least,[p/] they were before your boss showed up.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::476c1f36665c7b37",
     "original": "My “boss”?[p/] Did he have something against what Ms. Tymora was doing?",
-    "translation": "",
-    "stage": 0,
+    "translation": "我的“老大”？[p/]他对泰摩拉女士的行为有不满吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0898a69\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"My “boss”?[p/] Did he have something against what Ms. Tymora was doing?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::222bd55428b8fd21",
     "original": "Ruby Tymora",
-    "translation": "",
-    "stage": 0,
+    "translation": "鲁比·泰摩拉",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fe0c21\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Ruby Tymora\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6347817c10ec9129",
     "original": "Murder Weapon",
-    "translation": "",
-    "stage": 0,
+    "translation": "凶器",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03cd2c0\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Murder Weapon\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ece8fdf343f188c7",
     "original": "Tyrion: I’m not entirely sure that the sword was the real murder weapon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我不完全确定那把剑是否为真正的凶器。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d8a088\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: I’m not entirely sure that the sword was the real murder weapon.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::25b22935fc0960c9",
     "original": "Orym: Right...[p/] I guess you want to prove that someone else stuck the sword in the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 是的……[p/]我猜你是想证明另有他人把那把剑插入了尸体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05ea2f8\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Right...[p/] I guess you want to prove that someone else stuck the sword in the body.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::99b0a8ef226083c3",
     "original": "Tyrion: Did the Inquisition find anything suspicious on the scene?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 裁判所有在现场找到了什么可疑的物品吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04355f9\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: Did the Inquisition find anything suspicious on the scene?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3261a5f920c736a3",
     "original": "Orym: If you’re asking if we found another bloody weapon lying around,[p/] we didn’t.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 如果你问是否找到了另一把沾血的凶器，[p/]那没有。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b3b70f\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: If you’re asking if we found another bloody weapon lying around,[p/] we didn’t.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::893d2a1673d0b3a2",
     "original": "That would’ve been a little too convenient, wouldn’t it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "要有的话也太凑巧了，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05185c2\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"That would’ve been a little too convenient, wouldn’t it?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7ab86ee26d619617",
     "original": "Orym: If there [i]was[/i] another murder weapon,[p/] the killer probably walked out with it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 就算[i]有[/i]另一把凶器，[p/]也肯定被凶手带走了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04339d1\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: If there [i]was[/i] another murder weapon,[p/] the killer probably walked out with it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c0560482cbe73c94",
     "original": "Tyrion: Do you think they could have hidden it somewhere in the tavern?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你认为有藏在酒馆的可能性吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:007d3c3\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: Do you think they could have hidden it somewhere in the tavern?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f6fcfcea340cd4c4",
     "original": "Orym: Doubt it.[p/] After the trial,[p/] Steelwind turned the place upside-down and scanned it with her magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不太可能。[p/]庭审过后，[p/]斯蒂尔文德用她的探测魔法把这儿翻了个底朝天。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ac2a02\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Doubt it.[p/] After the trial,[p/] Steelwind turned the place upside-down and scanned it with her magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bcfddaa7e20a19cf",
     "original": "Orym: If there was something hidden here,[p/] we would’ve found it already.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 如果这里真藏了什么东西，[p/]肯定早被我们找到了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04f33db\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: If there was something hidden here,[p/] we would’ve found it already.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::02fcc55325e942f5",
     "original": "Orym's Mistake",
-    "translation": "",
-    "stage": 0,
+    "translation": "奥蒙的失误",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082ce79\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym's Mistake\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2c97ef26fd41fdd4",
     "original": "Tyrion: I can’t believe you overlooked something so obvious.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不敢相信你看漏了那么明显的问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e1bf0c\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: I can’t believe you overlooked something so obvious.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fb142989a8380cac",
     "original": "Orym: Oh, shut it with that.[p/] I already got an earful about that mess from Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 唔啊，快别提了。[p/]我的耳朵早就因为这事儿被斯蒂尔文德训出茧子了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:002b985\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Oh, shut it with that.[p/] I already got an earful about that mess from Steelwind.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::08d9144d1d643cd4",
     "original": "Orym: Well, you don’t have to worry about me screwing things up.[p/] Steelwind’s taken over the entire investigation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不过呢，你也不用再担心我把事情搞砸了。[p/]斯蒂尔文德接管了整个调查活动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c2831e\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Well, you don’t have to worry about me screwing things up.[p/] Steelwind’s taken over the entire investigation.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eb821d1eabf0391b",
     "original": "Tyrion: ...Do prosecutors normally do that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……检察官们通常会这么做吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cb994c\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: ...Do prosecutors normally do that?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::be2a9d612660f707",
     "original": "Orym: Nope,[p/] but she ain’t no prosecutor.[p/] She’s a Steelwind.[p/] I know better than to go against orders from her sort.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不会，[p/]但她又不只是检察官。[p/]她可是斯蒂尔文德家的人。[p/] 我还不至于傻到违抗她那种人的命令。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:025f3b6\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Nope,[p/] but she ain’t no prosecutor.[p/] She’s a Steelwind.[p/] I know better than to go against orders from her sort.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::33ad723e7d719ad2",
     "original": "Orym: [i]*sigh*[/i] I know we made a mistake,[p/] but she’s taking this too far.[p/] She even had my men draft a map of the crime scene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: [i]*叹气*[/i]我知道自己犯了错，[p/]但她反应太过了。[p/] 她甚至让我的手下绘制了案发现场的地图。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fd0cc6\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: [i]*sigh*[/i] I know we made a mistake,[p/] but she’s taking this too far.[p/] She even had my men draft a map of the crime scene.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3221f635dd56d5c0",
     "original": "Tyrion: Really?[p/] Could I see it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 真的？[p/]能给我看下吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0049f5e\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Tyrion: Really?[p/] Could I see it?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ba35d7d8bc8df66d",
     "original": "Orym: Knock yourself out.[p/] I have a bunch of copies.[p/] Don’t know how much good it’ll do you, though.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 拿去。[p/]我有好几份。[p/]虽然不知道对你有多少好处。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e6223e\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Orym: Knock yourself out.[p/] I have a bunch of copies.[p/] Don’t know how much good it’ll do you, though.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a3812bdb2a81042f",
     "original": "Aria Steelwind",
-    "translation": "",
-    "stage": 0,
+    "translation": "阿莉亚·斯蒂尔文德",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bfecef\",\n  \"node\": \"Tavern_Talk\",\n  \"text\": \"Aria Steelwind\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e0aefcf310f3cd55",
     "original": "Tyrion: I have to ask...[p/] Did something happen between you and Ms. Tymora?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我不得不问……[p/]你和泰摩拉女士以前发生过什么吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0802b63\",\n  \"node\": \"OrymRubyTalk\",\n  \"text\": \"Tyrion: I have to ask...[p/] Did something happen between you and Ms. Tymora?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3ac28e6ca791f709",
     "original": "Orym: Hah![p/][s/] “[i]Ms.[/i] Tymora”.[p/] You really are her lackey, through and through.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 哈！[p/][s/] “泰摩拉[i]女士[/i]”。[p/]你从头到脚都真是她的好仆人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00f221d\",\n  \"node\": \"OrymRubyTalk\",\n  \"text\": \"Orym: Hah![p/][s/] “[i]Ms.[/i] Tymora”.[p/] You really are her lackey, through and through.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f801adfb786038fc",
     "original": "Tyrion: ...She's my legal guardian.[p/] I owe a lot to her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……她是我的法定监护人，[p/]我也亏欠她许多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04ade9f\",\n  \"node\": \"OrymRubyTalk\",\n  \"text\": \"Tyrion: ...She's my legal guardian.[p/] I owe a lot to her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b33bddc223eaab22",
     "original": "Orym: ...Oh.[p/] [i]That's[/i] who you were this whole time?[p/] I didn’t even know she had a kid...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……噢。[p/]原来你一直是[i]这[/i]个身份？[p/]我还真不知道她还有个孩子……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d25a77\",\n  \"node\": \"OrymRubyTalk\",\n  \"text\": \"Orym: ...Oh.[p/] [i]That's[/i] who you were this whole time?[p/] I didn’t even know she had a kid...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2b8079b9bfad86d1",
     "original": "Orym: Look,[p/] I don’t know what she’s told you,[p/] but she ain’t the hero you think she is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 听着，[p/]我不知道她是怎么跟你说的，[p/]但她决不是你想的那种英雄人物。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c35e7\",\n  \"node\": \"OrymRubyTalk\",\n  \"text\": \"Orym: Look,[p/] I don’t know what she’s told you,[p/] but she ain’t the hero you think she is.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::808105b83c47e8e4",
     "original": "Tyrion: ...This is about the rumors, isn’t it?[p/] They're just lies spread by the nobility to discredit her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……那都只是传闻而已，不是吗？[p/]只是贵族们散播出来诋毁她的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d11bb8\",\n  \"node\": \"OrymRubyTalk\",\n  \"text\": \"Tyrion: ...This is about the rumors, isn’t it?[p/] They're just lies spread by the nobility to discredit her.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1f5a2e975c676b4f",
     "original": "Orym: They ain’t lies, kid.[p/] I’ve seen it for myself.[p/] That woman's a criminal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 那些不是谣言，小子。[p/]我亲眼见证过。[p/]那女人是个罪犯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0606f9c\",\n  \"node\": \"OrymRubyTalk\",\n  \"text\": \"Orym: They ain’t lies, kid.[p/] I’ve seen it for myself.[p/] That woman's a criminal.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1d9078cef3a989ce",
     "original": "My hand clenched into a fist before I calmed myself down.[p/] This wasn’t the time for emotion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在我冷静下来[之前，自己双拳早已攥紧。[p/]但现在不是意气用事的场合。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04e6973\",\n  \"node\": \"OrymRubyTalk\",\n  \"text\": \"My hand clenched into a fist before I calmed myself down.[p/] This wasn’t the time for emotion.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::428b75b322996742",
     "original": "Tyrion: ...She defends mages who don’t have the protection of the nobility.[p/] She hates the aristocracy just as much as you do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……她为不受贵族庇护的法师辩护，[p/]她对贵族们的恨意与你一样强烈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f3fa89\",\n  \"node\": \"OrymRubyTalk\",\n  \"text\": \"Tyrion: ...She defends mages who don’t have the protection of the nobility.[p/] She hates the aristocracy just as much as you do.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ca1c92733d061497",
     "original": "Orym: Yeah,[p/] whatever...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 行吧，[p/]随便你……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:038fa4c\",\n  \"node\": \"OrymRubyTalk\",\n  \"text\": \"Orym: Yeah,[p/] whatever...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fc6cd06820840d77",
     "original": "Tyrion: I heard that this was Prosecutor Steelwind’s first trial.[p/] She must be pretty talented if that’s true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我听说这是检察官斯蒂尔文德第一次出庭。[p/]如果真是如此，那她很有天赋。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07c531c\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Tyrion: I heard that this was Prosecutor Steelwind’s first trial.[p/] She must be pretty talented if that’s true.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a000e5dbab80b0f5",
     "original": "Orym: A pain in my ass is what she is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 她的天赋是折磨我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03cc8ba\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Orym: A pain in my ass is what she is.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3d4b6f9c6b7ae636",
     "original": "Orym: That damn noble comes in here,[p/] telling me how to do [i]my[/i] job?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 那个该死的贵族跑过来，[p/]教[i]我[/i]怎么干好[i]我的[/i]工作？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:048e1a6\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Orym: That damn noble comes in here,[p/] telling me how to do [i]my[/i] job?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::52fd0afccb626b58",
     "original": "Orym: Lord knows what she's even doing here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 只有上天知道她还要在这里做什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02e247b\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Orym: Lord knows what she's even doing here.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::83508cfc8a79eabb",
     "original": "Tyrion: ...Do you think she's here on behalf of her father?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你觉得她是代表他父亲来的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09cda8c\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Tyrion: ...Do you think she's here on behalf of her father?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d78e0a6c868ad94a",
     "original": "Orym: [i]*sigh*[/i][p/] I honestly don't know.[p/] My men are on edge 'cause of that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: [i]*叹气*[/i][p/]老实说我不知道。[p/]我底下的人因此都紧张不安。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00bfd8a\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Orym: [i]*sigh*[/i][p/] I honestly don't know.[p/] My men are on edge 'cause of that.\"\n}"
   },
   {
