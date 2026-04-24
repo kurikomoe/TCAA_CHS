@@ -13862,13 +13862,13 @@
   {
     "key": "C1 Dialogue.csv::translation::b115c4f0899ff7b8",
     "original": "Orym: Did you know that this map is [i]scaled[/i]?[p/] It's got a legend and everything.",
-    "translation": "",
+    "translation": "Orym: 你知道这地图是按[i]比例[/i]绘制的吗？[p/]连图例之类的都有。",
     "context": "{\n  \"id\": \"line:078519a\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: Did you know that this map is [i]scaled[/i]?[p/] It's got a legend and everything.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3a4ae55ab4501992",
     "original": "The Inquisition’s mistake must have really bothered her.[p/] Is she worried about her reputation?",
-    "translation": "",
+    "translation": "裁判所的疏失显然烦透了她。[p/]她是担心自己的声誉吗？",
     "context": "{\n  \"id\": \"line:00c13bf\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"The Inquisition’s mistake must have really bothered her.[p/] Is she worried about her reputation?\"\n}"
   },
   {
@@ -13880,19 +13880,19 @@
   {
     "key": "C1 Dialogue.csv::translation::e2216ea9eedc4ded",
     "original": "Tyrion: This place has been without power for about a week.",
-    "translation": "",
+    "translation": "Tyrion: 这儿已经一周没能源了。",
     "context": "{\n  \"id\": \"line:0cb8607\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: This place has been without power for about a week.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::155be69bc8d36af7",
     "original": "Orym: They've been using candles to keep the place lit.",
-    "translation": "",
+    "translation": "Orym: 他们一直用蜡烛来照明。",
     "context": "{\n  \"id\": \"line:08c3a49\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: They've been using candles to keep the place lit.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::48f221d8335cc5b8",
     "original": "Orym: This is exactly why you can't rely on magic.",
-    "translation": "",
+    "translation": "Orym: 这正是不能依靠魔法的实例。",
     "context": "{\n  \"id\": \"line:064a610\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: This is exactly why you can't rely on magic.\"\n}"
   },
   {
@@ -13904,91 +13904,91 @@
   {
     "key": "C1 Dialogue.csv::translation::cb9c012378ba7ec2",
     "original": "Tyrion: I wonder what \"Lotus Juice\" is...",
-    "translation": "",
+    "translation": "Tyrion: 这“莲之水”到底是……",
     "context": "{\n  \"id\": \"line:09b0208\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: I wonder what \\\"Lotus Juice\\\" is...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7a054d86697d85fb",
     "original": "Orym: It's not any drink that I've heard of.[p/] It must be some kind of foreign brand.",
-    "translation": "",
+    "translation": "Orym: 我从没听过叫这个名字的饮料。[p/]肯定是什么外国品牌。",
     "context": "{\n  \"id\": \"line:01b94da\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: It's not any drink that I've heard of.[p/] It must be some kind of foreign brand.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7c2e3de8351e7561",
     "original": "Orym: I wonder how they got their hands on something like this.",
-    "translation": "",
+    "translation": "Orym: 我很好奇他们怎么搞到手的。",
     "context": "{\n  \"id\": \"line:0e8a180\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: I wonder how they got their hands on something like this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2b325c63297f1689",
     "original": "Tyrion: What do you think about this?",
-    "translation": "",
+    "translation": "Tyrion: 你对这个怎么看？",
     "context": "{\n  \"id\": \"line:00e16ed\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: What do you think about this?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bd73a4cb961207eb",
     "original": "Orym: Uh...[p/] I don't know what you're expecting me to say.",
-    "translation": "",
+    "translation": "Orym: 呃……[p/]我不知道你想要什么回答。",
     "context": "{\n  \"id\": \"line:026171a\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: Uh...[p/] I don't know what you're expecting me to say.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8d3196ff9377c89e",
     "original": "...It'd be best to try something else.",
-    "translation": "",
+    "translation": "……最好问问别的。",
     "context": "{\n  \"id\": \"line:02a8e74\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"...It'd be best to try something else.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5e6d82f4109dafd0",
     "original": "I’d found everything that I could in the dining area,[p/] but what did it all mean?",
-    "translation": "",
+    "translation": "我已经在餐厅里发现了所有可能的线索，[p/]但这些究竟有什么样的意义？",
     "context": "{\n  \"id\": \"line:0373fa3\",\n  \"node\": \"TavernDeduce\",\n  \"text\": \"I’d found everything that I could in the dining area,[p/] but what did it all mean?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ad5f4da983a22f17",
     "original": "No other murder weapon was found,[p/] and there wasn’t any evidence of another person at the scene either...",
-    "translation": "",
+    "translation": "没有找到其他凶器，[p/]而且也没有任何第三者在场的证据……",
     "context": "{\n  \"id\": \"line:0e8041f\",\n  \"node\": \"TavernDeduce\",\n  \"text\": \"No other murder weapon was found,[p/] and there wasn’t any evidence of another person at the scene either...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b4a5183e07f0773e",
     "original": "I only knew about the anonymous witness who discovered the body.",
-    "translation": "",
+    "translation": "我只知道有一个匿名目击者发现了尸体。",
     "context": "{\n  \"id\": \"line:0de0364\",\n  \"node\": \"TavernDeduce\",\n  \"text\": \"I only knew about the anonymous witness who discovered the body.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3d9c628880d2ed60",
     "original": "Orym: Hey...[p/] You okay, kid?",
-    "translation": "",
+    "translation": "Orym: 嘿……[p/]你还好不，小子？",
     "context": "{\n  \"id\": \"line:09f3df7\",\n  \"node\": \"TavernDeduce\",\n  \"text\": \"Orym: Hey...[p/] You okay, kid?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2b386ad64adb50ee",
     "original": "Once again,[p/] I let everything else disappear from the world.",
-    "translation": "",
+    "translation": "又一次，[p/]我将所有外物摒除在思考之外。",
     "context": "{\n  \"id\": \"line:0e2bcfe\",\n  \"node\": \"TavernDeduce\",\n  \"text\": \"Once again,[p/] I let everything else disappear from the world.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5b563afe68a763e4",
     "original": "Orym: ...You listening?",
-    "translation": "",
+    "translation": "Orym: ……你有在听吗？",
     "context": "{\n  \"id\": \"line:00c34ab\",\n  \"node\": \"TavernDeduce\",\n  \"text\": \"Orym: ...You listening?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7bcccab2ac9d38b3",
     "original": "Tyrion: There’s no clear evidence pointing to another killer.[p/] There is,[p/] however,[p/] evidence pointing to whether or not Flinhart moved when he was attacked.",
-    "translation": "",
+    "translation": "Tyrion: 没有指向另一个凶手的显著证据。[p/]然而，[p/]这里有[p/]指明弗林哈特在被袭击时是否有移动的证据。",
     "context": "{\n  \"id\": \"line:0eed854\",\n  \"node\": \"TavernDeduce\",\n  \"text\": \"Tyrion: There’s no clear evidence pointing to another killer.[p/] There is,[p/] however,[p/] evidence pointing to whether or not Flinhart moved when he was attacked.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5391eb3401e781dd",
     "original": "Tyrion: There’s no blood trail leading to or from the body.",
-    "translation": "",
+    "translation": "Tyrion: 没有与尸体连接的血痕。",
     "context": "{\n  \"id\": \"line:0dc2577\",\n  \"node\": \"TavernDeduce\",\n  \"text\": \"Tyrion: There’s no blood trail leading to or from the body.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0b88825a950f3079",
     "original": "Tyrion: That fact implies something about the location of Flinhart's death.",
-    "translation": "",
+    "translation": "Tyrion: 这个事实只除了弗林哈特确切的死亡位置。",
     "context": "{\n  \"id\": \"line:051a12a\",\n  \"node\": \"TavernDeduce\",\n  \"text\": \"Tyrion: That fact implies something about the location of Flinhart's death.\"\n}"
   },
   {
@@ -14006,397 +14006,397 @@
   {
     "key": "C1 Dialogue.csv::translation::10fd26b03ca4fc4e",
     "original": "No...[p/] I didn't see a blood trail leading from Flinhart's body.[p/] That told me something important.",
-    "translation": "",
+    "translation": "不对……[p/]我没看到有从弗林哈特尸体延伸出来的血迹。[p/]这告诉我一件重要的事情。",
     "context": "{\n  \"id\": \"line:03d4859\",\n  \"node\": \"TavernDeduce1\",\n  \"text\": \"No...[p/] I didn't see a blood trail leading from Flinhart's body.[p/] That told me something important.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::97400ffbab2558a9",
     "original": "Namely,[p/] where Flinhart was throughout the murder.",
-    "translation": "",
+    "translation": "准确的说，[p/]就是弗林哈特在被杀害过程中究竟在什么位置。",
     "context": "{\n  \"id\": \"line:03b4c9e\",\n  \"node\": \"TavernDeduce1\",\n  \"text\": \"Namely,[p/] where Flinhart was throughout the murder.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fb68679ff92197cb",
     "original": "Tyrion: Flinhart died where he was attacked.[p/] He didn’t move from his position at all.[p/] He might’ve even died instantaneously.",
-    "translation": "",
+    "translation": "Tyrion: 弗林哈特就在他被袭击的位置死亡。[p/]他完全没有移动过。[p/]甚至可以认为，是立即死亡。",
     "context": "{\n  \"id\": \"line:0b2b1ae\",\n  \"node\": \"TavernDeduce1b\",\n  \"text\": \"Tyrion: Flinhart died where he was attacked.[p/] He didn’t move from his position at all.[p/] He might’ve even died instantaneously.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1ac83ca6cb228919",
     "original": "Orym: Um...[p/] Yeah,[p/] I guess that makes sense.",
-    "translation": "",
+    "translation": "Orym: 呃……[p/]没错，[p/]我认为这有道理。",
     "context": "{\n  \"id\": \"line:070becf\",\n  \"node\": \"TavernDeduce1b\",\n  \"text\": \"Orym: Um...[p/] Yeah,[p/] I guess that makes sense.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2fb54595152e0163",
     "original": "Tyrion: There’s also the Autopsy Report,[p/] which says that he died from a stab from behind.",
-    "translation": "",
+    "translation": "Tyrion: 尸检报告也证实，[p/]他死于一记从背后所造成的刺伤。",
     "context": "{\n  \"id\": \"line:0ddb52a\",\n  \"node\": \"TavernDeduce1b\",\n  \"text\": \"Tyrion: There’s also the Autopsy Report,[p/] which says that he died from a stab from behind.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c2e901f83e411055",
     "original": "Tyrion: He must’ve been facing away from his attacker.",
-    "translation": "",
+    "translation": "Tyrion: 他肯定是背对着攻击者。",
     "context": "{\n  \"id\": \"line:0b2cab3\",\n  \"node\": \"TavernDeduce1b\",\n  \"text\": \"Tyrion: He must’ve been facing away from his attacker.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b5a79f64c02b6d7f",
     "original": "Tyrion: He was probably caught off-guard,[p/] and he would’ve been in shock and too incapacitated to move.",
-    "translation": "",
+    "translation": "Tyrion: 他大概率被抓住了没有防备的时机，[p/]可能会因惊吓而来不及躲闪。",
     "context": "{\n  \"id\": \"line:00c9b03\",\n  \"node\": \"TavernDeduce1b\",\n  \"text\": \"Tyrion: He was probably caught off-guard,[p/] and he would’ve been in shock and too incapacitated to move.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3683174967fb9f00",
     "original": "Tyrion: It also doesn’t look like his body was dragged anywhere either.[p/] He was definitely attacked right where this chalk outline is.",
-    "translation": "",
+    "translation": "Tyrion: 看起来他的尸体也没有被拖动过，[p/]他一定就是在粉笔画出的位置被袭击的。",
     "context": "{\n  \"id\": \"line:0e2e7b6\",\n  \"node\": \"TavernDeduce1b\",\n  \"text\": \"Tyrion: It also doesn’t look like his body was dragged anywhere either.[p/] He was definitely attacked right where this chalk outline is.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::57e2795bbbe8c2b3",
     "original": "Tyrion: There’s also the shattered bottle of “Lotus Juice”.",
-    "translation": "",
+    "translation": "Tyrion: 这里还有打碎的“莲之水”瓶子。",
     "context": "{\n  \"id\": \"line:03dc06c\",\n  \"node\": \"TavernDeduce1b\",\n  \"text\": \"Tyrion: There’s also the shattered bottle of “Lotus Juice”.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c4ce462c52a00913",
     "original": "Tyrion: The fragments are right next to the body.",
-    "translation": "",
+    "translation": "Tyrion: 瓶子的碎片就在尸体边上。",
     "context": "{\n  \"id\": \"line:0b2b64c\",\n  \"node\": \"TavernDeduce1b\",\n  \"text\": \"Tyrion: The fragments are right next to the body.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f3eeca6b0d3ce9ba",
     "original": "Tyrion: The bottle must have only been shattered hours ago.",
-    "translation": "",
+    "translation": "Tyrion: 这瓶子肯定几个小时前就被打碎了。",
     "context": "{\n  \"id\": \"line:0fa6ac3\",\n  \"node\": \"TavernDeduce1b\",\n  \"text\": \"Tyrion: The bottle must have only been shattered hours ago.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4e537c0a06570166",
     "original": "No...[p/] I already knew that Flinhart died where he stood,[p/] and the shattered bottle was right next to his body.",
-    "translation": "",
+    "translation": "不对……[p/]我已经明白了弗林哈特是在他站立的位置死去的，[p/]而碎片就在他尸体边上。",
     "context": "{\n  \"id\": \"line:00002f5\",\n  \"node\": \"TavernDeduce2\",\n  \"text\": \"No...[p/] I already knew that Flinhart died where he stood,[p/] and the shattered bottle was right next to his body.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eafd1168e32702da",
     "original": "Which means that Flinhart must’ve been holding it at some point.",
-    "translation": "",
+    "translation": "也就是说弗林哈特肯定在某个时刻拿着它。",
     "context": "{\n  \"id\": \"line:0560d33\",\n  \"node\": \"TavernDeduce2\",\n  \"text\": \"Which means that Flinhart must’ve been holding it at some point.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a3b2655085626b29",
     "original": "Tyrion: Flinhart dropped the bottle exactly when he was attacked.[p/] Which implies that he was holding it when the attack occurred.",
-    "translation": "",
+    "translation": "Tyrion: 弗林哈特正是在被攻击时摔掉了瓶子。[p/]也就是说他在攻击发生时正拿着它。",
     "context": "{\n  \"id\": \"line:0713bc0\",\n  \"node\": \"TavernDeduce2b\",\n  \"text\": \"Tyrion: Flinhart dropped the bottle exactly when he was attacked.[p/] Which implies that he was holding it when the attack occurred.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0497c0c96bfa4a1f",
     "original": "Orym: What’s so strange about that?",
-    "translation": "",
+    "translation": "Orym: 这很奇怪吗？",
     "context": "{\n  \"id\": \"line:0df8f62\",\n  \"node\": \"TavernDeduce2b\",\n  \"text\": \"Orym: What’s so strange about that?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e5bcac181faeb7bf",
     "original": "Tyrion: These details may seem insignificant,[p/] but together,[p/] they’ll give me a better idea of what the board looked like.",
-    "translation": "",
+    "translation": "Tyrion: 这些细节各自可能看起来不重要，[p/]但串联在一起的话，[p/]它们能让我更好的理解棋盘上的实际情况。",
     "context": "{\n  \"id\": \"line:08d212e\",\n  \"node\": \"TavernDeduce2b\",\n  \"text\": \"Tyrion: These details may seem insignificant,[p/] but together,[p/] they’ll give me a better idea of what the board looked like.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::116d180b799dd9e3",
     "original": "Orym: The “board”...?",
-    "translation": "",
+    "translation": "Orym: “棋盘”……？",
     "context": "{\n  \"id\": \"line:059ddc8\",\n  \"node\": \"TavernDeduce2b\",\n  \"text\": \"Orym: The “board”...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a078df44dd3285fe",
     "original": "Tyrion: There’s also the fact that the lights were out.[p/] Were these candles here when you arrived at the crime scene, Orym?",
-    "translation": "",
+    "translation": "Tyrion: 当时没有灯光照明也是事实。[p/]奥蒙，你赶到的时候这些蜡烛怎么样？",
     "context": "{\n  \"id\": \"line:0063cf9\",\n  \"node\": \"TavernDeduce2b\",\n  \"text\": \"Tyrion: There’s also the fact that the lights were out.[p/] Were these candles here when you arrived at the crime scene, Orym?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::20997eae661b5338",
     "original": "Orym: No. We had to light some so we could see the crime scene properly.",
-    "translation": "",
+    "translation": "Orym: 没有点亮。这些蜡烛是我们为了看清现场才点的。",
     "context": "{\n  \"id\": \"line:067ba96\",\n  \"node\": \"TavernDeduce2b\",\n  \"text\": \"Orym: No. We had to light some so we could see the crime scene properly.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2ac8190f9eb46c87",
     "original": "Orym: We thought it was weird too.[p/] The girl and her father must’ve had their argument in the dark.",
-    "translation": "",
+    "translation": "Orym: 我们也觉得很奇怪。[p/]那女孩就和他爸爸肯定只能在一片黑暗里吵架了。",
     "context": "{\n  \"id\": \"line:0abed8b\",\n  \"node\": \"TavernDeduce2b\",\n  \"text\": \"Orym: We thought it was weird too.[p/] The girl and her father must’ve had their argument in the dark.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::308072615021ae50",
     "original": "Tyrion: So, they didn’t light any candles to make up for the broken lights...",
-    "translation": "",
+    "translation": "Tyrion: 也就是说，虽然灯不亮，但他们也没有点蜡烛来照明……",
     "context": "{\n  \"id\": \"line:0fe6f40\",\n  \"node\": \"TavernDeduce2b\",\n  \"text\": \"Tyrion: So, they didn’t light any candles to make up for the broken lights...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8244bd43ab95aa84",
     "original": "No...[p/] The candles were lit by the Inquisition after they came to investigate the murder.",
-    "translation": "",
+    "translation": "不对……[p/]蜡烛是裁判所来调查案发现场时才点亮的。",
     "context": "{\n  \"id\": \"line:0f52af7\",\n  \"node\": \"TavernDeduce3\",\n  \"text\": \"No...[p/] The candles were lit by the Inquisition after they came to investigate the murder.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::17dd42943542c21c",
     "original": "Furthermore,[p/] the dining room lights haven’t been operational for the last week.",
-    "translation": "",
+    "translation": "此外，[p/]餐厅的灯已经坏了一周了。",
     "context": "{\n  \"id\": \"line:011dc76\",\n  \"node\": \"TavernDeduce3\",\n  \"text\": \"Furthermore,[p/] the dining room lights haven’t been operational for the last week.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3e4e63f1cf876571",
     "original": "It might've been a strange conclusion to draw,[p/] but this could only mean one thing about the room’s lighting.",
-    "translation": "",
+    "translation": "这个结论或许有些奇怪，[p/]但关于房间的照明只可能有一种解释。",
     "context": "{\n  \"id\": \"line:044f0df\",\n  \"node\": \"TavernDeduce3\",\n  \"text\": \"It might've been a strange conclusion to draw,[p/] but this could only mean one thing about the room’s lighting.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e3c2fa4e99b954e6",
     "original": "Tyrion: If there was any lighting during the attack,[p/] it could have been produced by the murderer.",
-    "translation": "",
+    "translation": "Tyrion: 如果在袭击中有任何光照，[p/]那一定是凶手制造的。",
     "context": "{\n  \"id\": \"line:0897946\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Tyrion: If there was any lighting during the attack,[p/] it could have been produced by the murderer.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5347ff45263a0231",
     "original": "I could slowly see the position of the pieces,[p/] but there were still areas I was unsure of.",
-    "translation": "",
+    "translation": "我可以慢慢看到一些棋子，[p/]但棋盘上还有几个区域我不确定。",
     "context": "{\n  \"id\": \"line:0a75e15\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"I could slowly see the position of the pieces,[p/] but there were still areas I was unsure of.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dd74acefc20648da",
     "original": "Tyrion: They might have used a torch or a lantern of some kind.",
-    "translation": "",
+    "translation": "Tyrion: 凶手可能拿着火把或者提灯等照明用具。",
     "context": "{\n  \"id\": \"line:0d6902b\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Tyrion: They might have used a torch or a lantern of some kind.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::530097affd0a16f5",
     "original": "Tyrion: Additionally,[p/] the argument that Celeste had with Flinhart must have been sparked by something.[p/] Things seemed fine between them before I went to bed.",
-    "translation": "",
+    "translation": "Tyrion: 更进一步地说，[p/]塞莱斯特和弗林哈特的争吵肯定是被什么引发的，[p/]我睡前两人的互动还很亲密。",
     "context": "{\n  \"id\": \"line:079e4dd\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Tyrion: Additionally,[p/] the argument that Celeste had with Flinhart must have been sparked by something.[p/] Things seemed fine between them before I went to bed.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9773dfa85e8c5a65",
     "original": "Tyrion: It was spontaneous.[p/] They weren’t planning to have a conversation in this room.",
-    "translation": "",
+    "translation": "Tyrion: 争吵是偶然发生的。[p/]他们并没有预计到会在这个房间说话。",
     "context": "{\n  \"id\": \"line:0e3e6d2\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Tyrion: It was spontaneous.[p/] They weren’t planning to have a conversation in this room.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cf79078cac4dee0a",
     "original": "Orym: Um...",
-    "translation": "",
+    "translation": "Orym: 嗯……",
     "context": "{\n  \"id\": \"line:028f957\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Orym: Um...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e6752bd32ce3d506",
     "original": "Tyrion: In this darkness,[p/] Flinhart wouldn’t have a lot of visibility.[p/] He probably never saw the attack coming.[p/] He would’ve been surprised and in too much shock to run away.",
-    "translation": "",
+    "translation": "Tyrion: 黑暗之中，[p/]弗林哈特会失去大量视野。[p/]他大概就没看到有攻击到来。[p/]所以他很惊讶，也没有办法逃走。",
     "context": "{\n  \"id\": \"line:04bcdd9\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Tyrion: In this darkness,[p/] Flinhart wouldn’t have a lot of visibility.[p/] He probably never saw the attack coming.[p/] He would’ve been surprised and in too much shock to run away.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::80c5fc4e06b39bc8",
     "original": "Orym: Kid...?",
-    "translation": "",
+    "translation": "Orym: 小子……？",
     "context": "{\n  \"id\": \"line:05fb56a\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Orym: Kid...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8cd59f5028b9f2e2",
     "original": "Tyrion: The bottle may seem insignificant,[p/] but he was holding it when he was attacked.[p/] Was he pouring a drink for himself or a visitor?",
-    "translation": "",
+    "translation": "Tyrion: 那个瓶子看起来不太重要，[p/]但他被袭击时拿着这个瓶子。[p/]他是在为自己，还是为来人倒一杯饮料吗？",
     "context": "{\n  \"id\": \"line:068e32c\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Tyrion: The bottle may seem insignificant,[p/] but he was holding it when he was attacked.[p/] Was he pouring a drink for himself or a visitor?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::06166d00d9bf0734",
     "original": "Orym: Kid!",
-    "translation": "",
+    "translation": "Orym: 小子！",
     "context": "{\n  \"id\": \"line:077e2b1\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Orym: Kid!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7a3de12f4c6530e5",
     "original": "I was in a frenzy,[p/] but the commander snapped me back to reality.",
-    "translation": "",
+    "translation": "我陷入狂热之中，[p/]指挥官又把我拽回了现实。",
     "context": "{\n  \"id\": \"line:082a1a9\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"I was in a frenzy,[p/] but the commander snapped me back to reality.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::659ea50b8c42c27b",
     "original": "Orym: What was that all about?!",
-    "translation": "",
+    "translation": "Orym: 这都是怎么回事？！",
     "context": "{\n  \"id\": \"line:012f90c\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Orym: What was that all about?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a933a0053ab1b327",
     "original": "Tyrion: S-[p/][s/]Sorry.[p/] I just get lost in my head sometimes...",
-    "translation": "",
+    "translation": "Tyrion: 对、[p/][s/]对不起啦。[p/]我有时候会迷失在自己的思考里……",
     "context": "{\n  \"id\": \"line:0017bea\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Tyrion: S-[p/][s/]Sorry.[p/] I just get lost in my head sometimes...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2f883448f8377106",
     "original": "Orym: Yeah, well...[p/] Cut it out.[p/] You were mumbling like a crazy person.",
-    "translation": "",
+    "translation": "Orym: 行，好吧……[p/]别玩了。[p/]你像个疯子一样喃喃自语。",
     "context": "{\n  \"id\": \"line:0432f63\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Orym: Yeah, well...[p/] Cut it out.[p/] You were mumbling like a crazy person.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e672a15ca7f9466b",
     "original": "Tyrion: R-[p/][s/]right.[p/] Sorry...",
-    "translation": "",
+    "translation": "Tyrion: 是、[p/][s/]是啊……[p/]抱歉……",
     "context": "{\n  \"id\": \"line:0ecce07\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"Tyrion: R-[p/][s/]right.[p/] Sorry...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e0e8d5a25531d166",
     "original": "It felt like I’d found everything I could here.[p/] It was time to MOVE somewhere else.",
-    "translation": "",
+    "translation": "感觉我已经得到了这里能找的一切东西。[p/]是时候<size=1.5em>移动</size>到其他地方了。",
     "context": "{\n  \"id\": \"line:0848956\",\n  \"node\": \"TavernDeduce3b\",\n  \"text\": \"It felt like I’d found everything I could here.[p/] It was time to MOVE somewhere else.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2c2015aee9779306",
     "original": "Tyrion: Hi, Ms. Tymora.",
-    "translation": "",
+    "translation": "Tyrion: 您好，泰摩拉女士。",
     "context": "{\n  \"id\": \"line:0ed995c\",\n  \"node\": \"Trial2\",\n  \"text\": \"Tyrion: Hi, Ms. Tymora.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3ab16f0f25b32870",
     "original": "Ruby: Cuthbert.",
-    "translation": "",
+    "translation": "Ruby: 卡斯伯特。",
     "context": "{\n  \"id\": \"line:0f09c35\",\n  \"node\": \"Trial2\",\n  \"text\": \"Ruby: Cuthbert.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eed062ddbad9ea83",
     "original": "Ruby: ...How did the investigation go?",
-    "translation": "",
+    "translation": "Ruby: ……调查还顺利吗？",
     "context": "{\n  \"id\": \"line:0666f37\",\n  \"node\": \"Trial2\",\n  \"text\": \"Ruby: ...How did the investigation go?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8c2ba334f8108044",
     "original": "Tyrion: I feel more prepared at the very least.",
-    "translation": "",
+    "translation": "Tyrion: 至少，我觉得自己准备更充分了。",
     "context": "{\n  \"id\": \"line:0e2ba08\",\n  \"node\": \"Trial2\",\n  \"text\": \"Tyrion: I feel more prepared at the very least.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0c86cc86c9c0f8ce",
     "original": "Tyrion: I don’t know exactly what happened,[p/] but I have a clearer picture of the crime scene.",
-    "translation": "",
+    "translation": "Tyrion: 我不知道到底发生了什么，[p/]但对案发现场有了更清晰的了解。",
     "context": "{\n  \"id\": \"line:0b62778\",\n  \"node\": \"Trial2\",\n  \"text\": \"Tyrion: I don’t know exactly what happened,[p/] but I have a clearer picture of the crime scene.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4c1aed54f9573cda",
     "original": "Ruby: What did you find out?",
-    "translation": "",
+    "translation": "Ruby: 你发现什么了？",
     "context": "{\n  \"id\": \"line:07d9c94\",\n  \"node\": \"Trial2\",\n  \"text\": \"Ruby: What did you find out?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4db8dd386256121a",
     "original": "Ruby: So...[p/] There are still no clues directly pointing to another suspect...",
-    "translation": "",
+    "translation": "Ruby: 是这样……[p/]仍然没有直接指向另一名嫌疑人的证据……",
     "context": "{\n  \"id\": \"line:0852648\",\n  \"node\": \"Trial2\",\n  \"text\": \"Ruby: So...[p/] There are still no clues directly pointing to another suspect...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::217896b8478ac527",
     "original": "Ruby: Have you been able to coax any new details from McCoy?",
-    "translation": "",
+    "translation": "Ruby: 你从麦考伊那里套出什么新细节了吗？",
     "context": "{\n  \"id\": \"line:04f0449\",\n  \"node\": \"Trial2\",\n  \"text\": \"Ruby: Have you been able to coax any new details from McCoy?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7a4d2394e2e92158",
     "original": "Tyrion: She’s already told me everything she knows.",
-    "translation": "",
+    "translation": "Tyrion: 她已经把自己所知都告诉我了。",
     "context": "{\n  \"id\": \"line:0f7c362\",\n  \"node\": \"Trial2\",\n  \"text\": \"Tyrion: She’s already told me everything she knows.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::90585d0b9acca958",
     "original": "Tyrion: She’s not the one who killed Flinhart, Ms. Tymora.[p/] I’m sure of that now.",
-    "translation": "",
+    "translation": "Tyrion: 她不是杀死弗林哈特的那个，泰摩拉女士。[p/]我现在很确信。",
     "context": "{\n  \"id\": \"line:0d3f223\",\n  \"node\": \"Trial2\",\n  \"text\": \"Tyrion: She’s not the one who killed Flinhart, Ms. Tymora.[p/] I’m sure of that now.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::647c6bd167612a54",
     "original": "Ruby: ...You trust people far too easily, Cuthbert.",
-    "translation": "",
+    "translation": "Ruby: ……卡斯伯特，你太容易相信别人了。",
     "context": "{\n  \"id\": \"line:0915ace\",\n  \"node\": \"Trial2\",\n  \"text\": \"Ruby: ...You trust people far too easily, Cuthbert.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a18e95909cea10a9",
     "original": "Tyrion: You say that like it’s a bad thing.",
-    "translation": "",
+    "translation": "Tyrion: 你说得好像是件坏事一样。",
     "context": "{\n  \"id\": \"line:03cdd5d\",\n  \"node\": \"Trial2\",\n  \"text\": \"Tyrion: You say that like it’s a bad thing.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::aca18cb65d5a0f17",
     "original": "Ruby: It's going to get you hurt one of these days.[p/] People are never as innocent as they appear.",
-    "translation": "",
+    "translation": "Ruby: 总有一天你会因此受伤。[p/]人们永远不像他们看起来那样无辜。",
     "context": "{\n  \"id\": \"line:0f12d91\",\n  \"node\": \"Trial2\",\n  \"text\": \"Ruby: It's going to get you hurt one of these days.[p/] People are never as innocent as they appear.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1bee92f35e170f67",
     "original": "Tyrion: ...Does that include you?",
-    "translation": "",
+    "translation": "Tyrion: ……包括你自己吗？",
     "context": "{\n  \"id\": \"line:08a3128\",\n  \"node\": \"Trial2\",\n  \"text\": \"Tyrion: ...Does that include you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d746065903642db7",
     "original": "Ruby: What?",
-    "translation": "",
+    "translation": "Ruby: 什么？",
     "context": "{\n  \"id\": \"line:0e88a33\",\n  \"node\": \"Trial2\",\n  \"text\": \"Ruby: What?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::739fc03f5a6e5621",
     "original": "Tyrion: Commander White had a lot of things to say about you.[p/] Should I have listened to him?",
-    "translation": "",
+    "translation": "Tyrion: 怀特指挥官对你有很多牢骚。[p/]我该听信他的说法吗？",
     "context": "{\n  \"id\": \"line:0a0ee3c\",\n  \"node\": \"Trial2b\",\n  \"text\": \"Tyrion: Commander White had a lot of things to say about you.[p/] Should I have listened to him?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::344fd94ce557e35a",
     "original": "Ruby: ...What are you trying to say?",
-    "translation": "",
+    "translation": "Ruby: ……你到底想说什么？",
     "context": "{\n  \"id\": \"line:0c7aa23\",\n  \"node\": \"Trial2b\",\n  \"text\": \"Ruby: ...What are you trying to say?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c5a630f04808f8d4",
     "original": "Tyrion: I’m saying that I’ve never believed the rumors about you,[p/] not for a second.",
-    "translation": "",
+    "translation": "Tyrion: 我想说，我从未相信关于您的那些谣言。[p/]一秒都没有。",
     "context": "{\n  \"id\": \"line:0596e70\",\n  \"node\": \"Trial2b\",\n  \"text\": \"Tyrion: I’m saying that I’ve never believed the rumors about you,[p/] not for a second.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::80a155850346c39d",
     "original": "Tyrion: You saved me when I had nothing,[p/] and taught me how to fight against the nobility.",
-    "translation": "",
+    "translation": "Tyrion: 您在我一无所有的时候拯救了我，[p/]又教导了我如何与贵族斗争。",
     "context": "{\n  \"id\": \"line:0966256\",\n  \"node\": \"Trial2b\",\n  \"text\": \"Tyrion: You saved me when I had nothing,[p/] and taught me how to fight against the nobility.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b1e02d0794d43fe5",
     "original": "Tyrion: Everyone told me that you were a criminal.[p/] I wouldn’t be here right now if I’d listened to them.",
-    "translation": "",
+    "translation": "Tyrion: 每个人都跟我说您是罪犯。[p/]但如果我听信他们的话，我根本就不会在这里。",
     "context": "{\n  \"id\": \"line:0dc2621\",\n  \"node\": \"Trial2b\",\n  \"text\": \"Tyrion: Everyone told me that you were a criminal.[p/] I wouldn’t be here right now if I’d listened to them.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::65e23c5c8b42a262",
     "original": "Ruby: Cuthbert...",
-    "translation": "",
+    "translation": "Ruby: 卡斯伯特……",
     "context": "{\n  \"id\": \"line:08085e5\",\n  \"node\": \"Trial2b\",\n  \"text\": \"Ruby: Cuthbert...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::06df84f1123aaa8f",
     "original": "Tyrion: I’m not going to stop trying to see the best in people.",
-    "translation": "",
+    "translation": "Tyrion: 我不会停止努力去以最乐观的方式看待他人。",
     "context": "{\n  \"id\": \"line:009805c\",\n  \"node\": \"Trial2b\",\n  \"text\": \"Tyrion: I’m not going to stop trying to see the best in people.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::230833a56a3e3a35",
     "original": "Tyrion: Celeste is innocent,[p/] and I’ll prove that to everyone, including you.",
-    "translation": "",
+    "translation": "Tyrion: 塞莱斯特是无罪的，[p/]而我会向所有人证明这一点，包括您。",
     "context": "{\n  \"id\": \"line:00fd568\",\n  \"node\": \"Trial2b\",\n  \"text\": \"Tyrion: Celeste is innocent,[p/] and I’ll prove that to everyone, including you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::61a8b0490351247d",
     "original": "Ruby: [i]*sigh*[/i][p/] You can be really stubborn sometimes.[p/] You know that?",
-    "translation": "",
+    "translation": "Ruby: [i]*叹气*[/i][p/]你有时候真的很固执。[p/]你自己也知道的吧？",
     "context": "{\n  \"id\": \"line:0f657c8\",\n  \"node\": \"Trial2b\",\n  \"text\": \"Ruby: [i]*sigh*[/i][p/] You can be really stubborn sometimes.[p/] You know that?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fad3dd29e6fd700a",
     "original": "Tyrion: I get it from you.",
-    "translation": "",
+    "translation": "Tyrion: 我是从您身上继承的。",
     "context": "{\n  \"id\": \"line:0085894\",\n  \"node\": \"Trial2b\",\n  \"text\": \"Tyrion: I get it from you.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::018f4ab233cbc8ae",
     "original": "That seemed to get a chuckle out of her.",
-    "translation": "",
+    "translation": "这似乎逗得她轻笑一声。",
     "context": "{\n  \"id\": \"line:067acb0\",\n  \"node\": \"Trial2b\",\n  \"text\": \"That seemed to get a chuckle out of her.\"\n}"
   },
   {
