@@ -13610,109 +13610,109 @@
   {
     "key": "C1 Dialogue.csv::translation::4e38cd0daca9ac1a",
     "original": "Orym: ...You know,[p/] we were deployed to one of those regions—[p/]the ones where her old man was squashing those \"rebellions\".",
-    "translation": "",
+    "translation": "Orym: ……你知道的，[p/]我们有一次曾受雇于那个军团——[p/]就是她父亲手下镇压“叛乱”的那些人。",
     "context": "{\n  \"id\": \"line:077cec4\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Orym: ...You know,[p/] we were deployed to one of those regions—[p/]the ones where her old man was squashing those \\\"rebellions\\\".\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d7e8e55962b6ca04",
     "original": "Orym: They said we needed to \"investigate\" the terrorists there,[p/] but by the time we got there,[p/] they just had us clean up the bodies.",
-    "translation": "",
+    "translation": "Orym: 他们说，我们需要“调查”某处的恐怖分子，[p/]但我们到达那里的时候，[p/]他们只是让我们把尸体清理干净。",
     "context": "{\n  \"id\": \"line:01df15b\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Orym: They said we needed to \\\"investigate\\\" the terrorists there,[p/] but by the time we got there,[p/] they just had us clean up the bodies.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c64062e4dcf96fdf",
     "original": "Orym: Doesn't matter if it's women or children,[p/] Lucio Steelwind will kill them all the same.",
-    "translation": "",
+    "translation": "Orym: 根本不会在乎是妇女或者小孩，[p/]卢西奥·斯蒂尔文德只会一视同仁地屠杀他们。",
     "context": "{\n  \"id\": \"line:06d27e7\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Orym: Doesn't matter if it's women or children,[p/] Lucio Steelwind will kill them all the same.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1fd1e089d81b20ea",
     "original": "Orym: A bunch of my men quit after that.[p/] They couldn't stomach working for a monster like that.",
-    "translation": "",
+    "translation": "Orym: 那次之后不少人就辞职了。[p/]他们没法忍受为那样的怪物工作。",
     "context": "{\n  \"id\": \"line:06bd77c\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Orym: A bunch of my men quit after that.[p/] They couldn't stomach working for a monster like that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b62b57f47a76c7b3",
     "original": "Tyrion: What about you?",
-    "translation": "",
+    "translation": "Tyrion: 那你呢？",
     "context": "{\n  \"id\": \"line:081506c\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Tyrion: What about you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d991c41166c9b0ba",
     "original": "Orym: ...We all gotta get paid somehow. [h=\"Not like I can do anything...|He's basically a duke...\" e=\"saf\"/]",
-    "translation": "",
+    "translation": "Orym: ……反正我们都得到了酬金。[h=\"我也什么都做不了……|他毕竟是个公爵……\" e=\"saf\"/]",
     "context": "{\n  \"id\": \"line:07462a0\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Orym: ...We all gotta get paid somehow. [h=\\\"Not like I can do anything...|He's basically a duke...\\\" e=\\\"saf\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d47716ee8d164832",
     "original": "Orym: Kid, you already showed this thing to me.",
-    "translation": "",
+    "translation": "Orym: 小子，这个东西你已经给我看过了。",
     "context": "{\n  \"id\": \"line:0adf4ea\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: Kid, you already showed this thing to me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b4248380a456b1a1",
     "original": "Tyrion: Yeah![p/] It’s an Attorney’s Runestone.",
-    "translation": "",
+    "translation": "Tyrion: 是啊！[p/]这个律师符石。",
     "context": "{\n  \"id\": \"line:057a4db\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: Yeah![p/] It’s an Attorney’s Runestone.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7ed3c8363d94040a",
     "original": "Orym: ...I know. [h=\"He looks like a little kid|showing his mom a drawing.\"/]",
-    "translation": "",
+    "translation": "Orym: ……我知道。[h=\"他看着就像个小孩子|在给妈妈看自己的画。\"/]",
     "context": "{\n  \"id\": \"line:03cb2c9\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: ...I know. [h=\\\"He looks like a little kid|showing his mom a drawing.\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e613071d597861e4",
     "original": "I cleared my throat as I stowed the Runestone back in my jacket.",
-    "translation": "",
+    "translation": "我清了清喉咙，把符石放回上衣内侧。",
     "context": "{\n  \"id\": \"line:06bd627\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"I cleared my throat as I stowed the Runestone back in my jacket.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::03103d8622e79cd0",
     "original": "Orym: I never knew you were Tymora’s kid.[p/] I always figured you were her intern or something.",
-    "translation": "",
+    "translation": "Orym: 我从不知道你是泰摩拉的孩子。[p/]我一直以为你是她的实习生还是什么的。",
     "context": "{\n  \"id\": \"line:02ce68d\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: I never knew you were Tymora’s kid.[p/] I always figured you were her intern or something.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d448afb547559a57",
     "original": "Tyrion: ...She doesn’t really talk about it that much.",
-    "translation": "",
+    "translation": "Tyrion: ……她很少会提到这件事。",
     "context": "{\n  \"id\": \"line:0c99d79\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: ...She doesn’t really talk about it that much.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::98376ff9733610e0",
     "original": "Orym: I've only ever seen her in court.[p/] It's hard to picture a woman like that raising a kid.",
-    "translation": "",
+    "translation": "Orym: 我只见过法庭上的她。.[p/]很难想象那么一个女人养育孩子的画面。",
     "context": "{\n  \"id\": \"line:07142b2\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: I've only ever seen her in court.[p/] It's hard to picture a woman like that raising a kid.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c3df2e02e741beaf",
     "original": ":There wasn’t much to picture.[p/] She raised me the same way she built a case:[p/] sternly,[p/] stoicly,[p/] and always in control.",
-    "translation": "",
+    "translation": ":其实也没有什么画面。[p/]她养育我的方式和她处理案件的方式是一样的：[p/]严厉、[p/]禁欲、[p/]永远保持在控制之下。",
     "context": "{\n  \"id\": \"line:0bca75d\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \":There wasn’t much to picture.[p/] She raised me the same way she built a case:[p/] sternly,[p/] stoicly,[p/] and always in control.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::41e81c0229e8c31e",
     "original": "Orym: I never expected a mercenary to look like that,[p/] but after seeing how many men it took to arrest her,[p/] I can kind of see it.",
-    "translation": "",
+    "translation": "Orym: 我从没想到一个雇佣兵竟然看起来是那副样子。[p/]但看到要那么派出多男人才能逮捕她，[p/]我也就理解了。",
     "context": "{\n  \"id\": \"line:013c459\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: I never expected a mercenary to look like that,[p/] but after seeing how many men it took to arrest her,[p/] I can kind of see it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6dd95460d9adaddb",
     "original": "Orym: What the hell are they feeding that girl?",
-    "translation": "",
+    "translation": "Orym: 他们到底给这女孩喂什么养大的？",
     "context": "{\n  \"id\": \"line:070fb82\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: What the hell are they feeding that girl?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4ca03d7d64594840",
     "original": "Tyrion: Bear meat,[p/] from what I’ve seen.",
-    "translation": "",
+    "translation": "Tyrion: 熊肉吧，[p/]就我所见。",
     "context": "{\n  \"id\": \"line:05c39e9\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: Bear meat,[p/] from what I’ve seen.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c5ec18e310b7df75",
     "original": "Orym: Huh...[p/] I guess that makes sense.[p/] You are what you eat. [h=\"I wonder if we can get bear meat|in the Inquisition’s mess hall.\"/]",
-    "translation": "",
+    "translation": "Orym: 嗬……[p/]确实有点道理。[p/]吃什么就会长成什么样嘛。[h=\"我想我们能不能搞到熊肉？|就用在裁判所的食堂里。\"/]",
     "context": "{\n  \"id\": \"line:0354fda\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: Huh...[p/] I guess that makes sense.[p/] You are what you eat. [h=\\\"I wonder if we can get bear meat|in the Inquisition’s mess hall.\\\"/]\"\n}"
   },
   {
@@ -13730,49 +13730,49 @@
   {
     "key": "C1 Dialogue.csv::translation::7accf3c51baec9f0",
     "original": "Tyrion: The Autopsy Report seems to be pretty detailed in some aspects and vague in others.[p/] Why is that?",
-    "translation": "",
+    "translation": "Tyrion: 这份尸检报告有的地方很详细，有的地方又有点模糊。[p/]为什么？",
     "context": "{\n  \"id\": \"line:05dc08e\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: The Autopsy Report seems to be pretty detailed in some aspects and vague in others.[p/] Why is that?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::40d094453d0a27f3",
     "original": "Orym: The autopsies are created using [b]divination[/b] magic.[p/] Those spells give us details about how someone died.",
-    "translation": "",
+    "translation": "Orym: 尸检报告是用[b]占卜术[/b]生成的。[p/]那个法术能告诉我们死者死因的细节。",
     "context": "{\n  \"id\": \"line:05b3951\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: The autopsies are created using [b]divination[/b] magic.[p/] Those spells give us details about how someone died.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e269f5c3fb7eb2c5",
     "original": "Orym: There's always a few blind spots, though.",
-    "translation": "",
+    "translation": "Orym: 但是，总会有一些盲点。",
     "context": "{\n  \"id\": \"line:049d42c\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: There's always a few blind spots, though.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3539e7c1512ba7d0",
     "original": "Tyrion: Blind spots?[p/] Like what?",
-    "translation": "",
+    "translation": "Tyrion: 盲点？[p/]什么样的盲点？",
     "context": "{\n  \"id\": \"line:0656bef\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: Blind spots?[p/] Like what?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b68143f9795a8de3",
     "original": "Orym: Well,[p/] for one thing,[p/] their magic only tells us the exact time and cause of death.[p/] Everything else can get muddied depending on the body.",
-    "translation": "",
+    "translation": "Orym: 嗯，[p/]举个例子。[p/]那个法术只能告诉我们确切的死亡时间和直接死因。[p/]其他的内容都可能因尸体实际情况变得模糊。",
     "context": "{\n  \"id\": \"line:0c5f0ca\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: Well,[p/] for one thing,[p/] their magic only tells us the exact time and cause of death.[p/] Everything else can get muddied depending on the body.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0f0cbd97c2fb1d8e",
     "original": "Tyrion: I suppose the report can get confusing if someone manipulates the body after death.",
-    "translation": "",
+    "translation": "Tyrion: 所以我可以假定，如果有人事后对尸体进行伪装，报告内容就可能令人困惑。",
     "context": "{\n  \"id\": \"line:079a177\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: I suppose the report can get confusing if someone manipulates the body after death.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9525ee7f924d9ca0",
     "original": "Orym: Yeah,[p/] I guess this whole trial has proved that.",
-    "translation": "",
+    "translation": "Orym: 没错。[p/]我想之前的庭审也证明了这一点。",
     "context": "{\n  \"id\": \"line:09d74d1\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: Yeah,[p/] I guess this whole trial has proved that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7ecff9032cf850ec",
     "original": "Which meant it would be that much harder to figure out what originally killed Flinhart.",
-    "translation": "",
+    "translation": "也就意味着要找出杀害弗林哈特的真凶困难了不少。",
     "context": "{\n  \"id\": \"line:0891929\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Which meant it would be that much harder to figure out what originally killed Flinhart.\"\n}"
   },
   {
@@ -13784,31 +13784,31 @@
   {
     "key": "C1 Dialogue.csv::translation::00a28af782545bee",
     "original": "Orym: The girl's sword is really strange.[p/] It's almost a shame that we had to confiscate it.",
-    "translation": "",
+    "translation": "Orym: 那女孩的剑真是奇怪。[p/]我们不得不没收它，真是可惜。",
     "context": "{\n  \"id\": \"line:08cd09a\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: The girl's sword is really strange.[p/] It's almost a shame that we had to confiscate it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::36afe73c63ec0687",
     "original": "Tyrion: Is it really that abnormal?",
-    "translation": "",
+    "translation": "Tyrion: 真的有那么稀罕吗？",
     "context": "{\n  \"id\": \"line:0c830e2\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: Is it really that abnormal?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::dc72dfc61286238b",
     "original": "Orym: It's definitely not made out of steel.[p/] It’s almost like a rock or something.",
-    "translation": "",
+    "translation": "Orym: 那把剑显然不是钢铁制造的。[p/]看起来更像是岩石还是什么别的东西。",
     "context": "{\n  \"id\": \"line:0ed7802\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: It's definitely not made out of steel.[p/] It’s almost like a rock or something.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a9a64b4b292ada8d",
     "original": "Orym: I tried to ask her where she got it,[p/] but she told me I should take it and stick it right up my—",
-    "translation": "",
+    "translation": "Orym: 我有尝试询问她在哪里搞到这把剑的，[p/]但她却说我该把她插在我的——",
     "context": "{\n  \"id\": \"line:01fa187\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: I tried to ask her where she got it,[p/] but she told me I should take it and stick it right up my—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7254897cbb4c544c",
     "original": "Tyrion: Thanks,[p/] I get the picture.",
-    "translation": "",
+    "translation": "Tyrion: 谢谢，[p/]我能想到那个画面。",
     "context": "{\n  \"id\": \"line:01453e6\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: Thanks,[p/] I get the picture.\"\n}"
   },
   {
@@ -13820,25 +13820,25 @@
   {
     "key": "C1 Dialogue.csv::translation::77e31da95b238f11",
     "original": "Tyrion: I've never seen a real Spell Compendium before.[p/] I'm still not exactly sure how they work.",
-    "translation": "",
+    "translation": "Tyrion: 我之前从没见过真正的法术汇编。[p/]我还是不太清楚它们怎么运作的。",
     "context": "{\n  \"id\": \"line:0d67bff\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: I've never seen a real Spell Compendium before.[p/] I'm still not exactly sure how they work.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2a9e13e90bacb4c6",
     "original": "Orym: They’re magical devices that show us which spells a mage can cast.",
-    "translation": "",
+    "translation": "Orym: 这个魔法装置能显示法师能够施放哪些法术。",
     "context": "{\n  \"id\": \"line:035aee4\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: They’re magical devices that show us which spells a mage can cast.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b2f9005b9b5486f1",
     "original": "Orym: That tells us exactly what spells a mage has.[p/] The Inquisition uses these things all the time.",
-    "translation": "",
+    "translation": "Orym: 所以裁判所一直在用这个东西。",
     "context": "{\n  \"id\": \"line:0a9883b\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: That tells us exactly what spells a mage has.[p/] The Inquisition uses these things all the time.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::15e15c110985065a",
     "original": "Tyrion: Right.[p/] Having that information must be a blessing for the defense and the prosecution.",
-    "translation": "",
+    "translation": "Tyrion: 没错。[p/]这个信息对辩方和检方的工作都很有帮助。",
     "context": "{\n  \"id\": \"line:0c4910b\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: Right.[p/] Having that information must be a blessing for the defense and the prosecution.\"\n}"
   },
   {
@@ -13850,13 +13850,13 @@
   {
     "key": "C1 Dialogue.csv::translation::341332d6b469c84e",
     "original": "Tyrion: Prosecutor Steelwind is going into a lot of detail for her case.",
-    "translation": "",
+    "translation": "Tyrion: 斯蒂尔文德检察官对自己的案子很是追求细节。",
     "context": "{\n  \"id\": \"line:0f49974\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Tyrion: Prosecutor Steelwind is going into a lot of detail for her case.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fa8e086c889a2b69",
     "original": "Orym: Bah...[p/] It's a real headache.",
-    "translation": "",
+    "translation": "Orym: 切……[p/]只会让我头疼的家伙。",
     "context": "{\n  \"id\": \"line:051258b\",\n  \"node\": \"Tavern_Present\",\n  \"text\": \"Orym: Bah...[p/] It's a real headache.\"\n}"
   },
   {
