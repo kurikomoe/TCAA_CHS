@@ -2658,7 +2658,7 @@ line:0943fb6,Trial2e,Rhys: We were driving by the McCoy Tavern when we heard a d
 line:059ce74,Trial2e,"Rhys: Worried that something was amiss,[p/] I walked into the establishment to see what the commotion was about.",Rhys: 由于担心会出什么事，[p/]我走进了酒馆一探究竟。
 line:071cbce,Trial2e,"Rhys: That was when I saw the defendant,[p/] lit by the blue glow of the dining room lights![p/] She had stabbed Flinhart,[p/][s/] and her sword was shining with magical energy!",Rhys: 就在那时我看见了被告。[p/]餐厅里蔚蓝的微光照亮了她的身影。她当时正刺向弗林哈特，[p/][s/]而且她的剑上闪耀着魔法的光芒！
 line:038e0bc,Trial2e,"Rhys: She pulled her sword from Flinhart’s back.[p/] As he turned to face her,[p/][s/] she stabbed him again in his chest!",Rhys: 她从弗林哈特的背后拔出了剑，[p/]当弗林哈特转身面向她时，[p/][s/]她又一次将剑当胸刺入！
-line:04d91be,Trial2e,"Rhys: She soon realized that I had witnessed her heinous crime.[p/] She dropped her weapon,[p/] still impaled in Flinhart,[p/] and fled the scene.",Rhys: 她马上就意识到我目睹了她的暴行。[p/]她丢下还插在弗林哈特体内的凶器，[p/] 马上逃离了现场。
+line:04d91be,Trial2e,"Rhys: She soon realized that I had witnessed her heinous crime.[p/] She dropped her weapon,[p/] still impaled in Flinhart,[p/] and fled the scene.",Rhys: 她马上就意识到我目睹了她的暴行。[p/]她丢下还插在弗林哈特体内的凶器，[p/]马上逃离了现场。
 line:0742a89,Trial2e,"Judge: Incredible![p/] If everything occurred as the witness described,[p/] then I see no room for debate.",Judge: 难以置信！[p/]如果事情真的是按证人所描述，[p/]我想没有争辩的余地了。
 line:0549a3f,Trial2e,"AriaC: Of course,[p/] the evidence has always been irrefutable.",AriaC: 当然，[p/]证据始终无可辩驳。
 line:0fe646a,Trial2e,"I didn’t remember seeing another carriage when I left to look for Celeste,[p/] but it was pretty dark.[p/] I could've just missed him.",我不记得去找塞莱斯特的时候有看到另一辆马车。[p/]但那时候很暗，[p/]可能我只是没看到他。
@@ -2700,164 +2700,164 @@ line:01f6bd1,RhysCross,Celeste: ...Is he hitting on me?,Celeste: ……他这是
 line:09bcb9a,RhysCross,Tyrion: It does make sense.[p/] You don’t really look like the average commoner.,Tyrion: 也有道理哎。[p/]毕竟你与一般平民看起来差别很大。
 line:034c2dc,RhysCross,Celeste: Are [i]you[/i] hitting on me?,Celeste: 那[i]你[/i]也是在勾搭我吗？
 line:0ec4ff3,RhysCross,Tyrion: Be serious...,Tyrion: 严肃一点……
-line:0e4a105,RhysCross,"Tyrion: Anyways,[p/] Mr. Rudolf,[p/] do you live in Kornhaven?",
-line:0a37e6f,RhysCross,"Rhys: I don’t live there,[p/] but my work brings me into town quite frequently.",
-line:0d41cb6,RhysCross,AriaC: The witness’s place of residence has no bearing on his testimony.,
-line:0dc04b9,RhysCross,AriaC: What matters is that he was there when the murder occurred.,
-line:0d26625,RhysCross,...Steelwind kept deflecting questions about his life.,
-line:0749cb1,RhysCross,"Rhys: She pulled her sword from Flinhart’s back. As he turned to face her, she stabbed him again in his chest!",
-line:0698778,RhysCross,"Tyrion: So, you’re saying that my defendant stabbed him twice with her sword?",
-line:0f174bf,RhysCross,Rhys: Y-[p/][s/]Yes...[p/] That’s exactly what I saw.,
-line:0b66b87,RhysCross,Tyrion: There’s only one visible wound on the body.,
-line:0856a1d,RhysCross,"Tyrion: If what you say is true,[p/] then that means that she stabbed him through the same wound.[p/] Isn’t that extremely improbable?",
-line:021ac83,RhysCross,"AriaC: Improbable,[p/] but not impossible. It may be strange,[p/] but that’s what the witness saw happen.",
-line:0712e4e,RhysCross,"She was reaching with that,[p/] but I wouldn’t get anywhere unless I could [i]prove[/i] he was lying.",
-line:069e704,RhysCross,"Rhys: She soon realized that I had witnessed her heinous crime. She dropped her weapon, still impaled in Flinhart, and fled the scene.",
-line:0b6f90b,RhysCross,"Tyrion: You supposedly witnessed a murder,[p/] and you let the perpetrator get away?",
-line:06f6c52,RhysCross,Rhys: I’m just a simple carriage driver.[p/] I have no way of combating an armed assailant.,
-line:0119322,RhysCross,AriaC: The witness also saw the defendant using magic.,
-line:02d2195,RhysCross,AriaC: Would you really expect a chauffeur to subdue an armed mercenary?,
-line:0233520,RhysCross,Tyrion: I guess not...,
+line:0e4a105,RhysCross,"Tyrion: Anyways,[p/] Mr. Rudolf,[p/] do you live in Kornhaven?",Tyrion: 总之，[p/]鲁道夫先生，[p/]你生活在科尔哈文吗？
+line:0a37e6f,RhysCross,"Rhys: I don’t live there,[p/] but my work brings me into town quite frequently.",Rhys: 我不住在那儿……[p/]但我的工作经常要去那里。
+line:0d41cb6,RhysCross,AriaC: The witness’s place of residence has no bearing on his testimony.,AriaC: 证人的住处与他的证言无关。
+line:0dc04b9,RhysCross,AriaC: What matters is that he was there when the murder occurred.,AriaC: 重要的是案发时他就在现场。
+line:0d26625,RhysCross,...Steelwind kept deflecting questions about his life.,……斯蒂尔文德一直在回避有关证人生活的问题。
+line:0749cb1,RhysCross,"Rhys: She pulled her sword from Flinhart’s back. As he turned to face her, she stabbed him again in his chest!",Rhys: 她从弗林哈特的背后拔出了剑，当弗林哈特转身面向她时，她又一次将剑当胸刺入！
+line:0698778,RhysCross,"Tyrion: So, you’re saying that my defendant stabbed him twice with her sword?",Tyrion: 所以，你主张我的委托人用她的剑两次刺向被害者？
+line:0f174bf,RhysCross,Rhys: Y-[p/][s/]Yes...[p/] That’s exactly what I saw.,Rhys: 是、[p/][s/]是的……[p/]我看到的就是这样。
+line:0b66b87,RhysCross,Tyrion: There’s only one visible wound on the body.,Tyrion: 尸体上只有一处可见的创口。
+line:0856a1d,RhysCross,"Tyrion: If what you say is true,[p/] then that means that she stabbed him through the same wound.[p/] Isn’t that extremely improbable?",Tyrion: 假设你说的是真的，[p/]那意味着她从同一处刺了回去。[p/]这难道很有可能吗？
+line:021ac83,RhysCross,"AriaC: Improbable,[p/] but not impossible. It may be strange,[p/] but that’s what the witness saw happen.",AriaC: 是不太可能，[p/]但不是不可能。虽然有些奇怪，[p/]但这正是证人目击到的情况。
+line:0712e4e,RhysCross,"She was reaching with that,[p/] but I wouldn’t get anywhere unless I could [i]prove[/i] he was lying.",她得到了想要的局面，[p/]除非我能[i]证明[/i]他在说谎，我没办法继续推进下去。
+line:069e704,RhysCross,"Rhys: She soon realized that I had witnessed her heinous crime. She dropped her weapon, still impaled in Flinhart, and fled the scene.",Rhys: 她马上就意识到我目睹了她的暴行。她丢下还插在弗林哈特体内的凶器，马上逃离了现场。
+line:0b6f90b,RhysCross,"Tyrion: You supposedly witnessed a murder,[p/] and you let the perpetrator get away?",Tyrion: 你称自己目击了谋杀现场，[p/]却让肇事者就这么逃脱了？
+line:06f6c52,RhysCross,Rhys: I’m just a simple carriage driver.[p/] I have no way of combating an armed assailant.,Rhys: 我只是个马车夫。[p/]我没有能力与持械的袭击者对抗。
+line:0119322,RhysCross,AriaC: The witness also saw the defendant using magic.,AriaC: 证人也看到了被告会法术。
+line:02d2195,RhysCross,AriaC: Would you really expect a chauffeur to subdue an armed mercenary?,AriaC: 难道你真的期望一个马车夫制服武装了的雇佣兵？
+line:0233520,RhysCross,Tyrion: I guess not...,Tyrion: 我想不会……
 line:0152df1,RhysCross,Overflow,
-line:0118a4f,RhysCross,Tyrion: He probably came up with a detailed story beforehand and wrote everything down.,
-line:0739f23,RhysCross,Tyrion: His quirk is the perfect cover for him to read over his notes.,
-line:0363030,RhysCross,Celeste: It’ll probably be hard to catch him lying if he has a way to keep his story straight.,
-line:0208954,RhysCross,Tyrion: It’s actually just the opposite.,
-line:0301f0c,RhysCross,"Tyrion: With this many details,[p/] it will be that much easier to find an inconsistency.",
-line:0d49aeb,RhysCross,I just needed to find it.,
+line:0118a4f,RhysCross,Tyrion: He probably came up with a detailed story beforehand and wrote everything down.,Tyrion: 他大概是事先想好一个细节充分的故事，然后全部写下来。
+line:0739f23,RhysCross,Tyrion: His quirk is the perfect cover for him to read over his notes.,Tyrion: 他的癖好完美地掩盖了读笔记的动作。
+line:0363030,RhysCross,Celeste: It’ll probably be hard to catch him lying if he has a way to keep his story straight.,Celeste: 如果他确实有一套自圆其说的本事，那就很难戳破他的谎言了。
+line:0208954,RhysCross,Tyrion: It’s actually just the opposite.,Tyrion: 恰恰相反。
+line:0301f0c,RhysCross,"Tyrion: With this many details,[p/] it will be that much easier to find an inconsistency.",Tyrion: 正因为有这么多细节，[p/]找到矛盾会更容易。
+line:0d49aeb,RhysCross,I just needed to find it.,我只需找到那个矛盾点。
 line:0c9fe3e,RhysCross,Objection,异议
 line:09e9b09,RhysCross,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
 line:08672ab,RhysCross,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
 line:07db9bd,RhysCross,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
 line:0f8283d,RhysCross,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
-line:0ef69c6,RhysObj,"Tyrion: Rudolf,[p/] you testified that you saw my client murdering the victim.",
-line:09c5656,RhysObj,Tyrion: And you supposedly saw her casting magic while doing so?,
-line:0cbdaa4,RhysObj,Rhys: Yes...[p/] I could never forget such a grisly sight.[p/] That moment was burned into my memory.,
-line:0e2a9c4,RhysObj,"Tyrion: I see...[p/] Well, it’s funny that you say that.",
-line:0b1f7ac,RhysObj,Rhys: ...What makes you say that?,
+line:0ef69c6,RhysObj,"Tyrion: Rudolf,[p/] you testified that you saw my client murdering the victim.",Tyrion: 鲁道夫，[p/]你作证说你看到了我的委托人实施凶杀。
+line:09c5656,RhysObj,Tyrion: And you supposedly saw her casting magic while doing so?,Tyrion: 那你肯定也看到了她同时在施放法术吧？
+line:0cbdaa4,RhysObj,Rhys: Yes...[p/] I could never forget such a grisly sight.[p/] That moment was burned into my memory.,Rhys: 是的……[p/]我不可能记错。[p/]那可怕的景象深深地烙印在我的记忆中。
+line:0e2a9c4,RhysObj,"Tyrion: I see...[p/] Well, it’s funny that you say that.",Tyrion: 明白了……[p/]好吧，那你的说法就有意思了。
+line:0b1f7ac,RhysObj,Rhys: ...What makes you say that?,Rhys: ……您为何这么说？
 line:0613fc6,RhysObj,Tyrion: Because your entire testimony was a complete lie!,Tyrion: 因为你所有的证言都是彻头彻尾的谎话！
 line:06eea66,RhysObj,Rhys: W-[p/][s/]What?!,Rhys: 什、[p/][s/]什么？！
-line:0f53e1a,RhysObj,AriaC: Are you accusing the witness of perjury?,
-line:0d214c1,RhysObj,"AriaC: Surely you know that such accusations can't be made lightly, Mr. Cuthbert.",
-line:0310391,RhysObj,"Tyrion: Ms. Steelwind,[p/] the dining room lights are artificery devices that are powered by an arcane power cell.",
-line:07eb048,RhysObj,"Tyrion: However,[p/] that same arcane power cell was broken during the time of the murder.",
-line:06e6bd8,RhysObj,"Tyrion: Those lights had no energy,[p/][s/] and the room would’ve been pitch black!",
+line:0f53e1a,RhysObj,AriaC: Are you accusing the witness of perjury?,AriaC: 你是在指控证人作了伪证吗？
+line:0d214c1,RhysObj,"AriaC: Surely you know that such accusations can't be made lightly, Mr. Cuthbert.",AriaC: 你肯定知道这种指控不能轻易提出，卡斯伯特先生。
+line:0310391,RhysObj,"Tyrion: Ms. Steelwind,[p/] the dining room lights are artificery devices that are powered by an arcane power cell.",Tyrion: 斯蒂尔文德女士，[p/]餐厅的光照来源是一批用奥术储能单元为动力的壁灯。
+line:07eb048,RhysObj,"Tyrion: However,[p/] that same arcane power cell was broken during the time of the murder.",Tyrion: 然而，[p/]案发时奥术储能单元处于损坏状态。
+line:06e6bd8,RhysObj,"Tyrion: Those lights had no energy,[p/][s/] and the room would’ve been pitch black!",Tyrion: 那些灯没有能源，[p/][s/]当时屋内是一片漆黑！
 line:0a40741,RhysObj,"Tyrion: The witness couldn’t have seen [i]anything[/i], much less a homicide!",Tyrion: 证人根本[i]什么都看不见[/i]！更别提目睹了一场凶杀！
 line:0d407b5,RhysObj,AriaC: ...,AriaC: ……
-line:01e9c7e,RhysObj,Rhys: W-[p/][s/]Wait![p/][s/] I can explain!,
-line:08f10b2,RhysObj,"AriaC: There’s no need, witness.[p/] You could have easily seen another source of light.",
-line:0970a05,RhysObj,AriaC: The McCoys probably lit a candle or lantern because of the blackout.,
-line:0e53629,RhysObj,"Tyrion: The witness clearly described a source of “[i]blue[/i] light""![p/][s/] A rudimentary candle or lantern wouldn’t emit a color like that!",
-line:072d4d4,RhysObj,AriaC: Then the witness was clearly mistaken.,
-line:04235d4,RhysObj,Tyrion: The witness records everything he sees in his notebook!,
-line:0418d76,RhysObj,Tyrion: He even remembers the exact time that this encounter occurred!,
-line:0fc36b1,RhysObj,Tyrion: So why would he be incorrect about such a clear and obvious detail?!,
-line:0869da9,RhysObj,Tyrion: No...[p/] What the witness saw was some form of magic.,
-line:023388c,RhysObj,"Tyrion: Due to the lack of power,[p/][s/] it [i]couldn’t[/i] have been artificery![p/][s/] It must have been an arcane spell!",
+line:01e9c7e,RhysObj,Rhys: W-[p/][s/]Wait![p/][s/] I can explain!,Rhys: 等、[p/][s/]等一等！[p/][s/]我可以解释！
+line:08f10b2,RhysObj,"AriaC: There’s no need, witness.[p/] You could have easily seen another source of light.",AriaC: 没有必要，证人。[p/]你可以轻易地通过另一种光源看到。
+line:0970a05,RhysObj,AriaC: The McCoys probably lit a candle or lantern because of the blackout.,AriaC: 麦考伊父女两人很可能点了蜡烛或油灯来照亮黑暗。
+line:0e53629,RhysObj,"Tyrion: The witness clearly described a source of “[i]blue[/i] light""![p/][s/] A rudimentary candle or lantern wouldn’t emit a color like that!","Tyrion: 证人明确地提到了“[i]蓝光[/i]""！[p/][s/] 简陋的蜡烛或油灯可不会发出那样的颜色！"
+line:072d4d4,RhysObj,AriaC: Then the witness was clearly mistaken.,AriaC: 显然是证人不小心说错了。
+line:04235d4,RhysObj,Tyrion: The witness records everything he sees in his notebook!,Tyrion: 证人有个记录所有所见所闻的习惯！
+line:0418d76,RhysObj,Tyrion: He even remembers the exact time that this encounter occurred!,Tyrion: 他甚至明确地记得事情发生的时间！
+line:0fc36b1,RhysObj,Tyrion: So why would he be incorrect about such a clear and obvious detail?!,Tyrion: 怎么可能会弄错如此明显的细节？！
+line:0869da9,RhysObj,Tyrion: No...[p/] What the witness saw was some form of magic.,Tyrion: 不对……[p/]证人看到的一定是某种法术。
+line:023388c,RhysObj,"Tyrion: Due to the lack of power,[p/][s/] it [i]couldn’t[/i] have been artificery![p/][s/] It must have been an arcane spell!",Tyrion: 由于缺乏供能，[p/][s/][i]不可能[/i]是奥术能源装置！[p/][s/]一定是某种奥术魔法！
 line:078b0cf,RhysObj,Rhys: ...,Rhys: ……
-line:0ae70d5,RhysObj,Rhys: That’s it!,
-line:082f51b,RhysObj,Judge: Witness?,
-line:0a3fda9,RhysObj,Rhys: I was mistaken about something![p/][s/] Please allow me to revise my testimony!,
+line:0ae70d5,RhysObj,Rhys: That’s it!,Rhys: 就是那个！
+line:082f51b,RhysObj,Judge: Witness?,Judge: 证人？
+line:0a3fda9,RhysObj,Rhys: I was mistaken about something![p/][s/] Please allow me to revise my testimony!,Rhys: 我之前确实搞错了一件事！[p/][s/]请允许我更正之前的证词！
 line:00769ce,RhysObj,AriaC: ...,AriaC: ……
-line:00867e6,RhysObj,"Judge: ...Mr. Cuthbert,[p/] what are your thoughts?",
-line:0d601a8,RhysObj,"Tyrion: If he thinks he saw something different,[p/] then it's only fair to hear him out.",
-line:0e314cc,RhysObj,"It didn’t matter.[p/] No matter what he came up with,[p/] I’d tear through each of his lies.",
-line:073bb01,RhysTestimony2,"Rhys: I remember now![p/][s/] Yesterday,[p/] they said that Flinhart was killed using magic, yes?!",
-line:0be4349,RhysTestimony2,Rhys: I must have seen Ms. McCoy channeling a magic spell.,
-line:0960057,RhysTestimony2,"Rhys: The spell was called “[b]Mage Blade[/b]"",[p/] wasn’t it?",
-line:085562d,RhysTestimony2,Rhys: That’s it![p/] The blue glow that I saw was created by [b]Mage Blade[/b]!,
-line:0a553aa,RhysTestimony2,"Judge: Hm...[p/] I see.[p/] So the “blue light"" that you saw came from the defendant’s magic.",
+line:00867e6,RhysObj,"Judge: ...Mr. Cuthbert,[p/] what are your thoughts?",Judge: ……卡斯伯特先生，[p/]你怎么看？
+line:0d601a8,RhysObj,"Tyrion: If he thinks he saw something different,[p/] then it's only fair to hear him out.",Tyrion: 如果他认为自己看到的情境有不同，[p/]那也只能听他怎么说。
+line:0e314cc,RhysObj,"It didn’t matter.[p/] No matter what he came up with,[p/] I’d tear through each of his lies.",不重要。[p/]不论想要如何狡辩，[p/]我都会撕碎他的每一条谎言。
+line:073bb01,RhysTestimony2,"Rhys: I remember now![p/][s/] Yesterday,[p/] they said that Flinhart was killed using magic, yes?!",Rhys: 我现在想起来了！[p/][s/]昨天庭审中，[p/]有说过弗林哈特是被魔法杀害的，对吧？！
+line:0be4349,RhysTestimony2,Rhys: I must have seen Ms. McCoy channeling a magic spell.,Rhys: 我肯定是看到了麦考伊女士施放法术。
+line:0960057,RhysTestimony2,"Rhys: The spell was called “[b]Mage Blade[/b]"",[p/] wasn’t it?",Rhys: 那个法术叫“[b]法术剑刃[/b]”，[p/] 不是吗？
+line:085562d,RhysTestimony2,Rhys: That’s it![p/] The blue glow that I saw was created by [b]Mage Blade[/b]!,Rhys: 就是那个！[p/]我看到的蓝光是[b]法术剑刃[/b]制造的！
+line:0a553aa,RhysTestimony2,"Judge: Hm...[p/] I see.[p/] So the “blue light"" that you saw came from the defendant’s magic.",Judge: 嗯……[p/]我明白了。[p/]所以你看到的“蓝光”是来自于被告的法术。
 line:0873d40,RhysTestimony2,AriaC: ...,AriaC: ……
-line:005015e,RhysTestimony2,"Judge: Mr. Cuthbert,[p/] you may proceed with your cross-examination.",
-line:00e2c8c,RhysTestimony2,Tyrion: With pleasure.,
-line:0a2a8bb,RhysCross2,"Rhys: I remember now![p/][s/] Yesterday,[p/] they said that Flinhart was killed using magic, yes?!",
-line:037e37a,RhysCross2,Tyrion: Are you changing your testimony based on yesterday’s trial?,
-line:051205f,RhysCross2,Rhys: No![p/][s/] That’s not what this is!,
-line:0e42a5f,RhysCross2,"Rhys: It’s just that after thinking about it,[p/][s/] I finally understood what I saw!",
-line:092da07,RhysCross2,Rhys: I must have seen Ms. McCoy channeling a magic spell.,
-line:005334a,RhysCross2,Tyrion: Wouldn’t that be pretty noticeable and distinct?,
-line:09228ef,RhysCross2,"AriaC: The crime took place in a village of farmers,[p/] and the defendant’s magic wasn’t known to many until that night.",
-line:04c819f,RhysCross2,AriaC: What reason would the witness have to think that he was witnessing magic?,
-line:011828e,RhysCross2,AriaC: He would just think that the sword was wreathed in a glow by some other means.,
-line:0458a38,RhysCross2,"That last part was a bit far-fetched,[p/] but I’d need something concrete to refute it.",
-line:032f438,RhysCross2,"Rhys: The spell was called “[b]Mage Blade[/b]"", yes?",
-line:0b964df,RhysCross2,Tyrion: You seem uncertain about the spell you saw.,
-line:0139dd6,RhysCross2,Tyrion: How can we trust the rest of your testimony?,
-line:03b83e9,RhysCross2,AriaC: It doesn’t matter if he was unable to identify the specific spell.,
-line:0b69ac7,RhysCross2,AriaC: The only thing that matters is that he saw it happen.,
-line:0f33315,RhysCross2,I wouldn’t get anywhere unless I could PRESENT a clear contradiction.,
-line:015b8ac,RhysCross2,Rhys: That’s it! The blue glow that I saw was created by [b]Mage Blade[/b]!,
-line:0a8a217,RhysCross2,Tyrion: You still don’t sound so sure of it yourself.,
-line:069f8f4,RhysCross2,Rhys: I-[p/][s/]I wasn’t sure of it at first.,
-line:00386d7,RhysCross2,Rhys: But then I remembered that they found traces of magic at the crime scene.,
-line:0de4aab,RhysCross2,Rhys: I didn’t realize I was looking at a magic spell.[p/] Is it really so hard to believe?,
-line:0caecbd,RhysCross2,Tyrion: ...I suppose not.,
-line:0edd44c,RhysCross2,Not that I actually believed him.,
+line:005015e,RhysTestimony2,"Judge: Mr. Cuthbert,[p/] you may proceed with your cross-examination.",Judge: 卡斯伯特先生，[p/]你可以继续交叉询问了。
+line:00e2c8c,RhysTestimony2,Tyrion: With pleasure.,Tyrion: 乐意至极。
+line:0a2a8bb,RhysCross2,"Rhys: I remember now![p/][s/] Yesterday,[p/] they said that Flinhart was killed using magic, yes?!",Rhys: 我现在想起来了！[p/][s/]昨天庭审中，[p/]有说过弗林哈特是被魔法杀害的，对吧？！
+line:037e37a,RhysCross2,Tyrion: Are you changing your testimony based on yesterday’s trial?,Tyrion: 你是在基于昨天的庭审修改证言吗？
+line:051205f,RhysCross2,Rhys: No![p/][s/] That’s not what this is!,Rhys: 不！[p/][s/]不是这样的！
+line:0e42a5f,RhysCross2,"Rhys: It’s just that after thinking about it,[p/][s/] I finally understood what I saw!",Rhys: 只是好好思考之后，[p/][s/]我终于明白了自己看到的是什么！
+line:092da07,RhysCross2,Rhys: I must have seen Ms. McCoy channeling a magic spell.,Rhys: 我肯定是看到了麦考伊女士施放法术。
+line:005334a,RhysCross2,Tyrion: Wouldn’t that be pretty noticeable and distinct?,Tyrion: 那不应该给你留下特别的印象吗？
+line:09228ef,RhysCross2,"AriaC: The crime took place in a village of farmers,[p/] and the defendant’s magic wasn’t known to many until that night.",AriaC: 案件是在一个农民们的村子里发生的，[p/]而直到那晚之前，没多少人知道被告会使用法术。
+line:04c819f,RhysCross2,AriaC: What reason would the witness have to think that he was witnessing magic?,AriaC: 证人又有什么理由认为他看到的是法术呢？
+line:011828e,RhysCross2,AriaC: He would just think that the sword was wreathed in a glow by some other means.,AriaC: 他可能只是认为那把剑因为其他的原因被笼罩在光芒中。
+line:0458a38,RhysCross2,"That last part was a bit far-fetched,[p/] but I’d need something concrete to refute it.",最后那部分有些牵强，[p/]但我需要切实的根据来反驳。
+line:032f438,RhysCross2,"Rhys: The spell was called “[b]Mage Blade[/b]"", yes?",Rhys: 那个法术叫“[b]法术剑刃[/b]”，对吧？
+line:0b964df,RhysCross2,Tyrion: You seem uncertain about the spell you saw.,Tyrion: 看起来你对自己所见到的法术并不确定。
+line:0139dd6,RhysCross2,Tyrion: How can we trust the rest of your testimony?,Tyrion: 那我们怎么相信你其他的证词？
+line:03b83e9,RhysCross2,AriaC: It doesn’t matter if he was unable to identify the specific spell.,AriaC: 他无法分辨法术的种类并不重要。
+line:0b69ac7,RhysCross2,AriaC: The only thing that matters is that he saw it happen.,AriaC: 重要的是他看到了发生的事实。
+line:0f33315,RhysCross2,I wouldn’t get anywhere unless I could PRESENT a clear contradiction.,除非<size=1.5em>出示</size>有明确矛盾的证据，我没法继续推进庭审。
+line:015b8ac,RhysCross2,Rhys: That’s it! The blue glow that I saw was created by [b]Mage Blade[/b]!,Rhys: 就是那个！我看到的蓝光是[b]法术剑刃[/b]制造的！
+line:0a8a217,RhysCross2,Tyrion: You still don’t sound so sure of it yourself.,Tyrion: 你还是听起来没什么自信啊。
+line:069f8f4,RhysCross2,Rhys: I-[p/][s/]I wasn’t sure of it at first.,Rhys: 我、[p/][s/]我一开始确实不确定。
+line:00386d7,RhysCross2,Rhys: But then I remembered that they found traces of magic at the crime scene.,Rhys: 但我后来想起来他们发现了案发现场的法术痕迹。
+line:0de4aab,RhysCross2,Rhys: I didn’t realize I was looking at a magic spell.[p/] Is it really so hard to believe?,Rhys: 我当时没有意识到自己看到的是魔法。[p/]这很难相信吗？
+line:0caecbd,RhysCross2,Tyrion: ...I suppose not.,Tyrion: ……这倒不是。
+line:0edd44c,RhysCross2,Not that I actually believed him.,我不相信的是他这个人。
 line:0c9acda,RhysCross2,Overflow,
-line:05b01e9,RhysCross2,Celeste: He just keeps telling lie after lie...,
-line:09b9b7b,RhysCross2,"She was trying to keep her composure,[p/] but her fists were firmly clenched.",
-line:0fab0d6,RhysCross2,Tyrion: He’s trying to cover up his mistake.[p/] I’m sure he’s just making things up on the spot now.,
-line:0e5c3f7,RhysCross2,Celeste: He doesn’t know how magic works.[p/] I bet he barely understands what [b]Mage Blade[/b] even does.,
-line:03e075e,RhysCross2,Which meant that there had to be a flaw with his testimony.,
+line:05b01e9,RhysCross2,Celeste: He just keeps telling lie after lie...,Celeste: 他一直在说谎……
+line:09b9b7b,RhysCross2,"She was trying to keep her composure,[p/] but her fists were firmly clenched.",她试图保持镇定，[p/]但她双拳已经攥紧。
+line:0fab0d6,RhysCross2,Tyrion: He’s trying to cover up his mistake.[p/] I’m sure he’s just making things up on the spot now.,Tyrion: 他想掩盖自己的疏忽，[p/]但我确信他只是把矛盾放到聚光灯下了。
+line:0e5c3f7,RhysCross2,Celeste: He doesn’t know how magic works.[p/] I bet he barely understands what [b]Mage Blade[/b] even does.,Celeste: 他不知道法术是怎么运作的。[p/]我打赌他甚至不知道[b]法术剑刃[/b]到底是做什么用的。
+line:03e075e,RhysCross2,Which meant that there had to be a flaw with his testimony.,也就意味着他的证词里肯定有个漏洞。
 line:0994651,RhysCross2,Objection,异议
 line:0e9bd08,RhysCross2,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
 line:00fccc5,RhysCross2,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
 line:0e034cb,RhysCross2,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
 line:064a848,RhysCross2,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
-line:09f8d19,RhysObj2,"Tyrion: Rudolf,[p/] you don’t know much about magic, do you?",
-line:009a9fb,RhysObj2,Rhys: Of course not![p/] Are you trying to say that I should have recognized Celeste's [b]Mage Blade[/b]?,
-line:0ab1651,RhysObj2,Tyrion: No...[p/] I admit that you probably wouldn’t know what [b]Mage Blade[b/] looks like...,
-line:0a27349,RhysObj2,Tyrion: ...But that’s exactly where you made your mistake!,
-line:0905e85,RhysObj2,Rhys: M-[p/][s/]My mistake?!,
-line:0737d84,RhysObj2,"Tyrion: Rudolf,[p/] if you were aware of how [b]Mage Blade[/b] works,[p/] then you would know that the spell emits a [i]yellow[/i] radiant glow.",
-line:01c47e5,RhysObj2,"Tyrion: Which means the “blue glow"" you saw couldn’t have possibly been [b]Mage Blade[/b]!",
-line:036737c,RhysObj2,AriaC: This is ridiculous.[p/] What’s the significance of seeing a blue glow instead of a yellow one?,
-line:0927b1b,RhysObj2,"Tyrion: It’s extremely significant, Prosecutor!",
-line:0c1df95,RhysObj2,"Tyrion: If the witness saw a blue magical glow,[p/][s/] then he must have witnessed a [i]different[/i] spell at the scene!",
-line:0d573ad,RhysObj2,AriaC: Preposterous![p/][s/] You don’t have any evidence to support that claim!,
-line:01c9cc8,RhysObj2,Tyrion: That blue light made a large impression on the witness!,
-line:0cf76f5,RhysObj2,Tyrion: He wrote it down in his notebook![p/][s/] He even mentioned the color in [i]both[/i] of his testimonies!,
-line:0383718,RhysObj2,Tyrion: I find it hard to believe that he’d be mistaken about something like that!,
+line:09f8d19,RhysObj2,"Tyrion: Rudolf,[p/] you don’t know much about magic, do you?",Tyrion: 鲁道夫，[p/]你根本不懂魔法，对吧？
+line:009a9fb,RhysObj2,Rhys: Of course not![p/] Are you trying to say that I should have recognized Celeste's [b]Mage Blade[/b]?,Rhys: 当然不！[p/]你是想说我本应认出来塞莱斯特的[b]法术剑刃[/b]？
+line:0ab1651,RhysObj2,Tyrion: No...[p/] I admit that you probably wouldn’t know what [b]Mage Blade[b/] looks like...,Tyrion: 不……[p/]我承认你大概不知道[b]法术剑刃[/b]到底长什么样……
+line:0a27349,RhysObj2,Tyrion: ...But that’s exactly where you made your mistake!,Tyrion: ……但这正是露出马脚的地方！
+line:0905e85,RhysObj2,Rhys: M-[p/][s/]My mistake?!,Rhys: 露、露出马脚？！
+line:0737d84,RhysObj2,"Tyrion: Rudolf,[p/] if you were aware of how [b]Mage Blade[/b] works,[p/] then you would know that the spell emits a [i]yellow[/i] radiant glow.",Tyrion: 鲁道夫，[p/]如果你了解过[b]法术剑刃[/b]，[p/]就会知道这种法术只会释放出[i]黄光[/i]。
+line:01c47e5,RhysObj2,"Tyrion: Which means the “blue glow"" you saw couldn’t have possibly been [b]Mage Blade[/b]!",Tyrion: 自然，你看到的“蓝光”不可能来自于[b]法术剑刃[/b]！
+line:036737c,RhysObj2,AriaC: This is ridiculous.[p/] What’s the significance of seeing a blue glow instead of a yellow one?,AriaC: 荒谬。[p/]看到的是蓝光而不是黄光这一点重要吗？
+line:0927b1b,RhysObj2,"Tyrion: It’s extremely significant, Prosecutor!",Tyrion: 这可太重要了，检察官！
+line:0c1df95,RhysObj2,"Tyrion: If the witness saw a blue magical glow,[p/][s/] then he must have witnessed a [i]different[/i] spell at the scene!",Tyrion: 如果证人看到了魔法蓝光，[p/][s/]那他看到的一定是[i]另一种[/i]法术！
+line:0d573ad,RhysObj2,AriaC: Preposterous![p/][s/] You don’t have any evidence to support that claim!,AriaC: 无稽之谈！[p/][s/]你没有支持这个主张的任何证据！
+line:01c9cc8,RhysObj2,Tyrion: That blue light made a large impression on the witness!,Tyrion: 蓝光给证人留下了深刻的印象！
+line:0cf76f5,RhysObj2,Tyrion: He wrote it down in his notebook![p/][s/] He even mentioned the color in [i]both[/i] of his testimonies!,Tyrion: 他将这一点写在了笔记本上！[p/][s/]他甚至在[i]两次[/i]作证时都提及了这一点！
+line:0383718,RhysObj2,Tyrion: I find it hard to believe that he’d be mistaken about something like that!,Tyrion: 我觉得很难相信他只是记错了颜色！
 line:007a882,RhysObj2,Rhys: ...,Rhys: ……
-line:0a2cd41,RhysObj2,"Tyrion: So, what did you see, Mr. Rudolf?!",
-line:06f9d80,RhysObj2,"Tyrion: Did you see my client at the scene,[p/][s/] casting a spell that she couldn’t possibly cast?!",
-line:0fcb192,RhysObj2,Tyrion: Or did you actually see [i]another[/i] mage at the scene?!,
-line:01d444b,RhysObj2,Rhys: Um...[p/][s/] W-[p/][s/]Well...,
-line:0017a87,RhysObj2,AriaC: Your Honor![p/][s/] The defense is completely out of line!,
-line:02fe1e1,RhysObj2,"Tyrion: Let me remind you that perjury is a crime, Rudolf!",
-line:0d7bbfd,RhysObj2,"Tyrion: If you are found to have lied in your testimony,[p/][s/] I will personally see to it that you’re prosecuted!",
-line:04a0f2e,RhysObj2,Rhys: N-[p/][s/]No![p/][s/] Wait!,
-line:0877384,RhysObj2,Garrick: Now that is quite enough of that.,
-line:0892875,RhysObj2b,"Garrick Pierce had stood up from within the gallery and walked to the witness stand,[p/] shoving Rudolf out of his way.",
-line:0f73e8c,RhysObj2b,"He’d broken several laws with that one act alone,[p/] but no one moved to stop him.",
-line:00a8273,RhysObj2b,The bailiff looked to the judge wearily and awaited instruction.,
-line:0ac64f8,RhysObj2b,The judge said nothing.[p/] His eyes simply narrowed as he waited for Pierce’s next move.,
-line:00e7a41,RhysObj2b,AriaC: Pierce![p/][s/] There is no need for you to take the stand!,
-line:0783c3c,RhysObj2b,"Garrick: Nonsense,[p/] I have nothing to hide.",
-line:05bcd30,RhysObj2b,Garrick: I will not stand idly by while your case falls apart.,
+line:0a2cd41,RhysObj2,"Tyrion: So, what did you see, Mr. Rudolf?!",Tyrion: 那么，你到底看到了什么，鲁道夫先生？！
+line:06f9d80,RhysObj2,"Tyrion: Did you see my client at the scene,[p/][s/] casting a spell that she couldn’t possibly cast?!",Tyrion: 你真的看到我的委托人在现场[p/][s/]施展一种她根本不可能会的法术？！
+line:0fcb192,RhysObj2,Tyrion: Or did you actually see [i]another[/i] mage at the scene?!,Tyrion: 还是说你在现场看到的是[i]另一个[/i]法师？！
+line:01d444b,RhysObj2,Rhys: Um...[p/][s/] W-[p/][s/]Well...,Rhys: 呃……[p/][s/]好、[p/][s/]好吧……
+line:0017a87,RhysObj2,AriaC: Your Honor![p/][s/] The defense is completely out of line!,AriaC: 法官阁下！[p/][s/]辩方的言行已经出格了！
+line:02fe1e1,RhysObj2,"Tyrion: Let me remind you that perjury is a crime, Rudolf!",Tyrion: 我提醒你，作伪证可是犯罪行为，鲁道夫！
+line:0d7bbfd,RhysObj2,"Tyrion: If you are found to have lied in your testimony,[p/][s/] I will personally see to it that you’re prosecuted!",Tyrion: 如果发现你在作证时说谎，[p/][s/]我会确保你受到起诉！
+line:04a0f2e,RhysObj2,Rhys: N-[p/][s/]No![p/][s/] Wait!,Rhys: 不、[p/][s/]不要！[p/][s/]等一等！
+line:0877384,RhysObj2,Garrick: Now that is quite enough of that.,Garrick: 闹够了吧。
+line:0892875,RhysObj2b,"Garrick Pierce had stood up from within the gallery and walked to the witness stand,[p/] shoving Rudolf out of his way.",加里克·皮尔斯从旁听席站起，走向证人席，示意鲁道夫下去。
+line:0f73e8c,RhysObj2b,"He’d broken several laws with that one act alone,[p/] but no one moved to stop him.",这个举措实际上违反了好几条法规，[p/]但没有人阻止他。
+line:00a8273,RhysObj2b,The bailiff looked to the judge wearily and awaited instruction.,法警小心翼翼地看向法官，等待指示。
+line:0ac64f8,RhysObj2b,The judge said nothing.[p/] His eyes simply narrowed as he waited for Pierce’s next move.,法官一言不发，[p/]只是眯起眼睛，等待皮尔斯的下一个举动。
+line:00e7a41,RhysObj2b,AriaC: Pierce![p/][s/] There is no need for you to take the stand!,AriaC: 皮尔斯！[p/][s/]不需要你出庭作证！
+line:0783c3c,RhysObj2b,"Garrick: Nonsense,[p/] I have nothing to hide.",Garrick: 无稽之谈。[p/]我身正不怕影子斜。
+line:05bcd30,RhysObj2b,Garrick: I will not stand idly by while your case falls apart.,Garrick: 我不会坐视你的惨败。
 line:0232773,RhysObj2b,AriaC: ...,AriaC: ……
-line:0d93014,RhysObj2b,"It seemed that for the first time,[p/] the Prosecutor had lost control of the room.",
-line:0aef58e,RhysObj2b,"Judge: ...What is the meaning of this, Ms. Steelwind?",
-line:09bf6d0,RhysObj2b,"AriaC: [i]*sigh*[/i][p/] This is Garrick Pierce, Your Honor.",
-line:0acf0cb,RhysObj2b,Garrick: I am the honorable lord of Kornhaven and many other villages in that region.,
-line:0481cc3,RhysObj2c,Garrick: I’m afraid I must apologize.[p/] These...[p/] misunderstandings have been entirely my fault.,
-line:0734562,RhysObj2c,"Judge: What do you mean, Lord Pierce?",
-line:0184392,RhysObj2c,Garrick: You see...[p/] Rudolf was not the one who witnessed the crime that fateful night.,
-line:0f67b6f,RhysObj2c,Garrick: It was me.[p/] I was the one who saw that gruesome attack.[p/],
-line:0e73ef1,RhysObj2c,Garrick: I had my driver report the body so that I could remain anonymous.,
-line:0a7d72f,RhysObj2c,Tyrion: Are you saying that you had Rudolf [i]lie[/i] for you?!,
-line:03871a1,RhysObj2c,Garrick: I simply dictated to him what I saw and had him repeat that to law enforcement.,
-line:02bf4b6,RhysObj2c,"Garrick: With what's been in the news lately, [p/] it simply wouldn’t do for a member of the nobility to appear publicly in court.",
-line:0f4392c,RhysObj2c,"Garrick: But alas,[p/] it appears the time for discretion has passed.",
-line:03e6520,RhysObj2c,"Judge: Lord Pierce![p/][s/] Regardless of your good intentions,[p/][s/] this is a very clear act of perjury!",
-line:0cc2485,RhysObj2c,"Garrick: I understand,[p/] and I will accept the consequences of that.",
-line:0c279be,RhysObj2c,"Garrick: However,[p/] I would be remiss if Rudolf’s shoddy testimony allowed that girl to escape justice.",
-line:0de1b75,RhysObj2c,"Garrick: Please, Your Honor.[p/] Allow me to testify as to what I saw that night.",
-line:09b3a1c,RhysObj2c,Judge: ...,
-line:029a8d1,RhysObj2c,"Judge: Very well.[p/] This is highly irregular,[p/] but I believe the court will benefit from your testimony.",
-line:0ed0b75,RhysObj2c,"Judge: However,[p/] know that this misconduct will not be without consequences.",
-line:0f28879,RhysObj2c,Garrick: Very well.,
-line:0deba43,RhysObj2c,"From the look on the lord's face,[p/] it was clear he would only get off with a slap on the wrist.",
+line:0d93014,RhysObj2b,"It seemed that for the first time,[p/] the Prosecutor had lost control of the room.",看起来，[p/]检察官第一次失去了对庭审的控制。
+line:0aef58e,RhysObj2b,"Judge: ...What is the meaning of this, Ms. Steelwind?",Judge: ……这是什么意思，斯蒂尔文德女士？
+line:09bf6d0,RhysObj2b,"AriaC: [i]*sigh*[/i][p/] This is Garrick Pierce, Your Honor.",AriaC: [i]*叹气*[/i][p/]法官阁下，这是加里克·皮尔斯。
+line:0acf0cb,RhysObj2b,Garrick: I am the honorable lord of Kornhaven and many other villages in that region.,Garrick: 我是科尔哈文和哪个地区其他村庄的尊贵领主。
+line:0481cc3,RhysObj2c,Garrick: I’m afraid I must apologize.[p/] These...[p/] misunderstandings have been entirely my fault.,Garrick: 恐怕我必须道歉。[p/]这些……[p/]误会都是我的过错。
+line:0734562,RhysObj2c,"Judge: What do you mean, Lord Pierce?",Judge: 您这是什么意思，皮尔斯勋爵？
+line:0184392,RhysObj2c,Garrick: You see...[p/] Rudolf was not the one who witnessed the crime that fateful night.,Garrick: 事实上……[p/]鲁道夫并非亲眼目睹那个命运之夜的人。
+line:0f67b6f,RhysObj2c,Garrick: It was me.[p/] I was the one who saw that gruesome attack.[p/],Garrick: 实际上是我。[p/]是我目睹了那场可怕的袭击。[p/]
+line:0e73ef1,RhysObj2c,Garrick: I had my driver report the body so that I could remain anonymous.,Garrick: 我命令自己的车夫报告了尸体，让自己保持匿名。
+line:0a7d72f,RhysObj2c,Tyrion: Are you saying that you had Rudolf [i]lie[/i] for you?!,Tyrion: 你是说你让鲁道夫为了你[i]撒谎[/i]？！
+line:03871a1,RhysObj2c,Garrick: I simply dictated to him what I saw and had him repeat that to law enforcement.,Garrick: 我只是让他对执法人员重复一遍我看见的内容而已。
+line:02bf4b6,RhysObj2c,"Garrick: With what's been in the news lately, [p/] it simply wouldn’t do for a member of the nobility to appear publicly in court.",Garrick: 考虑到近期的新闻，[p/]贵族成员公开出现在法庭里不合适。
+line:0f4392c,RhysObj2c,"Garrick: But alas,[p/] it appears the time for discretion has passed.",Garrick: 但是很遗憾，[p/]现在不该再那么谨慎行事了。
+line:03e6520,RhysObj2c,"Judge: Lord Pierce![p/][s/] Regardless of your good intentions,[p/][s/] this is a very clear act of perjury!",Judge: 皮尔斯勋爵！[p/][s/]就算你有好的本意，[p/][s/]这个行为明显构成伪证了！
+line:0cc2485,RhysObj2c,"Garrick: I understand,[p/] and I will accept the consequences of that.",Garrick: 我理解。[p/]我也愿意承担这一行为的后果。
+line:0c279be,RhysObj2c,"Garrick: However,[p/] I would be remiss if Rudolf’s shoddy testimony allowed that girl to escape justice.",Garrick: 然而，[p/]如果鲁道夫拙劣的证词让那个女孩逃脱正义的制裁，那就是我的失职。
+line:0de1b75,RhysObj2c,"Garrick: Please, Your Honor.[p/] Allow me to testify as to what I saw that night.",Garrick: 法官阁下，在此向您求情。[p/]请允许我就那晚的见闻作证。
+line:09b3a1c,RhysObj2c,Judge: ...,Judge: ……
+line:029a8d1,RhysObj2c,"Judge: Very well.[p/] This is highly irregular,[p/] but I believe the court will benefit from your testimony.",Judge: 那好吧。[p/]这极其不寻常，[p/]但我相信你的证言会对法庭有助益。
+line:0ed0b75,RhysObj2c,"Judge: However,[p/] know that this misconduct will not be without consequences.",Judge: 然而，[p/]请知晓，这种不当行为不会没有后果。
+line:0f28879,RhysObj2c,Garrick: Very well.,Garrick: 没问题。
+line:0deba43,RhysObj2c,"From the look on the lord's face,[p/] it was clear he would only get off with a slap on the wrist.",从勋爵的脸色看来，[p/]他显然只会受到轻微的处罚。
 line:034c667,GarTestimony,"Garrick: On the night of the murder,[p/] I found myself unable to sleep.[p/] So, I took a leisurely carriage ride around Kornhaven.",
 line:0c7d11b,GarTestimony,Garrick: I happened to be passing by the McCoy tavern when I heard a loud commotion from within the building.,
 line:0bf9acd,GarTestimony,"Garrick: Curious,[p/] I stopped my carriage and took a single step inside the establishment.[p/] That is when I saw the scene inside.",
