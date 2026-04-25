@@ -18937,330 +18937,330 @@
   {
     "key": "C1 Dialogue.csv::translation::f217679c81abeb68",
     "original": "Judge: That’s enough![p/] It appears that the prosecution has no objections.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 够了！[p/] 看来检方没有反对意见。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c03fb1\",\n  \"node\": \"GarObj2\",\n  \"text\": \"Judge: That’s enough![p/] It appears that the prosecution has no objections.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a7f0576af84438c6",
     "original": "Judge: With everything that has occurred,[p/] I’m afraid I must ask Lord Pierce to relinquish his Spell Compendium to the court.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 鉴于法庭上发生的一切，[p/]我必须要求皮尔斯勋爵将他的[b]法术汇编[/b]上交法庭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b20188\",\n  \"node\": \"GarObj2\",\n  \"text\": \"Judge: With everything that has occurred,[p/] I’m afraid I must ask Lord Pierce to relinquish his Spell Compendium to the court.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::263ee30e75deb873",
     "original": "Celeste: We did it![p/][s/] We got his Spell Compendium!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们做到了！[p/][s/] 有他的法术汇编了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00550de\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Celeste: We did it![p/][s/] We got his Spell Compendium!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::24fe8a625d0bbd2a",
     "original": "With that,[p/] the case was as good as ours.",
-    "translation": "",
-    "stage": 0,
+    "translation": "有了那个，[p/] 这场诉讼就对我们有利了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05e1ee5\",\n  \"node\": \"GarObj3\",\n  \"text\": \"With that,[p/] the case was as good as ours.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2656d73e1e75c929",
     "original": "...Or was it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a5318\",\n  \"node\": \"GarObj3\",\n  \"text\": \"...Or was it?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6df316866ca080a5",
     "original": "She didn’t even try to stop me from taking his Spell Compendium.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她甚至都没妨碍我获取他的法术汇编。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08af325\",\n  \"node\": \"GarObj3\",\n  \"text\": \"She didn’t even try to stop me from taking his Spell Compendium.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e263f67a8f092143",
     "original": "I doubted she’d do that just to spite Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "有点怀疑她对皮尔斯有个人恩怨。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a3530d\",\n  \"node\": \"GarObj3\",\n  \"text\": \"I doubted she’d do that just to spite Pierce.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::21e027a8d1a555d8",
     "original": "Tyrion: Your Honor,[p/] I’ve looked at the spells in Lord Pierce’s Compendium.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法官阁下，[p/] 我已经检查了皮尔斯勋爵的汇编中的法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:032771f\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Tyrion: Your Honor,[p/] I’ve looked at the spells in Lord Pierce’s Compendium.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::84eb303707ec6649",
     "original": "Tyrion: [b]Conjure Light[/b] is the only spell that he can cast that would shed a blue light.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: [b]祈愿光芒[/b]是他唯一能施放的发出蓝光的法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0219f1d\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Tyrion: [b]Conjure Light[/b] is the only spell that he can cast that would shed a blue light.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3887950443f5eb35",
     "original": "Tyrion: It's clear that his testimony and many of his statements were false.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 显然他的证言中许多陈述都与事实不符。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a48ef7\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Tyrion: It's clear that his testimony and many of his statements were false.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2c8b453c01fd37ec",
     "original": "Garrick: ...! [h=\"This little brat!|Such insolence!\" e=\"af\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: ……！[h=\"这个小混蛋！|如此傲慢无礼！\" e=\"af\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a76f25\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Garrick: ...! [h=\\\"This little brat!|Such insolence!\\\" e=\\\"af\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d14eae04cc0d0c77",
     "original": "Tyrion: Lord Pierce could very well be a suspect in the murder of Flinhart McCoy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 皮尔斯勋爵很可能是杀害弗林哈特·麦考伊的嫌疑人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:049482e\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Tyrion: Lord Pierce could very well be a suspect in the murder of Flinhart McCoy.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d6c1179e765938c3",
     "original": "Tyrion: I’d argue that this presents enough reasonable doubt to acquit the defendant.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我认为现有的证据足以判决被告无罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03f1b0f\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Tyrion: I’d argue that this presents enough reasonable doubt to acquit the defendant.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1bc649f6a214264c",
     "original": "Judge: ...Mr. Cuthbert,[p/] I acknowledge that Lord Pierce’s actions are quite suspect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: ……卡斯伯特先生，[p/] 我承认皮尔斯勋爵的行径确实十分可疑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07ebc95\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Judge: ...Mr. Cuthbert,[p/] I acknowledge that Lord Pierce’s actions are quite suspect.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7742821b7a5b906e",
     "original": "Judge: However,[p/] I will not pass a verdict just yet.[p/] There is much more we need to learn.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 然而，[p/] 我目前不会下达任何判决，[p/] 此案还有许多谜团。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ee8f0a\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Judge: However,[p/] I will not pass a verdict just yet.[p/] There is much more we need to learn.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0289d39b2b5b01e8",
     "original": "Celeste: What?[p/][s/] That’s not how it works!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 什么？！[p/][s/]不应该是这样的吧！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ff231d\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Celeste: What?[p/][s/] That’s not how it works!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b34d2155ece07139",
     "original": "Celeste: We proved that there’s reasonable doubt![p/][s/] That should be enough to acquit me, right?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们已经证明存在合理的疑点了！[p/][s/] 这足以判我无罪了吧？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:056b3a5\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Celeste: We proved that there’s reasonable doubt![p/][s/] That should be enough to acquit me, right?!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ec179f3ae4c630ed",
     "original": "Tyrion: ...In a normal case, maybe,[p/] but the situation is different for this trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……换个普通的案件或许是这样的，[p/] 但这场审判的情况不一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0820291\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Tyrion: ...In a normal case, maybe,[p/] but the situation is different for this trial.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::231cd86777432e7d",
     "original": "Tyrion: The public won’t accept an unsolved homicide involving magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 公众不会允许魔法相关的谋杀案悬而未决。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aa68bb\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Tyrion: The public won’t accept an unsolved homicide involving magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::278dede8f8201619",
     "original": "Tyrion: Unless we can unequivocally prove your innocence,[p/] the court will keep drawing things out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 除非我们能明确证明你的无辜，[p/]否则庭审只会继续下去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0912c66\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Tyrion: Unless we can unequivocally prove your innocence,[p/] the court will keep drawing things out.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c54bb0c618896483",
     "original": "Celeste: What!?[p/] But...[p/][s/] that’s not fair!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 什么？[p/]但……[p/][s/]这不公平！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01ccde3\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Celeste: What!?[p/] But...[p/][s/] that’s not fair!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::96023f6d852eacc2",
     "original": "Tyrion: That’s just how our system works...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这就是我们的司法系统的运作方式……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:012ffc1\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Tyrion: That’s just how our system works...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0c3dc5f692a1e67d",
     "original": "Tyrion: The kingdom has always cared more about easing public tension than delivering justice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 王国向来更在乎平息民愤，而非伸张正义。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d8dece\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Tyrion: The kingdom has always cared more about easing public tension than delivering justice.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::828f7750f26ce3f0",
     "original": "Celeste: Are you serious...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……你是认真的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c7b9b\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Celeste: Are you serious...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1b0c6fca51c195f6",
     "original": "Judge: The court will be suspending the trial of Celeste McCoy until further notice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 法庭将中止对塞莱斯特·麦考伊的审理，直至另行通知。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0218c10\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Judge: The court will be suspending the trial of Celeste McCoy until further notice.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bb653638be8d9975",
     "original": "Judge: We have no choice but to give the Inquisition time to investigate Lord Pierce as a possible suspect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 我们别无选择只能给裁判所更多时间来调查皮尔斯勋爵是否有作案嫌疑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a22505\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Judge: We have no choice but to give the Inquisition time to investigate Lord Pierce as a possible suspect.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4c11d2bcd45b5136",
     "original": "AriaC: A “possible suspect\"?[p/] The very idea of that is preposterous, Your Honor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: “作案嫌疑”？[p/] 这种说法可真荒谬，法官阁下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:016ea7d\",\n  \"node\": \"GarObj4\",\n  \"text\": \"AriaC: A “possible suspect\\\"?[p/] The very idea of that is preposterous, Your Honor.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::28f30e373b8be82d",
     "original": "What else did she have up her sleeve?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她还有什么别的底牌？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0542cc1\",\n  \"node\": \"GarObj4\",\n  \"text\": \"What else did she have up her sleeve?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c1e8e3f9b0ce56d2",
     "original": "AriaC: Let’s revisit the basic facts of this case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 让我们再重温下此案的一些基本事实。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02cba7a\",\n  \"node\": \"GarObj4\",\n  \"text\": \"AriaC: Let’s revisit the basic facts of this case.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::89553a7e562a0234",
     "original": "AriaC: Flinhart McCoy was murdered using a blade with a [b]transmutation[/b] spell active on it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 弗林哈特·麦考伊是被一把附有[b]形变术[/b]的刃器杀害的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cd1cf6\",\n  \"node\": \"GarObj4\",\n  \"text\": \"AriaC: Flinhart McCoy was murdered using a blade with a [b]transmutation[/b] spell active on it.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::32c3e9ce7f3cb48c",
     "original": "AriaC: Mr. Cuthbert,[p/] why don’t you tell me the spells that Lord Pierce knows?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 卡斯伯特先生，[p/]要不你来告诉我皮尔斯勋爵知晓的法术都有哪些吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03d07df\",\n  \"node\": \"GarObj4\",\n  \"text\": \"AriaC: Mr. Cuthbert,[p/] why don’t you tell me the spells that Lord Pierce knows?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2d51935a4e6e60c2",
     "original": "Tyrion: His spells are: [b]Prestidigitation[/b], [b]Conjure Light[/b], [b]Conjure Water[/b], [b]Frost Wave[/b], and [b]Shape Liquid[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他拥有的法术有: [b]魔术戏法[/b]，[b]祈愿光芒[/b]，[b]造水术[/b]，[b]霜波[/b]，以及[b]形变液体[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02e9049\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Tyrion: His spells are: [b]Prestidigitation[/b], [b]Conjure Light[/b], [b]Conjure Water[/b], [b]Frost Wave[/b], and [b]Shape Liquid[/b].\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::844adc17f62edd24",
     "original": "Wait a minute...",
-    "translation": "",
-    "stage": 0,
+    "translation": "等一下……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0910db4\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Wait a minute...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0d5640b501534f8a",
     "original": "AriaC: You’ve realized it too,[p/] haven’t you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你也注意到了，[p/] 是不是？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09dc961\",\n  \"node\": \"GarObj4\",\n  \"text\": \"AriaC: You’ve realized it too,[p/] haven’t you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ca94d413c1afe8a8",
     "original": "AriaC: The witness doesn’t know any [b]transmutation[/b] spells that can be channeled through a solid object!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 证人不会任何能用于固体的[b]形变术[/b]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a2609\",\n  \"node\": \"GarObj4\",\n  \"text\": \"AriaC: The witness doesn’t know any [b]transmutation[/b] spells that can be channeled through a solid object!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a722cb5c4b1026c6",
     "original": "Tyrion: That can't be right!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不可能！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c3b058\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Tyrion: That can't be right!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::86200395165f425f",
     "original": "Garrick: Ha![p/][s/] You’re right![p/][s/] You’re absolutely right, Steelwind!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Garrick: 哈！[p/][s/]你说得对啊！[p/][s/]你说得完全正确，斯蒂尔文德！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:028636d\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Garrick: Ha![p/][s/] You’re right![p/][s/] You’re absolutely right, Steelwind!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0a697ff68242639d",
     "original": "Judge: I see...[p/] If all of that is true,[p/] that would still leave the defendant as the only possible killer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 我明白了……[p/] 如此看来，被告仍是唯一的犯罪嫌疑人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0964f91\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Judge: I see...[p/] If all of that is true,[p/] that would still leave the defendant as the only possible killer.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b3b9cc95e9728dda",
     "original": "Celeste: But he was the only other mage there![p/][s/] It has to be him!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但他是唯一在场的另一个法师！[p/][s/] 凶手一定是他！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c2d138\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Celeste: But he was the only other mage there![p/][s/] It has to be him!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6acc29458cb46aee",
     "original": "Tyrion: But he doesn’t know any [b]transmutation[/b] spells that could be cast on your sword.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但他不知道任何可以施法在你剑上的[b]形变术[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:032683d\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Tyrion: But he doesn’t know any [b]transmutation[/b] spells that could be cast on your sword.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1703d54dae45f03d",
     "original": "Tyrion: We can’t prove that he stabbed him while using magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们没法证明他刺杀你父亲的同时使用了魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0145804\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Tyrion: We can’t prove that he stabbed him while using magic.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c1219fda9e5a0a7b",
     "original": "Celeste: Wait...[p/] How did he do it then?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 等下……[p/] 那他是怎么做到的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:028e47a\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Celeste: Wait...[p/] How did he do it then?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7c8c3c7e5b0e1649",
     "original": "She was right![p/] How [i]did[/i] he do it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她说的对！[p/] 他是[i]怎么[/i]做到的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0028d79\",\n  \"node\": \"GarObj4\",\n  \"text\": \"She was right![p/] How [i]did[/i] he do it?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f889766cae3d6fe2",
     "original": "Since the beginning,[p/] I’d been bothered by the traces of [b]transmutation[/b] magic surrounding Flinhart’s body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "从一开始我就一直在思考弗林哈特尸体周围的[b]形变术[/b]魔法痕迹的问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:054f672\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Since the beginning,[p/] I’d been bothered by the traces of [b]transmutation[/b] magic surrounding Flinhart’s body.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2ab800fc241c35be",
     "original": "Originally,[p/] I’d thought that the killer had somehow magically altered the sword and the surrounding wooden floor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "起初，[p/] 我以为是凶手用什么魔法变化了那把剑和周围的木地板。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00cb67b\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Originally,[p/] I’d thought that the killer had somehow magically altered the sword and the surrounding wooden floor.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::730d3db7ed03395f",
     "original": "But none of Pierce's spells could do something like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但皮尔斯的法术没有一个能做到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0228e9b\",\n  \"node\": \"GarObj4\",\n  \"text\": \"But none of Pierce's spells could do something like that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::da8aa30be41de331",
     "original": "Those [b]transmutation[/b] traces were scattered all over the place.[p/] They didn’t even fully cover the sword.",
-    "translation": "",
-    "stage": 0,
+    "translation": "那些[b]形变术[/b]的魔法痕迹分布的到处都是。[p/] 甚至没完全附着剑的表面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06d6ae5\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Those [b]transmutation[/b] traces were scattered all over the place.[p/] They didn’t even fully cover the sword.\"\n}"
   },
   {
