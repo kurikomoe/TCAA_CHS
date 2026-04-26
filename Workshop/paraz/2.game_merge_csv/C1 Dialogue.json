@@ -13610,7 +13610,7 @@
   {
     "key": "C1 Dialogue.csv::translation::4e38cd0daca9ac1a",
     "original": "Orym: ...You know,[p/] we were deployed to one of those regions—[p/]the ones where her old man was squashing those \"rebellions\".",
-    "translation": "Orym: ……你知道的，[p/]我们有一次曾受雇于那个军团——[p/]就是她父亲手下镇压“叛乱”的那些人。",
+    "translation": "Orym: ……你知道的，[p/]我们有一次受命前往那些地区——[p/]就是她父亲手下镇压“叛乱”的地方。",
     "context": "{\n  \"id\": \"line:077cec4\",\n  \"node\": \"OrymAriaTalk\",\n  \"text\": \"Orym: ...You know,[p/] we were deployed to one of those regions—[p/]the ones where her old man was squashing those \\\"rebellions\\\".\"\n}"
   },
   {
@@ -15560,7 +15560,7 @@
   {
     "key": "C1 Dialogue.csv::translation::f7c1343c35f885e2",
     "original": "Garrick: I am the honorable lord of Kornhaven and many other villages in that region.",
-    "translation": "Garrick: 我是科尔哈文和哪个地区其他村庄的尊贵领主。",
+    "translation": "Garrick: 我是科尔哈文和那个地区其他村庄的尊贵领主。",
     "context": "{\n  \"id\": \"line:0acf0cb\",\n  \"node\": \"RhysObj2b\",\n  \"text\": \"Garrick: I am the honorable lord of Kornhaven and many other villages in that region.\"\n}"
   },
   {
@@ -16226,7 +16226,7 @@
   {
     "key": "C1 Dialogue.csv::translation::0593cc4367263462",
     "original": "Garrick: Steelwind,[p/][s/] you treacherous-!",
-    "translation": "",
+    "translation": "Garrick: 斯蒂尔文德，[p/][s/]你背叛——！",
     "context": "{\n  \"id\": \"line:0ce91a4\",\n  \"node\": \"GarObj2\",\n  \"text\": \"Garrick: Steelwind,[p/][s/] you treacherous-!\"\n}"
   },
   {
@@ -16382,7 +16382,7 @@
   {
     "key": "C1 Dialogue.csv::translation::bb653638be8d9975",
     "original": "Judge: We have no choice but to give the Inquisition time to investigate Lord Pierce as a possible suspect.",
-    "translation": "Judge: 我们别无选择只能给裁判所更多时间来调查皮尔斯勋爵是否有作案嫌疑。",
+    "translation": "Judge: 我们别无选择，只能给裁判所更多时间来调查皮尔斯勋爵是否有作案嫌疑。",
     "context": "{\n  \"id\": \"line:0a22505\",\n  \"node\": \"GarObj3\",\n  \"text\": \"Judge: We have no choice but to give the Inquisition time to investigate Lord Pierce as a possible suspect.\"\n}"
   },
   {
@@ -16514,49 +16514,49 @@
   {
     "key": "C1 Dialogue.csv::translation::1b58608d043d8728",
     "original": "So what if he didn’t use a sword?[p/] What if he used something else?",
-    "translation": "",
+    "translation": "所以如果他没有使用剑呢？[p/]如果他用的是其他的东西呢？",
     "context": "{\n  \"id\": \"line:07f0ef4\",\n  \"node\": \"GarObj4\",\n  \"text\": \"So what if he didn’t use a sword?[p/] What if he used something else?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0e4ad6f8f27c2981",
     "original": "Judge: The defense did cast some doubt on this witness’s testimony.",
-    "translation": "",
+    "translation": "Judge: 辩方确实就证人的证词提出了几点可质疑之处。",
     "context": "{\n  \"id\": \"line:049224c\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Judge: The defense did cast some doubt on this witness’s testimony.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5aa88c43cac8098a",
     "original": "Judge: Nevertheless,[p/] I must conclude that he could not have possibly committed the murder.",
-    "translation": "",
+    "translation": "Judge: 然而，[p/]我的结论还是他没有可能实施谋杀。",
     "context": "{\n  \"id\": \"line:0a81e93\",\n  \"node\": \"GarObj4\",\n  \"text\": \"Judge: Nevertheless,[p/] I must conclude that he could not have possibly committed the murder.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::5b202f95dd43921c",
     "original": "Judge: With that in mind—",
-    "translation": "",
+    "translation": "Judge: 考虑到这一点——",
     "context": "{\n  \"id\": \"line:03d653e\",\n  \"node\": \"GarObj5\",\n  \"text\": \"Judge: With that in mind—\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::43f7325805337251",
     "original": "Tyrion: Please wait, Your Honor!",
-    "translation": "",
+    "translation": "Tyrion: 请等一下，法官阁下！",
     "context": "{\n  \"id\": \"line:0a371ce\",\n  \"node\": \"GarObj5\",\n  \"text\": \"Tyrion: Please wait, Your Honor!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::146aa8cac215cd75",
     "original": "Tyrion: We still can’t rule out Pierce as a suspect just yet.",
-    "translation": "",
+    "translation": "Tyrion: 我们现在仍然不能把皮尔斯排除在嫌疑人之外。",
     "context": "{\n  \"id\": \"line:09f01c6\",\n  \"node\": \"GarObj5\",\n  \"text\": \"Tyrion: We still can’t rule out Pierce as a suspect just yet.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7b49226257379c1e",
     "original": "Garrick: What are you on about?[p/][s/] Lady Steelwind said it herself!",
-    "translation": "",
+    "translation": "Garrick: 你还要纠缠什么？[p/][s/]斯蒂尔文德小姐已经说得很明白了！",
     "context": "{\n  \"id\": \"line:02c720f\",\n  \"node\": \"GarObj5\",\n  \"text\": \"Garrick: What are you on about?[p/][s/] Lady Steelwind said it herself!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::91bc4321a4470d7a",
     "original": "Garrick: I don’t know any spells that can be channeled through a blade!",
-    "translation": "",
+    "translation": "Garrick: 我并不掌握任何可以作用在剑上的法术！",
     "context": "{\n  \"id\": \"line:041a34a\",\n  \"node\": \"GarObj5\",\n  \"text\": \"Garrick: I don’t know any spells that can be channeled through a blade!\"\n}"
   },
   {
@@ -16568,133 +16568,133 @@
   {
     "key": "C1 Dialogue.csv::translation::b1ad677790d98a50",
     "original": "No...[p/] Pierce didn't have a spell that could be channeled through Celeste's sword.",
-    "translation": "",
+    "translation": "不对……[p/]皮尔斯没有可以作用在塞莱斯特剑上的法术。",
     "context": "{\n  \"id\": \"line:07408a8\",\n  \"node\": \"GarObj6\",\n  \"text\": \"No...[p/] Pierce didn't have a spell that could be channeled through Celeste's sword.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8328cf6c51d053d1",
     "original": "Which meant that those traces of [b]transmutation[/b] magic must have come from somewhere else.",
-    "translation": "",
+    "translation": "也就是说那些b]形变术[/b]的痕迹肯定来自于其他的东西。",
     "context": "{\n  \"id\": \"line:04f264b\",\n  \"node\": \"GarObj6\",\n  \"text\": \"Which meant that those traces of [b]transmutation[/b] magic must have come from somewhere else.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::86aa6f0792a90162",
     "original": "Not only that,[p/] they must have come from the spell that Pierce used to stab Flinhart.",
-    "translation": "",
+    "translation": "不止如此，[p/]还肯定是来自于皮尔斯用于刺杀弗林哈特的那个法术。",
     "context": "{\n  \"id\": \"line:005bca5\",\n  \"node\": \"GarObj6\",\n  \"text\": \"Not only that,[p/] they must have come from the spell that Pierce used to stab Flinhart.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e8b66cef7600c661",
     "original": "Tyrion: ...But you didn’t use a metal blade, did you?",
-    "translation": "",
+    "translation": "Tyrion: ……但你用的不是金属做的剑，对吧？",
     "context": "{\n  \"id\": \"line:0548227\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Tyrion: ...But you didn’t use a metal blade, did you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::cfedd8818fb86741",
     "original": "AriaC: What nonsense is this?[p/] The autopsy report clearly states that the wound was created by a blade.",
-    "translation": "",
+    "translation": "AriaC: 这是什么废话？[p/]尸检报告明确地指出，创伤是因剑刃造成的。",
     "context": "{\n  \"id\": \"line:0bfa1ac\",\n  \"node\": \"GarObj7\",\n  \"text\": \"AriaC: What nonsense is this?[p/] The autopsy report clearly states that the wound was created by a blade.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::435d677dfb301dc5",
     "original": "AriaC: If he didn’t channel magic through a blade,[p/] how could he have possibly committed the crime?",
-    "translation": "",
+    "translation": "AriaC: 如果他没有对剑施放法术，[p/]他怎么可能执行这次犯罪？",
     "context": "{\n  \"id\": \"line:0ae0d5b\",\n  \"node\": \"GarObj7\",\n  \"text\": \"AriaC: If he didn’t channel magic through a blade,[p/] how could he have possibly committed the crime?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::4f548729bd9a2136",
     "original": "Tyrion: Steelwind,[p/] Garrick Pierce didn’t kill the victim using a sword...",
-    "translation": "",
+    "translation": "Tyrion: 斯蒂尔文德，[p/加里克·皮尔斯并不是用剑杀死了被害者……",
     "context": "{\n  \"id\": \"line:0e0f334\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Tyrion: Steelwind,[p/] Garrick Pierce didn’t kill the victim using a sword...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8f2e440d0c06ac41",
     "original": "Tyrion: He killed him using an object shaped exactly like a sword!",
-    "translation": "",
+    "translation": "Tyrion: 他只是用一个与剑造型相同的东西杀死了弗林哈特！",
     "context": "{\n  \"id\": \"line:0746900\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Tyrion: He killed him using an object shaped exactly like a sword!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0753162ca39eca27",
     "original": "Garrick: ...?! [h=\"No...|Does he know the truth?!\" e=\"fa\"/]",
-    "translation": "",
+    "translation": "Garrick: ……？！[h=\"不会吧……|他发现真相了？！\" e=\"fa\"/]",
     "context": "{\n  \"id\": \"line:03b72c5\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Garrick: ...?! [h=\\\"No...|Does he know the truth?!\\\" e=\\\"fa\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3df5c153cbdab475",
     "original": "AriaC: What...?",
-    "translation": "",
+    "translation": "AriaC: 什么……？",
     "context": "{\n  \"id\": \"line:021cfe5\",\n  \"node\": \"GarObj7\",\n  \"text\": \"AriaC: What...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::adc71a2694237226",
     "original": "Judge: I’m afraid I don’t quite understand, Mr. Cuthbert.",
-    "translation": "",
+    "translation": "Judge: 我恐怕没有很明白你的意思，卡斯伯特先生。",
     "context": "{\n  \"id\": \"line:0599f23\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Judge: I’m afraid I don’t quite understand, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f0f52f1c7a22a24a",
     "original": "Tyrion: Your Honor,[p/] I'd like to bring your attention to Pierce’s Spell Compendium.",
-    "translation": "",
+    "translation": "Tyrion: 法官阁下，[p/]请您仔细看看皮尔斯的法术汇编。",
     "context": "{\n  \"id\": \"line:014192a\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Tyrion: Your Honor,[p/] I'd like to bring your attention to Pierce’s Spell Compendium.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::05719b29a19a54ff",
     "original": "Tyrion: Garrick Pierce knows a seemingly insignificant spell called [b]Shape Liquid[/b].",
-    "translation": "",
+    "translation": "Tyrion: 加里克·皮尔斯知道如何施放一个叫做[b]形变液体[/b]的魔法。",
     "context": "{\n  \"id\": \"line:0ce5b2e\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Tyrion: Garrick Pierce knows a seemingly insignificant spell called [b]Shape Liquid[/b].\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2d61b82999aac5a6",
     "original": "Tyrion: With it,[p/] he can control any liquid and mold it into any complex shape he wants.",
-    "translation": "",
+    "translation": "Tyrion: 用这个，[p/]他能控制任何液体，并且将其塑造成他想要的任何复杂形状。",
     "context": "{\n  \"id\": \"line:0ea65a6\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Tyrion: With it,[p/] he can control any liquid and mold it into any complex shape he wants.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8102498104158f98",
     "original": "Tyrion: He can even freeze it.[p/][s/] Locking that shape in place!",
-    "translation": "",
+    "translation": "Tyrion: 他甚至能使之冻结，[p/][s/]保持那个形状不变！",
     "context": "{\n  \"id\": \"line:0fea7bd\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Tyrion: He can even freeze it.[p/][s/] Locking that shape in place!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9bbfd6648dd4408a",
     "original": "Tyrion: If he had enough water,[p/][s/] he could create a sword made [i]purely[/i] out of ice!",
-    "translation": "",
+    "translation": "Tyrion: 如果他有足够多的水，[p/][s/]他就能创造一把[i]纯粹是[/i]冰的剑！",
     "context": "{\n  \"id\": \"line:0affa54\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Tyrion: If he had enough water,[p/][s/] he could create a sword made [i]purely[/i] out of ice!\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ad294c8448da370e",
     "original": "AriaC: No...[p/] Is it possible that he...?",
-    "translation": "",
+    "translation": "AriaC: 不是吧……[p/]他真的有可能……？",
     "context": "{\n  \"id\": \"line:0184bc9\",\n  \"node\": \"GarObj7\",\n  \"text\": \"AriaC: No...[p/] Is it possible that he...?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8c311ece609288e4",
     "original": "Tyrion: What do you have to say for yourself, \"Lord\" Pierce?",
-    "translation": "",
+    "translation": "Tyrion: 你自己怎么觉得呢，皮尔斯“勋爵”？",
     "context": "{\n  \"id\": \"line:01efe97\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Tyrion: What do you have to say for yourself, \\\"Lord\\\" Pierce?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::17691904299c3064",
     "original": "Garrick: ... [h=\"This stubborn little brat!\" e=\"af\"/]",
-    "translation": "",
+    "translation": "Garrick: ……[h=\"这个顽固的小混蛋！\" e=\"af\"/]",
     "context": "{\n  \"id\": \"line:04d2e92\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Garrick: ... [h=\\\"This stubborn little brat!\\\" e=\\\"af\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d1ee474be8121475",
     "original": "Pierce’s breathing became frantic.[p/] He clearly wasn’t prepared to be backed into a corner like this.",
-    "translation": "",
+    "translation": "皮尔斯呼吸变得急促起来。[p/]他显然没预料到会被逼到这个份上。",
     "context": "{\n  \"id\": \"line:00a3402\",\n  \"node\": \"GarObj7\",\n  \"text\": \"Pierce’s breathing became frantic.[p/] He clearly wasn’t prepared to be backed into a corner like this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a20824eab130b77d",
     "original": "I could feel his frustration,[p/] stress,[p/] and fear emanating through the Eye of Horus.",
-    "translation": "",
+    "translation": "我能通过荷鲁斯之眼感到他的沮丧、[p/]紧张、[p/]与恐惧不断地散发出来。",
     "context": "{\n  \"id\": \"line:0319e25\",\n  \"node\": \"GarObj7\",\n  \"text\": \"I could feel his frustration,[p/] stress,[p/] and fear emanating through the Eye of Horus.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::11a16794e0ba5030",
     "original": "...The board was set.[p/] I just had to deliver the final blow.",
-    "translation": "",
+    "translation": "……大局已定。[p/]我只需好好收官。",
     "context": "{\n  \"id\": \"line:0bf4f95\",\n  \"node\": \"GarObj7\",\n  \"text\": \"...The board was set.[p/] I just had to deliver the final blow.\"\n}"
   },
   {
@@ -16706,19 +16706,19 @@
   {
     "key": "C1 Dialogue.csv::translation::6609ace9565d0747",
     "original": "There were some candles lighting up the hallway.[p/] It looked like they were a part of the old architecture.",
-    "translation": "",
+    "translation": "有几株蜡烛照亮了走廊。[p/]看起来像是这个老房子的一部分。",
     "context": "{\n  \"id\": \"line:0f3e593\",\n  \"node\": \"Upstairs_Examine\",\n  \"text\": \"There were some candles lighting up the hallway.[p/] It looked like they were a part of the old architecture.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::832a98ba577370fd",
     "original": "Several doors led to guest rooms.",
-    "translation": "",
+    "translation": "两边有几扇客房的门。",
     "context": "{\n  \"id\": \"line:04c4143\",\n  \"node\": \"Upstairs_Examine\",\n  \"text\": \"Several doors led to guest rooms.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e7dce1e8749e49cc",
     "original": "Aside from the rooms that Ms. Tymora and I used,[p/] they didn't look like they'd been opened for quite some time.",
-    "translation": "",
+    "translation": "除了我和泰摩拉女士使用的，[p/]其他的看起来已经有段时间没有打开过了。",
     "context": "{\n  \"id\": \"line:0ed9be5\",\n  \"node\": \"Upstairs_Examine\",\n  \"text\": \"Aside from the rooms that Ms. Tymora and I used,[p/] they didn't look like they'd been opened for quite some time.\"\n}"
   },
   {
@@ -16730,361 +16730,361 @@
   {
     "key": "C1 Dialogue.csv::translation::ba983f78b4a02089",
     "original": "There was a door at the end of the hallway.",
-    "translation": "",
+    "translation": "走廊的尽头有一扇门。",
     "context": "{\n  \"id\": \"line:04db3fa\",\n  \"node\": \"Upstairs_Examine\",\n  \"text\": \"There was a door at the end of the hallway.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3395482320fc1fbc",
     "original": "I saw light from under the door.[p/] Someone was inside.",
-    "translation": "",
+    "translation": "我在下方的门缝里看到一点光，[p/]里面有人。",
     "context": "{\n  \"id\": \"line:0820d0e\",\n  \"node\": \"Upstairs_Examine\",\n  \"text\": \"I saw light from under the door.[p/] Someone was inside.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0124274caa3906c7",
     "original": "I tried to open the door,[p/] but it seemed to be locked.",
-    "translation": "",
+    "translation": "我尝试打开门，[p/]但看起来是锁住的。",
     "context": "{\n  \"id\": \"line:0406dca\",\n  \"node\": \"Upstairs_Examine\",\n  \"text\": \"I tried to open the door,[p/] but it seemed to be locked.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0d5a26eb7ab71903",
     "original": "I knocked on the door,[p/] but received no answer in return.",
-    "translation": "",
+    "translation": "我敲了敲门，[p/]但没有人回答。",
     "context": "{\n  \"id\": \"line:0c0355a\",\n  \"node\": \"Upstairs_Examine\",\n  \"text\": \"I knocked on the door,[p/] but received no answer in return.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::38d7f9c02b34f34e",
     "original": "As I made my way up the stairs,[p/] I overheard Steelwind arguing with someone.",
-    "translation": "",
+    "translation": "当我走上楼梯时，[p/]正好听到斯蒂尔文德在和谁争辩。",
     "context": "{\n  \"id\": \"line:073aaec\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"As I made my way up the stairs,[p/] I overheard Steelwind arguing with someone.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7f25e74deb4954be",
     "original": "Aria: If you keep showing your face here,[p/] people will start asking questions.",
-    "translation": "",
+    "translation": "Aria: 要是你一直在这里露脸，[p/]人们就会开始问东问西。",
     "context": "{\n  \"id\": \"line:02cab98\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Aria: If you keep showing your face here,[p/] people will start asking questions.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1360d4fc41db9216",
     "original": "Aria: I have the investigation under control now.[p/] All you have to do is stay quiet until this is over.",
-    "translation": "",
+    "translation": "Aria: 我已经全面掌控了搜查。[p/]你只需要在结束前保持沉默。",
     "context": "{\n  \"id\": \"line:0bfd5dd\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Aria: I have the investigation under control now.[p/] All you have to do is stay quiet until this is over.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2f47641e7dbb439a",
     "original": "Garrick: You may be a Steelwind,[p/] but this is my land.[p/] I will do as I see fit.",
-    "translation": "",
+    "translation": "Garrick: 你是斯蒂尔文德家的人，[p/]但这是我的地盘。[p/]我会按照自己认为合适的方式行动。",
     "context": "{\n  \"id\": \"line:0c15d62\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: You may be a Steelwind,[p/] but this is my land.[p/] I will do as I see fit.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::eecfca12558c2e26",
     "original": "As I turned down the hallway,[p/] I bumped into what appeared to be a nobleman.",
-    "translation": "",
+    "translation": "当我走进走廊时，[p/]我撞上一个看着像是贵族的人。",
     "context": "{\n  \"id\": \"line:08b50f5\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"As I turned down the hallway,[p/] I bumped into what appeared to be a nobleman.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d46b9a0b9b8c4752",
     "original": "With a quick motion,[p/] he drew a handkerchief to clean the parts of his clothes that had brushed against me,[p/] his cold gaze hardening into a contemptuous glare.",
-    "translation": "",
+    "translation": "他以迅速的动作拿出手帕，[p/]擦拭被我蹭到的衣角，[p/]冷漠的目光逐渐转为轻蔑的凝视。",
     "context": "{\n  \"id\": \"line:042ebcc\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"With a quick motion,[p/] he drew a handkerchief to clean the parts of his clothes that had brushed against me,[p/] his cold gaze hardening into a contemptuous glare.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e9382e8951146aae",
     "original": "He gave me the same look he'd probably give to a rotting pile of excrement on the Kornhaven streets.",
-    "translation": "",
+    "translation": "他看我的眼神，就像是在看科尔哈文街上的一堆腐烂的粪便。",
     "context": "{\n  \"id\": \"line:0a6e917\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"He gave me the same look he'd probably give to a rotting pile of excrement on the Kornhaven streets.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::a20f623c4a8a19f0",
     "original": "Tyrion: Oh, sorry.",
-    "translation": "",
+    "translation": "Tyrion: 噢，抱歉。",
     "context": "{\n  \"id\": \"line:02bc347\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Tyrion: Oh, sorry.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c474f71b3262cda6",
     "original": "Garrick: Watch where you’re going, you weed.",
-    "translation": "",
+    "translation": "Garrick: 你干嘛呢，杂草。",
     "context": "{\n  \"id\": \"line:0ae259b\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: Watch where you’re going, you weed.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f73a541c7833743a",
     "original": "Garrick: ...Ah![p/][p/] You're that defense attorney from the trial, aren’t you?",
-    "translation": "",
+    "translation": "Garrick: ……啊！[p/][p/]你是法庭上那个辩护律师，不是吗？",
     "context": "{\n  \"id\": \"line:031f820\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: ...Ah![p/][p/] You're that defense attorney from the trial, aren’t you?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f6658e749c372de0",
     "original": "Tyrion: ...And you are?",
-    "translation": "",
+    "translation": "Tyrion: ……那你是？",
     "context": "{\n  \"id\": \"line:05d3f0e\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Tyrion: ...And you are?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::21394ae4ba42b23a",
     "original": "Garrick: I am Garrick Pierce,[p/] the ruling noble of this land.",
-    "translation": "",
+    "translation": "Garrick: 我是加里克·皮尔斯，[p/]这里的领主贵族。",
     "context": "{\n  \"id\": \"line:0ef8328\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: I am Garrick Pierce,[p/] the ruling noble of this land.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::85915ffb8842d0de",
     "original": "Garrick: I suppose I should thank you for playing your role in the current trial. [h=\"If only you weren’t|such a stubborn nuisance...\" e=\"af\" /]",
-    "translation": "",
+    "translation": "Garrick: 我想我得为你在庭审中称职的表现而感谢你。[h=\"要是你不是如此|固执得讨人厌就好了……\" e=\"af\" /]",
     "context": "{\n  \"id\": \"line:0940569\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: I suppose I should thank you for playing your role in the current trial. [h=\\\"If only you weren’t|such a stubborn nuisance...\\\" e=\\\"af\\\" /]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3e05aa50d8633262",
     "original": "Tyrion: ...I suppose that you also believe my client is guilty?",
-    "translation": "",
+    "translation": "Tyrion: ……那我可以认为你也相信我的委托人无辜吗？",
     "context": "{\n  \"id\": \"line:06f0a10\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Tyrion: ...I suppose that you also believe my client is guilty?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::fe3ce8d145723548",
     "original": "Garrick: I never said that.",
-    "translation": "",
+    "translation": "Garrick: 我可没这么说。",
     "context": "{\n  \"id\": \"line:0b90c28\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: I never said that.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8c4b4adc0393aac6",
     "original": "Tyrion: But I'm not wrong, am I?",
-    "translation": "",
+    "translation": "Tyrion: 但我并没说错，不是吗？",
     "context": "{\n  \"id\": \"line:0a05a09\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Tyrion: But I'm not wrong, am I?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2c4a249678687873",
     "original": "Garrick: ...It matters not what I believe.[p/] This entire scandal has done nothing but rile up the public.",
-    "translation": "",
+    "translation": "Garrick: ……我怎么认为不重要。[p/]这桩丑闻除了激化民愤，别无他用。",
     "context": "{\n  \"id\": \"line:07c77bb\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: ...It matters not what I believe.[p/] This entire scandal has done nothing but rile up the public.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::1a4d3c2032b18f00",
     "original": "Garrick: Magic is a gift for the nobility and the nobility alone.[p/] It is a symbol of our cosmic right to rule.",
-    "translation": "",
+    "translation": "Garrick: 法术是赠予贵族，且只赠予贵族的的。[p/]这象征着我们生而具有统治权。",
     "context": "{\n  \"id\": \"line:0295780\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: Magic is a gift for the nobility and the nobility alone.[p/] It is a symbol of our cosmic right to rule.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::676cd834fbc4a095",
     "original": "Garrick: Bastards like that girl should know their place.",
-    "translation": "",
+    "translation": "Garrick: 像那个女孩这样的野种应该搞清楚自己的斤两。",
     "context": "{\n  \"id\": \"line:0d5775d\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: Bastards like that girl should know their place.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::81b0ffee30d6e93e",
     "original": "Garrick: This is what happens when the gift of magic is used by those of impure blood.",
-    "translation": "",
+    "translation": "Garrick: 本应是赠礼的法术，在那些不纯血脉的人手上就会发生这种事情。",
     "context": "{\n  \"id\": \"line:01aff80\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: This is what happens when the gift of magic is used by those of impure blood.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::7a8403832b7c607d",
     "original": "Tyrion: ...She's just an innocent woman who got wrapped up in all of this.",
-    "translation": "",
+    "translation": "Tyrion: ……她只是个不幸卷入这一切的可怜人。",
     "context": "{\n  \"id\": \"line:069d4a5\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Tyrion: ...She's just an innocent woman who got wrapped up in all of this.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::32d2c22c75476425",
     "original": "Garrick: Ha![p/] I must commend you.[p/] You almost had me fooled.",
-    "translation": "",
+    "translation": "Garrick: 哈！[p/]我必须称赞你啊。[p/]你几乎把我绕进去了。",
     "context": "{\n  \"id\": \"line:01d8826\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Garrick: Ha![p/] I must commend you.[p/] You almost had me fooled.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::700b4c77698c82c7",
     "original": "Tyrion: ...Excuse me?",
-    "translation": "",
+    "translation": "Tyrion: ……你说什么？",
     "context": "{\n  \"id\": \"line:0466d0f\",\n  \"node\": \"PierceAppears\",\n  \"text\": \"Tyrion: ...Excuse me?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::0bef1aedeefeca44",
     "original": "Garrick: Wait...[p/] Do you actually [i]believe[/i] her little story?",
-    "translation": "",
+    "translation": "Garrick: 等等……[p/]你不会真的[i]相信[/i]了她编造的故事吧？",
     "context": "{\n  \"id\": \"line:0067425\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Garrick: Wait...[p/] Do you actually [i]believe[/i] her little story?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::be75ed2d3baa6f67",
     "original": "Tyrion: ...What good is a defense attorney if they don't believe in their clients?",
-    "translation": "",
+    "translation": "Tyrion: ……如果连自己的委托人都不相信，那还要辩护律师干什么？",
     "context": "{\n  \"id\": \"line:073a184\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Tyrion: ...What good is a defense attorney if they don't believe in their clients?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ec0cef1b6df8cef5",
     "original": "Garrick: Scaled Lord...[p/] And here [i]I[/i] took you for another envious commoner,[p/] but you actually [i]believe[/i] that trite.",
-    "translation": "",
+    "translation": "Garrick: 鳞甲领主啊……[p/]我把你当成又一个心怀嫉妒的平民，[p/]你却是真的[i]相信[/i]那种陈词滥调？",
     "context": "{\n  \"id\": \"line:0f26d26\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Garrick: Scaled Lord...[p/] And here [i]I[/i] took you for another envious commoner,[p/] but you actually [i]believe[/i] that trite.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9a3947653f390050",
     "original": "Garrick: Are you sure you’re Tymora’s brat?",
-    "translation": "",
+    "translation": "Garrick: 你真的是泰摩拉家的小鬼吗？",
     "context": "{\n  \"id\": \"line:0736069\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Garrick: Are you sure you’re Tymora’s brat?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f5e391421168718e",
     "original": "I knew I had to pick my battles,[p/] but I really weighed the legal consequences of punching him square in the face.",
-    "translation": "",
+    "translation": "我知道我想揍他，[p/]但我好好想起了给他脸上来一拳的法律责任。",
     "context": "{\n  \"id\": \"line:0c07175\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"I knew I had to pick my battles,[p/] but I really weighed the legal consequences of punching him square in the face.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9f168cc54b19f979",
     "original": "Garrick: Let me tell you something,[p/][s/] [i]boy[/i].[p/] Even if that bastard is innocent,[p/] the charges have been laid and made public.",
-    "translation": "",
+    "translation": "Garrick: 让我教你一件事，p/][s/][i]小伙子[/i]。[p/]即使那个野种真是无辜的，[p/]指控也已经公开提出。",
     "context": "{\n  \"id\": \"line:0e22b99\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Garrick: Let me tell you something,[p/][s/] [i]boy[/i].[p/] Even if that bastard is innocent,[p/] the charges have been laid and made public.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3417330c9d52ce3e",
     "original": "Garrick: Someone must take the fall,[p/] lest the public accuse the justice system of corruption.",
-    "translation": "",
+    "translation": "Garrick: 必须有人伏法，[p/]以免公众指责司法体系的腐败。",
     "context": "{\n  \"id\": \"line:026b506\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Garrick: Someone must take the fall,[p/] lest the public accuse the justice system of corruption.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2b596327f69955cd",
     "original": "Garrick: If the King believes there is any unrest here,[p/] even for a moment,[p/] he will unleash Lucio Steelwind and his soldiers upon this region.",
-    "translation": "",
+    "translation": "Garrick: 只要国王认为这里有任何不安定因素，[p/]即使仅仅只有一时，[p/]他也会派遣卢西奥·斯蒂尔文德与他的士兵攻打这个地区。",
     "context": "{\n  \"id\": \"line:0b965b7\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Garrick: If the King believes there is any unrest here,[p/] even for a moment,[p/] he will unleash Lucio Steelwind and his soldiers upon this region.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f9cc9e5b9a42f8dc",
     "original": "Garrick: I'm sure you're well aware of what tends to follow after.",
-    "translation": "",
+    "translation": "Garrick: 我相信你很清楚接下来会发生什么。",
     "context": "{\n  \"id\": \"line:0e1621b\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Garrick: I'm sure you're well aware of what tends to follow after.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::9159d71f2cc1953e",
     "original": "Tyrion: That doesn't mean my client should be convicted of a crime she didn't commit.",
-    "translation": "",
+    "translation": "Tyrion: 这并不意味着我的委托人就应该承认她没有犯过的罪行。",
     "context": "{\n  \"id\": \"line:0f1d240\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Tyrion: That doesn't mean my client should be convicted of a crime she didn't commit.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::b237cbcc74b72434",
     "original": "Garrick: What is one insignificant girl when compared to the stability and wellbeing of the people in this land?",
-    "translation": "",
+    "translation": "Garrick: 与这片土地上民众的安宁与幸福相比，一个无关紧要的女孩子算什么？",
     "context": "{\n  \"id\": \"line:05ab041\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Garrick: What is one insignificant girl when compared to the stability and wellbeing of the people in this land?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::8fcd32876693471b",
     "original": "Garrick: You're far too short-sighted.",
-    "translation": "",
+    "translation": "Garrick: 你太过于短视了。",
     "context": "{\n  \"id\": \"line:0bdba0e\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Garrick: You're far too short-sighted.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ba527c71ce74e577",
     "original": "Aria: That's enough.[p/] Stop antagonizing him, Pierce.",
-    "translation": "",
+    "translation": "Aria: 够了。[p/]不要继续让他敌视你了，皮尔斯。",
     "context": "{\n  \"id\": \"line:03ed1e0\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Aria: That's enough.[p/] Stop antagonizing him, Pierce.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::3772075feb5f9cf6",
     "original": "He glanced at the Prosecutor for a moment and then back at me.",
-    "translation": "",
+    "translation": "他盯着检察官看了一下，又转头看着我。",
     "context": "{\n  \"id\": \"line:0ee9cf2\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"He glanced at the Prosecutor for a moment and then back at me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6cdd6c90ae1b6fb2",
     "original": "For a moment,[p/] I caught a flicker of fear in his eyes.",
-    "translation": "",
+    "translation": "有那么一瞬间，[p/]我从他双眼中捕捉到一丝恐惧。",
     "context": "{\n  \"id\": \"line:08cfad4\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"For a moment,[p/] I caught a flicker of fear in his eyes.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::2f0bd289c3ef0297",
     "original": "I suppose that even House Pierce had reason to fear the Steelwinds.",
-    "translation": "",
+    "translation": "我猜想，即使是皮尔斯家族面对斯蒂尔文德家也有感到恐惧的原因。",
     "context": "{\n  \"id\": \"line:0dc12ca\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"I suppose that even House Pierce had reason to fear the Steelwinds.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::aeda79c5a47ea5e5",
     "original": "Garrick: Hmph...",
-    "translation": "",
+    "translation": "Garrick: 哼……",
     "context": "{\n  \"id\": \"line:0a6457a\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Garrick: Hmph...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::886d87bbc3eccb9f",
     "original": "Without another word,[p/] he walked down the stairs.",
-    "translation": "",
+    "translation": "再无一言，[p/]他就这么下了楼。",
     "context": "{\n  \"id\": \"line:0de70bb\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Without another word,[p/] he walked down the stairs.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::da64c622b11d02b1",
     "original": "Aria: I don’t agree with him.",
-    "translation": "",
+    "translation": "Aria: 我不赞同他。",
     "context": "{\n  \"id\": \"line:08d5775\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Aria: I don’t agree with him.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::05a7b6f076501c35",
     "original": "Aria: Our system should exist to deliver truth and justice,[p/] not quell public opinion.",
-    "translation": "",
+    "translation": "Aria: 我们的制度应该是为了传达真相与公正而存在，[p/]而不是平息公众舆论。",
     "context": "{\n  \"id\": \"line:004626a\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Aria: Our system should exist to deliver truth and justice,[p/] not quell public opinion.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::e483d650fecf5f6b",
     "original": "Tyrion: ...If you really believed that,[p/] you wouldn't be working against my client.",
-    "translation": "",
+    "translation": "Tyrion: ……如果你真这么认为，[p/]就不该攻击我的委托人。",
     "context": "{\n  \"id\": \"line:0f26c4c\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Tyrion: ...If you really believed that,[p/] you wouldn't be working against my client.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::d42ffa2f305cd4a5",
     "original": "Tyrion: Do you honestly think she's the kind of monster who would murder her own father?",
-    "translation": "",
+    "translation": "Tyrion: 你认真地认为她是那种弑亲禽兽吗？",
     "context": "{\n  \"id\": \"line:0dd3732\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Tyrion: Do you honestly think she's the kind of monster who would murder her own father?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::ddc3a31f50fc55b1",
     "original": "Aria: ...I’m not so superficial that I’d judge someone based on their appearance.",
-    "translation": "",
+    "translation": "Aria: ……我并不肤浅到会根据一个人的外表来评判他。",
     "context": "{\n  \"id\": \"line:0348fbd\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Aria: ...I’m not so superficial that I’d judge someone based on their appearance.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::43f0bb17dcba1c35",
     "original": "Aria: The only thing I trust is evidence,[p/] and all of it points to her as the only possible killer.",
-    "translation": "",
+    "translation": "Aria: 我相信的只有证据，[p/]所有证据都指向她，她是唯一可能的凶手。",
     "context": "{\n  \"id\": \"line:05e6d91\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Aria: The only thing I trust is evidence,[p/] and all of it points to her as the only possible killer.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::682a7992c1682d41",
     "original": "Tyrion: ...Is that really what you believe?",
-    "translation": "",
+    "translation": "Tyrion: ……你真的这么认为？",
     "context": "{\n  \"id\": \"line:0d13c3f\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Tyrion: ...Is that really what you believe?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::bded4d9e148979a3",
     "original": "Tyrion: Or are you just hiding the fact that you're here on your father's behalf?",
-    "translation": "",
+    "translation": "Tyrion: 或者你只是在隐藏自己代表父亲来此的事实？",
     "context": "{\n  \"id\": \"line:058b58d\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Tyrion: Or are you just hiding the fact that you're here on your father's behalf?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::620e92843c9246c0",
     "original": "Aria: I am [i]not[/i] working with my father! [h=\"I'm working against him|just as much as you are!\" e=\"sa\"/]",
-    "translation": "",
+    "translation": "Aria: 我[i]没有[/i]参加父亲的事务！[h=\"和你一样|我是在对抗他！\" e=\"sa\"/]",
     "context": "{\n  \"id\": \"line:0a535d9\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Aria: I am [i]not[/i] working with my father! [h=\\\"I'm working against him|just as much as you are!\\\" e=\\\"sa\\\"/]\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::6ac5607257edca07",
     "original": "What?[p/] She's working [i]against[/i] her father?",
-    "translation": "",
+    "translation": "什么？[p/]她是在与自己的父亲[i]作对[/i]？",
     "context": "{\n  \"id\": \"line:0b87243\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"What?[p/] She's working [i]against[/i] her father?\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::721d4b95665d8ca0",
     "original": "Aria: My apologies.[p/] I don't know what came over me.",
-    "translation": "",
+    "translation": "Aria: 抱歉。[p/]我不知道自己怎么了。",
     "context": "{\n  \"id\": \"line:0e63e88\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Aria: My apologies.[p/] I don't know what came over me.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::48f3f0242838d9ac",
     "original": "Tyrion: It's fine...",
-    "translation": "",
+    "translation": "Tyrion: 没事……",
     "context": "{\n  \"id\": \"line:0b961b7\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Tyrion: It's fine...\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::f0ae135f07d07331",
     "original": "Aria: I respect you, Mr. Cuthbert.",
-    "translation": "",
+    "translation": "Aria: 我尊敬你，卡斯伯特先生。",
     "context": "{\n  \"id\": \"line:04dbbdd\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Aria: I respect you, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::edc751d15644a53c",
     "original": "Aria: You should fight according to your own ideals.[p/] Just as I will fight for mine.",
-    "translation": "",
+    "translation": "Aria: 你应该继续按自己的想法战斗下去，[p/]就如我也会按自己的。",
     "context": "{\n  \"id\": \"line:098e3ce\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"Aria: You should fight according to your own ideals.[p/] Just as I will fight for mine.\"\n}"
   },
   {
     "key": "C1 Dialogue.csv::translation::c2eaf99546716f1e",
     "original": "I tried to think of a retort,[p/] but said nothing as she walked past me.",
-    "translation": "",
+    "translation": "我试图想出一条反驳，[p/]但她一言不发地从我身旁走过了。",
     "context": "{\n  \"id\": \"line:0cf8b63\",\n  \"node\": \"PierceAppears2\",\n  \"text\": \"I tried to think of a retort,[p/] but said nothing as she walked past me.\"\n}"
   }
 ]
