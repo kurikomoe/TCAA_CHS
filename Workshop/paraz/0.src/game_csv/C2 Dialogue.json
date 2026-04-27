@@ -1360,29 +1360,29 @@
   {
     "key": "C2 Dialogue.csv::translation::e961b3afdeea9e0e",
     "original": "TYRION: W-[p/][s/]What was that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 什、[p/][s/]什么东西？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0204c2e\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: W-[p/][s/]What was that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a06c32eb538c3a4",
     "original": "CELESTE: [i]That[/i] is the incantation for the [b]Detect Magic[/b] spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 那是[b]法术探测[/b]的咒语。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c354b2\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"CELESTE: [i]That[/i] is the incantation for the [b]Detect Magic[/b] spell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1483e06a0be8c1d1",
     "original": "TYRION: [b]Detect Magic[/b]...?[p/] Wait...[p/][s/] Does that mean—?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: [b]法术探测[/b]……？[p/]等下……[p/][s/]你该不会……？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00f8da6\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: [b]Detect Magic[/b]...?[p/] Wait...[p/][s/] Does that mean—?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2af9ed0f9c2d3d7b",
     "original": "CELESTE: Yep![p/][s/] I can see magical traces while we're EXAMINING crime scenes!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 没错！[p/][s/]现在你调查犯罪现场时，我能探测是否存在魔法痕迹了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e2981e\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"CELESTE: Yep![p/][s/] I can see magical traces while we're EXAMINING crime scenes!\"\n}"
   },
   {
@@ -1395,50 +1395,50 @@
   {
     "key": "C2 Dialogue.csv::translation::9543a032dbc3ffe6",
     "original": "Tyrion: It's a painting of some sort of musician.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 某个音乐家的画像。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0355fe4\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: It's a painting of some sort of musician.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::920c3824adffb1c4",
     "original": "Tyrion: There's some text written below it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 下面写着什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0295ae3\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: There's some text written below it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c5f74c69f7b82fb7",
     "original": "Tyrion: \"Doctor Nicolas Goussu:[p/] Inventor of the Arcane Engine.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “Nicolas Goussu 博士，[p/]奥术引擎之父。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09953a4\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: \\\"Doctor Nicolas Goussu:[p/] Inventor of the Arcane Engine.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::85e38113d1756253",
     "original": "Tyrion: \"His work revolutionized trade and travel across the seas.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “他的辛勤付出彻底改善了全世界海上贸易与旅行的方式。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d453ba\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: \\\"His work revolutionized trade and travel across the seas.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d5c62adfc6f4d540",
     "original": "Tyrion: \"He was well known for not discriminating between the commonfolk and the nobility,[p/] judging his assistants based purely on their merit.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “他因对贵族平民一视同仁而为世人所传颂，[p/]对助手的评价也完全依照功绩。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01a0488\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: \\\"He was well known for not discriminating between the commonfolk and the nobility,[p/] judging his assistants based purely on their merit.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8e07acaa46bad101",
     "original": "Tyrion: \"When he wasn't conducting research within the Imperial Academy,[p/] he was known to compose symphonies in his free time.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “不在帝国学院进行研究时，[p/]他会为国王创作交响曲。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06b49d5\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: \\\"When he wasn't conducting research within the Imperial Academy,[p/] he was known to compose symphonies in his free time.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::819488f355c223a8",
     "original": "It sounded like he was a man of many talents.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看起来是位才华横溢的男人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:039b7cb\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"It sounded like he was a man of many talents.\"\n}"
   },
   {
@@ -1451,64 +1451,64 @@
   {
     "key": "C2 Dialogue.csv::translation::c6672991b033cadd",
     "original": "Tyrion: There's a chalk outline where the professor's body was.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 地上有粉笔画出的尸体轮廓。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bc886b\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: There's a chalk outline where the professor's body was.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e1ba15baaabc8e69",
     "original": "Tyrion: It appears that most of this blood came from her abdomen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 看起来她腹部大量出血。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:017fa27\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: It appears that most of this blood came from her abdomen.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5222041449d5c881",
     "original": "Tyrion: Is that where the fatal wound was?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 致命伤是在腹部吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00ee685\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: Is that where the fatal wound was?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::26cd6f3df73a9d76",
     "original": "ARIA: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:089ce74\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"ARIA: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bc0ce40b87ce9c04",
     "original": "TYRION: There’s a lot of blood in this puddle...[p/] but there’s no trail leading to it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 这里有很多血……[p/]但没有延申至这里的痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:089996f\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: There’s a lot of blood in this puddle...[p/] but there’s no trail leading to it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5d8ed5b08dec0e9f",
     "original": "TYRION: And there aren't any magical traces anywhere else in the room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 房间里除了这也没有别的魔法痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a375cf\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: And there aren't any magical traces anywhere else in the room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a0aec0249b92e095",
     "original": "Tyrion: I doubt the murderer used magic to clean it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我怀疑凶手用魔法清理过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05fdce2\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: I doubt the murderer used magic to clean it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b7af46da945427bc",
     "original": "CELESTE: Does that mean that the murderer attacked her in this room?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 那这里会是第一案发现场吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e0847b\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"CELESTE: Does that mean that the murderer attacked her in this room?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::64364fc3bf631bee",
     "original": "TYRION: Maybe...[p/] But it’s hard to say for certain.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 可能是……[p/]但很难确定。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e3c918\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: Maybe...[p/] But it’s hard to say for certain.\"\n}"
   },
   {
@@ -1521,78 +1521,78 @@
   {
     "key": "C2 Dialogue.csv::translation::ed1a479681b30ade",
     "original": "Tyrion: The lecture hall has a window.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 讲堂有扇窗。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d3d229\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: The lecture hall has a window.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1d581dd86b8b27c3",
     "original": "Celeste: I feel like I'd just stare outside all day if I had to sit in this place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我要是在这儿坐着可能会一直看向窗外走神。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06e2ab6\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: I feel like I'd just stare outside all day if I had to sit in this place.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dacb92bbe6fc1c34",
     "original": "Celeste: How long do they have to sit here, anyway?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 话说这些学生到底要在这坐多久？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0394c45\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: How long do they have to sit here, anyway?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f32e3fe35317a9f",
     "original": "Aria: Lectures here last for an hour at a minimum.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 这里的课最短要上一个小时。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cd9fdb\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Aria: Lectures here last for an hour at a minimum.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7e2ca2bab6ed1013",
     "original": "Celeste: An [i]hour[/i]?![p/] No wonder all the nobles are such psychopaths!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 一个小时？！[p/] 难怪那些贵族一个个都是神经病！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05d809c\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: An [i]hour[/i]?![p/] No wonder all the nobles are such psychopaths!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f84b63c3d765a8b8",
     "original": "Aria: Present company excluded, I hope.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 不过现场的各位除外。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:034f31f\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Aria: Present company excluded, I hope.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f3e2eb5f6f76e2ae",
     "original": "Celeste: Yeah.[p/] You're not that bad, Aria.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嗯。[p/] 阿莉亚你也没那么坏嘛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e9c2a0\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: Yeah.[p/] You're not that bad, Aria.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f519d3edf76e479",
     "original": "Aria: ...How have you learned so many spells if you're so distractible?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……既然这么容易分心，那你是怎么学会这么多法术的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dd397e\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Aria: ...How have you learned so many spells if you're so distractible?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::257a338cb954b129",
     "original": "Celeste: I don't know.[p/] I just look at the spell formula and...[p/] do it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我自己也不太清楚。[p/]我就看了看范式，然后就……[p/]照着做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05cd4cc\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: I don't know.[p/] I just look at the spell formula and...[p/] do it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a68d50d8fa0ee264",
     "original": "Aria: I...[p/] see.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我……[p/]明白了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e2dfd0\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Aria: I...[p/] see.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be0f4453a27f5662",
     "original": "Celeste: ...Is that not normal?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……难道其他人不是这样的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04f6b25\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: ...Is that not normal?\"\n}"
   },
   {
@@ -1605,22 +1605,22 @@
   {
     "key": "C2 Dialogue.csv::translation::d187dbe06fb98e09",
     "original": "Celeste: Oh![p/] They have books here too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 哇哦！[p/]这里也有书。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07cbae7\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: Oh![p/] They have books here too.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2919b72576458dd3",
     "original": "Tyrion: These appear to be textbooks about alchemy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 看起来是炼金术的教科书。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fd45d9\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: These appear to be textbooks about alchemy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::90006276c07b4f71",
     "original": "Celeste: Aw...[p/] Lame.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 喔……[p/]无聊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0195137\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: Aw...[p/] Lame.\"\n}"
   },
   {
@@ -1633,71 +1633,71 @@
   {
     "key": "C2 Dialogue.csv::translation::8b8e8da9797a49db",
     "original": "Tyrion: This must be where the students sit during lectures.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这里是学生坐的座位。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d9d361\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: This must be where the students sit during lectures.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c96a5811542020e9",
     "original": "Celeste: Ugh...[p/] I can't imagine sitting in one place all day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 唔呃……[p/]我可受不了在同一个地方坐一整天。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0693662\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: Ugh...[p/] I can't imagine sitting in one place all day.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3e6acf8dd6b94d6c",
     "original": "Tyrion: Have you never attended a school before?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你以前上过学吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01db4f1\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: Have you never attended a school before?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32f067a683e134d9",
     "original": "Celeste: Do you seriously think a dump like Kornhaven has standardized education?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你不会认为科尔哈文这样的破乡下会有正常的学校吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:071ab02\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: Do you seriously think a dump like Kornhaven has standardized education?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8ca3bb6fef623f45",
     "original": "Celeste: I learned from books that I...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我是从我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08c0c5f\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: I learned from books that I...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6b90a3d735d3fa36",
     "original": "She glanced at Steelwind before finishing that thought.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她说完这句话前瞥了斯蒂尔文德一眼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0832d2f\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"She glanced at Steelwind before finishing that thought.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6115d648a4e28ac2",
     "original": "Celeste: ...I learned from books that I [i]appropriated[/i] from some traveling merchants.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……我是从我见到的一些旅行商人那“借”来的书里学到的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e79a4\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: ...I learned from books that I [i]appropriated[/i] from some traveling merchants.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9566fb3f212f120f",
     "original": "Celeste: What about you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04453c6\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: What about you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::12f320acbaf7a1b8",
     "original": "Tyrion: ...I attended a public school when I was younger,[p/] but Ms. Tymora handled most of my education herself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我小时候上过公立学校，[p/] 但后来泰摩拉女士接管了我的教育。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:098536d\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: ...I attended a public school when I was younger,[p/] but Ms. Tymora handled most of my education herself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8ab51cc19fa21f24",
     "original": "Celeste: Hm...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 唔……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02bdf2a\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Celeste: Hm...\"\n}"
   },
   {
@@ -1710,57 +1710,57 @@
   {
     "key": "C2 Dialogue.csv::translation::6825b5ba8d649c1c",
     "original": "There was a trace of [b]necromancy[/b] on the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "尸体上有[b]死灵术[/b]魔法的痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c4c1d\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"There was a trace of [b]necromancy[/b] on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f76a203e5f7a60c1",
     "original": "According to Steelwind,[p/] that was the primary piece of evidence implicating Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "根据斯蒂尔文德所说，那是指向华莱士行凶的主要证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0626f75\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"According to Steelwind,[p/] that was the primary piece of evidence implicating Wallace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::932b9e3c78b00ccf",
     "original": "CELESTE: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:014ddd4\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"CELESTE: ...What?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::346a924e604f063e",
     "original": "TYRION: What’s wrong?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 怎么了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d9905c\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: What’s wrong?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ae64df842ddab868",
     "original": "CELESTE: There’s a trace of [b]necromancy[/b] in Bellwether's blood.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 贝尔维瑟的血里有死灵术的魔法痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:096e67c\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"CELESTE: There’s a trace of [b]necromancy[/b] in Bellwether's blood.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1a46bfaaec5fb35f",
     "original": "TYRION: [b]Necromancy[/b]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: [b]死灵术[/b]？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03c8316\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: [b]Necromancy[/b]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c2b5fe0c486ac715",
     "original": "CELESTE: Isn’t [b]necromancy[/b] the type of magic that creates zombies?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: [b]死灵术[/b]不是那种能创造僵尸的法术嘛？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04b4faf\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"CELESTE: Isn’t [b]necromancy[/b] the type of magic that creates zombies?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::81b2e091a229cbce",
     "original": "CELESTE: She’s not just going to get up and walk away, right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 她、[p/][s/]她应该不会突然站起来离开吧？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03bbb7d\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"CELESTE: She’s not just going to get up and walk away, right?\"\n}"
   },
   {
