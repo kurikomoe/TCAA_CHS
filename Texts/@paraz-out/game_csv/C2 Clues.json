@@ -79,8 +79,8 @@
   {
     "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::42f1d51d9e91c6fb",
     "original": "“Died at 2:01PM. Body shows no signs of cuts or bruising. The Alchemist Report has verified that death was not caused by poison or disease. \r\n\r\nBody shows traces of <i>necromancy</i> and <i>illusion</i> magic. Cause of death is not apparent but very likely caused by necromancy magic.”\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "“死亡时间下午 2:01。尸体上没有割伤或瘀伤。炼金化验报告也证明死因不是中毒或疾病。\n\n尸体上有<i>死灵术</i>和<i>幻象术</i>魔法的痕迹。死因尚不明确，但极有可能是死灵术所致。”",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"Catherine Autopsy\",\n  \"display name\": \"Autopsy Report\",\n  \"description\": \"“Died at 2:01PM. Body shows no signs of cuts or bruising. The Alchemist Report has verified that death was not caused by poison or disease. \\r\\n\\r\\nBody shows traces of <i>necromancy</i> and <i>illusion</i> magic. Cause of death is not apparent but very likely caused by necromancy magic.”\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -93,8 +93,8 @@
   {
     "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::e0ce7c7a3f639b8d",
     "original": "There’s an element of this case that is making Aria Steelwind uneas,. but she refuses to elaborate on what this is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这起事件里有什么让阿莉亚·斯蒂尔文德不安的因素。但她拒绝详细解释。",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"Steelwind\",\n  \"display name\": \"Steelwind's Uneasiness\",\n  \"description\": \"There’s an element of this case that is making Aria Steelwind uneas,. but she refuses to elaborate on what this is.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -198,8 +198,8 @@
   {
     "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::a20ca6cac75a08f9",
     "original": "30 minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though, Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.\r\n\r\nThe “Bellwether” witnessed by Jan Hughes must have been disguised with an illusion. In addition to that, whoever he saw that day was <i>physically</i> there.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "伊努斯双子发现尸体半小时前，贝尔维瑟在走廊西翼与简擦肩而过。贝尔维瑟仿佛觉得简挡路，直接把他推开了。之后，凯瑟琳·贝尔维瑟还打碎了一个花瓶。简虽然什么都没说，但还是被骂“安静！”。之后贝尔维瑟进了 2-B 讲堂。\n\n简·休斯看到的“凯瑟琳·贝尔维瑟”是幻术。此外，他看见的那个人当时肯定<i>亲身在场</i>。",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"JanTest2\",\n  \"display name\": \"Jan's Statement\",\n  \"description\": \"30 minutes before the Ianus twins found the body, Bellwether walked past Jan in the west wing hallway. He was in her path, so she shoved him out of her way. After that, she knocked over a vase and shattered it. Even though, Jan didn’t say anything to her, she yelled at him to “Be quiet!”. After this interaction, she walked into Lecture Hall 2-B.\\r\\n\\r\\nThe “Bellwether” witnessed by Jan Hughes must have been disguised with an illusion. In addition to that, whoever he saw that day was <i>physically</i> there.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"JanTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -226,8 +226,8 @@
   {
     "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::67168103894823f3",
     "original": "House Frega was planning to fire Headmaster Theodore Redmond and replace him with Catherine Bellwether. They were also planning to fire all of the academy staff and replace them with Arcane Constructs.\r\n\r\nThis was supposed to be kept a secret. But according to Jan, Bellwether revealed this plan to the headmaster during a meeting a “few weeks ago”.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "弗雷加一族打算解雇西奥多·雷德蒙校长，让凯瑟琳·贝尔维瑟上位。他们还打算解雇所有工作人员，让奥术构造体取而代之。\n\n理应是机密，但根据简的证词，贝尔维瑟“几周前”与校长会面时透露了这个计划。",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"BellPlan2\",\n  \"display name\": \"Bellwether’s Plan\",\n  \"description\": \"House Frega was planning to fire Headmaster Theodore Redmond and replace him with Catherine Bellwether. They were also planning to fire all of the academy staff and replace them with Arcane Constructs.\\r\\n\\r\\nThis was supposed to be kept a secret. But according to Jan, Bellwether revealed this plan to the headmaster during a meeting a “few weeks ago”.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"BellPlan\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -254,8 +254,8 @@
   {
     "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::25ad46109dc7cd4c",
     "original": "With the exception of me and Celeste McCoy, Prosecutor Steelwind isn’t allowing anyone inside key areas of the academy. She isn’t even allowing the knights of the Inquisition within these areas. She appears to be conducting the investigation singlehandedly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "除了你和塞莱斯特·麦考伊，斯蒂尔文德检察官没有允许任何人进入学院的重要区域。就连裁判所的骑士都没有获得许可。她看起来是在独立搜查案件。",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"SteelOrd\",\n  \"display name\": \"Steelwind’s Orders\",\n  \"description\": \"With the exception of me and Celeste McCoy, Prosecutor Steelwind isn’t allowing anyone inside key areas of the academy. She isn’t even allowing the knights of the Inquisition within these areas. She appears to be conducting the investigation singlehandedly.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -282,8 +282,8 @@
   {
     "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::493190eaecd87938",
     "original": "There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "与米莉亚姆·弗雷加证件号码吻合的储物柜里有血迹。血液中没有任何魔法痕迹。",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"LockerBlood\",\n  \"display name\": \"Evidence in the Locker\",\n  \"description\": \"There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"LockerBlood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -296,8 +296,8 @@
   {
     "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::e11558cda27418d5",
     "original": "There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.\n\nThis locker actually belongs to Wallace Nightgrave. Someone must have switched the ID numbers with Miriam’s locker.",
-    "translation": "",
-    "stage": 0,
+    "translation": "与米莉亚姆·弗雷加证件号码吻合的储物柜里有血迹。血液中没有任何魔法痕迹。\n\n事实上这是华莱士·奈特格雷夫的储物柜。有人把两个储物柜的号码互换了。",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"LockerBlood2\",\n  \"display name\": \"Evidence in the Locker\",\n  \"description\": \"There’s a stain of blood inside the locker with Miriam Frega’s ID number. The blood does not have any traces of magic on it.\\n\\nThis locker actually belongs to Wallace Nightgrave. Someone must have switched the ID numbers with Miriam’s locker.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"LockerBlood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -338,8 +338,8 @@
   {
     "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::ed87405f90e245a1",
     "original": "A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was report stolen by Miriam Frega weeks before the murder.\r\n\r\nMiriam’s dorm room is abjured against teleportation. So, the thief could only have broken into her room through nonmagical means. \r",
-    "translation": "",
-    "stage": 0,
+    "translation": "一把沾满鲜血的刺剑。发现于华莱士·奈特格雷夫的储物柜里。似乎是弗雷加一族的贵重传家宝。谋杀发生数周前，米莉亚姆·弗雷加报案称刺剑被偷。\n\n米莉亚姆的宿舍有针对传送的防护。窃贼只有可能利用非魔法手段侵入室内。",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"Rapier2\",\n  \"display name\": \"Bloody Rapier\",\n  \"description\": \"A rapier covered in blood. It was found in Wallace Nightgrave’s locker. Apparently, it’s a valuable family heirloom to House Frega. It was report stolen by Miriam Frega weeks before the murder.\\r\\n\\r\\nMiriam’s dorm room is abjured against teleportation. So, the thief could only have broken into her room through nonmagical means. \\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Rapier\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -366,8 +366,8 @@
   {
     "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::c444541bbfba49ca",
     "original": "The prosecution’s theory lays out the following timeline for Catherine Bellwether’s movements on the day of the murder.\r\n12:00pm-1:00pm: Theodore Redmond has a meeting with Bellwether.\r\n1:00pm: Miriam Frega saw Bellwether walking in the hallways.\r\n1:00pm-2:00pm: Bellwether spent time in the library.\r\n2:00pm-2:30pm: Wallace Nightgrave murdered Bellwether.\r\n2:30pm: Jan Hughes witnessed Bellwether walking towards Lecture Hall 2-B.\r\n3:00pm: The Ianus sisters discovered Bellwether’s body.  \r",
-    "translation": "",
-    "stage": 0,
+    "translation": "检方的推理列出了以下凯瑟琳·贝尔维瑟被害当日的行动。\n下午 12:00-1:00：西奥多·雷德蒙与贝尔维瑟会谈。\n下午 1:00：米莉亚姆·弗雷加在走廊里看见贝尔维瑟。\n下午 1:00-2:00：贝尔维瑟在图书馆度过。\n下午 2:00-2:30：华莱士·奈特格雷夫杀害贝尔维瑟。\n下午 2:30：简·休斯目击贝尔维瑟走向 2-B 讲堂。\n下午 3:00：伊努斯双子发现贝尔维瑟的尸体。",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"Theory\",\n  \"display name\": \"Steelwind's Deduction\",\n  \"description\": \"The prosecution’s theory lays out the following timeline for Catherine Bellwether’s movements on the day of the murder.\\r\\n12:00pm-1:00pm: Theodore Redmond has a meeting with Bellwether.\\r\\n1:00pm: Miriam Frega saw Bellwether walking in the hallways.\\r\\n1:00pm-2:00pm: Bellwether spent time in the library.\\r\\n2:00pm-2:30pm: Wallace Nightgrave murdered Bellwether.\\r\\n2:30pm: Jan Hughes witnessed Bellwether walking towards Lecture Hall 2-B.\\r\\n3:00pm: The Ianus sisters discovered Bellwether’s body.  \\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -394,8 +394,8 @@
   {
     "key": "C2 Clues.csv::DESCRIPTION TRANSLATION::8579c3d47038f841",
     "original": "Arcane Constructs are suits of armour that are animated using artificery. They can carry out simple tasks when ordered to. The ones in the Imperial Academy speak using the voice of Catherine Bellwether. These voice lines can only be changed or adjusted by the academy headmaster.\r\n\r\nEvery command given to a Construct is stored in its command log. However, this command log must be cleared regularly.\r",
-    "translation": "",
-    "stage": 0,
+    "translation": "奥术构造体是靠奥术提供动力的铠甲。可以执行简单的任务。帝国学院的构造体用凯瑟琳·贝尔维瑟的声音说话。能改变构造体台词的只有校长。\n\n构造体收到的命令都会被记录在命令日志里。但是，日志必须被定期清理。",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"Construct\",\n  \"display name\": \"Arcane Constructs\",\n  \"description\": \"Arcane Constructs are suits of armour that are animated using artificery. They can carry out simple tasks when ordered to. The ones in the Imperial Academy speak using the voice of Catherine Bellwether. These voice lines can only be changed or adjusted by the academy headmaster.\\r\\n\\r\\nEvery command given to a Construct is stored in its command log. However, this command log must be cleared regularly.\\r\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   }
 ]

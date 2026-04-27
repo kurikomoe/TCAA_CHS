@@ -30,15 +30,15 @@
   {
     "key": "C2 Dialogue.csv::translation::4dc1222d602da059",
     "original": "The name on the stone said “Emily Grant”,[p/] and her lifetime appears to be awfully short.",
-    "translation": "",
-    "stage": 0,
+    "translation": "石碑上刻着的名字是“艾梅莉·格兰特”，[p/]她的一生看起来极其短暂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0962936\",\n  \"node\": \"Cemetery_Examine\",\n  \"text\": \"The name on the stone said “Emily Grant”,[p/] and her lifetime appears to be awfully short.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::20418c925d6efd84",
     "original": "She must have only been twelve years old when she died.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她去世时仅仅十二岁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08be1b7\",\n  \"node\": \"Cemetery_Examine\",\n  \"text\": \"She must have only been twelve years old when she died.\"\n}"
   },
   {
@@ -51,15 +51,15 @@
   {
     "key": "C2 Dialogue.csv::translation::f9c2ffcb64a05f56",
     "original": "It was a grave for an individual that I didn't know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "并不清楚这里埋葬了谁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05578c7\",\n  \"node\": \"Cemetery_Examine\",\n  \"text\": \"It was a grave for an individual that I didn't know.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c26509c351553e44",
     "original": "Out of respect,[p/] it'd be best to leave it undisturbed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "最好不要打扰已逝之人的安息。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:060b029\",\n  \"node\": \"Cemetery_Examine\",\n  \"text\": \"Out of respect,[p/] it'd be best to leave it undisturbed.\"\n}"
   },
   {
@@ -79,162 +79,162 @@
   {
     "key": "C2 Dialogue.csv::translation::c679b744c99f5c7f",
     "original": "ERIS: That was my first time watching a court trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 这还是我第一次旁听庭审。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0395ffc\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: That was my first time watching a court trial.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3191e09e28f66e21",
     "original": "ERIS: You were truly remarkable.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 你可真厉害。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0048d7b\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: You were truly remarkable.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d93e1dc613e26d37",
     "original": "TYRION: ...Thank you.[p/] Were you in the gallery?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……谢谢，[p/]你当时在旁听席上吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d77b86\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: ...Thank you.[p/] Were you in the gallery?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4e4c0b5e9dbfa48f",
     "original": "ERIS: I’ve always enjoyed watching physical battles [p/]in the theatre.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 我从小就喜欢看剧院里的打斗戏码。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0857029\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: I’ve always enjoyed watching physical battles [p/]in the theatre.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::93d6238e0f1c9e6b",
     "original": "ERIS: But I see now that battles of wits can be just as entertaining to watch.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 但我现在觉得看文斗剧应该也很有趣。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a0e114\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: But I see now that battles of wits can be just as entertaining to watch.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5dee6dcd9adf5528",
     "original": "TYRION: “Entertaining”?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: “有趣”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f41705\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: “Entertaining”?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c3b968f7ad6cde31",
     "original": "CELESTE: Yeah,[p/] I know what you mean.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 嗯，[p/]我懂你意思。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00c8766\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"CELESTE: Yeah,[p/] I know what you mean.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3d4696b0072f1913",
     "original": "CELESTE: You see the odds are stacked against him,[p/] but then he suddenly pulls out this crazy deduction that takes the whole trial back.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 但他总能提出一些剑走偏锋的推理扭转局势。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bfcdd8\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"CELESTE: You see the odds are stacked against him,[p/] but then he suddenly pulls out this crazy deduction that takes the whole trial back.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6c23e2525599e305",
     "original": "TYRION: I’ve...[p/] never really thought of it like that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我……[p/]从没那么想过……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:094d90d\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: I’ve...[p/] never really thought of it like that...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ebce6cc313df4142",
     "original": "ERIS: But I’m sure it’s far more entertaining to be the one [i]making[/i] the deductions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: [i]想出[/i]这些推理的过程一定非常有趣。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fc07f5\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: But I’m sure it’s far more entertaining to be the one [i]making[/i] the deductions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7874d3e3e97903c5",
     "original": "TYRION: I’m...[p/] not really sure what you mean.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我……[p/]不太懂你什么意思。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:014c50c\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: I’m...[p/] not really sure what you mean.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cc6143054b5037fd",
     "original": "TYRION: I practice law so that I can help those persecuted by the justice system.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我从事法律工作，只是为了能帮到那些被司法体系起诉的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:074f1ff\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: I practice law so that I can help those persecuted by the justice system.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::72436249fb715976",
     "original": "TYRION: I don’t really do it to \"entertain\" myself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我并不以此为乐。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ae490b\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: I don’t really do it to \\\"entertain\\\" myself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::50bf739731c959a9",
     "original": "ERIS: But is that really true?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 但真的是这样吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0503923\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: But is that really true?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::99c9351884419ad3",
     "original": "ERIS: Don’t you find the experience even the least bit entertaining, Tyrion?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 提利昂，在这过程中你难道就没有一丁点的乐趣吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c8dd63\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: Don’t you find the experience even the least bit entertaining, Tyrion?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::46fbe822fe258413",
     "original": "TYRION: Um...[p/] I wouldn’t really put it that way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 唔嗯……[p/]我不会这么形容。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0393da3\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: Um...[p/] I wouldn’t really put it that way.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be4fa9759c4fe4e2",
     "original": "ERIS: You’re far too modest.[p/] You save people from the clutches of death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 你真是太谦虚了。[p/]你从死亡的魔爪中拯救他人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fce568\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: You’re far too modest.[p/] You save people from the clutches of death.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1f6c1083507fa2d3",
     "original": "ERIS: To your clients,[p/] you might as well be a knight in shining armor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 对于你的委托人来说，[p/]你可能如同身着闪耀铠甲的骑士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0436176\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: To your clients,[p/] you might as well be a knight in shining armor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a61545b982eecdf4",
     "original": "Eris: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bc58e2\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"Eris: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::502f6eec22377a8e",
     "original": "Eris: I know you're looking for it,[p/] but apparently those new operating systems don't like it when I peek at your real name.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我知道你在找它，[p/] 但显然那些新的操作系统不太喜欢我窥探你的真名。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07191d9\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"Eris: I know you're looking for it,[p/] but apparently those new operating systems don't like it when I peek at your real name.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6fea9134e65d2105",
     "original": "Eris: I'm all for a bit of fun,[p/] but that's not worth blue-screening people.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我是不反对找点乐子，但为这个把人弄蓝屏可就不值当了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0307bd3\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"Eris: I'm all for a bit of fun,[p/] but that's not worth blue-screening people.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4cae3568001ae6db",
     "original": "Tyrion: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02d0e59\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"Tyrion: ...What?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e40dfee35176910c",
     "original": "Eris: Don't worry about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 别在意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bc132a\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"Eris: Don't worry about it.\"\n}"
   },
   {
@@ -247,71 +247,71 @@
   {
     "key": "C2 Dialogue.csv::translation::cf6e03c051726778",
     "original": "TYRION: Earlier,[p/] you said that you were studying [b]illusion[/b] magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 先前你有提到过自己在学习[b]幻象术[/b]魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a3bc83\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: Earlier,[p/] you said that you were studying [b]illusion[/b] magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d5437670a514c005",
     "original": "ERIS: I am.[p/] Did you want to ask me about the prosecution’s theory?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 是的，[p/]你是想问我检方的假设有无成立的可能对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0de7cc4\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: I am.[p/] Did you want to ask me about the prosecution’s theory?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17c250a7cfef3a3b",
     "original": "TYRION: ...Yes, actually.[p/] How did you know?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……对的，[p/]你怎么知道我要问什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:098e2f5\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: ...Yes, actually.[p/] How did you know?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::149f53ad8a2eb99d",
     "original": "ERIS: Disguising an undead with an illusion is definitely possible.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 用幻象来伪装已死之人是绝对可行的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:039622d\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: Disguising an undead with an illusion is definitely possible.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2889e236875e7de1",
     "original": "ERIS: As Lady Steelwind said,[p/] [b]Illusory Disguise[/b] would be the best spell to use for that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 正如斯蒂尔文德小姐所说，[p/][b]幻象伪装[/b]确实是达成这种效果的最佳法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05a95ea\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: As Lady Steelwind said,[p/] [b]Illusory Disguise[/b] would be the best spell to use for that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a6e258b087306b9b",
     "original": "TYRION: What if someone created a freestanding illusion?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 那要是有人创造了一个独立的幻觉呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c5d9a5\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: What if someone created a freestanding illusion?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c8da2f75d833b5c3",
     "original": "TYRION: We know that Wallace didn’t animate and disguise the professor’s corpse.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 华莱士没有复活并伪装教授的尸体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:031f7cd\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: We know that Wallace didn’t animate and disguise the professor’s corpse.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c4e74237a859be45",
     "original": "TYRION: So,[p/] what if the illusion wasn’t disguising [i]anything[/i]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 就是说，[p/]如果幻觉下没有实体可不可行呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:017e23f\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: So,[p/] what if the illusion wasn’t disguising [i]anything[/i]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b98b2c3da40464c5",
     "original": "TYRION: Maybe someone created a freestanding illusion of Bellwether walking around?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 有没有可能创造一个没有实体的贝尔维瑟教授，营造她在学院游荡的假象？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0057144\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: Maybe someone created a freestanding illusion of Bellwether walking around?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b2211c30fe235a22",
     "original": "ERIS: For something like that,[p/] one would probably use [b]Major Illusion[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 要达到那种效果的话，[p/]大概率会用[b]高等幻象术[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:061e56e\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: For something like that,[p/] one would probably use [b]Major Illusion[/b].\"\n}"
   },
   {
@@ -324,169 +324,169 @@
   {
     "key": "C2 Dialogue.csv::translation::4af01faa1fe4670c",
     "original": "TYRION: Hm...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 嗯……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00fcc53\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: Hm...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6400c80600166e8a",
     "original": "CELESTE: What is it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 怎么了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:023d693\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"CELESTE: What is it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2a76eb3300629219",
     "original": "TYRION: I don't think [b]Major Illusion[/b] is what we’re looking for.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 总觉得不太可能是[b]高等幻象术[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dc17ff\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: I don't think [b]Major Illusion[/b] is what we’re looking for.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cc41bdd41a9add3b",
     "original": "TYRION: Do you remember what Jan said?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 还记得简的话吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ecf9b4\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: Do you remember what Jan said?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3ad97cd957566cde",
     "original": "JAN: I was cleaning a mess in the hallways.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 我当时正在走廊里打扫卫生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a845a5\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"JAN: I was cleaning a mess in the hallways.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e9e56790a5268da1",
     "original": "JAN: Bellwether knocked over a vase...[p/] And there were shards and dirt everywhere.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 贝尔维瑟撞倒了一个花瓶……[p/]搞得满地都是碎片和泥土。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ecdd2c\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"JAN: Bellwether knocked over a vase...[p/] And there were shards and dirt everywhere.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::067980b293b79893",
     "original": "TYRION: If the “Bellwether” that Jan saw was a Major Illusion,[p/] then she couldn’t have knocked over that vase.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 如果当时简看到的“贝尔维瑟”是由高等幻象术创造的话，[p/]那她就不存在实体，更别提撞倒花瓶了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b4ec2d\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: If the “Bellwether” that Jan saw was a Major Illusion,[p/] then she couldn’t have knocked over that vase.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3afdcb27e6c552e5",
     "original": "TYRION: Illusions created by that spell don’t have any mass.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 那个法术创造的只是幻象，没有实体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f68adc\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: Illusions created by that spell don’t have any mass.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f345731ece5c4808",
     "original": "ERIS: I see.[p/] How perceptive of you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 我明白了，[p/]你可真是明察秋毫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09e07a6\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: I see.[p/] How perceptive of you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4c6f6a88e3f435f6",
     "original": "CELESTE: Aren’t there any other [b]illusion[/b] spells that have mass?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 还有其他能拥有实体的[b]幻象术[/b]类法术吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a4508e\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"CELESTE: Aren’t there any other [b]illusion[/b] spells that have mass?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ca0f76d6b46e413a",
     "original": "ERIS: No.[p/] All known [b]illusion[/b] spells in Wyverngarde can only recreate visual and auditory sensations.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 没有，[p/]在维文加德所有已知的法术只能重塑视觉和听觉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a0b334\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: No.[p/] All known [b]illusion[/b] spells in Wyverngarde can only recreate visual and auditory sensations.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4cf59e8c498547fd",
     "original": "ERIS: None of those spells can create something that someone can touch.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 但没有幻觉法术能够拥有实体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c0f60e\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: None of those spells can create something that someone can touch.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f9ba099f6b3eaff6",
     "original": "CELESTE: So that means that someone disguised[p/] [i]something[/i] to make it look like Bellwether.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 那也就是说有人把什么东西……[p/]伪装成了贝尔维瑟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0afc7b6\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"CELESTE: So that means that someone disguised[p/] [i]something[/i] to make it look like Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::23dc21bd8b9a0dbd",
     "original": "Celeste: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cd4bd2\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"Celeste: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::43a3555730fecaba",
     "original": "ERIS: Why the look of suspicion, Celeste?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 你怎么像是在怀疑我，塞莱斯特？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:052a414\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: Why the look of suspicion, Celeste?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c7d41cbd8008a470",
     "original": "CELESTE: S-[p/][s/]Sorry,[p/][s/] I wasn’t-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 抱、[p/][s/]抱歉，[p/][s/]我没那个意——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:086d8a0\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"CELESTE: S-[p/][s/]Sorry,[p/][s/] I wasn’t-!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7e48009b19ff771a",
     "original": "ERIS: Calm yourself.[p/] I was only joking.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 不用那么紧张。[p/] 我只是开个玩笑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0121750\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: Calm yourself.[p/] I was only joking.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1028fe9bc3edfaa5",
     "original": "ERIS: I don’t blame you for considering every possibility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 考虑所有的可能性并不是什么坏事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a45747\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: I don’t blame you for considering every possibility.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::760a3781400414d9",
     "original": "ERIS: In fact,[p/] I’m flattered you think I’m capable of pulling off such an elaborate ruse.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 说实话，[p/]你怀疑我能弄出这么复杂的伪装手段，我反而觉得很荣幸。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:004d9d5\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: In fact,[p/] I’m flattered you think I’m capable of pulling off such an elaborate ruse.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::918e95297b66fbb8",
     "original": "CELESTE: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c3b81c\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"CELESTE: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::12ebe3d4ac53a5de",
     "original": "TYRION: ...Anyways,[p/] this [i]does[/i] tell us one important thing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……不管怎样，[p/]我们[i]确实[/i]明白了一件事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00c51a3\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: ...Anyways,[p/] this [i]does[/i] tell us one important thing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::53791ff7f4490262",
     "original": "ERIS: What’s that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 是什么呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0487a51\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: What’s that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::35d7378333c84010",
     "original": "TYRION: The “Bellwether” that Jan saw had a physical mass to it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 简当时看到的“贝尔维瑟”拥有实体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aa5298\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: The “Bellwether” that Jan saw had a physical mass to it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e6e7208cc81b2c77",
     "original": "TYRION: It wasn’t a freestanding illusion.[p/] It was someone disguised as her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 那并非是一个独立的幻觉。[p/]一定是某人假扮成了贝尔维瑟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e1b3a5\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: It wasn’t a freestanding illusion.[p/] It was someone disguised as her.\"\n}"
   },
   {
@@ -499,204 +499,204 @@
   {
     "key": "C2 Dialogue.csv::translation::6aa412d7954bf5d4",
     "original": "ERIS: Hm...[p/] It’s quite a shame, isn’t it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 嗯……[p/]真是遗憾，不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b3410\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: Hm...[p/] It’s quite a shame, isn’t it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a34dd28c17b1bb5c",
     "original": "Eris looked pensively towards the gravestone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "厄莉斯略带忧虑的望向那块墓碑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d32539\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"Eris looked pensively towards the gravestone.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::859da7dc517a755c",
     "original": "The name on the stone said “Emily Grant”,[p/] and her lifetime appeared to have been awfully short.",
-    "translation": "",
-    "stage": 0,
+    "translation": "石碑上刻着的名字是“艾梅莉·格兰特”，[p/]她的一生看起来极其短暂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06537ee\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"The name on the stone said “Emily Grant”,[p/] and her lifetime appeared to have been awfully short.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f0ac95ee92c60f6b",
     "original": "TYRION: S-[p/]Sorry for interrupting you...[p/] Was she someone you knew?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 抱、[p/][s/]抱歉打扰……[p/]你认识她吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ca1027\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: S-[p/]Sorry for interrupting you...[p/] Was she someone you knew?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9b2fc7cd37edb9f3",
     "original": "ERIS: I’m actually here on Wallace’s behalf.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 我是代替华莱士来的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fce2cd\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: I’m actually here on Wallace’s behalf.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::425970c0f12c2f96",
     "original": "CELESTE: Wallace knew her?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 华莱士认识她？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06f80ba\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"CELESTE: Wallace knew her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d6c848e2a2f6123f",
     "original": "ERIS: Wallace joined the academy as part of a program run by Headmaster Redmond.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 华莱士是因为雷德蒙校长的某个项目才被录取的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04c639c\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: Wallace joined the academy as part of a program run by Headmaster Redmond.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::42ba2a44342fe835",
     "original": "ERIS: At the time,[p/] the headmaster was reaching out to mages among the commonfolk.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 那时候，[p/]校长正向平民中的法师伸出援手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e765f7\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: At the time,[p/] the headmaster was reaching out to mages among the commonfolk.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::15604e60ac6a1ac4",
     "original": "ERIS: He had started a program to admit them to the academy through a scholarship program.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 他成立了一个补助项目，允许这些法师免学费就读。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b91110\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: He had started a program to admit them to the academy through a scholarship program.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::28d707dc2635ae5e",
     "original": "ERIS: Both Emily and Wallace were among those mages.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 艾梅莉和华莱士就是那时入学的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0156710\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: Both Emily and Wallace were among those mages.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f7754e02681f2261",
     "original": "CELESTE: Wow...[p/] That must have been an amazing opportunity for them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 哇哦……[p/]对他们来说一定是个难得的机会。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:020cd68\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"CELESTE: Wow...[p/] That must have been an amazing opportunity for them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8bc2f7d00d7d53d5",
     "original": "ERIS: The truth is,[p/] neither of them actually cared about learning magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 其实，[p/]他们两个谁都没有太在乎学习魔法这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05667c1\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: The truth is,[p/] neither of them actually cared about learning magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0cab979bf9219e00",
     "original": "ERIS: The real problem was that Emily had a deadly illness.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 真正的问题是艾梅莉身患绝症。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:014133c\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: The real problem was that Emily had a deadly illness.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5fac0251a0161a0a",
     "original": "ERIS: She and Wallace were poor orphans,[p/] and they obviously didn’t have the resources to treat it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 她和华莱士都是孤儿，[p/]没有治疗的钱和渠道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:084b4ac\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: She and Wallace were poor orphans,[p/] and they obviously didn’t have the resources to treat it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f362a5cae6dcd2cc",
     "original": "ERIS: But if they enrolled in the academy...",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 不过进了学院就另当别论了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07b8fa6\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: But if they enrolled in the academy...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::31579e05465685a0",
     "original": "TYRION: The academy would be obligated to give her medical treatment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 学院有义务给予她医疗救助。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:036837c\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: The academy would be obligated to give her medical treatment.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fdeb6cbd6ff01ae2",
     "original": "ERIS: The Imperial Academy teaches the best mages in the kingdom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 帝国学院为王国培养最优秀的法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e0b83\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: The Imperial Academy teaches the best mages in the kingdom.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ffa76c4f17e31208",
     "original": "ERIS: They thought that curing her illness would be an easy task for the academy’s healers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 他们以为只要来到学院，治好她的病就是小菜一碟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:088d85f\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: They thought that curing her illness would be an easy task for the academy’s healers.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9c94d364a339fd9e",
     "original": "ERIS: ...But they were mistaken, I’m afraid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: ……但世事无常，事与愿违。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:003094f\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: ...But they were mistaken, I’m afraid.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e15524e2864c2b25",
     "original": "ERIS: I’m sure you know this by now,[p/] but healing spells can only treat wounds.[p/] They can’t cure illnesses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 我想你应该也已经知道了，[p/]治愈法术只能治疗伤口，[p/]不能治愈疾病。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01d86b5\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: I’m sure you know this by now,[p/] but healing spells can only treat wounds.[p/] They can’t cure illnesses.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a7370fd330389ee1",
     "original": "ERIS: Emily’s condition only got worse over the years,[p/] and eventually,[p/] she succumbed to her illness.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 艾梅莉的身体每况愈下，[p/]最后……[p/]她没能挺过去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e91b3e\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: Emily’s condition only got worse over the years,[p/] and eventually,[p/] she succumbed to her illness.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e323dd3b9ad5a209",
     "original": "ERIS: Wallace was furious.[p/] He didn’t understand why the kingdom was outlawing magic that could save lives.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 华莱士当时很愤怒。[p/]他不明白王国为什么禁止使用能够救命的魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06c165a\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: Wallace was furious.[p/] He didn’t understand why the kingdom was outlawing magic that could save lives.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2271da8347fe216a",
     "original": "TYRION: ...And that’s why he decided to learn it himself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……所以他决定走上学习死灵术的道路。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:007f1d6\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"TYRION: ...And that’s why he decided to learn it himself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cf2a2fe0cd39c860",
     "original": "ERIS: Yes.[p/] The headmaster was inspired by Wallace’s resolve.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 没错。[p/]校长被他的决心所鼓舞。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03f0105\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: Yes.[p/] The headmaster was inspired by Wallace’s resolve.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5bd13a4fdb53fc7f",
     "original": "ERIS: He gave him access to the academy's forbidden tomes of [b]necromancy[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 于是给予了他查阅[b]死灵术[/b]相关禁书的权限。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01fe07c\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: He gave him access to the academy's forbidden tomes of [b]necromancy[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1ceb0d3494148659",
     "original": "ERIS: And with the headmaster's guidance,[p/] Wallace learned the spells that he knows today.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 在校长的指导下，[p/] 华莱士才有了今天的学识和能力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0738af7\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: And with the headmaster's guidance,[p/] Wallace learned the spells that he knows today.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4202dba6d99edbb3",
     "original": "CELESTE: So, that’s why...",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 原来……是这样……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:000976f\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"CELESTE: So, that’s why...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6460ab70eec52d4a",
     "original": "ERIS: It was supposed to stay a secret between him and the headmaster.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 这本该是他和校长之间的秘密。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09e2d51\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: It was supposed to stay a secret between him and the headmaster.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::39cdae1b4b2835d1",
     "original": "ERIS: ...But I’m sure you know how that turned out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: ……但结果如何也不用多说了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05c8189\",\n  \"node\": \"Cemetery_Talk\",\n  \"text\": \"ERIS: ...But I’m sure you know how that turned out.\"\n}"
   },
   {
@@ -716,36 +716,36 @@
   {
     "key": "C2 Dialogue.csv::translation::19f5eaf302361ec3",
     "original": "Eris: Seriously?[p/] You're showing me the badge now?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 真的假的？[p/] 你要我看这个徽章？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02a9564\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: Seriously?[p/] You're showing me the badge now?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::42237ee2ed7df881",
     "original": "Tyrion: \"Badge\"?[p/] It's an Attorney's Runestone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “徽章”？[p/] 这是律师符石。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04d1194\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Tyrion: \\\"Badge\\\"?[p/] It's an Attorney's Runestone.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::812a78357d77aae6",
     "original": "Eris: We're really threading the line, aren't we?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 还真是剑走偏锋啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:019b7f3\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: We're really threading the line, aren't we?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6e87cb36c594cf6c",
     "original": "Eris: Are you going to make a habit of showing this thing to everyone you meet?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 你不会已经养成了见到谁都给他看看这东西的习惯了吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04fb43f\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: Are you going to make a habit of showing this thing to everyone you meet?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a63db1d6a0ab6387",
     "original": "Tyrion: I-[p/][s/]I just think it's neat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我-[p/][s/]我只是觉得这个挺好的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0278b74\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Tyrion: I-[p/][s/]I just think it's neat.\"\n}"
   },
   {
@@ -758,29 +758,29 @@
   {
     "key": "C2 Dialogue.csv::translation::675f36b278bdabca",
     "original": "Eris: I wasn't quite sure what to make of you at first,[p/] but you are truly remarkable.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 起初我还不太清楚你的能力，[p/]但现在看来你真的很了不起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a76dc1\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: I wasn't quite sure what to make of you at first,[p/] but you are truly remarkable.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::816f344388989f7d",
     "original": "Tyrion: Thanks...[p/] I think?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 多谢夸奖……[p/]这算夸奖吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0313279\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Tyrion: Thanks...[p/] I think?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::28a2782fcc708464",
     "original": "Eris: I quite enjoyed watching you battle Lady Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我还蛮爱看你与斯蒂尔文德小姐对峙的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0749271\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: I quite enjoyed watching you battle Lady Steelwind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::73409568f84e15e1",
     "original": "Eris: I only hope the climax lives up to my expectations.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 希望故事的高潮能让我满意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c861bf\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: I only hope the climax lives up to my expectations.\"\n}"
   },
   {
@@ -793,43 +793,43 @@
   {
     "key": "C2 Dialogue.csv::translation::da0a04c048c72c5f",
     "original": "Eris: That's a fancy-looking sword, Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 真是把好剑，塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03d3d03\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: That's a fancy-looking sword, Celeste.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::42058bcfe49b146d",
     "original": "Eris: Is it from the Eastern Kingdoms?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 是出自于东方古国吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0660b37\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: Is it from the Eastern Kingdoms?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3206035bf0a95c57",
     "original": "Celeste: Y-[p/]Yes, actually.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嗯、[p/]嗯，没错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bbaf8f\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Celeste: Y-[p/]Yes, actually.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5cbb7dd1f21c16d7",
     "original": "Celeste: How did you know?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你怎么看出来的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:090440b\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Celeste: How did you know?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::678819c709334e6b",
     "original": "Eris: I've encountered a few weapons from there before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我之前见过一些来自那边的武器。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0802529\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: I've encountered a few weapons from there before.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::28caa4878f862fa9",
     "original": "Eris: They have a unique style that's easy to recognize.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 独特的武器风格很容易辨认。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0482876\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: They have a unique style that's easy to recognize.\"\n}"
   },
   {
@@ -842,57 +842,57 @@
   {
     "key": "C2 Dialogue.csv::translation::9d2a97ec8ac86567",
     "original": "Eris: Lady Steelwind is really something.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 斯蒂尔文德小姐真的很厉害。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02a6ecd\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: Lady Steelwind is really something.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f9e49551d804b3ae",
     "original": "Tyrion: Yeah.[p/] I feel like she's always one step ahead of me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 对啊，[p/]总觉得她什么都快我一步。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0217a38\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Tyrion: Yeah.[p/] I feel like she's always one step ahead of me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0e7e9fa06a7f607e",
     "original": "Eris: But she [i]does[/i] have a habit of relenting when she realizes she's wrong.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 不过她在不占理的时候不会和平时一样咄咄逼人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0deaa55\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: But she [i]does[/i] have a habit of relenting when she realizes she's wrong.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ba04c9cacc819d00",
     "original": "Eris: I think you deserve a worthier adversary.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我觉得你应该找个更厉害的对手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a4dd9a\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: I think you deserve a worthier adversary.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::befa0472d93fdfbf",
     "original": "Tyrion: I mean...[p/] She can be a pain sometimes,[p/] but I'm glad that she pursues justice even if it means she loses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我觉得……[p/] 她有时候挺棘手的，但我觉得她即使败北也在追求正义的品质难能可贵。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07218d2\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Tyrion: I mean...[p/] She can be a pain sometimes,[p/] but I'm glad that she pursues justice even if it means she loses.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1c041d2c2f514272",
     "original": "It was strange...[p/] I would've never seen myself holding such high respect for a noble.",
-    "translation": "",
-    "stage": 0,
+    "translation": "真是件怪事……[p/]我没想到自己会对一个贵族有如此高的评价。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0670ede\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"It was strange...[p/] I would've never seen myself holding such high respect for a noble.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ac6e5f3d8ad9ae40",
     "original": "Eris: Anyways,[p/] I wonder what would drive a noble like her into becoming a lowly prosecutor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 不过，[p/]我很好奇她这样的贵族经历过什么，才会选择成为地位低下的检察官。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05d4617\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: Anyways,[p/] I wonder what would drive a noble like her into becoming a lowly prosecutor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8b2987c191c66696",
     "original": "Eris: I'd love to know the story behind that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我很想知道背后的故事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08ffe63\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: I'd love to know the story behind that.\"\n}"
   },
   {
@@ -905,64 +905,64 @@
   {
     "key": "C2 Dialogue.csv::translation::c9098f603a1252e7",
     "original": "Tyrion: We know that Wallace was accepted through Redmond's program...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们已经知道华莱士是通过雷德蒙的项目入学……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08957d5\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Tyrion: We know that Wallace was accepted through Redmond's program...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b49de37eae765c9e",
     "original": "Tyrion: But what about you, Eris?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那厄莉斯你是怎么入学的呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06ee94b\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Tyrion: But what about you, Eris?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8a9a2a3496deb6a",
     "original": "Eris: Are you trying to ask me if I'm a noble bastard?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 怀疑我是贵族的私生子吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ae364b\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: Are you trying to ask me if I'm a noble bastard?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a8014c49082e08f8",
     "original": "Tyrion: S-[p/]Sorry, I didn't mean-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 抱、[p/]抱歉，我没那个意——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08ae46e\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Tyrion: S-[p/]Sorry, I didn't mean-\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::679d6aa97a763487",
     "original": "Eris: No need to apologize.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 不用道歉啦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f1bf0d\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: No need to apologize.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c8e77df4a83f651e",
     "original": "Eris: Although,[p/] the answer to that question is a bit...[p/] complicated.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 虽然解释起来……[p/]嗯……[p/]有些复杂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09be314\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: Although,[p/] the answer to that question is a bit...[p/] complicated.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bfc56651db5818de",
     "original": "Eris: My family is quite wealthy, but I wouldn't consider them a part of the nobility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 单论财富，我的家族还是能和贵族们掰掰手腕的，[p/]但我不认为算贵族。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:026690e\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: My family is quite wealthy, but I wouldn't consider them a part of the nobility.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::07b289d653e61e35",
     "original": "Hm...[p/] Her family must've been part of a guild or something.",
-    "translation": "",
-    "stage": 0,
+    "translation": "哼嗯……[p/]她家里肯定掌管着商业公会一类的组织。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02bd25c\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Hm...[p/] Her family must've been part of a guild or something.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6f9a94b301c72e57",
     "original": "Eris: I would say it's more like several circles.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 我觉得更像是绕了好几圈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c701a7\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: I would say it's more like several circles.\"\n}"
   },
   {
@@ -975,36 +975,36 @@
   {
     "key": "C2 Dialogue.csv::translation::f51d6efc0cdf6e93",
     "original": "Eris: Catherine Bellwether wasn't the best person.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 凯瑟琳·贝尔维瑟实在谈不上是什么好人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02bdb66\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: Catherine Bellwether wasn't the best person.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::99757cb54cffb9af",
     "original": "Eris: She constantly used her authority to belittle and torment people.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 她经常凭借自己的职权贬低和惩罚别人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00ef808\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: She constantly used her authority to belittle and torment people.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8c32950cf3264db7",
     "original": "Eris: I'm sure the world is better off without her in it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 说实话，这个世界没有她会变得更好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a1403\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Eris: I'm sure the world is better off without her in it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b6e0c0eb8c66e5d6",
     "original": "Tyrion: T-[p/]That's extremely blunt,[p/] Eris...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这、[p/]再怎么说也有点太过分了……[p/]厄莉斯……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e16a9e\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"Tyrion: T-[p/]That's extremely blunt,[p/] Eris...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dfa98798077cfcaf",
     "original": "But I couldn't exactly disagree with her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但我也不算完全反对她的说法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d1d6d5\",\n  \"node\": \"Cemetery_Present\",\n  \"text\": \"But I couldn't exactly disagree with her.\"\n}"
   },
   {
