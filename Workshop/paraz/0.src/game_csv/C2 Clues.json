@@ -44,8 +44,8 @@
   {
     "key": "C2 Clues.csv::SERIES TRANSLATION::24652e28b94087f3",
     "original": "Blood",
-    "translation": "",
-    "stage": 0,
+    "translation": "血迹",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"Blood\",\n  \"display name\": \"Bloodstain Under the Body\",\n  \"description\": \"There is a pool of blood where Catherine Bellwether’s body was. The location implies that she bled from her abdominal area.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Blood\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -114,8 +114,8 @@
   {
     "key": "C2 Clues.csv::DISPLAY NAME TRANSLATION::30d2786915d37965",
     "original": "Academy Lockdown System",
-    "translation": "",
-    "stage": 0,
+    "translation": "学院的封锁系统",
+    "stage": 1,
     "context": "{\n  \"reference name\": \"Lockdown\",\n  \"display name\": \"Academy Lockdown System\",\n  \"description\": \"The academy’s lockdown is a system of artificery that covers the entire academy building. Once activated, it creates magical barriers that isolate and protect each room in the building. These barriers can’t be breached with physical or magical force. They also block mages from teleporting through them.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
