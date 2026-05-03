@@ -8,19 +8,19 @@
   {
     "key": "C2 Dialogue.csv::translation::1c3e525f6bd6b5e1",
     "original": "It was the grave of Emily Grant—[p/]such a shame that she died so young.",
-    "translation": "",
+    "translation": "这是艾梅莉·格兰特的坟墓——[p/]她那么年轻就不幸逝世，实在是遗憾。",
     "context": "{\n  \"id\": \"line:015a533\",\n  \"node\": \"Cemetery_Examine\",\n  \"text\": \"It was the grave of Emily Grant—[p/]such a shame that she died so young.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::47612d1a690cca70",
     "original": "I briefly paid my respects.",
-    "translation": "",
+    "translation": "我简短地示以敬意。",
     "context": "{\n  \"id\": \"line:06f3f19\",\n  \"node\": \"Cemetery_Examine\",\n  \"text\": \"I briefly paid my respects.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6e434e3360adcaf6",
     "original": "It was the grave that Eris was attending to earlier.",
-    "translation": "",
+    "translation": "厄莉斯早些时候就在这座坟墓前。",
     "context": "{\n  \"id\": \"line:00000d9\",\n  \"node\": \"Cemetery_Examine\",\n  \"text\": \"It was the grave that Eris was attending to earlier.\"\n}"
   },
   {
@@ -1514,637 +1514,637 @@
   {
     "key": "C2 Dialogue.csv::translation::cf5b3db545f9f072",
     "original": "ARIA: ...We’re honestly not sure.[p/] The Inquisition is on edge about that as well.",
-    "translation": "",
+    "translation": "ARIA: ……我们实际上没法确定。[p/]裁判所对此也感到非常不安。",
     "context": "{\n  \"id\": \"line:0746d67\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"ARIA: ...We’re honestly not sure.[p/] The Inquisition is on edge about that as well.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a19e8e1cb908f711",
     "original": "TYRION: But how does that implicate Wallace?",
-    "translation": "",
+    "translation": "TYRION: 但是这与华莱士又有什么关联？",
     "context": "{\n  \"id\": \"line:0a9efe9\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: But how does that implicate Wallace?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2d2e73ff809bf634",
     "original": "Aria: Oh,[p/] he didn't tell you?",
-    "translation": "",
+    "translation": "Aria: 噢，[p/]他没告诉你吗？",
     "context": "{\n  \"id\": \"line:067c008\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Aria: Oh,[p/] he didn't tell you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8bbb44c9ab0c7607",
     "original": "ARIA: Wallace Nightgrave is a necromancer.",
-    "translation": "",
+    "translation": "ARIA: 华莱士·奈特格雷夫是个死灵法师。",
     "context": "{\n  \"id\": \"line:0cbda46\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"ARIA: Wallace Nightgrave is a necromancer.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b2c144b25e4db8be",
     "original": "ARIA: We believe that he drained her life force using a spell called [b]Necrotic Blight[/b].",
-    "translation": "",
+    "translation": "ARIA: 我们怀疑他用[b]索命咒[/b]吸干了受害者的生命力。",
     "context": "{\n  \"id\": \"line:0ea9119\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"ARIA: We believe that he drained her life force using a spell called [b]Necrotic Blight[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3dc5639fd55595bf",
     "original": "Aria: Spells like that tend to interfere with the [b]divination[/b] spell we use to identify the cause of death.",
-    "translation": "",
+    "translation": "Aria: 那种法术往往会干扰我们确认死因的[b]占卜术[/b]。",
     "context": "{\n  \"id\": \"line:03ccb0a\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Aria: Spells like that tend to interfere with the [b]divination[/b] spell we use to identify the cause of death.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9daa4d488eda2fb7",
     "original": "ARIA: However,[p/] there were no visible wounds.[p/] Only a [b]necromancy[/b] spell could have killed her.",
-    "translation": "",
+    "translation": "ARIA: 然而，[p/]尸体上没有可见的创口。[p/]只有可能是[b]死灵术[/b]杀死了她。",
     "context": "{\n  \"id\": \"line:00e7508\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"ARIA: However,[p/] there were no visible wounds.[p/] Only a [b]necromancy[/b] spell could have killed her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::de36efd52a9281e1",
     "original": "Tyrion: ...Do you have a copy of the Autopsy Report?",
-    "translation": "",
+    "translation": "Tyrion: 你有尸检报告的副本吗？",
     "context": "{\n  \"id\": \"line:056d7fa\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: ...Do you have a copy of the Autopsy Report?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d96d4c6b45f48552",
     "original": "Aria: Of course,[p/] but it's incomplete because of the aforementioned reasons.",
-    "translation": "",
+    "translation": "Aria: 当然。[p/]但因为之前我提到的原因，内容并不完整。",
     "context": "{\n  \"id\": \"line:070721f\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Aria: Of course,[p/] but it's incomplete because of the aforementioned reasons.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6a24f0d918eadef1",
     "original": "ARIA: This whole ordeal has put everyone on edge.",
-    "translation": "",
+    "translation": "ARIA: 这件事让所有人都焦虑不安。",
     "context": "{\n  \"id\": \"line:0fc79cf\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"ARIA: This whole ordeal has put everyone on edge.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fcdbbfc9b5fe5976",
     "original": "Aria: This is the first case of necrotic homicide we've had in nearly a century.",
-    "translation": "",
+    "translation": "Aria: 这几乎是近百年以来第一起使用死灵术杀人的案件。",
     "context": "{\n  \"id\": \"line:09b3f40\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Aria: This is the first case of necrotic homicide we've had in nearly a century.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::653a06c9accc35d4",
     "original": "I couldn't believe it...[p/] I'd only read about [b]necromancy[/b] in fantasy novels.",
-    "translation": "",
+    "translation": "难以置信……[p/]我只在幻想小说里读到过[b]死灵术[/b]。",
     "context": "{\n  \"id\": \"line:011a0ab\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"I couldn't believe it...[p/] I'd only read about [b]necromancy[/b] in fantasy novels.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8eb0afc0d85bb64d",
     "original": "I never imagined that I'd end up defending a necromancer.",
-    "translation": "",
+    "translation": "我从来没想象过自己会为一个死灵术士辩护。",
     "context": "{\n  \"id\": \"line:0707d3d\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"I never imagined that I'd end up defending a necromancer.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0ca59d7deef48cfb",
     "original": "TYRION: But if what you're saying is true,[p/] weren’t there plenty of other mages who could use [b]necromancy[/b]?",
-    "translation": "",
+    "translation": "TYRION: 但如果你说的是真的，[p/]难道这里没有其他可以使用[b]死灵术[/b]的法师吗？",
     "context": "{\n  \"id\": \"line:01b764b\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: But if what you're saying is true,[p/] weren’t there plenty of other mages who could use [b]necromancy[/b]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7ef4ffeb7c69e66d",
     "original": "Tyrion: This [i]is[/i] an academy for mages, after all.",
-    "translation": "",
+    "translation": "Tyrion: 毕竟[i]这里是[/i]法师学院。",
     "context": "{\n  \"id\": \"line:0c9a26d\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Tyrion: This [i]is[/i] an academy for mages, after all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::279dfa2bbf32a63a",
     "original": "ARIA: No.[p/] The knowledge required to learn [b]necromancy[/b] is heavily controlled.",
-    "translation": "",
+    "translation": "ARIA: 没有。[p/]有关[b]死灵术[/b]的知识是受到严格管制的。",
     "context": "{\n  \"id\": \"line:0f6a680\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"ARIA: No.[p/] The knowledge required to learn [b]necromancy[/b] is heavily controlled.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1727cd4823562d2b",
     "original": "Aria: Mr. Nightgrave already violated several laws simply by learning these spells.",
-    "translation": "",
+    "translation": "Aria: 仅仅是学习这些咒语，奈特格雷夫先生就已经违反了好几条法令了。",
     "context": "{\n  \"id\": \"line:0c2cf89\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Aria: Mr. Nightgrave already violated several laws simply by learning these spells.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ab0dd1ec02486c65",
     "original": "ARIA: I'm baffled as to how he even got access to that knowledge in the first place.",
-    "translation": "",
+    "translation": "ARIA: 我甚至不明白他最初是怎么接触到那些知识的。",
     "context": "{\n  \"id\": \"line:0721e15\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"ARIA: I'm baffled as to how he even got access to that knowledge in the first place.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7da8c1661fac223d",
     "original": "Right...[p/] [b]Necromancy[/b] sounded like some dark magic—[p/]even by the nobility's standards.",
-    "translation": "",
+    "translation": "也是……[p/][b]死灵术[/b]听着就像某类黑魔法——[p/]即使按照贵族的标准也是这样。",
     "context": "{\n  \"id\": \"line:0ebf8a3\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Right...[p/] [b]Necromancy[/b] sounded like some dark magic—[p/]even by the nobility's standards.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32c895911423e3c5",
     "original": "I'd be terrified to know why [i]anyone[/i] would want to learn that type of magic.",
-    "translation": "",
+    "translation": "我实在难以想象，为什么[i]有人[/i]会想学那种魔法。",
     "context": "{\n  \"id\": \"line:050a4f9\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"I'd be terrified to know why [i]anyone[/i] would want to learn that type of magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5eca1b743af36d30",
     "original": "ARIA: The fact that he was the only known student who knew these spells makes him our only suspect. [h=\"But it’s still too convenient...|Something else is happening...\" /]",
-    "translation": "",
+    "translation": "ARIA: 而他是唯一会使用这些法术的学生这一事实也使得我们认定他就是仅可能的嫌疑人。[h=\"但还是太巧了……|还有其他的事情正在发生……\" /]",
     "context": "{\n  \"id\": \"line:04fb112\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"ARIA: The fact that he was the only known student who knew these spells makes him our only suspect. [h=\\\"But it’s still too convenient...|Something else is happening...\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::683551ef6e40008d",
     "original": "TYRION: ...!",
-    "translation": "",
+    "translation": "TYRION: ……！",
     "context": "{\n  \"id\": \"line:0f4f87f\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: ...!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9ac9793602fa5058",
     "original": "I seldom caught thoughts from Steelwind,[p/] and they usually only appeared when someone brought up her father.",
-    "translation": "",
+    "translation": "我很少能捕捉到斯蒂尔文德的想法，[p/]通常只有别人提到她父亲时才有可能。",
     "context": "{\n  \"id\": \"line:0354c6e\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"I seldom caught thoughts from Steelwind,[p/] and they usually only appeared when someone brought up her father.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4df5ca84df70fa93",
     "original": "She was usually very composed,[p/] and I still didn't see a hint of that uneasiness in her posture.",
-    "translation": "",
+    "translation": "她总是十分镇定，[p/]我从她的仪态中也仍没看到紧张的讯号。",
     "context": "{\n  \"id\": \"line:031a172\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"She was usually very composed,[p/] and I still didn't see a hint of that uneasiness in her posture.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::283e3c32b9da5d7f",
     "original": "Normally,[p/] I could only see thoughts when the target was stressed or excited...",
-    "translation": "",
+    "translation": "通常来说，[p/]我只在对象压力大或者兴奋的情况下看见他们的想法……",
     "context": "{\n  \"id\": \"line:0392a9b\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"Normally,[p/] I could only see thoughts when the target was stressed or excited...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b76452841ccb21bb",
     "original": "[i]Something[/i] about this case must've been rattling her.",
-    "translation": "",
+    "translation": "这个案子里一定[i]有个地方[/i]在困扰着她。",
     "context": "{\n  \"id\": \"line:0cd7683\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"[i]Something[/i] about this case must've been rattling her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5fad064e634c460",
     "original": "TYRION: ...Is there something you’re not telling us, Steelwind?",
-    "translation": "",
+    "translation": "TYRION: 斯蒂尔文德……你有什么瞒着我们？",
     "context": "{\n  \"id\": \"line:07aca09\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: ...Is there something you’re not telling us, Steelwind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dfe6e4f9b27b1883",
     "original": "TYRION: ...",
-    "translation": "",
+    "translation": "TYRION: ……",
     "context": "{\n  \"id\": \"line:0094f73\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"TYRION: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06651ee52aeb9cee",
     "original": "The Eye couldn't catch any more thoughts from her.",
-    "translation": "",
+    "translation": "荷鲁斯之眼看不出她的想法了。",
     "context": "{\n  \"id\": \"line:0b884a8\",\n  \"node\": \"Classroom_Examine\",\n  \"text\": \"The Eye couldn't catch any more thoughts from her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f263cfa76a9b4d38",
     "original": "Player: Questions for us",
-    "translation": "",
+    "translation": "Player: 问我们的问题",
     "context": "{\n  \"id\": \"line:0316b38\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Player: Questions for us\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::806076eeabb936af",
     "original": "ARIA: Ms. McCoy.[p/] It’s my understanding that you were adopted.",
-    "translation": "",
+    "translation": "ARIA: 麦考伊女士，[p/]据我所知，你是被收养的。",
     "context": "{\n  \"id\": \"line:0c18a5b\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: Ms. McCoy.[p/] It’s my understanding that you were adopted.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::084dd3171faac825",
     "original": "ARIA: Would you happen to know who your biological parents are?",
-    "translation": "",
+    "translation": "ARIA: 你对自己的亲生父母有什么印象吗？",
     "context": "{\n  \"id\": \"line:0a4e3cf\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: Would you happen to know who your biological parents are?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3c3e7a93ec1f02db",
     "original": "Celeste tensed and shifted uncomfortably.",
-    "translation": "",
+    "translation": "塞莱斯特紧张起来，有些不安地挪动身体。",
     "context": "{\n  \"id\": \"line:0c4333a\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste tensed and shifted uncomfortably.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ca0407eb941a6b22",
     "original": "TYRION: ...That's kind of personal, isn't it?",
-    "translation": "",
+    "translation": "TYRION: ……这问题有点太私人了吧？",
     "context": "{\n  \"id\": \"line:0721359\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: ...That's kind of personal, isn't it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::51224411d5ef0890",
     "original": "ARIA: You agreed to answer my questions.",
-    "translation": "",
+    "translation": "ARIA: 你明明答应过我要回答我的问题的。",
     "context": "{\n  \"id\": \"line:09d5c1b\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: You agreed to answer my questions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f2484a0c6dde4b3e",
     "original": "TYRION: I [i]did[/i],[p/] but I didn’t think you meant—",
-    "translation": "",
+    "translation": "TYRION: 我[i]答应过[/i]，[p/]但我没想到你是要——",
     "context": "{\n  \"id\": \"line:0b9546c\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: I [i]did[/i],[p/] but I didn’t think you meant—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d4959cff77da6934",
     "original": "CELESTE: I-[p/][s/]It’s fine, Tyrion.[p/] It's for Wallace.",
-    "translation": "",
+    "translation": "CELESTE: 没、[p/][s/]没关系的，提利昂。[p/]都是为了华莱士嘛。",
     "context": "{\n  \"id\": \"line:08719e9\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: I-[p/][s/]It’s fine, Tyrion.[p/] It's for Wallace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fcaadc5d31652c47",
     "original": "She took a breath.[p/] This had always been a sore subject for her.",
-    "translation": "",
+    "translation": "她深呼吸了一下，[p/]对她来说这个话题有些心酸。",
     "context": "{\n  \"id\": \"line:04f4155\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"She took a breath.[p/] This had always been a sore subject for her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::49f232097902bf72",
     "original": "CELESTE: I don’t know who my birth parents are.[p/] I’ve never tried looking for them.",
-    "translation": "",
+    "translation": "CELESTE: 说实话，我不知道亲生父母是谁，[p/]也从没想过要去找他们。",
     "context": "{\n  \"id\": \"line:074b827\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: I don’t know who my birth parents are.[p/] I’ve never tried looking for them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::27542c3b959879ca",
     "original": "ARIA: ...I see.",
-    "translation": "",
+    "translation": "ARIA: ……这样啊。",
     "context": "{\n  \"id\": \"line:0c7a1a9\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: ...I see.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::922e50cbe0fa7378",
     "original": "ARIA: If I recall correctly,[p/] your [b]Spell Compendium[/b] only contained one spell.",
-    "translation": "",
+    "translation": "ARIA: 如果我没记错，[p/]你的[b]法术汇编[/b]显示你只会一种法术。",
     "context": "{\n  \"id\": \"line:0d3e1a6\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: If I recall correctly,[p/] your [b]Spell Compendium[/b] only contained one spell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17db7076e07bc3a0",
     "original": "ARIA: How did you learn [b]Mage Blade[/b] in the first place?",
-    "translation": "",
+    "translation": "ARIA: 你当初是怎么学会[b]法术剑刃[/b]的？",
     "context": "{\n  \"id\": \"line:09bd99d\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: How did you learn [b]Mage Blade[/b] in the first place?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b7bfb7898fbb841e",
     "original": "CELESTE: I bought a scroll from a merchant a few years ago.",
-    "translation": "",
+    "translation": "CELESTE: 几年前我从一个商人那里买到了一个卷轴。",
     "context": "{\n  \"id\": \"line:0909fea\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: I bought a scroll from a merchant a few years ago.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34588a69b9c1008c",
     "original": "Celeste: It had [b]Mage Blade's[/b] spell formula on it.",
-    "translation": "",
+    "translation": "Celeste: 面有写[b]法术剑刃[/b]的施展方法。",
     "context": "{\n  \"id\": \"line:0ea27d8\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: It had [b]Mage Blade's[/b] spell formula on it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::58ba860d890d148c",
     "original": "Aria: But surely someone taught you how to cast it.",
-    "translation": "",
+    "translation": "Aria: 但肯定有什么人教过你怎么施放它。",
     "context": "{\n  \"id\": \"line:0abcee0\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: But surely someone taught you how to cast it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::89387feb806bb363",
     "original": "Celeste: No, I'm self-taught.",
-    "translation": "",
+    "translation": "Celeste: 没有啊，我是自学的。",
     "context": "{\n  \"id\": \"line:046f929\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: No, I'm self-taught.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::81da4160646096c4",
     "original": "Steelwind's eyes narrowed.[p/] She was being unusually interrogative about this.",
-    "translation": "",
+    "translation": "斯蒂尔文德眯起了眼。[p/]她对这件事意外地关注。",
     "context": "{\n  \"id\": \"line:04b3b66\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Steelwind's eyes narrowed.[p/] She was being unusually interrogative about this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::67b1c8750d4d3182",
     "original": "Aria: ...You can't teach yourself magic, Ms. McCoy.[p/] That's not possible.",
-    "translation": "",
+    "translation": "Aria: ……麦考伊女士，[p/] 自学魔法是不可能的。",
     "context": "{\n  \"id\": \"line:0e2e9dc\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: ...You can't teach yourself magic, Ms. McCoy.[p/] That's not possible.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c43ea2c4e8c9acbb",
     "original": "Celeste: Well,[p/] [i]I[/i] did.",
-    "translation": "",
+    "translation": "Celeste: 但是，[p/][i]我[/i]确实就是自学的。",
     "context": "{\n  \"id\": \"line:0d416f3\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: Well,[p/] [i]I[/i] did.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32ff35b42ba5833f",
     "original": "Aria: ...Are you sure you're not mistaken?",
-    "translation": "",
+    "translation": "Aria: ……你真的没记错吗？",
     "context": "{\n  \"id\": \"line:0ca6500\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: ...Are you sure you're not mistaken?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e5233be672745386",
     "original": "CELESTE: Hey![p/] I've got a system, okay?",
-    "translation": "",
+    "translation": "CELESTE: 嘿！[p/]我有自己的一套方法，好吧？",
     "context": "{\n  \"id\": \"line:05f570c\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: Hey![p/] I've got a system, okay?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4a75fc39f8110e69",
     "original": "Celeste: I even learned a few new spells today.",
-    "translation": "",
+    "translation": "Celeste: 我今天还学会了几种新的法术呢。",
     "context": "{\n  \"id\": \"line:0eb1683\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: I even learned a few new spells today.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d970abeff74f9c1c",
     "original": "Aria: I’m sorry...[p/] “spells”?[p/] As in plural?",
-    "translation": "",
+    "translation": "Aria: 不好意思……[p/]“几种”？[p/]复数个？",
     "context": "{\n  \"id\": \"line:024bc55\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: I’m sorry...[p/] “spells”?[p/] As in plural?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5ac324e1e5aa3729",
     "original": "Celeste: Yeah![p/] [i]I'd[/i] like to think I'm pretty good at this.",
-    "translation": "",
+    "translation": "Celeste: 是啊！[p/][i]我想[/i]我应该是挺擅长这个的。",
     "context": "{\n  \"id\": \"line:0b4f76a\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: Yeah![p/] [i]I'd[/i] like to think I'm pretty good at this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c970b833b3515c14",
     "original": "Aria: ...How long did it take you to learn these spells?",
-    "translation": "",
+    "translation": "Aria: ……你学这些新法术用了多久？",
     "context": "{\n  \"id\": \"line:0327399\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: ...How long did it take you to learn these spells?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d1529b8184f85b5e",
     "original": "CELESTE: A few hours, I think.",
-    "translation": "",
+    "translation": "CELESTE: 几个小时吧，大概。",
     "context": "{\n  \"id\": \"line:09a38d3\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: A few hours, I think.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4eefe12ac5477d61",
     "original": "ARIA: ... [h=\"She taught herself multiple spell formulas|within a few hours?!\" /]",
-    "translation": "",
+    "translation": "ARIA: ... [h=\"她几小时就学会了好几种新法术？！\" /]",
     "context": "{\n  \"id\": \"line:02b35e8\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: ... [h=\\\"She taught herself multiple spell formulas|within a few hours?!\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6631b3bdd5c46200",
     "original": "ARIA: I...[p/] see.",
-    "translation": "",
+    "translation": "ARIA: 我……[p/]明白了。",
     "context": "{\n  \"id\": \"line:01d1a96\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: I...[p/] see.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5f7f329dacda5113",
     "original": "Aria: I think that’s all I need to ask for now.[p/] Thank you, Ms. McCoy.",
-    "translation": "",
+    "translation": "Aria: 好吧……[p/]我想问的已经问完了。[p/]谢谢，麦考伊女士。",
     "context": "{\n  \"id\": \"line:0c20101\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: I think that’s all I need to ask for now.[p/] Thank you, Ms. McCoy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9b6eb5629d4f39f7",
     "original": "CELESTE: Um...[p/] Okay?",
-    "translation": "",
+    "translation": "CELESTE: 唔……[p/]好的？",
     "context": "{\n  \"id\": \"line:0c67e0f\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: Um...[p/] Okay?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::05c5f3d5e47142d1",
     "original": "Steelwind looked like she was deep in thought.[p/] Why was she so interested in Celeste's magic?",
-    "translation": "",
+    "translation": "看上去斯蒂尔文德陷入了沉思。[p/]她为何对塞莱斯特的法术如此感兴趣？",
     "context": "{\n  \"id\": \"line:04d8886\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Steelwind looked like she was deep in thought.[p/] Why was she so interested in Celeste's magic?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::998bbcef482aa9d2",
     "original": "Player: The Murder",
-    "translation": "",
+    "translation": "Player: 谋杀案",
     "context": "{\n  \"id\": \"line:0b7ed77\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Player: The Murder\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5b893ac68128e63f",
     "original": "TYRION: Do you know what happened here, Steelwind?",
-    "translation": "",
+    "translation": "TYRION: 斯蒂尔文德，这里发生了什么？",
     "context": "{\n  \"id\": \"line:078ee4a\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: Do you know what happened here, Steelwind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2544b2385fcfbc64",
     "original": "ARIA: Well,[p/] the City Watch received a call from the academy.",
-    "translation": "",
+    "translation": "ARIA: 这个嘛……[p/]事情要从城市安保接到来自学院的传讯开始。",
     "context": "{\n  \"id\": \"line:069d407\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: Well,[p/] the City Watch received a call from the academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb9f8fbe631ca017",
     "original": "ARIA: They reported an attack on campus grounds and put the entire building on lockdown.",
-    "translation": "",
+    "translation": "ARIA: 据报校园内发生了一起袭击，整栋楼都启用了封锁系统。",
     "context": "{\n  \"id\": \"line:050164f\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: They reported an attack on campus grounds and put the entire building on lockdown.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2b61c185f16d0658",
     "original": "ARIA: The city watch set up a perimeter around the building while they waited for the system to deactivate.",
-    "translation": "",
+    "translation": "ARIA: 城市安保派人赶到现场并在周围设立警戒线，同时等待封锁解除。",
     "context": "{\n  \"id\": \"line:0cb996d\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: The city watch set up a perimeter around the building while they waited for the system to deactivate.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f74ef5a507d1b517",
     "original": "TYRION: They had to wait?[p/] Why didn't the academy just deactivate the system manually?",
-    "translation": "",
+    "translation": "TYRION: 他们为什么要等？[p/]学院方面不能手动解除那个系统吗？",
     "context": "{\n  \"id\": \"line:0574311\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: They had to wait?[p/] Why didn't the academy just deactivate the system manually?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e90772204d028c9e",
     "original": "ARIA: I’m not sure about the specifics,[p/] but supposedly,[p/] the lockdown can’t be shut down once triggered.[p/] It's a safety mechanism.",
-    "translation": "",
+    "translation": "ARIA: 我不清楚具体的细节，[p/]但根据推测，[p/]封锁启动后就不能人为解除。[p/]这也是安保措施之一。",
     "context": "{\n  \"id\": \"line:0578f13\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: I’m not sure about the specifics,[p/] but supposedly,[p/] the lockdown can’t be shut down once triggered.[p/] It's a safety mechanism.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bb656e551025660e",
     "original": "ARIA: You’ll have to ask one of the academy’s admins if you want to know more.",
-    "translation": "",
+    "translation": "ARIA: 如果你想知道更多，可能要询问学院方的管理人员。",
     "context": "{\n  \"id\": \"line:0594a64\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: You’ll have to ask one of the academy’s admins if you want to know more.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9d182a5a1da1a68d",
     "original": "ARIA: From what I've heard,[p/] you two were also present during the lockdown.",
-    "translation": "",
+    "translation": "ARIA: 就我所听到的，[p/]你们两个封锁期间也在场。",
     "context": "{\n  \"id\": \"line:0097b1d\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: From what I've heard,[p/] you two were also present during the lockdown.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1272aaff6c3c7c04",
     "original": "ARIA: Did either of you see anything suspicious?",
-    "translation": "",
+    "translation": "ARIA: 你们有发现什么可疑情况吗？",
     "context": "{\n  \"id\": \"line:0eb042c\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: Did either of you see anything suspicious?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::87436b8749fee36f",
     "original": "CELESTE: No,[p/] but we actually met the professor that morning.",
-    "translation": "",
+    "translation": "CELESTE: 好像没有……[p/]但其实我们那天早上见过教授。",
     "context": "{\n  \"id\": \"line:09cb74e\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: No,[p/] but we actually met the professor that morning.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3ae757c632974fff",
     "original": "CELESTE: She was obviously still alive then.",
-    "translation": "",
+    "translation": "CELESTE: 那时候她还活着。",
     "context": "{\n  \"id\": \"line:0dbecd2\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: She was obviously still alive then.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::291e0b0db8f053a8",
     "original": "ARIA: I see...[p/] That [i]does[/i] match with the accounts from our other witnesses.",
-    "translation": "",
+    "translation": "ARIA: 好吧……[p/]这[i]确实[/i]与其他证人的证词吻合。",
     "context": "{\n  \"id\": \"line:0880f68\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: I see...[p/] That [i]does[/i] match with the accounts from our other witnesses.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f62cc80facc1526e",
     "original": "Aria: She must have gone to her meeting with the headmaster afterward.",
-    "translation": "",
+    "translation": "Aria: 她之后肯定是去与校长会面。",
     "context": "{\n  \"id\": \"line:02116d9\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: She must have gone to her meeting with the headmaster afterward.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1f1ee2b878b0a449",
     "original": "Tyrion: She had a meeting with the headmaster?[p/] How long did this go on for?",
-    "translation": "",
+    "translation": "Tyrion: 她与校长有会面？[p/]这次会面持续了多久？",
     "context": "{\n  \"id\": \"line:09972d0\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Tyrion: She had a meeting with the headmaster?[p/] How long did this go on for?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2403e5b97088ea50",
     "original": "Aria: From 12:00 PM to 1:00 PM—[p/]about an hour before her death.",
-    "translation": "",
+    "translation": "Aria: 从12:00到下午1:00——[p/]也就是她死前的一个月。",
     "context": "{\n  \"id\": \"line:0a10188\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: From 12:00 PM to 1:00 PM—[p/]about an hour before her death.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::347d0c98a51dcd51",
     "original": "If the headmaster met with Bellwether,[p/] he might've known where she went after the meeting.",
-    "translation": "",
+    "translation": "如果校长确实与贝尔维瑟见了面，[p/]他可能知道教授在之后去了哪里。",
     "context": "{\n  \"id\": \"line:04f02c3\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"If the headmaster met with Bellwether,[p/] he might've known where she went after the meeting.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::104aa489956a3386",
     "original": "TYRION: Would you happen to have a map of the academy?",
-    "translation": "",
+    "translation": "TYRION: 你有学院的地图吗？",
     "context": "{\n  \"id\": \"line:021a7a2\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: Would you happen to have a map of the academy?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::63c1f3911dcba91d",
     "original": "ARIA: I do.[p/] I'll transfer it to your Runestone.",
-    "translation": "",
+    "translation": "ARIA: 我有。[p/]我会传到你的符石上。",
     "context": "{\n  \"id\": \"line:033d0df\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: I do.[p/] I'll transfer it to your Runestone.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9bc76b50290d94c2",
     "original": "TYRION: There’s only one direct path from the headmaster’s office to this lecture hall.",
-    "translation": "",
+    "translation": "TYRION: 从校长室到这间讲堂只有一条直达的路线。",
     "context": "{\n  \"id\": \"line:0e46db5\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: There’s only one direct path from the headmaster’s office to this lecture hall.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d8840caf39b9d6e5",
     "original": "Why would she even enter the lecture hall in the first place?",
-    "translation": "",
+    "translation": "她当时为什么会走进这间讲堂呢？",
     "context": "{\n  \"id\": \"line:0b92684\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Why would she even enter the lecture hall in the first place?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0d9e1ecd4efe9c70",
     "original": "Did she die here,[p/] or was she murdered somewhere else?",
-    "translation": "",
+    "translation": "她是死在了这里，[p/]还是先在其他地方被杀害？",
     "context": "{\n  \"id\": \"line:0d2142c\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Did she die here,[p/] or was she murdered somewhere else?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b2efa05b062c428b",
     "original": "Rancid Smell",
-    "translation": "",
+    "translation": "恶臭",
     "context": "{\n  \"id\": \"line:0d673d8\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Rancid Smell\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9cea5974510c83f9",
     "original": "CELESTE: Ugh...[p/] That smell is driving me crazy.",
-    "translation": "",
+    "translation": "CELESTE: 呃啊……[p/]这臭味快把我逼疯了。",
     "context": "{\n  \"id\": \"line:0802779\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: Ugh...[p/] That smell is driving me crazy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6d079483589f07cb",
     "original": "CELESTE: What [i]is[/i] that?",
-    "translation": "",
+    "translation": "CELESTE: 为什么教室里这么臭？！",
     "context": "{\n  \"id\": \"line:00f3bd0\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: What [i]is[/i] that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7d91f831ff39e3d7",
     "original": "ARIA: There was a bit of an accident during an alchemy lecture a few days ago.",
-    "translation": "",
+    "translation": "ARIA: 几天前这里的炼金术课程出了个小意外。",
     "context": "{\n  \"id\": \"line:03f9fc0\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: There was a bit of an accident during an alchemy lecture a few days ago.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ae103a735b026fb8",
     "original": "ARIA: The instructor misread the directions for an experiment.",
-    "translation": "",
+    "translation": "ARIA: 主讲人在实验中读错了步骤。",
     "context": "{\n  \"id\": \"line:0032348\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: The instructor misread the directions for an experiment.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8675d612dc1b390",
     "original": "ARIA: As a result,[p/] he accidentally produced this rancid-smelling vapor.",
-    "translation": "",
+    "translation": "ARIA: 结果就是，[p/]他意外生成了这种恶臭的蒸汽。",
     "context": "{\n  \"id\": \"line:08e1e83\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: As a result,[p/] he accidentally produced this rancid-smelling vapor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5b19e60c3f238db0",
     "original": "TYRION: Vapor...?[p/] It’s not toxic, is it?",
-    "translation": "",
+    "translation": "TYRION: 蒸汽……？[p/]这不会有毒吧？",
     "context": "{\n  \"id\": \"line:069ff53\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: Vapor...?[p/] It’s not toxic, is it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::57412e9ba2cb0080",
     "original": "ARIA: I wouldn’t be standing here if it were.",
-    "translation": "",
+    "translation": "ARIA: 有毒的话我就不会站在这里头了。",
     "context": "{\n  \"id\": \"line:08d4053\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: I wouldn’t be standing here if it were.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a0158adebd352913",
     "original": "ARIA: ...It’s just extremely unpleasant to the senses.",
-    "translation": "",
+    "translation": "ARIA: ……但是确实很摧残嗅觉。",
     "context": "{\n  \"id\": \"line:0ae3a17\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: ...It’s just extremely unpleasant to the senses.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0175eeb5eab59204",
     "original": "Aria: They temporarily closed this lecture hall until they could get rid of the smell.",
-    "translation": "",
+    "translation": "Aria: 学院在这间讲堂的味道散尽之前都会停用它。",
     "context": "{\n  \"id\": \"line:07a1922\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: They temporarily closed this lecture hall until they could get rid of the smell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ae927bcbee030f50",
     "original": "Aria: House Steelwind actually...[p/] [i]used[/i] a similar concoction during the Great Luminite War.",
-    "translation": "",
+    "translation": "Aria: 斯蒂尔文德家实际上……[p/]在大圣战期间[i]使用过[/i]类似的调合物。",
     "context": "{\n  \"id\": \"line:01bf42e\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: House Steelwind actually...[p/] [i]used[/i] a similar concoction during the Great Luminite War.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4020c56ff338df57",
     "original": "Celeste: See?[p/] This is why I stick to [b]transmutation[/b] magic.",
-    "translation": "",
+    "translation": "Celeste: 看到了吧？[p/]这就是我坚持学习[b]形变术[/b]的原因。",
     "context": "{\n  \"id\": \"line:022eb53\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: See?[p/] This is why I stick to [b]transmutation[/b] magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06a46647a507619a",
     "original": "Aria: Ms. McCoy.[p/] Alchemy is a [i]branch[/i] of [b]transmutation[/b].",
-    "translation": "",
+    "translation": "Aria: 麦考伊女士。[p/]炼金术就是[b]t形变术[/b]的[i]一个分支[/i]。",
     "context": "{\n  \"id\": \"line:026cbe2\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: Ms. McCoy.[p/] Alchemy is a [i]branch[/i] of [b]transmutation[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::25352a32cff98512",
     "original": "Celeste: What?!",
-    "translation": "",
+    "translation": "Celeste: 啊？！",
     "context": "{\n  \"id\": \"line:09a1188\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: What?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::71bc4b2bf6316229",
     "original": "Celeste: I could've been making potions this entire time...",
-    "translation": "",
+    "translation": "Celeste: 我可能一直在制作魔药……",
     "context": "{\n  \"id\": \"line:0e03572\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: I could've been making potions this entire time...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d4692f070a52d341",
     "original": "How was the body discovered?",
-    "translation": "",
+    "translation": "尸体是怎么被发现的？",
     "context": "{\n  \"id\": \"line:0efb618\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"How was the body discovered?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c4b028c77c7a3431",
     "original": "TYRION: How was the body discovered?",
-    "translation": "",
+    "translation": "TYRION: 尸体是怎么被发现的？",
     "context": "{\n  \"id\": \"line:0f3ac53\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: How was the body discovered?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::65f962d9a5fe27f6",
     "original": "ARIA: Two members of the kitchen staff spotted her body inside this classroom.",
-    "translation": "",
+    "translation": "ARIA: 两个厨房员工发现她倒在这间教室里。",
     "context": "{\n  \"id\": \"line:0899f78\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: Two members of the kitchen staff spotted her body inside this classroom.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e514baf7510e9fc8",
     "original": "ARIA: They reported the situation to the campus admin while they attempted to save her life.",
-    "translation": "",
+    "translation": "ARIA: 他们把情况报告给了校园的管理方，同时尝试挽救她的性命。",
     "context": "{\n  \"id\": \"line:0ca9bd5\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: They reported the situation to the campus admin while they attempted to save her life.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ce915b463a4b5142",
     "original": "ARIA: But it was too late.[p/] The professor had already passed away long before any healers arrived.",
-    "translation": "",
+    "translation": "ARIA: 但已经来不及了。[p/]在治愈师到场之前教授就已经去世了。",
     "context": "{\n  \"id\": \"line:0df60d4\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: But it was too late.[p/] The professor had already passed away long before any healers arrived.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::123e5bf7738ad0fa",
     "original": "TYRION: Those two staff members...[p/] Who were they?",
-    "translation": "",
+    "translation": "TYRION: 那两个工作人员……[p/]他们是谁？",
     "context": "{\n  \"id\": \"line:0c29fbd\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: Those two staff members...[p/] Who were they?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d9c7849b88dc138d",
     "original": "ARIA: Valentina and Valerie Ianus.[p/] They’re sisters.",
-    "translation": "",
+    "translation": "ARIA: 是瓦伦蒂娜·伊努斯和瓦莱丽·伊努斯。[p/]他们是姐妹。",
     "context": "{\n  \"id\": \"line:00f29b1\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: Valentina and Valerie Ianus.[p/] They’re sisters.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cc5e97d305322041",
     "original": "TYRION: How are they holding up?[p/] I imagine they'd be rattled after discovering the body of their coworker.",
-    "translation": "",
+    "translation": "TYRION: 她们情况如何？[p/]发现自己同事地尸体应该很受惊吓。",
     "context": "{\n  \"id\": \"line:09caced\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: How are they holding up?[p/] I imagine they'd be rattled after discovering the body of their coworker.\"\n}"
   },
   {

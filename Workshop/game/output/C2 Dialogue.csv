@@ -1,8 +1,8 @@
 id,node,text,translation
 line:0b9159a,Cemetery_Examine,Player: Emily,
-line:015a533,Cemetery_Examine,It was the grave of Emily Grant—[p/]such a shame that she died so young.,
-line:06f3f19,Cemetery_Examine,I briefly paid my respects.,
-line:00000d9,Cemetery_Examine,It was the grave that Eris was attending to earlier.,
+line:015a533,Cemetery_Examine,It was the grave of Emily Grant—[p/]such a shame that she died so young.,这是艾梅莉·格兰特的坟墓——[p/]她那么年轻就不幸逝世，实在是遗憾。
+line:06f3f19,Cemetery_Examine,I briefly paid my respects.,我简短地示以敬意。
+line:00000d9,Cemetery_Examine,It was the grave that Eris was attending to earlier.,厄莉斯早些时候就在这座坟墓前。
 line:0962936,Cemetery_Examine,"The name on the stone said “Emily Grant”,[p/] and her lifetime appears to be awfully short.",石碑上刻着的名字是“艾梅莉·格兰特”，[p/]她的一生看起来极其短暂。
 line:08be1b7,Cemetery_Examine,She must have only been twelve years old when she died.,她去世时仅仅十二岁。
 line:083be08,Cemetery_Examine,Player: Grave,
@@ -255,117 +255,117 @@ line:096e67c,Classroom_Examine,CELESTE: There’s a trace of [b]necromancy[/b] i
 line:03c8316,Classroom_Examine,TYRION: [b]Necromancy[/b]?,TYRION: [b]死灵术[/b]？！
 line:04b4faf,Classroom_Examine,CELESTE: Isn’t [b]necromancy[/b] the type of magic that creates zombies?,CELESTE: [b]死灵术[/b]不是那种能创造僵尸的法术嘛？！
 line:03bbb7d,Classroom_Examine,"CELESTE: She’s not just going to get up and walk away, right?",CELESTE: 她、[p/][s/]她应该不会突然站起来离开吧？！
-line:0746d67,Classroom_Examine,ARIA: ...We’re honestly not sure.[p/] The Inquisition is on edge about that as well.,
-line:0a9efe9,Classroom_Examine,TYRION: But how does that implicate Wallace?,
-line:067c008,Classroom_Examine,"Aria: Oh,[p/] he didn't tell you?",
-line:0cbda46,Classroom_Examine,ARIA: Wallace Nightgrave is a necromancer.,
+line:0746d67,Classroom_Examine,ARIA: ...We’re honestly not sure.[p/] The Inquisition is on edge about that as well.,ARIA: ……我们实际上没法确定。[p/]裁判所对此也感到非常不安。
+line:0a9efe9,Classroom_Examine,TYRION: But how does that implicate Wallace?,TYRION: 但是这与华莱士又有什么关联？
+line:067c008,Classroom_Examine,"Aria: Oh,[p/] he didn't tell you?",Aria: 噢，[p/]他没告诉你吗？
+line:0cbda46,Classroom_Examine,ARIA: Wallace Nightgrave is a necromancer.,ARIA: 华莱士·奈特格雷夫是个死灵法师。
 line:0646084,Classroom_Examine,CELESTE: ...What?,CELESTE: ……什么？
-line:0ea9119,Classroom_Examine,ARIA: We believe that he drained her life force using a spell called [b]Necrotic Blight[/b].,
-line:03ccb0a,Classroom_Examine,Aria: Spells like that tend to interfere with the [b]divination[/b] spell we use to identify the cause of death.,
-line:00e7508,Classroom_Examine,"ARIA: However,[p/] there were no visible wounds.[p/] Only a [b]necromancy[/b] spell could have killed her.",
-line:056d7fa,Classroom_Examine,Tyrion: ...Do you have a copy of the Autopsy Report?,
-line:070721f,Classroom_Examine,"Aria: Of course,[p/] but it's incomplete because of the aforementioned reasons.",
-line:0fc79cf,Classroom_Examine,ARIA: This whole ordeal has put everyone on edge.,
-line:09b3f40,Classroom_Examine,Aria: This is the first case of necrotic homicide we've had in nearly a century.,
-line:011a0ab,Classroom_Examine,I couldn't believe it...[p/] I'd only read about [b]necromancy[/b] in fantasy novels.,
-line:0707d3d,Classroom_Examine,I never imagined that I'd end up defending a necromancer.,
-line:01b764b,Classroom_Examine,"TYRION: But if what you're saying is true,[p/] weren’t there plenty of other mages who could use [b]necromancy[/b]?",
-line:0c9a26d,Classroom_Examine,"Tyrion: This [i]is[/i] an academy for mages, after all.",
-line:0f6a680,Classroom_Examine,ARIA: No.[p/] The knowledge required to learn [b]necromancy[/b] is heavily controlled.,
-line:0c2cf89,Classroom_Examine,Aria: Mr. Nightgrave already violated several laws simply by learning these spells.,
-line:0721e15,Classroom_Examine,ARIA: I'm baffled as to how he even got access to that knowledge in the first place.,
-line:0ebf8a3,Classroom_Examine,Right...[p/] [b]Necromancy[/b] sounded like some dark magic—[p/]even by the nobility's standards.,
-line:050a4f9,Classroom_Examine,I'd be terrified to know why [i]anyone[/i] would want to learn that type of magic.,
-line:04fb112,Classroom_Examine,"ARIA: The fact that he was the only known student who knew these spells makes him our only suspect. [h=""But it’s still too convenient...|Something else is happening..."" /]",
-line:0f4f87f,Classroom_Examine,TYRION: ...!,
-line:0354c6e,Classroom_Examine,"I seldom caught thoughts from Steelwind,[p/] and they usually only appeared when someone brought up her father.",
-line:031a172,Classroom_Examine,"She was usually very composed,[p/] and I still didn't see a hint of that uneasiness in her posture.",
-line:0392a9b,Classroom_Examine,"Normally,[p/] I could only see thoughts when the target was stressed or excited...",
-line:0cd7683,Classroom_Examine,[i]Something[/i] about this case must've been rattling her.,
-line:07aca09,Classroom_Examine,"TYRION: ...Is there something you’re not telling us, Steelwind?",
+line:0ea9119,Classroom_Examine,ARIA: We believe that he drained her life force using a spell called [b]Necrotic Blight[/b].,ARIA: 我们怀疑他用[b]索命咒[/b]吸干了受害者的生命力。
+line:03ccb0a,Classroom_Examine,Aria: Spells like that tend to interfere with the [b]divination[/b] spell we use to identify the cause of death.,Aria: 那种法术往往会干扰我们确认死因的[b]占卜术[/b]。
+line:00e7508,Classroom_Examine,"ARIA: However,[p/] there were no visible wounds.[p/] Only a [b]necromancy[/b] spell could have killed her.",ARIA: 然而，[p/]尸体上没有可见的创口。[p/]只有可能是[b]死灵术[/b]杀死了她。
+line:056d7fa,Classroom_Examine,Tyrion: ...Do you have a copy of the Autopsy Report?,Tyrion: 你有尸检报告的副本吗？
+line:070721f,Classroom_Examine,"Aria: Of course,[p/] but it's incomplete because of the aforementioned reasons.",Aria: 当然。[p/]但因为之前我提到的原因，内容并不完整。
+line:0fc79cf,Classroom_Examine,ARIA: This whole ordeal has put everyone on edge.,ARIA: 这件事让所有人都焦虑不安。
+line:09b3f40,Classroom_Examine,Aria: This is the first case of necrotic homicide we've had in nearly a century.,Aria: 这几乎是近百年以来第一起使用死灵术杀人的案件。
+line:011a0ab,Classroom_Examine,I couldn't believe it...[p/] I'd only read about [b]necromancy[/b] in fantasy novels.,难以置信……[p/]我只在幻想小说里读到过[b]死灵术[/b]。
+line:0707d3d,Classroom_Examine,I never imagined that I'd end up defending a necromancer.,我从来没想象过自己会为一个死灵术士辩护。
+line:01b764b,Classroom_Examine,"TYRION: But if what you're saying is true,[p/] weren’t there plenty of other mages who could use [b]necromancy[/b]?",TYRION: 但如果你说的是真的，[p/]难道这里没有其他可以使用[b]死灵术[/b]的法师吗？
+line:0c9a26d,Classroom_Examine,"Tyrion: This [i]is[/i] an academy for mages, after all.",Tyrion: 毕竟[i]这里是[/i]法师学院。
+line:0f6a680,Classroom_Examine,ARIA: No.[p/] The knowledge required to learn [b]necromancy[/b] is heavily controlled.,ARIA: 没有。[p/]有关[b]死灵术[/b]的知识是受到严格管制的。
+line:0c2cf89,Classroom_Examine,Aria: Mr. Nightgrave already violated several laws simply by learning these spells.,Aria: 仅仅是学习这些咒语，奈特格雷夫先生就已经违反了好几条法令了。
+line:0721e15,Classroom_Examine,ARIA: I'm baffled as to how he even got access to that knowledge in the first place.,ARIA: 我甚至不明白他最初是怎么接触到那些知识的。
+line:0ebf8a3,Classroom_Examine,Right...[p/] [b]Necromancy[/b] sounded like some dark magic—[p/]even by the nobility's standards.,也是……[p/][b]死灵术[/b]听着就像某类黑魔法——[p/]即使按照贵族的标准也是这样。
+line:050a4f9,Classroom_Examine,I'd be terrified to know why [i]anyone[/i] would want to learn that type of magic.,我实在难以想象，为什么[i]有人[/i]会想学那种魔法。
+line:04fb112,Classroom_Examine,"ARIA: The fact that he was the only known student who knew these spells makes him our only suspect. [h=""But it’s still too convenient...|Something else is happening..."" /]","ARIA: 而他是唯一会使用这些法术的学生这一事实也使得我们认定他就是仅可能的嫌疑人。[h=""但还是太巧了……|还有其他的事情正在发生……"" /]"
+line:0f4f87f,Classroom_Examine,TYRION: ...!,TYRION: ……！
+line:0354c6e,Classroom_Examine,"I seldom caught thoughts from Steelwind,[p/] and they usually only appeared when someone brought up her father.",我很少能捕捉到斯蒂尔文德的想法，[p/]通常只有别人提到她父亲时才有可能。
+line:031a172,Classroom_Examine,"She was usually very composed,[p/] and I still didn't see a hint of that uneasiness in her posture.",她总是十分镇定，[p/]我从她的仪态中也仍没看到紧张的讯号。
+line:0392a9b,Classroom_Examine,"Normally,[p/] I could only see thoughts when the target was stressed or excited...",通常来说，[p/]我只在对象压力大或者兴奋的情况下看见他们的想法……
+line:0cd7683,Classroom_Examine,[i]Something[/i] about this case must've been rattling her.,这个案子里一定[i]有个地方[/i]在困扰着她。
+line:07aca09,Classroom_Examine,"TYRION: ...Is there something you’re not telling us, Steelwind?",TYRION: 斯蒂尔文德……你有什么瞒着我们？
 line:047f6f8,Classroom_Examine,ARIA: ...,ARIA: ……
-line:0094f73,Classroom_Examine,TYRION: ...,
-line:0b884a8,Classroom_Examine,The Eye couldn't catch any more thoughts from her.,
+line:0094f73,Classroom_Examine,TYRION: ...,TYRION: ……
+line:0b884a8,Classroom_Examine,The Eye couldn't catch any more thoughts from her.,荷鲁斯之眼看不出她的想法了。
 line:0838b85,Classroom_Examine,Player: Back,
-line:0316b38,Classroom_Talk,Player: Questions for us,
-line:0c18a5b,Classroom_Talk,ARIA: Ms. McCoy.[p/] It’s my understanding that you were adopted.,
-line:0a4e3cf,Classroom_Talk,ARIA: Would you happen to know who your biological parents are?,
-line:0c4333a,Classroom_Talk,Celeste tensed and shifted uncomfortably.,
-line:0721359,Classroom_Talk,"TYRION: ...That's kind of personal, isn't it?",
-line:09d5c1b,Classroom_Talk,ARIA: You agreed to answer my questions.,
-line:0b9546c,Classroom_Talk,"TYRION: I [i]did[/i],[p/] but I didn’t think you meant—",
-line:08719e9,Classroom_Talk,"CELESTE: I-[p/][s/]It’s fine, Tyrion.[p/] It's for Wallace.",
-line:04f4155,Classroom_Talk,She took a breath.[p/] This had always been a sore subject for her.,
-line:074b827,Classroom_Talk,CELESTE: I don’t know who my birth parents are.[p/] I’ve never tried looking for them.,
-line:0c7a1a9,Classroom_Talk,ARIA: ...I see.,
-line:0d3e1a6,Classroom_Talk,"ARIA: If I recall correctly,[p/] your [b]Spell Compendium[/b] only contained one spell.",
-line:09bd99d,Classroom_Talk,ARIA: How did you learn [b]Mage Blade[/b] in the first place?,
-line:0909fea,Classroom_Talk,CELESTE: I bought a scroll from a merchant a few years ago.,
-line:0ea27d8,Classroom_Talk,Celeste: It had [b]Mage Blade's[/b] spell formula on it.,
-line:0abcee0,Classroom_Talk,Aria: But surely someone taught you how to cast it.,
-line:046f929,Classroom_Talk,"Celeste: No, I'm self-taught.",
-line:04b3b66,Classroom_Talk,Steelwind's eyes narrowed.[p/] She was being unusually interrogative about this.,
-line:0e2e9dc,Classroom_Talk,"Aria: ...You can't teach yourself magic, Ms. McCoy.[p/] That's not possible.",
-line:0d416f3,Classroom_Talk,"Celeste: Well,[p/] [i]I[/i] did.",
-line:0ca6500,Classroom_Talk,Aria: ...Are you sure you're not mistaken?,
-line:05f570c,Classroom_Talk,"CELESTE: Hey![p/] I've got a system, okay?",
-line:0eb1683,Classroom_Talk,Celeste: I even learned a few new spells today.,
-line:024bc55,Classroom_Talk,Aria: I’m sorry...[p/] “spells”?[p/] As in plural?,
-line:0b4f76a,Classroom_Talk,Celeste: Yeah![p/] [i]I'd[/i] like to think I'm pretty good at this.,
-line:0327399,Classroom_Talk,Aria: ...How long did it take you to learn these spells?,
-line:09a38d3,Classroom_Talk,"CELESTE: A few hours, I think.",
-line:02b35e8,Classroom_Talk,"ARIA: ... [h=""She taught herself multiple spell formulas|within a few hours?!"" /]",
-line:01d1a96,Classroom_Talk,ARIA: I...[p/] see.,
-line:0c20101,Classroom_Talk,"Aria: I think that’s all I need to ask for now.[p/] Thank you, Ms. McCoy.",
-line:0c67e0f,Classroom_Talk,CELESTE: Um...[p/] Okay?,
-line:04d8886,Classroom_Talk,Steelwind looked like she was deep in thought.[p/] Why was she so interested in Celeste's magic?,
-line:0b7ed77,Classroom_Talk,Player: The Murder,
-line:078ee4a,Classroom_Talk,"TYRION: Do you know what happened here, Steelwind?",
-line:069d407,Classroom_Talk,"ARIA: Well,[p/] the City Watch received a call from the academy.",
-line:050164f,Classroom_Talk,ARIA: They reported an attack on campus grounds and put the entire building on lockdown.,
-line:0cb996d,Classroom_Talk,ARIA: The city watch set up a perimeter around the building while they waited for the system to deactivate.,
-line:0574311,Classroom_Talk,TYRION: They had to wait?[p/] Why didn't the academy just deactivate the system manually?,
-line:0578f13,Classroom_Talk,"ARIA: I’m not sure about the specifics,[p/] but supposedly,[p/] the lockdown can’t be shut down once triggered.[p/] It's a safety mechanism.",
-line:0594a64,Classroom_Talk,ARIA: You’ll have to ask one of the academy’s admins if you want to know more.,
-line:0097b1d,Classroom_Talk,"ARIA: From what I've heard,[p/] you two were also present during the lockdown.",
-line:0eb042c,Classroom_Talk,ARIA: Did either of you see anything suspicious?,
-line:09cb74e,Classroom_Talk,"CELESTE: No,[p/] but we actually met the professor that morning.",
-line:0dbecd2,Classroom_Talk,CELESTE: She was obviously still alive then.,
-line:0880f68,Classroom_Talk,ARIA: I see...[p/] That [i]does[/i] match with the accounts from our other witnesses.,
-line:02116d9,Classroom_Talk,Aria: She must have gone to her meeting with the headmaster afterward.,
-line:09972d0,Classroom_Talk,Tyrion: She had a meeting with the headmaster?[p/] How long did this go on for?,
-line:0a10188,Classroom_Talk,Aria: From 12:00 PM to 1:00 PM—[p/]about an hour before her death.,
-line:04f02c3,Classroom_Talk,"If the headmaster met with Bellwether,[p/] he might've known where she went after the meeting.",
-line:021a7a2,Classroom_Talk,TYRION: Would you happen to have a map of the academy?,
-line:033d0df,Classroom_Talk,ARIA: I do.[p/] I'll transfer it to your Runestone.,
+line:0316b38,Classroom_Talk,Player: Questions for us,Player: 问我们的问题
+line:0c18a5b,Classroom_Talk,ARIA: Ms. McCoy.[p/] It’s my understanding that you were adopted.,ARIA: 麦考伊女士，[p/]据我所知，你是被收养的。
+line:0a4e3cf,Classroom_Talk,ARIA: Would you happen to know who your biological parents are?,ARIA: 你对自己的亲生父母有什么印象吗？
+line:0c4333a,Classroom_Talk,Celeste tensed and shifted uncomfortably.,塞莱斯特紧张起来，有些不安地挪动身体。
+line:0721359,Classroom_Talk,"TYRION: ...That's kind of personal, isn't it?",TYRION: ……这问题有点太私人了吧？
+line:09d5c1b,Classroom_Talk,ARIA: You agreed to answer my questions.,ARIA: 你明明答应过我要回答我的问题的。
+line:0b9546c,Classroom_Talk,"TYRION: I [i]did[/i],[p/] but I didn’t think you meant—",TYRION: 我[i]答应过[/i]，[p/]但我没想到你是要——
+line:08719e9,Classroom_Talk,"CELESTE: I-[p/][s/]It’s fine, Tyrion.[p/] It's for Wallace.",CELESTE: 没、[p/][s/]没关系的，提利昂。[p/]都是为了华莱士嘛。
+line:04f4155,Classroom_Talk,She took a breath.[p/] This had always been a sore subject for her.,她深呼吸了一下，[p/]对她来说这个话题有些心酸。
+line:074b827,Classroom_Talk,CELESTE: I don’t know who my birth parents are.[p/] I’ve never tried looking for them.,CELESTE: 说实话，我不知道亲生父母是谁，[p/]也从没想过要去找他们。
+line:0c7a1a9,Classroom_Talk,ARIA: ...I see.,ARIA: ……这样啊。
+line:0d3e1a6,Classroom_Talk,"ARIA: If I recall correctly,[p/] your [b]Spell Compendium[/b] only contained one spell.",ARIA: 如果我没记错，[p/]你的[b]法术汇编[/b]显示你只会一种法术。
+line:09bd99d,Classroom_Talk,ARIA: How did you learn [b]Mage Blade[/b] in the first place?,ARIA: 你当初是怎么学会[b]法术剑刃[/b]的？
+line:0909fea,Classroom_Talk,CELESTE: I bought a scroll from a merchant a few years ago.,CELESTE: 几年前我从一个商人那里买到了一个卷轴。
+line:0ea27d8,Classroom_Talk,Celeste: It had [b]Mage Blade's[/b] spell formula on it.,Celeste: 面有写[b]法术剑刃[/b]的施展方法。
+line:0abcee0,Classroom_Talk,Aria: But surely someone taught you how to cast it.,Aria: 但肯定有什么人教过你怎么施放它。
+line:046f929,Classroom_Talk,"Celeste: No, I'm self-taught.",Celeste: 没有啊，我是自学的。
+line:04b3b66,Classroom_Talk,Steelwind's eyes narrowed.[p/] She was being unusually interrogative about this.,斯蒂尔文德眯起了眼。[p/]她对这件事意外地关注。
+line:0e2e9dc,Classroom_Talk,"Aria: ...You can't teach yourself magic, Ms. McCoy.[p/] That's not possible.",Aria: ……麦考伊女士，[p/] 自学魔法是不可能的。
+line:0d416f3,Classroom_Talk,"Celeste: Well,[p/] [i]I[/i] did.",Celeste: 但是，[p/][i]我[/i]确实就是自学的。
+line:0ca6500,Classroom_Talk,Aria: ...Are you sure you're not mistaken?,Aria: ……你真的没记错吗？
+line:05f570c,Classroom_Talk,"CELESTE: Hey![p/] I've got a system, okay?",CELESTE: 嘿！[p/]我有自己的一套方法，好吧？
+line:0eb1683,Classroom_Talk,Celeste: I even learned a few new spells today.,Celeste: 我今天还学会了几种新的法术呢。
+line:024bc55,Classroom_Talk,Aria: I’m sorry...[p/] “spells”?[p/] As in plural?,Aria: 不好意思……[p/]“几种”？[p/]复数个？
+line:0b4f76a,Classroom_Talk,Celeste: Yeah![p/] [i]I'd[/i] like to think I'm pretty good at this.,Celeste: 是啊！[p/][i]我想[/i]我应该是挺擅长这个的。
+line:0327399,Classroom_Talk,Aria: ...How long did it take you to learn these spells?,Aria: ……你学这些新法术用了多久？
+line:09a38d3,Classroom_Talk,"CELESTE: A few hours, I think.",CELESTE: 几个小时吧，大概。
+line:02b35e8,Classroom_Talk,"ARIA: ... [h=""She taught herself multiple spell formulas|within a few hours?!"" /]","ARIA: ... [h=""她几小时就学会了好几种新法术？！"" /]"
+line:01d1a96,Classroom_Talk,ARIA: I...[p/] see.,ARIA: 我……[p/]明白了。
+line:0c20101,Classroom_Talk,"Aria: I think that’s all I need to ask for now.[p/] Thank you, Ms. McCoy.",Aria: 好吧……[p/]我想问的已经问完了。[p/]谢谢，麦考伊女士。
+line:0c67e0f,Classroom_Talk,CELESTE: Um...[p/] Okay?,CELESTE: 唔……[p/]好的？
+line:04d8886,Classroom_Talk,Steelwind looked like she was deep in thought.[p/] Why was she so interested in Celeste's magic?,看上去斯蒂尔文德陷入了沉思。[p/]她为何对塞莱斯特的法术如此感兴趣？
+line:0b7ed77,Classroom_Talk,Player: The Murder,Player: 谋杀案
+line:078ee4a,Classroom_Talk,"TYRION: Do you know what happened here, Steelwind?",TYRION: 斯蒂尔文德，这里发生了什么？
+line:069d407,Classroom_Talk,"ARIA: Well,[p/] the City Watch received a call from the academy.",ARIA: 这个嘛……[p/]事情要从城市安保接到来自学院的传讯开始。
+line:050164f,Classroom_Talk,ARIA: They reported an attack on campus grounds and put the entire building on lockdown.,ARIA: 据报校园内发生了一起袭击，整栋楼都启用了封锁系统。
+line:0cb996d,Classroom_Talk,ARIA: The city watch set up a perimeter around the building while they waited for the system to deactivate.,ARIA: 城市安保派人赶到现场并在周围设立警戒线，同时等待封锁解除。
+line:0574311,Classroom_Talk,TYRION: They had to wait?[p/] Why didn't the academy just deactivate the system manually?,TYRION: 他们为什么要等？[p/]学院方面不能手动解除那个系统吗？
+line:0578f13,Classroom_Talk,"ARIA: I’m not sure about the specifics,[p/] but supposedly,[p/] the lockdown can’t be shut down once triggered.[p/] It's a safety mechanism.",ARIA: 我不清楚具体的细节，[p/]但根据推测，[p/]封锁启动后就不能人为解除。[p/]这也是安保措施之一。
+line:0594a64,Classroom_Talk,ARIA: You’ll have to ask one of the academy’s admins if you want to know more.,ARIA: 如果你想知道更多，可能要询问学院方的管理人员。
+line:0097b1d,Classroom_Talk,"ARIA: From what I've heard,[p/] you two were also present during the lockdown.",ARIA: 就我所听到的，[p/]你们两个封锁期间也在场。
+line:0eb042c,Classroom_Talk,ARIA: Did either of you see anything suspicious?,ARIA: 你们有发现什么可疑情况吗？
+line:09cb74e,Classroom_Talk,"CELESTE: No,[p/] but we actually met the professor that morning.",CELESTE: 好像没有……[p/]但其实我们那天早上见过教授。
+line:0dbecd2,Classroom_Talk,CELESTE: She was obviously still alive then.,CELESTE: 那时候她还活着。
+line:0880f68,Classroom_Talk,ARIA: I see...[p/] That [i]does[/i] match with the accounts from our other witnesses.,ARIA: 好吧……[p/]这[i]确实[/i]与其他证人的证词吻合。
+line:02116d9,Classroom_Talk,Aria: She must have gone to her meeting with the headmaster afterward.,Aria: 她之后肯定是去与校长会面。
+line:09972d0,Classroom_Talk,Tyrion: She had a meeting with the headmaster?[p/] How long did this go on for?,Tyrion: 她与校长有会面？[p/]这次会面持续了多久？
+line:0a10188,Classroom_Talk,Aria: From 12:00 PM to 1:00 PM—[p/]about an hour before her death.,Aria: 从12:00到下午1:00——[p/]也就是她死前的一个月。
+line:04f02c3,Classroom_Talk,"If the headmaster met with Bellwether,[p/] he might've known where she went after the meeting.",如果校长确实与贝尔维瑟见了面，[p/]他可能知道教授在之后去了哪里。
+line:021a7a2,Classroom_Talk,TYRION: Would you happen to have a map of the academy?,TYRION: 你有学院的地图吗？
+line:033d0df,Classroom_Talk,ARIA: I do.[p/] I'll transfer it to your Runestone.,ARIA: 我有。[p/]我会传到你的符石上。
 line:0fcbb91,Classroom_Talk,TYRION: Hm...,Tyrion: 嗯……
 line:0266596,Classroom_Talk,CELESTE: What is it?,CELESTE: 怎么了？
-line:0e46db5,Classroom_Talk,TYRION: There’s only one direct path from the headmaster’s office to this lecture hall.,
-line:0b92684,Classroom_Talk,Why would she even enter the lecture hall in the first place?,
-line:0d2142c,Classroom_Talk,"Did she die here,[p/] or was she murdered somewhere else?",
-line:0d673d8,Classroom_Talk,Rancid Smell,
-line:0802779,Classroom_Talk,CELESTE: Ugh...[p/] That smell is driving me crazy.,
-line:00f3bd0,Classroom_Talk,CELESTE: What [i]is[/i] that?,
-line:03f9fc0,Classroom_Talk,ARIA: There was a bit of an accident during an alchemy lecture a few days ago.,
-line:0032348,Classroom_Talk,ARIA: The instructor misread the directions for an experiment.,
-line:08e1e83,Classroom_Talk,"ARIA: As a result,[p/] he accidentally produced this rancid-smelling vapor.",
-line:069ff53,Classroom_Talk,"TYRION: Vapor...?[p/] It’s not toxic, is it?",
-line:08d4053,Classroom_Talk,ARIA: I wouldn’t be standing here if it were.,
-line:0ae3a17,Classroom_Talk,ARIA: ...It’s just extremely unpleasant to the senses.,
-line:07a1922,Classroom_Talk,Aria: They temporarily closed this lecture hall until they could get rid of the smell.,
-line:01bf42e,Classroom_Talk,Aria: House Steelwind actually...[p/] [i]used[/i] a similar concoction during the Great Luminite War.,
-line:022eb53,Classroom_Talk,Celeste: See?[p/] This is why I stick to [b]transmutation[/b] magic.,
-line:026cbe2,Classroom_Talk,Aria: Ms. McCoy.[p/] Alchemy is a [i]branch[/i] of [b]transmutation[/b].,
-line:09a1188,Classroom_Talk,Celeste: What?!,
-line:0e03572,Classroom_Talk,Celeste: I could've been making potions this entire time...,
-line:0efb618,Classroom_Talk,How was the body discovered?,
-line:0f3ac53,Classroom_Talk,TYRION: How was the body discovered?,
-line:0899f78,Classroom_Talk,ARIA: Two members of the kitchen staff spotted her body inside this classroom.,
-line:0ca9bd5,Classroom_Talk,ARIA: They reported the situation to the campus admin while they attempted to save her life.,
-line:0df60d4,Classroom_Talk,ARIA: But it was too late.[p/] The professor had already passed away long before any healers arrived.,
-line:0c29fbd,Classroom_Talk,TYRION: Those two staff members...[p/] Who were they?,
-line:00f29b1,Classroom_Talk,ARIA: Valentina and Valerie Ianus.[p/] They’re sisters.,
-line:09caced,Classroom_Talk,TYRION: How are they holding up?[p/] I imagine they'd be rattled after discovering the body of their coworker.,
+line:0e46db5,Classroom_Talk,TYRION: There’s only one direct path from the headmaster’s office to this lecture hall.,TYRION: 从校长室到这间讲堂只有一条直达的路线。
+line:0b92684,Classroom_Talk,Why would she even enter the lecture hall in the first place?,她当时为什么会走进这间讲堂呢？
+line:0d2142c,Classroom_Talk,"Did she die here,[p/] or was she murdered somewhere else?",她是死在了这里，[p/]还是先在其他地方被杀害？
+line:0d673d8,Classroom_Talk,Rancid Smell,恶臭
+line:0802779,Classroom_Talk,CELESTE: Ugh...[p/] That smell is driving me crazy.,CELESTE: 呃啊……[p/]这臭味快把我逼疯了。
+line:00f3bd0,Classroom_Talk,CELESTE: What [i]is[/i] that?,CELESTE: 为什么教室里这么臭？！
+line:03f9fc0,Classroom_Talk,ARIA: There was a bit of an accident during an alchemy lecture a few days ago.,ARIA: 几天前这里的炼金术课程出了个小意外。
+line:0032348,Classroom_Talk,ARIA: The instructor misread the directions for an experiment.,ARIA: 主讲人在实验中读错了步骤。
+line:08e1e83,Classroom_Talk,"ARIA: As a result,[p/] he accidentally produced this rancid-smelling vapor.",ARIA: 结果就是，[p/]他意外生成了这种恶臭的蒸汽。
+line:069ff53,Classroom_Talk,"TYRION: Vapor...?[p/] It’s not toxic, is it?",TYRION: 蒸汽……？[p/]这不会有毒吧？
+line:08d4053,Classroom_Talk,ARIA: I wouldn’t be standing here if it were.,ARIA: 有毒的话我就不会站在这里头了。
+line:0ae3a17,Classroom_Talk,ARIA: ...It’s just extremely unpleasant to the senses.,ARIA: ……但是确实很摧残嗅觉。
+line:07a1922,Classroom_Talk,Aria: They temporarily closed this lecture hall until they could get rid of the smell.,Aria: 学院在这间讲堂的味道散尽之前都会停用它。
+line:01bf42e,Classroom_Talk,Aria: House Steelwind actually...[p/] [i]used[/i] a similar concoction during the Great Luminite War.,Aria: 斯蒂尔文德家实际上……[p/]在大圣战期间[i]使用过[/i]类似的调合物。
+line:022eb53,Classroom_Talk,Celeste: See?[p/] This is why I stick to [b]transmutation[/b] magic.,Celeste: 看到了吧？[p/]这就是我坚持学习[b]形变术[/b]的原因。
+line:026cbe2,Classroom_Talk,Aria: Ms. McCoy.[p/] Alchemy is a [i]branch[/i] of [b]transmutation[/b].,Aria: 麦考伊女士。[p/]炼金术就是[b]t形变术[/b]的[i]一个分支[/i]。
+line:09a1188,Classroom_Talk,Celeste: What?!,Celeste: 啊？！
+line:0e03572,Classroom_Talk,Celeste: I could've been making potions this entire time...,Celeste: 我可能一直在制作魔药……
+line:0efb618,Classroom_Talk,How was the body discovered?,尸体是怎么被发现的？
+line:0f3ac53,Classroom_Talk,TYRION: How was the body discovered?,TYRION: 尸体是怎么被发现的？
+line:0899f78,Classroom_Talk,ARIA: Two members of the kitchen staff spotted her body inside this classroom.,ARIA: 两个厨房员工发现她倒在这间教室里。
+line:0ca9bd5,Classroom_Talk,ARIA: They reported the situation to the campus admin while they attempted to save her life.,ARIA: 他们把情况报告给了校园的管理方，同时尝试挽救她的性命。
+line:0df60d4,Classroom_Talk,ARIA: But it was too late.[p/] The professor had already passed away long before any healers arrived.,ARIA: 但已经来不及了。[p/]在治愈师到场之前教授就已经去世了。
+line:0c29fbd,Classroom_Talk,TYRION: Those two staff members...[p/] Who were they?,TYRION: 那两个工作人员……[p/]他们是谁？
+line:00f29b1,Classroom_Talk,ARIA: Valentina and Valerie Ianus.[p/] They’re sisters.,ARIA: 是瓦伦蒂娜·伊努斯和瓦莱丽·伊努斯。[p/]他们是姐妹。
+line:09caced,Classroom_Talk,TYRION: How are they holding up?[p/] I imagine they'd be rattled after discovering the body of their coworker.,TYRION: 她们情况如何？[p/]发现自己同事地尸体应该很受惊吓。
 line:093e090,Classroom_Talk,"ARIA: From what Orym said,[p/] they were extremely tense during questioning,[p/] but I suppose that's to be expected.",
 line:09900c9,Classroom_Talk,ARIA: He told me that they couldn't sit still.,
 line:0f9374b,Classroom_Talk,Aria: He found it difficult to take their statements because of that.,
@@ -671,7 +671,7 @@ line:0aaa9bd,OrymObj_2,AriaC: He could have cast [b]Mend Wounds[/b] on the victi
 line:0b73193,OrymObj_2,"At the end of the day,[p/] the burden of proof was on us.",
 line:0276329,OrymObj_2,"But if I could prove someone else healed the body,[p/] I would sever the only thread linking Wallace to the murder.",
 line:0b8b6e6,OrymObj_3,Whoever this healer was...[p/] Valentina definitely knew her.,
-line:06ff22e,OrymObj_3,TYRION: ...,
+line:06ff22e,OrymObj_3,TYRION: ...,TYRION: ……
 line:0c4c610,OrymObj_3,TYRION: Your Honor.[p/] I will admit that I don’t have any evidence to support my theory.,
 line:0f49a96,OrymObj_3,"TYRION: However,[p/] I [i]do[/i] believe that we can bring it to light.",
 line:0b5270d,OrymObj_3,TYRION: There may have been [i]two[/i] people that witnessed someone cast magic on the body.,
@@ -827,7 +827,7 @@ line:008dc31,ValObj_2,"Right...[p/] Commander White may have been negligent some
 line:02dbd1a,ValObj_2,"AriaC: Now,[p/] if you’re done,[p/] I do believe that you’ve exhausted all your options.",
 line:0f6db2c,ValObj_2,TYRION: W-[p/][s/]wait![p/][s/] I’m still not done cross-examining this witness!,
 line:014adf3,ValObj_2,AriaC: ...What could you possibly hope to glean from her testimony?,
-line:0dad6e6,ValObj_2,TYRION: ...,
+line:0dad6e6,ValObj_2,TYRION: ...,TYRION: ……
 line:000041d,ValObj_2,Valentina was stressed out enough to see her thoughts.,
 line:06c4fe2,ValObj_2,...But I couldn't exactly say that I was planning to read her mind.,
 line:0e7f510,ValObj_2,"And at this point,[p/] I felt that I was already testing the judge's patience.",
@@ -1029,7 +1029,7 @@ line:051ce11,Val2Obj_8,"JAN: Yeah.[p/] Like I said,[p/] she broke the vase right
 line:0533104,Val2Obj_8,JAN: It was probably 20-30 minutes before the twins found the body.,
 line:09d49c0,Val2Obj_8,AriaC: “20-30 minutes” before the body was found.,
 line:0f9b765,Val2Obj_8,"AriaC: Do you see the discrepancy, Mr. Cuthbert?",
-line:03c30c6,Val2Obj_8,TYRION: ...!,
+line:03c30c6,Val2Obj_8,TYRION: ...!,TYRION: ……！
 line:0d13d71,Val2Obj_8,Wait...[p/][s/] That couldn't be right!,
 line:0432abf,Val2Obj_8,Bellwether died more than an [i]hour[/i] before the body was found...,
 line:035004b,Val2Obj_8,So how did Jan see her half an hour [i]after[/i] her death?!,
@@ -1047,7 +1047,7 @@ line:04c94bb,Val2Obj_9,AriaC: The defendant is also proficient with [b]illusion[
 line:0236a88,Val2Obj_9,AriaC: He could have easily used an [b]illusion[/b] spell to hide the undead Bellwether’s wounds.,
 line:0f599be,Val2Obj_9,TYRION: But another party could have easily used [b]illusion[/b] magic to disguise themselves as the victim.,
 line:04f6dd1,Val2Obj_9,"AriaC: If that were true,[p/] how did they move the body to the classroom?",
-line:02899ee,Val2Obj_9,TYRION: ...,
+line:02899ee,Val2Obj_9,TYRION: ...,TYRION: ……
 line:000004d,Val2Obj_9,JUDGE: Hm...,
 line:0236200,Val2Obj_9,"JUDGE: Ms. Steelwind.[p/] If your theory is true,[p/] it would mean that the murder occurred elsewhere.",
 line:061ab36,Val2Obj_9,JUDGE: Would the Inquisition happen to know where?,
@@ -1277,7 +1277,7 @@ line:0a84f4d,Cross_Miriam,"MIRIAM: Y-[p/][s/]Yes.[p/] Like I said,[p/] it was a 
 line:02958c9,Cross_Miriam,MIRIAM: It only happened over a few seconds.,
 line:081c809,Cross_Miriam,AriaC: The witness’s interactions are not what’s important here.,
 line:09d5e77,Cross_Miriam,AriaC: What matters is that she [i]witnessed[/i] where the victim was coming from and where she went afterward.,
-line:0ab7a50,Cross_Miriam,TYRION: ...,
+line:0ab7a50,Cross_Miriam,TYRION: ...,TYRION: ……
 line:0a15de1,Cross_Miriam,"Miriam: After that,[p/] she headed towards the library.",
 line:05ddd0e,Cross_Miriam,TYRION: Did you [i]see[/i] her enter the library?,
 line:017711e,Cross_Miriam,"MIRIAM: ...I didn’t,[p/] but there’s not much else in that direction.",
@@ -1349,7 +1349,7 @@ line:0e22cbc,MiriamObj_3,"MIRIAM: But until then,[p/] we had always been nothing
 line:07f4c2c,MiriamObj_3,"MIRIAM: I don’t know what got into her that day,[p/] but something had put her in a foul mood.",
 line:0df3f9b,MiriamObj_3,"MIRIAM: B-[p/][s/]But that’s it![p/][s/] Everything else I said was the truth! [h=""I [i]am[/i] telling the truth!|That's all she did!"" e=""a""/]",
 line:0f37fdb,MiriamObj_3,"MIRIAM: I [i]did[/i] see her come out of the Headmaster’s Office and walk towards the library! [h=""She walked past me!|[i]That[/i] part was true!""/]",
-line:0d681b5,MiriamObj_3,TYRION: ...!,
+line:0d681b5,MiriamObj_3,TYRION: ...!,TYRION: ……！
 line:05d2c0b,MiriamObj_3,"So, she [i]wasn’t[/i] lying about that...",
 line:0b82c3f,MiriamObj_4,AriaC: ...,
 line:018ec22,MiriamObj_4,"AriaC: So,[p/] is that all, Mr. Cuthbert?",
@@ -1359,7 +1359,7 @@ line:08e78be,MiriamObj_4,TYRION: The witness committed perjury—,
 line:0caaa65,MiriamObj_4,AriaC: The witness changed a [i]small[/i] detail of her testimony.,
 line:065e296,MiriamObj_4,AriaC: A detail that is inconsequential to the case.,
 line:083d9bc,MiriamObj_4,AriaC: It was clearly an act with no malicious intent.,
-line:0596e57,MiriamObj_4,TYRION: ...,
+line:0596e57,MiriamObj_4,TYRION: ...,TYRION: ……
 line:06b2885,MiriamObj_4,"After seeing her thoughts,[p/] it was difficult to disagree with that.",
 line:0acdf44,MiriamObj_4,"I was so sure that the Eye would give me a thread to pull on,[p/] but she was only lying to save face.",
 line:06a2ada,MiriamObj_4,AriaC: The witness saw the victim leave the Headmaster’s Office and head toward the library.,
@@ -1382,7 +1382,7 @@ line:0e4576e,MiriamObj_5,JUDGE: ...,
 line:0b557bd,MiriamObj_5,The judge let out a sigh as the young noble was escorted out of the room.,
 line:0a4ec23,MiriamObj_5,It was as if he were expecting the young noble to literally explode at any moment.,
 line:0a4683e,MiriamObj_5,"AriaC: Now with that out of the way...[p/] What else do you have, Mr. Cuthbert?",
-line:0ccae7a,MiriamObj_5,TYRION: ...,
+line:0ccae7a,MiriamObj_5,TYRION: ...,TYRION: ……
 line:076bb2c,MiriamObj_5,The only way to refute the prosecution’s theory was to cast doubt on one of the witnesses.,
 line:019c7c8,MiriamObj_5,"If it wasn’t Miriam,[p/] then...",
 line:01e500f,MiriamObj_5,"TYRION: Steelwind.[p/] To test your theory,[p/] we must question every witness who saw the victim that day.",
@@ -1390,7 +1390,7 @@ line:0c95e6f,MiriamObj_5,"TYRION: So,[p/] with that said,[p/] the defense would 
 line:02f72eb,MiriamObj_5,"AriaC: ...I hope you understand, Mr. Cuthbert.",
 line:06e05b7,MiriamObj_5,AriaC: Your entire case rests on the assumption that one of the witness accounts is incorrect.,
 line:06276fd,MiriamObj_5,"AriaC: If your cross-examination of Mr. Hughes leads nowhere,[p/] then I hope you’re ready to concede.",
-line:0b6b9e7,MiriamObj_5,TYRION: ...,
+line:0b6b9e7,MiriamObj_5,TYRION: ...,TYRION: ……
 line:07fe41a,MiriamObj_6,"I didn't like the sound of it,[p/] but she was right.",
 line:029eb0a,MiriamObj_6,"Unless I could find...[p/][s/] [i]something[/i] in Jan’s testimony,[p/] I wouldn't have a case at all.",
 line:07648c8,MiriamObj_6,"AriaC: Bailiff,[p/] please bring in Mr. Hughes.",
@@ -1488,7 +1488,7 @@ line:059594a,JanObj_2,JUDGE: We’ve already established that the victim was dea
 line:0b5f50d,JanObj_2,"JUDGE: But...[p/] if what he saw wasn’t an undead,[p/][s/] what was it?",
 line:03a52a2,JanObj_2,AriaC: It [i]had[/i] to be an undead!,
 line:0777293,JanObj_2,AriaC: What other explanation is there?!,
-line:0e458fa,JanObj_2,TYRION: ...,
+line:0e458fa,JanObj_2,TYRION: ...,TYRION: ……
 line:0abc983,JanObj_2,It couldn’t have been a [b]Major Illusion[/b].,
 line:01d7e45,JanObj_2,"Otherwise,[p/] it wouldn’t have been able to shove Jan out of the way or knock over the vase.",
 line:0f044fa,JanObj_2,"Whatever it was,[p/] someone probably used an [b]Illusory Disguise[/b] to make it look like Bellwether.",
@@ -1503,7 +1503,7 @@ line:0302384,ConstPres,Construct,
 line:0e84215,ConstPres,Default,
 line:08cee88,ConstPres,No...[p/] That wasn't right.,
 line:058d171,ConstPres,I remembered there was [i]something[/i] that could have recreated Bellwether's voice.,
-line:0d49f12,ConstPresAfter,TYRION: ...!,
+line:0d49f12,ConstPresAfter,TYRION: ...!,TYRION: ……！
 line:04853d9,ConstPresAfter,TYRION: That’s it!,
 line:0a7c633,ConstPresAfter,AriaC: What...?!,
 line:0daf265,ConstPresAfter,"TYRION: Everyone,[p/] the witness didn’t actually [i]hear[/i] the dead victim speaking.",
@@ -1637,7 +1637,7 @@ line:010a1e0,Cross_Theo,"Theodore: She showed up at the expected time,[p/] and w
 line:064f211,Cross_Theo,"TYRION: So, she showed up at [i]exactly[/i] 12:00 PM?",
 line:0cabdd1,Cross_Theo,THEODORE: More or less.,
 line:047ba9e,Cross_Theo,"THEODORE: Catherine Bellwether was many things,[p/] but she was never tardy.",
-line:0970708,Cross_Theo,TYRION: ...,
+line:0970708,Cross_Theo,TYRION: ...,TYRION: ……
 line:03bec85,Cross_Theo,There weren’t any witnesses who saw her before the meeting.,
 line:0172d16,Cross_Theo,"So, I didn't have a way to disprove what he’s saying.",
 line:06db46c,Cross_Theo,I needed to look elsewhere in his testimony.,
@@ -1660,7 +1660,7 @@ line:0fafc53,Cross_Theo,"THEODORE: Make no mistake,[p/] I’ve heard many compla
 line:0606cd4,Cross_Theo,THEODORE: And I’ve had many conversations with her to attempt to correct her behavior.,
 line:0f8617d,Cross_Theo,"THEODORE: At the end of the day,[p/] however,[p/] she [i]was[/i] a remarkable professor.",
 line:0439d30,Cross_Theo,THEODORE: ...Regardless of her lack of people skills.,
-line:0ec3dd9,Cross_Theo,TYRION: ...,
+line:0ec3dd9,Cross_Theo,TYRION: ...,TYRION: ……
 line:059ac07,Cross_Theo,Player: Overflow,
 line:0d21142,Cross_Theo,CELESTE: His testimony pretty much matches what we know so far.,
 line:0969416,Cross_Theo,TYRION: I’m not entirely sure if he’s lying or not.,
@@ -1728,7 +1728,7 @@ line:022305a,Cross_Theo2,TYRION: At least not for a while.,
 line:06c9198,Cross_Theo2,"THEODORE: I suppose you’re correct,[p/] but there are others who benefit too.",
 line:0b6bdc9,Cross_Theo2,THEODORE: The faculty staff is now aware of the Fregas’ plot.,
 line:093498c,Cross_Theo2,"THEODORE: With her plot delayed,[p/] they won’t need to worry about abruptly losing their jobs either.",
-line:0b4b12a,Cross_Theo2,TYRION: ...,
+line:0b4b12a,Cross_Theo2,TYRION: ...,TYRION: ……
 line:00b1ddc,Cross_Theo2,...But what would happen if I proved that Redmond was the killer?,
 line:0ff9413,Cross_Theo2,He would be sent to prison [i]and[/i] the school board would just appoint someone else to carry out their plan...,
 line:0558e0a,Cross_Theo2,...,
@@ -1961,7 +1961,7 @@ line:0592732,TheoEmpEye_2,THEODORE: Your case against me is theoretical at best!
 line:00fecdd,TheoEmpEye_2,THEODORE: But I suppose I can still give you marks for trying!,
 line:0da3548,TheoEmpEye_2,He thought of everything!,
 line:0689a84,TheoEmpEye_2,Did he really get rid of all of the evidence?!,
-line:0ff13fc,TheoEmpEye_2,TYRION: ...,
+line:0ff13fc,TheoEmpEye_2,TYRION: ...,TYRION: ……
 line:04ceefa,TheoEmpEye_2,I was running out of options.,
 line:06fd096,TheoEmpEye_2,But I still had [i]one[/i] option left.,
 line:00d69fa,TheoEmpEye_2,"THEODORE: ...Ha![p/] It’s unbecoming to glare like that, young Tyrion!",
@@ -2063,12 +2063,12 @@ line:0eefb6d,TheoAfterEye_5,"MIRIAM: As a result,[p/] it will stop executing the
 line:0902785,TheoAfterEye_5,"Celeste: So if a task in a series of commands is impossible,[p/] then that command will interrupt the entire series.",
 line:080cba1,TheoAfterEye_6,"If Redmond was trying to cover his tracks,[p/] the Construct’s [i]final[/i] command would be to wipe its memory...",
 line:04429b4,TheoAfterEye_6,"But if its orders were interrupted by the lockdown,[p/] then—!",
-line:003e7e9,TheoAfterEye_6,TYRION: ...,
+line:003e7e9,TheoAfterEye_6,TYRION: ...,TYRION: ……
 line:02c9b64,TheoAfterEye_6,"TYRION: Ms. Steelwind,[p/] I have nothing more to ask this witness.",
 line:0eeae3f,TheoAfterEye_6,AriaC: What?!,
 line:0c7fb48,TheoAfterEye_6,CELESTE: ...,Celeste: ……
 line:05215ef,TheoAfterEye_6,"CELESTE: You’re not giving up, are you?",
-line:0ff90f9,TheoAfterEye_6,TYRION: ...,
+line:0ff90f9,TheoAfterEye_6,TYRION: ...,TYRION: ……
 line:002f662,TheoAfterEye_6,"CELESTE: Yeah...[p/] I thought so,[p/] but how are you going to prove he did it if he’s not on the stand?",
 line:0d7b69f,TheoAfterEye_6,TYRION: Don’t worry.[p/] The next witness’s testimony will be all I need.,
 line:0beb659,TheoAfterEye_6,"CELESTE: ""Next"" witness?",
@@ -2175,7 +2175,7 @@ line:0bafd2e,TheoAfterEye_12,Ruby: She's right.,
 line:04ff16d,TheoAfterEye_12,"As we exited the courtroom,[p/] we were greeted by Ms. Tymora.",
 line:0eb82ed,TheoAfterEye_12,"Ruby: At the end of the day,[p/] you saved Wallace from a wrongful conviction.",
 line:011041f,TheoAfterEye_12,Ruby: You did what you set out to do.[p/] You should be proud of yourself for that.,
-line:07560d6,TheoAfterEye_12,TYRION: ...,
+line:07560d6,TheoAfterEye_12,TYRION: ...,TYRION: ……
 line:0f7a4d8,TheoAfterEye_12,TYRION: I just wish I could do more.,
 line:032b480,TheoAfterEye_12,CELESTE: Nope![p/][s/] None of that!,
 line:092720a,TheoAfterEye_12,Celeste: I’m taking all of us to that restaurant we went to last time.,
@@ -2317,7 +2317,7 @@ line:0d3ba55,Dorm_Talk,MIRIAM: Yes...[p/] It’s quite tragic what happened to h
 line:0cf6c19,Dorm_Talk,MIRIAM: She had always been a friend of House Frega...,
 line:027f161,Dorm_Talk,She was obviously going to be more receptive to Celeste Steelwind.,
 line:014877c,Dorm_Talk,It might be better to let Celeste take the lead on the questioning.,
-line:0968014,Dorm_Talk,Player: The Murder,
+line:0968014,Dorm_Talk,Player: The Murder,Player: 谋杀案
 line:0022d5d,Dorm_Talk,Celeste: We heard that you saw her on the day of the murder.,
 line:00f47f1,Dorm_Talk,Celeste: Could you tell us more about what happened?,
 line:04ff6b4,Dorm_Talk,"MIRIAM: Oh, you heard about that from your relative, did you?",
@@ -2594,7 +2594,7 @@ line:01d7f58,Dorm_Check,"MIRIAM: It is a pleasure to make your acquaintance, Lad
 line:03ab68a,Dorm_Check,CELESTE: I’m Celeste.[p/] Celeste M-,
 line:081d336,Dorm_Check,"She caught herself,[p/] pausing for what was a very awkward moment.",
 line:070b16b,Dorm_Check,CELESTE: MSsssteel...[p/][s/]wind![p/][s/] I’m Celeste Steelwind!,
-line:02f48d6,Dorm_Check,TYRION: ...,
+line:02f48d6,Dorm_Check,TYRION: ...,TYRION: ……
 line:0c8e1e0,Dorm_Check,Was she serious?[p/][s/] There was no way Miriam was going to believe—,
 line:0429bae,Dorm_Check,MIRIAM: S-[p/][s/]Steelwind?!,
 line:08cfc60,Dorm_Check,"MIRIAM: Um...[p/][s/] It’s a pleasure to meet another member of such an esteemed house! [h=""She must be from a distant branch family...|Father may have a use for her...""/]",
@@ -3002,7 +3002,7 @@ line:03ac2ff,AcademyHall_Examine,It appeared to be some kind of storage closet.,
 line:0665966,AcademyHall_Examine,There wasn't anything of note inside of it.,
 line:01d332e,AcademyHall_Examine,Player: Back,
 line:018609b,AcademyHall_Talk,Player: Jan Hughes,
-line:0e1e5db,AcademyHall_Talk,Player: The Murder,
+line:0e1e5db,AcademyHall_Talk,Player: The Murder,Player: 谋杀案
 line:0cba1f4,AcademyHall_Talk,TYRION: Valerie mentioned that you were close to Lecture Hall 2-B before they found Bellwether.,
 line:0995d05,AcademyHall_Talk,TYRION: What were you doing when the twins discovered the body?,
 line:08df30e,AcademyHall_Talk,JAN: I was cleaning the halls.,
@@ -3056,7 +3056,7 @@ line:0d1e996,HallJanJan,"TYRION: So, Jan.[p/] Are you a part of the staff here?"
 line:023f77c,HallJanJan,JAN: Yep...[p/] I’m a janitor...,
 line:0cc6c95,HallJanJan,JAN: I clean...[p/] and I do odd jobs here and there...,
 line:032eb45,HallJanJan,JAN: ...,
-line:0f8fba9,HallJanJan,TYRION: ...,
+line:0f8fba9,HallJanJan,TYRION: ...,TYRION: ……
 line:0a39b4f,HallJanJan,JAN: ...,
 line:08b5f76,HallJanJan,"Well...[p/] Apparently, that’s all he had to say about that.",
 line:0218fe9,AcademyHall_Present,Player: Runestone,
@@ -3219,7 +3219,7 @@ line:0cfa289,Headmaster_Examine,Tyrion: Is that...[p/] wine?,
 line:0bfdf00,Headmaster_Examine,"Theodore: No, actually.[p/] It's just apple juice.",
 line:052e26f,Headmaster_Examine,Theodore: Most of my guests [i]are[/i] students after all.,
 line:0237bb8,Headmaster_Examine,Player: Back,
-line:0e95aa2,Headmaster_Talk,Player: The Murder,
+line:0e95aa2,Headmaster_Talk,Player: The Murder,Player: 谋杀案
 line:026e60b,Headmaster_Talk,THEODORE: This is terrible.,
 line:04ba19b,Headmaster_Talk,THEODORE: To think that one of my prized students would be accused of murder.,
 line:0567d75,Headmaster_Talk,TYRION: We heard your voice on the intercom when the lockdown happened.,
@@ -3960,7 +3960,7 @@ line:08a7a00,MurderReveal_1,"CELESTE: I know that you’re worried about her,[p/
 line:09697e0,MurderReveal_1,"CELESTE: Look,[p/] the best thing we can do right now is stay here and wait until the lockdown is over.",
 line:0de8631,MurderReveal_1,"I knew she was right,[p/] but I couldn't just stand here and do nothing.",
 line:07d628a,MurderReveal_1,"I began kicking the door handle,[p/] but my foot was repelled by the low hum of magical energy.[p/] It didn't move at all.",
-line:01b4ec0,MurderReveal_1,TYRION: ...,
+line:01b4ec0,MurderReveal_1,TYRION: ...,TYRION: ……
 line:05a1b0a,MurderReveal_1,CELESTE: ...,Celeste: ……
 line:082a1fc,MurderReveal_1,Celeste’s hand rested on the hilt of her sword.[p/] Her eyes slowly scanned our surroundings.,
 line:0493253,MurderReveal_1,The other students watched her fearfully.[p/] No one dared to come near us.,
