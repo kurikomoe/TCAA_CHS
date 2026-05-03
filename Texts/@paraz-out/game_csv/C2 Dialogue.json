@@ -2508,141 +2508,141 @@
   {
     "key": "C2 Dialogue.csv::translation::b7126fb7f20f6c64",
     "original": "ARIA: From what Orym said,[p/] they were extremely tense during questioning,[p/] but I suppose that's to be expected.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 根据奥蒙的说法，[p/]她们在讯问中非常紧张，[p/]我觉得是合理的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093e090\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: From what Orym said,[p/] they were extremely tense during questioning,[p/] but I suppose that's to be expected.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e43d7ac7a9ba285c",
     "original": "ARIA: He told me that they couldn't sit still.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 他告诉我她们根本坐不住。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09900c9\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: He told me that they couldn't sit still.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b80ae6afa84ac9b0",
     "original": "Aria: He found it difficult to take their statements because of that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 因此他很难取得她们的有效证词。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f9374b\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: He found it difficult to take their statements because of that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::26ee30cea4709bdb",
     "original": "Tyrion: They \"couldn't sit still\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她们“坐不住”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dc3325\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Tyrion: They \\\"couldn't sit still\\\"?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b40d781f19666fcc",
     "original": "ARIA: Well,[p/] he's always making excuses for his incompetence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 这个嘛，[p/]他总是为自己的失职找借口。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fb72f3\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: Well,[p/] he's always making excuses for his incompetence.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ba8e744c280249fe",
     "original": "Why is Wallace a Suspect?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么华莱士有嫌疑？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08e3021\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Why is Wallace a Suspect?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6ac0d9bf2f560e15",
     "original": "TYRION: We’ve already told the Inquisition this,[p/] but Wallace was with us the entire time.[p/] He has a perfect alibi.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我们已经告诉裁判所的人了，[p/]华莱士一直和我们在一起。[p/]他有完美的不在场证明。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c9c27e\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: We’ve already told the Inquisition this,[p/] but Wallace was with us the entire time.[p/] He has a perfect alibi.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7de979d1bf2dbb74",
     "original": "ARIA: Strong, maybe,[p/] but his alibi is far from perfect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 或许是“很有力”的，[p/]但他的不在场证明远称不上“完美”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02722f0\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: Strong, maybe,[p/] but his alibi is far from perfect.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c64cc5261f0d9e64",
     "original": "ARIA: Ms. McCoy herself told us that.[p/] There was a small time period when she wasn't with him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 麦考伊女士自己就证明了这一点。[p/]有一小段时间她并未和他在一起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d37fc1\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"ARIA: Ms. McCoy herself told us that.[p/] There was a small time period when she wasn't with him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e752ebac9a5aed23",
     "original": "TYRION: ...What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bfc7c5\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"TYRION: ...What?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f4327c848a406093",
     "original": "CELESTE: Right...[p/] It was after we came to check on you when you knocked over that shelf.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 好吧……[p/]就是在你撞倒那个书架，我过来看你的时候。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:097bfdb\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: Right...[p/] It was after we came to check on you when you knocked over that shelf.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::acbc886de3311605",
     "original": "CELESTE: We got separated,[p/] and I kind of got...[p/] lost in the fiction section.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我们就分开了，[p/]而我又有点……[p/]在小说区迷了路。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:079a277\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"CELESTE: We got separated,[p/] and I kind of got...[p/] lost in the fiction section.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::692dd4c1e71678e2",
     "original": "Aria: She found an early release copy of [i]Deaths at Daggerfall[/i].[p/] She binge-read it for over an hour.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 她发现了[i]《血溅匕首雨》[/i]的早期印刷本。[p/]然后一口气读了一个多小时。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04b71f3\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: She found an early release copy of [i]Deaths at Daggerfall[/i].[p/] She binge-read it for over an hour.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e2ffd0d7353f2099",
     "original": "Celeste: Don't just rat me out to him![p/][s/] He's my boss!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 别在他面前揭我的短！[p/][s/]他是我的雇主哎！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0480740\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: Don't just rat me out to him![p/][s/] He's my boss!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cf374b11ec9ea7fc",
     "original": "Aria: Nonsense.[p/] They're well-written books.[p/] No one would fault you for that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 胡说。[p/]那书写得挺不错的。[p/]没人会因此怪罪你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:017ef53\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: Nonsense.[p/] They're well-written books.[p/] No one would fault you for that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::298b8b1e75f13bbf",
     "original": "I mean—[p/]I [i]might[/i] fault her for that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我想——[p/]我[i]可能[/i]要因此怪罪她一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:056271b\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"I mean—[p/]I [i]might[/i] fault her for that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d44fbc9a3de099ed",
     "original": "Celeste: Wait...[p/] You read them too?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 等等……[p/]你也读了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07b5c99\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: Wait...[p/] You read them too?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5417de34cddde6ae",
     "original": "Aria: Y-[p/][s/]Yes...[p/] But—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 是、[p/][s/]是的…….[p/]不过——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08104d9\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: Y-[p/][s/]Yes...[p/] But—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::adbe61248ddf35da",
     "original": "Celeste: What did you think about the ending of \"The Uncrowned\"?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你觉得“无冕之王”的那个结局怎么样？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00f76fa\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: What did you think about the ending of \\\"The Uncrowned\\\"?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ebafe537aabbf8e5",
     "original": "Tyrion: ...Celeste?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……塞莱斯特？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02db2ba\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Tyrion: ...Celeste?\"\n}"
   },
   {
