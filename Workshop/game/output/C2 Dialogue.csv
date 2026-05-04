@@ -334,7 +334,7 @@ line:0dbecd2,Classroom_Talk,CELESTE: She was obviously still alive then.,CELESTE
 line:0880f68,Classroom_Talk,ARIA: I see...[p/] That [i]does[/i] match with the accounts from our other witnesses.,ARIA: 好吧……[p/]这[i]确实[/i]与其他证人的证词吻合。
 line:02116d9,Classroom_Talk,Aria: She must have gone to her meeting with the headmaster afterward.,Aria: 她之后肯定是去与校长会面。
 line:09972d0,Classroom_Talk,Tyrion: She had a meeting with the headmaster?[p/] How long did this go on for?,Tyrion: 她与校长有会面？[p/]这次会面持续了多久？
-line:0a10188,Classroom_Talk,Aria: From 12:00 PM to 1:00 PM—[p/]about an hour before her death.,Aria: 从12:00到下午1:00——[p/]也就是她死前的一个月。
+line:0a10188,Classroom_Talk,Aria: From 12:00 PM to 1:00 PM—[p/]about an hour before her death.,Aria: 从 12:00 到下午 1:00 ——[p/]也就是她死前的一个月。
 line:04f02c3,Classroom_Talk,"If the headmaster met with Bellwether,[p/] he might've known where she went after the meeting.",如果校长确实与贝尔维瑟见了面，[p/]他可能知道教授在之后去了哪里。
 line:021a7a2,Classroom_Talk,TYRION: Would you happen to have a map of the academy?,TYRION: 你有学院的地图吗？
 line:033d0df,Classroom_Talk,ARIA: I do.[p/] I'll transfer it to your Runestone.,ARIA: 我有。[p/]我会传到你的符石上。
@@ -534,57 +534,57 @@ line:0e14fe2,Courtroom1_2,"AriaC: Although there were no witnesses to the crime,
 line:0a427f7,Courtroom1_2,"AriaC: Furthermore,[p/] the autopsy report shows that the body has no physical wounds.",AriaC: 此外，[p/]尸检报告也显示尸体上没有任何皮外伤。
 line:078d2e7,Courtroom1_2,AriaC: [b]Necromancy[/b] is the only type of magic that can harm an individual without physically wounding them.,AriaC: [b]死灵术[/b]是唯一一种可以不造成外伤的前提下，对个体产生伤害的魔法类别。
 line:0af6efe,Courtroom1_2,"AriaC: Additionally,[p/] an alchemist report shows no signs of poison or disease.",AriaC: 另外，[p/]炼金术师的报告也显示没有中毒或疾病的迹象。
-line:06c5458,Courtroom1_2,AriaC: One could only conclude that a necromancer had committed the crime.,
-line:08d6f78,Courtroom1_2,Judge: I see.,
-line:0ec4055,Courtroom1_2,"AriaC: As many of you know,[p/] the practice of advanced [b]necromancy[/b] is outlawed in the Kingdom of Wyverngarde.",
-line:0d07b64,Courtroom1_2,"AriaC: Aside from the defendant,[p/] no other students had learned advanced necrotic magic.",
-line:09efe8d,Courtroom1_2,"AriaC: As such,[p/] the defendant was the only mage in that building capable of committing the murder.",
-line:0aa569b,Courtroom1_2,JUDGE: I see.[p/] That is certainly compelling evidence.,
-line:03b122c,Courtroom1_2,"AriaC: To properly present our case,[p/] the prosecution would like to call Commander Orym White to the stand.",
-line:0727613,Courtroom1_3,"AriaC: Commander White,[p/] please testify to the court about the Inquisition’s findings.",
-line:07eedc1,Courtroom1_3,"ORYM: Yeah, yeah...",
-line:0922633,Courtroom1_3,"Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put on lockdown.",
-line:0c580f8,Courtroom1_3,Orym: We set up a perimeter around the area and waited for the lockdown system to deactivate.,
-line:0781a64,Courtroom1_3,"Orym: When we finally got into the building,[p/] the prosecutor personally inspected the body and detected traces of [b]necromancy[/b] on it.",
-line:0ca3e74,Courtroom1_3,Orym: There were no cuts or bruises on the body either.[p/] The entire body was clean.,
-line:046de16,Courtroom1_3,"Orym: With those two pieces of evidence,[p/] we concluded that it could only be the necromancer kid that did it.",
-line:0b6b353,Courtroom1_3,The Inquisition’s testimony was just as I'd expected.,
-line:0541a87,Courtroom1_3,I'd already found and identified the holes in Steelwind’s case.,
-line:0951370,Courtroom1_3,All I had to do was find that hole in the commander’s testimony.,
-line:04adc62,Courtroom1_3,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,
-line:08e3c65,Cross_Orym,"Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put in lockdown.",
-line:083b95b,Cross_Orym,TYRION: What time did this call come in?,
-line:009a830,Cross_Orym,Orym: A little after 3:00 PM.,
-line:084d9c5,Cross_Orym,Orym: It was a few minutes after the murder was discovered.,
-line:0664a05,Cross_Orym,Right...[p/] I remember that was around the time the lockdown occurred.,
-line:0c674e8,Cross_Orym,Orym: We set up a perimeter around the area and waited for the lockdown system to deactivate.,
-line:045a3ac,Cross_Orym,"The lockdown couldn't be ended manually,[p/] so they must have been forced to wait for an hour until it was lifted.",
-line:05c240c,Cross_Orym,TYRION: How secure was this perimeter?,
-line:0fdbe6b,Cross_Orym,TYRION: Is it possible that someone slipped past you?,
-line:0418f8e,Cross_Orym,AriaC: The Inquisition was working in conjunction with the City Watch [i]and[/i] the Kingsguard.,
-line:07233a5,Cross_Orym,"AriaC: With that many soldiers at the scene,[p/] it’s very unlikely that [i]anyone[/i] escaped unnoticed.",
-line:0dad250,Cross_Orym,That made sense.,
-line:09fbd6d,Cross_Orym,"For better or for worse,[p/] the kingdom must have acted quickly to protect a building filled with the children of every noble family.",
-line:07665b7,Cross_Orym,"Orym: When we finally got into the building,[p/] the prosecutor personally inspected the body and detected traces of [b]necromancy[/b] on it.",
-line:0fc3d65,Cross_Orym,TYRION: Why did the prosecutor inspect the body instead of the Inquisition?,
-line:047a353,Cross_Orym,ORYM: ...Well—,
-line:08b9559,Cross_Orym,AriaC: How I chose to lead the investigation is irrelevant to the proceedings.,
-line:019ca11,Cross_Orym,AriaC: ...Or would you like to insinuate that [i]I’m[/i] not as competent as Commander White?,
-line:01b1114,Cross_Orym,"Tyrion: It's not a question of your competency, Steelwind.",
-line:0bfe7f4,Cross_Orym,"Tyrion: I just find your actions to be bizarre,[p/] given how you usually work.",
-line:0088bc2,Cross_Orym,"JUDGE: While the court admits that the prosecutor’s actions are unorthodox,[p/] we find the presence of a necromancer to be an unorthodox situation.",
-line:0f554b1,Cross_Orym,Judge: I see no reason to question the prosecutor's actions.,
-line:0d776ed,Cross_Orym,"AriaC: Thank you, Your Honor.",
-line:0684ac3,Cross_Orym,Orym: There were no cuts or bruises on the body either.[p/] The entire body was clean.,
-line:022a3e0,Cross_Orym,TYRION: How carefully was the body checked?,
-line:0877261,Cross_Orym,TYRION: Perhaps the prosecution missed something like a small puncture wound.,
-line:0357336,Cross_Orym,"AriaC: The coroner couldn’t find even the smallest cut,[p/] bruise,[p/] or fracture on the body.",
-line:005278b,Cross_Orym,"AriaC: Furthermore,[p/] the alchemist’s report showed no signs of poison or disease.",
-line:05bae01,Cross_Orym,AriaC: The [b]necromancy[/b] spell had obfuscated the postmortem divination.,
-line:0002821,Cross_Orym,AriaC: I spared no expense to verify the cause of death through other means.,
+line:06c5458,Courtroom1_2,AriaC: One could only conclude that a necromancer had committed the crime.,AriaC: 这只能得出一个结论，即一名死灵法师实施了本次犯罪。
+line:08d6f78,Courtroom1_2,Judge: I see.,Judge: 我明白了。
+line:0ec4055,Courtroom1_2,"AriaC: As many of you know,[p/] the practice of advanced [b]necromancy[/b] is outlawed in the Kingdom of Wyverngarde.",AriaC: 正如你们大多数人所知，[p/]学习高阶[b]死灵术[/b]在维文加德王国违反法律。
+line:0d07b64,Courtroom1_2,"AriaC: Aside from the defendant,[p/] no other students had learned advanced necrotic magic.",AriaC: 除被告之外，[p/]没有其他学生学习过高阶死灵魔法。
+line:09efe8d,Courtroom1_2,"AriaC: As such,[p/] the defendant was the only mage in that building capable of committing the murder.",AriaC: 这样的话，[p/]被告就是当时那栋建筑里唯一可以犯案法师。
+line:0aa569b,Courtroom1_2,JUDGE: I see.[p/] That is certainly compelling evidence.,JUDGE: 明白了。[p/]这无疑是令人信服的证据。
+line:03b122c,Courtroom1_2,"AriaC: To properly present our case,[p/] the prosecution would like to call Commander Orym White to the stand.",AriaC: 为准确陈述案情，[p/]检方希望传唤指挥官奥蒙·怀特出庭作证。
+line:0727613,Courtroom1_3,"AriaC: Commander White,[p/] please testify to the court about the Inquisition’s findings.",AriaC: 怀特指挥官，[p/]请向法庭就裁判所的发现作证。
+line:07eedc1,Courtroom1_3,"ORYM: Yeah, yeah...",Orym: 是，是……
+line:0922633,Courtroom1_3,"Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put on lockdown.",Orym: 事情从城市安保接到帝国学院的传讯开始说起。[p/]有人受到了攻击，[p/]然后整栋楼都被封锁了。
+line:0c580f8,Courtroom1_3,Orym: We set up a perimeter around the area and waited for the lockdown system to deactivate.,Orym: 我们在区域周围设立了警戒线，等待封锁系统解除。
+line:0781a64,Courtroom1_3,"Orym: When we finally got into the building,[p/] the prosecutor personally inspected the body and detected traces of [b]necromancy[/b] on it.",Orym: 当我们终于能进入大楼时，[p/]检察官本人检查了尸体，并探测到上面有[b]死灵术[/b]魔法的痕迹。
+line:0ca3e74,Courtroom1_3,Orym: There were no cuts or bruises on the body either.[p/] The entire body was clean.,Orym: 尸体上也没有创口或者瘀伤。[p/]尸体全身都非常干净。
+line:046de16,Courtroom1_3,"Orym: With those two pieces of evidence,[p/] we concluded that it could only be the necromancer kid that did it.",Orym: 依据这两个证据，[p/]我们只能认为是那个死灵法师小子干的。
+line:0b6b353,Courtroom1_3,The Inquisition’s testimony was just as I'd expected.,裁判所的证词与我预料的一致。
+line:0541a87,Courtroom1_3,I'd already found and identified the holes in Steelwind’s case.,但我已经发现并确定了斯蒂尔文德立证中的漏洞。
+line:0951370,Courtroom1_3,All I had to do was find that hole in the commander’s testimony.,我只需要找到指挥官证词里的漏洞就行。
+line:04adc62,Courtroom1_3,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,JUDGE: 卡斯伯特先生，[p/]你可以开始交叉询问了。
+line:08e3c65,Cross_Orym,"Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put in lockdown.",Orym: 事情从城市安保接到帝国学院的传讯开始说起。[p/]有人受到了攻击，[p/]然后整栋楼都被封锁了。
+line:083b95b,Cross_Orym,TYRION: What time did this call come in?,TYRION: 报案传讯具体是什么时间发来的？
+line:009a830,Cross_Orym,Orym: A little after 3:00 PM.,Orym: 下午 3:00 过一点点。
+line:084d9c5,Cross_Orym,Orym: It was a few minutes after the murder was discovered.,Orym: 那是谋杀事件被发现后几分钟。
+line:0664a05,Cross_Orym,Right...[p/] I remember that was around the time the lockdown occurred.,没错……[p/]我记得就是那个时候发生了封锁。
+line:0c674e8,Cross_Orym,Orym: We set up a perimeter around the area and waited for the lockdown system to deactivate.,Orym: 我们在区域周围设立了警戒线，等待封锁系统解除。
+line:045a3ac,Cross_Orym,"The lockdown couldn't be ended manually,[p/] so they must have been forced to wait for an hour until it was lifted.",封锁系统无法人为中止，[p/]因此他们只能被迫等待它一小时后自行结束。
+line:05c240c,Cross_Orym,TYRION: How secure was this perimeter?,TYRION: 当时警戒程度如何？
+line:0fdbe6b,Cross_Orym,TYRION: Is it possible that someone slipped past you?,TYRION: 有可能被人偷偷溜出去吗？
+line:0418f8e,Cross_Orym,AriaC: The Inquisition was working in conjunction with the City Watch [i]and[/i] the Kingsguard.,AriaC: 此案被高度重视，当时由裁判所、城市安保[i]以及[/i]国王卫队协作封锁相关地区。
+line:07233a5,Cross_Orym,"AriaC: With that many soldiers at the scene,[p/] it’s very unlikely that [i]anyone[/i] escaped unnoticed.",AriaC: 有这么多士兵参与，[p/][i]什么人[/i]都不太可能溜出去。
+line:0dad250,Cross_Orym,That made sense.,有道理。
+line:09fbd6d,Cross_Orym,"For better or for worse,[p/] the kingdom must have acted quickly to protect a building filled with the children of every noble family.",不管怎样，[p/]王国对保护这么多贵族子弟所在的建筑肯定是动作迅速。
+line:07665b7,Cross_Orym,"Orym: When we finally got into the building,[p/] the prosecutor personally inspected the body and detected traces of [b]necromancy[/b] on it.",Orym: 当我们终于能进入大楼时，[p/]检察官本人检查了尸体，并探测到上面有[b]死灵术[/b]魔法的痕迹。
+line:0fc3d65,Cross_Orym,TYRION: Why did the prosecutor inspect the body instead of the Inquisition?,TYRION: 为什么是检察官检查尸体而不是裁判所？
+line:047a353,Cross_Orym,ORYM: ...Well—,ORYM: ……这个嘛——
+line:08b9559,Cross_Orym,AriaC: How I chose to lead the investigation is irrelevant to the proceedings.,AriaC: 我对现场调查方针的选择与庭审程序无关。
+line:019ca11,Cross_Orym,AriaC: ...Or would you like to insinuate that [i]I’m[/i] not as competent as Commander White?,AriaC: ……还是说你打算暗示[i]我[/i]的能力不如怀特指挥官？
+line:01b1114,Cross_Orym,"Tyrion: It's not a question of your competency, Steelwind.",Tyrion: 这不是对你称职度的疑问，斯蒂尔文德。
+line:0bfe7f4,Cross_Orym,"Tyrion: I just find your actions to be bizarre,[p/] given how you usually work.",Tyrion: 我只是觉得你的行为很奇怪，[p/]特别是与你通常的做法相比。
+line:0088bc2,Cross_Orym,"JUDGE: While the court admits that the prosecutor’s actions are unorthodox,[p/] we find the presence of a necromancer to be an unorthodox situation.",JUDGE: 尽管本庭承认检察官的行为不合常规，[p/]但我们认为一个死灵术士参与其中同样很不寻常。
+line:0f554b1,Cross_Orym,Judge: I see no reason to question the prosecutor's actions.,Judge: 本庭认为没有质疑检察官行为的理由。
+line:0d776ed,Cross_Orym,"AriaC: Thank you, Your Honor.",AriaC: 感谢您，法官阁下。
+line:0684ac3,Cross_Orym,Orym: There were no cuts or bruises on the body either.[p/] The entire body was clean.,Orym: 尸体上也没有创口或者瘀伤。[p/]尸体全身都非常干净。
+line:022a3e0,Cross_Orym,TYRION: How carefully was the body checked?,TYRION: 尸体检查的有多彻底？
+line:0877261,Cross_Orym,TYRION: Perhaps the prosecution missed something like a small puncture wound.,TYRION: 检察官有可能遗漏了什么。
+line:0357336,Cross_Orym,"AriaC: The coroner couldn’t find even the smallest cut,[p/] bruise,[p/] or fracture on the body.",AriaC: 验尸官没在尸体上找到任何伤口、[p/]淤青或骨裂。
+line:005278b,Cross_Orym,"AriaC: Furthermore,[p/] the alchemist’s report showed no signs of poison or disease.",AriaC: 另外，[p/]炼金术师的报告也显示没有中毒或疾病的迹象。
+line:05bae01,Cross_Orym,AriaC: The [b]necromancy[/b] spell had obfuscated the postmortem divination.,AriaC: [b]死灵术[/b]扰乱了占卜术在尸检中的结果。
+line:0002821,Cross_Orym,AriaC: I spared no expense to verify the cause of death through other means.,AriaC: 我用了一切可能的其他途径验证死因。
 line:0374350,Cross_Orym,"That made sense.[p/] If someone had used [b]Mend Wounds[/b] on the body,[p/] it would have healed even the most minor of injuries.",
 line:0f33b83,Cross_Orym,"So,[p/] how do I prove that someone healed the body?",
-line:0ddb19b,Cross_Orym,"Orym: With those two pieces of evidence,[p/] we concluded that it could only be the necromancer kid that did it.",
+line:0ddb19b,Cross_Orym,"Orym: With those two pieces of evidence,[p/] we concluded that it could only be the necromancer kid that did it.",Orym: 依据这两个证据，[p/]我们只能认为是那个死灵法师小子干的。
 line:096737f,Cross_Orym,TYRION: And the prosecution believes that my client used [b]Necrotic Blight[/b]?,
 line:015eb91,Cross_Orym,ORYM: Yep.[p/] It’s the only way that the crime scene makes any sense.,
 line:0f5198b,Cross_Orym,JUDGE: “[b]Necrotic Blight[/b]”?,
@@ -723,7 +723,7 @@ line:052970e,ValTest,"CELESTE: Hm...[p/] If your theory is true,[p/] that means 
 line:00c1fc1,ValTest,CELESTE: She’s holding something back.,
 line:09de345,ValTest,TYRION: She definitely saw more than she’s letting on.,
 line:0b2f2e3,ValTest,I just needed to prove that somehow...,
-line:0a2a02c,ValTest,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,
+line:0a2a02c,ValTest,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,JUDGE: 卡斯伯特先生，[p/]你可以开始交叉询问了。
 line:02f0ee4,Cross_Val,Valentina: I was walking with my sister in the west wing when we noticed something in a nearby classroom.,
 line:08b0577,Cross_Val,TYRION: Where were you two coming from?,
 line:07fdcc2,Cross_Val,VALENTINA: We came from the kitchen.,
@@ -1409,7 +1409,7 @@ line:0b5b7e9,MiriamObj_7,TYRION: Well...[p/] That was[p/] straightforward.,
 line:094c3e3,MiriamObj_7,"CELESTE: Come on, Jan![p/][s/] What are we supposed to do with that?!",
 line:078fd02,MiriamObj_7,JAN: I don’t know.[p/] [i]You[/i] guys are the lawyers.,
 line:02aa8dc,MiriamObj_7,JAN: I’m just telling you what I saw.,
-line:076fcad,MiriamObj_7,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,
+line:076fcad,MiriamObj_7,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,JUDGE: 卡斯伯特先生，[p/]你可以开始交叉询问了。
 line:04d567f,Cross_Jan,Jan: I saw the professor when I was cleaning the west-wing hallways.[p/] It was about 20-30 minutes before the body was discovered.,
 line:0d7c0c2,Cross_Jan,TYRION: How are you so sure that it was 30 minutes before?,
 line:0818b27,Cross_Jan,JAN: I always check the time to make sure I’m on schedule.,
@@ -1710,7 +1710,7 @@ line:0335b61,TheoObj_3,CELESTE: But how did he even find out?,
 line:0882475,TheoObj_3,TYRION: The best way to tell a convincing lie is to leave a lot of truths and only change one detail.,
 line:008ad9b,TheoObj_3,"TYRION: ...Maybe Bellwether [i]did[/i] tell him,[p/] but she actually told him weeks ago.",
 line:0122f81,TheoObj_3,But how would I [i]prove[/i] that?,
-line:0ae8598,TheoObj_3,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,
+line:0ae8598,TheoObj_3,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,JUDGE: 卡斯伯特先生，[p/]你可以开始交叉询问了。
 line:0eb6438,Cross_Theo2,"Theodore: It [i]is[/i] true that I knew about the Fregas’ plot beforehand,[p/] but I had only [i]just[/i] learned about it.",
 line:079925f,Cross_Theo2,"TYRION: So, you only learned about it recently?",
 line:037d367,Cross_Theo2,TYRION: Doesn’t that seem a bit too convenient for you?,

@@ -1970,7 +1970,7 @@
   {
     "key": "C2 Dialogue.csv::translation::2403e5b97088ea50",
     "original": "Aria: From 12:00 PM to 1:00 PM—[p/]about an hour before her death.",
-    "translation": "Aria: 从12:00到下午1:00——[p/]也就是她死前的一个月。",
+    "translation": "Aria: 从 12:00 到下午 1:00 ——[p/]也就是她死前的一个月。",
     "context": "{\n  \"id\": \"line:0a10188\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: From 12:00 PM to 1:00 PM—[p/]about an hour before her death.\"\n}"
   },
   {
@@ -3128,271 +3128,271 @@
   {
     "key": "C2 Dialogue.csv::translation::dce44c2433d66a3b",
     "original": "AriaC: One could only conclude that a necromancer had committed the crime.",
-    "translation": "",
+    "translation": "AriaC: 这只能得出一个结论，即一名死灵法师实施了本次犯罪。",
     "context": "{\n  \"id\": \"line:06c5458\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: One could only conclude that a necromancer had committed the crime.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6fd1fb874a886d4b",
     "original": "Judge: I see.",
-    "translation": "",
+    "translation": "Judge: 我明白了。",
     "context": "{\n  \"id\": \"line:08d6f78\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Judge: I see.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1b981c50f7b94b64",
     "original": "AriaC: As many of you know,[p/] the practice of advanced [b]necromancy[/b] is outlawed in the Kingdom of Wyverngarde.",
-    "translation": "",
+    "translation": "AriaC: 正如你们大多数人所知，[p/]学习高阶[b]死灵术[/b]在维文加德王国违反法律。",
     "context": "{\n  \"id\": \"line:0ec4055\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: As many of you know,[p/] the practice of advanced [b]necromancy[/b] is outlawed in the Kingdom of Wyverngarde.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::496067103924cbed",
     "original": "AriaC: Aside from the defendant,[p/] no other students had learned advanced necrotic magic.",
-    "translation": "",
+    "translation": "AriaC: 除被告之外，[p/]没有其他学生学习过高阶死灵魔法。",
     "context": "{\n  \"id\": \"line:0d07b64\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: Aside from the defendant,[p/] no other students had learned advanced necrotic magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e194697a978f5f7a",
     "original": "AriaC: As such,[p/] the defendant was the only mage in that building capable of committing the murder.",
-    "translation": "",
+    "translation": "AriaC: 这样的话，[p/]被告就是当时那栋建筑里唯一可以犯案法师。",
     "context": "{\n  \"id\": \"line:09efe8d\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: As such,[p/] the defendant was the only mage in that building capable of committing the murder.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::901bf2ef58fe2849",
     "original": "JUDGE: I see.[p/] That is certainly compelling evidence.",
-    "translation": "",
+    "translation": "JUDGE: 明白了。[p/]这无疑是令人信服的证据。",
     "context": "{\n  \"id\": \"line:0aa569b\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"JUDGE: I see.[p/] That is certainly compelling evidence.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5b0ebe5bbabbcf14",
     "original": "AriaC: To properly present our case,[p/] the prosecution would like to call Commander Orym White to the stand.",
-    "translation": "",
+    "translation": "AriaC: 为准确陈述案情，[p/]检方希望传唤指挥官奥蒙·怀特出庭作证。",
     "context": "{\n  \"id\": \"line:03b122c\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: To properly present our case,[p/] the prosecution would like to call Commander Orym White to the stand.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4512b58d2e156f6a",
     "original": "AriaC: Commander White,[p/] please testify to the court about the Inquisition’s findings.",
-    "translation": "",
+    "translation": "AriaC: 怀特指挥官，[p/]请向法庭就裁判所的发现作证。",
     "context": "{\n  \"id\": \"line:0727613\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"AriaC: Commander White,[p/] please testify to the court about the Inquisition’s findings.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8380d6780ee2cc51",
     "original": "ORYM: Yeah, yeah...",
-    "translation": "",
+    "translation": "Orym: 是，是……",
     "context": "{\n  \"id\": \"line:07eedc1\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"ORYM: Yeah, yeah...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c7f58ca47b4f2d7b",
     "original": "Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put on lockdown.",
-    "translation": "",
+    "translation": "Orym: 事情从城市安保接到帝国学院的传讯开始说起。[p/]有人受到了攻击，[p/]然后整栋楼都被封锁了。",
     "context": "{\n  \"id\": \"line:0922633\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put on lockdown.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::44853316cdc07e4d",
     "original": "Orym: We set up a perimeter around the area and waited for the lockdown system to deactivate.",
-    "translation": "",
+    "translation": "Orym: 我们在区域周围设立了警戒线，等待封锁系统解除。",
     "context": "{\n  \"id\": \"line:0c580f8\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"Orym: We set up a perimeter around the area and waited for the lockdown system to deactivate.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8312f0ff095249c0",
     "original": "Orym: When we finally got into the building,[p/] the prosecutor personally inspected the body and detected traces of [b]necromancy[/b] on it.",
-    "translation": "",
+    "translation": "Orym: 当我们终于能进入大楼时，[p/]检察官本人检查了尸体，并探测到上面有[b]死灵术[/b]魔法的痕迹。",
     "context": "{\n  \"id\": \"line:0781a64\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"Orym: When we finally got into the building,[p/] the prosecutor personally inspected the body and detected traces of [b]necromancy[/b] on it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8271b8592895d530",
     "original": "Orym: There were no cuts or bruises on the body either.[p/] The entire body was clean.",
-    "translation": "",
+    "translation": "Orym: 尸体上也没有创口或者瘀伤。[p/]尸体全身都非常干净。",
     "context": "{\n  \"id\": \"line:0ca3e74\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"Orym: There were no cuts or bruises on the body either.[p/] The entire body was clean.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::76a1365d626df992",
     "original": "Orym: With those two pieces of evidence,[p/] we concluded that it could only be the necromancer kid that did it.",
-    "translation": "",
+    "translation": "Orym: 依据这两个证据，[p/]我们只能认为是那个死灵法师小子干的。",
     "context": "{\n  \"id\": \"line:046de16\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"Orym: With those two pieces of evidence,[p/] we concluded that it could only be the necromancer kid that did it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bd9c063c35543583",
     "original": "The Inquisition’s testimony was just as I'd expected.",
-    "translation": "",
+    "translation": "裁判所的证词与我预料的一致。",
     "context": "{\n  \"id\": \"line:0b6b353\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"The Inquisition’s testimony was just as I'd expected.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::08687f56669b123e",
     "original": "I'd already found and identified the holes in Steelwind’s case.",
-    "translation": "",
+    "translation": "但我已经发现并确定了斯蒂尔文德立证中的漏洞。",
     "context": "{\n  \"id\": \"line:0541a87\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"I'd already found and identified the holes in Steelwind’s case.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e2f71e53b32ac90e",
     "original": "All I had to do was find that hole in the commander’s testimony.",
-    "translation": "",
+    "translation": "我只需要找到指挥官证词里的漏洞就行。",
     "context": "{\n  \"id\": \"line:0951370\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"All I had to do was find that hole in the commander’s testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e0d7380609b78352",
     "original": "JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.",
-    "translation": "",
+    "translation": "JUDGE: 卡斯伯特先生，[p/]你可以开始交叉询问了。",
     "context": "{\n  \"id\": \"line:04adc62\",\n  \"node\": \"Courtroom1_3\",\n  \"text\": \"JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2b37bb590cb49f40",
     "original": "Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put in lockdown.",
-    "translation": "",
+    "translation": "Orym: 事情从城市安保接到帝国学院的传讯开始说起。[p/]有人受到了攻击，[p/]然后整栋楼都被封锁了。",
     "context": "{\n  \"id\": \"line:08e3c65\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Orym: It started when the city watch got a call from the Imperial Academy.[p/] Someone was attacked,[p/] and the whole building was put in lockdown.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4826a01ef118fdbb",
     "original": "TYRION: What time did this call come in?",
-    "translation": "",
+    "translation": "TYRION: 报案传讯具体是什么时间发来的？",
     "context": "{\n  \"id\": \"line:083b95b\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"TYRION: What time did this call come in?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::72a15509b3a89d32",
     "original": "Orym: A little after 3:00 PM.",
-    "translation": "",
+    "translation": "Orym: 下午 3:00 过一点点。",
     "context": "{\n  \"id\": \"line:009a830\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Orym: A little after 3:00 PM.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2c6d4faa2874c6b7",
     "original": "Orym: It was a few minutes after the murder was discovered.",
-    "translation": "",
+    "translation": "Orym: 那是谋杀事件被发现后几分钟。",
     "context": "{\n  \"id\": \"line:084d9c5\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Orym: It was a few minutes after the murder was discovered.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::94b64a6e932ec43c",
     "original": "Right...[p/] I remember that was around the time the lockdown occurred.",
-    "translation": "",
+    "translation": "没错……[p/]我记得就是那个时候发生了封锁。",
     "context": "{\n  \"id\": \"line:0664a05\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Right...[p/] I remember that was around the time the lockdown occurred.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a53bed070cea3a1c",
     "original": "The lockdown couldn't be ended manually,[p/] so they must have been forced to wait for an hour until it was lifted.",
-    "translation": "",
+    "translation": "封锁系统无法人为中止，[p/]因此他们只能被迫等待它一小时后自行结束。",
     "context": "{\n  \"id\": \"line:045a3ac\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"The lockdown couldn't be ended manually,[p/] so they must have been forced to wait for an hour until it was lifted.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8d17734a8bdabae4",
     "original": "TYRION: How secure was this perimeter?",
-    "translation": "",
+    "translation": "TYRION: 当时警戒程度如何？",
     "context": "{\n  \"id\": \"line:05c240c\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"TYRION: How secure was this perimeter?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::38a06b49b940bbc3",
     "original": "TYRION: Is it possible that someone slipped past you?",
-    "translation": "",
+    "translation": "TYRION: 有可能被人偷偷溜出去吗？",
     "context": "{\n  \"id\": \"line:0fdbe6b\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"TYRION: Is it possible that someone slipped past you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4929abb54f576525",
     "original": "AriaC: The Inquisition was working in conjunction with the City Watch [i]and[/i] the Kingsguard.",
-    "translation": "",
+    "translation": "AriaC: 此案被高度重视，当时由裁判所、城市安保[i]以及[/i]国王卫队协作封锁相关地区。",
     "context": "{\n  \"id\": \"line:0418f8e\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: The Inquisition was working in conjunction with the City Watch [i]and[/i] the Kingsguard.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17596b5700a3c260",
     "original": "AriaC: With that many soldiers at the scene,[p/] it’s very unlikely that [i]anyone[/i] escaped unnoticed.",
-    "translation": "",
+    "translation": "AriaC: 有这么多士兵参与，[p/][i]什么人[/i]都不太可能溜出去。",
     "context": "{\n  \"id\": \"line:07233a5\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: With that many soldiers at the scene,[p/] it’s very unlikely that [i]anyone[/i] escaped unnoticed.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0a8e667d3eccad74",
     "original": "That made sense.",
-    "translation": "",
+    "translation": "有道理。",
     "context": "{\n  \"id\": \"line:0dad250\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"That made sense.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7cf9354fccc0c820",
     "original": "For better or for worse,[p/] the kingdom must have acted quickly to protect a building filled with the children of every noble family.",
-    "translation": "",
+    "translation": "不管怎样，[p/]王国对保护这么多贵族子弟所在的建筑肯定是动作迅速。",
     "context": "{\n  \"id\": \"line:09fbd6d\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"For better or for worse,[p/] the kingdom must have acted quickly to protect a building filled with the children of every noble family.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e404572028c7f264",
     "original": "TYRION: Why did the prosecutor inspect the body instead of the Inquisition?",
-    "translation": "",
+    "translation": "TYRION: 为什么是检察官检查尸体而不是裁判所？",
     "context": "{\n  \"id\": \"line:0fc3d65\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"TYRION: Why did the prosecutor inspect the body instead of the Inquisition?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::61b18b4cc2085f5f",
     "original": "ORYM: ...Well—",
-    "translation": "",
+    "translation": "ORYM: ……这个嘛——",
     "context": "{\n  \"id\": \"line:047a353\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"ORYM: ...Well—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::20bba80c6a0c88d3",
     "original": "AriaC: How I chose to lead the investigation is irrelevant to the proceedings.",
-    "translation": "",
+    "translation": "AriaC: 我对现场调查方针的选择与庭审程序无关。",
     "context": "{\n  \"id\": \"line:08b9559\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: How I chose to lead the investigation is irrelevant to the proceedings.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::57cd9573d1e3168e",
     "original": "AriaC: ...Or would you like to insinuate that [i]I’m[/i] not as competent as Commander White?",
-    "translation": "",
+    "translation": "AriaC: ……还是说你打算暗示[i]我[/i]的能力不如怀特指挥官？",
     "context": "{\n  \"id\": \"line:019ca11\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: ...Or would you like to insinuate that [i]I’m[/i] not as competent as Commander White?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7410f10e8488d51f",
     "original": "Tyrion: It's not a question of your competency, Steelwind.",
-    "translation": "",
+    "translation": "Tyrion: 这不是对你称职度的疑问，斯蒂尔文德。",
     "context": "{\n  \"id\": \"line:01b1114\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Tyrion: It's not a question of your competency, Steelwind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4fe4c64f02bb9934",
     "original": "Tyrion: I just find your actions to be bizarre,[p/] given how you usually work.",
-    "translation": "",
+    "translation": "Tyrion: 我只是觉得你的行为很奇怪，[p/]特别是与你通常的做法相比。",
     "context": "{\n  \"id\": \"line:0bfe7f4\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Tyrion: I just find your actions to be bizarre,[p/] given how you usually work.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fb97d582996e2aa2",
     "original": "JUDGE: While the court admits that the prosecutor’s actions are unorthodox,[p/] we find the presence of a necromancer to be an unorthodox situation.",
-    "translation": "",
+    "translation": "JUDGE: 尽管本庭承认检察官的行为不合常规，[p/]但我们认为一个死灵术士参与其中同样很不寻常。",
     "context": "{\n  \"id\": \"line:0088bc2\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"JUDGE: While the court admits that the prosecutor’s actions are unorthodox,[p/] we find the presence of a necromancer to be an unorthodox situation.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cb1d3a97aed1338c",
     "original": "Judge: I see no reason to question the prosecutor's actions.",
-    "translation": "",
+    "translation": "Judge: 本庭认为没有质疑检察官行为的理由。",
     "context": "{\n  \"id\": \"line:0f554b1\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Judge: I see no reason to question the prosecutor's actions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b2a85f326be4bbee",
     "original": "AriaC: Thank you, Your Honor.",
-    "translation": "",
+    "translation": "AriaC: 感谢您，法官阁下。",
     "context": "{\n  \"id\": \"line:0d776ed\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: Thank you, Your Honor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4a9ba84075b0ff91",
     "original": "TYRION: How carefully was the body checked?",
-    "translation": "",
+    "translation": "TYRION: 尸体检查的有多彻底？",
     "context": "{\n  \"id\": \"line:022a3e0\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"TYRION: How carefully was the body checked?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ab618c57ec4ef8bb",
     "original": "TYRION: Perhaps the prosecution missed something like a small puncture wound.",
-    "translation": "",
+    "translation": "TYRION: 检察官有可能遗漏了什么。",
     "context": "{\n  \"id\": \"line:0877261\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"TYRION: Perhaps the prosecution missed something like a small puncture wound.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::430deb48d5e96368",
     "original": "AriaC: The coroner couldn’t find even the smallest cut,[p/] bruise,[p/] or fracture on the body.",
-    "translation": "",
+    "translation": "AriaC: 验尸官没在尸体上找到任何伤口、[p/]淤青或骨裂。",
     "context": "{\n  \"id\": \"line:0357336\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: The coroner couldn’t find even the smallest cut,[p/] bruise,[p/] or fracture on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a53bb55447428354",
     "original": "AriaC: Furthermore,[p/] the alchemist’s report showed no signs of poison or disease.",
-    "translation": "",
+    "translation": "AriaC: 另外，[p/]炼金术师的报告也显示没有中毒或疾病的迹象。",
     "context": "{\n  \"id\": \"line:005278b\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: Furthermore,[p/] the alchemist’s report showed no signs of poison or disease.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::da09d0dc003f580e",
     "original": "AriaC: The [b]necromancy[/b] spell had obfuscated the postmortem divination.",
-    "translation": "",
+    "translation": "AriaC: [b]死灵术[/b]扰乱了占卜术在尸检中的结果。",
     "context": "{\n  \"id\": \"line:05bae01\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: The [b]necromancy[/b] spell had obfuscated the postmortem divination.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::db55851e3556aaa9",
     "original": "AriaC: I spared no expense to verify the cause of death through other means.",
-    "translation": "",
+    "translation": "AriaC: 我用了一切可能的其他途径验证死因。",
     "context": "{\n  \"id\": \"line:0002821\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: I spared no expense to verify the cause of death through other means.\"\n}"
   },
   {
