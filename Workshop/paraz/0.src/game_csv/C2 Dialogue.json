@@ -2648,260 +2648,260 @@
   {
     "key": "C2 Dialogue.csv::translation::eb09dd12e28621c9",
     "original": "Aria: I found the cliffhanger to be needlessly unsatisfying.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我觉得那个悬念毫无必要，令我不满。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00df645\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: I found the cliffhanger to be needlessly unsatisfying.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7276ea7fd861b689",
     "original": "Aria: They're stringing the readers along to sell more copies of the sequel.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 他们只是挑起读者的兴趣，为了卖出更多续作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00522aa\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: They're stringing the readers along to sell more copies of the sequel.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7da8639b6da1ca58",
     "original": "Celeste: Oh, come on![p/][s/] Anticipation just makes each new book that much more fulfilling.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 唉，得了吧！[p/][s/]期待感才让每部新书读起来更令人满足啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:076877c\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: Oh, come on![p/][s/] Anticipation just makes each new book that much more fulfilling.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3246006f43661f43",
     "original": "Tyrion: Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a35a6\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Tyrion: Celeste.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f8bf8fbcb016c3f3",
     "original": "Aria: I eat brunch with the author occasionally.[p/] The fame has clearly gotten to her head.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我有次偶然和作者一起吃早午餐。[p/]她显然已经被名气冲昏了头脑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b4f13a\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: I eat brunch with the author occasionally.[p/] The fame has clearly gotten to her head.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::39b0cfb8a53d3744",
     "original": "Aria: She's clearly just dragging her feet to raise profits.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 她显然只是在拖长剧本以提高利润。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0417230\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: She's clearly just dragging her feet to raise profits.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a784b986ee569457",
     "original": "Celeste: You eat brunch with Altheris Duskweaver?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你有和阿尔忒莉丝·夕织共进早午餐？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0441ac6\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: You eat brunch with Altheris Duskweaver?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4b96f90cda4eeedb",
     "original": "I cleared my throat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我清了清喉咙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0090f3e\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"I cleared my throat.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c31fdd27a79256a4",
     "original": "Tyrion: Everyone![p/] We are [i]all[/i] supposed to be working right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 各位！[p/]现在我们[i]所有人[/i]都该好好干活了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09cc61e\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Tyrion: Everyone![p/] We are [i]all[/i] supposed to be working right now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2fac4a6f048bf1f3",
     "original": "Celeste: You're such a killjoy sometimes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你有时候真的很煞风景。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:019d1df\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: You're such a killjoy sometimes.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5c551c5b127a77aa",
     "original": "Aria: N-[p/][s/]No...[p/] He's right.[p/] I don't know what got into me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 没、[p/][s/]没有……[p/]他说得对。[p/]真不知道自己着了什么魔。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d9c5b0\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: N-[p/][s/]No...[p/] He's right.[p/] I don't know what got into me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::67214597275778c4",
     "original": "Celeste: Well,[p/] after this case is over,[p/] I'm tagging along for brunch with you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 好吧，[p/]这个案子结束后，[p/]我要和你一起吃早午餐。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00f746e\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: Well,[p/] after this case is over,[p/] I'm tagging along for brunch with you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::70042a40b2c3220b",
     "original": "Aria: What...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 什么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c74a27\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: What...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8f9af00f4eb6ba69",
     "original": "Celeste: Hey,[p/] you tried to convict me for murdering my dad.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嘿，[p/]你之前可是想指控我杀了自己的爸爸。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e37a8c\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: Hey,[p/] you tried to convict me for murdering my dad.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dba77e09eefcb2f6",
     "original": "Celeste: You owe me, Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你欠我的，斯蒂尔文德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07b5b3f\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Celeste: You owe me, Steelwind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::efe93e01b5ec7530",
     "original": "Aria: [i]*sigh*[/i][p/] I suppose you have a point.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: [i]*叹气*[/i][p/]也有道理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a69ef6\",\n  \"node\": \"Classroom_Talk\",\n  \"text\": \"Aria: [i]*sigh*[/i][p/] I suppose you have a point.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ee06fdc5c934916b",
     "original": "Aria: Ah,[p/] an Attorney's Runestone.[p/] I have one of these myself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 啊，[p/]律师符石。[p/]我也有一个类似的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06e8c5f\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: Ah,[p/] an Attorney's Runestone.[p/] I have one of these myself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::300277c1862d7640",
     "original": "Tyrion: They're useful, aren't they?[p/] The note-taking and picture functions save so much time during these investigations.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这个真的很有用啊。[p/]笔记和照相功能在调查中真的给我省了不少时间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ff1032\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: They're useful, aren't they?[p/] The note-taking and picture functions save so much time during these investigations.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fb96dd09ff282c2c",
     "original": "Aria: They're really a marvel of artificery.[p/] You'll see a lot of these among the nobility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 它们确实是工艺上的奇迹。[p/]你可以在很多贵族身上看到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e47799\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: They're really a marvel of artificery.[p/] You'll see a lot of these among the nobility.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f962c3707e6d7220",
     "original": "Tyrion: ...Why would nobles need to store evidence?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……为什么贵族们要储存证据？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:052f632\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: ...Why would nobles need to store evidence?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2f2e3acf4b11a08f",
     "original": "Aria: I-[p/][s/]I—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 这、[p/][s/]这个——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:048746d\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: I-[p/][s/]I—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::60eea7b7bb526823",
     "original": "Aria: They have other uses, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 他们有其他的用途，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:063238e\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: They have other uses, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bb0e655949b93b3b",
     "original": "Aria: I wasn't expecting to meet you here, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我可没想到会在这里见到你，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0206f11\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: I wasn't expecting to meet you here, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f3ff290343f9f53e",
     "original": "Aria: The Imperial Academy isn't exactly open to outsiders.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 帝国学院不怎么对外人开放。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:094c37e\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: The Imperial Academy isn't exactly open to outsiders.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9972631c41ffafde",
     "original": "Tyrion: We originally came here to do some research,[p/] but I never expected to get wrapped up in another homicide...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们本来是来这里做一些研究的，[p/]没想到又被卷入另一场杀人案……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a7aed8\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: We originally came here to do some research,[p/] but I never expected to get wrapped up in another homicide...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32d2c6ffcbae7e73",
     "original": "Aria: ...What kind of research were you doing?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……你们具体是来做什么研究？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dbbcff\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: ...What kind of research were you doing?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::483ed29b22916cca",
     "original": "Celeste: Don't bother asking.[p/] He won't tell you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 别问了。[p/]他不会告诉你的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:033785c\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Celeste: Don't bother asking.[p/] He won't tell you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::096ed39e7ae2dd71",
     "original": "Aria: I'm glad to see you under less...[p/] dire circumstances, Ms. McCoy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我很高兴看到你比……[p/]那个时候好一些了，麦考伊女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05e5bfb\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: I'm glad to see you under less...[p/] dire circumstances, Ms. McCoy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::931349ed23d5d005",
     "original": "Aria: Are you accompanying Mr. Cuthbert on his investigation?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 你是在协助卡斯伯特先生调查吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b328c3\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: Are you accompanying Mr. Cuthbert on his investigation?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cdea5a5a0aeb7f2f",
     "original": "Celeste: Yeah.[p/] I'm working as Tyrion's bodyguard now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 没错。[p/]我现在担任提利昂的护卫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e176f6\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Celeste: Yeah.[p/] I'm working as Tyrion's bodyguard now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c8a1ef447b132cc5",
     "original": "Aria: I see.[p/] Well, you certainly have the credentials for it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 明白了。[p/]毕竟，你确实有资格做这个。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08eb6a7\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: I see.[p/] Well, you certainly have the credentials for it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0634e1b2cf597b00",
     "original": "Aria: Although,[p/] I'm surprised he's able to afford your services.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 不过，[p/]我挺意外他请得起你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08ebde6\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: Although,[p/] I'm surprised he's able to afford your services.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a27546d3f5cafcd5",
     "original": "Tyrion: ...What's [i]that[/i] supposed to mean?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你这个[i]意外[/i]是什么意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:022794c\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: ...What's [i]that[/i] supposed to mean?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9b135cc075b2ab61",
     "original": "Aria: I meant no offense,[p/] but work like this [i]does[/i] appear to be below Ms. McCoy's pay grade.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我无意冒犯，[p/]但这种工作[i]确实[/i]看起来低于麦考伊女士通常的价位。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07f01a5\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: I meant no offense,[p/] but work like this [i]does[/i] appear to be below Ms. McCoy's pay grade.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1f205d2f281a1a74",
     "original": "Celeste: Yeah.[p/] I was surprised, too.[p/] Ruby pays me a lot to protect this guy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是啊。[p/]我其实也有点惊讶。[p/]但鲁比付了我一大笔钱来保护这家伙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02741ea\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Celeste: Yeah.[p/] I was surprised, too.[p/] Ruby pays me a lot to protect this guy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::df749bdd37127854",
     "original": "Aria: Ah,[p/] Ruby Tymora is paying you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 啊，[p/]所以是鲁比·泰摩拉在支付你的薪酬。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ba00c3\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: Ah,[p/] Ruby Tymora is paying you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::391c3b0ea6044317",
     "original": "Aria: ...I suppose that makes more sense.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……那就说得通了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a155b\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: ...I suppose that makes more sense.\"\n}"
   },
   {
@@ -2914,43 +2914,43 @@
   {
     "key": "C2 Dialogue.csv::translation::dd1e93987560c45f",
     "original": "Tyrion: I was surprised to see [i]you[/i] conducting the investigation, Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我很意外是[i]你[/i]在主导现场调查，斯蒂尔文德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08a5cd2\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: I was surprised to see [i]you[/i] conducting the investigation, Steelwind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f18bf55d29c17f74",
     "original": "Tyrion: Why don't you leave things to Commander White?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 为什么不直接交给怀特指挥官呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b9ade2\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: Why don't you leave things to Commander White?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2079138bfeac38a6",
     "original": "Aria: Please.[p/] I can barely trust that oaf to make me coffee.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 拜托。[p/]我连让那傻大个煮个咖啡都不太放心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e60214\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: Please.[p/] I can barely trust that oaf to make me coffee.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1bd00bcac35fab0c",
     "original": "Aria: After last time,[p/] I feel much more confident overseeing the investigation myself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 上次那件事之后，[p/]我觉得还是自己监督调查更有信心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0884b6d\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: After last time,[p/] I feel much more confident overseeing the investigation myself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3749bce6adee402b",
     "original": "The Inquisition didn't seem to be helping her at all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但裁判所那边看起来完全没有想帮助她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b2584f\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"The Inquisition didn't seem to be helping her at all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06f2d087e5457d93",
     "original": "They were just standing guard while [i]she[/i] did all of the work.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在[i]她[/i]忙前忙后的时候，他们只是站在一边放哨。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:067f767\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"They were just standing guard while [i]she[/i] did all of the work.\"\n}"
   },
   {
@@ -2963,36 +2963,36 @@
   {
     "key": "C2 Dialogue.csv::translation::5176ddad4e5595e3",
     "original": "Tyrion: Ugh...[p/] This rancid smell is really horrible.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃……[p/]这股恶臭也太糟了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:071505c\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: Ugh...[p/] This rancid smell is really horrible.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ba36ceb367ab4428",
     "original": "Aria: Yes.[p/] I don't blame you for finding it distracting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 没错。[p/]我不怪你被这恶臭影响。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04c3b1f\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: Yes.[p/] I don't blame you for finding it distracting.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f7744e353082ea97",
     "original": "Celeste: All because of a mistake during an alchemy experiment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 而这都是因为一次炼金实验出了个错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c9713b\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Celeste: All because of a mistake during an alchemy experiment.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a89afef895479b56",
     "original": "Aria: I was surprised too.[p/] It's not like the headmaster to make a mistake like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我也很意外。[p/]这不像是那个校长会犯的错误。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0127879\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: I was surprised too.[p/] It's not like the headmaster to make a mistake like that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5f99d1b67dab1c56",
     "original": "Celeste: Oh, the headmaster teaches alchemy here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 咦，当时是校长在这里教炼金术？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01066c8\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Celeste: Oh, the headmaster teaches alchemy here?\"\n}"
   },
   {
@@ -3005,50 +3005,50 @@
   {
     "key": "C2 Dialogue.csv::translation::407cfed7656e1f8c",
     "original": "Tyrion: As a mage from a noble house,[p/] you must have gone to school here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 作为一个贵族出身的法师，[p/]你肯定也在这里上过学。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bb0013\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: As a mage from a noble house,[p/] you must have gone to school here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7336df9bf9a71fc7",
     "original": "Tyrion: Did you know Catherine Bellwether while you were here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你还在这里的时候认识凯瑟琳·贝尔维瑟吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bcae3d\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: Did you know Catherine Bellwether while you were here?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4148591d148d66ed",
     "original": "Aria: I unfortunately did.[p/] I constantly clashed with her over her treatment of the commoners here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 不幸的是我认识。[p/]我经常因为她对待平民的方式和她起冲突。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01363ee\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: I unfortunately did.[p/] I constantly clashed with her over her treatment of the commoners here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4b23cf8e771e16ac",
     "original": "Aria: One of my biggest regrets is failing to remove her from her position before I graduated.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我最后悔的事情之一，就是没能在我毕业前解除她的职务。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eb299f\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: One of my biggest regrets is failing to remove her from her position before I graduated.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f61315fcaae489f",
     "original": "Aria: But she was a friend of House Frega.[p/] There wasn't much I could do against that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 但她是弗雷加家的座上宾。[p/]对此我也无能为力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0948229\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: But she was a friend of House Frega.[p/] There wasn't much I could do against that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::63bbfffaf647c4f5",
     "original": "It sounded like [i]many[/i] people didn't get along with the professor...",
-    "translation": "",
-    "stage": 0,
+    "translation": "听起来[i]许多[/i]人都跟这个教授处得不好……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0acaeb1\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"It sounded like [i]many[/i] people didn't get along with the professor...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c7af3aae278fde3b",
     "original": "Aria: I would say more,[p/] but it's all in the past,[p/] and I'm not one to speak ill of the dead.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 我本来还能接着说，[p/]但都是过去的事情了。[p/]说死者的坏话感觉不太好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09c6bee\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: I would say more,[p/] but it's all in the past,[p/] and I'm not one to speak ill of the dead.\"\n}"
   },
   {
@@ -3061,29 +3061,29 @@
   {
     "key": "C2 Dialogue.csv::translation::b2d94a1c0ffbd439",
     "original": "Tyrion: Why are you giving us access to the crime scene,[p/] but not the Inquisition?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你为何同意我们进入案发现场，[p/]而不是裁判所呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0694dc1\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: Why are you giving us access to the crime scene,[p/] but not the Inquisition?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a3ebaaeae2302605",
     "original": "Tyrion: They work under you, don't they?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他们不是你的手下吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ca92a3\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: They work under you, don't they?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cbbf9917e02dadb3",
     "original": "Aria: ...I simply trust you two.[p/] Are you trying to imply that I shouldn't?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……只是因为我相信你们两个。[p/]你是暗示我不该吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07b69b5\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: ...I simply trust you two.[p/] Are you trying to imply that I shouldn't?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b985b614a70e2b9e",
     "original": "Tyrion: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05c4baa\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: ...\"\n}"
   },
   {
@@ -3096,29 +3096,29 @@
   {
     "key": "C2 Dialogue.csv::translation::6d13ea928a5d24e2",
     "original": "Tyrion: Steelwind...[p/] Is it possible that this case involves a Pillar Family other than yours?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 斯蒂尔文德…….[p/]有没有可能除你们家之外的支柱家族参与了这个案件？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:054c3e4\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: Steelwind...[p/] Is it possible that this case involves a Pillar Family other than yours?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::868c6884d07756b1",
     "original": "Aria: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ec9d58\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eab24963903d7407",
     "original": "Her eyes twitched ever so slightly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她的眼角微微抽动了一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08425aa\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Her eyes twitched ever so slightly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ad9923c4c51a4c53",
     "original": "Aria: ...As I said before,[p/] you'll do better than that if you want to bluff me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 正如我之前说过的，[p/]如果想跟我虚张声势，那最好趁早打消念头。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08aea57\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: ...As I said before,[p/] you'll do better than that if you want to bluff me.\"\n}"
   },
   {
@@ -3131,519 +3131,519 @@
   {
     "key": "C2 Dialogue.csv::translation::7a26f18ed36222bd",
     "original": "Tyrion: What do you think about this, Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 斯蒂尔文德，你对这个有什么看法吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b4fad6\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Tyrion: What do you think about this, Steelwind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::df2eb3f48c703470",
     "original": "Aria: I'm sorry.[p/] But I'm afraid I can't say much about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 抱歉。[p/]但我恐怕没什么能说的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:023c459\",\n  \"node\": \"Aria_Present\",\n  \"text\": \"Aria: I'm sorry.[p/] But I'm afraid I can't say much about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fa1d3d575fba1624",
     "original": "KNIGHT: Hey![p/][s/] Stop right there!",
-    "translation": "",
-    "stage": 0,
+    "translation": "KNIGHT: 嘿！[p/][s/]停在那里别动！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c89960\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"KNIGHT: Hey![p/][s/] Stop right there!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2324b595de7021a5",
     "original": "As we tried to enter the classroom,[p/] one of the Inquisition knights stepped between us and the door.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在我们试图进入讲堂时，[p/]一名裁判所的骑士挡在门前。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08ec68a\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"As we tried to enter the classroom,[p/] one of the Inquisition knights stepped between us and the door.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c76809f74cc5aa83",
     "original": "He tried to make himself look bigger,[p/] but I could see him falter when he recognized Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他想让自己看起来更威武一些，[p/]但他认出塞莱斯特的时候显然变得犹豫了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07d2179\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"He tried to make himself look bigger,[p/] but I could see him falter when he recognized Celeste.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2071714614ea2fea",
     "original": "TYRION: I’m a defense attorney.[p/] We have a right to investigate the crime scene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我是辩护律师。[p/]我们有权调查案发现场。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:006c099\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"TYRION: I’m a defense attorney.[p/] We have a right to investigate the crime scene.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a6010bd5cd6ecfa3",
     "original": "KNIGHT: ...Yeah?[p/] From what I’ve heard,[p/] the kid doesn’t [i]have[/i] an attorney yet.",
-    "translation": "",
-    "stage": 0,
+    "translation": "KNIGHT: ……是吗？[p/]按我听到的情况，[p/]那小子还没有[i]找到[/i]律师吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06e16c1\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"KNIGHT: ...Yeah?[p/] From what I’ve heard,[p/] the kid doesn’t [i]have[/i] an attorney yet.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2c3c61fb0cb5d7fe",
     "original": "Right...[p/] I still needed to talk to Wallace about that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "是的……[p/]我还需要和华莱士谈谈这个问题……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02ccc17\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"Right...[p/] I still needed to talk to Wallace about that...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3f65e0674d821858",
     "original": "I doubted Wallace had another attorney in mind,[p/] but I would have less jurisdiction until he made it official.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我虽然知道华莱士没有另请辩护律师，[p/]但在他正式委托前，我的调查范围会很受限。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0db02d7\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"I doubted Wallace had another attorney in mind,[p/] but I would have less jurisdiction until he made it official.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8b56964c514ec58d",
     "original": "ARIA: It’s quite all right.[p/] Let them in.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 这没有问题。[p/]让他们进来吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06a6ca2\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"ARIA: It’s quite all right.[p/] Let them in.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e4b718c1f8da1bbc",
     "original": "KNIGHT: L-[p/][s/]Lady Steelwind?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "KNIGHT: 斯、[p/][s/]斯蒂尔文德小姐？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e73d3d\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"KNIGHT: L-[p/][s/]Lady Steelwind?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8f19ce59ac8c9297",
     "original": "ARIA: What have I told you about calling me that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 我已经多少次强调过称呼问题了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:085ce00\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"ARIA: What have I told you about calling me that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e45a57011d039f6c",
     "original": "ARIA: While you work under me,[p/] you will address me as \"[i]Prosecutor[/i] Steelwind\".",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 在我手下做事的时候，[p/]你要称我为“斯蒂尔文德[i]检察官[/i]”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04be381\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"ARIA: While you work under me,[p/] you will address me as \\\"[i]Prosecutor[/i] Steelwind\\\".\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::88eb0fa78505691c",
     "original": "KNIGHT: Y-[p/][s/]yes, L—[p/][s/] [i]Prosecutor[/i][p/][s/] Steelwind!",
-    "translation": "",
-    "stage": 0,
+    "translation": "KNIGHT: 是、[p/][s/]是！斯、[p/][s/]斯蒂尔文德[p/][s/][i]检察官[/i]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a2c1fb\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"KNIGHT: Y-[p/][s/]yes, L—[p/][s/] [i]Prosecutor[/i][p/][s/] Steelwind!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8026b5aec6620242",
     "original": "CELESTE: Ugh...[p/] What’s that smell?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 呃…….[p/]这什么味道？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0983bd4\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"CELESTE: Ugh...[p/] What’s that smell?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ee497c955fe1911a",
     "original": "As we entered the classroom,[p/] a sour and rancid odor blew over us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我们一走进讲堂，[p/]一股酸臭的气味扑鼻而来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d3b694\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"As we entered the classroom,[p/] a sour and rancid odor blew over us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a47277e81abf5474",
     "original": "My eyes began to tear up.[p/] I had to take a handkerchief from my pocket to cover my nose.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我禁不住流泪，[p/]只好从口袋里掏出手帕掩住鼻子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d20fa9\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"My eyes began to tear up.[p/] I had to take a handkerchief from my pocket to cover my nose.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::19aad19bbdf18d9b",
     "original": "ARIA: Don’t worry.[p/] You eventually get used to it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 别担心，[p/]你们会习惯的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00f155d\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"ARIA: Don’t worry.[p/] You eventually get used to it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2bb553349ee8bcbf",
     "original": "TYRION: What are you even doing here, Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你在这里干什么，斯蒂尔文德？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093d805\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"TYRION: What are you even doing here, Steelwind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f0bf2a87733b78e5",
     "original": "ARIA: I’m here to coordinate the investigation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 我在这里调度现场调查工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:092bfc0\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"ARIA: I’m here to coordinate the investigation.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6fe1b5dc7a30461a",
     "original": "I looked around the room.[p/] There wasn't a single Inquisition knight to be found.[p/] It was only her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我环视房间四周。[p/]根本就没有裁判所的骑士在里面。[p/]只有她一个人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00d5212\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"I looked around the room.[p/] There wasn't a single Inquisition knight to be found.[p/] It was only her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::07968b55d82b93c1",
     "original": "Was she investigating the crime scene by herself?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她是在独自调查案发现场吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ada96c\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"Was she investigating the crime scene by herself?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e3382163b0967a91",
     "original": "ARIA: ...Due to the circumstances,[p/] I’ve decided to handle this case personally.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: ……考虑到当前的状况，[p/]我决定自己来处理这个案件。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0936100\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"ARIA: ...Due to the circumstances,[p/] I’ve decided to handle this case personally.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c64f59e63e8ca730",
     "original": "TYRION: Since we’ve got you here,[p/] could we ask you some questions about what happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION:既然我们在这里碰到你了，[p/]能向你问问发生了什么吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0210f10\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"TYRION: Since we’ve got you here,[p/] could we ask you some questions about what happened?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::faf64cc01a42f380",
     "original": "ARIA: ...Can I assume that you're planning to defend this case?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: ……我能假定你计划为这个案件辩护吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ef1b3e\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"ARIA: ...Can I assume that you're planning to defend this case?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::84f00c315b599b5d",
     "original": "Aria: That would make you my opponent.[p/] What do I have to gain from helping you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 那你就是我的对手了。[p/]帮助你我又能得到什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06a985f\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"Aria: That would make you my opponent.[p/] What do I have to gain from helping you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ca268259f8c2787a",
     "original": "TYRION: R-[p/]Right...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是、[p/]是的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02bffc2\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"TYRION: R-[p/]Right...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4a063ac26ba61bd0",
     "original": "ARIA: However,[p/] I [i]would[/i] be willing to answer your questions...",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 不管怎样，[p/]我[i]是可以[/i]回答你几个问题……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cc851e\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"ARIA: However,[p/] I [i]would[/i] be willing to answer your questions...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::825e930ea2704d14",
     "original": "Aria: But only if you answer some of mine as well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 但你也必须回答我的问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0133383\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"Aria: But only if you answer some of mine as well.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::13960a1029d8e060",
     "original": "Tyrion: Oh...[p/] Okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 噢……[p/]那好吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e00ea8\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"Tyrion: Oh...[p/] Okay?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ae625b097250af25",
     "original": "Did she want to ask us about Wallace's alibi?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她是想询问华莱士的不在场证明吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ed2ab2\",\n  \"node\": \"Classroom_Check\",\n  \"text\": \"Did she want to ask us about Wallace's alibi?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8b1cd40a7b02f8aa",
     "original": "It was time for the trial,[p/] and my heart was thundering against my chest like a drum.",
-    "translation": "",
-    "stage": 0,
+    "translation": "马上就要开始庭审了，[p/]我的心脏仿佛像打鼓一样砰砰直跳。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c150c7\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"It was time for the trial,[p/] and my heart was thundering against my chest like a drum.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8669de70f9e00aa0",
     "original": "Luckily,[p/] I'd been reading about some meditative techniques after what happened last time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "幸运的是，[p/]在上次庭审后我一直在阅读一些关于冥想技巧的书籍。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03ec7c8\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Luckily,[p/] I'd been reading about some meditative techniques after what happened last time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5d52a30047714716",
     "original": "I just needed to take deep breaths and relax.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我只需要深呼吸几次，放松就行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05decdd\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"I just needed to take deep breaths and relax.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be7f36e6ac5280ca",
     "original": "I breathed in.[p/] I breathed out.[p/] I breathed in—",
-    "translation": "",
-    "stage": 0,
+    "translation": "我深吸气。[p/]深呼气。[p/]吸气——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b6bf1\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"I breathed in.[p/] I breathed out.[p/] I breathed in—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe61c4eb54b474a8",
     "original": "CELESTE: Hi, Tyrion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 嗨，提利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02576c8\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"CELESTE: Hi, Tyrion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a52ea7620ea67b39",
     "original": "TYRION: Gah![p/][s/] Celeste?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 嘎！[p/][s/]塞莱斯特？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f266b2\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"TYRION: Gah![p/][s/] Celeste?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a437105db9b8a7e4",
     "original": "TYRION: D-[p/][s/]Don’t sneak up on me like that!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 不、[p/][s/]不要这样偷袭我啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02de7b2\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"TYRION: D-[p/][s/]Don’t sneak up on me like that!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fcba4e1d74caa01e",
     "original": "CELESTE: ...Are your nerves acting up again?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ……你又神经紧张啦？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0964275\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"CELESTE: ...Are your nerves acting up again?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b886608cf7d7789b",
     "original": "CELESTE: Come on.[p/] It’s not as if this is your first time defending someone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 拜托。[p/]这又不是你第一次为别人辩护了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e46906\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"CELESTE: Come on.[p/] It’s not as if this is your first time defending someone.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4d6d1c474cd8bfcd",
     "original": "TYRION: No,[p/] it's just my [i]second[/i] time!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 不，[p/]这还只是[i]第二次[/i]啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0266b68\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"TYRION: No,[p/] it's just my [i]second[/i] time!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1bf81026dac6d7a9",
     "original": "CELESTE: Ugh...[p/] It’s too bad Ruby couldn’t make it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 呃……[p/]鲁比没能来真是太糟了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07fe29a\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"CELESTE: Ugh...[p/] It’s too bad Ruby couldn’t make it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32d3f882858ea172",
     "original": "CELESTE: I’d [i]say[/i] that you should calm down for Wallace’s sake,[p/] but...",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我[i]本来想说[/i]为了华莱士你也应该冷静下来，[p/]但是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c16917\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"CELESTE: I’d [i]say[/i] that you should calm down for Wallace’s sake,[p/] but...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5b5c406335eb2d3d",
     "original": "WALLACE: There are so many people here!",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 这里人好多！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c2e59c\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"WALLACE: There are so many people here!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::53585f1a4e04a5c3",
     "original": "WALLACE: A-[p/][s/]And they're all looking at me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 而、[p/][s/]而且他们都盯着我看！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0821083\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"WALLACE: A-[p/][s/]And they're all looking at me!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b212e9fafac34c16",
     "original": "WALLACE: Their eyes are prying into me like a pack of flesh-eating maggots!",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 他们的眼神像一群食肉蛆虫一样黏在我身上！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:044c4a3\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"WALLACE: Their eyes are prying into me like a pack of flesh-eating maggots!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4b6ad45b5e22a733",
     "original": "CELESTE: ...Ew.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ……呕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f8633\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"CELESTE: ...Ew.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5b9650f8e27bb371",
     "original": "I needed to calm down...[p/] I was just making Wallace more nervous.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我得冷静下来……[p/]要不然只是让华莱士更紧张。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b989af\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"I needed to calm down...[p/] I was just making Wallace more nervous.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b354020c934bd646",
     "original": "Tyrion: Um...[p/] Uh...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃……[p/]那个……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04d975c\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Tyrion: Um...[p/] Uh...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::343683770b0eb560",
     "original": "TYRION: ...D-[p/][s/]Don’t worry, Wallace![p/] Our investigation revealed a lot of weaknesses in the prosecution’s case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……别、[p/][s/]别担心，华莱士！[p/]我们的调查揭露了检方立证中的很多问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0810d4f\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"TYRION: ...D-[p/][s/]Don’t worry, Wallace![p/] Our investigation revealed a lot of weaknesses in the prosecution’s case.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2dd66862d8d137fa",
     "original": "TYRION: We have a strong case for your acquittal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我们有强力的理由证明你无罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01a8daf\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"TYRION: We have a strong case for your acquittal.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::add43d1457b5ed93",
     "original": "WALLACE: O-[p/]Okay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 好、[p/]好吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:075104d\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"WALLACE: O-[p/]Okay.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0f5b3943b605f663",
     "original": "Actually,[p/] that [i]was[/i] true.[p/] I really had nothing to worry about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "实际上，[p/][i]确实[/i]如此。[p/]我其实没什么好担心的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f71252\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Actually,[p/] that [i]was[/i] true.[p/] I really had nothing to worry about.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c60686dfdcc74a4a",
     "original": "CELESTE: See?[p/] You can be confident when you want to be.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 看吧？[p/]只要你想的话还是能表现得自信嘛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f7e9b2\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"CELESTE: See?[p/] You can be confident when you want to be.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5b73742d8cf75a3b",
     "original": "JUDGE: Court is now in session for the trial of Wallace Nightgrave.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 法庭现在开庭，审理华莱士·奈特格雷夫案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a73989\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"JUDGE: Court is now in session for the trial of Wallace Nightgrave.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e5c9a612e24bbb8d",
     "original": "AriaC: The prosecution is ready, Your Honor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 检方已准备就绪，法官阁下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:007516a\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: The prosecution is ready, Your Honor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b53e290fc88ed845",
     "original": "TYRION: The defense is also ready.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 辩方也准备完毕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0906358\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"TYRION: The defense is also ready.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e6517b12b85f7773",
     "original": "JUDGE: Very well.[p/] Prosecutor Steelwind,[p/] could you please list the charges?",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 很好。[p/]检察官斯蒂尔文德，[p/]能请你列出指控吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a78a4f\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"JUDGE: Very well.[p/] Prosecutor Steelwind,[p/] could you please list the charges?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::399efb9c4980bb1c",
     "original": "AriaC: Mr. Nightgrave is a second-year student at the Wyverngarde Imperial Academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 奈特格雷夫先生是维文加德帝国学院的二年级学生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09fab4c\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: Mr. Nightgrave is a second-year student at the Wyverngarde Imperial Academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a0cb8a1b419945ce",
     "original": "AriaC: He is charged with first-degree murder,[p/] negligent misuse of the Arcane Arts,[p/] and illegal practice of advanced [b]necromancy[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 他被指控为一等谋杀罪，[p/]过失使用奥术魔术，[p/]以及非法练习高阶[b]死灵术[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0128919\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: He is charged with first-degree murder,[p/] negligent misuse of the Arcane Arts,[p/] and illegal practice of advanced [b]necromancy[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6df39aa1b5cfed0c",
     "original": "JUDGE: [b]\"N-[p/][s/]Necromancy\"[/b]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: [b]“死、[p/][s/]死灵术”[/b]？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dac0d6\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"JUDGE: [b]\\\"N-[p/][s/]Necromancy\\\"[/b]?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7ed2fd7d1842aef8",
     "original": "JUDGE: Do you mean to tell me that the defendant is a necromancer?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 你是想说被告是一个死灵法师？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a191a2\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"JUDGE: Do you mean to tell me that the defendant is a necromancer?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::628b2155696569f1",
     "original": "Gallery: I can’t believe it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Gallery: 难以置信！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0199894\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Gallery: I can’t believe it!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fa48378feee8a054",
     "original": "Gallery: A [i]necromancer[/i]?[p/] In [i]this[/i] day and age?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Gallery: 一个[i]死灵法师[/i]？在[i]今时今日[/i]？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0faf42f\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Gallery: A [i]necromancer[/i]?[p/] In [i]this[/i] day and age?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1abf7839854b99ac",
     "original": "Gallery: How could the kingdom allow this to happen?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Gallery: 王国怎么允许这种事情发生？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07d41f0\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Gallery: How could the kingdom allow this to happen?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::747d46e549c42251",
     "original": "TYRION: Your Honor![p/][s/] I would like to remind the court that they are obligated to judge my client objectively.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 法官阁下！[p/][s/]我要提醒法庭各位，他们应该客观地评判我的委托人！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:025ec76\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"TYRION: Your Honor![p/][s/] I would like to remind the court that they are obligated to judge my client objectively.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ff723d0eba9c8021",
     "original": "JUDGE: O-[p/][s/]Of course...![p/] But one can easily see it from the list of charges.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 确、[p/][s/]确实……！但任何人都能从指控清单发现这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0470637\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"JUDGE: O-[p/][s/]Of course...![p/] But one can easily see it from the list of charges.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::456e1c78836335fd",
     "original": "JUDGE: [b]Necromancy[/b] plays a large role in the charges.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: [b]死灵术[/b]在这些指控中占有很重要的地位。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0edf6a4\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"JUDGE: [b]Necromancy[/b] plays a large role in the charges.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7b9a38936823c801",
     "original": "AriaC: Indeed.[p/] The crime occurred within the academy this morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 确实如此。[p/]本次犯罪在今天早晨发生于学院内。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:047560a\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: Indeed.[p/] The crime occurred within the academy this morning.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::47d6ab63b1444f82",
     "original": "AriaC: The victim is Catherine Bellwether:[p/] a professor at the school.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 被害人是凯瑟琳·贝尔维瑟：[p/]学院的一位教授。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:072c50b\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: The victim is Catherine Bellwether:[p/] a professor at the school.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cce59121ac807c34",
     "original": "AriaC: Although there were no witnesses to the crime,[p/] traces of [b]necromancy[/b] were detected on the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 尽管当时没有人目击到行凶的经过，[p/]但尸体上探测出了[b]死灵术[/b]魔法的痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e14fe2\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: Although there were no witnesses to the crime,[p/] traces of [b]necromancy[/b] were detected on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe34f4bc865169c6",
     "original": "AriaC: Furthermore,[p/] the autopsy report shows that the body has no physical wounds.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 此外，[p/]尸检报告也显示尸体上没有任何皮外伤。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a427f7\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: Furthermore,[p/] the autopsy report shows that the body has no physical wounds.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eefb3e59ec13c2a5",
     "original": "AriaC: [b]Necromancy[/b] is the only type of magic that can harm an individual without physically wounding them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: [b]死灵术[/b]是唯一一种可以不造成外伤的前提下，对个体产生伤害的魔法类别。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:078d2e7\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: [b]Necromancy[/b] is the only type of magic that can harm an individual without physically wounding them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::73c348970b76ffa7",
     "original": "AriaC: Additionally,[p/] an alchemist report shows no signs of poison or disease.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 另外，[p/]炼金术师的报告也显示没有中毒或疾病的迹象。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0af6efe\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: Additionally,[p/] an alchemist report shows no signs of poison or disease.\"\n}"
   },
   {
