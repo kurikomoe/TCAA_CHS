@@ -3398,91 +3398,91 @@
   {
     "key": "C2 Dialogue.csv::translation::c29d4f68c06c6d6e",
     "original": "That made sense.[p/] If someone had used [b]Mend Wounds[/b] on the body,[p/] it would have healed even the most minor of injuries.",
-    "translation": "",
+    "translation": "嗯……[p/]如果某人对尸体用过[b]疗愈术[/b]的话，[p/]那无论多么细小的伤口都会痊愈。",
     "context": "{\n  \"id\": \"line:0374350\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"That made sense.[p/] If someone had used [b]Mend Wounds[/b] on the body,[p/] it would have healed even the most minor of injuries.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9d1a00cb317dada5",
     "original": "So,[p/] how do I prove that someone healed the body?",
-    "translation": "",
+    "translation": "所以，[p/]我该怎么证明是有人对尸体施放过治愈法术呢？",
     "context": "{\n  \"id\": \"line:0f33b83\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"So,[p/] how do I prove that someone healed the body?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::75828703842e6cf3",
     "original": "TYRION: And the prosecution believes that my client used [b]Necrotic Blight[/b]?",
-    "translation": "",
+    "translation": "TYRION: 检方认为我的委托人使用了[b]索命咒[/b]？",
     "context": "{\n  \"id\": \"line:096737f\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"TYRION: And the prosecution believes that my client used [b]Necrotic Blight[/b]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6d98f95299aac9ea",
     "original": "ORYM: Yep.[p/] It’s the only way that the crime scene makes any sense.",
-    "translation": "",
+    "translation": "ORYM: 对，[p/]只有这样才说得通。",
     "context": "{\n  \"id\": \"line:015eb91\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"ORYM: Yep.[p/] It’s the only way that the crime scene makes any sense.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3931db0a3d2c14d7",
     "original": "JUDGE: “[b]Necrotic Blight[/b]”?",
-    "translation": "",
+    "translation": "JUDGE: “[b]索命咒[/b]”？",
     "context": "{\n  \"id\": \"line:0f5198b\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"JUDGE: “[b]Necrotic Blight[/b]”?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6a27ac62637dc647",
     "original": "JUDGE: I’m afraid I’ve never heard of this spell before.",
-    "translation": "",
+    "translation": "JUDGE: 我之前从未听说过这种法术。",
     "context": "{\n  \"id\": \"line:0a5c6ce\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"JUDGE: I’m afraid I’ve never heard of this spell before.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::55f8647b222f884b",
     "original": "AriaC: [b]Necrotic Blight[/b] is a spell that drains the life force from its target.",
-    "translation": "",
+    "translation": "AriaC: [b]索命咒[/b]是种能够抽干目标生命力的法术。",
     "context": "{\n  \"id\": \"line:0e77a92\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: [b]Necrotic Blight[/b] is a spell that drains the life force from its target.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f75927fcf80e37bb",
     "original": "AriaC: When used on a living human,[p/] it makes their bodily functions cease.",
-    "translation": "",
+    "translation": "AriaC: 用于活人的时候，[p/]目标会身体机能停止。",
     "context": "{\n  \"id\": \"line:0272572\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: When used on a living human,[p/] it makes their bodily functions cease.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::23f4fbd502c7778c",
     "original": "AriaC: Their body dies soon after.",
-    "translation": "",
+    "translation": "AriaC: 然后马上死去。",
     "context": "{\n  \"id\": \"line:025cb6d\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"AriaC: Their body dies soon after.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bd7d1ad4d7f7f3ae",
     "original": "JUDGE: I-[p/]I see...",
-    "translation": "",
+    "translation": "JUDGE: 我、[p/]我明白了……",
     "context": "{\n  \"id\": \"line:08ad7b7\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"JUDGE: I-[p/]I see...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34c0a75a419682de",
     "original": "Gallery: What a horrible spell!",
-    "translation": "",
+    "translation": "Gallery: 这种法术真令人毛骨悚然！",
     "context": "{\n  \"id\": \"line:042da80\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Gallery: What a horrible spell!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c4913147f25403b1",
     "original": "Gallery: That commoner should have never been allowed to learn something like that!",
-    "translation": "",
+    "translation": "Gallery: 是谁允许那种平民学习这种禁术的？！",
     "context": "{\n  \"id\": \"line:0ac982f\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Gallery: That commoner should have never been allowed to learn something like that!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::588eb783e437010d",
     "original": "Gallery: I'd thought there would be more protection against [i]children[/i] learning this!",
-    "translation": "",
+    "translation": "Gallery: 我还以为至少有法律保护[i]小孩子[/i]远离这种禁术的！",
     "context": "{\n  \"id\": \"line:0f9829d\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Gallery: I'd thought there would be more protection against [i]children[/i] learning this!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::93c30e4312ad5418",
     "original": "Wallace's Spell Compendium really wasn't doing him any favours.",
-    "translation": "",
+    "translation": "华莱士的法术汇编真的没帮上他的忙。",
     "context": "{\n  \"id\": \"line:000426e\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Wallace's Spell Compendium really wasn't doing him any favours.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c534e8efd5e81bad",
     "original": "...There really is a large stigma against necromancers, isn't there?",
-    "translation": "",
+    "translation": "……人们对死灵法师的偏见还真是很大。",
     "context": "{\n  \"id\": \"line:0a41b71\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"...There really is a large stigma against necromancers, isn't there?\"\n}"
   },
   {
@@ -3494,19 +3494,19 @@
   {
     "key": "C2 Dialogue.csv::translation::c4f809a00fc9502c",
     "original": "CELESTE: We already collected a lot of evidence after investigating the crime scene.",
-    "translation": "",
+    "translation": "CELESTE: 我们在调查案发现场后已经搜集了大量证据。",
     "context": "{\n  \"id\": \"line:04f1b41\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"CELESTE: We already collected a lot of evidence after investigating the crime scene.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::792cc915236c32ee",
     "original": "CELESTE: We already know that the Inquisition’s theory contradicts one of the clues that we found.",
-    "translation": "",
+    "translation": "CELESTE: 我们也知道裁判所的推论与我们所知的某条证据矛盾。",
     "context": "{\n  \"id\": \"line:07bdcff\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"CELESTE: We already know that the Inquisition’s theory contradicts one of the clues that we found.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::960f628ace79b5ef",
     "original": "TYRION: Right.[p/] All I have to do is present that contradiction to the court.",
-    "translation": "",
+    "translation": "TYRION: 嗯，[p/]我只需要向法庭指出这个矛盾就可以了。",
     "context": "{\n  \"id\": \"line:0829b20\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"TYRION: Right.[p/] All I have to do is present that contradiction to the court.\"\n}"
   },
   {
@@ -3518,199 +3518,199 @@
   {
     "key": "C2 Dialogue.csv::translation::461e6669a2f4d80b",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
-    "translation": "",
+    "translation": "Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！",
     "context": "{\n  \"id\": \"line:09ce941\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fad4d3177c3152fb",
     "original": "Tyrion: And this piece of evidence proves it!",
-    "translation": "",
+    "translation": "Tyrion: 而这件证据证明了这点！",
     "context": "{\n  \"id\": \"line:0390972\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Tyrion: And this piece of evidence proves it!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ceb079e913f47029",
     "original": "Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-    "translation": "",
+    "translation": "Judge: 卡斯伯特先生……我没看出来这两者有什么关系。",
     "context": "{\n  \"id\": \"line:0d52b7c\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Judge: I fail to see how that proves anything, Mr. Cuthbert...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::359051647512519a",
     "original": "Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.",
-    "translation": "",
+    "translation": "Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。",
     "context": "{\n  \"id\": \"line:042509f\",\n  \"node\": \"Cross_Orym\",\n  \"text\": \"Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b69a923e8749eeec",
     "original": "TYRION: Commander White.[p/] It appears that you’ve neglected to mention one key detail of the crime scene.",
-    "translation": "",
+    "translation": "TYRION: 怀特指挥官，[p/]你似乎忽略了一个至关重要的细节。",
     "context": "{\n  \"id\": \"line:098e7b4\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: Commander White.[p/] It appears that you’ve neglected to mention one key detail of the crime scene.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d57c460b66f8e9d0",
     "original": "ORYM: Yeah?[p/] And what’s that?",
-    "translation": "",
+    "translation": "ORYM: 哈？[p/]是什么？",
     "context": "{\n  \"id\": \"line:0ac426e\",\n  \"node\": \"OrymObj\",\n  \"text\": \"ORYM: Yeah?[p/] And what’s that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::129599cc5f24b7ec",
     "original": "TYRION: During your testimony,[p/] you said that the entire body was clean.",
-    "translation": "",
+    "translation": "TYRION: 你在证言中提到，[p/]“尸体非常干净”。",
     "context": "{\n  \"id\": \"line:0a15d6c\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: During your testimony,[p/] you said that the entire body was clean.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::204bdda0585c1dc8",
     "original": "TYRION: I [i]will[/i] admit that there weren’t any wounds on the body...",
-    "translation": "",
+    "translation": "TYRION: 我承认尸体上没有任何伤口……",
     "context": "{\n  \"id\": \"line:06235e5\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: I [i]will[/i] admit that there weren’t any wounds on the body...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bfb70e0ca223ef0d",
     "original": "TYRION: However,[p/][s/] the body was certainly not clean!",
-    "translation": "",
+    "translation": "TYRION: 但尸体可一点都不干净！",
     "context": "{\n  \"id\": \"line:0ded7a4\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: However,[p/][s/] the body was certainly not clean!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e68273068de9a885",
     "original": "AriaC: ...",
-    "translation": "",
+    "translation": "AriaC: ……",
     "context": "{\n  \"id\": \"line:09101b2\",\n  \"node\": \"OrymObj\",\n  \"text\": \"AriaC: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::229b16da14c5e358",
     "original": "TYRION: At the scene of the crime,[p/] there was a large pool of blood located where the body was.",
-    "translation": "",
+    "translation": "TYRION: 尸体所在位置有一大滩血迹。",
     "context": "{\n  \"id\": \"line:0407c20\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: At the scene of the crime,[p/] there was a large pool of blood located where the body was.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bc148a49f7b13765",
     "original": "TYRION: This blood had to have come from the victim’s body,[p/][s/] and it was certainly not clean like the commander testified!",
-    "translation": "",
+    "translation": "TYRION: 这血迹只能来自死者本人，[p/][s/]与指挥官的证言明显不符！",
     "context": "{\n  \"id\": \"line:000760a\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: This blood had to have come from the victim’s body,[p/][s/] and it was certainly not clean like the commander testified!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::15643446e3ccb3ce",
     "original": "JUDGE: I’m sorry, Mr. Cuthbert,[p/] but I fail to see the significance of this.",
-    "translation": "",
+    "translation": "JUDGE: 抱歉，卡斯伯特先生。[p/]但我没看出这哪里重要。",
     "context": "{\n  \"id\": \"line:0fd964a\",\n  \"node\": \"OrymObj\",\n  \"text\": \"JUDGE: I’m sorry, Mr. Cuthbert,[p/] but I fail to see the significance of this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::15a9226d0854e458",
     "original": "TYRION: I’d like to remind the court of the prosecution’s case against my client.",
-    "translation": "",
+    "translation": "TYRION: 我向法庭重申检方起诉我的委托人的关键理由。",
     "context": "{\n  \"id\": \"line:00a4c3e\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: I’d like to remind the court of the prosecution’s case against my client.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cb6e467e2ca546bf",
     "original": "TYRION: They are accusing him of murdering the victim using [b]Necrotic Blight[/b]:[p/] a spell which would [i]not[/i] have physically wounded the victim.",
-    "translation": "",
+    "translation": "TYRION: 被告被起诉的根据是，[b]索命咒[/b]这法术有其特殊性，[p/]即杀害目标时[i]不会[/i]造成任何外伤。",
     "context": "{\n  \"id\": \"line:07ef821\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: They are accusing him of murdering the victim using [b]Necrotic Blight[/b]:[p/] a spell which would [i]not[/i] have physically wounded the victim.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0dcdc7ef9ae4463e",
     "original": "TYRION: So why was there any blood at all?",
-    "translation": "",
+    "translation": "TYRION: 那为什么会有死者的血迹？",
     "context": "{\n  \"id\": \"line:0fd20b5\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: So why was there any blood at all?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ba9d7bf13ba919db",
     "original": "AriaC: Let’s not get ahead of ourselves.",
-    "translation": "",
+    "translation": "AriaC: 你的思维太跳跃了。",
     "context": "{\n  \"id\": \"line:00949ed\",\n  \"node\": \"OrymObj\",\n  \"text\": \"AriaC: Let’s not get ahead of ourselves.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a7f5bafbfb4f842c",
     "original": "AriaC: The fact still stands.[p/] There were no wounds on the body,[p/] nor were there any reports of poison or disease on the autopsy.",
-    "translation": "",
+    "translation": "AriaC: 事实仍是如此，[p/]尸体上没有任何伤口，[p/]也没有中毒或疾病的迹象。",
     "context": "{\n  \"id\": \"line:0607a25\",\n  \"node\": \"OrymObj\",\n  \"text\": \"AriaC: The fact still stands.[p/] There were no wounds on the body,[p/] nor were there any reports of poison or disease on the autopsy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::27077c4d20a5bbab",
     "original": "AriaC: There are clearly magical elements in this case.",
-    "translation": "",
+    "translation": "AriaC: 而这起案件显然有魔法的影响。",
     "context": "{\n  \"id\": \"line:00723d9\",\n  \"node\": \"OrymObj\",\n  \"text\": \"AriaC: There are clearly magical elements in this case.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dafec040d3c471ae",
     "original": "TYRION: But Catherine Bellwether [i]was[/i] bleeding profusely at some point!",
-    "translation": "",
+    "translation": "TYRION: 但凯瑟琳·贝尔维瑟在死前某段时间[i]曾经[/i]大量出血！",
     "context": "{\n  \"id\": \"line:0a1dc85\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: But Catherine Bellwether [i]was[/i] bleeding profusely at some point!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a557e8d7236ca9af",
     "original": "TYRION: How else would there be a bloodstain on the body?",
-    "translation": "",
+    "translation": "TYRION: 不然尸体处怎么可能会留下血迹？",
     "context": "{\n  \"id\": \"line:0a41ac7\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: How else would there be a bloodstain on the body?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dd2346fe9b5a8668",
     "original": "TYRION: Do you have an explanation for that, Ms. Steelwind?!",
-    "translation": "",
+    "translation": "TYRION: 对此你能作出解释吗？斯蒂尔文德检察官！",
     "context": "{\n  \"id\": \"line:0f2a49f\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: Do you have an explanation for that, Ms. Steelwind?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::79ba2bd94b5d0af4",
     "original": "AriaC: ...No.[p/] I'll admit that the prosecution doesn't have an explanation for that.",
-    "translation": "",
+    "translation": "AriaC: ……不能。[p/]我承认检方对此确实无法解释。",
     "context": "{\n  \"id\": \"line:0f545a7\",\n  \"node\": \"OrymObj\",\n  \"text\": \"AriaC: ...No.[p/] I'll admit that the prosecution doesn't have an explanation for that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bf022cd1cba123a3",
     "original": "AriaC: And while I do find the circumstances questionable,[p/] all other evidence clearly points to the defendant.",
-    "translation": "",
+    "translation": "AriaC: 我也认为这点很可疑，[p/]但其他所有证据都指向被告。",
     "context": "{\n  \"id\": \"line:035103c\",\n  \"node\": \"OrymObj\",\n  \"text\": \"AriaC: And while I do find the circumstances questionable,[p/] all other evidence clearly points to the defendant.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d64a1c77c3b92fea",
     "original": "AriaC: So tell me, Mr. Cuthbert,[p/] if the victim wasn’t killed with [b]necromancy[/b],[p/] why was there a trace of it on the body?",
-    "translation": "",
+    "translation": "AriaC: 那你来告诉我，卡斯伯特先生。[p/]如果死者不是死于[b]死灵术[/b]，[p/]那尸体上为何会有相关的魔法痕迹？",
     "context": "{\n  \"id\": \"line:0c5b142\",\n  \"node\": \"OrymObj\",\n  \"text\": \"AriaC: So tell me, Mr. Cuthbert,[p/] if the victim wasn’t killed with [b]necromancy[/b],[p/] why was there a trace of it on the body?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a9c1d9cdb1d8dd4f",
     "original": "TYRION: I’m glad you asked.",
-    "translation": "",
+    "translation": "TYRION: 你主动帮我提出来真是太好了。",
     "context": "{\n  \"id\": \"line:048bc81\",\n  \"node\": \"OrymObj\",\n  \"text\": \"TYRION: I’m glad you asked.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1f3844e80d241012",
     "original": "TYRION: I’d like to present a spell that could have left a trace of [b]necromancy[/b] on the body!",
-    "translation": "",
+    "translation": "TYRION: 我申请向法庭出示另一种能在身体上留下[b]死灵术[/b]痕迹的法术！",
     "context": "{\n  \"id\": \"line:0ddf44f\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"TYRION: I’d like to present a spell that could have left a trace of [b]necromancy[/b] on the body!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::65cad722d50b5621",
     "original": "Mend Wounds",
-    "translation": "",
+    "translation": "疗愈术",
     "context": "{\n  \"id\": \"line:0680855\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Mend Wounds\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6b11cec9b9fa00f2",
     "original": "Necrotic Blight",
-    "translation": "",
+    "translation": "索命咒",
     "context": "{\n  \"id\": \"line:07e886f\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Necrotic Blight\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ffe2d737b232f389",
     "original": "Tyrion: [b]Necrotic Blight[/b]!",
-    "translation": "",
+    "translation": "Tyrion: 是[b]索命咒[/b]！",
     "context": "{\n  \"id\": \"line:095099b\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Tyrion: [b]Necrotic Blight[/b]!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bf3b790878d85995",
     "original": "Judge: ...",
-    "translation": "",
+    "translation": "Judge: ……",
     "context": "{\n  \"id\": \"line:0894a8c\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Judge: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e08c305b2da112ff",
     "original": "Celeste: Um...[p/] Tyrion?",
-    "translation": "",
+    "translation": "Celeste: 唔……[p/]提利昂？",
     "context": "{\n  \"id\": \"line:044df64\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Celeste: Um...[p/] Tyrion?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e352c15abab248f0",
     "original": "Celeste: We're supposed to prove that the trace [i]wasn't[/i] left by [b]Necrotic Blight[/b].",
-    "translation": "",
+    "translation": "Celeste: 我们要证明的是魔法痕迹[i]不是[/i]被[b]索命咒[/b]留下的。",
     "context": "{\n  \"id\": \"line:09a5a0f\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Celeste: We're supposed to prove that the trace [i]wasn't[/i] left by [b]Necrotic Blight[/b].\"\n}"
   },
   {

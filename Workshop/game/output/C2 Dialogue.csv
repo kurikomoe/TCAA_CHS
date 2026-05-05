@@ -582,62 +582,62 @@ line:0357336,Cross_Orym,"AriaC: The coroner couldn’t find even the smallest cu
 line:005278b,Cross_Orym,"AriaC: Furthermore,[p/] the alchemist’s report showed no signs of poison or disease.",AriaC: 另外，[p/]炼金术师的报告也显示没有中毒或疾病的迹象。
 line:05bae01,Cross_Orym,AriaC: The [b]necromancy[/b] spell had obfuscated the postmortem divination.,AriaC: [b]死灵术[/b]扰乱了占卜术在尸检中的结果。
 line:0002821,Cross_Orym,AriaC: I spared no expense to verify the cause of death through other means.,AriaC: 我用了一切可能的其他途径验证死因。
-line:0374350,Cross_Orym,"That made sense.[p/] If someone had used [b]Mend Wounds[/b] on the body,[p/] it would have healed even the most minor of injuries.",
-line:0f33b83,Cross_Orym,"So,[p/] how do I prove that someone healed the body?",
+line:0374350,Cross_Orym,"That made sense.[p/] If someone had used [b]Mend Wounds[/b] on the body,[p/] it would have healed even the most minor of injuries.",嗯……[p/]如果某人对尸体用过[b]疗愈术[/b]的话，[p/]那无论多么细小的伤口都会痊愈。
+line:0f33b83,Cross_Orym,"So,[p/] how do I prove that someone healed the body?",所以，[p/]我该怎么证明是有人对尸体施放过治愈法术呢？
 line:0ddb19b,Cross_Orym,"Orym: With those two pieces of evidence,[p/] we concluded that it could only be the necromancer kid that did it.",Orym: 依据这两个证据，[p/]我们只能认为是那个死灵法师小子干的。
-line:096737f,Cross_Orym,TYRION: And the prosecution believes that my client used [b]Necrotic Blight[/b]?,
-line:015eb91,Cross_Orym,ORYM: Yep.[p/] It’s the only way that the crime scene makes any sense.,
-line:0f5198b,Cross_Orym,JUDGE: “[b]Necrotic Blight[/b]”?,
-line:0a5c6ce,Cross_Orym,JUDGE: I’m afraid I’ve never heard of this spell before.,
-line:0e77a92,Cross_Orym,AriaC: [b]Necrotic Blight[/b] is a spell that drains the life force from its target.,
-line:0272572,Cross_Orym,"AriaC: When used on a living human,[p/] it makes their bodily functions cease.",
-line:025cb6d,Cross_Orym,AriaC: Their body dies soon after.,
-line:08ad7b7,Cross_Orym,JUDGE: I-[p/]I see...,
-line:042da80,Cross_Orym,Gallery: What a horrible spell!,
-line:0ac982f,Cross_Orym,Gallery: That commoner should have never been allowed to learn something like that!,
-line:0f9829d,Cross_Orym,Gallery: I'd thought there would be more protection against [i]children[/i] learning this!,
-line:000426e,Cross_Orym,Wallace's Spell Compendium really wasn't doing him any favours.,
-line:0a41b71,Cross_Orym,"...There really is a large stigma against necromancers, isn't there?",
+line:096737f,Cross_Orym,TYRION: And the prosecution believes that my client used [b]Necrotic Blight[/b]?,TYRION: 检方认为我的委托人使用了[b]索命咒[/b]？
+line:015eb91,Cross_Orym,ORYM: Yep.[p/] It’s the only way that the crime scene makes any sense.,ORYM: 对，[p/]只有这样才说得通。
+line:0f5198b,Cross_Orym,JUDGE: “[b]Necrotic Blight[/b]”?,JUDGE: “[b]索命咒[/b]”？
+line:0a5c6ce,Cross_Orym,JUDGE: I’m afraid I’ve never heard of this spell before.,JUDGE: 我之前从未听说过这种法术。
+line:0e77a92,Cross_Orym,AriaC: [b]Necrotic Blight[/b] is a spell that drains the life force from its target.,AriaC: [b]索命咒[/b]是种能够抽干目标生命力的法术。
+line:0272572,Cross_Orym,"AriaC: When used on a living human,[p/] it makes their bodily functions cease.",AriaC: 用于活人的时候，[p/]目标会身体机能停止。
+line:025cb6d,Cross_Orym,AriaC: Their body dies soon after.,AriaC: 然后马上死去。
+line:08ad7b7,Cross_Orym,JUDGE: I-[p/]I see...,JUDGE: 我、[p/]我明白了……
+line:042da80,Cross_Orym,Gallery: What a horrible spell!,Gallery: 这种法术真令人毛骨悚然！
+line:0ac982f,Cross_Orym,Gallery: That commoner should have never been allowed to learn something like that!,Gallery: 是谁允许那种平民学习这种禁术的？！
+line:0f9829d,Cross_Orym,Gallery: I'd thought there would be more protection against [i]children[/i] learning this!,Gallery: 我还以为至少有法律保护[i]小孩子[/i]远离这种禁术的！
+line:000426e,Cross_Orym,Wallace's Spell Compendium really wasn't doing him any favours.,华莱士的法术汇编真的没帮上他的忙。
+line:0a41b71,Cross_Orym,"...There really is a large stigma against necromancers, isn't there?",……人们对死灵法师的偏见还真是很大。
 line:0f268c5,Cross_Orym,Player: Overflow,
-line:04f1b41,Cross_Orym,CELESTE: We already collected a lot of evidence after investigating the crime scene.,
-line:07bdcff,Cross_Orym,CELESTE: We already know that the Inquisition’s theory contradicts one of the clues that we found.,
-line:0829b20,Cross_Orym,TYRION: Right.[p/] All I have to do is present that contradiction to the court.,
+line:04f1b41,Cross_Orym,CELESTE: We already collected a lot of evidence after investigating the crime scene.,CELESTE: 我们在调查案发现场后已经搜集了大量证据。
+line:07bdcff,Cross_Orym,CELESTE: We already know that the Inquisition’s theory contradicts one of the clues that we found.,CELESTE: 我们也知道裁判所的推论与我们所知的某条证据矛盾。
+line:0829b20,Cross_Orym,TYRION: Right.[p/] All I have to do is present that contradiction to the court.,TYRION: 嗯，[p/]我只需要向法庭指出这个矛盾就可以了。
 line:0bb48bc,Cross_Orym,Player: Objection,
-line:09ce941,Cross_Orym,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:0390972,Cross_Orym,Tyrion: And this piece of evidence proves it!,
-line:0d52b7c,Cross_Orym,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:042509f,Cross_Orym,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
-line:098e7b4,OrymObj,TYRION: Commander White.[p/] It appears that you’ve neglected to mention one key detail of the crime scene.,
-line:0ac426e,OrymObj,ORYM: Yeah?[p/] And what’s that?,
-line:0a15d6c,OrymObj,"TYRION: During your testimony,[p/] you said that the entire body was clean.",
-line:06235e5,OrymObj,TYRION: I [i]will[/i] admit that there weren’t any wounds on the body...,
-line:0ded7a4,OrymObj,"TYRION: However,[p/][s/] the body was certainly not clean!",
-line:09101b2,OrymObj,AriaC: ...,
-line:0407c20,OrymObj,"TYRION: At the scene of the crime,[p/] there was a large pool of blood located where the body was.",
-line:000760a,OrymObj,"TYRION: This blood had to have come from the victim’s body,[p/][s/] and it was certainly not clean like the commander testified!",
-line:0fd964a,OrymObj,"JUDGE: I’m sorry, Mr. Cuthbert,[p/] but I fail to see the significance of this.",
-line:00a4c3e,OrymObj,TYRION: I’d like to remind the court of the prosecution’s case against my client.,
-line:07ef821,OrymObj,TYRION: They are accusing him of murdering the victim using [b]Necrotic Blight[/b]:[p/] a spell which would [i]not[/i] have physically wounded the victim.,
-line:0fd20b5,OrymObj,TYRION: So why was there any blood at all?,
-line:00949ed,OrymObj,AriaC: Let’s not get ahead of ourselves.,
-line:0607a25,OrymObj,"AriaC: The fact still stands.[p/] There were no wounds on the body,[p/] nor were there any reports of poison or disease on the autopsy.",
-line:00723d9,OrymObj,AriaC: There are clearly magical elements in this case.,
-line:0a1dc85,OrymObj,TYRION: But Catherine Bellwether [i]was[/i] bleeding profusely at some point!,
-line:0a41ac7,OrymObj,TYRION: How else would there be a bloodstain on the body?,
-line:0f2a49f,OrymObj,"TYRION: Do you have an explanation for that, Ms. Steelwind?!",
-line:0f545a7,OrymObj,AriaC: ...No.[p/] I'll admit that the prosecution doesn't have an explanation for that.,
-line:035103c,OrymObj,"AriaC: And while I do find the circumstances questionable,[p/] all other evidence clearly points to the defendant.",
-line:0c5b142,OrymObj,"AriaC: So tell me, Mr. Cuthbert,[p/] if the victim wasn’t killed with [b]necromancy[/b],[p/] why was there a trace of it on the body?",
-line:048bc81,OrymObj,TYRION: I’m glad you asked.,
-line:0ddf44f,OrymObj_1,TYRION: I’d like to present a spell that could have left a trace of [b]necromancy[/b] on the body!,
-line:0680855,OrymObj_1,Mend Wounds,
-line:07e886f,OrymObj_1,Necrotic Blight,
-line:095099b,OrymObj_1,Tyrion: [b]Necrotic Blight[/b]!,
-line:0e657f4,OrymObj_1,AriaC: ...,
-line:0894a8c,OrymObj_1,Judge: ...,
+line:09ce941,Cross_Orym,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:0390972,Cross_Orym,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:0d52b7c,Cross_Orym,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:042509f,Cross_Orym,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
+line:098e7b4,OrymObj,TYRION: Commander White.[p/] It appears that you’ve neglected to mention one key detail of the crime scene.,TYRION: 怀特指挥官，[p/]你似乎忽略了一个至关重要的细节。
+line:0ac426e,OrymObj,ORYM: Yeah?[p/] And what’s that?,ORYM: 哈？[p/]是什么？
+line:0a15d6c,OrymObj,"TYRION: During your testimony,[p/] you said that the entire body was clean.",TYRION: 你在证言中提到，[p/]“尸体非常干净”。
+line:06235e5,OrymObj,TYRION: I [i]will[/i] admit that there weren’t any wounds on the body...,TYRION: 我承认尸体上没有任何伤口……
+line:0ded7a4,OrymObj,"TYRION: However,[p/][s/] the body was certainly not clean!",TYRION: 但尸体可一点都不干净！
+line:09101b2,OrymObj,AriaC: ...,AriaC: ……
+line:0407c20,OrymObj,"TYRION: At the scene of the crime,[p/] there was a large pool of blood located where the body was.",TYRION: 尸体所在位置有一大滩血迹。
+line:000760a,OrymObj,"TYRION: This blood had to have come from the victim’s body,[p/][s/] and it was certainly not clean like the commander testified!",TYRION: 这血迹只能来自死者本人，[p/][s/]与指挥官的证言明显不符！
+line:0fd964a,OrymObj,"JUDGE: I’m sorry, Mr. Cuthbert,[p/] but I fail to see the significance of this.",JUDGE: 抱歉，卡斯伯特先生。[p/]但我没看出这哪里重要。
+line:00a4c3e,OrymObj,TYRION: I’d like to remind the court of the prosecution’s case against my client.,TYRION: 我向法庭重申检方起诉我的委托人的关键理由。
+line:07ef821,OrymObj,TYRION: They are accusing him of murdering the victim using [b]Necrotic Blight[/b]:[p/] a spell which would [i]not[/i] have physically wounded the victim.,TYRION: 被告被起诉的根据是，[b]索命咒[/b]这法术有其特殊性，[p/]即杀害目标时[i]不会[/i]造成任何外伤。
+line:0fd20b5,OrymObj,TYRION: So why was there any blood at all?,TYRION: 那为什么会有死者的血迹？
+line:00949ed,OrymObj,AriaC: Let’s not get ahead of ourselves.,AriaC: 你的思维太跳跃了。
+line:0607a25,OrymObj,"AriaC: The fact still stands.[p/] There were no wounds on the body,[p/] nor were there any reports of poison or disease on the autopsy.",AriaC: 事实仍是如此，[p/]尸体上没有任何伤口，[p/]也没有中毒或疾病的迹象。
+line:00723d9,OrymObj,AriaC: There are clearly magical elements in this case.,AriaC: 而这起案件显然有魔法的影响。
+line:0a1dc85,OrymObj,TYRION: But Catherine Bellwether [i]was[/i] bleeding profusely at some point!,TYRION: 但凯瑟琳·贝尔维瑟在死前某段时间[i]曾经[/i]大量出血！
+line:0a41ac7,OrymObj,TYRION: How else would there be a bloodstain on the body?,TYRION: 不然尸体处怎么可能会留下血迹？
+line:0f2a49f,OrymObj,"TYRION: Do you have an explanation for that, Ms. Steelwind?!",TYRION: 对此你能作出解释吗？斯蒂尔文德检察官！
+line:0f545a7,OrymObj,AriaC: ...No.[p/] I'll admit that the prosecution doesn't have an explanation for that.,AriaC: ……不能。[p/]我承认检方对此确实无法解释。
+line:035103c,OrymObj,"AriaC: And while I do find the circumstances questionable,[p/] all other evidence clearly points to the defendant.",AriaC: 我也认为这点很可疑，[p/]但其他所有证据都指向被告。
+line:0c5b142,OrymObj,"AriaC: So tell me, Mr. Cuthbert,[p/] if the victim wasn’t killed with [b]necromancy[/b],[p/] why was there a trace of it on the body?",AriaC: 那你来告诉我，卡斯伯特先生。[p/]如果死者不是死于[b]死灵术[/b]，[p/]那尸体上为何会有相关的魔法痕迹？
+line:048bc81,OrymObj,TYRION: I’m glad you asked.,TYRION: 你主动帮我提出来真是太好了。
+line:0ddf44f,OrymObj_1,TYRION: I’d like to present a spell that could have left a trace of [b]necromancy[/b] on the body!,TYRION: 我申请向法庭出示另一种能在身体上留下[b]死灵术[/b]痕迹的法术！
+line:0680855,OrymObj_1,Mend Wounds,疗愈术
+line:07e886f,OrymObj_1,Necrotic Blight,索命咒
+line:095099b,OrymObj_1,Tyrion: [b]Necrotic Blight[/b]!,Tyrion: 是[b]索命咒[/b]！
+line:0e657f4,OrymObj_1,AriaC: ...,AriaC: ……
+line:0894a8c,OrymObj_1,Judge: ...,Judge: ……
 line:0d912e1,OrymObj_1,Celeste: ...,Celeste: ……
-line:044df64,OrymObj_1,Celeste: Um...[p/] Tyrion?,
-line:09a5a0f,OrymObj_1,Celeste: We're supposed to prove that the trace [i]wasn't[/i] left by [b]Necrotic Blight[/b].,
+line:044df64,OrymObj_1,Celeste: Um...[p/] Tyrion?,Celeste: 唔……[p/]提利昂？
+line:09a5a0f,OrymObj_1,Celeste: We're supposed to prove that the trace [i]wasn't[/i] left by [b]Necrotic Blight[/b].,Celeste: 我们要证明的是魔法痕迹[i]不是[/i]被[b]索命咒[/b]留下的。
 line:0ba3210,OrymObj_1,"AriaC: Your honor,[p/] it appears that the defense is admitting defeat.",
 line:008861e,OrymObj_1,AriaC: [b]Necrotic Blight[/b] is the only spell that would have left that trace.,
 line:05422df,OrymObj_1,Tyrion: W-[p/]Wait...[p/][s/] That was a mistake!,
@@ -679,7 +679,7 @@ line:0e37648,OrymObj_3,TYRION: Valentina and Valerie Ianus:[p/][s/] the sisters 
 line:0be4cbc,OrymObj_3,AriaC: ...This is nonsense.[p/] We’ve already questioned those two witnesses extensively.,
 line:09d7323,OrymObj_3,"AriaC: If they [i]had[/i] witnessed something like that,[p/] it would have come up in their testimony.",
 line:01ed61a,OrymObj_3,"TYRION: If that’s true,[p/] then the courts have nothing to lose by hearing their testimonies.",
-line:0aa56d2,OrymObj_3,AriaC: ...,
+line:0aa56d2,OrymObj_3,AriaC: ...,AriaC: ……
 line:0607bec,OrymObj_3,"AriaC: Very well.[p/] If you’re so confident,[p/] let’s hear her testimony.",
 line:0eab4a5,OrymObj_3,JUDGE: It seems the prosecution has no objections.,
 line:0834ccd,OrymObj_3,"JUDGE: If this line of questioning leads nowhere, however,[p/] I see no reason to further prolong this trial.",
@@ -771,10 +771,10 @@ line:07b18f8,Cross_Val,TYRION: There has to be a contradiction here somewhere...
 line:05416c1,Cross_Val,CELESTE: Your theory is that Valentina saw someone use [b]Mend Wounds[/b] on Bellwether.,
 line:06cebef,Cross_Val,CELESTE: You should focus on the statements that describe how they both interacted with her.,
 line:05ddbf8,Cross_Val,Player: Objection,
-line:091070e,Cross_Val,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:01300fb,Cross_Val,Tyrion: And this piece of evidence proves it!,
-line:070166e,Cross_Val,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:0285d40,Cross_Val,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
+line:091070e,Cross_Val,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:01300fb,Cross_Val,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:070166e,Cross_Val,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:0285d40,Cross_Val,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
 line:0e6f232,ValObj,AriaC: ...Witness.[p/] What is the meaning of this?,
 line:025f04b,ValObj,VALENTINA: W-[p/][s/]What?[p/][s/] Why are you looking at me like that?,
 line:0c666dc,ValObj,"TYRION: Maybe [i]I[/i] can elaborate, Ms. Ianus.",
@@ -833,7 +833,7 @@ line:06c4fe2,ValObj_2,...But I couldn't exactly say that I was planning to read 
 line:0e7f510,ValObj_2,"And at this point,[p/] I felt that I was already testing the judge's patience.",
 line:0045190,ValObj_3,TYRION: T-[p/][s/]There’s one key element of her testimony that the court is overlooking!,
 line:02e6808,ValObj_3,TYRION: I have a right as an attorney to complete my cross-examination.,
-line:058fedb,ValObj_3,AriaC: ...,
+line:058fedb,ValObj_3,AriaC: ...,AriaC: ……
 line:035e9eb,ValObj_3,AriaC: Your Honor.[p/] The defense is clearly trying to buy time.,
 line:09b6b4a,ValObj_3,JUDGE: ...I might be compelled to agree with you.,
 line:0f3a449,ValObj_3,"JUDGE: However,[p/] I'll also admit that [i]some[/i] elements of the witness’s testimony are quite peculiar.",
@@ -948,7 +948,7 @@ line:0e91100,Val2Obj_4,AriaC: This is clearly nothing but baseless conjecture.,
 line:0a79c8c,Val2Obj_4,AriaC: Orym wouldn’t fail at such a basic task.,
 line:0c588ca,Val2Obj_4,"TYRION: Really, Prosecutor Steelwind?",
 line:00350b5,Val2Obj_4,TYRION: Do you find it hard to believe that [i]Commander White[/i] would fail at a task like this?,
-line:00351f3,Val2Obj_4,AriaC: ...,
+line:00351f3,Val2Obj_4,AriaC: ...,AriaC: ……
 line:04b91fa,Val2Obj_4,"AriaC: Even so,[p/] the gift of magic is inherited through bloodlines.",
 line:083f48c,Val2Obj_4,"AriaC: For a pair of genetically identical twins,[p/] it would be impossible for one twin to be a mage while the other is not.",
 line:027d01a,Val2Obj_4,"Tyrion: Has that been proven, Steelwind?",
@@ -967,10 +967,10 @@ line:068d31a,Val2Obj_4,CELESTE: They’ve both had their hands on those Compendi
 line:0dcbe7f,Val2Obj_4,CELESTE: There’s no way they can fake it in front of this many people.,
 line:0386fe1,Val2Obj_4,Alright...[p/] It was the moment of truth.,
 line:0e58248,Val2Obj_4,I could only hope that my theory was correct.,
-line:07cccbe,Val2Obj_4,AriaC: ...,
+line:07cccbe,Val2Obj_4,AriaC: ...,AriaC: ……
 line:0c5debb,Val2Obj_4,AriaC: No...![p/][s/] Did he seriously—?!,
 line:04e5d64,Val2Obj_4,"JUDGE: W-[p/][s/] What is it, Prosecutor Steelwind?",
-line:0f2640a,Val2Obj_4,AriaC: ...,
+line:0f2640a,Val2Obj_4,AriaC: ...,AriaC: ……
 line:0c06560,Val2Obj_5,AriaC: What I [i]see[/i] is the commander seeking new employment in the near future...,
 line:0afe822,Val2Obj_5,AriaC: [i]*sigh*[/i][p/] It appears that the defense was correct.,
 line:0086327,Val2Obj_5,"AriaC: Valentina Ianus isn’t a mage,[p/] but Valerie Ianus is.",
@@ -984,7 +984,7 @@ line:0561594,Val2Obj_5,"VALERIE: How would you know what it’s like, [i]Lady[/i
 line:07e39dc,Val2Obj_5,AriaC: ...What?,
 line:09ff9d2,Val2Obj_5,VALERIE: Do you think we don't know who you are?,
 line:0df3a32,Val2Obj_5,VALERIE: You’re not like us.[p/] You don’t [i]have[/i] to hide.,
-line:05f5659,Val2Obj_5,AriaC: ...,
+line:05f5659,Val2Obj_5,AriaC: ...,AriaC: ……
 line:0d11acc,Val2Obj_5,VALERIE: But it's okay...[p/] This whole situation has gotten out of hand.,
 line:041f8e4,Val2Obj_5,"VALERIE: I didn’t think hiding it would cause so much trouble,[p/] and I won’t let someone go to prison because of me.",
 line:0053eb8,Val2Obj_5,Valerie: ...Even if he [i]is[/i] a necromancer.,
@@ -1198,7 +1198,7 @@ line:04a9768,Courtroom2_2,AriaC: This means that Mr. Hughes saw the victim’s a
 line:020d5c9,Courtroom2_2,"JUDGE: I see.[p/] What do you have to say in your defense, Mr. Cuthbert?",
 line:09be979,Courtroom2_2,"TYRION: The prosecution’s argument is definitely well thought-out, Your Honor.",
 line:061c046,Courtroom2_2,"TYRION: ...However,[p/] it is entirely predicated on the testimonies of all the witnesses involved.",
-line:05dae3d,Courtroom2_2,AriaC: ...,
+line:05dae3d,Courtroom2_2,AriaC: ...,AriaC: ……
 line:05eefe1,Courtroom2_2,Steelwind’s deduction had to have a hole somewhere...,
 line:08c6e3a,Courtroom2_2,"And since our conversation yesterday,[p/] I’d had a feeling that Miriam was hiding something...",
 line:0dd198b,Courtroom2_2,"If I wanted to get to the truth,[p/] I would need to drag that out of her through a cross-examination.",
@@ -1243,7 +1243,7 @@ line:04c23a1,Cross_Miriam,Miriam: I was working on a research project in my dorm
 line:055a7e6,Cross_Miriam,TYRION: Was this research project a part of your schoolwork?,
 line:0d0c0dd,Cross_Miriam,MIRIAM: It was an independent study to develop a new [b]conjuration[/b] spell formula.,
 line:0ebc8fb,Cross_Miriam,MIRIAM: The project is being sponsored by the Crown Prince himself.,
-line:04e44ad,Cross_Miriam,AriaC: ...,
+line:04e44ad,Cross_Miriam,AriaC: ...,AriaC: ……
 line:0f7b2ec,Cross_Miriam,AriaC: ...I wasn’t aware that he was involved in such a study.,
 line:04db573,Cross_Miriam,"MIRIAM: Of course you wouldn't.[p/] Did you expect to know every aspect of his life, dear Aria?",
 line:02431ae,Cross_Miriam,...I sensed some hostility.,
@@ -1293,10 +1293,10 @@ line:09a1bfe,Cross_Miriam,"CELESTE: Her testimony seems pretty straightforward,[
 line:08db8aa,Cross_Miriam,TYRION: I’m honestly not sure...,
 line:0ce2b33,Cross_Miriam,TYRION: We’ll just have to focus on her statements about how Bellwether acted.,
 line:049cafc,Cross_Miriam,Player: Objection,
-line:094192e,Cross_Miriam,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:05b126b,Cross_Miriam,Tyrion: And this piece of evidence proves it!,
-line:0b264f5,Cross_Miriam,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:0ab4bba,Cross_Miriam,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
+line:094192e,Cross_Miriam,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:05b126b,Cross_Miriam,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:0b264f5,Cross_Miriam,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:0ab4bba,Cross_Miriam,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
 line:0bb13e5,MiriamObj,"TYRION: Ms. Frega.[p/] If I recall correctly,[p/] you have a habit of getting absorbed in your work.",
 line:0f8adc5,MiriamObj,"TYRION: So much so,[p/] that you’ll even lose track of the time of day.",
 line:0f43996,MiriamObj,"MIRIAM: If [i]I[/i] recall correctly,[p/] you pulled that information out of me through your lies.",
@@ -1351,7 +1351,7 @@ line:0df3f9b,MiriamObj_3,"MIRIAM: B-[p/][s/]But that’s it![p/][s/] Everything 
 line:0f37fdb,MiriamObj_3,"MIRIAM: I [i]did[/i] see her come out of the Headmaster’s Office and walk towards the library! [h=""She walked past me!|[i]That[/i] part was true!""/]",
 line:0d681b5,MiriamObj_3,TYRION: ...!,TYRION: ……！
 line:05d2c0b,MiriamObj_3,"So, she [i]wasn’t[/i] lying about that...",
-line:0b82c3f,MiriamObj_4,AriaC: ...,
+line:0b82c3f,MiriamObj_4,AriaC: ...,AriaC: ……
 line:018ec22,MiriamObj_4,"AriaC: So,[p/] is that all, Mr. Cuthbert?",
 line:083599e,MiriamObj_4,"TYRION: ...What do you mean, “is that all”?!",
 line:03f1e93,MiriamObj_4,"AriaC: You badgered this witness,[p/] all so you could prove...[p/] [i]what[/i] exactly?",
@@ -1372,7 +1372,7 @@ line:0799ba5,MiriamObj_4,"TYRION: If I continue pressing her,[p/] the judge migh
 line:01f3506,MiriamObj_4,"But if Miriam wasn’t the one who was lying,[p/] then...",
 line:09eca05,MiriamObj_4,Tyrion: ...,Tyrion: ……
 line:0a77422,MiriamObj_4,"TYRION: The defense has no further questions for the witness, Ms. Steelwind.",
-line:023685b,MiriamObj_5,AriaC: ...,
+line:023685b,MiriamObj_5,AriaC: ...,AriaC: ……
 line:09fef20,MiriamObj_5,The prosecutor stayed silent for a while.,
 line:058b0c2,MiriamObj_5,...She almost looked disappointed.,
 line:0c821e5,MiriamObj_5,"AriaC: Very well.[p/] Miriam,[p/] you are dismissed.",
@@ -1439,10 +1439,10 @@ line:0c75ab2,Cross_Jan,TYRION: He tends to leave out details unless we directly 
 line:03ec448,Cross_Jan,TYRION: I just need to ask him the right questions.,
 line:0f863a5,Cross_Jan,TYRION: Maybe we can pull more information out of him.,
 line:03f037c,Cross_Jan,Player: Objection,
-line:0640fdf,Cross_Jan,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:0898c2b,Cross_Jan,Tyrion: And this piece of evidence proves it!,
-line:050616d,Cross_Jan,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:004ca0e,Cross_Jan,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
+line:0640fdf,Cross_Jan,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:0898c2b,Cross_Jan,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:050616d,Cross_Jan,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:004ca0e,Cross_Jan,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
 line:0f7090a,JanPress,TYRION: I believe you’ve forgotten a few details about what the professor did.,
 line:015207d,JanPress,JAN: Yeah...?,
 line:0def924,JanPress,"Jan: Sorry,[p/] it’s hard to remember these things sometimes...",
@@ -1525,7 +1525,7 @@ line:07f447b,ConstPresAfter_2,"TYRION: Those suits of armor are extremely large,
 line:08d1170,ConstPresAfter_2,"JUDGE: That means that theoretically,[p/] someone could have placed the victim’s body inside it...",
 line:056ce17,ConstPresAfter_2,TYRION: The Arcane Construct wouldn’t [i]just[/i] transport the body.,
 line:0cfa93c,ConstPresAfter_2,"TYRION: With an [b]Illusory Disguise[/b],[p/] it would also confuse and mislead anyone who saw it!",
-line:097b703,ConstPresAfter_2,AriaC: ...,
+line:097b703,ConstPresAfter_2,AriaC: ...,AriaC: ……
 line:05b3933,ConstPresAfter_2,"AriaC: I commend your deduction, Mr. Cuthbert.[p/] I would have never considered that possibility.",
 line:08e3a79,ConstPresAfter_2,"AriaC: It’s certainly plausible,[p/] but what does this prove exactly?",
 line:01ad0e7,ConstPresAfter_2,TYRION: It proves that the body wasn’t animated using [b]necromancy[/b].,
@@ -1595,7 +1595,7 @@ line:0c74b40,RedPresAfter_3,AriaC: She yelled at both of them to “Be quiet!”
 line:011c417,RedPresAfter_3,TYRION: Miriam Frega was particularly surprised.,
 line:03f9e7a,RedPresAfter_3,"TYRION: She had a good relationship with the professor,[p/] but when greeted by the professor,[p/] Bellwether just shouted at her.",
 line:0650616,RedPresAfter_3,TYRION: ...Almost as if the professor was responding indiscriminately.,
-line:08e4abb,RedPresAfter_3,AriaC: ...,
+line:08e4abb,RedPresAfter_3,AriaC: ...,AriaC: ……
 line:08679ab,RedPresAfter_3,TYRION: And recall her encounter with Jan Hughes.,
 line:05e9259,RedPresAfter_3,"TYRION: The professor knocked over a vase and shouted at him to ""Be quiet!"" immediately after.",
 line:0b4ae8c,RedPresAfter_3,TYRION: But he hadn’t said anything.,
@@ -1667,10 +1667,10 @@ line:0969416,Cross_Theo,TYRION: I’m not entirely sure if he’s lying or not.,
 line:05c9993,Cross_Theo,"TYRION: At the very least,[p/] we know that he was involved in the professor’s murder.",
 line:0223725,Cross_Theo,"First,[p/] I would need to make his motive clear.",
 line:0bba636,Cross_Theo,Player: Objection,
-line:0eabe6d,Cross_Theo,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:080a859,Cross_Theo,Tyrion: And this piece of evidence proves it!,
-line:0f1f1d8,Cross_Theo,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:053df63,Cross_Theo,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
+line:0eabe6d,Cross_Theo,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:080a859,Cross_Theo,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:0f1f1d8,Cross_Theo,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:053df63,Cross_Theo,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
 line:0556353,TheoObj,TYRION: Redmond.[p/] Did you really hold no animosity toward Professor Bellwether?,
 line:08b98e2,TheoObj,THEODORE: Of course not.,
 line:0dfa066,TheoObj,"THEODORE: I [i]did[/i] have strong opinions about how she treated the students,[p/] but I always remained professional.[p/] We both did.",
@@ -1692,7 +1692,7 @@ line:04e00e1,TheoObj_2,TYRION: He was surprised that I [i]knew[/i] this informat
 line:072cd3c,TheoObj_2,AriaC: T-[p/][s/]That’s-!,
 line:0cfc17e,TheoObj_2,"THEODORE: ...Please,[p/] dear Aria.",
 line:0e74dca,TheoObj_2,"THEODORE: I may be a frail old man,[p/] but I’m perfectly capable of defending myself.",
-line:09ea58a,TheoObj_2,AriaC: ...,
+line:09ea58a,TheoObj_2,AriaC: ...,AriaC: ……
 line:0f84f55,TheoObj_2,"TYRION: If you have an explanation, Mr. Redmond,[p/] then by all means,[p/] I’d love to hear it.",
 line:02aef3c,TheoObj_2,THEODORE: ...Gladly.,
 line:0140865,TheoObj_3,"Theodore: It [i]is[/i] true that I knew about the Fregas’ plot beforehand,[p/] but I had only [i]just[/i] learned about it.",
@@ -1754,10 +1754,10 @@ line:03f2298,Cross_Theo2,Player: Overflow,
 line:0e729d8,Cross_Theo2,"CELESTE: If he's the one behind this,[p/] he had to have known about Bellwether’s betrayal weeks ago.",
 line:0c80353,Cross_Theo2,TYRION: Right...[p/] The question is:[p/] how do we prove it?,
 line:077a67a,Cross_Theo2,Player: Objection,
-line:069d7fe,Cross_Theo2,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:038fad6,Cross_Theo2,Tyrion: And this piece of evidence proves it!,
-line:0446ef7,Cross_Theo2,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:09da636,Cross_Theo2,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
+line:069d7fe,Cross_Theo2,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:038fad6,Cross_Theo2,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:0446ef7,Cross_Theo2,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:09da636,Cross_Theo2,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
 line:06ecc9c,Theo2Obj,TYRION: Redmond.[p/] You keep saying that you didn’t know about Bellwether’s plot before yesterday.,
 line:008fb17,Theo2Obj,TYRION: Do you still plan on standing behind that claim?,
 line:095bf43,Theo2Obj,THEODORE: Of course I am.[p/] It’s the truth.,
@@ -1779,7 +1779,7 @@ line:091b137,Theo2Obj_2,AriaC: That [i]still[/i] doesn’t prove that he knew ab
 line:0847335,Theo2Obj_2,TYRION: Professor Bellwether had no authority over the cleaning staff’s employment.,
 line:060ec2c,Theo2Obj_2,TYRION: It wouldn’t make sense for her to [i]just[/i] reveal her plan for the Arcane Constructs.,
 line:0499378,Theo2Obj_2,TYRION: That would only make sense if he knew that Bellwether would be taking his job.,
-line:03dd313,Theo2Obj_2,AriaC: ...,
+line:03dd313,Theo2Obj_2,AriaC: ...,AriaC: ……
 line:0fed62e,Theo2Obj_2,"Tyrion: So, tell me one thing, Redmond.",
 line:04feba6,Theo2Obj_2,TYRION: Why did you find the need to lie about this?,
 line:0250d6f,Theo2Obj_2,TYRION: Is it because you saw a need to establish an alibi?,
@@ -1929,7 +1929,7 @@ line:0dd7cf9,TheoCornered9,THEODORE: T-[p/][s/]This is...![p/][s/] I-[p/][s/]I..
 line:048b546,TheoCornered9,Redmond was desperately stammering.,
 line:057fa3f,TheoCornered9,"THEODORE: Ms. Steelwind,[p/][s/] say something!",
 line:057903b,TheoCornered9,AriaC: ...What?![p/][s/] I...,
-line:02d25e8,TheoCornered9,AriaC: ...,
+line:02d25e8,TheoCornered9,AriaC: ...,AriaC: ……
 line:08e9883,TheoCornered9,AriaC: Agh!,
 line:013e35a,TheoCornered9,AriaC: Mr. Cuthbert![p/][s/] Your theory may be plausible but there’s no evidence to support it!,
 line:04218de,TheoCornered9,THEODORE: ...!,
@@ -2072,7 +2072,7 @@ line:0ff90f9,TheoAfterEye_6,TYRION: ...,TYRION: ……
 line:002f662,TheoAfterEye_6,"CELESTE: Yeah...[p/] I thought so,[p/] but how are you going to prove he did it if he’s not on the stand?",
 line:0d7b69f,TheoAfterEye_6,TYRION: Don’t worry.[p/] The next witness’s testimony will be all I need.,
 line:0beb659,TheoAfterEye_6,"CELESTE: ""Next"" witness?",
-line:0e8a5f3,TheoAfterEye_6,AriaC: ...,
+line:0e8a5f3,TheoAfterEye_6,AriaC: ...,AriaC: ……
 line:08104fb,TheoAfterEye_6,AriaC: That look on your face isn’t one of resignation...,
 line:027a686,TheoAfterEye_6,THEODORE: Ha![p/][s/] It’s nothing but desperate bravado.,
 line:0e05fae,TheoAfterEye_6,"THEODORE: Now,[p/] if you’ll excuse me...",
@@ -2148,7 +2148,7 @@ line:013ff1d,TheoAfterEye_10,AriaC: W-[p/][s/]What?!,
 line:0d3ada3,TheoAfterEye_10,THEODORE: I have nothing to say to you.,
 line:0a84f55,TheoAfterEye_10,THEODORE: I thought you were different.[p/] I listened to you and the prince's lies about societal reform.,
 line:0ffa609,TheoAfterEye_10,"THEODORE: In the end,[p/] you were just like the rest of them...",
-line:013aaf6,TheoAfterEye_10,AriaC: ...,
+line:013aaf6,TheoAfterEye_10,AriaC: ...,AriaC: ……
 line:0f764b4,TheoAfterEye_10,"THEODORE: By the Scaled Lord,[p/] what have I done?",
 line:0ed7f50,TheoAfterEye_10,THEODORE: I was even willing to sacrifice poor Wallace...,
 line:03d38d2,TheoAfterEye_10,THEODORE: Why did I ever listen to[p/],
