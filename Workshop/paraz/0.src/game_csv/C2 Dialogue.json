@@ -4937,323 +4937,323 @@
   {
     "key": "C2 Dialogue.csv::translation::4de4b71023eba843",
     "original": "TYRION: Did you notice anything else strange in the lecture hall?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 讲堂里当时有什么异常吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:043c3bd\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"TYRION: Did you notice anything else strange in the lecture hall?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::60397704519e54dc",
     "original": "VALENTINA: Well, there [i]was[/i] that terrible smell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 嗯，说起来当时讲堂里[i]有[/i]股恶臭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d25ed8\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: Well, there [i]was[/i] that terrible smell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2ef11f7b6b965632",
     "original": "VALENTINA: It was awful.[p/] I almost couldn’t see because of how much I was tearing up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 真的很呛很难闻，[p/]这股味道呛的我不停流眼泪，[p/]甚至都看不清东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07d3ee2\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: It was awful.[p/] I almost couldn’t see because of how much I was tearing up.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::298eddd78ecf205e",
     "original": "It makes sense...[p/] Aside from Bellwether,[p/] that smell was the most notable thing in that room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这是合理的……[p/]除了贝尔维瑟，[p/]房间里最引人注意的就是气味。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0abd70e\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"It makes sense...[p/] Aside from Bellwether,[p/] that smell was the most notable thing in that room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::07ba0e43deafafdc",
     "original": "It would've been hard to notice anything else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "很难在此之外注意到其他东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0765bee\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"It would've been hard to notice anything else.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b669a80e47020863",
     "original": "She tried to...[p/] “help her”?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她们有试图……[p/]“救助她”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0684b81\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"She tried to...[p/] “help her”?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7fb02e13491cdec9",
     "original": "TYRION: Ms. Ianus.[p/] How exactly did your sister try to help Ms. Bellwether?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 伊努斯女士，[p/]请问你妹妹具体是怎么救助贝尔维瑟教授的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a36f9c\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"TYRION: Ms. Ianus.[p/] How exactly did your sister try to help Ms. Bellwether?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8584e1f5e5a2e011",
     "original": "VALENTINA: W-[p/][s/]What? [h=\"Agh!|I slipped up!\" e=\"f\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 什、[p/][s/]什么？ [h=\"啊！|我说漏嘴了！\" e=\"f\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06f79bf\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: W-[p/][s/]What? [h=\\\"Agh!|I slipped up!\\\" e=\\\"f\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::82868854078db7ab",
     "original": "VALENTINA: O-[p/][s/]Oh,[p/] um...",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 啊、[p/][s/]唔，[p/]这个……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02a39cd\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: O-[p/][s/]Oh,[p/] um...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::35b1250abe4d46c8",
     "original": "VALENTINA: My sister used first aid to try to stop the bleeding.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 她用医疗包来试图止血。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0252d8f\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: My sister used first aid to try to stop the bleeding.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4871900e87d3f211",
     "original": "TYRION: I...[p/] see.[p/] Could you please add that detail to your testimony?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我……[p/]明白了，[p/]你能把刚刚的新细节加入到证言中吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:077f2f9\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"TYRION: I...[p/] see.[p/] Could you please add that detail to your testimony?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ed667ac3ec5c8f0d",
     "original": "VALENTINA: Y-[p/][s/]Yeah...[p/] Sure.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 嗯、[p/][s/]嗯……[p/]好的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ec8c07\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: Y-[p/][s/]Yeah...[p/] Sure.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f723d23cab5c30f",
     "original": "Valentina: She used first aid and applied pressure to her wound to stop the bleeding.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 她用医疗包来对伤口施加压力，帮助教授止血。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05e24fe\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"Valentina: She used first aid and applied pressure to her wound to stop the bleeding.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5bda239b9191e094",
     "original": "TYRION: Your sister knows how to use a first aid kit?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你妹妹学过急救知识？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b508cc\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"TYRION: Your sister knows how to use a first aid kit?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e39f1ec27199ccf8",
     "original": "VALENTINA: Y-[p/]Yeah,[p/] it was covered in our training when we first started working there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 嗯、[p/]嗯，[p/]在入职培训中有涵盖这部分。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0355992\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: Y-[p/]Yeah,[p/] it was covered in our training when we first started working there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3cdcb2f4b174dd68",
     "original": "VALENTINA: With all the nobles around,[p/] I guess the headmaster wanted to make sure we were prepared.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 毕竟周围这么多贵族，[p/]校长也想准备万全以备不时之需。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f0279c\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: With all the nobles around,[p/] I guess the headmaster wanted to make sure we were prepared.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c4052f2a45fa2a0f",
     "original": "TYRION: A device?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 什么装置？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0de30f2\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"TYRION: A device?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ef3f00e91cebe3b8",
     "original": "AriaC: It’s a communication device for use in an emergency.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 那是专用于应急的通讯装置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0766811\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"AriaC: It’s a communication device for use in an emergency.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::52a704dd34de073f",
     "original": "TYRION: I see.[p/] So who [i]did[/i] you contact?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 明白了，[p/]你[i]当时[/i]联系了谁？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09af8cf\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"TYRION: I see.[p/] So who [i]did[/i] you contact?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::916ebfc4d406e15a",
     "original": "VALENTINA: I wasn’t sure, honestly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 说实话我不太确定。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0787d3c\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: I wasn’t sure, honestly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::610c52a65ef7f040",
     "original": "VALENTINA: I could hear a lot of people talking on the other end.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 当时能听到对面有很多人在交谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0957775\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: I could hear a lot of people talking on the other end.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1087efd58439cb42",
     "original": "AriaC: That particular device broadcasts to the headmaster’s office and the City Watch Barracks.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 那个装置可以同时向校长办公室和城市安保播送语音。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0609c7e\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"AriaC: That particular device broadcasts to the headmaster’s office and the City Watch Barracks.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8a01716d40fb33e7",
     "original": "AriaC: I imagine that’s why the headmaster was able to activate the lockdown so quickly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我想这也是校长能如此迅速激活封锁系统的原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0372d19\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"AriaC: I imagine that’s why the headmaster was able to activate the lockdown so quickly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8add0552ab9ebd7",
     "original": "TYRION: I see.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我知道了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f089d6\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"TYRION: I see.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a0082bc392c5b1e0",
     "original": "TYRION: I see.[p/] That must have been a difficult experience for both of you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我明白了。[p/]对你们两位来说这肯定是个艰难的经历。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06b4587\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"TYRION: I see.[p/] That must have been a difficult experience for both of you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dfc1d810cd4a0829",
     "original": "VALENTINA: It was especially hard on my sister.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 对我妹妹来说那尤其艰难。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ff676e\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: It was especially hard on my sister.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::41248e1e8775ec59",
     "original": "VALENTINA: I think she blames herself for not being able to save her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我认为她因没能救到教授感到自责。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06e2c70\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: I think she blames herself for not being able to save her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f33840d83ca57bc0",
     "original": "She seemed sincere when she said that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她这句话看起来是真心的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:026306c\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"She seemed sincere when she said that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f195bc83ead3f79c",
     "original": "I didn't catch any dissonant thoughts through the Eye either.",
-    "translation": "",
-    "stage": 0,
+    "translation": "而且荷鲁斯之眼也没有发现不相符的想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:056543e\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"I didn't catch any dissonant thoughts through the Eye either.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::33b7ee2c51b3abdc",
     "original": "CELESTE: Honestly,[p/] her testimony makes a lot of sense.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 老实说，[p/]她的证言完全说得通。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:072a8ab\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"CELESTE: Honestly,[p/] her testimony makes a lot of sense.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eeb8d7c9b90eb81c",
     "original": "CELESTE: It’s hard to figure out which parts she might be lying about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 很难找出她在哪一部分可能说谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:070eca0\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"CELESTE: It’s hard to figure out which parts she might be lying about.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1582b2e13a338392",
     "original": "TYRION: There has to be a contradiction here somewhere...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 一定在哪个地方藏着矛盾……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07b18f8\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"TYRION: There has to be a contradiction here somewhere...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f883206682f9d4f4",
     "original": "CELESTE: Your theory is that Valentina saw someone use [b]Mend Wounds[/b] on Bellwether.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你的理论是，瓦伦蒂娜看见有人对贝尔维瑟使用了[b]疗愈术[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05416c1\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"CELESTE: Your theory is that Valentina saw someone use [b]Mend Wounds[/b] on Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1bbdfdadb871da11",
     "original": "CELESTE: You should focus on the statements that describe how they both interacted with her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你应该着重分析描述她们如何与她互动的证词。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06cebef\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"CELESTE: You should focus on the statements that describe how they both interacted with her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::14860d3c402bae0a",
     "original": "AriaC: ...Witness.[p/] What is the meaning of this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……证人。[p/]这是什么意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e6f232\",\n  \"node\": \"ValObj\",\n  \"text\": \"AriaC: ...Witness.[p/] What is the meaning of this?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2e5e417eeac4aaa1",
     "original": "VALENTINA: W-[p/][s/]What?[p/][s/] Why are you looking at me like that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 怎、[p/][s/]怎么啦？[p/][s/]你为什么要这样看着我？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:025f04b\",\n  \"node\": \"ValObj\",\n  \"text\": \"VALENTINA: W-[p/][s/]What?[p/][s/] Why are you looking at me like that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea0458a457c4f983",
     "original": "TYRION: Maybe [i]I[/i] can elaborate, Ms. Ianus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 或许[i]我[/i]能解释清楚，伊努斯女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c666dc\",\n  \"node\": \"ValObj\",\n  \"text\": \"TYRION: Maybe [i]I[/i] can elaborate, Ms. Ianus.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cd396fb9c8c05624",
     "original": "TYRION: You weren’t present in the gallery earlier,[p/] were you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你之前并没有在旁听席，[p/]对吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0447b2e\",\n  \"node\": \"ValObj\",\n  \"text\": \"TYRION: You weren’t present in the gallery earlier,[p/] were you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b39a482ef9145d5d",
     "original": "VALENTINA: N-[p/][s/]No.[p/] I was waiting in the lobby.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 没、[p/][s/]没有。[p/]我在大厅等候。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a0617\",\n  \"node\": \"ValObj\",\n  \"text\": \"VALENTINA: N-[p/][s/]No.[p/] I was waiting in the lobby.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a853721eac4431db",
     "original": "VALENTINA: Lady Steelwind told me to wait there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 斯蒂尔文德小姐让我在那里等着。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:055abe4\",\n  \"node\": \"ValObj\",\n  \"text\": \"VALENTINA: Lady Steelwind told me to wait there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6629ddcab9fb2cc8",
     "original": "I considered myself lucky.[p/] This wouldn't have been nearly as easy if Valentina had seen my cross-examination of Oyrm.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我暗喜自己运气不错。[p/]如果瓦伦蒂娜有观看奥蒙的交叉询问，事情肯定没这么简单。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08fb525\",\n  \"node\": \"ValObj\",\n  \"text\": \"I considered myself lucky.[p/] This wouldn't have been nearly as easy if Valentina had seen my cross-examination of Oyrm.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f6476c93784ecdf9",
     "original": "TYRION: You see, Ms. Ianus...[p/] One key element of the case is that the body [i]didn’t[/i] have any wounds on it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你看，伊努斯女士……[p/]这个案件中一个很关键的要素，就是尸体上[i]没有[/i]任何伤口。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bb3163\",\n  \"node\": \"ValObj\",\n  \"text\": \"TYRION: You see, Ms. Ianus...[p/] One key element of the case is that the body [i]didn’t[/i] have any wounds on it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::39d5b1975bcd1d64",
     "original": "VALENTINA: Y-[p/]Yeah?[p/] So?",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 是、[p/]是啊？[p/]所以呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d92b74\",\n  \"node\": \"ValObj\",\n  \"text\": \"VALENTINA: Y-[p/]Yeah?[p/] So?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06a490442959540a",
     "original": "TYRION: [i]So[/i], that begs the following question...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: [i]所以[/i]，这就产生了一个问题……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ff7298\",\n  \"node\": \"ValObj\",\n  \"text\": \"TYRION: [i]So[/i], that begs the following question...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cfdc9e51c5725250",
     "original": "TYRION: How did Valerie apply first aid when there shouldn’t have been [i]any[/i] wounds on the body?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 瓦莱丽是怎么在尸体上没有[i]任何[/i]伤口的情况下使用医疗包的？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:040358d\",\n  \"node\": \"ValObj\",\n  \"text\": \"TYRION: How did Valerie apply first aid when there shouldn’t have been [i]any[/i] wounds on the body?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::15cf800741f504c0",
     "original": "VALENTINA: What?! [h=\"Ah! No...|Did I screw up?\" e=\"f\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 什么？！ [h=\"啊！不……|我搞砸了吗？\" e=\"f\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a8caee\",\n  \"node\": \"ValObj\",\n  \"text\": \"VALENTINA: What?! [h=\\\"Ah! No...|Did I screw up?\\\" e=\\\"f\\\"/]\"\n}"
   },
   {
