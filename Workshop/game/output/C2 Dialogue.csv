@@ -638,105 +638,105 @@ line:0894a8c,OrymObj_1,Judge: ...,Judge: ……
 line:0d912e1,OrymObj_1,Celeste: ...,Celeste: ……
 line:044df64,OrymObj_1,Celeste: Um...[p/] Tyrion?,Celeste: 唔……[p/]提利昂？
 line:09a5a0f,OrymObj_1,Celeste: We're supposed to prove that the trace [i]wasn't[/i] left by [b]Necrotic Blight[/b].,Celeste: 我们要证明的是魔法痕迹[i]不是[/i]被[b]索命咒[/b]留下的。
-line:0ba3210,OrymObj_1,"AriaC: Your honor,[p/] it appears that the defense is admitting defeat.",
-line:008861e,OrymObj_1,AriaC: [b]Necrotic Blight[/b] is the only spell that would have left that trace.,
-line:05422df,OrymObj_1,Tyrion: W-[p/]Wait...[p/][s/] That was a mistake!,
-line:07d03dd,OrymObj_1,Tyrion: I meant to present a [i]different[/i] spell.,
+line:0ba3210,OrymObj_1,"AriaC: Your honor,[p/] it appears that the defense is admitting defeat.",AriaC: 法官阁下，[p/]看起来辩方已然自承其败。
+line:008861e,OrymObj_1,AriaC: [b]Necrotic Blight[/b] is the only spell that would have left that trace.,AriaC: [b]索命咒[/b]是唯一能留下那种痕迹的法术。
+line:05422df,OrymObj_1,Tyrion: W-[p/]Wait...[p/][s/] That was a mistake!,Tyrion: 等、[p/]等下……[p/][s/]我搞错了！
+line:07d03dd,OrymObj_1,Tyrion: I meant to present a [i]different[/i] spell.,Tyrion: 我本来想出示[i]另一个[/i]法术的。
 line:048d71d,OrymObj_1,Default,
-line:0046962,OrymObj_1,Judge: Um...[p/] What is this?,
-line:08544ad,OrymObj_1,Tyrion: [i]This[/i] is what left the trace of [b]necromancy[/b] at the crime scene.,
-line:0484dcd,OrymObj_1,AriaC: I fail to see how [i]that[/i] could leave a trace of [b]necromancy[/b].,
-line:094c9bb,OrymObj_1,"Tyrion: O-[p/]Oh,[p/] I guess you're right.",
-line:04a5b97,OrymObj_1,"Tyrion: [i]However[/i],[p/][s/] [i]that's[/i] not the spell I was speaking of!",
-line:0426475,OrymObj_2,JUDGE: [b]Mend Wounds[/b]?,
-line:0af01e5,OrymObj_2,"JUDGE: Correct me if I’m wrong,[p/] but isn’t that a healing spell?",
-line:0ef365f,OrymObj_2,"TYRION: That’s correct, Your Honor.",
-line:0814a4c,OrymObj_2,TYRION: Spells from the school of [b]necromancy[/b] can control the forces of death [i]and[/i] life!,
-line:0a6fabb,OrymObj_2,"TYRION: [b]Mend Wounds[/b] is, in fact, a [b]necromancy[/b] spell!",
-line:0e91ed7,OrymObj_2,"JUDGE: Really, now?[p/] I wasn't aware of this...",
-line:0eea11b,OrymObj_2,TYRION: [i]Now[/i] I’d like the court to consider the following...,
-line:074b925,OrymObj_2,"TYRION: What would happen if Bellwether was wounded,[p/] and someone attempted to heal her using [b]Mend Wounds[/b]?",
-line:0e0be9b,OrymObj_2,TYRION: All of her wounds would disappear from her body!,
-line:0172df5,OrymObj_2,JUDGE: I see...[p/] That [i]does[/i] make sense!,
-line:0aa44a2,OrymObj_2,"AriaC: ...Do you think I'm that incompetent, Mr. Cuthbert?",
-line:043c3ca,OrymObj_2,"AriaC: Frankly,[p/] I'm a little insulted.",
+line:0046962,OrymObj_1,Judge: Um...[p/] What is this?,Judge: 嗯……[p/]这是什么？
+line:08544ad,OrymObj_1,Tyrion: [i]This[/i] is what left the trace of [b]necromancy[/b] at the crime scene.,Tyrion: [i]这[/i]就是能在现场留下[b]死灵术[/b]痕迹的东西！
+line:0484dcd,OrymObj_1,AriaC: I fail to see how [i]that[/i] could leave a trace of [b]necromancy[/b].,AriaC: 我可看不出来[i]那个法术[/i]怎么能留下[b]死灵术[/b]的痕迹。
+line:094c9bb,OrymObj_1,"Tyrion: O-[p/]Oh,[p/] I guess you're right.",Tyrion: 啊、[p/]哦……[p/]好像是这样的。
+line:04a5b97,OrymObj_1,"Tyrion: [i]However[/i],[p/][s/] [i]that's[/i] not the spell I was speaking of!",Tyrion: [i]话说回来[/i]，[p/][s/]我要说的不是[i]这个[/i]法术！
+line:0426475,OrymObj_2,JUDGE: [b]Mend Wounds[/b]?,JUDGE: [b]疗愈术[/b]？
+line:0af01e5,OrymObj_2,"JUDGE: Correct me if I’m wrong,[p/] but isn’t that a healing spell?",JUDGE: 那不是个治愈法术吗？
+line:0ef365f,OrymObj_2,"TYRION: That’s correct, Your Honor.",TYRION: 没错，法官阁下。
+line:0814a4c,OrymObj_2,TYRION: Spells from the school of [b]necromancy[/b] can control the forces of death [i]and[/i] life!,TYRION: [b]死灵术[/b]能够控制生死之力！
+line:0a6fabb,OrymObj_2,"TYRION: [b]Mend Wounds[/b] is, in fact, a [b]necromancy[/b] spell!",TYRION: 实际上，[b]疗愈术[/b]也是[b]死灵术[/b]的一种！
+line:0e91ed7,OrymObj_2,"JUDGE: Really, now?[p/] I wasn't aware of this...",JUDGE: 真的吗？[p/]这我确实不清楚……
+line:0eea11b,OrymObj_2,TYRION: [i]Now[/i] I’d like the court to consider the following...,TYRION: 我[i]现在[/i]向法庭提出以下可能性……
+line:074b925,OrymObj_2,"TYRION: What would happen if Bellwether was wounded,[p/] and someone attempted to heal her using [b]Mend Wounds[/b]?",TYRION: 如果贝尔维瑟身受重伤，[p/]有人试着用[b]疗愈术[/b]治愈她的伤口会怎样？
+line:0e0be9b,OrymObj_2,TYRION: All of her wounds would disappear from her body!,TYRION: 她身体上的所有外伤都会消失！
+line:0172df5,OrymObj_2,JUDGE: I see...[p/] That [i]does[/i] make sense!,Judge: 我明白了……[p/]这[i]确实[/i]说得通！
+line:0aa44a2,OrymObj_2,"AriaC: ...Do you think I'm that incompetent, Mr. Cuthbert?",AriaC: 卡斯伯特先生……你真觉得我那么无能吗？
+line:043c3ca,OrymObj_2,"AriaC: Frankly,[p/] I'm a little insulted.",AriaC: 老实说，[p/]我觉得有点被冒犯到。
 line:0a01b40,OrymObj_2,Tyrion: ...What?,Tyrion: ……什么？
-line:07c9f5d,OrymObj_2,AriaC: The Inquisition is well aware of what happens when a mage attempts to save a victim using [b]Mend Wounds[/b].,
-line:0502b33,OrymObj_2,AriaC: The healers that arrived at the scene already confirmed that the victim was long dead.,
-line:0ce4e1e,OrymObj_2,AriaC: None of them attempted to heal her.,
-line:0395517,OrymObj_2,"Tyrion: ...Well,[p/] what if someone tried to heal her and didn't report it?",
-line:0e3ad75,OrymObj_2,AriaC: Please.[p/] None of the healers would have anything to gain by doing so.,
-line:049ce09,OrymObj_2,"AriaC: In fact,[p/] as a necromancer,[p/] the defendant could have easily carried out the described scenario.",
-line:0aaa9bd,OrymObj_2,AriaC: He could have cast [b]Mend Wounds[/b] on the victim after murdering her to confound the investigation!,
-line:0b73193,OrymObj_2,"At the end of the day,[p/] the burden of proof was on us.",
-line:0276329,OrymObj_2,"But if I could prove someone else healed the body,[p/] I would sever the only thread linking Wallace to the murder.",
-line:0b8b6e6,OrymObj_3,Whoever this healer was...[p/] Valentina definitely knew her.,
+line:07c9f5d,OrymObj_2,AriaC: The Inquisition is well aware of what happens when a mage attempts to save a victim using [b]Mend Wounds[/b].,Aria: 裁判所当然也早就注意到这种可能性。
+line:0502b33,OrymObj_2,AriaC: The healers that arrived at the scene already confirmed that the victim was long dead.,Aria: 治愈师到现场的时候就立刻确认，受害者已经死亡多时。
+line:0ce4e1e,OrymObj_2,AriaC: None of them attempted to heal her.,AriaC: 没有人尝试过疗愈她。
+line:0395517,OrymObj_2,"Tyrion: ...Well,[p/] what if someone tried to heal her and didn't report it?",Tyrion: ……那，[p/]如果有人偷偷治疗过她还向裁判所隐瞒事实呢？
+line:0e3ad75,OrymObj_2,AriaC: Please.[p/] None of the healers would have anything to gain by doing so.,Aria: 得了吧，[p/]那么做有什么好处？
+line:049ce09,OrymObj_2,"AriaC: In fact,[p/] as a necromancer,[p/] the defendant could have easily carried out the described scenario.",AriaC: 实际上，[p/]作为死灵法师，[p/]被告可以很轻松的实施以下计划。
+line:0aaa9bd,OrymObj_2,AriaC: He could have cast [b]Mend Wounds[/b] on the victim after murdering her to confound the investigation!,AriaC: 他可以先杀掉受害者，再对其释放[b]疗愈术[/b]来混淆调查。
+line:0b73193,OrymObj_2,"At the end of the day,[p/] the burden of proof was on us.",在今日的结尾，[p/]立证的压力来到了我们这边。
+line:0276329,OrymObj_2,"But if I could prove someone else healed the body,[p/] I would sever the only thread linking Wallace to the murder.",但只要我证明有他人对尸体施放过疗愈术，[p/]我就能切断唯一将华莱士与真凶相联系的线索。
+line:0b8b6e6,OrymObj_3,Whoever this healer was...[p/] Valentina definitely knew her.,不论那个人是谁……[p/]瓦伦蒂娜肯定认识。
 line:06ff22e,OrymObj_3,TYRION: ...,TYRION: ……
-line:0c4c610,OrymObj_3,TYRION: Your Honor.[p/] I will admit that I don’t have any evidence to support my theory.,
-line:0f49a96,OrymObj_3,"TYRION: However,[p/] I [i]do[/i] believe that we can bring it to light.",
-line:0b5270d,OrymObj_3,TYRION: There may have been [i]two[/i] people that witnessed someone cast magic on the body.,
-line:0e37648,OrymObj_3,TYRION: Valentina and Valerie Ianus:[p/][s/] the sisters who discovered the body.,
-line:0be4cbc,OrymObj_3,AriaC: ...This is nonsense.[p/] We’ve already questioned those two witnesses extensively.,
-line:09d7323,OrymObj_3,"AriaC: If they [i]had[/i] witnessed something like that,[p/] it would have come up in their testimony.",
-line:01ed61a,OrymObj_3,"TYRION: If that’s true,[p/] then the courts have nothing to lose by hearing their testimonies.",
+line:0c4c610,OrymObj_3,TYRION: Your Honor.[p/] I will admit that I don’t have any evidence to support my theory.,TYRION: 法官阁下。[p/]我承认目前没有足够的证据来支撑我的理论。
+line:0f49a96,OrymObj_3,"TYRION: However,[p/] I [i]do[/i] believe that we can bring it to light.",TYRION: 但是，[p/]我有自信[i]能够[/i]证明我的猜想。
+line:0b5270d,OrymObj_3,TYRION: There may have been [i]two[/i] people that witnessed someone cast magic on the body.,TYRION: 有[i]两位[/i]目击证人看到了有人在对尸体施法。
+line:0e37648,OrymObj_3,TYRION: Valentina and Valerie Ianus:[p/][s/] the sisters who discovered the body.,TYRION: 瓦伦蒂娜·伊努斯和瓦莱丽·伊努斯[p/][s/]——发现尸体的一对姐妹。
+line:0be4cbc,OrymObj_3,AriaC: ...This is nonsense.[p/] We’ve already questioned those two witnesses extensively.,AriaC: ……这没道理，[p/]我们已经严格审讯过这两位目击证人了。
+line:09d7323,OrymObj_3,"AriaC: If they [i]had[/i] witnessed something like that,[p/] it would have come up in their testimony.",AriaC: 如果[i]真的[/i]看到了什么，[p/]她们会在审讯时告诉我们的。
+line:01ed61a,OrymObj_3,"TYRION: If that’s true,[p/] then the courts have nothing to lose by hearing their testimonies.",TYRION: 如果真如你所说，[p/]那么法庭现在再听一遍她们的证词也未尝不可。
 line:0aa56d2,OrymObj_3,AriaC: ...,AriaC: ……
-line:0607bec,OrymObj_3,"AriaC: Very well.[p/] If you’re so confident,[p/] let’s hear her testimony.",
-line:0eab4a5,OrymObj_3,JUDGE: It seems the prosecution has no objections.,
-line:0834ccd,OrymObj_3,"JUDGE: If this line of questioning leads nowhere, however,[p/] I see no reason to further prolong this trial.",
-line:099ba9b,OrymObj_3,"TYRION: ...Of course, Your Honor.",
-line:0eebdf0,OrymObj_4,"VALENTINA: ...! [h=""Oh, crap!|It’s that guy from before!"" e=""f"" /]",
-line:0e6be09,OrymObj_4,"VALENTINA: ... [h=""What?!|He's the necromancer’s lawyer?!"" e=""f"" /]",
-line:0d78db3,OrymObj_4,"She just arrived at the stand,[p/] and she was already stressed out.",
-line:0abeac3,OrymObj_4,That would work in my favor.,
-line:0f7b6d9,OrymObj_4,"AriaC: Witness,[p/] please state your name and occupation for the court.",
-line:0149167,OrymObj_4,VALENTINA: U-[p/]Um...[p/] My name?,
-line:0f85445,OrymObj_4,"AriaC: Witness,[p/] there’s no need to be so nervous.",
-line:02db16e,OrymObj_4,AriaC: We merely want to hear about what you saw on the day of the murder.,
-line:0f0156c,OrymObj_4,VALENTINA: R-[p/]Right.[p/] I-[p/]it’s just that guy over there.[p/] He...,
-line:0766e45,OrymObj_4,AriaC: Are you talking about Mr. Cuthbert?,
-line:0686ade,OrymObj_4,"AriaC: ...Did this man harass you, witness?",
-line:0d78382,OrymObj_4,TYRION: W-[p/]Wait a minute...,
-line:02cd8a9,OrymObj_4,VALENTINA: U-[p/][s/]Um...[p/][s/] Yeah!,
-line:07a88fe,OrymObj_4,VALENTINA: He [i]super[/i] harassed me!,
-line:0cb144a,OrymObj_5,"JUDGE: Mr. Cuthbert, I would expect someone of your profession to behave more professionally.",
-line:0a19737,OrymObj_5,I could hear Celeste snickering under her breath.,
-line:0fe7fc3,OrymObj_5,TYRION: You're enjoying this far too much...,
-line:0ea1ffd,OrymObj_5,"TYRION: A-[p/]Anyways,[p/] please state your name and occupation for the court, Ms. Ianus.",
-line:0932a03,OrymObj_5,"VALENTINA: ... [h=""Just calm down.|He can’t prove anything."" e=""f""/]",
-line:01b014b,OrymObj_5,VALENTINA: ...My name is Valentina Ianus.,
-line:0f64aff,OrymObj_5,VALENTINA: I'm the head chef at the Wyverngarde Imperial Academy.,
-line:07f4430,OrymObj_5,Judge: Really?[p/] And at such a young age.,
-line:0bc843b,OrymObj_5,"AriaC: As I recall,[p/] you were one of the witnesses who discovered the body.",
-line:0b26024,OrymObj_5,"AriaC: Apparently,[p/] the defense finds your involvement suspect.",
-line:033f7c9,OrymObj_5,VALENTINA: ...,
-line:00b2ad2,OrymObj_5,"AriaC: Rest assured, Ms. Ianus.",
-line:0b66c69,OrymObj_5,"AriaC: In this courtroom,[p/] you will be protected from Mr. Cuthbert’s “harassment”.",
-line:0434b78,OrymObj_5,TYRION: Ugh...,
-line:0f857db,OrymObj_5,"AriaC: Now,[p/] please testify to the court on what happened that day.",
-line:0ffedcf,OrymObj_5,VALENTINA: Y-[p/]Yeah...,
-line:0e347de,ValTest,Valentina: I was walking with my sister in the west wing when we noticed something in a nearby classroom.,
-line:0b5669a,ValTest,Valentina: We looked over to see what it was.[p/][s/] That's when we saw Ms. Bellwether bleeding on the ground!,
-line:0f95290,ValTest,"Valentina: My sister tried her best to help her,[p/] but the professor had already lost a lot of blood...",
-line:0b67097,ValTest,"Valentina: While my sister did that,[p/] I used an emergency communication device to call for help.",
-line:0df902e,ValTest,"Valentina: But it was too late.[p/] By the time her bleeding stopped,[p/] she’d already lost too much blood...",
-line:052970e,ValTest,"CELESTE: Hm...[p/] If your theory is true,[p/] that means she just lied in her testimony.",
-line:00c1fc1,ValTest,CELESTE: She’s holding something back.,
-line:09de345,ValTest,TYRION: She definitely saw more than she’s letting on.,
-line:0b2f2e3,ValTest,I just needed to prove that somehow...,
+line:0607bec,OrymObj_3,"AriaC: Very well.[p/] If you’re so confident,[p/] let’s hear her testimony.",AriaC: 好吧，[p/]既然你如此胸有成竹，[p/]那就让我们听听她们的证言。
+line:0eab4a5,OrymObj_3,JUDGE: It seems the prosecution has no objections.,JUDGE: 看来检方没有异议。
+line:0834ccd,OrymObj_3,"JUDGE: If this line of questioning leads nowhere, however,[p/] I see no reason to further prolong this trial.",JUDGE: 不过……[p/]如果此次传唤没能提供有价值的线索，[p/]我认为此案的审理就可以在此结束了。
+line:099ba9b,OrymObj_3,"TYRION: ...Of course, Your Honor.",TYRION: ……当然，法官阁下。
+line:0eebdf0,OrymObj_4,"VALENTINA: ...! [h=""Oh, crap!|It’s that guy from before!"" e=""f"" /]","VALENTINA: ……！[h=""糟了！是之前那个难办的家伙！"" e=""f"" /]"
+line:0e6be09,OrymObj_4,"VALENTINA: ... [h=""What?!|He's the necromancer’s lawyer?!"" e=""f"" /]","VALENTINA: …… [h=""什么？！|他是那个死灵法师的律师？！"" e=""f"" /]"
+line:0d78db3,OrymObj_4,"She just arrived at the stand,[p/] and she was already stressed out.",她一站上证人席，[p/]就显得非常紧张。
+line:0abeac3,OrymObj_4,That would work in my favor.,这帮得上我的忙。
+line:0f7b6d9,OrymObj_4,"AriaC: Witness,[p/] please state your name and occupation for the court.",AriaC: 证人，[p/]请向法庭告知你的姓名与职业。
+line:0149167,OrymObj_4,VALENTINA: U-[p/]Um...[p/] My name?,VALENTINA: 啊、[p/]唔……[p/]我的姓名？
+line:0f85445,OrymObj_4,"AriaC: Witness,[p/] there’s no need to be so nervous.",AriaC: 证人，[p/]你无需这么紧张。
+line:02db16e,OrymObj_4,AriaC: We merely want to hear about what you saw on the day of the murder.,AriaC: 我们只是想听你说一说凶杀案当天发生了什么。
+line:0f0156c,OrymObj_4,VALENTINA: R-[p/]Right.[p/] I-[p/]it’s just that guy over there.[p/] He...,VALENTINA: 啊、[p/]啊哈哈……[p/]我知道了，[p/]就是那边那个家伙让我有点……
+line:0766e45,OrymObj_4,AriaC: Are you talking about Mr. Cuthbert?,AriaC: 你是指卡斯伯特先生？
+line:0686ade,OrymObj_4,"AriaC: ...Did this man harass you, witness?",AriaC: ……证人，这个男人有骚扰你吗？
+line:0d78382,OrymObj_4,TYRION: W-[p/]Wait a minute...,TYRION: 等、[p/]等下……
+line:02cd8a9,OrymObj_4,VALENTINA: U-[p/][s/]Um...[p/][s/] Yeah!,VALENTINA: 唔、[p/][s/]唔……[p/][s/]对！
+line:07a88fe,OrymObj_4,VALENTINA: He [i]super[/i] harassed me!,VALENTINA: 他[i]严重地[/i]骚扰了我！
+line:0cb144a,OrymObj_5,"JUDGE: Mr. Cuthbert, I would expect someone of your profession to behave more professionally.",JUDGE: 卡斯伯特先生，我希望以你的身份，行为应当更具专业素养一些。
+line:0a19737,OrymObj_5,I could hear Celeste snickering under her breath.,我都能听见塞莱斯特低声窃笑。
+line:0fe7fc3,OrymObj_5,TYRION: You're enjoying this far too much...,TYRION:你对此表现得太开心了吧……
+line:0ea1ffd,OrymObj_5,"TYRION: A-[p/]Anyways,[p/] please state your name and occupation for the court, Ms. Ianus.",TYRION: 总、[p/]总之，[p/]请向法庭陈述你的姓名和职业，伊努斯女士。
+line:0932a03,OrymObj_5,"VALENTINA: ... [h=""Just calm down.|He can’t prove anything."" e=""f""/]","VALENTINA: ... [h=""冷静，冷静。|他什么都证明不了的。"" e=""f""/]"
+line:01b014b,OrymObj_5,VALENTINA: ...My name is Valentina Ianus.,VALENTINA: ……我叫瓦伦蒂娜·伊努斯。
+line:0f64aff,OrymObj_5,VALENTINA: I'm the head chef at the Wyverngarde Imperial Academy.,VALENTINA: 我是维文加德王国大学院的主厨。
+line:07f4430,OrymObj_5,Judge: Really?[p/] And at such a young age.,Judge: 真的吗？[p/]年纪轻轻就已经是主厨了。
+line:0bc843b,OrymObj_5,"AriaC: As I recall,[p/] you were one of the witnesses who discovered the body.",AriaC: 我没记错的话，[p/]你是发现尸体的其中一人。
+line:0b26024,OrymObj_5,"AriaC: Apparently,[p/] the defense finds your involvement suspect.",AriaC: 目前来看，[p/]辩方认为你的行为有可疑之处。
+line:033f7c9,OrymObj_5,VALENTINA: ...,VALENTINA: ……
+line:00b2ad2,OrymObj_5,"AriaC: Rest assured, Ms. Ianus.",AriaC: 请放松，伊努斯女士。
+line:0b66c69,OrymObj_5,"AriaC: In this courtroom,[p/] you will be protected from Mr. Cuthbert’s “harassment”.",AriaC: 在这间法庭里，[p/]你无需担心卡斯伯特先生的……“骚扰”。
+line:0434b78,OrymObj_5,TYRION: Ugh...,Tyrion: 唉……
+line:0f857db,OrymObj_5,"AriaC: Now,[p/] please testify to the court on what happened that day.",AriaC: 现在，[p/]请就当天发生的事情向法庭作证。
+line:0ffedcf,OrymObj_5,VALENTINA: Y-[p/]Yeah...,VALENTINA: 好、[p/]好的……
+line:0e347de,ValTest,Valentina: I was walking with my sister in the west wing when we noticed something in a nearby classroom.,Valentina: 我当时正和我妹妹在校园西侧散步，突然看到附近的教室里有什么东西。
+line:0b5669a,ValTest,Valentina: We looked over to see what it was.[p/][s/] That's when we saw Ms. Bellwether bleeding on the ground!,Valentina: 我们好奇心作祟，靠近去看到底是什么，[p/][s/]结果竟然是贝尔维瑟教授躺在血泊之中！
+line:0f95290,ValTest,"Valentina: My sister tried her best to help her,[p/] but the professor had already lost a lot of blood...",Valentina: 我妹妹尽全力救助她，[p/]但教授已经失血过多……
+line:0b67097,ValTest,"Valentina: While my sister did that,[p/] I used an emergency communication device to call for help.",Valentina: 与此同时，[p/]我使用学院里的紧急通讯装置来求助。
+line:0df902e,ValTest,"Valentina: But it was too late.[p/] By the time her bleeding stopped,[p/] she’d already lost too much blood...",Valentina: 但已经太迟了，[p/]止住血的时候，[p/]她已经失血太多了……
+line:052970e,ValTest,"CELESTE: Hm...[p/] If your theory is true,[p/] that means she just lied in her testimony.",CELESTE: 嗯……[p/]假设你的推测正确，[p/]那她就在证言中撒了谎。
+line:00c1fc1,ValTest,CELESTE: She’s holding something back.,CELESTE: 她还隐藏了某些事实。
+line:09de345,ValTest,TYRION: She definitely saw more than she’s letting on.,TYRION: 她肯定还看到了还没说出来的东西。
+line:0b2f2e3,ValTest,I just needed to prove that somehow...,我只是得通过某个方式证明它……
 line:0a2a02c,ValTest,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,JUDGE: 卡斯伯特先生，[p/]你可以开始交叉询问了。
-line:02f0ee4,Cross_Val,Valentina: I was walking with my sister in the west wing when we noticed something in a nearby classroom.,
-line:08b0577,Cross_Val,TYRION: Where were you two coming from?,
-line:07fdcc2,Cross_Val,VALENTINA: We came from the kitchen.,
-line:04e57cb,Cross_Val,VALENTINA: We were taking a break after the lunch rush.,
-line:08c2fb8,Cross_Val,"The cafeteria was on the west side of the academy,[p/] so that made sense.",
-line:0dda38b,Cross_Val,"AriaC: What did you see in the classroom, Ms. Ianus?",
-line:0b69d9f,Cross_Val,Valentina: We looked over to see what it was.[p/][s/] That's when we saw Ms. Bellwether bleeding on the ground!,
+line:02f0ee4,Cross_Val,Valentina: I was walking with my sister in the west wing when we noticed something in a nearby classroom.,Valentina: 我当时正和我妹妹在校园西侧散步，突然看到附近的教室里有什么东西。
+line:08b0577,Cross_Val,TYRION: Where were you two coming from?,TYRION: 当时你们是从哪里来的？
+line:07fdcc2,Cross_Val,VALENTINA: We came from the kitchen.,VALENTINA: 我们是从厨房那边过来的。
+line:04e57cb,Cross_Val,VALENTINA: We were taking a break after the lunch rush.,VALENTINA: 午餐的供餐高峰期过后，我们想着去休息一下。
+line:08c2fb8,Cross_Val,"The cafeteria was on the west side of the academy,[p/] so that made sense.",餐厅在学院的西侧，[p/]这个描述是合理的。
+line:0dda38b,Cross_Val,"AriaC: What did you see in the classroom, Ms. Ianus?",AriaC: 伊努斯女士，你在讲堂里发现了什么？
+line:0b69d9f,Cross_Val,Valentina: We looked over to see what it was.[p/][s/] That's when we saw Ms. Bellwether bleeding on the ground!,Valentina: 我们好奇心作祟，靠近去看到底是什么，[p/][s/]结果竟然是贝尔维瑟教授躺在血泊之中！
 line:043c3bd,Cross_Val,TYRION: Did you notice anything else strange in the lecture hall?,
 line:0d25ed8,Cross_Val,"VALENTINA: Well, there [i]was[/i] that terrible smell.",
 line:07d3ee2,Cross_Val,VALENTINA: It was awful.[p/] I almost couldn’t see because of how much I was tearing up.,
 line:0abd70e,Cross_Val,"It makes sense...[p/] Aside from Bellwether,[p/] that smell was the most notable thing in that room.",
 line:0765bee,Cross_Val,It would've been hard to notice anything else.,
-line:0578aa2,Cross_Val,"Valentina: My sister tried her best to help her,[p/] but the professor had already lost a lot of blood...",
+line:0578aa2,Cross_Val,"Valentina: My sister tried her best to help her,[p/] but the professor had already lost a lot of blood...",Valentina: 我妹妹尽全力救助她，[p/]但教授已经失血过多……
 line:0684b81,Cross_Val,She tried to...[p/] “help her”?,
 line:0a36f9c,Cross_Val,TYRION: Ms. Ianus.[p/] How exactly did your sister try to help Ms. Bellwether?,
 line:06f79bf,Cross_Val,"VALENTINA: W-[p/][s/]What? [h=""Agh!|I slipped up!"" e=""f""/]",
@@ -749,7 +749,7 @@ line:0b508cc,Cross_Val,TYRION: Your sister knows how to use a first aid kit?,
 line:0355992,Cross_Val,"VALENTINA: Y-[p/]Yeah,[p/] it was covered in our training when we first started working there.",
 line:0f0279c,Cross_Val,"VALENTINA: With all the nobles around,[p/] I guess the headmaster wanted to make sure we were prepared.",
 line:0932667,Cross_Val,TYRION: Hm...,Tyrion: 嗯……
-line:0b30443,Cross_Val,"Valentina: While my sister did that,[p/] I used an emergency communication device to call for help.",
+line:0b30443,Cross_Val,"Valentina: While my sister did that,[p/] I used an emergency communication device to call for help.",Valentina: 与此同时，[p/]我使用学院里的紧急通讯装置来求助。
 line:0de30f2,Cross_Val,TYRION: A device?,
 line:0766811,Cross_Val,AriaC: It’s a communication device for use in an emergency.,
 line:09af8cf,Cross_Val,TYRION: I see.[p/] So who [i]did[/i] you contact?,
@@ -758,7 +758,7 @@ line:0957775,Cross_Val,VALENTINA: I could hear a lot of people talking on the ot
 line:0609c7e,Cross_Val,AriaC: That particular device broadcasts to the headmaster’s office and the City Watch Barracks.,
 line:0372d19,Cross_Val,AriaC: I imagine that’s why the headmaster was able to activate the lockdown so quickly.,
 line:0f089d6,Cross_Val,TYRION: I see.,
-line:0ebf266,Cross_Val,"Valentina: But it was too late.[p/] By the time her bleeding stopped,[p/] she’d already lost too much blood...",
+line:0ebf266,Cross_Val,"Valentina: But it was too late.[p/] By the time her bleeding stopped,[p/] she’d already lost too much blood...",Valentina: 但已经太迟了，[p/]止住血的时候，[p/]她已经失血太多了……
 line:06b4587,Cross_Val,TYRION: I see.[p/] That must have been a difficult experience for both of you.,
 line:0ff676e,Cross_Val,VALENTINA: It was especially hard on my sister.,
 line:06e2c70,Cross_Val,VALENTINA: I think she blames herself for not being able to save her.,

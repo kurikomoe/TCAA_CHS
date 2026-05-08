@@ -5406,7 +5406,7 @@
   {
     "key": "C1 Dialogue.csv::translation::87b341515f93f0f4",
     "original": "AriaC: Witness,[p/] please state your name and occupation for the court.",
-    "translation": "AriaC: 证人，[p/]请向法庭陈述你的姓名与职业。",
+    "translation": "AriaC: 证人，[p/]请向法庭告知你的姓名与职业。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:0b4efa0\",\n  \"node\": \"CallOrym\",\n  \"text\": \"AriaC: Witness,[p/] please state your name and occupation for the court.\"\n}"
   },
@@ -16921,7 +16921,7 @@
   {
     "key": "C1 Dialogue.csv::translation::441bd7803ec2813e",
     "original": "Judge: Witness,[p/] please state your name and occupation for the court.",
-    "translation": "Judge: 证人，[p/]请向法庭陈述你的姓名与职业。",
+    "translation": "Judge: 证人，[p/]请向法庭告知你的姓名与职业。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:077b59a\",\n  \"node\": \"Trial2c\",\n  \"text\": \"Judge: Witness,[p/] please state your name and occupation for the court.\"\n}"
   },

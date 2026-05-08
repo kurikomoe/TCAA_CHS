@@ -4335,603 +4335,603 @@
   {
     "key": "C2 Dialogue.csv::translation::ea7cd27fc54fadbc",
     "original": "AriaC: Your honor,[p/] it appears that the defense is admitting defeat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 法官阁下，[p/]看起来辩方已然自承其败。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ba3210\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"AriaC: Your honor,[p/] it appears that the defense is admitting defeat.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::498bbfa25234c3d3",
     "original": "AriaC: [b]Necrotic Blight[/b] is the only spell that would have left that trace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: [b]索命咒[/b]是唯一能留下那种痕迹的法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:008861e\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"AriaC: [b]Necrotic Blight[/b] is the only spell that would have left that trace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::affcee15a96957d1",
     "original": "Tyrion: W-[p/]Wait...[p/][s/] That was a mistake!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等、[p/]等下……[p/][s/]我搞错了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05422df\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Tyrion: W-[p/]Wait...[p/][s/] That was a mistake!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d24e59b1a7e9f89e",
     "original": "Tyrion: I meant to present a [i]different[/i] spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我本来想出示[i]另一个[/i]法术的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07d03dd\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Tyrion: I meant to present a [i]different[/i] spell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e1687cbf939ec715",
     "original": "Judge: Um...[p/] What is this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 嗯……[p/]这是什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0046962\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Judge: Um...[p/] What is this?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4038d322b33e1532",
     "original": "Tyrion: [i]This[/i] is what left the trace of [b]necromancy[/b] at the crime scene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: [i]这[/i]就是能在现场留下[b]死灵术[/b]痕迹的东西！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08544ad\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Tyrion: [i]This[/i] is what left the trace of [b]necromancy[/b] at the crime scene.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a9829573637ee87a",
     "original": "AriaC: I fail to see how [i]that[/i] could leave a trace of [b]necromancy[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我可看不出来[i]那个法术[/i]怎么能留下[b]死灵术[/b]的痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0484dcd\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"AriaC: I fail to see how [i]that[/i] could leave a trace of [b]necromancy[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6181fdc6f7b5f98c",
     "original": "Tyrion: O-[p/]Oh,[p/] I guess you're right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 啊、[p/]哦……[p/]好像是这样的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:094c9bb\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Tyrion: O-[p/]Oh,[p/] I guess you're right.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dfd7b59c425cc555",
     "original": "Tyrion: [i]However[/i],[p/][s/] [i]that's[/i] not the spell I was speaking of!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: [i]话说回来[/i]，[p/][s/]我要说的不是[i]这个[/i]法术！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a5b97\",\n  \"node\": \"OrymObj_1\",\n  \"text\": \"Tyrion: [i]However[/i],[p/][s/] [i]that's[/i] not the spell I was speaking of!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d17500456e03876f",
     "original": "JUDGE: [b]Mend Wounds[/b]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: [b]疗愈术[/b]？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0426475\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"JUDGE: [b]Mend Wounds[/b]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c018edad7a94938c",
     "original": "JUDGE: Correct me if I’m wrong,[p/] but isn’t that a healing spell?",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 那不是个治愈法术吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0af01e5\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"JUDGE: Correct me if I’m wrong,[p/] but isn’t that a healing spell?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4ff15519ede8d98f",
     "original": "TYRION: That’s correct, Your Honor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 没错，法官阁下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ef365f\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"TYRION: That’s correct, Your Honor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c6f1b176d69afe56",
     "original": "TYRION: Spells from the school of [b]necromancy[/b] can control the forces of death [i]and[/i] life!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: [b]死灵术[/b]能够控制生死之力！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0814a4c\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"TYRION: Spells from the school of [b]necromancy[/b] can control the forces of death [i]and[/i] life!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe1c6e8676711be1",
     "original": "TYRION: [b]Mend Wounds[/b] is, in fact, a [b]necromancy[/b] spell!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 实际上，[b]疗愈术[/b]也是[b]死灵术[/b]的一种！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a6fabb\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"TYRION: [b]Mend Wounds[/b] is, in fact, a [b]necromancy[/b] spell!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9ccc44f3b8e784b6",
     "original": "JUDGE: Really, now?[p/] I wasn't aware of this...",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 真的吗？[p/]这我确实不清楚……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e91ed7\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"JUDGE: Really, now?[p/] I wasn't aware of this...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c248d174650dee62",
     "original": "TYRION: [i]Now[/i] I’d like the court to consider the following...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我[i]现在[/i]向法庭提出以下可能性……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eea11b\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"TYRION: [i]Now[/i] I’d like the court to consider the following...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8c6d60c97c79530b",
     "original": "TYRION: What would happen if Bellwether was wounded,[p/] and someone attempted to heal her using [b]Mend Wounds[/b]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 如果贝尔维瑟身受重伤，[p/]有人试着用[b]疗愈术[/b]治愈她的伤口会怎样？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:074b925\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"TYRION: What would happen if Bellwether was wounded,[p/] and someone attempted to heal her using [b]Mend Wounds[/b]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8762a4cdc65fb11",
     "original": "TYRION: All of her wounds would disappear from her body!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她身体上的所有外伤都会消失！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e0be9b\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"TYRION: All of her wounds would disappear from her body!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea622368f879c441",
     "original": "JUDGE: I see...[p/] That [i]does[/i] make sense!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 我明白了……[p/]这[i]确实[/i]说得通！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0172df5\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"JUDGE: I see...[p/] That [i]does[/i] make sense!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea046a08f6118ab4",
     "original": "AriaC: ...Do you think I'm that incompetent, Mr. Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 卡斯伯特先生……你真觉得我那么无能吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aa44a2\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"AriaC: ...Do you think I'm that incompetent, Mr. Cuthbert?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0400c38d7c40969c",
     "original": "AriaC: Frankly,[p/] I'm a little insulted.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 老实说，[p/]我觉得有点被冒犯到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:043c3ca\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"AriaC: Frankly,[p/] I'm a little insulted.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::00caf5d12aa346ee",
     "original": "AriaC: The Inquisition is well aware of what happens when a mage attempts to save a victim using [b]Mend Wounds[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 裁判所当然也早就注意到这种可能性。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07c9f5d\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"AriaC: The Inquisition is well aware of what happens when a mage attempts to save a victim using [b]Mend Wounds[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0493d351acd14589",
     "original": "AriaC: The healers that arrived at the scene already confirmed that the victim was long dead.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 治愈师到现场的时候就立刻确认，受害者已经死亡多时。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0502b33\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"AriaC: The healers that arrived at the scene already confirmed that the victim was long dead.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f62d32ec39cb1844",
     "original": "AriaC: None of them attempted to heal her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 没有人尝试过疗愈她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ce4e1e\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"AriaC: None of them attempted to heal her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e2238a3e4fc158cc",
     "original": "Tyrion: ...Well,[p/] what if someone tried to heal her and didn't report it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……那，[p/]如果有人偷偷治疗过她还向裁判所隐瞒事实呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0395517\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"Tyrion: ...Well,[p/] what if someone tried to heal her and didn't report it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1d7bfe3e257a72a9",
     "original": "AriaC: Please.[p/] None of the healers would have anything to gain by doing so.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 得了吧，[p/]那么做有什么好处？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e3ad75\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"AriaC: Please.[p/] None of the healers would have anything to gain by doing so.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9db880eb02a89d59",
     "original": "AriaC: In fact,[p/] as a necromancer,[p/] the defendant could have easily carried out the described scenario.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 实际上，[p/]作为死灵法师，[p/]被告可以很轻松的实施以下计划。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:049ce09\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"AriaC: In fact,[p/] as a necromancer,[p/] the defendant could have easily carried out the described scenario.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4aa0c5db0ac559be",
     "original": "AriaC: He could have cast [b]Mend Wounds[/b] on the victim after murdering her to confound the investigation!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 他可以先杀掉受害者，再对其释放[b]疗愈术[/b]来混淆调查。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aaa9bd\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"AriaC: He could have cast [b]Mend Wounds[/b] on the victim after murdering her to confound the investigation!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::99222f0cab8cc3cc",
     "original": "At the end of the day,[p/] the burden of proof was on us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在今日的结尾，[p/]立证的压力来到了我们这边。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b73193\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"At the end of the day,[p/] the burden of proof was on us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6db5960ac8c0b72b",
     "original": "But if I could prove someone else healed the body,[p/] I would sever the only thread linking Wallace to the murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但只要我证明有他人对尸体施放过疗愈术，[p/]我就能切断唯一将华莱士与真凶相联系的线索。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0276329\",\n  \"node\": \"OrymObj_2\",\n  \"text\": \"But if I could prove someone else healed the body,[p/] I would sever the only thread linking Wallace to the murder.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::090339a7619f60c3",
     "original": "Whoever this healer was...[p/] Valentina definitely knew her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不论那个人是谁……[p/]瓦伦蒂娜肯定认识。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b8b6e6\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"Whoever this healer was...[p/] Valentina definitely knew her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f78332d6924f3e50",
     "original": "TYRION: Your Honor.[p/] I will admit that I don’t have any evidence to support my theory.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 法官阁下。[p/]我承认目前没有足够的证据来支撑我的理论。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c4c610\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"TYRION: Your Honor.[p/] I will admit that I don’t have any evidence to support my theory.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::57353a762059fca6",
     "original": "TYRION: However,[p/] I [i]do[/i] believe that we can bring it to light.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但是，[p/]我有自信[i]能够[/i]证明我的猜想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f49a96\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"TYRION: However,[p/] I [i]do[/i] believe that we can bring it to light.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5f16a1776679150",
     "original": "TYRION: There may have been [i]two[/i] people that witnessed someone cast magic on the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 有[i]两位[/i]目击证人看到了有人在对尸体施法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b5270d\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"TYRION: There may have been [i]two[/i] people that witnessed someone cast magic on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::12f2b4890218ae8f",
     "original": "TYRION: Valentina and Valerie Ianus:[p/][s/] the sisters who discovered the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 瓦伦蒂娜·伊努斯和瓦莱丽·伊努斯[p/][s/]——发现尸体的一对姐妹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e37648\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"TYRION: Valentina and Valerie Ianus:[p/][s/] the sisters who discovered the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c1fbdf7369ee4bfe",
     "original": "AriaC: ...This is nonsense.[p/] We’ve already questioned those two witnesses extensively.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……这没道理，[p/]我们已经严格审讯过这两位目击证人了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0be4cbc\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"AriaC: ...This is nonsense.[p/] We’ve already questioned those two witnesses extensively.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7f866fe4dc4c6698",
     "original": "AriaC: If they [i]had[/i] witnessed something like that,[p/] it would have come up in their testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 如果[i]真的[/i]看到了什么，[p/]她们会在审讯时告诉我们的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09d7323\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"AriaC: If they [i]had[/i] witnessed something like that,[p/] it would have come up in their testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6bda7f58adef4701",
     "original": "TYRION: If that’s true,[p/] then the courts have nothing to lose by hearing their testimonies.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 如果真如你所说，[p/]那么法庭现在再听一遍她们的证词也未尝不可。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01ed61a\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"TYRION: If that’s true,[p/] then the courts have nothing to lose by hearing their testimonies.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::88b9b993b412dd6a",
     "original": "AriaC: Very well.[p/] If you’re so confident,[p/] let’s hear her testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 好吧，[p/]既然你如此胸有成竹，[p/]那就让我们听听她们的证言。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0607bec\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"AriaC: Very well.[p/] If you’re so confident,[p/] let’s hear her testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5d9d615375bcbe7e",
     "original": "JUDGE: It seems the prosecution has no objections.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 看来检方没有异议。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eab4a5\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"JUDGE: It seems the prosecution has no objections.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7f306724a8233adc",
     "original": "JUDGE: If this line of questioning leads nowhere, however,[p/] I see no reason to further prolong this trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 不过……[p/]如果此次传唤没能提供有价值的线索，[p/]我认为此案的审理就可以在此结束了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0834ccd\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"JUDGE: If this line of questioning leads nowhere, however,[p/] I see no reason to further prolong this trial.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1ebd934e11dde8b8",
     "original": "TYRION: ...Of course, Your Honor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……当然，法官阁下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:099ba9b\",\n  \"node\": \"OrymObj_3\",\n  \"text\": \"TYRION: ...Of course, Your Honor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a2fd7857399d122f",
     "original": "VALENTINA: ...! [h=\"Oh, crap!|It’s that guy from before!\" e=\"f\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: ……！[h=\"糟了！是之前那个难办的家伙！\" e=\"f\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eebdf0\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"VALENTINA: ...! [h=\\\"Oh, crap!|It’s that guy from before!\\\" e=\\\"f\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6e59b88c61642cde",
     "original": "VALENTINA: ... [h=\"What?!|He's the necromancer’s lawyer?!\" e=\"f\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: …… [h=\"什么？！|他是那个死灵法师的律师？！\" e=\"f\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e6be09\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"VALENTINA: ... [h=\\\"What?!|He's the necromancer’s lawyer?!\\\" e=\\\"f\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9324665c20cd2496",
     "original": "She just arrived at the stand,[p/] and she was already stressed out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她一站上证人席，[p/]就显得非常紧张。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d78db3\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"She just arrived at the stand,[p/] and she was already stressed out.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::099d6adb6ad4daa0",
     "original": "That would work in my favor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这帮得上我的忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0abeac3\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"That would work in my favor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::87b341515f93f0f4",
     "original": "AriaC: Witness,[p/] please state your name and occupation for the court.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 证人，[p/]请向法庭告知你的姓名与职业。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f7b6d9\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"AriaC: Witness,[p/] please state your name and occupation for the court.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::413ee26c6f0a2436",
     "original": "VALENTINA: U-[p/]Um...[p/] My name?",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 啊、[p/]唔……[p/]我的姓名？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0149167\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"VALENTINA: U-[p/]Um...[p/] My name?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d88d94d4d199bfb3",
     "original": "AriaC: Witness,[p/] there’s no need to be so nervous.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 证人，[p/]你无需这么紧张。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f85445\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"AriaC: Witness,[p/] there’s no need to be so nervous.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2e49811d61bc29ff",
     "original": "AriaC: We merely want to hear about what you saw on the day of the murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我们只是想听你说一说凶杀案当天发生了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02db16e\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"AriaC: We merely want to hear about what you saw on the day of the murder.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f619bbbc82007122",
     "original": "VALENTINA: R-[p/]Right.[p/] I-[p/]it’s just that guy over there.[p/] He...",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 啊、[p/]啊哈哈……[p/]我知道了，[p/]就是那边那个家伙让我有点……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f0156c\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"VALENTINA: R-[p/]Right.[p/] I-[p/]it’s just that guy over there.[p/] He...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d685c6abc3f28a48",
     "original": "AriaC: Are you talking about Mr. Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你是指卡斯伯特先生？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0766e45\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"AriaC: Are you talking about Mr. Cuthbert?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::35a0347f6a7405d4",
     "original": "AriaC: ...Did this man harass you, witness?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……证人，这个男人有骚扰你吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0686ade\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"AriaC: ...Did this man harass you, witness?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a08278b10323eef4",
     "original": "TYRION: W-[p/]Wait a minute...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 等、[p/]等下……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d78382\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"TYRION: W-[p/]Wait a minute...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8bb3f41690d27d75",
     "original": "VALENTINA: U-[p/][s/]Um...[p/][s/] Yeah!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 唔、[p/][s/]唔……[p/][s/]对！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02cd8a9\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"VALENTINA: U-[p/][s/]Um...[p/][s/] Yeah!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::de1e6ea81ae99521",
     "original": "VALENTINA: He [i]super[/i] harassed me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 他[i]严重地[/i]骚扰了我！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a88fe\",\n  \"node\": \"OrymObj_4\",\n  \"text\": \"VALENTINA: He [i]super[/i] harassed me!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::42a8cf2326a53e96",
     "original": "JUDGE: Mr. Cuthbert, I would expect someone of your profession to behave more professionally.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 卡斯伯特先生，我希望以你的身份，行为应当更具专业素养一些。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cb144a\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"JUDGE: Mr. Cuthbert, I would expect someone of your profession to behave more professionally.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4df8e5bc84b49355",
     "original": "I could hear Celeste snickering under her breath.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我都能听见塞莱斯特低声窃笑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a19737\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"I could hear Celeste snickering under her breath.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fb5c5eccddf0d1f1",
     "original": "TYRION: You're enjoying this far too much...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION:你对此表现得太开心了吧……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fe7fc3\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"TYRION: You're enjoying this far too much...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::691f77bcd6407bc5",
     "original": "TYRION: A-[p/]Anyways,[p/] please state your name and occupation for the court, Ms. Ianus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 总、[p/]总之，[p/]请向法庭陈述你的姓名和职业，伊努斯女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ea1ffd\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"TYRION: A-[p/]Anyways,[p/] please state your name and occupation for the court, Ms. Ianus.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::87f2d86736d96b87",
     "original": "VALENTINA: ... [h=\"Just calm down.|He can’t prove anything.\" e=\"f\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: ... [h=\"冷静，冷静。|他什么都证明不了的。\" e=\"f\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0932a03\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"VALENTINA: ... [h=\\\"Just calm down.|He can’t prove anything.\\\" e=\\\"f\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7be5a603d0d835f6",
     "original": "VALENTINA: ...My name is Valentina Ianus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: ……我叫瓦伦蒂娜·伊努斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01b014b\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"VALENTINA: ...My name is Valentina Ianus.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3916db3e30695691",
     "original": "VALENTINA: I'm the head chef at the Wyverngarde Imperial Academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我是维文加德王国大学院的主厨。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f64aff\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"VALENTINA: I'm the head chef at the Wyverngarde Imperial Academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8b5c332bc247a895",
     "original": "Judge: Really?[p/] And at such a young age.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 真的吗？[p/]年纪轻轻就已经是主厨了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07f4430\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"Judge: Really?[p/] And at such a young age.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d5d1b6e18207bbc6",
     "original": "AriaC: As I recall,[p/] you were one of the witnesses who discovered the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我没记错的话，[p/]你是发现尸体的其中一人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bc843b\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"AriaC: As I recall,[p/] you were one of the witnesses who discovered the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::27e5013ab8c4b46f",
     "original": "AriaC: Apparently,[p/] the defense finds your involvement suspect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 目前来看，[p/]辩方认为你的行为有可疑之处。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b26024\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"AriaC: Apparently,[p/] the defense finds your involvement suspect.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fa6aaae3a51158dd",
     "original": "VALENTINA: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:033f7c9\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"VALENTINA: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b2ba25111b229aef",
     "original": "AriaC: Rest assured, Ms. Ianus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 请放松，伊努斯女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00b2ad2\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"AriaC: Rest assured, Ms. Ianus.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::560e84bf88d9412f",
     "original": "AriaC: In this courtroom,[p/] you will be protected from Mr. Cuthbert’s “harassment”.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 在这间法庭里，[p/]你无需担心卡斯伯特先生的……“骚扰”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b66c69\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"AriaC: In this courtroom,[p/] you will be protected from Mr. Cuthbert’s “harassment”.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be57722d29d9cdfd",
     "original": "TYRION: Ugh...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 唉……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0434b78\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"TYRION: Ugh...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f7cbe9e483fae207",
     "original": "AriaC: Now,[p/] please testify to the court on what happened that day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 现在，[p/]请就当天发生的事情向法庭作证。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f857db\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"AriaC: Now,[p/] please testify to the court on what happened that day.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b6f25ac9222698eb",
     "original": "VALENTINA: Y-[p/]Yeah...",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 好、[p/]好的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ffedcf\",\n  \"node\": \"OrymObj_5\",\n  \"text\": \"VALENTINA: Y-[p/]Yeah...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4efe7eca513f3be3",
     "original": "Valentina: I was walking with my sister in the west wing when we noticed something in a nearby classroom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我当时正和我妹妹在校园西侧散步，突然看到附近的教室里有什么东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e347de\",\n  \"node\": \"ValTest\",\n  \"text\": \"Valentina: I was walking with my sister in the west wing when we noticed something in a nearby classroom.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::970db8ca5fe2de04",
     "original": "Valentina: We looked over to see what it was.[p/][s/] That's when we saw Ms. Bellwether bleeding on the ground!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我们好奇心作祟，靠近去看到底是什么，[p/][s/]结果竟然是贝尔维瑟教授躺在血泊之中！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b5669a\",\n  \"node\": \"ValTest\",\n  \"text\": \"Valentina: We looked over to see what it was.[p/][s/] That's when we saw Ms. Bellwether bleeding on the ground!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::87ced155a4e2ed24",
     "original": "Valentina: My sister tried her best to help her,[p/] but the professor had already lost a lot of blood...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我妹妹尽全力救助她，[p/]但教授已经失血过多……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f95290\",\n  \"node\": \"ValTest\",\n  \"text\": \"Valentina: My sister tried her best to help her,[p/] but the professor had already lost a lot of blood...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7a02313b676007d1",
     "original": "Valentina: While my sister did that,[p/] I used an emergency communication device to call for help.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 与此同时，[p/]我使用学院里的紧急通讯装置来求助。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b67097\",\n  \"node\": \"ValTest\",\n  \"text\": \"Valentina: While my sister did that,[p/] I used an emergency communication device to call for help.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::153f22c3e6011005",
     "original": "Valentina: But it was too late.[p/] By the time her bleeding stopped,[p/] she’d already lost too much blood...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 但已经太迟了，[p/]止住血的时候，[p/]她已经失血太多了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0df902e\",\n  \"node\": \"ValTest\",\n  \"text\": \"Valentina: But it was too late.[p/] By the time her bleeding stopped,[p/] she’d already lost too much blood...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8634c8261298d6d5",
     "original": "CELESTE: Hm...[p/] If your theory is true,[p/] that means she just lied in her testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 嗯……[p/]假设你的推测正确，[p/]那她就在证言中撒了谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:052970e\",\n  \"node\": \"ValTest\",\n  \"text\": \"CELESTE: Hm...[p/] If your theory is true,[p/] that means she just lied in her testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d28c7e83f340395e",
     "original": "CELESTE: She’s holding something back.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 她还隐藏了某些事实。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00c1fc1\",\n  \"node\": \"ValTest\",\n  \"text\": \"CELESTE: She’s holding something back.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::597b7596c2156a37",
     "original": "TYRION: She definitely saw more than she’s letting on.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她肯定还看到了还没说出来的东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09de345\",\n  \"node\": \"ValTest\",\n  \"text\": \"TYRION: She definitely saw more than she’s letting on.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2ca2e69604327ae2",
     "original": "I just needed to prove that somehow...",
-    "translation": "",
-    "stage": 0,
+    "translation": "我只是得通过某个方式证明它……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b2f2e3\",\n  \"node\": \"ValTest\",\n  \"text\": \"I just needed to prove that somehow...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9b6d8cccc8cbcfd3",
     "original": "TYRION: Where were you two coming from?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 当时你们是从哪里来的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b0577\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"TYRION: Where were you two coming from?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5bba6871f3df0c79",
     "original": "VALENTINA: We came from the kitchen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我们是从厨房那边过来的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07fdcc2\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: We came from the kitchen.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04387c688a87212f",
     "original": "VALENTINA: We were taking a break after the lunch rush.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 午餐的供餐高峰期过后，我们想着去休息一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04e57cb\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"VALENTINA: We were taking a break after the lunch rush.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::712a582173e6fbe0",
     "original": "The cafeteria was on the west side of the academy,[p/] so that made sense.",
-    "translation": "",
-    "stage": 0,
+    "translation": "餐厅在学院的西侧，[p/]这个描述是合理的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08c2fb8\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"The cafeteria was on the west side of the academy,[p/] so that made sense.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ae5945c22bd6075c",
     "original": "AriaC: What did you see in the classroom, Ms. Ianus?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 伊努斯女士，你在讲堂里发现了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dda38b\",\n  \"node\": \"Cross_Val\",\n  \"text\": \"AriaC: What did you see in the classroom, Ms. Ianus?\"\n}"
   },
   {
