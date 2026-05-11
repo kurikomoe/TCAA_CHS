@@ -4580,7 +4580,7 @@
   {
     "key": "C2 Dialogue.csv::translation::ee1463754c419b2c",
     "original": "VALENTINA: ...?! [h=\"How did he|figure it out?!\" e=\"fa\"/]",
-    "translation": "VALENTINA: .……？！ [h=\"他怎么发现的？！\" e=\"fa\"/]",
+    "translation": "VALENTINA: .……？！ [h=\"他是怎么|发现这点的？！\" e=\"fa\"/]",
     "context": "{\n  \"id\": \"line:0eb7c53\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"VALENTINA: ...?! [h=\\\"How did he|figure it out?!\\\" e=\\\"fa\\\"/]\"\n}"
   },
   {
@@ -4610,79 +4610,79 @@
   {
     "key": "C2 Dialogue.csv::translation::7e142512812fb491",
     "original": "TYRION: ...What?!",
-    "translation": "",
+    "translation": "TYRION: ……怎么会？！",
     "context": "{\n  \"id\": \"line:04d29e4\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"TYRION: ...What?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bbe6f3f68e38995a",
     "original": "TYRION: W-[p/]Wait...[p/] How can you be so sure?",
-    "translation": "",
+    "translation": "TYRION: 等、[p/]等等……[p/]你怎么能这么确信？",
     "context": "{\n  \"id\": \"line:0636716\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"TYRION: W-[p/]Wait...[p/] How can you be so sure?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f63302cb4f19eaa",
     "original": "AriaC: During the investigation,[p/] we had both the Ianus sisters attune to a [b]Spell Compendium[/b].",
-    "translation": "",
+    "translation": "AriaC: 在调查期间[p/]我们让姐妹两个都与[b]法术汇编[/b]调谐。",
     "context": "{\n  \"id\": \"line:02ae261\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"AriaC: During the investigation,[p/] we had both the Ianus sisters attune to a [b]Spell Compendium[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::81e9c6b8d8621d05",
     "original": "AriaC: It’s standard procedure for the Inquisition when interviewing witnesses.",
-    "translation": "",
+    "translation": "AriaC: 这是裁判所在询问证人前的标准程序。",
     "context": "{\n  \"id\": \"line:0501ffc\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"AriaC: It’s standard procedure for the Inquisition when interviewing witnesses.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3becf632449e9a34",
     "original": "Tyrion: T-[p/]Then that means...",
-    "translation": "",
+    "translation": "Tyrion: 那、[p/]那就是说……",
     "context": "{\n  \"id\": \"line:0ae8542\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"Tyrion: T-[p/]Then that means...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::39e39a973419cf7e",
     "original": "AriaC: Neither of the Ianus sisters could attune to a [b]Compendium[/b]!",
-    "translation": "",
+    "translation": "AriaC: 伊努斯姐妹两个都无法与[b]汇编[/b]绑定！",
     "context": "{\n  \"id\": \"line:03aac32\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"AriaC: Neither of the Ianus sisters could attune to a [b]Compendium[/b]!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c5194d68e9d3af8f",
     "original": "VALENTINA: H-[p/][s/]Ha![p/][s/] T-[p/][s/]That’s right![p/][s/] The Inquisition checked us both!",
-    "translation": "",
+    "translation": "VALENTINA: 呵、[p/][s/]哈哈！[p/][s/]没、[p/][s/]没错！[p/][s/]裁判所已经检查过我们两个了！",
     "context": "{\n  \"id\": \"line:070c63c\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"VALENTINA: H-[p/][s/]Ha![p/][s/] T-[p/][s/]That’s right![p/][s/] The Inquisition checked us both!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dee4e7dc0eee6452",
     "original": "VALENTINA: We're [i]not[/i] mages! [h=\"That was close...\" e=\"f\"/]",
-    "translation": "",
+    "translation": "VALENTINA: 我们[i]就不是[/i]法师！[h=\"好险……\" e=\"f\"/]",
     "context": "{\n  \"id\": \"line:0ac0ea8\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"VALENTINA: We're [i]not[/i] mages! [h=\\\"That was close...\\\" e=\\\"f\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9506f035e6a836af",
     "original": "Was I wrong about Valerie being a mage?",
-    "translation": "",
+    "translation": "我对瓦莱丽是法师的判断是错误的吗？",
     "context": "{\n  \"id\": \"line:071ec4f\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"Was I wrong about Valerie being a mage?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be5bd86e84716bfb",
     "original": "No...[p/] That couldn’t be right.",
-    "translation": "",
+    "translation": "不可能……[p/]不可能是这样的。",
     "context": "{\n  \"id\": \"line:01599a2\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"No...[p/] That couldn’t be right.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ca253727de199a5d",
     "original": "VALENTINA: ...?! [h=\"How did he|figure it out?!\"/]",
-    "translation": "",
+    "translation": "VALENTINA: .……？！ [h=\"他是怎么|发现这点的？！\"/]",
     "context": "{\n  \"id\": \"line:06fb249\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"VALENTINA: ...?! [h=\\\"How did he|figure it out?!\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ac33c0ce40d42ace",
     "original": "Her thoughts said, “How did he figure it out?!”.[p/] That meant that I [i]was[/i] on the right track.",
-    "translation": "",
+    "translation": "她的想法显示，“他是怎么发现这点的？！”[p/]这只意味着我[i]就在[/i]正确的道路上。",
     "context": "{\n  \"id\": \"line:0b2fb0c\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"Her thoughts said, “How did he figure it out?!”.[p/] That meant that I [i]was[/i] on the right track.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::171aa78203c0ea3c",
     "original": "Valerie [i]had[/i] to be the mage I was looking for.",
-    "translation": "",
+    "translation": "瓦莱丽[i]只能是[/i]我一直在找的那名法师。",
     "context": "{\n  \"id\": \"line:04d04f8\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"Valerie [i]had[/i] to be the mage I was looking for.\"\n}"
   },
   {

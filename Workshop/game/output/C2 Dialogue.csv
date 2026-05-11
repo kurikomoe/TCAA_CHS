@@ -799,25 +799,25 @@ line:0bc0d5d,ValObj_1,"If the wounds disappeared after the twins discovered the 
 line:0fefd22,ValObj_1,"TYRION: The witness [i]was[/i] lying, Your Honor...[p/] But not about everything.",TYRION: 法官阁下，这位证人[i]是[/i]有说谎……[p/]但不都是。
 line:0219ebb,ValObj_1,TYRION: Valerie Ianus [i]did[/i] try to save the victim's life by addressing her wounds.,TYRION: 瓦莱丽·伊努斯[i]确实有[/i]尝试处理被害人的伤口来挽救她的性命。
 line:097fed3,ValObj_1,TYRION: But she didn’t use first aid...[p/][s/] She used magic!,TYRION: 但用的不是急救包……[p/][s/]而是使用了魔法！
-line:0eb7c53,ValObj_1,"VALENTINA: ...?! [h=""How did he|figure it out?!"" e=""fa""/]","VALENTINA: .……？！ [h=""他怎么发现的？！"" e=""fa""/]"
+line:0eb7c53,ValObj_1,"VALENTINA: ...?! [h=""How did he|figure it out?!"" e=""fa""/]","VALENTINA: .……？！ [h=""他是怎么|发现这点的？！"" e=""fa""/]"
 line:0441c2c,ValObj_1,"AriaC: I'm sorry, Mr. Cuthbert,[p/] but your theory is completely flawed.",AriaC: 抱歉，卡斯伯特先生。[p/]但你的推论漏洞百出。
 line:0ba409a,ValObj_1,"TYRION: ...How so, Steelwind?",TYRION: ……为什么呢，斯蒂尔文德？
 line:09c10db,ValObj_1,"AriaC: Well,[p/] it’s quite simple.",AriaC: 这个嘛，[p/]其实很简单。
 line:0263a77,ValObj_1,AriaC: We’ve already verified that neither of the sisters is a mage.,AriaC: 我们已经证实，她们两姐妹都不是法师。
 line:055284b,ValObj_1,Tyrion: ...,Tyrion: ……
-line:04d29e4,ValObj_1,TYRION: ...What?!,
-line:0636716,ValObj_1,TYRION: W-[p/]Wait...[p/] How can you be so sure?,
-line:02ae261,ValObj_1,"AriaC: During the investigation,[p/] we had both the Ianus sisters attune to a [b]Spell Compendium[/b].",
-line:0501ffc,ValObj_1,AriaC: It’s standard procedure for the Inquisition when interviewing witnesses.,
-line:0ae8542,ValObj_1,Tyrion: T-[p/]Then that means...,
-line:03aac32,ValObj_1,AriaC: Neither of the Ianus sisters could attune to a [b]Compendium[/b]!,
-line:070c63c,ValObj_1,VALENTINA: H-[p/][s/]Ha![p/][s/] T-[p/][s/]That’s right![p/][s/] The Inquisition checked us both!,
-line:0ac0ea8,ValObj_1,"VALENTINA: We're [i]not[/i] mages! [h=""That was close..."" e=""f""/]",
-line:071ec4f,ValObj_1,Was I wrong about Valerie being a mage?,
-line:01599a2,ValObj_1,No...[p/] That couldn’t be right.,
-line:06fb249,ValObj_2,"VALENTINA: ...?! [h=""How did he|figure it out?!""/]",
-line:0b2fb0c,ValObj_2,"Her thoughts said, “How did he figure it out?!”.[p/] That meant that I [i]was[/i] on the right track.",
-line:04d04f8,ValObj_2,Valerie [i]had[/i] to be the mage I was looking for.,
+line:04d29e4,ValObj_1,TYRION: ...What?!,TYRION: ……怎么会？！
+line:0636716,ValObj_1,TYRION: W-[p/]Wait...[p/] How can you be so sure?,TYRION: 等、[p/]等等……[p/]你怎么能这么确信？
+line:02ae261,ValObj_1,"AriaC: During the investigation,[p/] we had both the Ianus sisters attune to a [b]Spell Compendium[/b].",AriaC: 在调查期间[p/]我们让姐妹两个都与[b]法术汇编[/b]调谐。
+line:0501ffc,ValObj_1,AriaC: It’s standard procedure for the Inquisition when interviewing witnesses.,AriaC: 这是裁判所在询问证人前的标准程序。
+line:0ae8542,ValObj_1,Tyrion: T-[p/]Then that means...,Tyrion: 那、[p/]那就是说……
+line:03aac32,ValObj_1,AriaC: Neither of the Ianus sisters could attune to a [b]Compendium[/b]!,AriaC: 伊努斯姐妹两个都无法与[b]汇编[/b]绑定！
+line:070c63c,ValObj_1,VALENTINA: H-[p/][s/]Ha![p/][s/] T-[p/][s/]That’s right![p/][s/] The Inquisition checked us both!,VALENTINA: 呵、[p/][s/]哈哈！[p/][s/]没、[p/][s/]没错！[p/][s/]裁判所已经检查过我们两个了！
+line:0ac0ea8,ValObj_1,"VALENTINA: We're [i]not[/i] mages! [h=""That was close..."" e=""f""/]","VALENTINA: 我们[i]就不是[/i]法师！[h=""好险……"" e=""f""/]"
+line:071ec4f,ValObj_1,Was I wrong about Valerie being a mage?,我对瓦莱丽是法师的判断是错误的吗？
+line:01599a2,ValObj_1,No...[p/] That couldn’t be right.,不可能……[p/]不可能是这样的。
+line:06fb249,ValObj_2,"VALENTINA: ...?! [h=""How did he|figure it out?!""/]","VALENTINA: .……？！ [h=""他是怎么|发现这点的？！""/]"
+line:0b2fb0c,ValObj_2,"Her thoughts said, “How did he figure it out?!”.[p/] That meant that I [i]was[/i] on the right track.",她的想法显示，“他是怎么发现这点的？！”[p/]这只意味着我[i]就在[/i]正确的道路上。
+line:04d04f8,ValObj_2,Valerie [i]had[/i] to be the mage I was looking for.,瓦莱丽[i]只能是[/i]我一直在找的那名法师。
 line:056e1a5,ValObj_2,TYRION: Celeste.[p/] Is it possible for a mage to hold a [b]Spell Compendium[/b] and avoid attuning to it?,
 line:01457a5,ValObj_2,CELESTE: No...[p/] It just needs to be on their person.,
 line:0c9ddbc,ValObj_2,"CELESTE: ...When I was arrested,[p/] the Inquisition also made me attune to one of their [b]Spell Compendiums[/b].",
