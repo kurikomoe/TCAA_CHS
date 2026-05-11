@@ -4508,103 +4508,103 @@
   {
     "key": "C2 Dialogue.csv::translation::5c4f807b135374b0",
     "original": "VALENTINA: I-[p/][s/]I... [h=\"But I saw that wound on her!|What happened?!\" e=\"f\"/]",
-    "translation": "",
+    "translation": "VALENTINA: 我、[p/][s/]我…… [h=\"但我是看到她身上有伤的啊！|怎么回事？！\" e=\"f\"/]",
     "context": "{\n  \"id\": \"line:059e19b\",\n  \"node\": \"ValObj\",\n  \"text\": \"VALENTINA: I-[p/][s/]I... [h=\\\"But I saw that wound on her!|What happened?!\\\" e=\\\"f\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4a06be87e67591ae",
     "original": "JUDGE: There’s clearly something amiss here.",
-    "translation": "",
+    "translation": "JUDGE: 这里面肯定有问题。",
     "context": "{\n  \"id\": \"line:0e7c76d\",\n  \"node\": \"ValObj\",\n  \"text\": \"JUDGE: There’s clearly something amiss here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::11d12388f217b40e",
     "original": "JUDGE: But I’m afraid I don’t fully understand the implications of this.",
-    "translation": "",
+    "translation": "JUDGE: 但恐怕我还没有完全明白其中的含义。",
     "context": "{\n  \"id\": \"line:04b3a90\",\n  \"node\": \"ValObj\",\n  \"text\": \"JUDGE: But I’m afraid I don’t fully understand the implications of this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::21445bdeab09d5f7",
     "original": "JUDGE: Are you accusing the witness of committing perjury, Mr. Cuthbert?",
-    "translation": "",
+    "translation": "JUDGE: 卡斯伯特先生，你是要指控证人伪证吗？",
     "context": "{\n  \"id\": \"line:03f2ed4\",\n  \"node\": \"ValObj\",\n  \"text\": \"JUDGE: Are you accusing the witness of committing perjury, Mr. Cuthbert?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8743509744a2b0e",
     "original": "When someone lied,[p/] they kept it as close to the truth as possible while changing minute details.",
-    "translation": "",
+    "translation": "当人们说谎的时候，[p/]他们总是尽可能阐述事实，只不过改动个别细节。",
     "context": "{\n  \"id\": \"line:06700cb\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"When someone lied,[p/] they kept it as close to the truth as possible while changing minute details.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fa61e679cf720913",
     "original": "In her thoughts,[p/] Valentina said that she was sure she [i]saw[p/] a wound on Bellwether...",
-    "translation": "",
+    "translation": "而她的想法里，p/]瓦伦蒂娜自己说了她[i]看到了[p/]贝尔维瑟身上的伤口……",
     "context": "{\n  \"id\": \"line:07c591b\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"In her thoughts,[p/] Valentina said that she was sure she [i]saw[p/] a wound on Bellwether...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::27c2ae6f21f65f2a",
     "original": "She also mentioned that [i]Valerie[/i] was the one who tried to save the professor.",
-    "translation": "",
+    "translation": "她也提到[i]瓦莱丽[/i]就是尝试救助教授的那个人。",
     "context": "{\n  \"id\": \"line:0382a14\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"She also mentioned that [i]Valerie[/i] was the one who tried to save the professor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::72645f5daff9d160",
     "original": "I knew that someone had cast healing magic on the body.[p/] That was why the wounds had disappeared.",
-    "translation": "",
+    "translation": "我也已经知晓是有人在尸体上施放过治愈法术。[p/]所以伤口才消失了。",
     "context": "{\n  \"id\": \"line:0701251\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"I knew that someone had cast healing magic on the body.[p/] That was why the wounds had disappeared.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b48c4cef88d0313a",
     "original": "If the wounds disappeared after the twins discovered the body,[p/] that could only mean one thing.",
-    "translation": "",
+    "translation": "而如果伤口是在这对双胞胎发现后才消失的，[p/]那只意味着一件事。",
     "context": "{\n  \"id\": \"line:0bc0d5d\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"If the wounds disappeared after the twins discovered the body,[p/] that could only mean one thing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4923f87d11eed000",
     "original": "TYRION: The witness [i]was[/i] lying, Your Honor...[p/] But not about everything.",
-    "translation": "",
+    "translation": "TYRION: 法官阁下，这位证人[i]是[/i]有说谎……[p/]但不都是。",
     "context": "{\n  \"id\": \"line:0fefd22\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"TYRION: The witness [i]was[/i] lying, Your Honor...[p/] But not about everything.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::30a73b812c32fa40",
     "original": "TYRION: Valerie Ianus [i]did[/i] try to save the victim's life by addressing her wounds.",
-    "translation": "",
+    "translation": "TYRION: 瓦莱丽·伊努斯[i]确实有[/i]尝试处理被害人的伤口来挽救她的性命。",
     "context": "{\n  \"id\": \"line:0219ebb\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"TYRION: Valerie Ianus [i]did[/i] try to save the victim's life by addressing her wounds.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2e55687aab47387d",
     "original": "TYRION: But she didn’t use first aid...[p/][s/] She used magic!",
-    "translation": "",
+    "translation": "TYRION: 但用的不是急救包……[p/][s/]而是使用了魔法！",
     "context": "{\n  \"id\": \"line:097fed3\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"TYRION: But she didn’t use first aid...[p/][s/] She used magic!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ee1463754c419b2c",
     "original": "VALENTINA: ...?! [h=\"How did he|figure it out?!\" e=\"fa\"/]",
-    "translation": "",
+    "translation": "VALENTINA: .……？！ [h=\"他怎么发现的？！\" e=\"fa\"/]",
     "context": "{\n  \"id\": \"line:0eb7c53\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"VALENTINA: ...?! [h=\\\"How did he|figure it out?!\\\" e=\\\"fa\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f77b3a88db88676b",
     "original": "AriaC: I'm sorry, Mr. Cuthbert,[p/] but your theory is completely flawed.",
-    "translation": "",
+    "translation": "AriaC: 抱歉，卡斯伯特先生。[p/]但你的推论漏洞百出。",
     "context": "{\n  \"id\": \"line:0441c2c\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"AriaC: I'm sorry, Mr. Cuthbert,[p/] but your theory is completely flawed.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bb1f9de7a8d1b323",
     "original": "TYRION: ...How so, Steelwind?",
-    "translation": "",
+    "translation": "TYRION: ……为什么呢，斯蒂尔文德？",
     "context": "{\n  \"id\": \"line:0ba409a\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"TYRION: ...How so, Steelwind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::27525a31e06c65af",
     "original": "AriaC: Well,[p/] it’s quite simple.",
-    "translation": "",
+    "translation": "AriaC: 这个嘛，[p/]其实很简单。",
     "context": "{\n  \"id\": \"line:09c10db\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"AriaC: Well,[p/] it’s quite simple.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6fc228363085f0e4",
     "original": "AriaC: We’ve already verified that neither of the sisters is a mage.",
-    "translation": "",
+    "translation": "AriaC: 我们已经证实，她们两姐妹都不是法师。",
     "context": "{\n  \"id\": \"line:0263a77\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"AriaC: We’ve already verified that neither of the sisters is a mage.\"\n}"
   },
   {
