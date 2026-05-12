@@ -987,89 +987,89 @@ line:0df3a32,Val2Obj_5,VALERIE: You’re not like us.[p/] You don’t [i]have[/i
 line:05f5659,Val2Obj_5,AriaC: ...,AriaC: ……
 line:0d11acc,Val2Obj_5,VALERIE: But it's okay...[p/] This whole situation has gotten out of hand.,VALERIE: 但是没关系……[p/]反正整个局面早就失控了。
 line:041f8e4,Val2Obj_5,"VALERIE: I didn’t think hiding it would cause so much trouble,[p/] and I won’t let someone go to prison because of me.",VALERIE: 我之前没想到隐藏这一点会造成这么多问题，[p/]但我也不会让别人因为自己坐牢。
-line:0053eb8,Val2Obj_5,Valerie: ...Even if he [i]is[/i] a necromancer.,
-line:040ac81,Val2Obj_5,VALERIE: ...Please let me testify about what I saw.,
-line:0dedd13,Val2Obj_5,VALERIE: I’ll tell all of you what really happened that day.,
-line:087d3e3,Val2Obj_5,JUDGE: ...,
-line:0a095f8,Val2Obj_5,"Tyrion: Your Honor,[p/] I believe we may all benefit from hearing Ms. Ianus's testimony.",
-line:06d345c,Val2Obj_5,"JUDGE: Very well,[p/] but understand that there will be repercussions for your actions, witness.",
-line:0129e62,Val2Obj_5,VALERIE: I know...,
-line:00eabc2,Val2Obj_6,Valerie: My sister and I were walking in the hallway from the kitchen to the west exit.,
-line:0075bf8,Val2Obj_6,Valerie: That's when I suddenly spotted the professor lying in a pool of blood in a nearby classroom.,
-line:018185e,Val2Obj_6,Valerie: Valentina used a communication device to call for help while I tried to save her.,
-line:0f5cfbf,Val2Obj_6,"Valerie: I saw that she was bleeding,[p/] so I cast [b]Mend Wounds[/b] on her to close her wounds.",
-line:084f85e,Val2Obj_6,"Valerie: But it was too late.[p/] I closed the hole in her chest,[p/] but she was already dead.",
-line:0b0a11f,Val2Obj_6,JUDGE: ...There was a hole in her chest?,
-line:0c21a44,Val2Obj_6,"TYRION: Your Honor.[p/] As you can clearly see from the witness’ testimony,[p/] the trace of [b]necromancy[/b] was left by the witness,[p/] not my client.",
-line:048bc0b,Val2Obj_6,"TYRION: What’s more,[p/] it’s clear that there was a [i]physical[/i] wound on the body.",
-line:03d71f9,Val2Obj_6,JUDGE: I-[p/][s/]I see...[p/] Well...,
-line:0b4f48f,Val2Obj_6,His words trailed off.,
-line:0592df0,Val2Obj_6,He clearly didn’t want to pass a verdict with no clear culprit.,
-line:0c38f2b,Val2Obj_6,But he had no choice.[p/] The case against Wallace was predicated on Bellwether being killed by [b]Necrotic Blight[/b].,
-line:077e7f7,Val2Obj_6,"With Valerie’s testimony,[p/] the prosecution didn't have a shred of evidence implicating him.",
-line:09cfbd4,Val2Obj_6,JUDGE: ...,
-line:09e91ef,Val2Obj_6,JUDGE: [i]*sigh*[/i][p/] Very well.[p/] The court sees no reason to prolong this trial.,
-line:0f417c5,Val2Obj_6,"JUDGE: With these new developments,[p/] the court has no choice but to find Wallace Nightgrave—",
-line:0bb728b,Val2Obj_7,AriaC: I believe the court is ignoring one key detail of the witness’s testimony.,
-line:0923a24,Val2Obj_7,"TYRION: ...And what would that be, Ms. Steelwind?",
-line:0512827,Val2Obj_7,AriaC: Let’s re-examine the witness’s testimony.,
-line:0449a6e,Val2Obj_7,Valerie: Valentina used a communication device to call for help while I tried to save her.,
-line:0129e14,Val2Obj_7,"Valerie: I saw that she was bleeding,[p/] so I cast [b]Mend Wounds[/b] on her to close her wounds.",
-line:0eb49c2,Val2Obj_7,"Valerie: But it was too late.[p/] I closed the hole in her chest,[p/] but she was already dead.",
-line:0a5b0c1,Val2Obj_7,AriaC: The communication device that Valentina Ianus used logs the time of day during each use.,
-line:01c1dc5,Val2Obj_7,"AriaC: From this log,[p/] we know that Valentina used this device at 3:04 PM.",
-line:0097cc1,Val2Obj_7,AriaC: This was an hour after the time of death.,
-line:00ba3b3,Val2Obj_7,TYRION: Where are you going with this?,
-line:0f676fc,Val2Obj_7,AriaC: Mr. Cuthbert.[p/] There was a witness who saw the victim before the body was found:[p/] Jan Hughes.,
-line:0e0438f,Val2Obj_7,"AriaC: He,[p/] along with another witness,[p/] spotted Bellwether walking in the hallways before the body was found.",
-line:03c203d,Val2Obj_8,JAN: I was cleaning the halls.,
-line:0e701a7,Val2Obj_8,JAN: Bellwether knocked over a vase...[p/] There were shards and dirt everywhere.,
-line:0c68980,Val2Obj_8,TYRION: Wait...[p/] You [s/][i]saw[/i] the professor before the twins arrived?,
-line:051ce11,Val2Obj_8,"JAN: Yeah.[p/] Like I said,[p/] she broke the vase right in this hallway...",
-line:0533104,Val2Obj_8,JAN: It was probably 20-30 minutes before the twins found the body.,
-line:09d49c0,Val2Obj_8,AriaC: “20-30 minutes” before the body was found.,
-line:0f9b765,Val2Obj_8,"AriaC: Do you see the discrepancy, Mr. Cuthbert?",
+line:0053eb8,Val2Obj_5,Valerie: ...Even if he [i]is[/i] a necromancer.,Valerie: ……就算他是[i]死灵法师[/i]。
+line:040ac81,Val2Obj_5,VALERIE: ...Please let me testify about what I saw.,VALERIE: ……请让我就自己所见进行作证。
+line:0dedd13,Val2Obj_5,VALERIE: I’ll tell all of you what really happened that day.,VALERIE: 我会告诉你所有人，那天实际上发生了什么。
+line:087d3e3,Val2Obj_5,JUDGE: ...,JUDGE: ……
+line:0a095f8,Val2Obj_5,"Tyrion: Your Honor,[p/] I believe we may all benefit from hearing Ms. Ianus's testimony.",Tyrion: 法官阁下，[p/]我相信我们都能从伊努斯女士的证词中受益。
+line:06d345c,Val2Obj_5,"JUDGE: Very well,[p/] but understand that there will be repercussions for your actions, witness.",JUDGE: 很好，[p/]但你要明白你的行为会招致对应的处理结果，证人。
+line:0129e62,Val2Obj_5,VALERIE: I know...,VALERIE: I我明白……
+line:00eabc2,Val2Obj_6,Valerie: My sister and I were walking in the hallway from the kitchen to the west exit.,Valerie: 姐姐和我当时走在从厨房到西部出口的走廊上。
+line:0075bf8,Val2Obj_6,Valerie: That's when I suddenly spotted the professor lying in a pool of blood in a nearby classroom.,Valerie: 就是那时，我突然发现附近的讲堂里，教授倒在一片血泊之中。
+line:018185e,Val2Obj_6,Valerie: Valentina used a communication device to call for help while I tried to save her.,Valerie: 瓦伦蒂娜用通讯设备呼叫求助，同时我试着挽救教授。
+line:0f5cfbf,Val2Obj_6,"Valerie: I saw that she was bleeding,[p/] so I cast [b]Mend Wounds[/b] on her to close her wounds.",Valerie: 我看到她正在流血，[p/]所以我对她施放了[b]疗愈术[/b]来愈合伤口。
+line:084f85e,Val2Obj_6,"Valerie: But it was too late.[p/] I closed the hole in her chest,[p/] but she was already dead.",Valerie: 但已经来不及了。[p/]我把她胸口的那个洞合上了，[p/]但她已经死亡。
+line:0b0a11f,Val2Obj_6,JUDGE: ...There was a hole in her chest?,JUDGE: ……她胸口有一个洞？
+line:0c21a44,Val2Obj_6,"TYRION: Your Honor.[p/] As you can clearly see from the witness’ testimony,[p/] the trace of [b]necromancy[/b] was left by the witness,[p/] not my client.",TYRION: 法官阁下。[p/]您能通过证词清楚地知道，[p/][b]死灵术[/b]魔法的痕迹是证人留下的，[p/]不是我的委托人。
+line:048bc0b,Val2Obj_6,"TYRION: What’s more,[p/] it’s clear that there was a [i]physical[/i] wound on the body.",TYRION: 还有，[p/]很明显尸体上曾经有一处[i]外伤[/i]。
+line:03d71f9,Val2Obj_6,JUDGE: I-[p/][s/]I see...[p/] Well...,JUDGE: 我、[p/][s/]我明白了……[p/]那么……
+line:0b4f48f,Val2Obj_6,His words trailed off.,他的言语没了后续。
+line:0592df0,Val2Obj_6,He clearly didn’t want to pass a verdict with no clear culprit.,显然，在没有明确凶手身份的情况下，法官并不想下达判决。
+line:0c38f2b,Val2Obj_6,But he had no choice.[p/] The case against Wallace was predicated on Bellwether being killed by [b]Necrotic Blight[/b].,但他也没有选择，[p/]对华莱士的指控内容是他用[b]索命咒[/b]杀死了贝尔维瑟。
+line:077e7f7,Val2Obj_6,"With Valerie’s testimony,[p/] the prosecution didn't have a shred of evidence implicating him.",有了瓦莱丽的证词，[p/]检方没有任何证据表明他有罪。
+line:09cfbd4,Val2Obj_6,JUDGE: ...,JUDGE: ……
+line:09e91ef,Val2Obj_6,JUDGE: [i]*sigh*[/i][p/] Very well.[p/] The court sees no reason to prolong this trial.,JUDGE: [i]*叹气*[/i][p/]好吧。[p/]看起来本庭也没有理由继续本次审理。
+line:0f417c5,Val2Obj_6,"JUDGE: With these new developments,[p/] the court has no choice but to find Wallace Nightgrave—",JUDGE: 依据新发现的事实，[p/]本法庭已经没有其他选择，我们只能判定华莱士·奈特格雷夫没有——
+line:0bb728b,Val2Obj_7,AriaC: I believe the court is ignoring one key detail of the witness’s testimony.,AriaC: 我相信本次庭审忽略了刚才证词中的一个关键细节。
+line:0923a24,Val2Obj_7,"TYRION: ...And what would that be, Ms. Steelwind?",TYRION: ……你指的是什么，斯蒂尔文德女士？
+line:0512827,Val2Obj_7,AriaC: Let’s re-examine the witness’s testimony.,AriaC: 让我们重新审视刚才的证词。
+line:0449a6e,Val2Obj_7,Valerie: Valentina used a communication device to call for help while I tried to save her.,Valerie: 瓦伦蒂娜用通讯设备呼叫求助，同时我试着挽救教授。
+line:0129e14,Val2Obj_7,"Valerie: I saw that she was bleeding,[p/] so I cast [b]Mend Wounds[/b] on her to close her wounds.",Valerie: 我看到她正在流血，[p/]所以我对她施放了[b]疗愈术[/b]来愈合伤口。
+line:0eb49c2,Val2Obj_7,"Valerie: But it was too late.[p/] I closed the hole in her chest,[p/] but she was already dead.",Valerie: 但已经来不及了。[p/]我把她胸口的那个洞合上了，[p/]但她已经死亡。
+line:0a5b0c1,Val2Obj_7,AriaC: The communication device that Valentina Ianus used logs the time of day during each use.,AriaC: 瓦伦蒂娜·伊努斯使用的那个通讯设备会保存每次使用的时间。
+line:01c1dc5,Val2Obj_7,"AriaC: From this log,[p/] we know that Valentina used this device at 3:04 PM.",AriaC: 从记录中中，[p/]我们可以得知瓦伦蒂娜在下午 3:04 使用了这个设备。
+line:0097cc1,Val2Obj_7,AriaC: This was an hour after the time of death.,AriaC: 那已经是死亡时间一小时后了。
+line:00ba3b3,Val2Obj_7,TYRION: Where are you going with this?,TYRION: 你想说什么？
+line:0f676fc,Val2Obj_7,AriaC: Mr. Cuthbert.[p/] There was a witness who saw the victim before the body was found:[p/] Jan Hughes.,AriaC: 卡斯伯特先生。[p/]被害人的尸体被发现前有人见到过她本人，[p/]这位证人就是简·休斯。
+line:0e0438f,Val2Obj_7,"AriaC: He,[p/] along with another witness,[p/] spotted Bellwether walking in the hallways before the body was found.",AriaC: 在贝尔维瑟的尸体被发现之前，[p/]他与另一位证人一起，[p/]看到过她在走廊路过。
+line:03c203d,Val2Obj_8,JAN: I was cleaning the halls.,JAN: 我当时正在打扫大厅。
+line:0e701a7,Val2Obj_8,JAN: Bellwether knocked over a vase...[p/] There were shards and dirt everywhere.,JAN: 贝尔维瑟撞倒了一个花瓶……[p/]搞得满地都是碎片和泥土。
+line:0c68980,Val2Obj_8,TYRION: Wait...[p/] You [s/][i]saw[/i] the professor before the twins arrived?,TYRION: 等等……[p/]你[s/]在双胞胎到来之前[i]看到了[/i]教授？
+line:051ce11,Val2Obj_8,"JAN: Yeah.[p/] Like I said,[p/] she broke the vase right in this hallway...",JAN: 是啊。[p/]我刚才说过了，[p/]她把走廊里的花瓶打碎了……
+line:0533104,Val2Obj_8,JAN: It was probably 20-30 minutes before the twins found the body.,JAN: 大概是在那对双胞胎发现尸体 20 到 30 分钟之前。
+line:09d49c0,Val2Obj_8,AriaC: “20-30 minutes” before the body was found.,AriaC: 尸体被发现前“20 到 30 分钟”。
+line:0f9b765,Val2Obj_8,"AriaC: Do you see the discrepancy, Mr. Cuthbert?",AriaC: 卡斯伯特先生，你发现这里面的问题了吗？
 line:03c30c6,Val2Obj_8,TYRION: ...!,TYRION: ……！
-line:0d13d71,Val2Obj_8,Wait...[p/][s/] That couldn't be right!,
-line:0432abf,Val2Obj_8,Bellwether died more than an [i]hour[/i] before the body was found...,
-line:035004b,Val2Obj_8,So how did Jan see her half an hour [i]after[/i] her death?!,
-line:0997780,Val2Obj_8,"AriaC: I wonder, Mr. Cuthbert.",
-line:09bfb4b,Val2Obj_8,AriaC: How could one make a dead body move and walk around?,
-line:00d5988,Val2Obj_8,TYRION: No...,
-line:040c7e2,Val2Obj_8,AriaC: We didn't just arrest the defendant based on those traces of [b]necromancy[/b].,
-line:0eb0542,Val2Obj_8,AriaC: We arrested him because only [i]one[/i] person in that school could have animated her corpse!,
-line:0860c42,Val2Obj_9,Gallery: An undead?![p/][s/] Created [i]within[/i] the Imperial Academy?!,
-line:09bc72d,Val2Obj_9,Gallery: How reprehensible!,
-line:05932d5,Val2Obj_9,TYRION: That’s ridiculous![p/][s/] She had a hole in her chest when the twins found her!,
-line:0a4fd10,Val2Obj_9,TYRION: Jan Hughes would have noticed that!,
-line:066acc9,Val2Obj_9,AriaC: [b]Animate Corpse[/b] stops the flow of blood.[p/] So she wouldn’t have tracked blood anywhere.,
-line:04c94bb,Val2Obj_9,AriaC: The defendant is also proficient with [b]illusion[/b] magic.,
-line:0236a88,Val2Obj_9,AriaC: He could have easily used an [b]illusion[/b] spell to hide the undead Bellwether’s wounds.,
-line:0f599be,Val2Obj_9,TYRION: But another party could have easily used [b]illusion[/b] magic to disguise themselves as the victim.,
-line:04f6dd1,Val2Obj_9,"AriaC: If that were true,[p/] how did they move the body to the classroom?",
+line:0d13d71,Val2Obj_8,Wait...[p/][s/] That couldn't be right!,等等……[p/][s/]不可能是这样的！
+line:0432abf,Val2Obj_8,Bellwether died more than an [i]hour[/i] before the body was found...,贝尔维瑟在尸体被发现时已经死了不止[i]一小时[/i]了……
+line:035004b,Val2Obj_8,So how did Jan see her half an hour [i]after[/i] her death?!,简怎么能在她[i]死后[/i]半小时看到她？！
+line:0997780,Val2Obj_8,"AriaC: I wonder, Mr. Cuthbert.",AriaC: 我有点好奇啊，卡斯伯特先生。
+line:09bfb4b,Val2Obj_8,AriaC: How could one make a dead body move and walk around?,AriaC: 怎样能使一具死尸到处行走呢？
+line:00d5988,Val2Obj_8,TYRION: No...,TYRION: 不……
+line:040c7e2,Val2Obj_8,AriaC: We didn't just arrest the defendant based on those traces of [b]necromancy[/b].,AriaC: 我们并非只基于[b]死灵术[/b]的痕迹逮捕了被告。
+line:0eb0542,Val2Obj_8,AriaC: We arrested him because only [i]one[/i] person in that school could have animated her corpse!,AriaC: 我们是因为他是学院里[i]唯一[/i]能驱动尸体的人才逮捕他的！
+line:0860c42,Val2Obj_9,Gallery: An undead?![p/][s/] Created [i]within[/i] the Imperial Academy?!,Gallery: 僵尸？！[p/][s/]还是在帝国学院[i]内[/i]创造出来的？！
+line:09bc72d,Val2Obj_9,Gallery: How reprehensible!,Gallery: 多么不道德！
+line:05932d5,Val2Obj_9,TYRION: That’s ridiculous![p/][s/] She had a hole in her chest when the twins found her!,TYRION: 太荒谬了！[p/][s/]她被双胞胎发现的时候胸口可是有个洞！
+line:0a4fd10,Val2Obj_9,TYRION: Jan Hughes would have noticed that!,TYRION: 简·休斯肯定会注意到这一点！
+line:066acc9,Val2Obj_9,AriaC: [b]Animate Corpse[/b] stops the flow of blood.[p/] So she wouldn’t have tracked blood anywhere.,AriaC: [b]活化死尸[/b]可以停止血液流动。[p/]所以她不会在其他任何地方留下血迹。
+line:04c94bb,Val2Obj_9,AriaC: The defendant is also proficient with [b]illusion[/b] magic.,AriaC: 被告的[b]幻象术[/b]也相当精湛。
+line:0236a88,Val2Obj_9,AriaC: He could have easily used an [b]illusion[/b] spell to hide the undead Bellwether’s wounds.,AriaC: 对他来说，使用某种[b]幻象术[/b]隐藏僵尸贝尔维瑟的伤口也很简单。
+line:0f599be,Val2Obj_9,TYRION: But another party could have easily used [b]illusion[/b] magic to disguise themselves as the victim.,TYRION: 但其他人也可以轻易地使用[b]幻象术[/b]魔法把自己伪装成被害人。
+line:04f6dd1,Val2Obj_9,"AriaC: If that were true,[p/] how did they move the body to the classroom?",AriaC: 如果是这样的话，[p/]他们又要怎么把尸体移动到讲堂里？
 line:02899ee,Val2Obj_9,TYRION: ...,TYRION: ……
-line:000004d,Val2Obj_9,JUDGE: Hm...,
-line:0236200,Val2Obj_9,"JUDGE: Ms. Steelwind.[p/] If your theory is true,[p/] it would mean that the murder occurred elsewhere.",
-line:061ab36,Val2Obj_9,JUDGE: Would the Inquisition happen to know where?,
-line:0fbfa99,Val2Obj_9,"AriaC: ...Regrettably,[p/] we do not.",
-line:0ec52fe,Val2Obj_9,Tyrion: Then the prosecution's case against my client is still faulty!,
-line:07954ab,Val2Obj_9,Tyrion: You can't convict my client without more evidence!,
-line:0ba2a22,Val2Obj_9,JUDGE: I must agree with Mr. Cuthbert.,
-line:0e1d6b4,Val2Obj_9,"JUDGE: With these new developments,[p/] the court sees it fit to suspend the trial for the time being.",
-line:00c9bce,Val2Obj_9,JUDGE: We will give the Inquisition time to investigate these unknowns.,
-line:0567052,Val2Obj_9,JUDGE: Court proceedings for this case will resume tomorrow morning.,
-line:0ee6b0e,Val2Obj_9,JUDGE: Court is adjourned.,
-line:0075fde,Val2Obj_10,CELESTE: Hey...[p/] Are you feeling okay?,
-line:0705e27,Val2Obj_10,A body was seen moving around an hour after death...,
-line:0da9e37,Val2Obj_10,It clearly wasn't Bellwether...,
-line:0a3446f,Val2Obj_10,"Or at the very least,[p/] she wasn't alive when Jan ran into her.",
-line:0626129,Val2Obj_10,"So, what was it?",
-line:022da53,Val2Obj_10,CELESTE: Tyrion...?,
-line:07847cb,Val2Obj_10,:Steelwind was right about one thing:[p/] there was [b]illusion[/b] magic involved...,
-line:05d39d9,Val2Obj_10,But which spell was it?[p/] Could it have been [b]Illusory Disguise[/b]?,
-line:0b7b0a6,Val2Obj_10,CELESTE: Tyrion!,
-line:0a89f22,Val2Obj_10,TYRION: Ah...![p/] What...?,
-line:005448b,Val2Obj_10,CELESTE: You’ve been pacing around the lobby since the trial ended.,
+line:000004d,Val2Obj_9,JUDGE: Hm...,JUDGE: 嗯……
+line:0236200,Val2Obj_9,"JUDGE: Ms. Steelwind.[p/] If your theory is true,[p/] it would mean that the murder occurred elsewhere.",JUDGE: 斯蒂尔文德女士。[p/]如果你的主张为真，[p/]就意味着谋杀发生在其他地方。
+line:061ab36,Val2Obj_9,JUDGE: Would the Inquisition happen to know where?,JUDGE: 裁判所知道是哪里吗？
+line:0fbfa99,Val2Obj_9,"AriaC: ...Regrettably,[p/] we do not.",AriaC: ……很抱歉，[p/]我们还不知道。
+line:0ec52fe,Val2Obj_9,Tyrion: Then the prosecution's case against my client is still faulty!,Tyrion: 那么检方对我的委托人的指控仍然是错误的！
+line:07954ab,Val2Obj_9,Tyrion: You can't convict my client without more evidence!,Tyrion: 在没有其他证据的情况下，你不能判我的委托人有罪！
+line:0ba2a22,Val2Obj_9,JUDGE: I must agree with Mr. Cuthbert.,JUDGE: 我只能同意卡斯伯特先生的意见。
+line:0e1d6b4,Val2Obj_9,"JUDGE: With these new developments,[p/] the court sees it fit to suspend the trial for the time being.",JUDGE: 依据新发现的事实，[p/]本次庭审应当暂时中断。
+line:00c9bce,Val2Obj_9,JUDGE: We will give the Inquisition time to investigate these unknowns.,JUDGE: 我们将给裁判所一点时间来调查新出现的未知情况。
+line:0567052,Val2Obj_9,JUDGE: Court proceedings for this case will resume tomorrow morning.,JUDGE: 依据新发现的事实，[p/]本次庭审应当暂时中断。
+line:0ee6b0e,Val2Obj_9,JUDGE: Court is adjourned.,JUDGE: 休庭。
+line:0075fde,Val2Obj_10,CELESTE: Hey...[p/] Are you feeling okay?,CELESTE: 嘿……[p/]你感觉还好吗？
+line:0705e27,Val2Obj_10,A body was seen moving around an hour after death...,被害者死后一个小时，尸体被目击四处移动……
+line:0da9e37,Val2Obj_10,It clearly wasn't Bellwether...,那肯定不是贝尔维瑟本人……
+line:0a3446f,Val2Obj_10,"Or at the very least,[p/] she wasn't alive when Jan ran into her.",或者至少可以认为，[p/]被简看到的那个时候她已经死了。
+line:0626129,Val2Obj_10,"So, what was it?",所以到底发生了什么事情？
+line:022da53,Val2Obj_10,CELESTE: Tyrion...?,CELESTE: 提利昂……？
+line:07847cb,Val2Obj_10,:Steelwind was right about one thing:[p/] there was [b]illusion[/b] magic involved...,斯蒂尔文德说对了一件事：[p/]作案过程中肯定有人施放[b]幻象术[/b]……
+line:05d39d9,Val2Obj_10,But which spell was it?[p/] Could it have been [b]Illusory Disguise[/b]?,但具体是哪种法术？[p/]会是[b]幻象伪装[/b]吗？
+line:0b7b0a6,Val2Obj_10,CELESTE: Tyrion!,CELESTE: 提利昂！
+line:0a89f22,Val2Obj_10,TYRION: Ah...![p/] What...?,TYRION: 啊……！[p/]怎么了……？
+line:005448b,Val2Obj_10,CELESTE: You’ve been pacing around the lobby since the trial ended.,CELESTE: 庭审结束后，你一直就在大厅里走来走去。
 line:0aa81df,Val2Obj_10,Tyrion: S-[p/]Sorry...[p/] I was just thinking about Steelwind's theory.,
 line:0baab7e,Val2Obj_10,CELESTE: It’s a little creepy when you think about it...,
 line:0961182,Val2Obj_10,CELESTE: Do you really think someone turned the professor into an undead?,
@@ -1114,8 +1114,8 @@ line:0683fed,Val2Obj_12,Celeste’s instincts had never steered me wrong before.
 line:01d104d,Val2Obj_13,"She had always been reliable,[p/] and if Eris was making [i]her[/i] feel this way,[p/] that must've meant something.",
 line:092d933,Val2Obj_13,But that’s all the more reason for us to talk to her.,
 line:01d7b4c,Val2Obj_13,"TYRION: But aside from that,[p/] there was also something else that the prosecutor said.",
-line:004ff9e,Val2Obj_13,AriaC: Mr. Cuthbert.[p/] There was a witness who saw the victim before the body was found:[p/] Jan Hughes.,
-line:045c711,Val2Obj_13,"AriaC: He,[p/] along with another witness,[p/] spotted Bellwether walking in the hallways before the body was found.",
+line:004ff9e,Val2Obj_13,AriaC: Mr. Cuthbert.[p/] There was a witness who saw the victim before the body was found:[p/] Jan Hughes.,AriaC: 卡斯伯特先生。[p/]被害人的尸体被发现前有人见到过她本人，[p/]这位证人就是简·休斯。
+line:045c711,Val2Obj_13,"AriaC: He,[p/] along with another witness,[p/] spotted Bellwether walking in the hallways before the body was found.",AriaC: 在贝尔维瑟的尸体被发现之前，[p/]他与另一位证人一起，[p/]看到过她在走廊路过。
 line:03d54c4,Val2Obj_13,TYRION: There was another witness who saw Bellwether walking around.,
 line:0ccef0a,Val2Obj_13,CELESTE: Right...[p/] Jan probably isn’t the most reliable witness.,
 line:087db99,Val2Obj_13,Tyrion: He was probably only half-awake when he saw her.,
@@ -1184,7 +1184,7 @@ line:068abf0,Courtroom2_1,"AriaC: Presumably,[p/] this would have happened [i]af
 line:0def261,Courtroom2_1,AriaC: [i]That[/i] would time this encounter at around 1:00 PM.,
 line:09db858,Courtroom2_1,"AriaC: The other event is the discovery of the body,[p/] which was when Valentina Ianus contacted security.",
 line:05caa99,Courtroom2_1,Valerie: I suddenly spotted the professor lying in a pool of blood in the classroom.,
-line:0f29c66,Courtroom2_1,Valerie: Valentina used a communication device to call for help while I tried to save her.,
+line:0f29c66,Courtroom2_1,Valerie: Valentina used a communication device to call for help while I tried to save her.,Valerie: 瓦伦蒂娜用通讯设备呼叫求助，同时我试着挽救教授。
 line:01af7b6,Courtroom2_1,"AriaC: As we’ve already established,[p/] this event occurred at 3:04 PM.",
 line:0f8db20,Courtroom2_1,AriaC: But the significance of this time is in what occurred [i]before[/i] the body was discovered.,
 line:0e9ae2d,Courtroom2_1,"AriaC: The second witness,[p/] a member of the cleaning staff,[p/] spotted the victim in the west-wing hallway.",
@@ -1378,7 +1378,7 @@ line:058b0c2,MiriamObj_5,...She almost looked disappointed.,
 line:0c821e5,MiriamObj_5,"AriaC: Very well.[p/] Miriam,[p/] you are dismissed.",
 line:041223f,MiriamObj_5,MIRIAM: Hmph...,
 line:0f2e9a2,MiriamObj_5,"Miriam shot me a look of disdain,[p/] but she left the room without protest.",
-line:0e4576e,MiriamObj_5,JUDGE: ...,
+line:0e4576e,MiriamObj_5,JUDGE: ...,JUDGE: ……
 line:0b557bd,MiriamObj_5,The judge let out a sigh as the young noble was escorted out of the room.,
 line:0a4ec23,MiriamObj_5,It was as if he were expecting the young noble to literally explode at any moment.,
 line:0a4683e,MiriamObj_5,"AriaC: Now with that out of the way...[p/] What else do you have, Mr. Cuthbert?",
@@ -3005,11 +3005,11 @@ line:018609b,AcademyHall_Talk,Player: Jan Hughes,
 line:0e1e5db,AcademyHall_Talk,Player: The Murder,Player: 谋杀案
 line:0cba1f4,AcademyHall_Talk,TYRION: Valerie mentioned that you were close to Lecture Hall 2-B before they found Bellwether.,
 line:0995d05,AcademyHall_Talk,TYRION: What were you doing when the twins discovered the body?,
-line:08df30e,AcademyHall_Talk,JAN: I was cleaning the halls.,
-line:019368d,AcademyHall_Talk,JAN: Bellwether knocked over a vase...[p/] There were shards and dirt everywhere.,
-line:0630d25,AcademyHall_Talk,TYRION: Wait...[p/] You [s/][i]saw[/i] the professor before the twins arrived?,
-line:0b8c5ad,AcademyHall_Talk,"JAN: Yeah.[p/] Like I said,[p/] she broke the vase right in this hallway...",
-line:047b112,AcademyHall_Talk,JAN: It was probably 20-30 minutes before the twins found the body.,
+line:08df30e,AcademyHall_Talk,JAN: I was cleaning the halls.,JAN: 我当时正在打扫大厅。
+line:019368d,AcademyHall_Talk,JAN: Bellwether knocked over a vase...[p/] There were shards and dirt everywhere.,JAN: 贝尔维瑟撞倒了一个花瓶……[p/]搞得满地都是碎片和泥土。
+line:0630d25,AcademyHall_Talk,TYRION: Wait...[p/] You [s/][i]saw[/i] the professor before the twins arrived?,TYRION: 等等……[p/]你[s/]在双胞胎到来之前[i]看到了[/i]教授？
+line:0b8c5ad,AcademyHall_Talk,"JAN: Yeah.[p/] Like I said,[p/] she broke the vase right in this hallway...",JAN: 是啊。[p/]我刚才说过了，[p/]她把走廊里的花瓶打碎了……
+line:047b112,AcademyHall_Talk,JAN: It was probably 20-30 minutes before the twins found the body.,JAN: 大概是在那对双胞胎发现尸体 20 到 30 分钟之前。
 line:0620fe5,AcademyHall_Talk,TYRION: You might have been the last person to see her alive.,
 line:0306e6f,AcademyHall_Talk,TYRION: Did you see where she went after breaking the vase?,
 line:027a94d,AcademyHall_Talk,"JAN: Yeah,[p/] I think she went into that room over there.",

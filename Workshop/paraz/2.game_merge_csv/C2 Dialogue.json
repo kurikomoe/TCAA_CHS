@@ -5618,463 +5618,463 @@
   {
     "key": "C2 Dialogue.csv::translation::95ae2b99d40e1ee1",
     "original": "Valerie: ...Even if he [i]is[/i] a necromancer.",
-    "translation": "",
+    "translation": "Valerie: ……就算他是[i]死灵法师[/i]。",
     "context": "{\n  \"id\": \"line:0053eb8\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"Valerie: ...Even if he [i]is[/i] a necromancer.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a053e3fd1d0d37ba",
     "original": "VALERIE: ...Please let me testify about what I saw.",
-    "translation": "",
+    "translation": "VALERIE: ……请让我就自己所见进行作证。",
     "context": "{\n  \"id\": \"line:040ac81\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"VALERIE: ...Please let me testify about what I saw.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5d9a39a13438074f",
     "original": "VALERIE: I’ll tell all of you what really happened that day.",
-    "translation": "",
+    "translation": "VALERIE: 我会告诉你所有人，那天实际上发生了什么。",
     "context": "{\n  \"id\": \"line:0dedd13\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"VALERIE: I’ll tell all of you what really happened that day.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04b7231f860846ed",
     "original": "JUDGE: ...",
-    "translation": "",
+    "translation": "JUDGE: ……",
     "context": "{\n  \"id\": \"line:087d3e3\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"JUDGE: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::197fea8c60cf21e0",
     "original": "Tyrion: Your Honor,[p/] I believe we may all benefit from hearing Ms. Ianus's testimony.",
-    "translation": "",
+    "translation": "Tyrion: 法官阁下，[p/]我相信我们都能从伊努斯女士的证词中受益。",
     "context": "{\n  \"id\": \"line:0a095f8\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"Tyrion: Your Honor,[p/] I believe we may all benefit from hearing Ms. Ianus's testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::15f1299f18f23f3f",
     "original": "JUDGE: Very well,[p/] but understand that there will be repercussions for your actions, witness.",
-    "translation": "",
+    "translation": "JUDGE: 很好，[p/]但你要明白你的行为会招致对应的处理结果，证人。",
     "context": "{\n  \"id\": \"line:06d345c\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"JUDGE: Very well,[p/] but understand that there will be repercussions for your actions, witness.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d8e8a66620050442",
     "original": "VALERIE: I know...",
-    "translation": "",
+    "translation": "VALERIE: I我明白……",
     "context": "{\n  \"id\": \"line:0129e62\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"VALERIE: I know...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7d4c0f66cacfb690",
     "original": "Valerie: My sister and I were walking in the hallway from the kitchen to the west exit.",
-    "translation": "",
+    "translation": "Valerie: 姐姐和我当时走在从厨房到西部出口的走廊上。",
     "context": "{\n  \"id\": \"line:00eabc2\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"Valerie: My sister and I were walking in the hallway from the kitchen to the west exit.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::606c6596d7ab98fe",
     "original": "Valerie: That's when I suddenly spotted the professor lying in a pool of blood in a nearby classroom.",
-    "translation": "",
+    "translation": "Valerie: 就是那时，我突然发现附近的讲堂里，教授倒在一片血泊之中。",
     "context": "{\n  \"id\": \"line:0075bf8\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"Valerie: That's when I suddenly spotted the professor lying in a pool of blood in a nearby classroom.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9defb54b2da58ea6",
     "original": "Valerie: Valentina used a communication device to call for help while I tried to save her.",
-    "translation": "",
+    "translation": "Valerie: 瓦伦蒂娜用通讯设备呼叫求助，同时我试着挽救教授。",
     "context": "{\n  \"id\": \"line:018185e\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"Valerie: Valentina used a communication device to call for help while I tried to save her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04cdc13f423bd6d1",
     "original": "Valerie: I saw that she was bleeding,[p/] so I cast [b]Mend Wounds[/b] on her to close her wounds.",
-    "translation": "",
+    "translation": "Valerie: 我看到她正在流血，[p/]所以我对她施放了[b]疗愈术[/b]来愈合伤口。",
     "context": "{\n  \"id\": \"line:0f5cfbf\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"Valerie: I saw that she was bleeding,[p/] so I cast [b]Mend Wounds[/b] on her to close her wounds.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0537f7fd5d4b2b2d",
     "original": "Valerie: But it was too late.[p/] I closed the hole in her chest,[p/] but she was already dead.",
-    "translation": "",
+    "translation": "Valerie: 但已经来不及了。[p/]我把她胸口的那个洞合上了，[p/]但她已经死亡。",
     "context": "{\n  \"id\": \"line:084f85e\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"Valerie: But it was too late.[p/] I closed the hole in her chest,[p/] but she was already dead.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a35f7db134afb695",
     "original": "JUDGE: ...There was a hole in her chest?",
-    "translation": "",
+    "translation": "JUDGE: ……她胸口有一个洞？",
     "context": "{\n  \"id\": \"line:0b0a11f\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"JUDGE: ...There was a hole in her chest?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d7abf3c3c4db10db",
     "original": "TYRION: Your Honor.[p/] As you can clearly see from the witness’ testimony,[p/] the trace of [b]necromancy[/b] was left by the witness,[p/] not my client.",
-    "translation": "",
+    "translation": "TYRION: 法官阁下。[p/]您能通过证词清楚地知道，[p/][b]死灵术[/b]魔法的痕迹是证人留下的，[p/]不是我的委托人。",
     "context": "{\n  \"id\": \"line:0c21a44\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"TYRION: Your Honor.[p/] As you can clearly see from the witness’ testimony,[p/] the trace of [b]necromancy[/b] was left by the witness,[p/] not my client.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::88d08bff0c21d39b",
     "original": "TYRION: What’s more,[p/] it’s clear that there was a [i]physical[/i] wound on the body.",
-    "translation": "",
+    "translation": "TYRION: 还有，[p/]很明显尸体上曾经有一处[i]外伤[/i]。",
     "context": "{\n  \"id\": \"line:048bc0b\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"TYRION: What’s more,[p/] it’s clear that there was a [i]physical[/i] wound on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f02e103d53142421",
     "original": "JUDGE: I-[p/][s/]I see...[p/] Well...",
-    "translation": "",
+    "translation": "JUDGE: 我、[p/][s/]我明白了……[p/]那么……",
     "context": "{\n  \"id\": \"line:03d71f9\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"JUDGE: I-[p/][s/]I see...[p/] Well...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c016d41c4ae33de5",
     "original": "His words trailed off.",
-    "translation": "",
+    "translation": "他的言语没了后续。",
     "context": "{\n  \"id\": \"line:0b4f48f\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"His words trailed off.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eabde79018ef4e65",
     "original": "He clearly didn’t want to pass a verdict with no clear culprit.",
-    "translation": "",
+    "translation": "显然，在没有明确凶手身份的情况下，法官并不想下达判决。",
     "context": "{\n  \"id\": \"line:0592df0\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"He clearly didn’t want to pass a verdict with no clear culprit.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9dd4adcf14a65da1",
     "original": "But he had no choice.[p/] The case against Wallace was predicated on Bellwether being killed by [b]Necrotic Blight[/b].",
-    "translation": "",
+    "translation": "但他也没有选择，[p/]对华莱士的指控内容是他用[b]索命咒[/b]杀死了贝尔维瑟。",
     "context": "{\n  \"id\": \"line:0c38f2b\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"But he had no choice.[p/] The case against Wallace was predicated on Bellwether being killed by [b]Necrotic Blight[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b65c213386a181be",
     "original": "With Valerie’s testimony,[p/] the prosecution didn't have a shred of evidence implicating him.",
-    "translation": "",
+    "translation": "有了瓦莱丽的证词，[p/]检方没有任何证据表明他有罪。",
     "context": "{\n  \"id\": \"line:077e7f7\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"With Valerie’s testimony,[p/] the prosecution didn't have a shred of evidence implicating him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6c71497a8247001c",
     "original": "JUDGE: [i]*sigh*[/i][p/] Very well.[p/] The court sees no reason to prolong this trial.",
-    "translation": "",
+    "translation": "JUDGE: [i]*叹气*[/i][p/]好吧。[p/]看起来本庭也没有理由继续本次审理。",
     "context": "{\n  \"id\": \"line:09e91ef\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"JUDGE: [i]*sigh*[/i][p/] Very well.[p/] The court sees no reason to prolong this trial.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::079dd1d8cdc0a11b",
     "original": "JUDGE: With these new developments,[p/] the court has no choice but to find Wallace Nightgrave—",
-    "translation": "",
+    "translation": "JUDGE: 依据新发现的事实，[p/]本法庭已经没有其他选择，我们只能判定华莱士·奈特格雷夫没有——",
     "context": "{\n  \"id\": \"line:0f417c5\",\n  \"node\": \"Val2Obj_6\",\n  \"text\": \"JUDGE: With these new developments,[p/] the court has no choice but to find Wallace Nightgrave—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::abb3a1f21e5a12b7",
     "original": "AriaC: I believe the court is ignoring one key detail of the witness’s testimony.",
-    "translation": "",
+    "translation": "AriaC: 我相信本次庭审忽略了刚才证词中的一个关键细节。",
     "context": "{\n  \"id\": \"line:0bb728b\",\n  \"node\": \"Val2Obj_7\",\n  \"text\": \"AriaC: I believe the court is ignoring one key detail of the witness’s testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8ade1597e0b1208e",
     "original": "TYRION: ...And what would that be, Ms. Steelwind?",
-    "translation": "",
+    "translation": "TYRION: ……你指的是什么，斯蒂尔文德女士？",
     "context": "{\n  \"id\": \"line:0923a24\",\n  \"node\": \"Val2Obj_7\",\n  \"text\": \"TYRION: ...And what would that be, Ms. Steelwind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1c262a03b61cee84",
     "original": "AriaC: Let’s re-examine the witness’s testimony.",
-    "translation": "",
+    "translation": "AriaC: 让我们重新审视刚才的证词。",
     "context": "{\n  \"id\": \"line:0512827\",\n  \"node\": \"Val2Obj_7\",\n  \"text\": \"AriaC: Let’s re-examine the witness’s testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::425a271931ef82be",
     "original": "AriaC: The communication device that Valentina Ianus used logs the time of day during each use.",
-    "translation": "",
+    "translation": "AriaC: 瓦伦蒂娜·伊努斯使用的那个通讯设备会保存每次使用的时间。",
     "context": "{\n  \"id\": \"line:0a5b0c1\",\n  \"node\": \"Val2Obj_7\",\n  \"text\": \"AriaC: The communication device that Valentina Ianus used logs the time of day during each use.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cde9407ffbdbbe73",
     "original": "AriaC: From this log,[p/] we know that Valentina used this device at 3:04 PM.",
-    "translation": "",
+    "translation": "AriaC: 从记录中中，[p/]我们可以得知瓦伦蒂娜在下午 3:04 使用了这个设备。",
     "context": "{\n  \"id\": \"line:01c1dc5\",\n  \"node\": \"Val2Obj_7\",\n  \"text\": \"AriaC: From this log,[p/] we know that Valentina used this device at 3:04 PM.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6bc92dadbd6d5b10",
     "original": "AriaC: This was an hour after the time of death.",
-    "translation": "",
+    "translation": "AriaC: 那已经是死亡时间一小时后了。",
     "context": "{\n  \"id\": \"line:0097cc1\",\n  \"node\": \"Val2Obj_7\",\n  \"text\": \"AriaC: This was an hour after the time of death.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::165d61e4b63f1fd6",
     "original": "TYRION: Where are you going with this?",
-    "translation": "",
+    "translation": "TYRION: 你想说什么？",
     "context": "{\n  \"id\": \"line:00ba3b3\",\n  \"node\": \"Val2Obj_7\",\n  \"text\": \"TYRION: Where are you going with this?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::999deee463cdb413",
     "original": "AriaC: Mr. Cuthbert.[p/] There was a witness who saw the victim before the body was found:[p/] Jan Hughes.",
-    "translation": "",
+    "translation": "AriaC: 卡斯伯特先生。[p/]被害人的尸体被发现前有人见到过她本人，[p/]这位证人就是简·休斯。",
     "context": "{\n  \"id\": \"line:0f676fc\",\n  \"node\": \"Val2Obj_7\",\n  \"text\": \"AriaC: Mr. Cuthbert.[p/] There was a witness who saw the victim before the body was found:[p/] Jan Hughes.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::de3165e2a4099605",
     "original": "AriaC: He,[p/] along with another witness,[p/] spotted Bellwether walking in the hallways before the body was found.",
-    "translation": "",
+    "translation": "AriaC: 在贝尔维瑟的尸体被发现之前，[p/]他与另一位证人一起，[p/]看到过她在走廊路过。",
     "context": "{\n  \"id\": \"line:0e0438f\",\n  \"node\": \"Val2Obj_7\",\n  \"text\": \"AriaC: He,[p/] along with another witness,[p/] spotted Bellwether walking in the hallways before the body was found.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f98803a71ed50f9a",
     "original": "JAN: I was cleaning the halls.",
-    "translation": "",
+    "translation": "JAN: 我当时正在打扫大厅。",
     "context": "{\n  \"id\": \"line:03c203d\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"JAN: I was cleaning the halls.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5aedcc638e59fb6d",
     "original": "JAN: Bellwether knocked over a vase...[p/] There were shards and dirt everywhere.",
-    "translation": "",
+    "translation": "JAN: 贝尔维瑟撞倒了一个花瓶……[p/]搞得满地都是碎片和泥土。",
     "context": "{\n  \"id\": \"line:0e701a7\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"JAN: Bellwether knocked over a vase...[p/] There were shards and dirt everywhere.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::050fa89e1321901c",
     "original": "TYRION: Wait...[p/] You [s/][i]saw[/i] the professor before the twins arrived?",
-    "translation": "",
+    "translation": "TYRION: 等等……[p/]你[s/]在双胞胎到来之前[i]看到了[/i]教授？",
     "context": "{\n  \"id\": \"line:0c68980\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"TYRION: Wait...[p/] You [s/][i]saw[/i] the professor before the twins arrived?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e31175a7834f2f2a",
     "original": "JAN: Yeah.[p/] Like I said,[p/] she broke the vase right in this hallway...",
-    "translation": "",
+    "translation": "JAN: 是啊。[p/]我刚才说过了，[p/]她把走廊里的花瓶打碎了……",
     "context": "{\n  \"id\": \"line:051ce11\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"JAN: Yeah.[p/] Like I said,[p/] she broke the vase right in this hallway...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f2cf3b553beee731",
     "original": "JAN: It was probably 20-30 minutes before the twins found the body.",
-    "translation": "",
+    "translation": "JAN: 大概是在那对双胞胎发现尸体 20 到 30 分钟之前。",
     "context": "{\n  \"id\": \"line:0533104\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"JAN: It was probably 20-30 minutes before the twins found the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8ebe106a2eba08f0",
     "original": "AriaC: “20-30 minutes” before the body was found.",
-    "translation": "",
+    "translation": "AriaC: 尸体被发现前“20 到 30 分钟”。",
     "context": "{\n  \"id\": \"line:09d49c0\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"AriaC: “20-30 minutes” before the body was found.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f3944cb511547f6",
     "original": "AriaC: Do you see the discrepancy, Mr. Cuthbert?",
-    "translation": "",
+    "translation": "AriaC: 卡斯伯特先生，你发现这里面的问题了吗？",
     "context": "{\n  \"id\": \"line:0f9b765\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"AriaC: Do you see the discrepancy, Mr. Cuthbert?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2ba668824d972147",
     "original": "Wait...[p/][s/] That couldn't be right!",
-    "translation": "",
+    "translation": "等等……[p/][s/]不可能是这样的！",
     "context": "{\n  \"id\": \"line:0d13d71\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"Wait...[p/][s/] That couldn't be right!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9bea346762aefb34",
     "original": "Bellwether died more than an [i]hour[/i] before the body was found...",
-    "translation": "",
+    "translation": "贝尔维瑟在尸体被发现时已经死了不止[i]一小时[/i]了……",
     "context": "{\n  \"id\": \"line:0432abf\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"Bellwether died more than an [i]hour[/i] before the body was found...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8e33d69b4cf2a850",
     "original": "So how did Jan see her half an hour [i]after[/i] her death?!",
-    "translation": "",
+    "translation": "简怎么能在她[i]死后[/i]半小时看到她？！",
     "context": "{\n  \"id\": \"line:035004b\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"So how did Jan see her half an hour [i]after[/i] her death?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::867f85fdaff51e50",
     "original": "AriaC: I wonder, Mr. Cuthbert.",
-    "translation": "",
+    "translation": "AriaC: 我有点好奇啊，卡斯伯特先生。",
     "context": "{\n  \"id\": \"line:0997780\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"AriaC: I wonder, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::445757e040b89e2a",
     "original": "AriaC: How could one make a dead body move and walk around?",
-    "translation": "",
+    "translation": "AriaC: 怎样能使一具死尸到处行走呢？",
     "context": "{\n  \"id\": \"line:09bfb4b\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"AriaC: How could one make a dead body move and walk around?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb0c14e3999ab99a",
     "original": "TYRION: No...",
-    "translation": "",
+    "translation": "TYRION: 不……",
     "context": "{\n  \"id\": \"line:00d5988\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"TYRION: No...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4096e88584439841",
     "original": "AriaC: We didn't just arrest the defendant based on those traces of [b]necromancy[/b].",
-    "translation": "",
+    "translation": "AriaC: 我们并非只基于[b]死灵术[/b]的痕迹逮捕了被告。",
     "context": "{\n  \"id\": \"line:040c7e2\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"AriaC: We didn't just arrest the defendant based on those traces of [b]necromancy[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2ce5865ff6227501",
     "original": "AriaC: We arrested him because only [i]one[/i] person in that school could have animated her corpse!",
-    "translation": "",
+    "translation": "AriaC: 我们是因为他是学院里[i]唯一[/i]能驱动尸体的人才逮捕他的！",
     "context": "{\n  \"id\": \"line:0eb0542\",\n  \"node\": \"Val2Obj_8\",\n  \"text\": \"AriaC: We arrested him because only [i]one[/i] person in that school could have animated her corpse!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1728897c8b4a19d5",
     "original": "Gallery: An undead?![p/][s/] Created [i]within[/i] the Imperial Academy?!",
-    "translation": "",
+    "translation": "Gallery: 僵尸？！[p/][s/]还是在帝国学院[i]内[/i]创造出来的？！",
     "context": "{\n  \"id\": \"line:0860c42\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"Gallery: An undead?![p/][s/] Created [i]within[/i] the Imperial Academy?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a168947b156c9152",
     "original": "Gallery: How reprehensible!",
-    "translation": "",
+    "translation": "Gallery: 多么不道德！",
     "context": "{\n  \"id\": \"line:09bc72d\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"Gallery: How reprehensible!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0d9c1ea4dc87b300",
     "original": "TYRION: That’s ridiculous![p/][s/] She had a hole in her chest when the twins found her!",
-    "translation": "",
+    "translation": "TYRION: 太荒谬了！[p/][s/]她被双胞胎发现的时候胸口可是有个洞！",
     "context": "{\n  \"id\": \"line:05932d5\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"TYRION: That’s ridiculous![p/][s/] She had a hole in her chest when the twins found her!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::35dbd7d310e34414",
     "original": "TYRION: Jan Hughes would have noticed that!",
-    "translation": "",
+    "translation": "TYRION: 简·休斯肯定会注意到这一点！",
     "context": "{\n  \"id\": \"line:0a4fd10\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"TYRION: Jan Hughes would have noticed that!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::773c14bf726e722d",
     "original": "AriaC: [b]Animate Corpse[/b] stops the flow of blood.[p/] So she wouldn’t have tracked blood anywhere.",
-    "translation": "",
+    "translation": "AriaC: [b]活化死尸[/b]可以停止血液流动。[p/]所以她不会在其他任何地方留下血迹。",
     "context": "{\n  \"id\": \"line:066acc9\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"AriaC: [b]Animate Corpse[/b] stops the flow of blood.[p/] So she wouldn’t have tracked blood anywhere.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::69a2863eb357e228",
     "original": "AriaC: The defendant is also proficient with [b]illusion[/b] magic.",
-    "translation": "",
+    "translation": "AriaC: 被告的[b]幻象术[/b]也相当精湛。",
     "context": "{\n  \"id\": \"line:04c94bb\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"AriaC: The defendant is also proficient with [b]illusion[/b] magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::67deab0bc8954295",
     "original": "AriaC: He could have easily used an [b]illusion[/b] spell to hide the undead Bellwether’s wounds.",
-    "translation": "",
+    "translation": "AriaC: 对他来说，使用某种[b]幻象术[/b]隐藏僵尸贝尔维瑟的伤口也很简单。",
     "context": "{\n  \"id\": \"line:0236a88\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"AriaC: He could have easily used an [b]illusion[/b] spell to hide the undead Bellwether’s wounds.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::79c14432e55a04e2",
     "original": "TYRION: But another party could have easily used [b]illusion[/b] magic to disguise themselves as the victim.",
-    "translation": "",
+    "translation": "TYRION: 但其他人也可以轻易地使用[b]幻象术[/b]魔法把自己伪装成被害人。",
     "context": "{\n  \"id\": \"line:0f599be\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"TYRION: But another party could have easily used [b]illusion[/b] magic to disguise themselves as the victim.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::de211a938f1392ff",
     "original": "AriaC: If that were true,[p/] how did they move the body to the classroom?",
-    "translation": "",
+    "translation": "AriaC: 如果是这样的话，[p/]他们又要怎么把尸体移动到讲堂里？",
     "context": "{\n  \"id\": \"line:04f6dd1\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"AriaC: If that were true,[p/] how did they move the body to the classroom?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c108315ddcc17968",
     "original": "JUDGE: Hm...",
-    "translation": "",
+    "translation": "JUDGE: 嗯……",
     "context": "{\n  \"id\": \"line:000004d\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"JUDGE: Hm...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e385f384743df2e9",
     "original": "JUDGE: Ms. Steelwind.[p/] If your theory is true,[p/] it would mean that the murder occurred elsewhere.",
-    "translation": "",
+    "translation": "JUDGE: 斯蒂尔文德女士。[p/]如果你的主张为真，[p/]就意味着谋杀发生在其他地方。",
     "context": "{\n  \"id\": \"line:0236200\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"JUDGE: Ms. Steelwind.[p/] If your theory is true,[p/] it would mean that the murder occurred elsewhere.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fcea97b3d29742fc",
     "original": "JUDGE: Would the Inquisition happen to know where?",
-    "translation": "",
+    "translation": "JUDGE: 裁判所知道是哪里吗？",
     "context": "{\n  \"id\": \"line:061ab36\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"JUDGE: Would the Inquisition happen to know where?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ae35d6042079ab2e",
     "original": "AriaC: ...Regrettably,[p/] we do not.",
-    "translation": "",
+    "translation": "AriaC: ……很抱歉，[p/]我们还不知道。",
     "context": "{\n  \"id\": \"line:0fbfa99\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"AriaC: ...Regrettably,[p/] we do not.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0f3b59fa70997202",
     "original": "Tyrion: Then the prosecution's case against my client is still faulty!",
-    "translation": "",
+    "translation": "Tyrion: 那么检方对我的委托人的指控仍然是错误的！",
     "context": "{\n  \"id\": \"line:0ec52fe\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"Tyrion: Then the prosecution's case against my client is still faulty!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1764e47f7561d11a",
     "original": "Tyrion: You can't convict my client without more evidence!",
-    "translation": "",
+    "translation": "Tyrion: 在没有其他证据的情况下，你不能判我的委托人有罪！",
     "context": "{\n  \"id\": \"line:07954ab\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"Tyrion: You can't convict my client without more evidence!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e0535c79768d6e1c",
     "original": "JUDGE: I must agree with Mr. Cuthbert.",
-    "translation": "",
+    "translation": "JUDGE: 我只能同意卡斯伯特先生的意见。",
     "context": "{\n  \"id\": \"line:0ba2a22\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"JUDGE: I must agree with Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ec2b9483e947ef20",
     "original": "JUDGE: With these new developments,[p/] the court sees it fit to suspend the trial for the time being.",
-    "translation": "",
+    "translation": "JUDGE: 依据新发现的事实，[p/]本次庭审应当暂时中断。",
     "context": "{\n  \"id\": \"line:0e1d6b4\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"JUDGE: With these new developments,[p/] the court sees it fit to suspend the trial for the time being.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a8318d8045e436fc",
     "original": "JUDGE: We will give the Inquisition time to investigate these unknowns.",
-    "translation": "",
+    "translation": "JUDGE: 我们将给裁判所一点时间来调查新出现的未知情况。",
     "context": "{\n  \"id\": \"line:00c9bce\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"JUDGE: We will give the Inquisition time to investigate these unknowns.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::beb458152a2b565a",
     "original": "JUDGE: Court proceedings for this case will resume tomorrow morning.",
-    "translation": "",
+    "translation": "JUDGE: 依据新发现的事实，[p/]本次庭审应当暂时中断。",
     "context": "{\n  \"id\": \"line:0567052\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"JUDGE: Court proceedings for this case will resume tomorrow morning.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cd24a9b68eb23ee9",
     "original": "JUDGE: Court is adjourned.",
-    "translation": "",
+    "translation": "JUDGE: 休庭。",
     "context": "{\n  \"id\": \"line:0ee6b0e\",\n  \"node\": \"Val2Obj_9\",\n  \"text\": \"JUDGE: Court is adjourned.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0c42aac285a0b5cf",
     "original": "CELESTE: Hey...[p/] Are you feeling okay?",
-    "translation": "",
+    "translation": "CELESTE: 嘿……[p/]你感觉还好吗？",
     "context": "{\n  \"id\": \"line:0075fde\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \"CELESTE: Hey...[p/] Are you feeling okay?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2afb80e1b926e953",
     "original": "A body was seen moving around an hour after death...",
-    "translation": "",
+    "translation": "被害者死后一个小时，尸体被目击四处移动……",
     "context": "{\n  \"id\": \"line:0705e27\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \"A body was seen moving around an hour after death...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::850060339fabfaae",
     "original": "It clearly wasn't Bellwether...",
-    "translation": "",
+    "translation": "那肯定不是贝尔维瑟本人……",
     "context": "{\n  \"id\": \"line:0da9e37\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \"It clearly wasn't Bellwether...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5123986cf0d5f2a",
     "original": "Or at the very least,[p/] she wasn't alive when Jan ran into her.",
-    "translation": "",
+    "translation": "或者至少可以认为，[p/]被简看到的那个时候她已经死了。",
     "context": "{\n  \"id\": \"line:0a3446f\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \"Or at the very least,[p/] she wasn't alive when Jan ran into her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f0dc5777c1c79d2a",
     "original": "So, what was it?",
-    "translation": "",
+    "translation": "所以到底发生了什么事情？",
     "context": "{\n  \"id\": \"line:0626129\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \"So, what was it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b27a3a3426350687",
     "original": "CELESTE: Tyrion...?",
-    "translation": "",
+    "translation": "CELESTE: 提利昂……？",
     "context": "{\n  \"id\": \"line:022da53\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \"CELESTE: Tyrion...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f3c22b5a3011afbd",
     "original": ":Steelwind was right about one thing:[p/] there was [b]illusion[/b] magic involved...",
-    "translation": "",
+    "translation": "斯蒂尔文德说对了一件事：[p/]作案过程中肯定有人施放[b]幻象术[/b]……",
     "context": "{\n  \"id\": \"line:07847cb\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \":Steelwind was right about one thing:[p/] there was [b]illusion[/b] magic involved...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ed7fe0ab23cbdecc",
     "original": "But which spell was it?[p/] Could it have been [b]Illusory Disguise[/b]?",
-    "translation": "",
+    "translation": "但具体是哪种法术？[p/]会是[b]幻象伪装[/b]吗？",
     "context": "{\n  \"id\": \"line:05d39d9\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \"But which spell was it?[p/] Could it have been [b]Illusory Disguise[/b]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e3be130fbd589574",
     "original": "CELESTE: Tyrion!",
-    "translation": "",
+    "translation": "CELESTE: 提利昂！",
     "context": "{\n  \"id\": \"line:0b7b0a6\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \"CELESTE: Tyrion!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::de16288d13301952",
     "original": "TYRION: Ah...![p/] What...?",
-    "translation": "",
+    "translation": "TYRION: 啊……！[p/]怎么了……？",
     "context": "{\n  \"id\": \"line:0a89f22\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \"TYRION: Ah...![p/] What...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::712eb51968038f7f",
     "original": "CELESTE: You’ve been pacing around the lobby since the trial ended.",
-    "translation": "",
+    "translation": "CELESTE: 庭审结束后，你一直就在大厅里走来走去。",
     "context": "{\n  \"id\": \"line:005448b\",\n  \"node\": \"Val2Obj_10\",\n  \"text\": \"CELESTE: You’ve been pacing around the lobby since the trial ended.\"\n}"
   },
   {
