@@ -5522,97 +5522,97 @@
   {
     "key": "C2 Dialogue.csv::translation::5ff8d87d2e816048",
     "original": "AriaC: No...![p/][s/] Did he seriously—?!",
-    "translation": "",
+    "translation": "AriaC: 不会吧……！[p/][s/]他真的被——？！",
     "context": "{\n  \"id\": \"line:0c5debb\",\n  \"node\": \"Val2Obj_4\",\n  \"text\": \"AriaC: No...![p/][s/] Did he seriously—?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d2c7be33f047ffc3",
     "original": "JUDGE: W-[p/][s/] What is it, Prosecutor Steelwind?",
-    "translation": "",
+    "translation": "JUDGE: 怎、[p/][s/]怎么了，斯蒂尔文德检察官？",
     "context": "{\n  \"id\": \"line:04e5d64\",\n  \"node\": \"Val2Obj_4\",\n  \"text\": \"JUDGE: W-[p/][s/] What is it, Prosecutor Steelwind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::77331db101b1a523",
     "original": "AriaC: What I [i]see[/i] is the commander seeking new employment in the near future...",
-    "translation": "",
+    "translation": "AriaC: 我[i]发现[/i]指挥官最近该去找新工作了……",
     "context": "{\n  \"id\": \"line:0c06560\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"AriaC: What I [i]see[/i] is the commander seeking new employment in the near future...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eec1d83c7acdfd6b",
     "original": "AriaC: [i]*sigh*[/i][p/] It appears that the defense was correct.",
-    "translation": "",
+    "translation": "AriaC: [i]*叹气*[/i][p/]看起来辩方是对的。",
     "context": "{\n  \"id\": \"line:0afe822\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"AriaC: [i]*sigh*[/i][p/] It appears that the defense was correct.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8b2b39bf07f9cdc8",
     "original": "AriaC: Valentina Ianus isn’t a mage,[p/] but Valerie Ianus is.",
-    "translation": "",
+    "translation": "AriaC: 瓦伦蒂娜·伊努斯确实不是法师……[p/]但瓦莱丽·伊努斯是。",
     "context": "{\n  \"id\": \"line:0086327\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"AriaC: Valentina Ianus isn’t a mage,[p/] but Valerie Ianus is.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::243d653a96793e64",
     "original": "AriaC: What’s more,[p/] Valerie Ianus’s [b]Compendium[/b] contains the [b]Mend Wounds[/b] spell.",
-    "translation": "",
+    "translation": "AriaC: 还有，[p/]瓦莱丽·伊努斯的[b]法术汇编[/b]包括了[b]疗愈术[/b]这个魔法。",
     "context": "{\n  \"id\": \"line:0438cbe\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"AriaC: What’s more,[p/] Valerie Ianus’s [b]Compendium[/b] contains the [b]Mend Wounds[/b] spell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c81e5c52212f1691",
     "original": "AriaC: Which makes the defense’s theory entirely plausible.",
-    "translation": "",
+    "translation": "AriaC: 意味着得辩方的推论是完全合理的。",
     "context": "{\n  \"id\": \"line:0e955d0\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"AriaC: Which makes the defense’s theory entirely plausible.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fcd929cd6fc1b134",
     "original": "VALERIE: P-[p/][s/]Please...[p/][s/] Just allow me to explain...",
-    "translation": "",
+    "translation": "VALERIE: 拜、[p/][s/]拜托……[p/][s/]让我解释一下……",
     "context": "{\n  \"id\": \"line:038fa7f\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"VALERIE: P-[p/][s/]Please...[p/][s/] Just allow me to explain...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5fb6128703219c21",
     "original": "AriaC: We should allow you to explain [i]what[/i] exactly?",
-    "translation": "",
+    "translation": "AriaC: 我们该容许你解释[i]什么[/i] ？",
     "context": "{\n  \"id\": \"line:0b9f8a9\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"AriaC: We should allow you to explain [i]what[/i] exactly?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::46fb8847a2bf3b09",
     "original": "AriaC: You're an unregistered mage,[p/] and you and your sister have made a mess of the investigation and this trial.",
-    "translation": "",
+    "translation": "AriaC: 你是未注册的法师，[p/]而且你们两姐妹还把调查与庭审搅得一团糟。",
     "context": "{\n  \"id\": \"line:04a189f\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"AriaC: You're an unregistered mage,[p/] and you and your sister have made a mess of the investigation and this trial.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::50b59e28d69aa850",
     "original": "VALERIE: How would you know what it’s like, [i]Lady[/i] Steelwind?",
-    "translation": "",
+    "translation": "VALERIE: 你怎么可能明白这种感受，斯蒂尔文德[i]小姐[/i]？",
     "context": "{\n  \"id\": \"line:0561594\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"VALERIE: How would you know what it’s like, [i]Lady[/i] Steelwind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8a773e738f904396",
     "original": "AriaC: ...What?",
-    "translation": "",
+    "translation": "AriaC: ……什么？",
     "context": "{\n  \"id\": \"line:07e39dc\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"AriaC: ...What?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::59f261aaaf7fff35",
     "original": "VALERIE: Do you think we don't know who you are?",
-    "translation": "",
+    "translation": "VALERIE: 你以为我们不知道你是谁？",
     "context": "{\n  \"id\": \"line:09ff9d2\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"VALERIE: Do you think we don't know who you are?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::51656e67dd9ef6e9",
     "original": "VALERIE: You’re not like us.[p/] You don’t [i]have[/i] to hide.",
-    "translation": "",
+    "translation": "VALERIE: 你和我们并不一样。[p/]你[i]用不着[/i]隐藏什么。",
     "context": "{\n  \"id\": \"line:0df3a32\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"VALERIE: You’re not like us.[p/] You don’t [i]have[/i] to hide.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8b5983d638686ee3",
     "original": "VALERIE: But it's okay...[p/] This whole situation has gotten out of hand.",
-    "translation": "",
+    "translation": "VALERIE: 但是没关系……[p/]反正整个局面早就失控了。",
     "context": "{\n  \"id\": \"line:0d11acc\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"VALERIE: But it's okay...[p/] This whole situation has gotten out of hand.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::05f1ccf6f843551d",
     "original": "VALERIE: I didn’t think hiding it would cause so much trouble,[p/] and I won’t let someone go to prison because of me.",
-    "translation": "",
+    "translation": "VALERIE: 我之前没想到隐藏这一点会造成这么多问题，[p/]但我也不会让别人因为自己坐牢。",
     "context": "{\n  \"id\": \"line:041f8e4\",\n  \"node\": \"Val2Obj_5\",\n  \"text\": \"VALERIE: I didn’t think hiding it would cause so much trouble,[p/] and I won’t let someone go to prison because of me.\"\n}"
   },
   {
