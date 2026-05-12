@@ -5392,7 +5392,7 @@
   {
     "key": "C2 Dialogue.csv::translation::9f63302cb4f19eaa",
     "original": "AriaC: During the investigation,[p/] we had both the Ianus sisters attune to a [b]Spell Compendium[/b].",
-    "translation": "AriaC: 在调查期间[p/]我们让姐妹两个都与[b]法术汇编[/b]调谐。",
+    "translation": "AriaC: 在调查期间[p/]我们让姐妹两个都]尝试与[b]法术汇编[/b]绑定。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:02ae261\",\n  \"node\": \"ValObj_1\",\n  \"text\": \"AriaC: During the investigation,[p/] we had both the Ianus sisters attune to a [b]Spell Compendium[/b].\"\n}"
   },
@@ -5469,512 +5469,512 @@
   {
     "key": "C2 Dialogue.csv::translation::97a71415ca46a42d",
     "original": "TYRION: Celeste.[p/] Is it possible for a mage to hold a [b]Spell Compendium[/b] and avoid attuning to it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 塞莱斯特。[p/]法师触碰[b]法术汇编[/b]却不与之绑定，这种事情做得到吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:056e1a5\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"TYRION: Celeste.[p/] Is it possible for a mage to hold a [b]Spell Compendium[/b] and avoid attuning to it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c531ffc8a54695db",
     "original": "CELESTE: No...[p/] It just needs to be on their person.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 不行吧……[p/]只要带在身上就会生效了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01457a5\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"CELESTE: No...[p/] It just needs to be on their person.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::60cf62bfac1a8d79",
     "original": "CELESTE: ...When I was arrested,[p/] the Inquisition also made me attune to one of their [b]Spell Compendiums[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ……我被逮捕的时候，[p/]裁判所也让我绑定他们提供的一部[b]法术汇编[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c9ddbc\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"CELESTE: ...When I was arrested,[p/] the Inquisition also made me attune to one of their [b]Spell Compendiums[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::09e0cbdcfffbfae3",
     "original": "CELESTE: They were really careful to make sure that I did the attunement correctly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 他们很小心地确认了我有正确地与之绑定。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0170b04\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"CELESTE: They were really careful to make sure that I did the attunement correctly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5574bb9584f2f4ef",
     "original": "CELESTE: There’s no way a mage could avoid it with them watching you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 不可能有法师在他们眼皮子底下避免。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093518b\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"CELESTE: There’s no way a mage could avoid it with them watching you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e8b0a58d4e36d50c",
     "original": "Right...[p/] Commander White may have been negligent sometimes,[p/] but even [i]he[/i] wasn’t that careless.",
-    "translation": "",
-    "stage": 0,
+    "translation": "没错……[p/]怀特指挥官可能偶尔疏忽，[p/]但就算是[i]他[/i]也不会那么大意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:008dc31\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"Right...[p/] Commander White may have been negligent sometimes,[p/] but even [i]he[/i] wasn’t that careless.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4d852accdfe10f0d",
     "original": "AriaC: Now,[p/] if you’re done,[p/] I do believe that you’ve exhausted all your options.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: 既然你们讨论完了，[p/]我想你们手上也无牌可打了吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02dbd1a\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"AriaC: Now,[p/] if you’re done,[p/] I do believe that you’ve exhausted all your options.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b459608363ccf873",
     "original": "TYRION: W-[p/][s/]wait![p/][s/] I’m still not done cross-examining this witness!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 等、[p/][s/]等一下！[p/][s/]我还没对证人交叉询问呢！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6db2c\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"TYRION: W-[p/][s/]wait![p/][s/] I’m still not done cross-examining this witness!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a1919be622528668",
     "original": "AriaC: ...What could you possibly hope to glean from her testimony?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……从她的证词中你还能指望得到什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:014adf3\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"AriaC: ...What could you possibly hope to glean from her testimony?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d51b560d2e869be3",
     "original": "Valentina was stressed out enough to see her thoughts.",
-    "translation": "",
-    "stage": 0,
+    "translation": "瓦伦蒂娜十分紧张，足够我将她的想法看得一清二楚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:000041d\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"Valentina was stressed out enough to see her thoughts.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c186605921bd10ef",
     "original": "...But I couldn't exactly say that I was planning to read her mind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……但我又不能明说自己要读她的想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06c4fe2\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"...But I couldn't exactly say that I was planning to read her mind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0d843fb79d92480b",
     "original": "And at this point,[p/] I felt that I was already testing the judge's patience.",
-    "translation": "",
-    "stage": 0,
+    "translation": "到了这一步，[p/]我已经是在挑战法官的耐心了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e7f510\",\n  \"node\": \"ValObj_2\",\n  \"text\": \"And at this point,[p/] I felt that I was already testing the judge's patience.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2aa61d5c5e480977",
     "original": "TYRION: T-[p/][s/]There’s one key element of her testimony that the court is overlooking!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她、[p/][s/]她的证词里还有一个之前被忽略的关键！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0045190\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"TYRION: T-[p/][s/]There’s one key element of her testimony that the court is overlooking!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5d86d85713f36648",
     "original": "TYRION: I have a right as an attorney to complete my cross-examination.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我作为律师有权完成这次交叉询问。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02e6808\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"TYRION: I have a right as an attorney to complete my cross-examination.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::139bdb49a94d8b1e",
     "original": "AriaC: Your Honor.[p/] The defense is clearly trying to buy time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 法官阁下。[p/]辩方显然只是在试图拖延时间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:035e9eb\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"AriaC: Your Honor.[p/] The defense is clearly trying to buy time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::db0ee8bdb4db8a73",
     "original": "JUDGE: ...I might be compelled to agree with you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: ……也许我同意你的观点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09b6b4a\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"JUDGE: ...I might be compelled to agree with you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f71239d826879a14",
     "original": "JUDGE: However,[p/] I'll also admit that [i]some[/i] elements of the witness’s testimony are quite peculiar.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 然而，[p/]我也承认证人的证词中有[i]一些[/i]内容不太寻常。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f3a449\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"JUDGE: However,[p/] I'll also admit that [i]some[/i] elements of the witness’s testimony are quite peculiar.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2eb1869b3383df65",
     "original": "JUDGE: I will allow the defense to continue their cross-examination.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 我同意辩方进行这次交叉询问。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:094f6eb\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"JUDGE: I will allow the defense to continue their cross-examination.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::093160cfd45c2bef",
     "original": "That was close.",
-    "translation": "",
-    "stage": 0,
+    "translation": "好险。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0840328\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"That was close.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b3a8b11466db7ff5",
     "original": "JUDGE: ...But know that this is your last chance, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: ……但是请记住，这是你的最后一次机会，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b248b4\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"JUDGE: ...But know that this is your last chance, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8ec196a7aee42733",
     "original": "JUDGE: If you produce nothing substantial with your questioning,[p/] I [i]will[/i] pass my verdict.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 如果你在询问中没有得出什么重要的内容，[p/]我[i]会[/i]直接宣布判决。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dcce77\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"JUDGE: If you produce nothing substantial with your questioning,[p/] I [i]will[/i] pass my verdict.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bfd5f1752d0f67db",
     "original": "TYRION: O-[p/]Of course, Your Honor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 没、[p/]没问题，法官阁下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07de88d\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"TYRION: O-[p/]Of course, Your Honor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32083d3bcae81669",
     "original": "Alright...[p/] It was all or nothing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "好吧……[p/]成败在此一举。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:009c19e\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"Alright...[p/] It was all or nothing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4d30b127dbd61dd8",
     "original": "If I couldn't find anything by reading her mind,[p/] this whole case was finished.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果我不能在她的想法里找到什么……[p/]案件就会这么结束。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:039422b\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"If I couldn't find anything by reading her mind,[p/] this whole case was finished.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d8a74a5e6fa302c3",
     "original": "AriaC: ...Witness.[p/] Please give your testimony, once more.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……证人。[p/]请你再一次陈述证词。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0108e5d\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"AriaC: ...Witness.[p/] Please give your testimony, once more.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::90dfa64b335d0732",
     "original": "VALENTINA: U-[p/]Um... [p/]Okay... [h=\"How long does he plan|to keep me up here?!\" e=\"fa\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 啊、[p/]唔……[p/]好的……[h=\"该死！|他还想让我在这里呆多久？！\" e=\"fa\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ce6898\",\n  \"node\": \"ValObj_3\",\n  \"text\": \"VALENTINA: U-[p/]Um... [p/]Okay... [h=\\\"How long does he plan|to keep me up here?!\\\" e=\\\"fa\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0b7d43fd299b2a5a",
     "original": "Valentina: Like I said,[p/] my sister and I saw Ms. Bellwether bleeding on the ground.[p/] We rushed over to her. [h=\"I was definitely surprised|when I saw her like that.\" e=\"sf\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 正如我说过的，[p/]妹妹和我看见贝尔维瑟女士倒在血泊之中。[p/]我们赶紧冲过去查看。[h=\"看到她那个样子我确实很惊讶。\" e=\"sf\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0baf223\",\n  \"node\": \"Val2Test\",\n  \"text\": \"Valentina: Like I said,[p/] my sister and I saw Ms. Bellwether bleeding on the ground.[p/] We rushed over to her. [h=\\\"I was definitely surprised|when I saw her like that.\\\" e=\\\"sf\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb437567854fd9fe",
     "original": "Valentina: N-[p/][s/]Now that you mention it...[p/] I don’t know if I saw any wounds on her.[p/] But I definitely saw blood! [h=\"I can’t go back on that now...|I just need to play dumb.\" e=\"f\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 既、[p/][s/]既然你提到了……[p/]我也不知道有没有在她身上看到伤口。[p/]但我肯定看到血了！[h=\"这一点上没法回头了……|我只好装傻了。\" e=\"f\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a6ccb\",\n  \"node\": \"Val2Test\",\n  \"text\": \"Valentina: N-[p/][s/]Now that you mention it...[p/] I don’t know if I saw any wounds on her.[p/] But I definitely saw blood! [h=\\\"I can’t go back on that now...|I just need to play dumb.\\\" e=\\\"f\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::66caa20307192d63",
     "original": "Valentina: My sister tried to save her![p/][s/] But she didn’t use any magic! [h=\"Ugh, Valerie...|You’re too kind-hearted...\" e=\"af\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我妹妹尝试救助她！[p/][s/]但她没使用什么魔法！[h=\"啊，瓦莱丽……|你善良过头了……\" e=\"af\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0229072\",\n  \"node\": \"Val2Test\",\n  \"text\": \"Valentina: My sister tried to save her![p/][s/] But she didn’t use any magic! [h=\\\"Ugh, Valerie...|You’re too kind-hearted...\\\" e=\\\"af\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::86ebd762fbc3119b",
     "original": "Valentina: We're not mages![p/][s/] Both of us held that book the knights gave us! [h=\"I was caught off guard when they asked us.|They almost found us out.\" e=\"f\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我们俩不是法师！[p/][s/]我们都碰了骑士们给的那本书！[h=\"他们问的时候我有点措手不及。|差点就被发现了。\" e=\"f\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0006008\",\n  \"node\": \"Val2Test\",\n  \"text\": \"Valentina: We're not mages![p/][s/] Both of us held that book the knights gave us! [h=\\\"I was caught off guard when they asked us.|They almost found us out.\\\" e=\\\"f\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a5753ebcec7d945",
     "original": "Valentina: The commander was watching us the whole time![p/][s/] He can confirm it! [h=\"It’s a good thing that we’re twins...|Or else that trick wouldn’t have worked.\" e=\"hf\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 指挥官全程都在监视我们！[p/][s/]他可以作证！[h=\"还好我们是双胞胎……|不然这个把戏行不通的。\" e=\"hf\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0091251\",\n  \"node\": \"Val2Test\",\n  \"text\": \"Valentina: The commander was watching us the whole time![p/][s/] He can confirm it! [h=\\\"It’s a good thing that we’re twins...|Or else that trick wouldn’t have worked.\\\" e=\\\"hf\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bb1ad15b1a3dbc92",
     "original": "CELESTE: What are we going to do...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我们该怎么办……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b1f829\",\n  \"node\": \"Val2Test\",\n  \"text\": \"CELESTE: What are we going to do...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2286cb1a408c53b1",
     "original": "CELESTE: They have pretty hard proof that Valerie isn’t a mage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 关于瓦莱丽不是法师这一点，他们有相当确凿的证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cabd15\",\n  \"node\": \"Val2Test\",\n  \"text\": \"CELESTE: They have pretty hard proof that Valerie isn’t a mage.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::131cca299dfc60a5",
     "original": "TYRION: Valerie [i]is[/i] the mage we’re looking for.[p/] I’m sure of it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我很确定，[p/]瓦莱丽[i]就是[/i]我们在找的那个法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:083a72e\",\n  \"node\": \"Val2Test\",\n  \"text\": \"TYRION: Valerie [i]is[/i] the mage we’re looking for.[p/] I’m sure of it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::36e2335e275b31a2",
     "original": "Tyrion: I'm just not sure why they felt the need to lie to the Inquisition.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我只是不确定她们为什么要欺骗裁判所。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0219e96\",\n  \"node\": \"Val2Test\",\n  \"text\": \"Tyrion: I'm just not sure why they felt the need to lie to the Inquisition.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e85f5f72751a6da9",
     "original": "And more importantly,[p/] [i]how[/i] did they trick the Inquisition?",
-    "translation": "",
-    "stage": 0,
+    "translation": "更重要的是，[p/]她们[i]怎么[/i]骗过裁判所的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02d1127\",\n  \"node\": \"Val2Test\",\n  \"text\": \"And more importantly,[p/] [i]how[/i] did they trick the Inquisition?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e93bb268f817c82",
     "original": "That matched the details of her previous testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这与她早些时候证词的细节吻合。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09334a9\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"That matched the details of her previous testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::25b5c70d2b6f2a19",
     "original": "There was nothing suspicious there,[p/] but I had no reason to doubt this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这一部分没有可疑之处，[p/]而我也没有理由在这里做出疑问。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f87d5c\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"There was nothing suspicious there,[p/] but I had no reason to doubt this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a87c0c46b3719b6b",
     "original": "Tyrion: ...It sounds like you're just backtracking on your previous testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……听起来你是在推翻之前的证词。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0387bf0\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Tyrion: ...It sounds like you're just backtracking on your previous testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8be9be62b0092675",
     "original": "Valentina: I-[p/][s/]I'm not!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我、[p/][s/]我才没有啦！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:088902f\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: I-[p/][s/]I'm not!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3d7530be54d56660",
     "original": "Valentina: I guess I just assumed she was wounded because of all the blood!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我想……只是因为看到那么多的血才假设她受了伤！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02ade43\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: I guess I just assumed she was wounded because of all the blood!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7cf025bc593d1a4a",
     "original": "Valentina: How was [i]I[/i] supposed to know she didn't have any wounds?![p/][s/] There was so much blood!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: [i]我[/i]怎么会知道她身上没有伤口？！[p/][s/]地上那么大一摊血！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e3d01a\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: How was [i]I[/i] supposed to know she didn't have any wounds?![p/][s/] There was so much blood!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::783e03926b7f3d91",
     "original": "Her thoughts implied that she was lying,[p/] but her logic was sound.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她的想法已经透露了她在撒谎，[p/]但她证词的逻辑没有问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c69031\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Her thoughts implied that she was lying,[p/] but her logic was sound.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c608d7ce540f42be",
     "original": "I should look at the thoughts that appeared during her other statements.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我应该检查她在陈述其他证词时浮现的想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0365aa1\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"I should look at the thoughts that appeared during her other statements.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7861148d4deed7e3",
     "original": "Tyrion: If Valerie wasn't the one who closed her wounds,[p/] how did she try to \"help\" her?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果瓦莱丽没有让伤口愈合，[p/]那她怎么“救助”贝尔维瑟的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0530fcc\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Tyrion: If Valerie wasn't the one who closed her wounds,[p/] how did she try to \\\"help\\\" her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::af37b81e164f54c3",
     "original": "Valentina: I-[p/]I don't know...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我、[p/]我不知道……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03c0264\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: I-[p/]I don't know...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::97292eb1a67860d8",
     "original": "Valentina: She might have been looking for an open wound to apply first aid to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 她可能只是在寻找需要包扎的可见创口。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a2e58\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: She might have been looking for an open wound to apply first aid to.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f2fc9d85d898a2c0",
     "original": "Tyrion: But if we assume that you're telling the truth,[p/] there wouldn't be any wounds to find.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但如果我们假设你说的是事实，[p/]那一开始就没有任何可见外伤。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07c0dff\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Tyrion: But if we assume that you're telling the truth,[p/] there wouldn't be any wounds to find.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::51b009fc26b23310",
     "original": "Tyrion: My client would have already closed them to confound the investigation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你意思是因为伤口已经被我的委托人为了“扰乱调查”而治愈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e0420\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Tyrion: My client would have already closed them to confound the investigation.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5b3768cc84423079",
     "original": "Valentina: I'm telling you![p/][s/] I don't know!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我告诉你了！[p/][s/]我不知道！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c901cf\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: I'm telling you![p/][s/] I don't know!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6cac42d82bbeec89",
     "original": "She's pleading ignorance of what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她声称对事情经过一无所知。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a498f0\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"She's pleading ignorance of what happened.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d91c505cdc2b6df4",
     "original": "They \"almost\" found them out?",
-    "translation": "",
-    "stage": 0,
+    "translation": "他们“差一点”就发现了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04bf52f\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"They \\\"almost\\\" found them out?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d1afd5aac11a424a",
     "original": "Tyrion: Can I assume that this \"book\" was an unattuned [b]Spell Compendium[/b]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我可以认为这本“书”就是指未绑定的[b]法术汇编[/b]吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00d4965\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Tyrion: Can I assume that this \\\"book\\\" was an unattuned [b]Spell Compendium[/b]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b7890f6376ac34d1",
     "original": "AriaC: Yes.[p/] The Inquisition has several of them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 没错。[p/]裁判所有不少。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05a0f5f\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"AriaC: Yes.[p/] The Inquisition has several of them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1a1b78ca699a40d5",
     "original": "AriaC: It's standard procedure to have witnesses attune to them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 让证人与之绑定是标准程序。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f84dd3\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"AriaC: It's standard procedure to have witnesses attune to them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d9657c5cf6f0f4a8",
     "original": "Tyrion: But doesn't the kingdom require that mages register?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但王国不是要求法师必须注册在案吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05f5482\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Tyrion: But doesn't the kingdom require that mages register?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2b43537648c43854",
     "original": "Tyrion: Why don't you just cross-reference those records with the witnesses’ names?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你们将证人姓名与注册记录进行比对不就行了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03be908\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Tyrion: Why don't you just cross-reference those records with the witnesses’ names?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cb8c91ee147406f5",
     "original": "AriaC: For whatever reason,[p/] many mages among the commonfolk avoid registering with the kingdom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aria: 不论原因是什么，[p/]平民中的许多法师都不喜欢向王国注册身份。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a4127\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"AriaC: For whatever reason,[p/] many mages among the commonfolk avoid registering with the kingdom.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea320111dbb519fa",
     "original": "AriaC: As a result,[p/] many of them choose to hide their abilities.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 结果就是，[p/]他们中大多数都选择藏匿自己的能力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b84674\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"AriaC: As a result,[p/] many of them choose to hide their abilities.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::01b8f75021654ff0",
     "original": "Valentina: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ffa414\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d77dd9b2a89f0cc6",
     "original": "It was a \"good thing that they're twins\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她刚才是在想“还好我们是双胞胎”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:035fce6\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"It was a \\\"good thing that they're twins\\\"?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::47565edd39f20912",
     "original": "Tyrion: ...Did you pull some kind of trick to [i]deceive[/i] the Inquisition while attuning, Ms. Ianus?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……绑定汇编的时候，你是不是耍了什么花招来[i]欺瞒[/i]裁判所，伊努斯女士？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:039947b\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Tyrion: ...Did you pull some kind of trick to [i]deceive[/i] the Inquisition while attuning, Ms. Ianus?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bbac618bd2204d6d",
     "original": "Valentina: O-[p/]Of course not!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 当、[p/]当然没有！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aac0da\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: O-[p/]Of course not!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6ebb3d4cd53cbb30",
     "original": "Valentina: W-[p/][s/]We know that lying to the Inquisition would get us in trouble!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我、[p/][s/]我们知道向裁判所撒谎只会给自己惹麻烦！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0376044\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: W-[p/][s/]We know that lying to the Inquisition would get us in trouble!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0a2886f00190b480",
     "original": "Valentina: Why would [i]either[/i] of us take a risk like that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 为什么我们俩[i]一定[/i]要冒这么大的风险啊？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:008d8c3\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: Why would [i]either[/i] of us take a risk like that?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a7d00c4fa33e9ca6",
     "original": "Tyrion: Living as an unregistered mage is a serious crime.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 作为未注册的法师活动是一项重罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0747c3b\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Tyrion: Living as an unregistered mage is a serious crime.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cc7698b10671bf52",
     "original": "Tyrion: If Valerie [i]was[/i] a mage,[p/] then you would have been charged with fraud right then and there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果瓦莱丽[i]真的是[/i]一位法师，[p/]你们就会被当场指控欺诈罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0606fa0\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Tyrion: If Valerie [i]was[/i] a mage,[p/] then you would have been charged with fraud right then and there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5dbb3bf4b7c51f10",
     "original": "Valentina: Y-[p/]Yeah![p/][s/] But we already proved that we're not mages!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 是、[p/]是啊！[p/][s/]但已经证明了我们都不是法师！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09c798f\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Valentina: Y-[p/]Yeah![p/][s/] But we already proved that we're not mages!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2387361299d0c715",
     "original": "The Eye seems to differ,[p/] but I'd need something else to convince the court.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我的荷鲁斯之眼看到相悖的内容，[p/]但我需要其他的方法来说服法庭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:025b609\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"The Eye seems to differ,[p/] but I'd need something else to convince the court.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c59d24d4fc03359a",
     "original": "I needed to think through this.[p/] This wasn’t like a normal cross-examination.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我得通盘考虑一遍。[p/]这并不是平常的交叉询问。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0543e47\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"I needed to think through this.[p/] This wasn’t like a normal cross-examination.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a9eac3c3c9c8ee0e",
     "original": "Nearly all of her thoughts were suspicious and contrary to her testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她的所有想法都几乎可疑，而且与自己的证词相违背。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0530a49\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"Nearly all of her thoughts were suspicious and contrary to her testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::97a86b9b764f8488",
     "original": "What I needed to do was find the thought that gave me a thread to pull on.",
-    "translation": "",
-    "stage": 0,
+    "translation": "而我需要的就是找到那个可以让我找到更进一步线索的想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:025f184\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"What I needed to do was find the thought that gave me a thread to pull on.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3fdd8111cadc7489",
     "original": "In this case,[p/] I would need to find the thought that implied how the twins tricked the commander.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在这里，[p/]我需要找出那个导向她们这对双胞胎是如何愚弄了指挥官的那条想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:072b1f9\",\n  \"node\": \"Cross_Val2\",\n  \"text\": \"In this case,[p/] I would need to find the thought that implied how the twins tricked the commander.\"\n}"
   },
   {

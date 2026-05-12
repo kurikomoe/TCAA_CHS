@@ -807,7 +807,7 @@ line:0263a77,ValObj_1,AriaC: We’ve already verified that neither of the sister
 line:055284b,ValObj_1,Tyrion: ...,Tyrion: ……
 line:04d29e4,ValObj_1,TYRION: ...What?!,TYRION: ……怎么会？！
 line:0636716,ValObj_1,TYRION: W-[p/]Wait...[p/] How can you be so sure?,TYRION: 等、[p/]等等……[p/]你怎么能这么确信？
-line:02ae261,ValObj_1,"AriaC: During the investigation,[p/] we had both the Ianus sisters attune to a [b]Spell Compendium[/b].",AriaC: 在调查期间[p/]我们让姐妹两个都与[b]法术汇编[/b]调谐。
+line:02ae261,ValObj_1,"AriaC: During the investigation,[p/] we had both the Ianus sisters attune to a [b]Spell Compendium[/b].",AriaC: 在调查期间[p/]我们让姐妹两个都]尝试与[b]法术汇编[/b]绑定。
 line:0501ffc,ValObj_1,AriaC: It’s standard procedure for the Inquisition when interviewing witnesses.,AriaC: 这是裁判所在询问证人前的标准程序。
 line:0ae8542,ValObj_1,Tyrion: T-[p/]Then that means...,Tyrion: 那、[p/]那就是说……
 line:03aac32,ValObj_1,AriaC: Neither of the Ianus sisters could attune to a [b]Compendium[/b]!,AriaC: 伊努斯姐妹两个都无法与[b]汇编[/b]绑定！
@@ -818,87 +818,87 @@ line:01599a2,ValObj_1,No...[p/] That couldn’t be right.,不可能……[p/]不
 line:06fb249,ValObj_2,"VALENTINA: ...?! [h=""How did he|figure it out?!""/]","VALENTINA: .……？！ [h=""他是怎么|发现这点的？！""/]"
 line:0b2fb0c,ValObj_2,"Her thoughts said, “How did he figure it out?!”.[p/] That meant that I [i]was[/i] on the right track.",她的想法显示，“他是怎么发现这点的？！”[p/]这只意味着我[i]就在[/i]正确的道路上。
 line:04d04f8,ValObj_2,Valerie [i]had[/i] to be the mage I was looking for.,瓦莱丽[i]只能是[/i]我一直在找的那名法师。
-line:056e1a5,ValObj_2,TYRION: Celeste.[p/] Is it possible for a mage to hold a [b]Spell Compendium[/b] and avoid attuning to it?,
-line:01457a5,ValObj_2,CELESTE: No...[p/] It just needs to be on their person.,
-line:0c9ddbc,ValObj_2,"CELESTE: ...When I was arrested,[p/] the Inquisition also made me attune to one of their [b]Spell Compendiums[/b].",
-line:0170b04,ValObj_2,CELESTE: They were really careful to make sure that I did the attunement correctly.,
-line:093518b,ValObj_2,CELESTE: There’s no way a mage could avoid it with them watching you.,
-line:008dc31,ValObj_2,"Right...[p/] Commander White may have been negligent sometimes,[p/] but even [i]he[/i] wasn’t that careless.",
-line:02dbd1a,ValObj_2,"AriaC: Now,[p/] if you’re done,[p/] I do believe that you’ve exhausted all your options.",
-line:0f6db2c,ValObj_2,TYRION: W-[p/][s/]wait![p/][s/] I’m still not done cross-examining this witness!,
-line:014adf3,ValObj_2,AriaC: ...What could you possibly hope to glean from her testimony?,
+line:056e1a5,ValObj_2,TYRION: Celeste.[p/] Is it possible for a mage to hold a [b]Spell Compendium[/b] and avoid attuning to it?,TYRION: 塞莱斯特。[p/]法师触碰[b]法术汇编[/b]却不与之绑定，这种事情做得到吗？
+line:01457a5,ValObj_2,CELESTE: No...[p/] It just needs to be on their person.,CELESTE: 不行吧……[p/]只要带在身上就会生效了。
+line:0c9ddbc,ValObj_2,"CELESTE: ...When I was arrested,[p/] the Inquisition also made me attune to one of their [b]Spell Compendiums[/b].",CELESTE: ……我被逮捕的时候，[p/]裁判所也让我绑定他们提供的一部[b]法术汇编[/b]。
+line:0170b04,ValObj_2,CELESTE: They were really careful to make sure that I did the attunement correctly.,CELESTE: 他们很小心地确认了我有正确地与之绑定。
+line:093518b,ValObj_2,CELESTE: There’s no way a mage could avoid it with them watching you.,CELESTE: 不可能有法师在他们眼皮子底下避免。
+line:008dc31,ValObj_2,"Right...[p/] Commander White may have been negligent sometimes,[p/] but even [i]he[/i] wasn’t that careless.",没错……[p/]怀特指挥官可能偶尔疏忽，[p/]但就算是[i]他[/i]也不会那么大意。
+line:02dbd1a,ValObj_2,"AriaC: Now,[p/] if you’re done,[p/] I do believe that you’ve exhausted all your options.",ARIA: 既然你们讨论完了，[p/]我想你们手上也无牌可打了吧。
+line:0f6db2c,ValObj_2,TYRION: W-[p/][s/]wait![p/][s/] I’m still not done cross-examining this witness!,TYRION: 等、[p/][s/]等一下！[p/][s/]我还没对证人交叉询问呢！
+line:014adf3,ValObj_2,AriaC: ...What could you possibly hope to glean from her testimony?,AriaC: ……从她的证词中你还能指望得到什么？
 line:0dad6e6,ValObj_2,TYRION: ...,TYRION: ……
-line:000041d,ValObj_2,Valentina was stressed out enough to see her thoughts.,
-line:06c4fe2,ValObj_2,...But I couldn't exactly say that I was planning to read her mind.,
-line:0e7f510,ValObj_2,"And at this point,[p/] I felt that I was already testing the judge's patience.",
-line:0045190,ValObj_3,TYRION: T-[p/][s/]There’s one key element of her testimony that the court is overlooking!,
-line:02e6808,ValObj_3,TYRION: I have a right as an attorney to complete my cross-examination.,
+line:000041d,ValObj_2,Valentina was stressed out enough to see her thoughts.,瓦伦蒂娜十分紧张，足够我将她的想法看得一清二楚。
+line:06c4fe2,ValObj_2,...But I couldn't exactly say that I was planning to read her mind.,……但我又不能明说自己要读她的想法。
+line:0e7f510,ValObj_2,"And at this point,[p/] I felt that I was already testing the judge's patience.",到了这一步，[p/]我已经是在挑战法官的耐心了。
+line:0045190,ValObj_3,TYRION: T-[p/][s/]There’s one key element of her testimony that the court is overlooking!,TYRION: 她、[p/][s/]她的证词里还有一个之前被忽略的关键！
+line:02e6808,ValObj_3,TYRION: I have a right as an attorney to complete my cross-examination.,TYRION: 我作为律师有权完成这次交叉询问。
 line:058fedb,ValObj_3,AriaC: ...,AriaC: ……
-line:035e9eb,ValObj_3,AriaC: Your Honor.[p/] The defense is clearly trying to buy time.,
-line:09b6b4a,ValObj_3,JUDGE: ...I might be compelled to agree with you.,
-line:0f3a449,ValObj_3,"JUDGE: However,[p/] I'll also admit that [i]some[/i] elements of the witness’s testimony are quite peculiar.",
-line:094f6eb,ValObj_3,JUDGE: I will allow the defense to continue their cross-examination.,
-line:0840328,ValObj_3,That was close.,
-line:0b248b4,ValObj_3,"JUDGE: ...But know that this is your last chance, Mr. Cuthbert.",
-line:0dcce77,ValObj_3,"JUDGE: If you produce nothing substantial with your questioning,[p/] I [i]will[/i] pass my verdict.",
-line:07de88d,ValObj_3,"TYRION: O-[p/]Of course, Your Honor.",
-line:009c19e,ValObj_3,Alright...[p/] It was all or nothing.,
-line:039422b,ValObj_3,"If I couldn't find anything by reading her mind,[p/] this whole case was finished.",
-line:0108e5d,ValObj_3,"AriaC: ...Witness.[p/] Please give your testimony, once more.",
-line:0ce6898,ValObj_3,"VALENTINA: U-[p/]Um... [p/]Okay... [h=""How long does he plan|to keep me up here?!"" e=""fa"" /]",
-line:0baf223,Val2Test,"Valentina: Like I said,[p/] my sister and I saw Ms. Bellwether bleeding on the ground.[p/] We rushed over to her. [h=""I was definitely surprised|when I saw her like that."" e=""sf""/]",
-line:00a6ccb,Val2Test,"Valentina: N-[p/][s/]Now that you mention it...[p/] I don’t know if I saw any wounds on her.[p/] But I definitely saw blood! [h=""I can’t go back on that now...|I just need to play dumb."" e=""f""/]",
-line:0229072,Val2Test,"Valentina: My sister tried to save her![p/][s/] But she didn’t use any magic! [h=""Ugh, Valerie...|You’re too kind-hearted..."" e=""af""/]",
-line:0006008,Val2Test,"Valentina: We're not mages![p/][s/] Both of us held that book the knights gave us! [h=""I was caught off guard when they asked us.|They almost found us out."" e=""f"" /]",
-line:0091251,Val2Test,"Valentina: The commander was watching us the whole time![p/][s/] He can confirm it! [h=""It’s a good thing that we’re twins...|Or else that trick wouldn’t have worked."" e=""hf"" /]",
-line:0b1f829,Val2Test,CELESTE: What are we going to do...?,
-line:0cabd15,Val2Test,CELESTE: They have pretty hard proof that Valerie isn’t a mage.,
-line:083a72e,Val2Test,TYRION: Valerie [i]is[/i] the mage we’re looking for.[p/] I’m sure of it.,
-line:0219e96,Val2Test,Tyrion: I'm just not sure why they felt the need to lie to the Inquisition.,
-line:02d1127,Val2Test,"And more importantly,[p/] [i]how[/i] did they trick the Inquisition?",
-line:026ef0e,Cross_Val2,"Valentina: Like I said,[p/] my sister and I saw Ms. Bellwether bleeding on the ground.[p/] We rushed over to her. [h=""I was definitely surprised|when I saw her like that."" e=""sf""/]",
-line:09334a9,Cross_Val2,That matched the details of her previous testimony.,
-line:0f87d5c,Cross_Val2,"There was nothing suspicious there,[p/] but I had no reason to doubt this.",
-line:05e4d1e,Cross_Val2,"Valentina: N-[p/][s/]Now that you mention it...[p/] I don’t know if I saw any wounds on her.[p/] But I definitely saw blood! [h=""I can’t go back on that now...|I just need to play dumb."" e=""f""/]",
-line:0387bf0,Cross_Val2,Tyrion: ...It sounds like you're just backtracking on your previous testimony.,
-line:088902f,Cross_Val2,Valentina: I-[p/][s/]I'm not!,
-line:02ade43,Cross_Val2,Valentina: I guess I just assumed she was wounded because of all the blood!,
-line:0e3d01a,Cross_Val2,Valentina: How was [i]I[/i] supposed to know she didn't have any wounds?![p/][s/] There was so much blood!,
-line:0c69031,Cross_Val2,"Her thoughts implied that she was lying,[p/] but her logic was sound.",
-line:0365aa1,Cross_Val2,I should look at the thoughts that appeared during her other statements.,
-line:0425e33,Cross_Val2,"Valentina: My sister tried to save her![p/][s/] But she didn’t use any magic! [h=""Ugh, Valerie...|You’re too kind-hearted..."" e=""af""/]",
-line:0530fcc,Cross_Val2,"Tyrion: If Valerie wasn't the one who closed her wounds,[p/] how did she try to ""help"" her?",
-line:03c0264,Cross_Val2,Valentina: I-[p/]I don't know...,
-line:07a2e58,Cross_Val2,Valentina: She might have been looking for an open wound to apply first aid to.,
-line:07c0dff,Cross_Val2,"Tyrion: But if we assume that you're telling the truth,[p/] there wouldn't be any wounds to find.",
-line:01e0420,Cross_Val2,Tyrion: My client would have already closed them to confound the investigation.,
-line:0c901cf,Cross_Val2,Valentina: I'm telling you![p/][s/] I don't know!,
-line:0a498f0,Cross_Val2,She's pleading ignorance of what happened.,
-line:037892d,Cross_Val2,"Valentina: We're not mages![p/][s/] Both of us held that book the knights gave us! [h=""I was caught off guard when they asked us.|They almost found us out."" e=""f"" /]",
-line:04bf52f,Cross_Val2,"They ""almost"" found them out?",
-line:00d4965,Cross_Val2,"Tyrion: Can I assume that this ""book"" was an unattuned [b]Spell Compendium[/b]?",
-line:05a0f5f,Cross_Val2,AriaC: Yes.[p/] The Inquisition has several of them.,
-line:0f84dd3,Cross_Val2,AriaC: It's standard procedure to have witnesses attune to them.,
-line:05f5482,Cross_Val2,Tyrion: But doesn't the kingdom require that mages register?,
-line:03be908,Cross_Val2,Tyrion: Why don't you just cross-reference those records with the witnesses’ names?,
-line:00a4127,Cross_Val2,"AriaC: For whatever reason,[p/] many mages among the commonfolk avoid registering with the kingdom.",
-line:0b84674,Cross_Val2,"AriaC: As a result,[p/] many of them choose to hide their abilities.",
-line:0ffa414,Cross_Val2,Valentina: ...,
-line:0633d91,Cross_Val2,"Valentina: The commander was watching us the whole time![p/][s/] He can confirm it! [h=""It’s a good thing that we’re twins...|Or else that trick wouldn’t have worked."" e=""hf"" /]",
-line:035fce6,Cross_Val2,"It was a ""good thing that they're twins""?",
-line:039947b,Cross_Val2,"Tyrion: ...Did you pull some kind of trick to [i]deceive[/i] the Inquisition while attuning, Ms. Ianus?",
-line:0aac0da,Cross_Val2,Valentina: O-[p/]Of course not!,
-line:0376044,Cross_Val2,Valentina: W-[p/][s/]We know that lying to the Inquisition would get us in trouble!,
-line:008d8c3,Cross_Val2,Valentina: Why would [i]either[/i] of us take a risk like that?!,
-line:0747c3b,Cross_Val2,Tyrion: Living as an unregistered mage is a serious crime.,
-line:0606fa0,Cross_Val2,"Tyrion: If Valerie [i]was[/i] a mage,[p/] then you would have been charged with fraud right then and there.",
-line:09c798f,Cross_Val2,Valentina: Y-[p/]Yeah![p/][s/] But we already proved that we're not mages!,
-line:025b609,Cross_Val2,"The Eye seems to differ,[p/] but I'd need something else to convince the court.",
+line:035e9eb,ValObj_3,AriaC: Your Honor.[p/] The defense is clearly trying to buy time.,AriaC: 法官阁下。[p/]辩方显然只是在试图拖延时间。
+line:09b6b4a,ValObj_3,JUDGE: ...I might be compelled to agree with you.,JUDGE: ……也许我同意你的观点。
+line:0f3a449,ValObj_3,"JUDGE: However,[p/] I'll also admit that [i]some[/i] elements of the witness’s testimony are quite peculiar.",JUDGE: 然而，[p/]我也承认证人的证词中有[i]一些[/i]内容不太寻常。
+line:094f6eb,ValObj_3,JUDGE: I will allow the defense to continue their cross-examination.,JUDGE: 我同意辩方进行这次交叉询问。
+line:0840328,ValObj_3,That was close.,好险。
+line:0b248b4,ValObj_3,"JUDGE: ...But know that this is your last chance, Mr. Cuthbert.",JUDGE: ……但是请记住，这是你的最后一次机会，卡斯伯特先生。
+line:0dcce77,ValObj_3,"JUDGE: If you produce nothing substantial with your questioning,[p/] I [i]will[/i] pass my verdict.",JUDGE: 如果你在询问中没有得出什么重要的内容，[p/]我[i]会[/i]直接宣布判决。
+line:07de88d,ValObj_3,"TYRION: O-[p/]Of course, Your Honor.",TYRION: 没、[p/]没问题，法官阁下。
+line:009c19e,ValObj_3,Alright...[p/] It was all or nothing.,好吧……[p/]成败在此一举。
+line:039422b,ValObj_3,"If I couldn't find anything by reading her mind,[p/] this whole case was finished.",如果我不能在她的想法里找到什么……[p/]案件就会这么结束。
+line:0108e5d,ValObj_3,"AriaC: ...Witness.[p/] Please give your testimony, once more.",AriaC: ……证人。[p/]请你再一次陈述证词。
+line:0ce6898,ValObj_3,"VALENTINA: U-[p/]Um... [p/]Okay... [h=""How long does he plan|to keep me up here?!"" e=""fa"" /]","VALENTINA: 啊、[p/]唔……[p/]好的……[h=""该死！|他还想让我在这里呆多久？！"" e=""fa"" /]"
+line:0baf223,Val2Test,"Valentina: Like I said,[p/] my sister and I saw Ms. Bellwether bleeding on the ground.[p/] We rushed over to her. [h=""I was definitely surprised|when I saw her like that."" e=""sf""/]","Valentina: 正如我说过的，[p/]妹妹和我看见贝尔维瑟女士倒在血泊之中。[p/]我们赶紧冲过去查看。[h=""看到她那个样子我确实很惊讶。"" e=""sf""/]"
+line:00a6ccb,Val2Test,"Valentina: N-[p/][s/]Now that you mention it...[p/] I don’t know if I saw any wounds on her.[p/] But I definitely saw blood! [h=""I can’t go back on that now...|I just need to play dumb."" e=""f""/]","Valentina: 既、[p/][s/]既然你提到了……[p/]我也不知道有没有在她身上看到伤口。[p/]但我肯定看到血了！[h=""这一点上没法回头了……|我只好装傻了。"" e=""f""/]"
+line:0229072,Val2Test,"Valentina: My sister tried to save her![p/][s/] But she didn’t use any magic! [h=""Ugh, Valerie...|You’re too kind-hearted..."" e=""af""/]","Valentina: 我妹妹尝试救助她！[p/][s/]但她没使用什么魔法！[h=""啊，瓦莱丽……|你善良过头了……"" e=""af""/]"
+line:0006008,Val2Test,"Valentina: We're not mages![p/][s/] Both of us held that book the knights gave us! [h=""I was caught off guard when they asked us.|They almost found us out."" e=""f"" /]","Valentina: 我们俩不是法师！[p/][s/]我们都碰了骑士们给的那本书！[h=""他们问的时候我有点措手不及。|差点就被发现了。"" e=""f"" /]"
+line:0091251,Val2Test,"Valentina: The commander was watching us the whole time![p/][s/] He can confirm it! [h=""It’s a good thing that we’re twins...|Or else that trick wouldn’t have worked."" e=""hf"" /]","Valentina: 指挥官全程都在监视我们！[p/][s/]他可以作证！[h=""还好我们是双胞胎……|不然这个把戏行不通的。"" e=""hf"" /]"
+line:0b1f829,Val2Test,CELESTE: What are we going to do...?,CELESTE: 我们该怎么办……？
+line:0cabd15,Val2Test,CELESTE: They have pretty hard proof that Valerie isn’t a mage.,CELESTE: 关于瓦莱丽不是法师这一点，他们有相当确凿的证据。
+line:083a72e,Val2Test,TYRION: Valerie [i]is[/i] the mage we’re looking for.[p/] I’m sure of it.,TYRION: 我很确定，[p/]瓦莱丽[i]就是[/i]我们在找的那个法师。
+line:0219e96,Val2Test,Tyrion: I'm just not sure why they felt the need to lie to the Inquisition.,Tyrion: 我只是不确定她们为什么要欺骗裁判所。
+line:02d1127,Val2Test,"And more importantly,[p/] [i]how[/i] did they trick the Inquisition?",更重要的是，[p/]她们[i]怎么[/i]骗过裁判所的？
+line:026ef0e,Cross_Val2,"Valentina: Like I said,[p/] my sister and I saw Ms. Bellwether bleeding on the ground.[p/] We rushed over to her. [h=""I was definitely surprised|when I saw her like that."" e=""sf""/]","Valentina: 正如我说过的，[p/]妹妹和我看见贝尔维瑟女士倒在血泊之中。[p/]我们赶紧冲过去查看。[h=""看到她那个样子我确实很惊讶。"" e=""sf""/]"
+line:09334a9,Cross_Val2,That matched the details of her previous testimony.,这与她早些时候证词的细节吻合。
+line:0f87d5c,Cross_Val2,"There was nothing suspicious there,[p/] but I had no reason to doubt this.",这一部分没有可疑之处，[p/]而我也没有理由在这里做出疑问。
+line:05e4d1e,Cross_Val2,"Valentina: N-[p/][s/]Now that you mention it...[p/] I don’t know if I saw any wounds on her.[p/] But I definitely saw blood! [h=""I can’t go back on that now...|I just need to play dumb."" e=""f""/]","Valentina: 既、[p/][s/]既然你提到了……[p/]我也不知道有没有在她身上看到伤口。[p/]但我肯定看到血了！[h=""这一点上没法回头了……|我只好装傻了。"" e=""f""/]"
+line:0387bf0,Cross_Val2,Tyrion: ...It sounds like you're just backtracking on your previous testimony.,Tyrion: ……听起来你是在推翻之前的证词。
+line:088902f,Cross_Val2,Valentina: I-[p/][s/]I'm not!,Valentina: 我、[p/][s/]我才没有啦！
+line:02ade43,Cross_Val2,Valentina: I guess I just assumed she was wounded because of all the blood!,Valentina: 我想……只是因为看到那么多的血才假设她受了伤！
+line:0e3d01a,Cross_Val2,Valentina: How was [i]I[/i] supposed to know she didn't have any wounds?![p/][s/] There was so much blood!,Valentina: [i]我[/i]怎么会知道她身上没有伤口？！[p/][s/]地上那么大一摊血！
+line:0c69031,Cross_Val2,"Her thoughts implied that she was lying,[p/] but her logic was sound.",她的想法已经透露了她在撒谎，[p/]但她证词的逻辑没有问题。
+line:0365aa1,Cross_Val2,I should look at the thoughts that appeared during her other statements.,我应该检查她在陈述其他证词时浮现的想法。
+line:0425e33,Cross_Val2,"Valentina: My sister tried to save her![p/][s/] But she didn’t use any magic! [h=""Ugh, Valerie...|You’re too kind-hearted..."" e=""af""/]","Valentina: 我妹妹尝试救助她！[p/][s/]但她没使用什么魔法！[h=""啊，瓦莱丽……|你善良过头了……"" e=""af""/]"
+line:0530fcc,Cross_Val2,"Tyrion: If Valerie wasn't the one who closed her wounds,[p/] how did she try to ""help"" her?",Tyrion: 如果瓦莱丽没有让伤口愈合，[p/]那她怎么“救助”贝尔维瑟的？
+line:03c0264,Cross_Val2,Valentina: I-[p/]I don't know...,Valentina: 我、[p/]我不知道……
+line:07a2e58,Cross_Val2,Valentina: She might have been looking for an open wound to apply first aid to.,Valentina: 她可能只是在寻找需要包扎的可见创口。
+line:07c0dff,Cross_Val2,"Tyrion: But if we assume that you're telling the truth,[p/] there wouldn't be any wounds to find.",Tyrion: 但如果我们假设你说的是事实，[p/]那一开始就没有任何可见外伤。
+line:01e0420,Cross_Val2,Tyrion: My client would have already closed them to confound the investigation.,Tyrion: 你意思是因为伤口已经被我的委托人为了“扰乱调查”而治愈。
+line:0c901cf,Cross_Val2,Valentina: I'm telling you![p/][s/] I don't know!,Valentina: 我告诉你了！[p/][s/]我不知道！
+line:0a498f0,Cross_Val2,She's pleading ignorance of what happened.,她声称对事情经过一无所知。
+line:037892d,Cross_Val2,"Valentina: We're not mages![p/][s/] Both of us held that book the knights gave us! [h=""I was caught off guard when they asked us.|They almost found us out."" e=""f"" /]","Valentina: 我们俩不是法师！[p/][s/]我们都碰了骑士们给的那本书！[h=""他们问的时候我有点措手不及。|差点就被发现了。"" e=""f"" /]"
+line:04bf52f,Cross_Val2,"They ""almost"" found them out?",他们“差一点”就发现了？
+line:00d4965,Cross_Val2,"Tyrion: Can I assume that this ""book"" was an unattuned [b]Spell Compendium[/b]?",Tyrion: 我可以认为这本“书”就是指未绑定的[b]法术汇编[/b]吗？
+line:05a0f5f,Cross_Val2,AriaC: Yes.[p/] The Inquisition has several of them.,AriaC: 没错。[p/]裁判所有不少。
+line:0f84dd3,Cross_Val2,AriaC: It's standard procedure to have witnesses attune to them.,AriaC: 让证人与之绑定是标准程序。
+line:05f5482,Cross_Val2,Tyrion: But doesn't the kingdom require that mages register?,Tyrion: 但王国不是要求法师必须注册在案吗？
+line:03be908,Cross_Val2,Tyrion: Why don't you just cross-reference those records with the witnesses’ names?,Tyrion: 你们将证人姓名与注册记录进行比对不就行了吗？
+line:00a4127,Cross_Val2,"AriaC: For whatever reason,[p/] many mages among the commonfolk avoid registering with the kingdom.",Aria: 不论原因是什么，[p/]平民中的许多法师都不喜欢向王国注册身份。
+line:0b84674,Cross_Val2,"AriaC: As a result,[p/] many of them choose to hide their abilities.",AriaC: 结果就是，[p/]他们中大多数都选择藏匿自己的能力。
+line:0ffa414,Cross_Val2,Valentina: ...,Valentina: ……
+line:0633d91,Cross_Val2,"Valentina: The commander was watching us the whole time![p/][s/] He can confirm it! [h=""It’s a good thing that we’re twins...|Or else that trick wouldn’t have worked."" e=""hf"" /]","Valentina: 指挥官全程都在监视我们！[p/][s/]他可以作证！[h=""还好我们是双胞胎……|不然这个把戏行不通的。"" e=""hf"" /]"
+line:035fce6,Cross_Val2,"It was a ""good thing that they're twins""?",她刚才是在想“还好我们是双胞胎”？
+line:039947b,Cross_Val2,"Tyrion: ...Did you pull some kind of trick to [i]deceive[/i] the Inquisition while attuning, Ms. Ianus?",Tyrion: ……绑定汇编的时候，你是不是耍了什么花招来[i]欺瞒[/i]裁判所，伊努斯女士？
+line:0aac0da,Cross_Val2,Valentina: O-[p/]Of course not!,Valentina: 当、[p/]当然没有！
+line:0376044,Cross_Val2,Valentina: W-[p/][s/]We know that lying to the Inquisition would get us in trouble!,Valentina: 我、[p/][s/]我们知道向裁判所撒谎只会给自己惹麻烦！
+line:008d8c3,Cross_Val2,Valentina: Why would [i]either[/i] of us take a risk like that?!,Valentina: 为什么我们俩[i]一定[/i]要冒这么大的风险啊？！
+line:0747c3b,Cross_Val2,Tyrion: Living as an unregistered mage is a serious crime.,Tyrion: 作为未注册的法师活动是一项重罪。
+line:0606fa0,Cross_Val2,"Tyrion: If Valerie [i]was[/i] a mage,[p/] then you would have been charged with fraud right then and there.",Tyrion: 如果瓦莱丽[i]真的是[/i]一位法师，[p/]你们就会被当场指控欺诈罪。
+line:09c798f,Cross_Val2,Valentina: Y-[p/]Yeah![p/][s/] But we already proved that we're not mages!,Valentina: 是、[p/]是啊！[p/][s/]但已经证明了我们都不是法师！
+line:025b609,Cross_Val2,"The Eye seems to differ,[p/] but I'd need something else to convince the court.",我的荷鲁斯之眼看到相悖的内容，[p/]但我需要其他的方法来说服法庭。
 line:079ccc3,Cross_Val2,Player: Overflow,
-line:0543e47,Cross_Val2,I needed to think through this.[p/] This wasn’t like a normal cross-examination.,
-line:0530a49,Cross_Val2,Nearly all of her thoughts were suspicious and contrary to her testimony.,
-line:025f184,Cross_Val2,What I needed to do was find the thought that gave me a thread to pull on.,
-line:072b1f9,Cross_Val2,"In this case,[p/] I would need to find the thought that implied how the twins tricked the commander.",
+line:0543e47,Cross_Val2,I needed to think through this.[p/] This wasn’t like a normal cross-examination.,我得通盘考虑一遍。[p/]这并不是平常的交叉询问。
+line:0530a49,Cross_Val2,Nearly all of her thoughts were suspicious and contrary to her testimony.,她的所有想法都几乎可疑，而且与自己的证词相违背。
+line:025f184,Cross_Val2,What I needed to do was find the thought that gave me a thread to pull on.,而我需要的就是找到那个可以让我找到更进一步线索的想法。
+line:072b1f9,Cross_Val2,"In this case,[p/] I would need to find the thought that implied how the twins tricked the commander.",在这里，[p/]我需要找出那个导向她们这对双胞胎是如何愚弄了指挥官的那条想法。
 line:0da33bc,Cross_Val2,"Once I found that,[p/] I could INTERPRET it without the need for evidence.",
 line:08c0a64,Cross_Val2,Player: Objection,
 line:067e256,Cross_Val2,Tyrion: Your Honor![p/][s/] The witness's testimony contradicts what she truly thinks!,
@@ -1144,7 +1144,7 @@ line:06f59c1,StartInves1,"Valentina: Val,[p/] you're back!",
 line:0d83a56,StartInves1,Valentina: Where's the produce for tonight's dinner?,
 line:0f4c7d3,StartInves1,Valerie: The grocers all said someone already collected the deliveries.,
 line:0769d27,StartInves1,Valerie: Do you think someone stole them?,
-line:051e4a8,StartInves1,Valentina: ...,
+line:051e4a8,StartInves1,Valentina: ...,Valentina: ……
 line:0e3ad6d,StartInves1,Valentina: I bet word about the trial has gotten out already.,
 line:0577e5d,StartInves1,Valentina: They're definitely not going to sell to us anymore.,
 line:0df1ee8,StartInves1,Valerie: ...,
@@ -1160,7 +1160,7 @@ line:0bf59e1,StartInves1,Valerie: ...,
 line:091803f,StartInves1,Valerie: I hate this...,
 line:0f634f0,StartInves1,"Valentina: Yeah,[p/] I know.[p/] The students are totally going to complain about it.",
 line:0b8b5d2,StartInves1,"Valerie: No,[p/] I [i]hate[/i] magic.",
-line:0e8ee6e,StartInves1,Valentina: ...,
+line:0e8ee6e,StartInves1,Valentina: ...,Valentina: ……
 line:04e83f8,StartInves1,"Valentina: Sure.[p/] Whatever, Val...",
 line:03c50dc,StartInves1,Valerie: ...What?,
 line:093078c,Courtroom2,JUDGE: Court is now resumed for the trial of Wallace Nightgrave.,
@@ -2211,14 +2211,14 @@ line:0cf1283,ValFinal,"Valentina: Oh, great...[p/] What do [i]you[/i] want?",
 line:03851ca,ValFinal,Aria: ...,Aria: ……
 line:09b9684,ValFinal,"Aria: I've always tried to act with more compassion than my fellow aristocrats,[p/] but I suppose I'm still blind to the privilege I was born with.",
 line:0d65db8,ValFinal,Aria: I am truly sorry if my words during the trial were insensitive to your circumstances.,
-line:0acc4b5,ValFinal,Valentina: ...,
+line:0acc4b5,ValFinal,Valentina: ...,Valentina: ……
 line:0bdcd10,ValFinal,Aria: I've been speaking with the students here.[p/] There's quite a bit of outrage about your firing.,
 line:0a0f7c5,ValFinal,"Valentina: Wait,[p/] really?",
 line:05c58b6,ValFinal,Aria: The idea of a machine doing your job doesn't seem to sit well with the student body.,
 line:06dc9e6,ValFinal,"Aria: While not everyone was as sympathetic as I'd hoped,[p/] most everyone agrees that your leaving would be a tremendous loss.",
 line:0a34e50,ValFinal,Aria: I've spoken with the head of the student council.[p/] We believe that we can convince the school board to keep you on staff.,
 line:01f9b39,ValFinal,Valerie: You can do that?!,
-line:087b572,ValFinal,Valentina: ...,
+line:087b572,ValFinal,Valentina: ...,Valentina: ……
 line:0aaa60b,ValFinal,"Aria: But is that what you want, Valentina?",
 line:0b2b909,ValFinal,Aria: I don't see the working conditions here improving without Redmond as headmaster.,
 line:0e01c71,ValFinal,Valentina: Well...[p/] we've got to make a living somehow.,
@@ -3518,7 +3518,7 @@ line:0050919,Start1,"Valentina: Right away, Professor.",
 line:05638a6,Start2,Valentina thought of slapping that snooty attitude right off her face.,
 line:08a91e0,Start2,It would be easy.[p/] She could have done it right at that moment.,
 line:0ed8273,Start2,What did she have to lose?[p/] They were already planning on firing her anyway.,
-line:0b1a808,Start2,Valentina: ...,
+line:0b1a808,Start2,Valentina: ...,Valentina: ……
 line:0857c9d,Start2,But she took a breath.[p/] Nothing was worth drawing the ire of Bellwether's friends on the school board.,
 line:0406cfd,Start2,"Valentina: Some ""professor""...[p/] Who doesn't know what Eggs Benedict is?",
 line:02ccbc5,Start2,Valentina: These stupid mages wouldn't know good food if it walked up to them and jumped down their throats.,
@@ -4359,11 +4359,11 @@ line:0a824c1,ValDeduce6,"Valerie: He's the only custodian on staff,[p/] and the 
 line:0d3f18d,ValDeduce6,Valerie: He barely has enough time to sleep.[p/] Why do you think he's so tired all of the time?,
 line:0f170fd,ValDeduce6,Valentina: Scaled Lord...,
 line:03266ab,ValDeduce6,"Valentina: I-[p/][s/]I'm really sorry,[p/] I just—",
-line:060676a,ValDeduce6,Valentina: ...,
+line:060676a,ValDeduce6,Valentina: ...,Valentina: ……
 line:0d5b17f,ValDeduce6,Valentina: Are we really going to be okay?,
 line:0467f9b,ValDeduce6,Valerie: Everything is going to be fine...,
 line:095c3c2,ValDeduce6,Valerie: We just need to do our best and keep our stories straight.,
-line:0dd51fa,ValDeduce6,Valentina: ...,
+line:0dd51fa,ValDeduce6,Valentina: ...,Valentina: ……
 line:0ec1349,ValDeduce6,Valentina: Have you been able to get into the library lately?,
 line:0da899e,ValDeduce6,Valerie: N-[p/][s/]No...[p/] The knights are patrolling around it.,
 line:027c7fc,ValDeduce6,Valentina: I was really hoping we could get one last study session for you before they fire us.,
@@ -4665,10 +4665,10 @@ line:0cec7f9,IanusScene3,Valerie: I'm always making mistakes and forcing you to 
 line:023b610,IanusScene3,Valerie: We only have this job because you begged the headmaster to hire me with you.,
 line:0bda77c,IanusScene3,Valerie: You're amazing...[p/] The students here are spoiled aristocrats and they [i]love[/i] your food.,
 line:0a517d4,IanusScene3,Valerie: I can't even fry an egg right.[p/] [i]You're[/i] not the one holding us back.,
-line:0a61183,IanusScene3,Valentina: ...,
+line:0a61183,IanusScene3,Valentina: ...,Valentina: ……
 line:0319f64,IanusScene3,Valentina: ...Do you really think my cooking is that good?,
 line:0d8ecf4,IanusScene3,Valerie: I don't think I could live without eating your food every day.,
-line:03524e9,IanusScene3,Valentina: ...,
+line:03524e9,IanusScene3,Valentina: ...,Valentina: ……
 line:05f35e8,IanusScene3,Valentina: Remember when I was just learning to cook at the orphanage?,
 line:0bfa736,IanusScene3,"Valentina: We were just a pair of dumb kids,[p/] but you were there with me every step of the way.",
 line:0538b5b,IanusScene3,Valentina: You were there for me.[p/] I would've never gotten this good if you weren't always with me.,
