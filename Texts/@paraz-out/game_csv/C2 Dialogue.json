@@ -7947,169 +7947,169 @@
   {
     "key": "C2 Dialogue.csv::translation::d2ef287afd608e0e",
     "original": "If I wanted to get to the truth,[p/] I would need to drag that out of her through a cross-examination.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果我要澄清真相，[p/]就必须在交叉询问里从她身上挖出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dd198b\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"If I wanted to get to the truth,[p/] I would need to drag that out of her through a cross-examination.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6602d5d02b21b2e4",
     "original": "TYRION: Your Honor.[p/] To test the validity of these claims,[p/] the defense would like both of these witnesses to testify.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 法官阁下，[p/]为了检验这些说法是否正确，[p/]辩方希望两个目击者都能当庭作证。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fa3379\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"TYRION: Your Honor.[p/] To test the validity of these claims,[p/] the defense would like both of these witnesses to testify.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a84a9e2a6258ef89",
     "original": "Tyrion: The defense calls Miriam Frega to the stand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 辩方要求传唤米莉亚姆·弗雷加出庭作证。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0df503d\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"Tyrion: The defense calls Miriam Frega to the stand.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fa2784ac68764cb9",
     "original": "JUDGE: F-[p/][s/]Frega?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 弗、[p/][s/]弗雷加？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a772c\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"JUDGE: F-[p/][s/]Frega?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::887471accc20f2be",
     "original": "At the mention of her name,[p/] the judge’s face turned a bit pale.",
-    "translation": "",
-    "stage": 0,
+    "translation": "提到她的姓氏，[p/]法官的脸色都有点变白了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a678c5\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"At the mention of her name,[p/] the judge’s face turned a bit pale.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fc719569afd4ffe7",
     "original": "He fidgeted with his gavel,[p/] looking towards the bailiff and then towards Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他的手指不安地在木槌上拨弄，[p/]看了看法警，又看向斯蒂尔文德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c54fcf\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"He fidgeted with his gavel,[p/] looking towards the bailiff and then towards Steelwind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::33a5fea1eb692e3b",
     "original": "AriaC: ...I had a feeling it would come to this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……我就预感事情会变成这样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0281a43\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"AriaC: ...I had a feeling it would come to this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::857ad96e77acbb6e",
     "original": "JUDGE: D-[p/][s/]Do you have any objections, Ms. Steelwind...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 你、[p/][s/]你有异议吗，斯蒂尔文德女士……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fde531\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"JUDGE: D-[p/][s/]Do you have any objections, Ms. Steelwind...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6891af3cc61028a7",
     "original": "AriaC: I do not, Your Honor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我没有，法官阁下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0407d00\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"AriaC: I do not, Your Honor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e027f6e92e5a4168",
     "original": "Judge: ...Very well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: ……那好吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a0b45\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"Judge: ...Very well.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6856ebd13f76d09a",
     "original": "Judge: Bailiff.[p/] Please escort...[p/] [i]Lady[/i] Frega to the stand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 法警。[p/]请护送……[p/]弗雷加[p][i]小姐[/i]到证人席。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05d93c0\",\n  \"node\": \"Courtroom2_2\",\n  \"text\": \"Judge: Bailiff.[p/] Please escort...[p/] [i]Lady[/i] Frega to the stand.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7f694a008ca150dc",
     "original": "AriaC: Witness,[p/] please state your name and occupation for the—",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 证人，[p/]请向法庭告知你的姓名与职——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f4ea5c\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"AriaC: Witness,[p/] please state your name and occupation for the—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::98632ad951dfa8d2",
     "original": "MIRIAM: You little snakes!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MIRIAM: 你这个小骗子！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d55b8c\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"MIRIAM: You little snakes!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a683dc6ce96625cb",
     "original": "MIRIAM: How [i]dare[/i] you deceive me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MIRIAM: 你怎么[i]敢[/i]欺骗本小姐！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05009e1\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"MIRIAM: How [i]dare[/i] you deceive me!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34306c6acff87cd9",
     "original": "CELESTE: O-[p/]Oh...[p/] It looks like she found out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 哎、[p/]哎呀……[p/]看起来她已经发现了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:009fc0c\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"CELESTE: O-[p/]Oh...[p/] It looks like she found out.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1cdca23555fcf181",
     "original": "AriaC: I had the opportunity to debrief the witness beforehand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我之前有机会向证人询问。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b0cb9f\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"AriaC: I had the opportunity to debrief the witness beforehand.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2044940b2c8c4650",
     "original": "AriaC: ...Ms. McCoy,[p/] I asked you to exercise discretion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……麦考伊女士，[p/]我是要你谨慎行事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dfa643\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"AriaC: ...Ms. McCoy,[p/] I asked you to exercise discretion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cc4486e454a345af",
     "original": "AriaC: I did not imply that you should impersonate a member of my family.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我可没暗示你能扮作我的家族成员。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a06b26\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"AriaC: I did not imply that you should impersonate a member of my family.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4cdf05a7fc3b3899",
     "original": "CELESTE: Y-[p/]Yeah...[p/] Sorry about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你、[p/]你说得对……[p/]这件事我道歉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fdf733\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"CELESTE: Y-[p/]Yeah...[p/] Sorry about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1644bfb077579a18",
     "original": "MIRIAM: I gave you [i]all[/i] of the tea that I imported from the Eastern Kingdoms!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MIRIAM: 我还把从东方古国进口的茶叶[i]全都[/i]送给你了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fa19a6\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"MIRIAM: I gave you [i]all[/i] of the tea that I imported from the Eastern Kingdoms!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ef89f628dee7c996",
     "original": "MIRIAM: I demand that you return it to me!",
-    "translation": "",
-    "stage": 0,
+    "translation": "MIRIAM: 我要求你还给我！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06d9105\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"MIRIAM: I demand that you return it to me!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3d0a5422a885619e",
     "original": "CELESTE: No![p/][s/] You gave them to me![p/][s/] They’re [i]legally[/i] mine now!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 不行！[p/][s/]你自己赠送给我的！[p/][s/]从[i]法律上[/i]来讲现在就是我的了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eba324\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"CELESTE: No![p/][s/] You gave them to me![p/][s/] They’re [i]legally[/i] mine now!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5dcb087d498869e3",
     "original": "AriaC: ...Anyways, Miriam,[p/] could you please testify to the court about your encounter with the victim?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……总之，米莉亚姆，[p/]你能就与被害人的相遇向法庭作证吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a32d3c\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"AriaC: ...Anyways, Miriam,[p/] could you please testify to the court about your encounter with the victim?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::205857d0e291e57c",
     "original": "MIRIAM: ...Fine.",
-    "translation": "",
-    "stage": 0,
+    "translation": "MIRIAM: ……好吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ef1354\",\n  \"node\": \"Courtroom2_3\",\n  \"text\": \"MIRIAM: ...Fine.\"\n}"
   },
   {
