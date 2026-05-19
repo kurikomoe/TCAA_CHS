@@ -10706,7 +10706,7 @@
   {
     "key": "C1 Dialogue.csv::translation::cc65aa2229e7cdf3",
     "original": "Fredrick: These people—[p/]these [p/][s/]peasants—[p/]they may resemble us,[p/] but you know deep in your heart that they aren’t like us.",
-    "translation": "Fredrick: 那些人——[p/]那些[p/][s/]贫农——[p/]他们或许看起来与我们相似，[p/]但你内心深处知道我们是不一样的。",
+    "translation": "Fredrick: 那些人——[p/]那些[p/][s/]贱民——[p/]他们或许看起来与我们相似，[p/]但你内心深处知道我们是不一样的。",
     "context": "{\n  \"id\": \"line:01fe5af\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Fredrick: These people—[p/]these [p/][s/]peasants—[p/]they may resemble us,[p/] but you know deep in your heart that they aren’t like us.\"\n}"
   },
   {
@@ -10772,7 +10772,7 @@
   {
     "key": "C1 Dialogue.csv::translation::29c364ced3da9988",
     "original": "Garrick: They’re all just peasants—[p/][s/]ALL OF THEM!",
-    "translation": "Garrick: 他们只是平民——[p/][s/]<size=1.5em>所有人都是！</size>",
+    "translation": "Garrick: 他们只是贱民——[p/][s/]<size=1.5em>所有人都是！</size>",
     "context": "{\n  \"id\": \"line:0c282fe\",\n  \"node\": \"GarrickFinal6\",\n  \"text\": \"Garrick: They’re all just peasants—[p/][s/]ALL OF THEM!\"\n}"
   },
   {

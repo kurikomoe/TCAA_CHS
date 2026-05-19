@@ -1225,129 +1225,129 @@ line:06d9105,Courtroom2_3,MIRIAM: I demand that you return it to me!,MIRIAM: 我
 line:0eba324,Courtroom2_3,CELESTE: No![p/][s/] You gave them to me![p/][s/] They’re [i]legally[/i] mine now!,CELESTE: 不行！[p/][s/]你自己赠送给我的！[p/][s/]从[i]法律上[/i]来讲现在就是我的了！
 line:0a32d3c,Courtroom2_3,"AriaC: ...Anyways, Miriam,[p/] could you please testify to the court about your encounter with the victim?",AriaC: ……总之，米莉亚姆，[p/]你能就与被害人的相遇向法庭作证吗？
 line:0ef1354,Courtroom2_3,MIRIAM: ...Fine.,MIRIAM: ……好吧。
-line:0820ebc,Courtroom2_4,Miriam: I was working on a research project in my dorm room when I decided to take a break.,
-line:0ee6e53,Courtroom2_4,Miriam: I left my room and went on a walk.[p/] That’s when I saw Professor Bellwether exiting the Headmaster’s Office.,
-line:0caba54,Courtroom2_4,"Miriam: She was walking in my direction.[p/] So I greeted her,[p/] and she responded in kind.",
-line:009be5a,Courtroom2_4,"Miriam: After that,[p/] she headed towards the library.",
-line:0bd67f0,Courtroom2_4,"Miriam: A short time after that,[p/] I went back to my room and continued my work.",
-line:0ad4c39,Courtroom2_4,JUDGE: I see...[p/] So it was only a brief encounter.,
-line:04b061f,Courtroom2_4,"AriaC: However brief it was,[p/] the witness’s testimony verifies two things.",
-line:00417e3,Courtroom2_4,AriaC: One is that Miriam saw the professor exiting the Headmaster’s Office.,
-line:03da601,Courtroom2_4,AriaC: The other is that she witnessed the victim head toward the library.,
-line:0946b2a,Courtroom2_4,AriaC: This gives us a rough timeline of where the victim was before her death.,
-line:08b9265,Courtroom2_4,JUDGE: Hm...[p/] That [i]does[/i] seem consistent.,
-line:0e4bee7,Courtroom2_4,Did Bellwether really enter the library after her meeting?,
-line:0be681b,Courtroom2_4,I felt like I would've seen her there if she did.,
-line:012336c,Courtroom2_4,Judge: Mr. Cuthbert.[p/] You may begin your cross-examination.,
-line:04c23a1,Cross_Miriam,Miriam: I was working on a research project in my dorm room when I decided to take a break.,
-line:055a7e6,Cross_Miriam,TYRION: Was this research project a part of your schoolwork?,
-line:0d0c0dd,Cross_Miriam,MIRIAM: It was an independent study to develop a new [b]conjuration[/b] spell formula.,
-line:0ebc8fb,Cross_Miriam,MIRIAM: The project is being sponsored by the Crown Prince himself.,
+line:0820ebc,Courtroom2_4,Miriam: I was working on a research project in my dorm room when I decided to take a break.,Miriam: 我当时正在自己宿舍里进行一个研究项目，然后想休息一下。
+line:0ee6e53,Courtroom2_4,Miriam: I left my room and went on a walk.[p/] That’s when I saw Professor Bellwether exiting the Headmaster’s Office.,Miriam: 我离开房间散了散步。[p/]那时我正好看到贝尔维瑟教授正从校长室出来。
+line:0caba54,Courtroom2_4,"Miriam: She was walking in my direction.[p/] So I greeted her,[p/] and she responded in kind.",Miriam: 她正好向我这边走过来，[p/]所以我向她问好，[p/]她也和蔼地回应了我。
+line:009be5a,Courtroom2_4,"Miriam: After that,[p/] she headed towards the library.",Miriam: 在那之后，[p/]她直接向图书馆走了过去。
+line:0bd67f0,Courtroom2_4,"Miriam: A short time after that,[p/] I went back to my room and continued my work.",Miriam: 又过了一小会儿，[p/]我回到宿舍继续做研究。
+line:0ad4c39,Courtroom2_4,JUDGE: I see...[p/] So it was only a brief encounter.,JUDGE: 明白了……[p/]也就是说那次只是打了个照面。
+line:04b061f,Courtroom2_4,"AriaC: However brief it was,[p/] the witness’s testimony verifies two things.",AriaC: 先不论多么短暂，[p/]证人的证词确认了两件事。
+line:00417e3,Courtroom2_4,AriaC: One is that Miriam saw the professor exiting the Headmaster’s Office.,AriaC: 一是米莉亚姆看到了教授从校长室离开。
+line:03da601,Courtroom2_4,AriaC: The other is that she witnessed the victim head toward the library.,AriaC: 二是她也目击到被害人向图书馆走去。
+line:0946b2a,Courtroom2_4,AriaC: This gives us a rough timeline of where the victim was before her death.,AriaC: 这让我们就被害人遇害前行动轨迹得出了一个大致的时序。
+line:08b9265,Courtroom2_4,JUDGE: Hm...[p/] That [i]does[/i] seem consistent.,JUDGE: 嗯……[p/]这看起来[i]是[/i]一致的。
+line:0e4bee7,Courtroom2_4,Did Bellwether really enter the library after her meeting?,贝尔维瑟在会面后真的有进入图书馆吗？
+line:0be681b,Courtroom2_4,I felt like I would've seen her there if she did.,如果她真的进来了，我认为自己肯定会看到。
+line:012336c,Courtroom2_4,Judge: Mr. Cuthbert.[p/] You may begin your cross-examination.,Judge: 卡斯伯特先生，[p/]你可以开始交叉询问了。
+line:04c23a1,Cross_Miriam,Miriam: I was working on a research project in my dorm room when I decided to take a break.,Miriam: 我当时正在自己宿舍里进行一个研究项目，然后想休息一下。
+line:055a7e6,Cross_Miriam,TYRION: Was this research project a part of your schoolwork?,TYRION: 这个研究项目是你的作业吗？
+line:0d0c0dd,Cross_Miriam,MIRIAM: It was an independent study to develop a new [b]conjuration[/b] spell formula.,MIRIAM: 这是个关于创造[b]召唤术[/b]新范式的独立研究。
+line:0ebc8fb,Cross_Miriam,MIRIAM: The project is being sponsored by the Crown Prince himself.,MIRIAM: 该项目由王储殿下本人直接赞助。
 line:04e44ad,Cross_Miriam,AriaC: ...,AriaC: ……
-line:0f7b2ec,Cross_Miriam,AriaC: ...I wasn’t aware that he was involved in such a study.,
-line:04db573,Cross_Miriam,"MIRIAM: Of course you wouldn't.[p/] Did you expect to know every aspect of his life, dear Aria?",
-line:02431ae,Cross_Miriam,...I sensed some hostility.,
-line:0d6fd34,Cross_Miriam,"MIRIAM: If you don’t keep an eye on him,[p/] House Frega might just steal him back from you.",
-line:054b58f,Cross_Miriam,AriaC: Hmph...[p/] As if His Highness would align himself with your rapacious family again.,
-line:0409b5b,Cross_Miriam,TYRION: Um...,
-line:0700a2a,Cross_Miriam,MIRIAM: Ha![p/] Our banking houses form the economic infrastructure of our kingdom.,
-line:0bc4336,Cross_Miriam,MIRIAM: But perhaps he’ll come to the Steelwinds if he needs to massacre a village of commoners.,
-line:0c15520,Cross_Miriam,"JUDGE: U-[p/][s/]Um...[p/][s/] With all due respect,[p/] may we please focus on the matter at hand?",
-line:05fb709,Cross_Miriam,"AriaC: ...Of course, Your Honor.",
-line:064d63a,Cross_Miriam,Miriam: I left my room and went on a walk.[p/] That’s when I saw Professor Bellwether exiting the Headmaster’s Office.,
-line:01edd34,Cross_Miriam,TYRION: And you’re sure that you saw her exit the Headmaster’s Office?,
-line:0f17666,Cross_Miriam,MIRIAM: Yes.[p/] I remember it clearly.,
-line:057063d,Cross_Miriam,Miriam: I was surprised that she was still meeting with the headmaster at all.,
-line:0f03ce8,Cross_Miriam,She must've been referring to her family's plot to replace him.,
-line:0c86870,Cross_Miriam,"AriaC: Did you interact with the professor at all, Miriam?",
-line:0b80a72,Cross_Miriam,"Miriam: She was walking in my direction.[p/] So I greeted her, and she responded in kind.",
-line:0fa957a,Cross_Miriam,TYRION: Did anything seem off about her?,
-line:01e5be8,Cross_Miriam,"MIRIAM: ...No,[p/] but it was a very short encounter.",
-line:09330c7,Cross_Miriam,MIRIAM: It’s not as if we stopped to have a conversation.,
-line:0ff0526,Cross_Miriam,"TYRION: You said that you greeted her,[p/] and she responded.",
-line:0597bdc,Cross_Miriam,Tyrion: What did she say?,
-line:0b7445b,Cross_Miriam,"MIRIAM: W-[p/]Why is that important? [h=""It's not important at all.|So why?"" e=""af"" /]",
-line:040f062,Cross_Miriam,"TYRION: Ms. Frega,[p/] it’s possible that someone used [b]illusion[/b] magic that day.",
-line:0c4777c,Cross_Miriam,TYRION: [i]Every[/i] detail about the victim’s interactions could be important.,
-line:0253d24,Cross_Miriam,MIRIAM: Well...[p/] I bid her good morning.,
-line:0f26383,Cross_Miriam,"MIRIAM: She said,[p/] “Good morning” in response.",
-line:0cd72d6,Cross_Miriam,"Miriam: She was walking towards me.[p/] So I bid her good morning, and she responded in kind.",
-line:0544785,Cross_Miriam,TYRION: And you’re certain that nothing seemed off about her.,
-line:0a84f4d,Cross_Miriam,"MIRIAM: Y-[p/][s/]Yes.[p/] Like I said,[p/] it was a very short encounter. [h=""I don't understand...|Why did she say that...?"" e=""af""/]",
-line:02958c9,Cross_Miriam,MIRIAM: It only happened over a few seconds.,
-line:081c809,Cross_Miriam,AriaC: The witness’s interactions are not what’s important here.,
-line:09d5e77,Cross_Miriam,AriaC: What matters is that she [i]witnessed[/i] where the victim was coming from and where she went afterward.,
+line:0f7b2ec,Cross_Miriam,AriaC: ...I wasn’t aware that he was involved in such a study.,AriaC: ……我还真不知道他参与了这样的研究。
+line:04db573,Cross_Miriam,"MIRIAM: Of course you wouldn't.[p/] Did you expect to know every aspect of his life, dear Aria?",MIRIAM: 你当然不知道。[p/]亲爱的阿莉亚，你期望了解他生活的方方面面吗？
+line:02431ae,Cross_Miriam,...I sensed some hostility.,……我感到一丝敌意。
+line:0d6fd34,Cross_Miriam,"MIRIAM: If you don’t keep an eye on him,[p/] House Frega might just steal him back from you.",MIRIAM: 如果不把他盯紧了，[p/]弗雷加一族可能把他从你手上偷回来哦。
+line:054b58f,Cross_Miriam,AriaC: Hmph...[p/] As if His Highness would align himself with your rapacious family again.,AriaC: 哼……[p/]说得好像殿下会再一次与你们这个贪婪的家族同流合污一样。
+line:0409b5b,Cross_Miriam,TYRION: Um...,Tyrion: 呃……
+line:0700a2a,Cross_Miriam,MIRIAM: Ha![p/] Our banking houses form the economic infrastructure of our kingdom.,MIRIAM: 哈！[p/]我们家族的银行业构筑了整个王国的经济体系。
+line:0bc4336,Cross_Miriam,MIRIAM: But perhaps he’ll come to the Steelwinds if he needs to massacre a village of commoners.,MIRIAM: 不过如果殿下想屠杀村子里的平民时，他可能会来找斯蒂尔文德家吧？
+line:0c15520,Cross_Miriam,"JUDGE: U-[p/][s/]Um...[p/][s/] With all due respect,[p/] may we please focus on the matter at hand?",JUDGE: 呃、[p/][s/]嗯……[p/][s/]恕我冒昧，[p/]我们能专注在案件上吗？
+line:05fb709,Cross_Miriam,"AriaC: ...Of course, Your Honor.",AriaC: ……当然，法官阁下。
+line:064d63a,Cross_Miriam,Miriam: I left my room and went on a walk.[p/] That’s when I saw Professor Bellwether exiting the Headmaster’s Office.,Miriam: 我离开房间散了散步。[p/]那时我正好看到贝尔维瑟教授正从校长室出来。
+line:01edd34,Cross_Miriam,TYRION: And you’re sure that you saw her exit the Headmaster’s Office?,TYRION: 你确定自己真的看到她离开校长室吗？
+line:0f17666,Cross_Miriam,MIRIAM: Yes.[p/] I remember it clearly.,MIRIAM: 是的。[p/]我记得很清楚。
+line:057063d,Cross_Miriam,Miriam: I was surprised that she was still meeting with the headmaster at all.,Miriam: 我也很惊讶她还在和校长会面呢。
+line:0f03ce8,Cross_Miriam,She must've been referring to her family's plot to replace him.,她应该是指她们家密谋取代校长的事情吧。
+line:0c86870,Cross_Miriam,"AriaC: Did you interact with the professor at all, Miriam?",AriaC: 米莉亚姆，那你有和教授交流吗？
+line:0b80a72,Cross_Miriam,"Miriam: She was walking in my direction.[p/] So I greeted her, and she responded in kind.",Miriam: 她正好向我这边走过来，[p/]所以我向她问好，她也和蔼地回应了我。
+line:0fa957a,Cross_Miriam,TYRION: Did anything seem off about her?,TYRION: 她看起来有什么不对劲吗？
+line:01e5be8,Cross_Miriam,"MIRIAM: ...No,[p/] but it was a very short encounter.",MIRIAM: ……没有。[p/]我们就简单寒暄了一下。
+line:09330c7,Cross_Miriam,MIRIAM: It’s not as if we stopped to have a conversation.,MIRIAM: 我们也没有停下来聊天。
+line:0ff0526,Cross_Miriam,"TYRION: You said that you greeted her,[p/] and she responded.",TYRION: 你说你向她问了好，[p/]然后她回应了你。
+line:0597bdc,Cross_Miriam,Tyrion: What did she say?,Tyrion: 她具体怎么回应的？
+line:0b7445b,Cross_Miriam,"MIRIAM: W-[p/]Why is that important? [h=""It's not important at all.|So why?"" e=""af"" /]","MIRIAM: 这、[p/]这重要吗？[h=""这不重要。|但是为什么？"" e=""af"" /]"
+line:040f062,Cross_Miriam,"TYRION: Ms. Frega,[p/] it’s possible that someone used [b]illusion[/b] magic that day.",TYRION: 弗雷加女士，[p/]当天可能有人使用了[b]幻象术[/b]类魔法。
+line:0c4777c,Cross_Miriam,TYRION: [i]Every[/i] detail about the victim’s interactions could be important.,TYRION: 关于与被害人互动的[i]每个[/i]细节都可能很重要。
+line:0253d24,Cross_Miriam,MIRIAM: Well...[p/] I bid her good morning.,MIRIAM: 那好吧……[p/]我跟她说“上午好”。
+line:0f26383,Cross_Miriam,"MIRIAM: She said,[p/] “Good morning” in response.",MIRIAM: “上午好，”[p/]她是这么答复我的。
+line:0cd72d6,Cross_Miriam,"Miriam: She was walking towards me.[p/] So I bid her good morning, and she responded in kind.",Miriam: 她正好向我这边走过来，[p/]所以我向她说“上午好”，她也和蔼地回应了我。
+line:0544785,Cross_Miriam,TYRION: And you’re certain that nothing seemed off about her.,TYRION: 你也确定她看起来没什么异样。
+line:0a84f4d,Cross_Miriam,"MIRIAM: Y-[p/][s/]Yes.[p/] Like I said,[p/] it was a very short encounter. [h=""I don't understand...|Why did she say that...?"" e=""af""/]","MIRIAM: 是、[p/][s/]是的。[p/]就像我说的，[p/]只是一次简短的寒暄。[h=""我还是不明白……|她为什么要那样说……？"" e=""af""/]"
+line:02958c9,Cross_Miriam,MIRIAM: It only happened over a few seconds.,MIRIAM: 前后也就几秒钟吧。
+line:081c809,Cross_Miriam,AriaC: The witness’s interactions are not what’s important here.,AriaC: 证人的交流内容无关紧要。
+line:09d5e77,Cross_Miriam,AriaC: What matters is that she [i]witnessed[/i] where the victim was coming from and where she went afterward.,AriaC: 重要的是她[i]目击了[/i]被害人从哪里来。又去了哪里。
 line:0ab7a50,Cross_Miriam,TYRION: ...,TYRION: ……
-line:0a15de1,Cross_Miriam,"Miriam: After that,[p/] she headed towards the library.",
-line:05ddd0e,Cross_Miriam,TYRION: Did you [i]see[/i] her enter the library?,
-line:017711e,Cross_Miriam,"MIRIAM: ...I didn’t,[p/] but there’s not much else in that direction.",
-line:07604c4,Cross_Miriam,"AriaC: From the testimony of Jan Hughes,[p/] we know that she later came from the library.",
-line:0c922fe,Cross_Miriam,"AriaC: Even if she didn’t enter the library,[p/] she was still in that area for more than an hour.",
-line:04d5dc6,Cross_Miriam,"Miriam: A short time after that,[p/] I went back to my room and continued my work.",
-line:0f10903,Cross_Miriam,TYRION: How long did you leave your dorm room?,
-line:089b0ff,Cross_Miriam,MIRIAM: Only for a few minutes.[p/] I try not to let my breaks go for too long.,
-line:0a460d9,Cross_Miriam,TYRION: And you didn’t see the professor again after your first encounter?,
-line:0d8cfc6,Cross_Miriam,MIRIAM: No.[p/] I did not.,
+line:0a15de1,Cross_Miriam,"Miriam: After that,[p/] she headed towards the library.",Miriam: 在那之后，[p/]她直接向图书馆走了过去。
+line:05ddd0e,Cross_Miriam,TYRION: Did you [i]see[/i] her enter the library?,TYRION: 你有[i]看见[/i]她走进图书馆吗？
+line:017711e,Cross_Miriam,"MIRIAM: ...I didn’t,[p/] but there’s not much else in that direction.",MIRIAM: ……我没有。[p/]但那个方向没有其他房间了。
+line:07604c4,Cross_Miriam,"AriaC: From the testimony of Jan Hughes,[p/] we know that she later came from the library.",AriaC: 从简·休斯的证词来看，[p/]她晚些时候又从图书馆的方向走过来。
+line:0c922fe,Cross_Miriam,"AriaC: Even if she didn’t enter the library,[p/] she was still in that area for more than an hour.",AriaC: 所以说即使她没有进入图书馆，[p/]这一个多小时她也就在那附近。
+line:04d5dc6,Cross_Miriam,"Miriam: A short time after that,[p/] I went back to my room and continued my work.",Miriam: 又过了一小会儿，[p/]我回到宿舍继续做研究。
+line:0f10903,Cross_Miriam,TYRION: How long did you leave your dorm room?,TYRION: 你离开宿舍有多久？
+line:089b0ff,Cross_Miriam,MIRIAM: Only for a few minutes.[p/] I try not to let my breaks go for too long.,MIRIAM: 只有几分钟。[p/]我尽量不让自己休息太久。
+line:0a460d9,Cross_Miriam,TYRION: And you didn’t see the professor again after your first encounter?,TYRION: 你在第一次见面后就再也没见过教授了？
+line:0d8cfc6,Cross_Miriam,MIRIAM: No.[p/] I did not.,MIRIAM: 没有。
 line:0758df5,Cross_Miriam,Player: Overflow,
-line:09a1bfe,Cross_Miriam,"CELESTE: Her testimony seems pretty straightforward,[p/] but she could still be lying...",
-line:08db8aa,Cross_Miriam,TYRION: I’m honestly not sure...,
-line:0ce2b33,Cross_Miriam,TYRION: We’ll just have to focus on her statements about how Bellwether acted.,
+line:09a1bfe,Cross_Miriam,"CELESTE: Her testimony seems pretty straightforward,[p/] but she could still be lying...",CELESTE: 她的证词非常直白，[p/]但仍可能有所隐瞒……
+line:08db8aa,Cross_Miriam,TYRION: I’m honestly not sure...,TYRION: 说实话我不确定……
+line:0ce2b33,Cross_Miriam,TYRION: We’ll just have to focus on her statements about how Bellwether acted.,TYRION: 我们应该专注分析那些与贝尔维瑟行为有关的证词。
 line:049cafc,Cross_Miriam,Player: Objection,
 line:094192e,Cross_Miriam,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
 line:05b126b,Cross_Miriam,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
 line:0b264f5,Cross_Miriam,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
 line:0ab4bba,Cross_Miriam,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
-line:0bb13e5,MiriamObj,"TYRION: Ms. Frega.[p/] If I recall correctly,[p/] you have a habit of getting absorbed in your work.",
-line:0f8adc5,MiriamObj,"TYRION: So much so,[p/] that you’ll even lose track of the time of day.",
-line:0f43996,MiriamObj,"MIRIAM: If [i]I[/i] recall correctly,[p/] you pulled that information out of me through your lies.",
-line:06ced52,MiriamObj,"TYRION: ...Regardless,[p/] earlier in today’s proceedings,[p/] the prosecutor made the following argument:",
-line:0960cd2,MiriamObj,AriaC: Our first witness saw Bellwether leave the meeting with the headmaster.,
-line:0903e13,MiriamObj,AriaC: [i]That[/i] would time this encounter around 1:00 PM.,
-line:01b5e37,MiriamObj,"TYRION: Ms. Frega.[p/] If you had said “Good morning” to the professor,[p/] you would have been mistaken...",
-line:07da6a7,MiriamObj,TYRION: ...Because that encounter could have only happened during the afternoon.,
-line:0eed05f,MiriamObj,AriaC: And your point is?,
-line:06d0d9a,MiriamObj,"AriaC: You said it yourself, Mr. Cuthbert.[p/] The witness simply lost track of time.",
-line:0b767bc,MiriamObj,TYRION: What the witness said isn’t what’s important here.,
-line:03b7d71,MiriamObj,TYRION: The significance is in [i]what[/i] the professor said in response.,
-line:09d152b,MiriamObj,TYRION: She had just come out of a meeting that was scheduled for noon and ran for an hour.,
-line:05417ef,MiriamObj,TYRION: She would be well aware that it was no longer morning.,
-line:0ab8bed,MiriamObj_2,TYRION: Wouldn’t she have corrected the witness?,
-line:04edf06,MiriamObj_2,"AriaC: Their encounter was extremely short,[p/] and the victim’s mind may have been preoccupied.",
-line:06a8b61,MiriamObj_2,AriaC: She could have easily responded to the witness without thinking.,
-line:0a09953,MiriamObj_2,CELESTE: I’m going to be honest.[p/] I kind of agree with her.,
-line:08490b6,MiriamObj_2,CELESTE: It’s not hard to believe that they were both confused about the time.,
-line:05538e9,MiriamObj_2,"It was definitely a stretch,[p/] but I still couldn't shake the feeling that Miriam was hiding something.",
-line:0f31f7a,MiriamObj_2,"Every time I asked her about how Bellwether acted that day,[p/] the Eye of Horus read a suspicious thought.",
-line:0a227c3,MiriamObj_2,There [i]had[/i] to be something there.,
-line:0755426,MiriamObj_2,"TYRION: Ms. Frega.[p/] You haven’t been entirely truthful in your testimony, have you?",
-line:0b51b03,MiriamObj_2,"MIRIAM: T-[p/][s/]That’s absurd![p/][s/] What reason would I have to lie?! [h=""It’s such a small detail!|Why does he even care?!"" e=""af""/]",
-line:0de7494,MiriamObj_2,"Tyrion: [i]Every[/i] detail about how she acted is important, Ms. Frega.",
-line:0cb626c,MiriamObj_2,Tyrion: What [i]aren't[/i] you telling us?,
-line:02a5b7d,MiriamObj_2,"AriaC: Mr. Cuthbert,[p/] you have no basis to accuse the witness of perjury.",
-line:097847a,MiriamObj_2,JUDGE: Y-[p/][s/]Yes![p/][s/] You will stop this at once!,
-line:024384f,MiriamObj_2,"TYRION: Ms. Frega,[p/][s/] you're [i]lying[/i] about how Bellwether responded to your greeting, aren’t you?!",
-line:083a7da,MiriamObj_2,"MIRIAM: I-[p/][s/]I... [h=""It doesn’t make a difference...|All she did was yell at me..."" e=""af""/]",
-line:0c02e56,MiriamObj_2,“All she did was yell”?,
-line:04d3ce2,MiriamObj_3,TYRION: Ms. Frega.[p/] Is it possible that Bellwether’s response was less than friendly?,
-line:076f3d4,MiriamObj_3,"MIRIAM: W-[p/][s/]What do you care?![p/][s/] What difference does it make?! [h=""This peasant!|Why is he being so persistent?!"" e=""af""/]",
-line:0d67c4e,MiriamObj_3,TYRION: My job is to make sure [i]every[/i] part of your testimony is truthful!,
-line:0e24a91,MiriamObj_3,"TYRION: [i]Every[/i] detail matters,[p/][s/] no matter how seemingly insignificant!",
-line:0b2cc8a,MiriamObj_3,"JUDGE: Mr. Cuthbert![p/] You [i]will[/i] stop this,[p/][s/] or I will find you in contempt!",
-line:0ad244b,MiriamObj_3,"TYRION: The professor yelled at you,[p/] didn’t she, Ms. Frega?!",
-line:0f0efbb,MiriamObj_3,MIRIAM: Yeah?![p/][s/] So what if she did?!,
-line:081644c,MiriamObj_3,AriaC: ...!,
-line:0e5c6b1,MiriamObj_3,MIRIAM: E-[p/][s/]Er...[p/] I mean...,
-line:0adc4c7,MiriamObj_3,"TYRION: ...I'm sorry,[p/] but we all clearly heard what you just said.",
-line:0cfb71f,MiriamObj_3,"TYRION: So,[p/] you [i]do[/i] admit that she yelled at you.",
-line:00238a3,MiriamObj_3,MIRIAM: Agh![p/][s/] You impertinent little-!,
-line:01ca364,MiriamObj_3,MIRIAM: Yes![p/][s/] I admit it![p/][s/] The professor [i]didn’t[/i] greet me back that day!,
-line:0ecf91d,MiriamObj_3,"MIRIAM: Oh.[p/] Good morning, professor.",
-line:09d5255,MiriamObj_3,CATHERINE: Be quiet!,
-line:0d878ca,MiriamObj_3,MIRIAM: ...?!,
-line:046040f,MiriamObj_3,MIRIAM: She yelled at me to “Be quiet!”,
-line:0e22cbc,MiriamObj_3,"MIRIAM: But until then,[p/] we had always been nothing but courteous with each other...",
-line:07f4c2c,MiriamObj_3,"MIRIAM: I don’t know what got into her that day,[p/] but something had put her in a foul mood.",
-line:0df3f9b,MiriamObj_3,"MIRIAM: B-[p/][s/]But that’s it![p/][s/] Everything else I said was the truth! [h=""I [i]am[/i] telling the truth!|That's all she did!"" e=""a""/]",
+line:0bb13e5,MiriamObj,"TYRION: Ms. Frega.[p/] If I recall correctly,[p/] you have a habit of getting absorbed in your work.",TYRION: 弗雷加女士。[p/]如果我没记错，[p/]你在学习工作时一向全神贯注。
+line:0f8adc5,MiriamObj,"TYRION: So much so,[p/] that you’ll even lose track of the time of day.",TYRION: 甚至会因过于专心致志而忘记时间。
+line:0f43996,MiriamObj,"MIRIAM: If [i]I[/i] recall correctly,[p/] you pulled that information out of me through your lies.",MIRIAM: [i]我[/i]没记错的话，[p/]你是通过谎言诈出这个情报的。
+line:06ced52,MiriamObj,"TYRION: ...Regardless,[p/] earlier in today’s proceedings,[p/] the prosecutor made the following argument:",TYRION: ……尽管如此。[p]在今日庭审的早些时候，[p/]检方提出了如下主张：
+line:0960cd2,MiriamObj,AriaC: Our first witness saw Bellwether leave the meeting with the headmaster.,AriaC: 第一位目击者看到了贝尔维瑟离开校长室。
+line:0903e13,MiriamObj,AriaC: [i]That[/i] would time this encounter around 1:00 PM.,AriaC: [i]这一点[/i]使这次相遇的时间确定在下午 1:00左右。
+line:01b5e37,MiriamObj,"TYRION: Ms. Frega.[p/] If you had said “Good morning” to the professor,[p/] you would have been mistaken...",TYRION: 弗雷加女士。[p/]如果你向教授道了“上午好”，[p/]那你可能搞错了时间……
+line:07da6a7,MiriamObj,TYRION: ...Because that encounter could have only happened during the afternoon.,TYRION: ……因为这次见面只可能发生在午后。
+line:0eed05f,MiriamObj,AriaC: And your point is?,AriaC: 那又如何？
+line:06d0d9a,MiriamObj,"AriaC: You said it yourself, Mr. Cuthbert.[p/] The witness simply lost track of time.",AriaC: 卡斯伯特先生，你自己都说过了。[p/]证人只是忘记了时间。
+line:0b767bc,MiriamObj,TYRION: What the witness said isn’t what’s important here.,TYRION: 证人说了什么并不重要。
+line:03b7d71,MiriamObj,TYRION: The significance is in [i]what[/i] the professor said in response.,TYRION: 重要的是教授回复了[i]什么[/i]。
+line:09d152b,MiriamObj,TYRION: She had just come out of a meeting that was scheduled for noon and ran for an hour.,TYRION: 她刚刚结束一次预约好在正午进行的会面，并且待了一个小时。
+line:05417ef,MiriamObj,TYRION: She would be well aware that it was no longer morning.,TYRION: 她一定会注意到已经不是上午了。
+line:0ab8bed,MiriamObj_2,TYRION: Wouldn’t she have corrected the witness?,TYRION: 她不应该纠正一下证人吗？
+line:04edf06,MiriamObj_2,"AriaC: Their encounter was extremely short,[p/] and the victim’s mind may have been preoccupied.",AriaC: 她们的交流十分短暂，[p/]被害人当时可能专注在其他的思考。
+line:06a8b61,MiriamObj_2,AriaC: She could have easily responded to the witness without thinking.,AriaC: 她可能只是不经思索就回复了证人的问候。
+line:0a09953,MiriamObj_2,CELESTE: I’m going to be honest.[p/] I kind of agree with her.,CELESTE: 说句实话，[p/]我有点认同她这个说法。
+line:08490b6,MiriamObj_2,CELESTE: It’s not hard to believe that they were both confused about the time.,CELESTE: 两个人都没注意到时间也并不难理解。
+line:05538e9,MiriamObj_2,"It was definitely a stretch,[p/] but I still couldn't shake the feeling that Miriam was hiding something.",虽然是有些牵强，[p/]但我还是摆脱不掉米莉亚姆有所隐瞒的直觉。
+line:0f31f7a,MiriamObj_2,"Every time I asked her about how Bellwether acted that day,[p/] the Eye of Horus read a suspicious thought.",每当我问她贝尔维瑟当天的行为时[p/]荷鲁斯之眼总是捕捉到可疑的念头。
+line:0a227c3,MiriamObj_2,There [i]had[/i] to be something there.,[i]肯定[/i]还有什么东西。
+line:0755426,MiriamObj_2,"TYRION: Ms. Frega.[p/] You haven’t been entirely truthful in your testimony, have you?",TYRION: 弗雷加女士。[p/]你在作证时没有完全说真话，不是吗？
+line:0b51b03,MiriamObj_2,"MIRIAM: T-[p/][s/]That’s absurd![p/][s/] What reason would I have to lie?! [h=""It’s such a small detail!|Why does he even care?!"" e=""af""/]","MIRIAM: 荒、[p/][s/]荒谬！[p/][s/]我为什么要说谎？！[h=""那只是个小细节而已！他为什么会在意这个？！"" e=""af""/]"
+line:0de7494,MiriamObj_2,"Tyrion: [i]Every[/i] detail about how she acted is important, Ms. Frega.",Tyrion: 她的[i]每一个[/i]行为的细节都很重要，弗雷加女士。
+line:0cb626c,MiriamObj_2,Tyrion: What [i]aren't[/i] you telling us?,Tyrion: 你[i]还有什么[/i]没告诉我们？
+line:02a5b7d,MiriamObj_2,"AriaC: Mr. Cuthbert,[p/] you have no basis to accuse the witness of perjury.",AriaC: 卡斯伯特先生，[p/]你并没有指控证人作伪证的根据。
+line:097847a,MiriamObj_2,JUDGE: Y-[p/][s/]Yes![p/][s/] You will stop this at once!,JUDGE: 是、[p/][s/]是的！[p/][s/]请你马上停止！
+line:024384f,MiriamObj_2,"TYRION: Ms. Frega,[p/][s/] you're [i]lying[/i] about how Bellwether responded to your greeting, aren’t you?!",TYRION: 弗雷加女士，[p/][s/]你[i]说谎[/i]了，贝尔维瑟并不是那样回应的，对吧？！
+line:083a7da,MiriamObj_2,"MIRIAM: I-[p/][s/]I... [h=""It doesn’t make a difference...|All she did was yell at me..."" e=""af""/]","MIRIAM: 我、[p/][s/]我…… [h=""那又有什么不同……|她只不过吼了我……"" e=""af""/]"
+line:0c02e56,MiriamObj_2,“All she did was yell”?,“她只不过吼了我”？
+line:04d3ce2,MiriamObj_3,TYRION: Ms. Frega.[p/] Is it possible that Bellwether’s response was less than friendly?,TYRION: 弗雷加女士，[p/]贝尔维瑟对你的态度是不是不怎么友好？
+line:076f3d4,MiriamObj_3,"MIRIAM: W-[p/][s/]What do you care?![p/][s/] What difference does it make?! [h=""This peasant!|Why is he being so persistent?!"" e=""af""/]","MIRIAM: 关、[p/][s/]关你什么事？！[p/][s/]那又有什么区别？！ [h=""这个贱民！|他为什么这么坚持？！"" e=""af""/]"
+line:0d67c4e,MiriamObj_3,TYRION: My job is to make sure [i]every[/i] part of your testimony is truthful!,TYRION: 我的工作就是确保你的证言[i]句句属实[/i]！
+line:0e24a91,MiriamObj_3,"TYRION: [i]Every[/i] detail matters,[p/][s/] no matter how seemingly insignificant!",TYRION: [i]每个细节[/i]都很重要。[p/][s/]看似无关紧要的细节，也可能暗藏玄机！
+line:0b2cc8a,MiriamObj_3,"JUDGE: Mr. Cuthbert![p/] You [i]will[/i] stop this,[p/][s/] or I will find you in contempt!",JUDGE: 卡斯伯特先生！[p/]你[i]如果[/i]再不停止，[p/][s/]我就会判你藐视法庭罪！
+line:0ad244b,MiriamObj_3,"TYRION: The professor yelled at you,[p/] didn’t she, Ms. Frega?!",TYRION: 教授吼了你，[p/]没错吧，弗雷加女士？！
+line:0f0efbb,MiriamObj_3,MIRIAM: Yeah?![p/][s/] So what if she did?!,MIRIAM: 是啊？！[p/][s/] 是又怎么样？！
+line:081644c,MiriamObj_3,AriaC: ...!,AriaC: ……！
+line:0e5c6b1,MiriamObj_3,MIRIAM: E-[p/][s/]Er...[p/] I mean...,MIRIAM: 呃、[p/][s/]那个……[p/]我想说的是……
+line:0adc4c7,MiriamObj_3,"TYRION: ...I'm sorry,[p/] but we all clearly heard what you just said.",TYRION: ……抱歉，[p/] 但你刚才那句话我们都听得很清楚。
+line:0cfb71f,MiriamObj_3,"TYRION: So,[p/] you [i]do[/i] admit that she yelled at you.",TYRION: 也就是说，[p/]你[i]承认[/i]她吼过你。
+line:00238a3,MiriamObj_3,MIRIAM: Agh![p/][s/] You impertinent little-!,MIRIAM: 啊！[p/][s/]你这个不要脸的——！
+line:01ca364,MiriamObj_3,MIRIAM: Yes![p/][s/] I admit it![p/][s/] The professor [i]didn’t[/i] greet me back that day!,MIRIAM: 没错！[p/][s/]我认了行吧！[p/][s/]那天，教授[i]并没有[/i]向我问好！
+line:0ecf91d,MiriamObj_3,"MIRIAM: Oh.[p/] Good morning, professor.",MIRIAM: 噢。[p/]上午好，教授。
+line:09d5255,MiriamObj_3,CATHERINE: Be quiet!,CATHERINE: 安静！
+line:0d878ca,MiriamObj_3,MIRIAM: ...?!,MIRIAM: ……？！
+line:046040f,MiriamObj_3,MIRIAM: She yelled at me to “Be quiet!”,MIRIAM: 她吼我，让我“安静”！
+line:0e22cbc,MiriamObj_3,"MIRIAM: But until then,[p/] we had always been nothing but courteous with each other...",MIRIAM: 在此之前，[p/]我们相处一直很客气的……
+line:07f4c2c,MiriamObj_3,"MIRIAM: I don’t know what got into her that day,[p/] but something had put her in a foul mood.",MIRIAM: 也不知道她那天是遇到什么事了……[p/]惹得她一肚子邪火。
+line:0df3f9b,MiriamObj_3,"MIRIAM: B-[p/][s/]But that’s it![p/][s/] Everything else I said was the truth! [h=""I [i]am[/i] telling the truth!|That's all she did!"" e=""a""/]","MIRIAM: 但、[p/][s/]但是也就这样了！[p/][s/]我说的都是事实！ [h=""我说的[i]都是[/i]事实！|她的行为就是这些了！"" e=""a""/]"
 line:0f37fdb,MiriamObj_3,"MIRIAM: I [i]did[/i] see her come out of the Headmaster’s Office and walk towards the library! [h=""She walked past me!|[i]That[/i] part was true!""/]",
 line:0d681b5,MiriamObj_3,TYRION: ...!,TYRION: ……！
 line:05d2c0b,MiriamObj_3,"So, she [i]wasn’t[/i] lying about that...",
@@ -1512,7 +1512,7 @@ line:04ada7f,ConstPresAfter,AriaC: Are you trying to say that her voice was recr
 line:0d3ba41,ConstPresAfter,"TYRION: Not a spell, Steelwind.[p/] It was artificery.",
 line:05b9e77,ConstPresAfter,"TYRION: And whoever the murderer is,[p/] they had the perfect piece of artificery available to them.",
 line:06d3073,ConstPresAfter,TYRION: One programmed with Catherine Bellwether’s voice.,
-line:04c7b23,ConstPresAfter,AriaC: ...!,
+line:04c7b23,ConstPresAfter,AriaC: ...!,AriaC: ……！
 line:0e24dba,ConstPresAfter,AriaC: You can’t possibly mean—!,
 line:0f844ce,ConstPresAfter,"TYRION: That’s right, Steelwind!",
 line:0160ec6,ConstPresAfter_2,TYRION: What Mr. Hughes saw was an Arcane Construct!,
@@ -1561,7 +1561,7 @@ line:0020359,RedPresAfter,It was at that moment that several memories flooded ba
 line:004f5d5,RedPresAfter,TYRION: Mr. Hughes.[p/] You said that Bellwether yelled at you.,
 line:0b09cd6,RedPresAfter,TYRION: What were her exact words?,
 line:04c8d00,RedPresAfter,JAN: Uh...[p/] I think she yelled at me to “Be quiet”.,
-line:04cb7ec,RedPresAfter,MIRIAM: She yelled at me to “Be quiet!”,
+line:04cb7ec,RedPresAfter,MIRIAM: She yelled at me to “Be quiet!”,MIRIAM: 她吼我，让我“安静”！
 line:0cc8407,RedPresAfter,"MIRIAM: Until then,[p/] we had always been nothing but courteous with each other...",
 line:0ce05b9,RedPresAfter,"MIRIAM: I don’t know what got into her that day,[p/] but something put her in a foul mood.",
 line:05bf02c,RedPresAfter_1,Catherine: Be quiet!,
@@ -1590,7 +1590,7 @@ line:026c9b4,RedPresAfter_2,AriaC: That’s completely ridiculous!,
 line:02d9ff6,RedPresAfter_3,AriaC: Headmaster Redmond is 88 years old![p/][s/] He could [i]never[/i] do something like this!,
 line:04c6777,RedPresAfter_3,"TYRION: Steelwind,[p/] there’s one common element between each of the witnesses’ encounters with Bellwether.",
 line:038424a,RedPresAfter_3,TYRION: It’s what Bellwether said to them.,
-line:093c155,RedPresAfter_3,AriaC: ...!,
+line:093c155,RedPresAfter_3,AriaC: ...!,AriaC: ……！
 line:0c74b40,RedPresAfter_3,AriaC: She yelled at both of them to “Be quiet!”...,
 line:011c417,RedPresAfter_3,TYRION: Miriam Frega was particularly surprised.,
 line:03f9e7a,RedPresAfter_3,"TYRION: She had a good relationship with the professor,[p/] but when greeted by the professor,[p/] Bellwether just shouted at her.",
