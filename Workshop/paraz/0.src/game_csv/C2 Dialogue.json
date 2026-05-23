@@ -10236,1366 +10236,1366 @@
   {
     "key": "C2 Dialogue.csv::translation::da1e2b37d055d43f",
     "original": "ERIS: The construct’s “voice” is an amalgam of pre-recorded phrases.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 奥术构造体的“声音”只是拼凑了一系列提前录制好的片段。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0410dd5\",\n  \"node\": \"RedPresAfter_1\",\n  \"text\": \"ERIS: The construct’s “voice” is an amalgam of pre-recorded phrases.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4d53f0c8f7a21a4e",
     "original": "ERIS: I’m not sure if you noticed,[p/] but it uses the voice of Professor Bellwether.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 不知道你有没有注意到，[p/]它用的是贝尔维瑟教授的声音。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:064a660\",\n  \"node\": \"RedPresAfter_1\",\n  \"text\": \"ERIS: I’m not sure if you noticed,[p/] but it uses the voice of Professor Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c9a995826e5bf1fe",
     "original": "Celeste: Ugh...[p/] I knew there was something wrong with it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 唔……[p/]我就觉得有些怪怪的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04cc02b\",\n  \"node\": \"RedPresAfter_1\",\n  \"text\": \"Celeste: Ugh...[p/] I knew there was something wrong with it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::692011365d817124",
     "original": "ERIS: Unfortunately,[p/] you can’t make them say anything other than basic responses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 不过遗憾的是，[p/]它们只能做一些基本的答复。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e59163\",\n  \"node\": \"RedPresAfter_1\",\n  \"text\": \"ERIS: Unfortunately,[p/] you can’t make them say anything other than basic responses.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f0ce3d9089c00e53",
     "original": "ERIS: Only the headmaster can change those settings.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 只有校长能更改这些设定。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0475385\",\n  \"node\": \"RedPresAfter_1\",\n  \"text\": \"ERIS: Only the headmaster can change those settings.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::48519ab0d99584a5",
     "original": "TYRION: No...![p/][s/] Was it [i]him[/i] the entire time?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 不会吧……！[p/][s/]一直以来，背后的人是[i]他[/i]？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:036cfda\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"TYRION: No...![p/][s/] Was it [i]him[/i] the entire time?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::22190bea77708983",
     "original": "CELESTE: What is it, Tyrion?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 怎么了，提利昂？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a0b154\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"CELESTE: What is it, Tyrion?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6a7581bc9e4104a3",
     "original": "CELESTE: Did you figure something out?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你弄明白什么东西了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:057aca3\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"CELESTE: Did you figure something out?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bfb90704253c3a26",
     "original": "TYRION: I-[p/][s/]I...[p/] did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我、[p/][s/]I我……[p/]想到了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:052ac67\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"TYRION: I-[p/][s/]I...[p/] did.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::169a42586f8851f4",
     "original": "I didn't like where this was going,[p/] but with the way the pieces were laid out,[p/] there was only one explanation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我不喜欢这个流向，[p/]但把细节拼在一起后，[p/]这就是唯一的解释。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07c72b7\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"I didn't like where this was going,[p/] but with the way the pieces were laid out,[p/] there was only one explanation.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb91295b45a4a816",
     "original": "TYRION: Steelwind,[p/] earlier you said that my client could have orchestrated this entire ruse,[p/] but that’s simply not true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……斯蒂尔文德。[p/]先前你提到我的委托人也能自导自演这一切，[p/]但这是不对的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:006a30b\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"TYRION: Steelwind,[p/] earlier you said that my client could have orchestrated this entire ruse,[p/] but that’s simply not true.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d8d0cfa3497b2d62",
     "original": "AriaC: How so?[p/] Anyone could have ordered the Construct to carry the victim’s body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 怎么会？[p/]谁都能命令构造体运送尸体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01f5b6a\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"AriaC: How so?[p/] Anyone could have ordered the Construct to carry the victim’s body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1e2bc1b973eec772",
     "original": "TYRION: Yes,[p/] but not everyone can [i]change[/i] what the Constructs are able to say.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 这确实不假，[p/]但不是所有人都有权限[i]更改[/i]构造体能说的话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f3ed2b\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"TYRION: Yes,[p/] but not everyone can [i]change[/i] what the Constructs are able to say.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::69cc9f3e00b652e0",
     "original": "TYRION: Only one individual has the credentials for that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 只有一个人有权限做到这一点……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b0f2fe\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"TYRION: Only one individual has the credentials for that...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::70325cf2428fb7d9",
     "original": "TYRION: Theodore Redmond:[p/] Headmaster of the Imperial Academy!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 那就是西奥多·雷德蒙，[p/]帝国学院的校长！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0604d90\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"TYRION: Theodore Redmond:[p/] Headmaster of the Imperial Academy!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c1f7a46a184ef919",
     "original": "CELESTE: Wait,[p/][s/] you’re not serious, are you?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 等下，[p/][s/]你不是认真的吧？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:004fea0\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"CELESTE: Wait,[p/][s/] you’re not serious, are you?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8217ff9212b4b591",
     "original": "CELESTE: You think the [i]headmaster[/i] did all this?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你认为[i]校长[/i]是幕后黑手？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d7383c\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"CELESTE: You think the [i]headmaster[/i] did all this?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c5020887a8e3a59a",
     "original": "TYRION: I...[p/] don’t want to believe it,[p/] but he’s the only person who [i]could[/i] have done it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我…….[p/]也不愿意相信，[p/]但他是唯一有[i]能力[/i]这么做的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cf157e\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"TYRION: I...[p/] don’t want to believe it,[p/] but he’s the only person who [i]could[/i] have done it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ad5049a917951919",
     "original": "AriaC: That’s completely ridiculous!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 这太荒谬了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:026c9b4\",\n  \"node\": \"RedPresAfter_2\",\n  \"text\": \"AriaC: That’s completely ridiculous!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ee663e6c63580257",
     "original": "AriaC: Headmaster Redmond is 88 years old![p/][s/] He could [i]never[/i] do something like this!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 雷德蒙校长已经88岁了！[p/][s/]他[i]没有能力[/i]这么做！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02d9ff6\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"AriaC: Headmaster Redmond is 88 years old![p/][s/] He could [i]never[/i] do something like this!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ed16742216441385",
     "original": "TYRION: Steelwind,[p/] there’s one common element between each of the witnesses’ encounters with Bellwether.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 斯蒂尔文德，[p/]两位证人与贝尔维瑟接触时都有一个共同点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04c6777\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: Steelwind,[p/] there’s one common element between each of the witnesses’ encounters with Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8520386a274736da",
     "original": "TYRION: It’s what Bellwether said to them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 就是贝尔维瑟对他们说的话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:038424a\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: It’s what Bellwether said to them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::442183b44d30193c",
     "original": "AriaC: She yelled at both of them to “Be quiet!”...",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 她都向目击者吼了一句“安静！”……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c74b40\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"AriaC: She yelled at both of them to “Be quiet!”...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5af3400d75c05eab",
     "original": "TYRION: Miriam Frega was particularly surprised.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 米莉亚姆·弗雷加对此特别惊讶。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:011c417\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: Miriam Frega was particularly surprised.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8420005489903568",
     "original": "TYRION: She had a good relationship with the professor,[p/] but when greeted by the professor,[p/] Bellwether just shouted at her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她与教授关系很好，[p/]但当她向教授问候时，[p/]贝尔维瑟却吼了回去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03f9e7a\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: She had a good relationship with the professor,[p/] but when greeted by the professor,[p/] Bellwether just shouted at her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::52d54a8cdd8e5f57",
     "original": "TYRION: ...Almost as if the professor was responding indiscriminately.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……仿佛教授是在不分对象的进行回答。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0650616\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: ...Almost as if the professor was responding indiscriminately.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9026ca2939b2b093",
     "original": "TYRION: And recall her encounter with Jan Hughes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 也请回忆一下她遇到简·休斯的时候。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08679ab\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: And recall her encounter with Jan Hughes.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b9e7ffefee3dae1f",
     "original": "TYRION: The professor knocked over a vase and shouted at him to \"Be quiet!\" immediately after.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 教授撞倒了花瓶，然后立刻朝着休斯先生吼道“安静！”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05e9259\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: The professor knocked over a vase and shouted at him to \\\"Be quiet!\\\" immediately after.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3b51d662626f0174",
     "original": "TYRION: But he hadn’t said anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但他当时什么都没说。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b4ae8c\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: But he hadn’t said anything.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c290bac39da7a88d",
     "original": "CELESTE: ...She was responding to the sound of the vase breaking!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ……她当时是在对花瓶碎掉的声音做出反应！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6012b\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"CELESTE: ...She was responding to the sound of the vase breaking!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9be30bb78a2217e9",
     "original": "TYRION: Now,[p/] let me ask you this, Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 现在，[p/]我来问问你，斯蒂尔文德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ba6958\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: Now,[p/] let me ask you this, Steelwind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d2748a2436a59ce9",
     "original": "TYRION: Where did Bellwether come from [i]before[/i] she encountered Ms. Frega and Mr. Hughes?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 在遇到弗雷加女士和休斯先生[i]之前[/i]，贝尔维瑟是从哪里走过来的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0292f59\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: Where did Bellwether come from [i]before[/i] she encountered Ms. Frega and Mr. Hughes?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9a4a257a64b03934",
     "original": "AriaC: Her meeting—",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 她的会面——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:069385f\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"AriaC: Her meeting—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9d972bed904ffabf",
     "original": "TYRION: —With the headmaster.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ——与校长的会面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c94688\",\n  \"node\": \"RedPresAfter_3\",\n  \"text\": \"TYRION: —With the headmaster.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::39987823f877b8ab",
     "original": "JUDGE: It appears that the defense truly means to indict Theodore Redmond.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 看来辩方真心打算起诉西奥多·雷德蒙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c9121b\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"JUDGE: It appears that the defense truly means to indict Theodore Redmond.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::33c7932a56d11a71",
     "original": "JUDGE: If so,[p/] we have no choice but to take a brief recess until he can be brought here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 这样的话，[p/]我们别无选择，只能在他被护送至此之前短暂休庭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c00b26\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"JUDGE: If so,[p/] we have no choice but to take a brief recess until he can be brought here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0cb5049f456cb5b8",
     "original": "Theodore: There’s no need.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 没有休庭的必要。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0616111\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"Theodore: There’s no need.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::af76e8506dd80616",
     "original": "THEODORE: Fortunately for you,[p/] I was already in the gallery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 幸运的是，[p/]我本来就在旁听席上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a3db07\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"THEODORE: Fortunately for you,[p/] I was already in the gallery.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d0f7a74a69c64135",
     "original": "The headmaster stood up from the gallery behind me and slowly made his way onto the witness stand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "校长从我身后的旁观席上站起身，并慢慢地独自走上证人席。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a8faae\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"The headmaster stood up from the gallery behind me and slowly made his way onto the witness stand.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bc3e72e5bd844af0",
     "original": "...Had he been here the entire time?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……他一直就在那里吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02dcc8b\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"...Had he been here the entire time?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f865fdab1840f1d0",
     "original": "THEODORE: Now,[p/] please correct me if I’m wrong, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 现在……[p/]如果我说的有问题，请纠正我，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0165133\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"THEODORE: Now,[p/] please correct me if I’m wrong, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e7af665b7fd77cd0",
     "original": "THEODORE: But are you trying to say that [i]I[/i] am the one who committed this crime?",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 你是想说，[i]我[/i]就是实施了这次谋杀的人吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0836a61\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"THEODORE: But are you trying to say that [i]I[/i] am the one who committed this crime?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5ec2a39d135a026d",
     "original": "TYRION: ...I’m sorry, Mr. Redmond,[p/] but no matter how I look at it,[p/] everything I’ve found points to you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……抱歉，雷德蒙先生。[p/]无论我怎么看，[p/]一切的证据都指向你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fb604e\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"TYRION: ...I’m sorry, Mr. Redmond,[p/] but no matter how I look at it,[p/] everything I’ve found points to you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dfc3f1385d85a38a",
     "original": "THEODORE: No,[p/] there’s no need to apologize.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 不，[p/]你没必要道歉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e59a6b\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"THEODORE: No,[p/] there’s no need to apologize.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1b48b56e2596f011",
     "original": "THEODORE: In fact,[p/] I should commend you on the lengths that you’re going to defend dear Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 实际上，[p/]我应该向你为华莱士辩护到这一步致谢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bcafaa\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"THEODORE: In fact,[p/] I should commend you on the lengths that you’re going to defend dear Wallace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1aa174c145884355",
     "original": "AriaC: ...The court appreciates your understanding, Mr. Redmond.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……感谢您出庭，雷德蒙先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09b9a02\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"AriaC: ...The court appreciates your understanding, Mr. Redmond.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e1b8f7846be7dd12",
     "original": "THEODORE: ... [h=\"How can she speak so cordially?|After [i]all[/i] she's done!\" e=\"a\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……[h=\"她怎么还能这么亲切地说话？|而且是在做了[i]这么多[/i]事情之后！\" e=\"a\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ec6a5b\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"THEODORE: ... [h=\\\"How can she speak so cordially?|After [i]all[/i] she's done!\\\" e=\\\"a\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::24e20809a09dce4c",
     "original": "THEODORE: Now then...[p/] To clear the air,[p/] I suppose I should give [i]my[/i] testimony on what happened that day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 好了……[p/]为了消除误会，[p/][i]我[/i]应该向法庭陈述那天发生了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c78567\",\n  \"node\": \"RedPresAfter_4\",\n  \"text\": \"THEODORE: Now then...[p/] To clear the air,[p/] I suppose I should give [i]my[/i] testimony on what happened that day.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ee08fd2e1b667727",
     "original": "Theodore: That day,[p/] I had a meeting scheduled with the professor at noon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 那天，[p/]我和教授约好在中午见面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6cd7d\",\n  \"node\": \"RedPresAfter_5\",\n  \"text\": \"Theodore: That day,[p/] I had a meeting scheduled with the professor at noon.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8ed9b6bf6810d391",
     "original": "Theodore: She showed up at the expected time,[p/] and we discussed various administrative matters.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 她准时到场，[p/]我们一起探讨了许多管理方面的事项。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08cdaae\",\n  \"node\": \"RedPresAfter_5\",\n  \"text\": \"Theodore: She showed up at the expected time,[p/] and we discussed various administrative matters.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb26d4bf623e727c",
     "original": "Theodore: Our meeting went on for an hour.[p/] After which, she left to prepare for her next class.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 我们的会谈持续了一小时，[p/]在那之后，她便离开去准备下一堂课。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:033602b\",\n  \"node\": \"RedPresAfter_5\",\n  \"text\": \"Theodore: Our meeting went on for an hour.[p/] After which, she left to prepare for her next class.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8aa2cd527707f98d",
     "original": "Theodore: Despite our many disagreements,[p/] we still knew how to be civil with one another.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 虽然有许多分歧，[p/]但我们都知道尊重对方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c84483\",\n  \"node\": \"RedPresAfter_5\",\n  \"text\": \"Theodore: Despite our many disagreements,[p/] we still knew how to be civil with one another.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::de740907c12e019d",
     "original": "Theodore: After all,[p/] I had no reason to bear a personal grudge against her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 毕竟，[p/]我没有理由对她怀恨在心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02e3306\",\n  \"node\": \"RedPresAfter_5\",\n  \"text\": \"Theodore: After all,[p/] I had no reason to bear a personal grudge against her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5ec035c50a0a37fc",
     "original": "CELESTE: I...[p/] just can’t see it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我……[p/]我就是不理解。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:008cb8b\",\n  \"node\": \"RedPresAfter_5\",\n  \"text\": \"CELESTE: I...[p/] just can’t see it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32ba9f5297fc880b",
     "original": "CELESTE: He seems like such a nice old man.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 他看起来就是位和蔼的老人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d0e50a\",\n  \"node\": \"RedPresAfter_5\",\n  \"text\": \"CELESTE: He seems like such a nice old man.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d23566e2f1f9119f",
     "original": "CELESTE: Is he [i]really[/i] the killer we’re looking for?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 他[i]真的是[/i]我们要找的真凶吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08574ea\",\n  \"node\": \"RedPresAfter_5\",\n  \"text\": \"CELESTE: Is he [i]really[/i] the killer we’re looking for?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4ccdc8118a6dfc1e",
     "original": "TYRION: He has to be.[p/] No one else could have orchestrated this entire plot.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 只能是他。[p/]除了他没有人能做到这一切。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d3cd4c\",\n  \"node\": \"RedPresAfter_5\",\n  \"text\": \"TYRION: He has to be.[p/] No one else could have orchestrated this entire plot.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::332be78109dd21cd",
     "original": "I just needed to find out how to prove it...",
-    "translation": "",
-    "stage": 0,
+    "translation": "我只是得找到证明的方法……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:007b50a\",\n  \"node\": \"RedPresAfter_5\",\n  \"text\": \"I just needed to find out how to prove it...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb24a365d562407f",
     "original": "TYRION: What was this meeting for?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 会面是为了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0126698\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"TYRION: What was this meeting for?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dacf3d44cd58f3cd",
     "original": "THEODORE: Oh,[p/] nothing of note.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 哦，[p/]没什么重要的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d132f8\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: Oh,[p/] nothing of note.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::938fc435327f6591",
     "original": "THEODORE: We were merely discussing her daily operations and duties within the academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我们只是简单讨论了她在学院的日常工作和职责。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f41a0e\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: We were merely discussing her daily operations and duties within the academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b043645949f4e978",
     "original": "THEODORE: In an academy such as ours,[p/] it is beneficial to regularly communicate with the staff.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 在我们这样的学院里，[p/]经常与员工沟通有助于学院发展。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c7c42b\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: In an academy such as ours,[p/] it is beneficial to regularly communicate with the staff.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1f92506b4ce1f3ce",
     "original": "TYRION: So, she showed up at [i]exactly[/i] 12:00 PM?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 所以说她[i]准时[/i]在 12:00 赴约了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:064f211\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"TYRION: So, she showed up at [i]exactly[/i] 12:00 PM?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bb8ab3397dce2a6b",
     "original": "THEODORE: More or less.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 差不多吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cabdd1\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: More or less.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::53fd51eccfd3fb84",
     "original": "THEODORE: Catherine Bellwether was many things,[p/] but she was never tardy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 凯瑟琳·贝尔维瑟可能有许多缺点，[p/]但她从不迟到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:047ba9e\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: Catherine Bellwether was many things,[p/] but she was never tardy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2ca91879146714fe",
     "original": "There weren’t any witnesses who saw her before the meeting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在会面发生之前没有任何目击证人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03bec85\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"There weren’t any witnesses who saw her before the meeting.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5456a74fcdd0893",
     "original": "So, I didn't have a way to disprove what he’s saying.",
-    "translation": "",
-    "stage": 0,
+    "translation": "所以，我没有证伪这个发言的根据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0172d16\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"So, I didn't have a way to disprove what he’s saying.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::19eace8fd58368f6",
     "original": "I needed to look elsewhere in his testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我需要仔细查看他证词里的其他地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06db46c\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"I needed to look elsewhere in his testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34ca31f49fb820b1",
     "original": "AriaC: How long did this meeting last, Headmaster?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 校长，这次会面持续了多久？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082eead\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"AriaC: How long did this meeting last, Headmaster?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fb5523226f12afba",
     "original": "Theodore: Our meeting went on for an hour.[p/] After which, she left.[p/] Presumably to prepare for her next class.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 我们的会谈持续了一小时，[p/]在那之后，她便离开去准备下一堂课。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:084a547\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"Theodore: Our meeting went on for an hour.[p/] After which, she left.[p/] Presumably to prepare for her next class.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7ebbdcdc42b996f5",
     "original": "TYRION: So that means the professor left your office at 1:00 PM?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 意思是教授在下午 1:00 离开了你的办公室？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e9aeb\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"TYRION: So that means the professor left your office at 1:00 PM?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34eaebb5c652146a",
     "original": "THEODORE: Yes.[p/] She was quite adamant about taking time to prepare her lesson plans.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 没错。[p/]她固执地要留出时间来备课。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:021f117\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: Yes.[p/] She was quite adamant about taking time to prepare her lesson plans.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a7acb162d76b07b3",
     "original": "Now that I thought about it,[p/] Miriam had no idea what the time was when she saw Bellwether.",
-    "translation": "",
-    "stage": 0,
+    "translation": "现在想起来，[p/]米莉亚姆并不知道她看到贝尔维瑟时是几点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01056f4\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"Now that I thought about it,[p/] Miriam had no idea what the time was when she saw Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::73533fc9d5ccb153",
     "original": "If the headmaster [i]was[/i] lying about when the meeting ended,[p/] there’d be no way to verify it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "即使校长在会谈结束的时间上[i]说谎[/i]，[p/]我也没有办法证明这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cbeaf2\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"If the headmaster [i]was[/i] lying about when the meeting ended,[p/] there’d be no way to verify it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::933f531108867035",
     "original": "Which would account for the “hour gap” that Steelwind mentioned.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这也就解释了斯蒂尔文德提到的“一小时间隔”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02c29ac\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"Which would account for the “hour gap” that Steelwind mentioned.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b06b79d1c4f2f152",
     "original": "Damn it...[p/] Did the headmaster really do this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "可恶……[p/]校长真的是凶手吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082eed0\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"Damn it...[p/] Did the headmaster really do this?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::62bbcafecae280d2",
     "original": "TYRION: After hearing so much about her...[p/] I find that a little hard to believe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 了解了更多关于她的事之后……[p/]我发现有点难以相信。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a1e060\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"TYRION: After hearing so much about her...[p/] I find that a little hard to believe.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a989f98b59bf65c4",
     "original": "THEODORE: ...I can see why you’d say that,[p/] but despite everything,[p/] I was still her superior.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……我明白你为什么这么说，[p/]但不论如何，[p/]我还是她的上司。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bef443\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: ...I can see why you’d say that,[p/] but despite everything,[p/] I was still her superior.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::482a438c4d690a59",
     "original": "THEODORE: She always remained professional when speaking with me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 她在和我沟通时总是保持着专业风范。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:067c4dc\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: She always remained professional when speaking with me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7a9016ffc453e77d",
     "original": "Was that really true, though?",
-    "translation": "",
-    "stage": 0,
+    "translation": "不过，真的是这样吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:027d3dd\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"Was that really true, though?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17351b0c27818e2e",
     "original": "TYRION: Really?[p/] Even after the way she’s acted toward the students and faculty?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 真的吗？[p/]即使她对学生和教职员工是那种态度？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f224d4\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"TYRION: Really?[p/] Even after the way she’s acted toward the students and faculty?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b405a176206c40af",
     "original": "THEODORE: Make no mistake,[p/] I’ve heard many complaints regarding her actions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 不要误会，[p/]我收到过许多针对她行为的举报。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fafc53\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: Make no mistake,[p/] I’ve heard many complaints regarding her actions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a2ce3a11ce460ee3",
     "original": "THEODORE: And I’ve had many conversations with her to attempt to correct her behavior.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我也和她谈过很多次，尝试纠正她的行为。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0606cd4\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: And I’ve had many conversations with her to attempt to correct her behavior.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bc759330b98b4b02",
     "original": "THEODORE: At the end of the day,[p/] however,[p/] she [i]was[/i] a remarkable professor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 归根结底，[p/]她[i]仍然[/i]是一位出色的教授。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f8617d\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: At the end of the day,[p/] however,[p/] she [i]was[/i] a remarkable professor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ece37f77a0745c6d",
     "original": "THEODORE: ...Regardless of her lack of people skills.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……只是为人方面的确有所缺失。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0439d30\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"THEODORE: ...Regardless of her lack of people skills.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eecd51bd23be93c0",
     "original": "CELESTE: His testimony pretty much matches what we know so far.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 他的证言与我们所知的内容基本一致。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d21142\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"CELESTE: His testimony pretty much matches what we know so far.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1236c0dc7e8fee9b",
     "original": "TYRION: I’m not entirely sure if he’s lying or not.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我不太确定他是否在说谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0969416\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"TYRION: I’m not entirely sure if he’s lying or not.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5a80682c0506108f",
     "original": "TYRION: At the very least,[p/] we know that he was involved in the professor’s murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但至少，[p/]我们能确定他与教授的谋杀案有关。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05c9993\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"TYRION: At the very least,[p/] we know that he was involved in the professor’s murder.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::861e6df6a3df575c",
     "original": "First,[p/] I would need to make his motive clear.",
-    "translation": "",
-    "stage": 0,
+    "translation": "首先，[p/]我需要弄清楚他的动机。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0223725\",\n  \"node\": \"Cross_Theo\",\n  \"text\": \"First,[p/] I would need to make his motive clear.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::55de8ea3c0f40bc6",
     "original": "TYRION: Redmond.[p/] Did you really hold no animosity toward Professor Bellwether?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 雷德蒙，[p/]你真的对贝尔维瑟教授没有敌意吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0556353\",\n  \"node\": \"TheoObj\",\n  \"text\": \"TYRION: Redmond.[p/] Did you really hold no animosity toward Professor Bellwether?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ff449238e28b7688",
     "original": "THEODORE: Of course not.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 当然没有。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b98e2\",\n  \"node\": \"TheoObj\",\n  \"text\": \"THEODORE: Of course not.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::879153927627f06d",
     "original": "THEODORE: I [i]did[/i] have strong opinions about how she treated the students,[p/] but I always remained professional.[p/] We both did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我对她对待学生的方式[i]确实[/i]持有强烈的意见，[p/]但这只是工作层面。[p/]我们都是如此。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dfa066\",\n  \"node\": \"TheoObj\",\n  \"text\": \"THEODORE: I [i]did[/i] have strong opinions about how she treated the students,[p/] but I always remained professional.[p/] We both did.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b9c0b839b77a4e40",
     "original": "TYRION: Frankly,[p/] I find that hard to believe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 说实话，[p/]我很难相信这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01f2642\",\n  \"node\": \"TheoObj\",\n  \"text\": \"TYRION: Frankly,[p/] I find that hard to believe.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7fb85af2ca1c4888",
     "original": "TYRION: In fact,[p/] I think you might have had a [i]very[/i] good reason to murder the professor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 实际上，[p/]我倒是认为你有[i]强烈的[/i]谋杀动机。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b0717e\",\n  \"node\": \"TheoObj\",\n  \"text\": \"TYRION: In fact,[p/] I think you might have had a [i]very[/i] good reason to murder the professor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a811e051207f10e4",
     "original": "TYRION: ...Considering that she was going to take your job.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……因为她马上要取代你的校长位置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0439f3c\",\n  \"node\": \"TheoObj\",\n  \"text\": \"TYRION: ...Considering that she was going to take your job.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::399c3842b439e76e",
     "original": "THEODORE: S-[p/][s/]So you knew about that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 所、[p/][s/]所以说你知道这件事……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e6da74\",\n  \"node\": \"TheoObj\",\n  \"text\": \"THEODORE: S-[p/][s/]So you knew about that...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c60a168338e8310b",
     "original": "AriaC: I’m sorry,[p/] but I don’t follow.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 对不起，[p/]但我跟不上这段对话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c08e16\",\n  \"node\": \"TheoObj\",\n  \"text\": \"AriaC: I’m sorry,[p/] but I don’t follow.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::54aea26eb99b1957",
     "original": "AriaC: Just [i]how[/i] was the professor going to take the headmaster’s job?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 教授[i]怎么能[/i]取代校长的位置？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b989f8\",\n  \"node\": \"TheoObj\",\n  \"text\": \"AriaC: Just [i]how[/i] was the professor going to take the headmaster’s job?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0850fa22062c3f84",
     "original": "TYRION: According to Miriam Frega,[p/] Catherine Bellwether was currying favor with the school board.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 根据米莉亚姆·弗雷加所述，[p/]凯瑟琳·贝尔维瑟一直在巴结学院董事会。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a7a3a0\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"TYRION: According to Miriam Frega,[p/] Catherine Bellwether was currying favor with the school board.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a123f64ebcff0eca",
     "original": "TYRION: In fact,[p/] there was a plan to oust Mr. Redmond and appoint Bellwether as the new headmaster of the academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 实际上，[p/]最近贵族们也计划罢免雷德蒙先生，并任命贝尔维瑟作为学院新校长。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:084c63a\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"TYRION: In fact,[p/] there was a plan to oust Mr. Redmond and appoint Bellwether as the new headmaster of the academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8a4ab1f969f8dd40",
     "original": "AriaC: W-[p/][s/]What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 什、[p/][s/]什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0085db0\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"AriaC: W-[p/][s/]What?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e0d8f6cf622df07e",
     "original": "AriaC: ...B-[p/][s/]But in any case,[p/] I doubt that the headmaster had [i]any[/i] idea of this until now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……但、[p/][s/]但无论如何，[p/]我认为校长直到现在才知道这件事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0708638\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"AriaC: ...B-[p/][s/]But in any case,[p/] I doubt that the headmaster had [i]any[/i] idea of this until now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8e5285426a75dc52",
     "original": "TYRION: I’d like to remind the court of the witness’s reaction just now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我想请法庭回忆证人刚刚的反应。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0123eb4\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"TYRION: I’d like to remind the court of the witness’s reaction just now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::05c34004c44c6447",
     "original": "TYRION: He said,[p/] “So you knew about that...”",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 他说， [p/]“所以说你知道这件事……”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08c5531\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"TYRION: He said,[p/] “So you knew about that...”\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ce6a54495ceb27ab",
     "original": "TYRION: His reaction was one of surprise,[p/] but he wasn’t surprised [i]by[/i] this information.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 他确实感到惊讶，[p/]但并非因为这个消息本身。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09ff04d\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"TYRION: His reaction was one of surprise,[p/] but he wasn’t surprised [i]by[/i] this information.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e20bb71f4823702a",
     "original": "TYRION: He was surprised that I [i]knew[/i] this information!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 而是对我[i]知道[/i]这件事而感到惊讶！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04e00e1\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"TYRION: He was surprised that I [i]knew[/i] this information!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1c936704f88e7dc4",
     "original": "AriaC: T-[p/][s/]That’s-!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 这、[p/][s/]这是——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:072cd3c\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"AriaC: T-[p/][s/]That’s-!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0e6b2d584c1052b8",
     "original": "THEODORE: ...Please,[p/] dear Aria.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……别这样，[p/]亲爱的阿莉亚。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cfc17e\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"THEODORE: ...Please,[p/] dear Aria.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::18c61b9a64c84e9a",
     "original": "THEODORE: I may be a frail old man,[p/] but I’m perfectly capable of defending myself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我可能是个孱弱的老头子，[p/]但是我还有自己辩护的能力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e74dca\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"THEODORE: I may be a frail old man,[p/] but I’m perfectly capable of defending myself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d3176578425eaf0d",
     "original": "TYRION: If you have an explanation, Mr. Redmond,[p/] then by all means,[p/] I’d love to hear it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 如果你对此有任何解释，雷德蒙先生，[p/]我洗耳恭听。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f84f55\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"TYRION: If you have an explanation, Mr. Redmond,[p/] then by all means,[p/] I’d love to hear it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a94c5216b1fe1eba",
     "original": "THEODORE: ...Gladly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……乐意至极。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02aef3c\",\n  \"node\": \"TheoObj_2\",\n  \"text\": \"THEODORE: ...Gladly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0d9af345f447aac4",
     "original": "Theodore: It [i]is[/i] true that I knew about the Fregas’ plot beforehand,[p/] but I had only [i]just[/i] learned about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 没错，我[i]的确[/i]提前得知了弗雷加一族的计划，但也只是[i]最近[/i]才知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0140865\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"Theodore: It [i]is[/i] true that I knew about the Fregas’ plot beforehand,[p/] but I had only [i]just[/i] learned about it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8abfd3cbba06b2b",
     "original": "Theodore: On the day of the murder,[p/] the professor told me about her plan.[p/] She was going to replace me as headmaster and replace the staff with her Arcane Constructs.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 案发当日，[p/]教授对我讲述了她的计划。[p/]她要代替我担任校长，用奥术构造体取代工作人员。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b0dd6b\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"Theodore: On the day of the murder,[p/] the professor told me about her plan.[p/] She was going to replace me as headmaster and replace the staff with her Arcane Constructs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c1de5a456cff66f7",
     "original": "Theodore: Now,[p/] you might say that this would have given me the perfect motive to murder the professor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 各位或许会认为，这正好是我谋杀教授的动机。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ee1131\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"Theodore: Now,[p/] you might say that this would have given me the perfect motive to murder the professor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::934b980ff1665600",
     "original": "Theodore: However,[p/] the supposed murder weapon was stolen from Lady Frega.[p/] This happened weeks before our meeting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 然而，[p/]这把据称的凶器是弗雷加女士那里偷来的。[p/]这是谋杀案发生数周之前的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c20158\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"Theodore: However,[p/] the supposed murder weapon was stolen from Lady Frega.[p/] This happened weeks before our meeting.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dba8870f1b74f30e",
     "original": "Theodore: I had no knowledge of their plan before she told me,[p/] and therefore,[p/] I wouldn’t have known to steal Lady Frega’s weapon in an attempt to frame her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 她告诉我之前，我并不知道他们的计划，[p/]更遑论为了陷害弗雷加女士，专门偷走她的武器了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ffb9f2\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"Theodore: I had no knowledge of their plan before she told me,[p/] and therefore,[p/] I wouldn’t have known to steal Lady Frega’s weapon in an attempt to frame her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f680a33517a438e2",
     "original": "AriaC: Are you satisfied now, Mr. Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 卡斯伯特先生，你满意了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:054b0be\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"AriaC: Are you satisfied now, Mr. Cuthbert?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8bb9291278d7a3d9",
     "original": "AriaC: There is no way that the headmaster could have come up with this plan.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 校长不可能想得出这个杀人计划。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e12c84\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"AriaC: There is no way that the headmaster could have come up with this plan.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d19de35bab5a1879",
     "original": "CELESTE: Hm...[p/] If he [i]really[/i] did do this,[p/] that means he stole the rapier too, right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 嗯……[p/]如果[i]真是[/i]他下的手，[p/]就说明剑也是他偷的，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ab8152\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"CELESTE: Hm...[p/] If he [i]really[/i] did do this,[p/] that means he stole the rapier too, right?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4c03e35e5ef85932",
     "original": "TYRION: ...Most likely.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……很有可能。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:090fcf7\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"TYRION: ...Most likely.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3057ab6c9a1b90a9",
     "original": "CELESTE: His alibi makes sense.[p/] He couldn’t have planned this whole thing unless he knew about Bellwether's plans.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 他的不在场证明很合理。[p/]除非他事先就知道贝尔维瑟的打算，不然不可能计划周密。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0758cb0\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"CELESTE: His alibi makes sense.[p/] He couldn’t have planned this whole thing unless he knew about Bellwether's plans.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9762bd339ef03be0",
     "original": "CELESTE: That would mean he knew about this weeks ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 那他几周前就该知道了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04c7d0c\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"CELESTE: That would mean he knew about this weeks ago.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::293c046ca170920d",
     "original": "CELESTE: But how did he even find out?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 但他究竟是怎么发现的呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0335b61\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"CELESTE: But how did he even find out?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3262ec6faeb0c7f5",
     "original": "TYRION: The best way to tell a convincing lie is to leave a lot of truths and only change one detail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 想撒谎撒得令人信服，最好的办法就是说真话，只改动其中一处细节。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0882475\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"TYRION: The best way to tell a convincing lie is to leave a lot of truths and only change one detail.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dd8077c61949e37f",
     "original": "TYRION: ...Maybe Bellwether [i]did[/i] tell him,[p/] but she actually told him weeks ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……说不定贝尔维瑟[i]确实[/i]把计划告诉他了，[p/]只是在几周前就说了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:008ad9b\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"TYRION: ...Maybe Bellwether [i]did[/i] tell him,[p/] but she actually told him weeks ago.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2e1d1f008a3de25a",
     "original": "But how would I [i]prove[/i] that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "但我要怎么[i]证明[/i]呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0122f81\",\n  \"node\": \"TheoObj_3\",\n  \"text\": \"But how would I [i]prove[/i] that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d498cd9a83fc8c6e",
     "original": "TYRION: So, you only learned about it recently?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你最近才知道吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:079925f\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: So, you only learned about it recently?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6cc9eb2a61ae499b",
     "original": "TYRION: Doesn’t that seem a bit too convenient for you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 时机是不是有点太巧了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:037d367\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: Doesn’t that seem a bit too convenient for you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::68a7790e2c566540",
     "original": "THEODORE: It may appear that way.[p/] Yes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 是有点巧。[p/]没错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08a1337\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: It may appear that way.[p/] Yes.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5d079863b23b3a2",
     "original": "Theodore: But...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 不过……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0449a39\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"Theodore: But...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8f465fc9ff75dbd0",
     "original": "TYRION: That must have infuriated you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你听了想必勃然大怒吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c9b392\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: That must have infuriated you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a569e7638fbba389",
     "original": "TYRION: Your colleague betrayed you [i]and[/i] attempted to steal your job.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 同事背叛了你，[i]而且[/i]是意图窃取你的校长之位。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0260ddd\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: Your colleague betrayed you [i]and[/i] attempted to steal your job.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b65bc8761259fc63",
     "original": "THEODORE: I’m only human. Of course I was taken aback.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我也不过是凡人，[p/]听了这话自然吃了一惊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a5ade\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: I’m only human. Of course I was taken aback.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe8088bd7fc3780d",
     "original": "THEODORE: I’ve been headmaster of the Imperial Academy for nearly sixty years.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我就任帝国学院校长已有快六十年了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:095e1f3\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: I’ve been headmaster of the Imperial Academy for nearly sixty years.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0122134c8633e6d1",
     "original": "THEODORE: To think that the professor [i]and[/i] the board would go around my back like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 教授和董事会竟然会[i]一同[/i]在我背后谋划这种事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01bb5e8\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: To think that the professor [i]and[/i] the board would go around my back like that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::809d87c8cac8dc63",
     "original": "Theodore: Now, you might say that this would have given me the perfect motive to murder the professor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 各位或许会认为，这正好是我谋杀教授的动机。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09cbd8c\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"Theodore: Now, you might say that this would have given me the perfect motive to murder the professor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2bc8060724323ee4",
     "original": "TYRION: With the professor dead,[p/] you won’t have to worry about losing your job.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 教授这么一死，[p/]你不用担心丢掉工作了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00ddb1c\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: With the professor dead,[p/] you won’t have to worry about losing your job.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fda6eb0a2fe6ab7d",
     "original": "TYRION: At least not for a while.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 至少这一阵子不用。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:022305a\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: At least not for a while.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7d2584f66c1b77c1",
     "original": "THEODORE: I suppose you’re correct,[p/] but there are others who benefit too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我想你说得对。[p/]但也有其他人从中获益。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06c9198\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: I suppose you’re correct,[p/] but there are others who benefit too.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::688cdaf629d00447",
     "original": "THEODORE: The faculty staff is now aware of the Fregas’ plot.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 教职工们现在也知道了弗雷加的阴谋。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b6bdc9\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: The faculty staff is now aware of the Fregas’ plot.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1756868403eba7b3",
     "original": "THEODORE: With her plot delayed,[p/] they won’t need to worry about abruptly losing their jobs either.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 她的阴谋推迟了，[p/]他们也就不用担心自己哪一天突然丢了饭碗。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093498c\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: With her plot delayed,[p/] they won’t need to worry about abruptly losing their jobs either.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fb5b3a258092b6ee",
     "original": "...But what would happen if I proved that Redmond was the killer?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……但如果我证明了雷德蒙就是真凶，会发生什么事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00b1ddc\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"...But what would happen if I proved that Redmond was the killer?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3d4e963583c9a68f",
     "original": "He would be sent to prison [i]and[/i] the school board would just appoint someone else to carry out their plan...",
-    "translation": "",
-    "stage": 0,
+    "translation": "他会被投入狱中，[i]同时[/i]学院董事会就可以指派其他人来执行他们的计划……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ff9413\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"He would be sent to prison [i]and[/i] the school board would just appoint someone else to carry out their plan...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6eae3a5b062c6d0d",
     "original": "...",
-    "translation": "",
-    "stage": 0,
+    "translation": "……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0558e0a\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d834d32bc21884f1",
     "original": "No...[p/] I couldn't think about that now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不行……[p]我不能去想这个事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04d96c2\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"No...[p/] I couldn't think about that now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d6dd142aff863d94",
     "original": "If I couldn't prove Redmond's guilt,[p/] the court would convict Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果我不能证明雷蒙德的罪行，[p/]法庭就会宣判华莱士有罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e72082\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"If I couldn't prove Redmond's guilt,[p/] the court would convict Wallace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1b500b091acd4003",
     "original": "TYRION: As the headmaster,[p/] you’d probably have the tools available to get into her room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 作为校长，[p/]你很可能有进入她房间的手段。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d85d73\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: As the headmaster,[p/] you’d probably have the tools available to get into her room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::10a096f3a7196e37",
     "original": "THEODORE: ...Yes,[p/] I will admit that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……没错，[p/]我承认这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fc224d\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: ...Yes,[p/] I will admit that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2f555469a70c6c25",
     "original": "THEODORE: The academy has a master key that can be used to enter each of the students' dorms.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 学院方有一把可以打开所有学生宿舍门的万能钥匙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f3c943\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: The academy has a master key that can be used to enter each of the students' dorms.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a058d1ee006745a4",
     "original": "TYRION: Then you had the perfect way to get into her room [i]and[/i] steal the rapier undetected.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 那你就有闯进她的房间，[i]并且[/i]不为人知地盗走刺剑的完美手法了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:092d0ff\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: Then you had the perfect way to get into her room [i]and[/i] steal the rapier undetected.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0df3e382b59dfcee",
     "original": "THEODORE: I suppose I did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我承认我确实有。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:024092b\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: I suppose I did.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a0bb4dd8288c6443",
     "original": "THEODORE: However,[p/] there’s one flaw with your logic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 然而，[p/]你的逻辑中有一处缺陷。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dee352\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: However,[p/] there’s one flaw with your logic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17af487dc9554d30",
     "original": "TYRION: It was my understanding that the school board wanted to keep this a secret until the very end.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 据我理解，董事会确实想把这个秘密藏到最后一刻。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09742b2\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: It was my understanding that the school board wanted to keep this a secret until the very end.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ce3af93853ac8958",
     "original": "TYRION: Why would Bellwether,[p/] of all people,[p/] tell you about her betrayal?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 为什么所有人之中[p/]，偏偏是贝尔维瑟来告诉你她的背叛行为呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03bd160\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: Why would Bellwether,[p/] of all people,[p/] tell you about her betrayal?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::256d79fa62153dd3",
     "original": "THEODORE: I imagined she wanted to taunt me with that information.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我想过她可能是想用这个信息嘲讽我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c447a4\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: I imagined she wanted to taunt me with that information.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06fc525e68cd9822",
     "original": "THEODORE: We’ve long had our disagreements,[p/] and looking back,[p/] she may have resented me for that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我们长期以来存在分岐，[p/]回首过往种种，[p/]她可能就是因此怨恨我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e45d46\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: We’ve long had our disagreements,[p/] and looking back,[p/] she may have resented me for that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5044c934730d0df1",
     "original": "THEODORE: At that point,[p/] there wasn’t anything I could do to stop her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 到了那个时候，[p/]我已经没有什么制止她的方法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06dbb6a\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: At that point,[p/] there wasn’t anything I could do to stop her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6ab162122fb20345",
     "original": "TYRION: Really?[p/] I thought you and the professor were on good terms.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 真的吗？[p/]我还以为你和教授之间相处融洽呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:066d222\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: Really?[p/] I thought you and the professor were on good terms.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::27689cf7271762ec",
     "original": "THEODORE: I’d thought so too,[p/] but I suppose it was all a façade. [h=\"Hmph...|I was never on good terms with that witch...\" e=\"a\"]",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我原本也这么认为……[p/]但我想都只是表面功夫罢了。[h=\"哼……|我跟那个女巫可没什么好关系……\" e=\"a\"]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06e3c1d\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: I’d thought so too,[p/] but I suppose it was all a façade. [h=\\\"Hmph...|I was never on good terms with that witch...\\\" e=\\\"a\\\"]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::25b78a907f016821",
     "original": "THEODORE: She was just biding her time until she could take my position as headmaster.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 她只是在等待时机取代我的校长之位。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e65502\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"THEODORE: She was just biding her time until she could take my position as headmaster.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::86150344fcc2fd4b",
     "original": "CELESTE: If he's the one behind this,[p/] he had to have known about Bellwether’s betrayal weeks ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 如果他确实是真凶，[p/]那他肯定几周前就知道了贝尔维瑟的背叛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e729d8\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"CELESTE: If he's the one behind this,[p/] he had to have known about Bellwether’s betrayal weeks ago.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6bd221c0a8be9858",
     "original": "TYRION: Right...[p/] The question is:[p/] how do we prove it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 是的……[p/]但问题是：[p/]怎么证明这一点？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c80353\",\n  \"node\": \"Cross_Theo2\",\n  \"text\": \"TYRION: Right...[p/] The question is:[p/] how do we prove it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c96d154379f11521",
     "original": "TYRION: Redmond.[p/] You keep saying that you didn’t know about Bellwether’s plot before yesterday.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 雷德蒙。[p/]你一直在说昨天之前你都不知道贝尔维瑟的阴谋。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06ecc9c\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: Redmond.[p/] You keep saying that you didn’t know about Bellwether’s plot before yesterday.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0797c36157d0d5a5",
     "original": "TYRION: Do you still plan on standing behind that claim?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你还打算继续这个说法吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:008fb17\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: Do you still plan on standing behind that claim?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ec5cedfab56e54b2",
     "original": "THEODORE: Of course I am.[p/] It’s the truth.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 当然。[p/]这是事实。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:095bf43\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"THEODORE: Of course I am.[p/] It’s the truth.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1a878caa49ad11f4",
     "original": "TYRION: I’m sorry, Redmond,[p/] but you should really close your doors during your meetings.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 那我很抱歉，雷德蒙。[p/]但你应该在与人会面时把门关好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a011d4\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: I’m sorry, Redmond,[p/] but you should really close your doors during your meetings.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fb6b2b13bac8d3ac",
     "original": "THEODORE: W-[p/][s/]What...? [h=\"No!|...Did someone see us?!\" e=\"f\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 这、[p/][s/]这是……？ [h=\"不！|当时有人偷看我们？！\" e=\"f\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d3734b\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"THEODORE: W-[p/][s/]What...? [h=\\\"No!|...Did someone see us?!\\\" e=\\\"f\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6c9f00d91fd6fdd9",
     "original": "TYRION: It [i]is[/i] true that Bellwether revealed her plan to you during one of your meetings.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 贝尔维瑟在与你的一次会面中揭明了她的计划，[i]这是事实[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fd8fbe\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: It [i]is[/i] true that Bellwether revealed her plan to you during one of your meetings.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cec17b66a6a2f096",
     "original": "TYRION: In fact,[p/] Jan Hughes happened to overhear that same meeting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 实际上，[p/]简·休斯无意中听到了那一次对话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0129b6d\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: In fact,[p/] Jan Hughes happened to overhear that same meeting.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f1c4281ce119950a",
     "original": "TYRION: But he only overheard the part where the staff would be replaced.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但他只听到了教职工们会被替换的那一部分。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:058f78e\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: But he only overheard the part where the staff would be replaced.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0d719e389921462d",
     "original": "THEODORE: ...!",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09dcd76\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"THEODORE: ...!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7ca7823f9885172d",
     "original": "TYRION: And that's the strangest part, Redmond.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 这才是最奇怪的地方，雷德蒙先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09271dd\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: And that's the strangest part, Redmond.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::90efd160f47f4601",
     "original": "TYRION: According to Mr. Hughes, this meeting...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 根据休斯先生的证言，这场会面……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cbf610\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: According to Mr. Hughes, this meeting...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17f85b4dd2a1ab04",
     "original": "TYRION: ...Occurred weeks ago!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……发生在几周之前！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b1b5c4\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: ...Occurred weeks ago!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c58d90345775193f",
     "original": "AriaC: You can’t accuse the headmaster of perjury based on a rumor!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你不能因为道听途说，就指控校长在作伪证！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04877ec\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"AriaC: You can’t accuse the headmaster of perjury based on a rumor!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a6c93f92350bb232",
     "original": "AriaC: Everything you’ve just said is based on second-hand information!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你所说的一切都只是基于二手信息！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e11c89\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"AriaC: Everything you’ve just said is based on second-hand information!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::84cef0cb6ee89cb6",
     "original": "TYRION: Mr. Hughes [i]distinctly[/i] overheard that the staff would be replaced with Arcane Constructs.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 休斯先生[i]清楚地[/i]听到，教职员工都会被替换成奥术构造体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:036e292\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: Mr. Hughes [i]distinctly[/i] overheard that the staff would be replaced with Arcane Constructs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8aa29fbbbba0c5ee",
     "original": "TYRION: That is [i]too[/i] specific and [i]too[/i] accurate to assume that he misheard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 如果只是听错的话，不可能[i]这么[/i]具体准确。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00204b2\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"TYRION: That is [i]too[/i] specific and [i]too[/i] accurate to assume that he misheard.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f871398ce71ed820",
     "original": "AriaC: The professor must have only revealed her plan for the Arcane Constructs.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 教授应该只是揭露了关于奥数构造体的计划。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06b778c\",\n  \"node\": \"Theo2Obj\",\n  \"text\": \"AriaC: The professor must have only revealed her plan for the Arcane Constructs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1f5abeebbb956501",
     "original": "AriaC: That [i]still[/i] doesn’t prove that he knew about her treachery beforehand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: [i]仍然[/i]无法证明校长在那时就知道了她的反叛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:091b137\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"AriaC: That [i]still[/i] doesn’t prove that he knew about her treachery beforehand.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a1153e2d3533673",
     "original": "TYRION: Professor Bellwether had no authority over the cleaning staff’s employment.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 贝尔维瑟教授无权决定清洁人员的去留。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0847335\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"TYRION: Professor Bellwether had no authority over the cleaning staff’s employment.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9ef9d7500447c145",
     "original": "TYRION: It wouldn’t make sense for her to [i]just[/i] reveal her plan for the Arcane Constructs.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 没道理[i]只[/i]揭露她计划中关于奥术构造体的部分。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:060ec2c\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"TYRION: It wouldn’t make sense for her to [i]just[/i] reveal her plan for the Arcane Constructs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c643abdfaa972ddd",
     "original": "TYRION: That would only make sense if he knew that Bellwether would be taking his job.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 只有一种可能说得通：校长知道贝尔维瑟会取代自己的职位。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0499378\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"TYRION: That would only make sense if he knew that Bellwether would be taking his job.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c596adf3077acdda",
     "original": "Tyrion: So, tell me one thing, Redmond.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 所以，告诉我，雷德蒙校长。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fed62e\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"Tyrion: So, tell me one thing, Redmond.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6ec9a7215e5ae900",
     "original": "TYRION: Why did you find the need to lie about this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 为什么你选择在这里说谎？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04feba6\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"TYRION: Why did you find the need to lie about this?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a573e321869c51af",
     "original": "TYRION: Is it because you saw a need to establish an alibi?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 是因为你发现需要制造不在场证明吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0250d6f\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"TYRION: Is it because you saw a need to establish an alibi?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::daf0bd483dde6664",
     "original": "THEODORE: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ce5c28\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"THEODORE: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::948dccd9fe63d58f",
     "original": "TYRION: Redmond.[p/] I'm only going to ask you one more time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 雷德蒙。[p/]我最后问你一次。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cbfb44\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"TYRION: Redmond.[p/] I'm only going to ask you one more time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fa711c5251d34be2",
     "original": "TYRION: [i]Did[/i] you murder Catherine Bellwether?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 是[i]你[/i]杀了凯瑟琳·贝尔维瑟吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0186a3a\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"TYRION: [i]Did[/i] you murder Catherine Bellwether?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c0e1528a0bc1f33d",
     "original": "Theodore Redmond had done something truly terrible.",
-    "translation": "",
-    "stage": 0,
+    "translation": "西奥多·雷德蒙犯下了很严重的罪行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08d8ab7\",\n  \"node\": \"Theo2Obj_2\",\n  \"text\": \"Theodore Redmond had done something truly terrible.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::57dcc65629206d12",
     "original": "Theodore: The school board rejected my proposed staffing budget.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 学院董事会拒绝了我的员工预算。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d5f047\",\n  \"node\": \"Theo2Obj_3\",\n  \"text\": \"Theodore: The school board rejected my proposed staffing budget.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe3e38384ef291ac",
     "original": "Theodore: We won't be able to hire more custodians...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 我们无法招募更多校工……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07d4883\",\n  \"node\": \"Theo2Obj_3\",\n  \"text\": \"Theodore: We won't be able to hire more custodians...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fab6e91d415cec67",
     "original": "Catherine: Of course they rejected it.[p/] Our current janitor simply needs to stop lazing about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Catherine: 他们当然会拒绝。[p/]我们的清洁工不能再这样磨洋工了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:032e281\",\n  \"node\": \"Theo2Obj_3\",\n  \"text\": \"Catherine: Of course they rejected it.[p/] Our current janitor simply needs to stop lazing about.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe43cf2fbf2f0bcf",
     "original": "Catherine: Then you wouldn't have to spend all of your free time helping him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Catherine: 你也无需再耗用自己的业余时间去帮助他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093ee7b\",\n  \"node\": \"Theo2Obj_3\",\n  \"text\": \"Catherine: Then you wouldn't have to spend all of your free time helping him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::86294107038c62a9",
     "original": "Theodore: How did you—?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 你是怎么——？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05e7c17\",\n  \"node\": \"Theo2Obj_3\",\n  \"text\": \"Theodore: How did you—?!\"\n}"
   },
   {
