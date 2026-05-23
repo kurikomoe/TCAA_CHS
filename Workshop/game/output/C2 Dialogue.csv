@@ -1348,226 +1348,226 @@ line:046040f,MiriamObj_3,MIRIAM: She yelled at me to “Be quiet!”,MIRIAM: 她
 line:0e22cbc,MiriamObj_3,"MIRIAM: But until then,[p/] we had always been nothing but courteous with each other...",MIRIAM: 在此之前，[p/]我们相处一直很客气的……
 line:07f4c2c,MiriamObj_3,"MIRIAM: I don’t know what got into her that day,[p/] but something had put her in a foul mood.",MIRIAM: 也不知道她那天是遇到什么事了……[p/]惹得她一肚子邪火。
 line:0df3f9b,MiriamObj_3,"MIRIAM: B-[p/][s/]But that’s it![p/][s/] Everything else I said was the truth! [h=""I [i]am[/i] telling the truth!|That's all she did!"" e=""a""/]","MIRIAM: 但、[p/][s/]但是也就这样了！[p/][s/]我说的都是事实！ [h=""我说的[i]都是[/i]事实！|她的行为就是这些了！"" e=""a""/]"
-line:0f37fdb,MiriamObj_3,"MIRIAM: I [i]did[/i] see her come out of the Headmaster’s Office and walk towards the library! [h=""She walked past me!|[i]That[/i] part was true!""/]",
+line:0f37fdb,MiriamObj_3,"MIRIAM: I [i]did[/i] see her come out of the Headmaster’s Office and walk towards the library! [h=""She walked past me!|[i]That[/i] part was true!""/]","MIRIAM: 我[i]的确[/i]见到她离开校长室，前往图书馆！ [g=""她就从我身边走过！|[i]这[/i]句是实话！""/]"
 line:0d681b5,MiriamObj_3,TYRION: ...!,TYRION: ……！
-line:05d2c0b,MiriamObj_3,"So, she [i]wasn’t[/i] lying about that...",
+line:05d2c0b,MiriamObj_3,"So, she [i]wasn’t[/i] lying about that...",所以，她在这件事上[i]没有[/i]说谎……
 line:0b82c3f,MiriamObj_4,AriaC: ...,AriaC: ……
-line:018ec22,MiriamObj_4,"AriaC: So,[p/] is that all, Mr. Cuthbert?",
-line:083599e,MiriamObj_4,"TYRION: ...What do you mean, “is that all”?!",
-line:03f1e93,MiriamObj_4,"AriaC: You badgered this witness,[p/] all so you could prove...[p/] [i]what[/i] exactly?",
-line:08e78be,MiriamObj_4,TYRION: The witness committed perjury—,
-line:0caaa65,MiriamObj_4,AriaC: The witness changed a [i]small[/i] detail of her testimony.,
-line:065e296,MiriamObj_4,AriaC: A detail that is inconsequential to the case.,
-line:083d9bc,MiriamObj_4,AriaC: It was clearly an act with no malicious intent.,
+line:018ec22,MiriamObj_4,"AriaC: So,[p/] is that all, Mr. Cuthbert?",AriaC: 那么，[p/]然后呢，卡斯伯特先生？
+line:083599e,MiriamObj_4,"TYRION: ...What do you mean, “is that all”?!",TYRION: ……什么叫“然后呢”？！
+line:03f1e93,MiriamObj_4,"AriaC: You badgered this witness,[p/] all so you could prove...[p/] [i]what[/i] exactly?",AriaC: 你纠缠这位证人，[p/]而你证明的不过是……[p/]到底证明了[i]什么[/i]呢？
+line:08e78be,MiriamObj_4,TYRION: The witness committed perjury—,TYRION: 这名证人作了伪证——
+line:0caaa65,MiriamObj_4,AriaC: The witness changed a [i]small[/i] detail of her testimony.,AriaC: 证人不过是更正了证词中的一个[i]小小[/i]细节。
+line:065e296,MiriamObj_4,AriaC: A detail that is inconsequential to the case.,AriaC: 一个与案件没什么关系的细节。
+line:083d9bc,MiriamObj_4,AriaC: It was clearly an act with no malicious intent.,AriaC: 这个行为显然没有恶意。
 line:0596e57,MiriamObj_4,TYRION: ...,TYRION: ……
-line:06b2885,MiriamObj_4,"After seeing her thoughts,[p/] it was difficult to disagree with that.",
-line:0acdf44,MiriamObj_4,"I was so sure that the Eye would give me a thread to pull on,[p/] but she was only lying to save face.",
-line:06a2ada,MiriamObj_4,AriaC: The witness saw the victim leave the Headmaster’s Office and head toward the library.,
-line:0c4899d,MiriamObj_4,"AriaC: Do you have any concrete evidence to refute [i]that[/i], Mr. Cuthbert?",
-line:0c698dc,MiriamObj_4,TYRION: ...N[p/][s/]-No...[p/] I guess not.,
-line:071cd5d,MiriamObj_4,CELESTE: W-[p/][s/]Wait![p/][s/] Is this really okay?!,
-line:0f8bf63,MiriamObj_4,"CELESTE: At this rate,[p/][s/] this will be the only chance you have to cross-examine her!",
-line:0a1babb,MiriamObj_4,"TYRION: I don’t think she’s lying anymore,[p/] and I was really pushing my luck earlier...",
-line:0799ba5,MiriamObj_4,"TYRION: If I continue pressing her,[p/] the judge might [i]actually[/i] charge me with contempt...",
-line:01f3506,MiriamObj_4,"But if Miriam wasn’t the one who was lying,[p/] then...",
+line:06b2885,MiriamObj_4,"After seeing her thoughts,[p/] it was difficult to disagree with that.",读取她的想法后，[p/]要反对这个解释很困难。
+line:0acdf44,MiriamObj_4,"I was so sure that the Eye would give me a thread to pull on,[p/] but she was only lying to save face.",我确信荷鲁斯之眼能助力我推动庭审，[p/]但她只是因为维护面子才说了谎。
+line:06a2ada,MiriamObj_4,AriaC: The witness saw the victim leave the Headmaster’s Office and head toward the library.,AriaC: 证人看到被害人离开校长室，走向图书馆。
+line:0c4899d,MiriamObj_4,"AriaC: Do you have any concrete evidence to refute [i]that[/i], Mr. Cuthbert?",AriaC: 你有任何可以反驳[i]这个事实[/i]的确实证据吗，卡斯伯特先生？
+line:0c698dc,MiriamObj_4,TYRION: ...N[p/][s/]-No...[p/] I guess not.,TYRION: ……没、[p/][s/]没有……[p/]我想没有。
+line:071cd5d,MiriamObj_4,CELESTE: W-[p/][s/]Wait![p/][s/] Is this really okay?!,CELESTE: 等、[p/][s/]等一下！[p/][s/]就这么算了吗？！
+line:0f8bf63,MiriamObj_4,"CELESTE: At this rate,[p/][s/] this will be the only chance you have to cross-examine her!",CELESTE: 这样下去，[p/][s/]你之后再也没机会对她进行交叉询问了啊！
+line:0a1babb,MiriamObj_4,"TYRION: I don’t think she’s lying anymore,[p/] and I was really pushing my luck earlier...",TYRION: 我不认为她还有说谎，[p/]而且刚才我也确实太冒进了……
+line:0799ba5,MiriamObj_4,"TYRION: If I continue pressing her,[p/] the judge might [i]actually[/i] charge me with contempt...",TYRION: 我要是再追问下去，[p/]法官恐怕[i]真的要[/i]指控我藐视法庭了……
+line:01f3506,MiriamObj_4,"But if Miriam wasn’t the one who was lying,[p/] then...",但如果米莉亚姆不是说谎的那个人，[p/]那么……
 line:09eca05,MiriamObj_4,Tyrion: ...,Tyrion: ……
-line:0a77422,MiriamObj_4,"TYRION: The defense has no further questions for the witness, Ms. Steelwind.",
+line:0a77422,MiriamObj_4,"TYRION: The defense has no further questions for the witness, Ms. Steelwind.",TYRION: 辩方对证人没有其他疑问了，斯蒂尔文德检察官。
 line:023685b,MiriamObj_5,AriaC: ...,AriaC: ……
-line:09fef20,MiriamObj_5,The prosecutor stayed silent for a while.,
-line:058b0c2,MiriamObj_5,...She almost looked disappointed.,
-line:0c821e5,MiriamObj_5,"AriaC: Very well.[p/] Miriam,[p/] you are dismissed.",
-line:041223f,MiriamObj_5,MIRIAM: Hmph...,
-line:0f2e9a2,MiriamObj_5,"Miriam shot me a look of disdain,[p/] but she left the room without protest.",
+line:09fef20,MiriamObj_5,The prosecutor stayed silent for a while.,检察官沉默了片刻。
+line:058b0c2,MiriamObj_5,...She almost looked disappointed.,……她看起来似乎有点失望。
+line:0c821e5,MiriamObj_5,"AriaC: Very well.[p/] Miriam,[p/] you are dismissed.",AriaC: 那好吧。[p/]米莉亚姆，[p/]你可以离开了。
+line:041223f,MiriamObj_5,MIRIAM: Hmph...,MIRIAM: 哼……
+line:0f2e9a2,MiriamObj_5,"Miriam shot me a look of disdain,[p/] but she left the room without protest.",米莉亚姆轻蔑地瞪了我一眼，[p/]但也没有再抗议，就这么离开了。
 line:0e4576e,MiriamObj_5,JUDGE: ...,JUDGE: ……
-line:0b557bd,MiriamObj_5,The judge let out a sigh as the young noble was escorted out of the room.,
-line:0a4ec23,MiriamObj_5,It was as if he were expecting the young noble to literally explode at any moment.,
-line:0a4683e,MiriamObj_5,"AriaC: Now with that out of the way...[p/] What else do you have, Mr. Cuthbert?",
+line:0b557bd,MiriamObj_5,The judge let out a sigh as the young noble was escorted out of the room.,看到那位年轻贵族被护送离开后，法官叹了一口气。
+line:0a4ec23,MiriamObj_5,It was as if he were expecting the young noble to literally explode at any moment.,看起来他认为那位大小姐随时可能字面意义上地失控。
+line:0a4683e,MiriamObj_5,"AriaC: Now with that out of the way...[p/] What else do you have, Mr. Cuthbert?",AriaC: 现在，既然这一节揭过去了……[p/]你还剩下什么手段吗，卡斯伯特先生？
 line:0ccae7a,MiriamObj_5,TYRION: ...,TYRION: ……
-line:076bb2c,MiriamObj_5,The only way to refute the prosecution’s theory was to cast doubt on one of the witnesses.,
-line:019c7c8,MiriamObj_5,"If it wasn’t Miriam,[p/] then...",
-line:01e500f,MiriamObj_5,"TYRION: Steelwind.[p/] To test your theory,[p/] we must question every witness who saw the victim that day.",
-line:0c95e6f,MiriamObj_5,"TYRION: So,[p/] with that said,[p/] the defense would like to call Jan Hughes to the stand.",
-line:02f72eb,MiriamObj_5,"AriaC: ...I hope you understand, Mr. Cuthbert.",
-line:06e05b7,MiriamObj_5,AriaC: Your entire case rests on the assumption that one of the witness accounts is incorrect.,
-line:06276fd,MiriamObj_5,"AriaC: If your cross-examination of Mr. Hughes leads nowhere,[p/] then I hope you’re ready to concede.",
+line:076bb2c,MiriamObj_5,The only way to refute the prosecution’s theory was to cast doubt on one of the witnesses.,想反驳检方的主张只有一个办法，那就是证明其中一名证人很可疑。
+line:019c7c8,MiriamObj_5,"If it wasn’t Miriam,[p/] then...",如果米莉亚姆不行，[p/]那么……
+line:01e500f,MiriamObj_5,"TYRION: Steelwind.[p/] To test your theory,[p/] we must question every witness who saw the victim that day.",TYRION: 斯蒂尔文德。[p/]为了验证你的主张，[p/]我们必须询问每一名目击到被害人的证人。
+line:0c95e6f,MiriamObj_5,"TYRION: So,[p/] with that said,[p/] the defense would like to call Jan Hughes to the stand.",TYRION: 因此……[p/]辩方希望传唤简·休斯出庭作证。
+line:02f72eb,MiriamObj_5,"AriaC: ...I hope you understand, Mr. Cuthbert.",AriaC: ……卡斯伯特先生，我希望你想清楚当前的情况。
+line:06e05b7,MiriamObj_5,AriaC: Your entire case rests on the assumption that one of the witness accounts is incorrect.,AriaC: 你要是想翻盘，前提是其中一名证人的证词有误。
+line:06276fd,MiriamObj_5,"AriaC: If your cross-examination of Mr. Hughes leads nowhere,[p/] then I hope you’re ready to concede.",AriaC: 如果对休斯先生的交叉询问也没有揭示新情报，[p/]届时希望你做好认输的准备。
 line:0b6b9e7,MiriamObj_5,TYRION: ...,TYRION: ……
-line:07fe41a,MiriamObj_6,"I didn't like the sound of it,[p/] but she was right.",
-line:029eb0a,MiriamObj_6,"Unless I could find...[p/][s/] [i]something[/i] in Jan’s testimony,[p/] I wouldn't have a case at all.",
-line:07648c8,MiriamObj_6,"AriaC: Bailiff,[p/] please bring in Mr. Hughes.",
-line:097101e,MiriamObj_6,"AriaC: Witness,[p/] please state your name and occupation for the courtroom.",
-line:06fc420,MiriamObj_6,JAN: ...,
-line:082ce42,MiriamObj_6,AriaC: Witness![p/][s/] Name and occupation!,
-line:0d8c8b8,MiriamObj_6,"JAN: A-[p/][s/]Ah,[p/][s/] right.",
-line:011dfee,MiriamObj_6,JAN: My name is Jan Hughes.[p/] I’m on the cleaning staff of the academy.,
-line:0d436b1,MiriamObj_6,"AriaC: ...Mr. Hughes,[p/] please testify to the court about your encounter with the professor that day.",
-line:0e96d59,MiriamObj_6,JAN: ...Alright.,
-line:0dd9170,MiriamObj_7,Jan: I saw the professor when I was cleaning the west-wing hallways.[p/] It was about 20-30 minutes before the body was discovered.,
-line:065a3f5,MiriamObj_7,"Jan: She walked by me,[p/] but she looked pretty out of it.",
-line:0d44ad5,MiriamObj_7,Jan: I heard she was undead when this happened...[p/] Pretty creepy if you ask me.,
-line:037b7af,MiriamObj_7,"Jan: After that,[p/] she went into the empty classroom.",
-line:0b5b7e9,MiriamObj_7,TYRION: Well...[p/] That was[p/] straightforward.,
-line:094c3e3,MiriamObj_7,"CELESTE: Come on, Jan![p/][s/] What are we supposed to do with that?!",
-line:078fd02,MiriamObj_7,JAN: I don’t know.[p/] [i]You[/i] guys are the lawyers.,
-line:02aa8dc,MiriamObj_7,JAN: I’m just telling you what I saw.,
+line:07fe41a,MiriamObj_6,"I didn't like the sound of it,[p/] but she was right.",我不喜欢这个说法，[p/]但她没有错。
+line:029eb0a,MiriamObj_6,"Unless I could find...[p/][s/] [i]something[/i] in Jan’s testimony,[p/] I wouldn't have a case at all.",除非……[p/][s/]我能在简的证词里找到[i]什么[/i]，[p/]我就走投无路。
+line:07648c8,MiriamObj_6,"AriaC: Bailiff,[p/] please bring in Mr. Hughes.",AriaC: 法警，[p/]请将休斯先生带上来。
+line:097101e,MiriamObj_6,"AriaC: Witness,[p/] please state your name and occupation for the courtroom.",AriaC: 证人，[p/]请向法庭告知你的姓名与职业。
+line:06fc420,MiriamObj_6,JAN: ...,JAN: ……
+line:082ce42,MiriamObj_6,AriaC: Witness![p/][s/] Name and occupation!,AriaC: 证人！[p/][s/]姓名和职业！
+line:0d8c8b8,MiriamObj_6,"JAN: A-[p/][s/]Ah,[p/][s/] right.",JAN: 啊、[p/][s/]啊，[p/][s/]明白。
+line:011dfee,MiriamObj_6,JAN: My name is Jan Hughes.[p/] I’m on the cleaning staff of the academy.,JAN: 我叫简·休斯，[p/]是学院的清洁工。
+line:0d436b1,MiriamObj_6,"AriaC: ...Mr. Hughes,[p/] please testify to the court about your encounter with the professor that day.",AriaC: ……休斯先生，[p/]请你就当天与教授的相遇向法院作证。
+line:0e96d59,MiriamObj_6,JAN: ...Alright.,JAN: ……好。
+line:0dd9170,MiriamObj_7,Jan: I saw the professor when I was cleaning the west-wing hallways.[p/] It was about 20-30 minutes before the body was discovered.,Jan: 我是在清理西侧走廊的时候看到教授的，[p/]当时大概是在发现尸体的 20 到 30 分钟之前。
+line:065a3f5,MiriamObj_7,"Jan: She walked by me,[p/] but she looked pretty out of it.",Jan: 她从我身旁走过，[p/]但她看起来十分不正常。
+line:0d44ad5,MiriamObj_7,Jan: I heard she was undead when this happened...[p/] Pretty creepy if you ask me.,Jan: 事发后听说她当时已经是僵尸一样的生物了……[p/]真把我吓坏了。
+line:037b7af,MiriamObj_7,"Jan: After that,[p/] she went into the empty classroom.",Jan: 在那之后，[p/]她进了一间空教室。
+line:0b5b7e9,MiriamObj_7,TYRION: Well...[p/] That was[p/] straightforward.,TYRION: 好吧……[p/]这证言……[p/]很直白清晰。
+line:094c3e3,MiriamObj_7,"CELESTE: Come on, Jan![p/][s/] What are we supposed to do with that?!",CELESTE: 别这样，简！[p/][s/]你这样我们怎么办呀？！
+line:078fd02,MiriamObj_7,JAN: I don’t know.[p/] [i]You[/i] guys are the lawyers.,JAN: 我怎么知道，[p/][i]你们[/i]才是律师。
+line:02aa8dc,MiriamObj_7,JAN: I’m just telling you what I saw.,JAN: 我只是把我看到的说出来而已。
 line:076fcad,MiriamObj_7,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,JUDGE: 卡斯伯特先生，[p/]你可以开始交叉询问了。
-line:04d567f,Cross_Jan,Jan: I saw the professor when I was cleaning the west-wing hallways.[p/] It was about 20-30 minutes before the body was discovered.,
-line:0d7c0c2,Cross_Jan,TYRION: How are you so sure that it was 30 minutes before?,
-line:0818b27,Cross_Jan,JAN: I always check the time to make sure I’m on schedule.,
-line:0ce81ff,Cross_Jan,JAN: I was supposed to finish cleaning the halls by 3:00 pm.,
-line:0b48234,Cross_Jan,:Right...[p/] The body was discovered at 3:04 PM.,
-line:0c6c046,Cross_Jan,"AriaC: What was the ""professor"" like, Mr. Hughes?",
-line:0e030c9,Cross_Jan,Jan: She walked by me...[p/] But she looked pretty out of it.,
-line:0f36fad,Cross_Jan,TYRION: Did anything else look off about her?,
-line:0aac1d4,Cross_Jan,"JAN: Yeah, probably.[p/] She [i]was[/i] an undead after all.",
-line:0a848cc,Cross_Jan,TYRION: That remains to be proven.,
-line:0a86eee,Cross_Jan,JAN: If you say so...,
-line:0c94c78,Cross_Jan,"TYRION: Anyways,[p/] what was her demeanor like?",
-line:033b504,Cross_Jan,Jan: She looked like she was in a bad mood.,
-line:01724a8,Cross_Jan,"Jan: Either that or she was tired,[p/] but I guess she was actually just dead...",
-line:0687b1f,Cross_Jan,Jan: I heard she was undead when this happened...[p/] Pretty creepy if you ask me.,
-line:01ee5ea,Cross_Jan,Jan: I heard she was undead. Which is pretty creepy because she pushed me out of her way.,
-line:07d8917,Cross_Jan,Jan: I heard she was undead. Which is pretty creepy because she knocked over a vase.,
-line:0ad1f93,Cross_Jan,Jan: I heard she was undead. Which is pretty creepy because she yelled at me.,
-line:008df01,Cross_Jan,"Jan: After that,[p/] she went into the empty classroom.",
-line:0e8eca1,Cross_Jan,TYRION: Did you see anyone else enter that classroom?,
-line:04553a3,Cross_Jan,JAN: I’m honestly not sure.[p/] I wasn't paying much attention to her.,
-line:0685986,Cross_Jan,JAN: I [i]did[/i] think it was weird that she went in there.,
-line:0e109b4,Cross_Jan,"JAN: With the funky smell,[p/] I can't think of any reason why someone would go there.",
+line:04d567f,Cross_Jan,Jan: I saw the professor when I was cleaning the west-wing hallways.[p/] It was about 20-30 minutes before the body was discovered.,Jan: 我是在清理西侧走廊的时候看到教授的，[p/]当时大概是在发现尸体的 20 到 30 分钟之前。
+line:0d7c0c2,Cross_Jan,TYRION: How are you so sure that it was 30 minutes before?,TYRION: 你为什么如此确定是 30 分钟前？
+line:0818b27,Cross_Jan,JAN: I always check the time to make sure I’m on schedule.,JAN: 我经常确认时间，来保证自己按时间表进行工作。
+line:0ce81ff,Cross_Jan,JAN: I was supposed to finish cleaning the halls by 3:00 pm.,JAN: 我本应在下午 3:00 完成大厅的清理工作。
+line:0b48234,Cross_Jan,:Right...[p/] The body was discovered at 3:04 PM.,:没错……[p/]尸体被发现的时间是下午 3:04。
+line:0c6c046,Cross_Jan,"AriaC: What was the ""professor"" like, Mr. Hughes?",AriaC: “教授”看起来是什么样子，休斯先生？
+line:0e030c9,Cross_Jan,Jan: She walked by me...[p/] But she looked pretty out of it.,Jan: 她从我身旁走过……[p/]但她看起来十分不正常。
+line:0f36fad,Cross_Jan,TYRION: Did anything else look off about her?,TYRION: 她看起来有什么不对劲的地方吗？
+line:0aac1d4,Cross_Jan,"JAN: Yeah, probably.[p/] She [i]was[/i] an undead after all.",JAN: 是啊，应该吧。[p/]她那会儿已经是[i]僵尸[/i]了嘛。
+line:0a848cc,Cross_Jan,TYRION: That remains to be proven.,TYRION: 这一点还有待证明。
+line:0a86eee,Cross_Jan,JAN: If you say so...,JAN: 你这么说也行吧……
+line:0c94c78,Cross_Jan,"TYRION: Anyways,[p/] what was her demeanor like?",TYRION: 总之，[p/]她当时的神态举止如何？
+line:033b504,Cross_Jan,Jan: She looked like she was in a bad mood.,Jan: 她当时看起来心情不太好。
+line:01724a8,Cross_Jan,"Jan: Either that or she was tired,[p/] but I guess she was actually just dead...",Jan: 也可能是她太累了，[p/]不过现在一想，她那会儿已经死了……
+line:0687b1f,Cross_Jan,Jan: I heard she was undead when this happened...[p/] Pretty creepy if you ask me.,Jan: 事发后听说她当时已经是僵尸一样的生物了……[p/]真把我吓坏了。
+line:01ee5ea,Cross_Jan,Jan: I heard she was undead. Which is pretty creepy because she pushed me out of her way.,Jan: 我听说她已经是死尸了。这事真挺吓人的，因为当时她把我推开了。
+line:07d8917,Cross_Jan,Jan: I heard she was undead. Which is pretty creepy because she knocked over a vase.,Jan: 我听说她已经是死尸了。这事真挺吓人的，因为她当时撞倒了一个花瓶。
+line:0ad1f93,Cross_Jan,Jan: I heard she was undead. Which is pretty creepy because she yelled at me.,Jan: 我听说她已经是死尸了。这事真挺吓人的，因为她当时朝我大吼大叫。
+line:008df01,Cross_Jan,"Jan: After that,[p/] she went into the empty classroom.",Jan: 在那之后，[p/]她进了一间空教室。
+line:0e8eca1,Cross_Jan,TYRION: Did you see anyone else enter that classroom?,TYRION: 你有看见别人进那间教室吗？
+line:04553a3,Cross_Jan,JAN: I’m honestly not sure.[p/] I wasn't paying much attention to her.,JAN: 我不太确定。[p/]我没太注意她。
+line:0685986,Cross_Jan,JAN: I [i]did[/i] think it was weird that she went in there.,JAN: 我当时[i]是[/i]觉得她进那间教室很奇怪。
+line:0e109b4,Cross_Jan,"JAN: With the funky smell,[p/] I can't think of any reason why someone would go there.",JAN: 教室里味道那么难闻，[p/]真不敢想有什么原因能让人主动进去。
 line:01020bd,Cross_Jan,Player: Overflow,
-line:0cbea64,Cross_Jan,CELESTE: He’s not giving us a lot to work with...,
-line:0c75ab2,Cross_Jan,TYRION: He tends to leave out details unless we directly ask him about them.,
-line:03ec448,Cross_Jan,TYRION: I just need to ask him the right questions.,
-line:0f863a5,Cross_Jan,TYRION: Maybe we can pull more information out of him.,
+line:0cbea64,Cross_Jan,CELESTE: He’s not giving us a lot to work with...,CELESTE: 他的证言没留给我们什么突破口……
+line:0c75ab2,Cross_Jan,TYRION: He tends to leave out details unless we directly ask him about them.,TYRION: 除非我们主动问他，不然他会在证言里遗漏很多细节。
+line:03ec448,Cross_Jan,TYRION: I just need to ask him the right questions.,TYRION: 只要问对问题就好。
+line:0f863a5,Cross_Jan,TYRION: Maybe we can pull more information out of him.,TYRION: 或许能从他身上获取更多信息。
 line:03f037c,Cross_Jan,Player: Objection,
 line:0640fdf,Cross_Jan,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
 line:0898c2b,Cross_Jan,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
 line:050616d,Cross_Jan,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
 line:004ca0e,Cross_Jan,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
-line:0f7090a,JanPress,TYRION: I believe you’ve forgotten a few details about what the professor did.,
-line:015207d,JanPress,JAN: Yeah...?,
-line:0def924,JanPress,"Jan: Sorry,[p/] it’s hard to remember these things sometimes...",
-line:0fe58f3,JanPress,Did she do anything to you?,
-line:05b690b,JanPress,TYRION: Did she interact with you at all?,
-line:0c1c694,JanPress,JAN: Oh...[p/] yeah...,
-line:0d04fd7,JanPress,JAN: I didn’t notice her at first and I accidentally got in her way.,
-line:08f9357,JanPress,JAN: She shoved me to the side and kept walking forward.,
-line:08f5e95,JanPress,Did she touch anything?,
-line:02e06e4,JanPress,TYRION: Did she touch anything?,
-line:0699721,JanPress,JAN: Oh...[p/] yeah...,
-line:02bc7c2,JanPress,JAN: She knocked over a vase and shattered it.,
-line:02020e1,JanPress,"JAN: It [i]might[/i] have been an accident,[p/] but she’s done stuff like that on purpose before.",
-line:0a9dc6c,JanPress,Did she make any sounds?,
-line:04e7f4d,JanPress,TYRION: Did you hear her make any sounds?,
-line:06bcfb5,JanPress,JAN: Oh...[p/] Yeah...,
-line:018d1c5,JanPress,"JAN: After she knocked over the vase,[p/] she yelled at me to [s/]“Be Quiet!”.",
-line:0382ed2,JanPress,JAN: ...But I didn’t even say anything.,
-line:0e7a450,JanPress,TYRION: This detail could be extremely important.,
-line:0701e00,JanPress,"TYRION: Please add it to your testimony, Mr. Hughes.",
-line:041bc3b,JanPress,"JAN: Whatever you say, man...",
-line:031a90a,JanObj,TYRION: Mr. Hughes.[p/] You said that Bellwether yelled at you.,
-line:0e4fcf8,JanObj,TYRION: What were her exact words?,
-line:0f6b70e,JanObj,JAN: Uh...[p/] I think she yelled at me to “Be Quiet!”.,
-line:0716a6a,JanObj,AriaC: What...?,
-line:002979a,JanObj,JAN: I thought it was weird.[p/] I didn’t even say anything.,
-line:0ed2781,JanObj,JAN: But I know better than to talk back to her.,
-line:087fbfe,JanObj,"TYRION: That’s the thing, Mr. Hughes.",
-line:0e7cd23,JanObj,Tyrion: The prosecution’s theory is as follows:[p/] the professor was murdered in the library and was reanimated using [b]Animate Corpse[/b].,
-line:0b46c30,JanObj,"TYRION: With a quick [b]illusion[/b] spell,[p/] no one would notice that she was undead.",
-line:046b1f4,JanObj,"TYRION: However,[p/][s/] if what you saw was [i]truly[/i] the undead Bellwether...",
-line:01ebca1,JanObj,TYRION: ...How did she speak to you?!,
-line:0580d81,JanObj,JAN: Huh...?,
-line:0c48269,JanObj,AriaC: This...[p/][s/] can't be right!,
-line:03cabf9,JanObj,"TYRION: Mr. Hughes,[p/] undead can follow simple orders,[p/] but they don’t have the intelligence to speak.",
-line:002042a,JanObj,AriaC: Perhaps the witness was mistaken!,
-line:08981fb,JanObj,JAN: N-[p/][s/]No![p/][s/] I’m sure I heard her yell at me!,
-line:0208cf7,JanObj,JAN: I remembered because what she said didn’t make any sense!,
-line:022200b,JanObj_2,"TYRION: Exactly![p/][s/] He didn’t say anything,[p/] but she still yelled at him to “Be quiet!”.",
-line:0eb58ff,JanObj_2,...Wait a minute.,
-line:0388f2a,JanObj_2,JUDGE: I’m...[p/] afraid I don’t understand.,
-line:059594a,JanObj_2,JUDGE: We’ve already established that the victim was dead long before her encounter with Mr. Hughes.,
-line:0b5f50d,JanObj_2,"JUDGE: But...[p/] if what he saw wasn’t an undead,[p/][s/] what was it?",
-line:03a52a2,JanObj_2,AriaC: It [i]had[/i] to be an undead!,
-line:0777293,JanObj_2,AriaC: What other explanation is there?!,
+line:0f7090a,JanPress,TYRION: I believe you’ve forgotten a few details about what the professor did.,TYRION: 有关教授当时的所作所为，我想你漏掉了一些细节。
+line:015207d,JanPress,JAN: Yeah...?,Jan: 是哦……？
+line:0def924,JanPress,"Jan: Sorry,[p/] it’s hard to remember these things sometimes...",Jan: 抱歉，[p/]有些时候我记不清这些事……
+line:0fe58f3,JanPress,Did she do anything to you?,她有对你做什么吗？
+line:05b690b,JanPress,TYRION: Did she interact with you at all?,TYRION: 她和你有过任何互动吗？
+line:0c1c694,JanPress,JAN: Oh...[p/] yeah...,JAN: 哦……[p/]对……
+line:0d04fd7,JanPress,JAN: I didn’t notice her at first and I accidentally got in her way.,JAN: 我最开始没注意到她，不小心挡了她的路。
+line:08f9357,JanPress,JAN: She shoved me to the side and kept walking forward.,JAN: 她把我推到一边然后继续往前走。
+line:08f5e95,JanPress,Did she touch anything?,她有碰到什么吗？
+line:02e06e4,JanPress,TYRION: Did she touch anything?,TYRION: 她有碰到什么东西吗？
+line:0699721,JanPress,JAN: Oh...[p/] yeah...,JAN: 哦……[p/]对……
+line:02bc7c2,JanPress,JAN: She knocked over a vase and shattered it.,JAN: 她撞倒了一个花瓶，那个花瓶摔碎了。
+line:02020e1,JanPress,"JAN: It [i]might[/i] have been an accident,[p/] but she’s done stuff like that on purpose before.",JAN: 本来这[i]可能[/i]是个意外……[p/]但是她以前也故意做过类似的事情。
+line:0a9dc6c,JanPress,Did she make any sounds?,她有发出什么声音吗？
+line:04e7f4d,JanPress,TYRION: Did you hear her make any sounds?,TYRION: 你有听到她发出什么声音吗？
+line:06bcfb5,JanPress,JAN: Oh...[p/] Yeah...,JAN: 哦……[p/]对……
+line:018d1c5,JanPress,"JAN: After she knocked over the vase,[p/] she yelled at me to [s/]“Be Quiet!”.",JAN: 她撞倒花瓶之后，[p/]朝我大喊[s/]“安静！”。
+line:0382ed2,JanPress,JAN: ...But I didn’t even say anything.,JAN: ……但我当时一个字都没说。
+line:0e7a450,JanPress,TYRION: This detail could be extremely important.,TYRION: 这个细节可能至关重要。
+line:0701e00,JanPress,"TYRION: Please add it to your testimony, Mr. Hughes.",TYRION: 请将此加到你的证言里，休斯先生。
+line:041bc3b,JanPress,"JAN: Whatever you say, man...",JAN: 随你啦……
+line:031a90a,JanObj,TYRION: Mr. Hughes.[p/] You said that Bellwether yelled at you.,TYRION: 休斯先生。[p/]你有提到贝尔维瑟向你吼过。
+line:0e4fcf8,JanObj,TYRION: What were her exact words?,TYRION: 她朝你吼了什么？
+line:0f6b70e,JanObj,JAN: Uh...[p/] I think she yelled at me to “Be Quiet!”.,JAN: 唔……[p/]我记得她朝我吼道“安静！”。
+line:0716a6a,JanObj,AriaC: What...?,AriaC: ……什么？
+line:002979a,JanObj,JAN: I thought it was weird.[p/] I didn’t even say anything.,JAN: 我感觉很怪，[p/]因为当时我什么都没说。
+line:0ed2781,JanObj,JAN: But I know better than to talk back to her.,JAN: 但我知道最好别跟她顶嘴。
+line:087fbfe,JanObj,"TYRION: That’s the thing, Mr. Hughes.",TYRION: 就是这个，休斯先生。
+line:0e7cd23,JanObj,Tyrion: The prosecution’s theory is as follows:[p/] the professor was murdered in the library and was reanimated using [b]Animate Corpse[/b].,Tyrion: 检方的立论是这样的：[p/]教授在图书馆被杀害，然后尸体被施放了[b]活化死尸[/b]。
+line:0b46c30,JanObj,"TYRION: With a quick [b]illusion[/b] spell,[p/] no one would notice that she was undead.",TYRION: 在某种[b]幻象术[/b]的伪装下，[p/]没人会注意到她是死尸。
+line:046b1f4,JanObj,"TYRION: However,[p/][s/] if what you saw was [i]truly[/i] the undead Bellwether...",TYRION: 不过，[p/][s/]如果你见到的[i]真的是[/i]活尸贝尔维瑟的话……
+line:01ebca1,JanObj,TYRION: ...How did she speak to you?!,TYRION: ……她怎么可能和你说话？！
+line:0580d81,JanObj,JAN: Huh...?,JAN: 哈……？
+line:0c48269,JanObj,AriaC: This...[p/][s/] can't be right!,AriaC: 这……[p/][s/]这不可能！
+line:03cabf9,JanObj,"TYRION: Mr. Hughes,[p/] undead can follow simple orders,[p/] but they don’t have the intelligence to speak.",TYRION: 休斯先生，[p/]虽然活尸能遵从简单的命令，[p/但它们没有足够的智力来说话。
+line:002042a,JanObj,AriaC: Perhaps the witness was mistaken!,AriaC: 或许证人搞错了！
+line:08981fb,JanObj,JAN: N-[p/][s/]No![p/][s/] I’m sure I heard her yell at me!,JAN: 不、[p/][s/]不是这样的！[p/][s/]我很清楚地记得她朝我吼过！
+line:0208cf7,JanObj,JAN: I remembered because what she said didn’t make any sense!,JAN: 因为她吼得我一头雾水，所以我记得很清楚！
+line:022200b,JanObj_2,"TYRION: Exactly![p/][s/] He didn’t say anything,[p/] but she still yelled at him to “Be quiet!”.",TYRION: 正是如此！[p/][s/]他什么都没说，[p/]但她仍旧吼了“安静！”。
+line:0eb58ff,JanObj_2,...Wait a minute.,……等一下。
+line:0388f2a,JanObj_2,JUDGE: I’m...[p/] afraid I don’t understand.,JUDGE: 我……[p/]恐怕不太理解。
+line:059594a,JanObj_2,JUDGE: We’ve already established that the victim was dead long before her encounter with Mr. Hughes.,JUDGE: 我们已经确定，死者在遇到休斯先生之前就已经死了。
+line:0b5f50d,JanObj_2,"JUDGE: But...[p/] if what he saw wasn’t an undead,[p/][s/] what was it?",JUDGE: 但……[p/]如果他所见的教授并非活尸，[p/][s/]那会是什么呢？
+line:03a52a2,JanObj_2,AriaC: It [i]had[/i] to be an undead!,AriaC: 只能是活尸！
+line:0777293,JanObj_2,AriaC: What other explanation is there?!,AriaC: 否则还能有什么解释？！
 line:0e458fa,JanObj_2,TYRION: ...,TYRION: ……
-line:0abc983,JanObj_2,It couldn’t have been a [b]Major Illusion[/b].,
-line:01d7e45,JanObj_2,"Otherwise,[p/] it wouldn’t have been able to shove Jan out of the way or knock over the vase.",
-line:0f044fa,JanObj_2,"Whatever it was,[p/] someone probably used an [b]Illusory Disguise[/b] to make it look like Bellwether.",
-line:08c93ef,JanObj_2,Does that mean it [i]was[/i] a person?,
-line:02631b7,JanObj_2,"No...[p/] If it were a person,[p/] how did Bellwether’s body end up in the lecture hall?",
-line:02be10d,JanObj_2,Bellwether wouldn’t have been able to turn herself invisible if she were dead.,
-line:0a1e7da,JanObj_2,"And whatever Jan saw,[p/] it needed to be something that could have transported Bellwether’s body unseen.",
-line:0e0436c,JanObj_2,It would have also needed to have a mass [i]and[/i] the ability to speak.,
-line:0c30dd3,JanObj_2,"Or at the very least,[p/] it needs to be something that can recreate Bellwether’s voice.",
-line:0c56000,ConstPres,What could have done that?,
+line:0abc983,JanObj_2,It couldn’t have been a [b]Major Illusion[/b].,不可能是[b]高等幻象术[/b]。
+line:01d7e45,JanObj_2,"Otherwise,[p/] it wouldn’t have been able to shove Jan out of the way or knock over the vase.",否则，[p/]她当时也不可能把简推开或者撞倒花瓶。
+line:0f044fa,JanObj_2,"Whatever it was,[p/] someone probably used an [b]Illusory Disguise[/b] to make it look like Bellwether.",无论那是什么，[p/]某人可能用了[b]幻象伪装[/b]来假扮贝尔维瑟。
+line:08c93ef,JanObj_2,Does that mean it [i]was[/i] a person?,也就说那[i]其实[/i]是个人在假扮？
+line:02631b7,JanObj_2,"No...[p/] If it were a person,[p/] how did Bellwether’s body end up in the lecture hall?",不对……[p/]如果是人假扮的话，[p/]那又如何解释贝尔维瑟的尸体在讲堂呢？
+line:02be10d,JanObj_2,Bellwether wouldn’t have been able to turn herself invisible if she were dead.,如果贝尔维瑟死了，她也没办法隐身。
+line:0a1e7da,JanObj_2,"And whatever Jan saw,[p/] it needed to be something that could have transported Bellwether’s body unseen.",无论简看到了什么，[p/]一定得是某种能不被人发现，并转移贝尔维瑟尸体的东西。
+line:0e0436c,JanObj_2,It would have also needed to have a mass [i]and[/i] the ability to speak.,同时也得有实体[i]和[/i]说话的能力。
+line:0c30dd3,JanObj_2,"Or at the very least,[p/] it needs to be something that can recreate Bellwether’s voice.",或者说至少得是某种能模仿贝尔维瑟声音的东西。
+line:0c56000,ConstPres,What could have done that?,或者说至少得是某种能模仿贝尔维瑟声音的东西。
 line:0302384,ConstPres,Construct,
 line:0e84215,ConstPres,Default,
-line:08cee88,ConstPres,No...[p/] That wasn't right.,
-line:058d171,ConstPres,I remembered there was [i]something[/i] that could have recreated Bellwether's voice.,
+line:08cee88,ConstPres,No...[p/] That wasn't right.,不……[p/]那肯定不对。
+line:058d171,ConstPres,I remembered there was [i]something[/i] that could have recreated Bellwether's voice.,我记得有[i]一个[/i]能再现贝尔维瑟声音的东西。
 line:0d49f12,ConstPresAfter,TYRION: ...!,TYRION: ……！
-line:04853d9,ConstPresAfter,TYRION: That’s it!,
-line:0a7c633,ConstPresAfter,AriaC: What...?!,
-line:0daf265,ConstPresAfter,"TYRION: Everyone,[p/] the witness didn’t actually [i]hear[/i] the dead victim speaking.",
-line:0e754ef,ConstPresAfter,TYRION: What he [i]actually[/i] heard was Bellwether's voice being recreated using magic.,
-line:04ada7f,ConstPresAfter,AriaC: Are you trying to say that her voice was recreated using a spell...?,
-line:0d3ba41,ConstPresAfter,"TYRION: Not a spell, Steelwind.[p/] It was artificery.",
-line:05b9e77,ConstPresAfter,"TYRION: And whoever the murderer is,[p/] they had the perfect piece of artificery available to them.",
-line:06d3073,ConstPresAfter,TYRION: One programmed with Catherine Bellwether’s voice.,
+line:04853d9,ConstPresAfter,TYRION: That’s it!,TYRION: 就是这个！
+line:0a7c633,ConstPresAfter,AriaC: What...?!,AriaC: ……什么？
+line:0daf265,ConstPresAfter,"TYRION: Everyone,[p/] the witness didn’t actually [i]hear[/i] the dead victim speaking.","TYRION: 各位，,[p/]证人并没有[i]听到r[/i]已死的被害人说话。"
+line:0e754ef,ConstPresAfter,TYRION: What he [i]actually[/i] heard was Bellwether's voice being recreated using magic.,TYRION: 他听到贝尔维瑟的声音，[i]实际上[/i]是用魔法再现的。
+line:04ada7f,ConstPresAfter,AriaC: Are you trying to say that her voice was recreated using a spell...?,AriaC: 你是想说她的声音是用某种法术产生的……？
+line:0d3ba41,ConstPresAfter,"TYRION: Not a spell, Steelwind.[p/] It was artificery.",TYRION: 不是法术，斯蒂尔文德。[p/]是奥术装置。
+line:05b9e77,ConstPresAfter,"TYRION: And whoever the murderer is,[p/] they had the perfect piece of artificery available to them.",TYRION: 无论真凶是谁，[p/]学院里都有完美的奥术装置供其使用。
+line:06d3073,ConstPresAfter,TYRION: One programmed with Catherine Bellwether’s voice.,TYRION: 一个集成了凯瑟琳·贝尔维瑟的声音的奥术装置。
 line:04c7b23,ConstPresAfter,AriaC: ...!,AriaC: ……！
-line:0e24dba,ConstPresAfter,AriaC: You can’t possibly mean—!,
-line:0f844ce,ConstPresAfter,"TYRION: That’s right, Steelwind!",
-line:0160ec6,ConstPresAfter_2,TYRION: What Mr. Hughes saw was an Arcane Construct!,
-line:0fc4b50,ConstPresAfter_2,JUDGE: An “Arcane Construct”?,
-line:0378ed6,ConstPresAfter_2,"TYRION: It is a magically animated suit of armor, Your Honor.",
-line:0e862f1,ConstPresAfter_2,"JUDGE: But we ruled out such a possibility, hadn’t we?",
-line:07bb3fc,ConstPresAfter_2,"JUDGE: Construct or not,[p/] no one could disguise themselves [i]and[/i] carry the body to the classroom.",
-line:0aaaa56,ConstPresAfter_2,"TYRION: A person wouldn’t have been able to do it,[p/] but Arcane Constructs are a different thing entirely.",
-line:07f447b,ConstPresAfter_2,"TYRION: Those suits of armor are extremely large,[p/] but more importantly,[p/][s/] they’re hollow!",
-line:08d1170,ConstPresAfter_2,"JUDGE: That means that theoretically,[p/] someone could have placed the victim’s body inside it...",
-line:056ce17,ConstPresAfter_2,TYRION: The Arcane Construct wouldn’t [i]just[/i] transport the body.,
-line:0cfa93c,ConstPresAfter_2,"TYRION: With an [b]Illusory Disguise[/b],[p/] it would also confuse and mislead anyone who saw it!",
+line:0e24dba,ConstPresAfter,AriaC: You can’t possibly mean—!,AriaC: 你不会是要说——！
+line:0f844ce,ConstPresAfter,"TYRION: That’s right, Steelwind!",TYRION: 没错，斯蒂尔文德！
+line:0160ec6,ConstPresAfter_2,TYRION: What Mr. Hughes saw was an Arcane Construct!,TYRION: 休斯先生当时看到的是一个奥术构造体！
+line:0fc4b50,ConstPresAfter_2,JUDGE: An “Arcane Construct”?,JUDGE: 一个“奥术构造体”？
+line:0378ed6,ConstPresAfter_2,"TYRION: It is a magically animated suit of armor, Your Honor.",TYRION: 法官阁下，那是一种由魔力驱动的盔甲。
+line:0e862f1,ConstPresAfter_2,"JUDGE: But we ruled out such a possibility, hadn’t we?",JUDGE: 但我们排除了这种可能性，不是吗？
+line:07bb3fc,ConstPresAfter_2,"JUDGE: Construct or not,[p/] no one could disguise themselves [i]and[/i] carry the body to the classroom.",JUDGE: 无论是不是奥术构造体，[p/]都没人能在用法术伪装自己的同时，把尸体搬到教室。
+line:0aaaa56,ConstPresAfter_2,"TYRION: A person wouldn’t have been able to do it,[p/] but Arcane Constructs are a different thing entirely.",TYRION: 人是做不到的，[p/]但奥数构造体是另一回事。
+line:07f447b,ConstPresAfter_2,"TYRION: Those suits of armor are extremely large,[p/] but more importantly,[p/][s/] they’re hollow!",TYRION: 那些盔甲非常大，[p/]更重要的是，[p/][s/]它们是中空的！
+line:08d1170,ConstPresAfter_2,"JUDGE: That means that theoretically,[p/] someone could have placed the victim’s body inside it...",JUDGE: 理论上来说，[p/]某人很可能把受害者的尸体放在里面……
+line:056ce17,ConstPresAfter_2,TYRION: The Arcane Construct wouldn’t [i]just[/i] transport the body.,TYRION: 奥术构造体[i]不只是[/i]转移尸体。
+line:0cfa93c,ConstPresAfter_2,"TYRION: With an [b]Illusory Disguise[/b],[p/] it would also confuse and mislead anyone who saw it!",TYRION: 通过[b]幻象伪装[/b]，[p/]它还能误导所有看见它的人！
 line:097b703,ConstPresAfter_2,AriaC: ...,AriaC: ……
-line:05b3933,ConstPresAfter_2,"AriaC: I commend your deduction, Mr. Cuthbert.[p/] I would have never considered that possibility.",
-line:08e3a79,ConstPresAfter_2,"AriaC: It’s certainly plausible,[p/] but what does this prove exactly?",
-line:01ad0e7,ConstPresAfter_2,TYRION: It proves that the body wasn’t animated using [b]necromancy[/b].,
-line:07cd4c6,ConstPresAfter_2,TYRION: My client isn’t the murderer!,
-line:077ca14,ConstPresAfter_2,AriaC: The defendant is still capable of performing all of the acts that you described.,
-line:0017496,ConstPresAfter_2,AriaC: His [b]Compendium[/b] contains [b]Illusory Disguise[/b] after all.,
-line:0774bf9,ConstPresAfter_2,TYRION: There were several students in the library that day.,
-line:0d1e0a5,ConstPresAfter_2,TYRION: [i]Any[/i] of them could have committed the murder!,
-line:0a13fe5,ConstPresAfter_2,"AriaC: One [i]might[/i] come to that conclusion,[p/] if they didn’t have one crucial piece of evidence.",
-line:0939e6e,ConstPresAfter_2,AriaC: I’d like to present a new piece of evidence to the court.,
-line:0c94e9a,ConstPresAfter_2,"From under her table,[p/] Steelwind pulled out Miriam Frega's bloody rapier.",
-line:016b9ed,ConstPresAfter_2,JUDGE: A sword...?[p/][s/] I-[p/][s/]Is that...?!,
-line:0f03b50,ConstPresAfter_2,"AriaC: Yes, Your Honor.",
-line:0b19316,ConstPresAfter_3,AriaC: [i]This[/i] is the murder weapon.,
-line:0db02a8,ConstPresAfter_3,AriaC: This rapier was reported stolen by Miriam Frega weeks before the murder.,
-line:052fdb3,ConstPresAfter_3,"AriaC: During the investigation,[p/] it was finally found in the [i]defendant’s[/i] locker.",
-line:02c9813,ConstPresAfter_3,TYRION: W-[p/][s/]Wait!,
-line:0109eb8,ConstPresAfter_3,AriaC: He was clearly trying to use one of her possessions in a paltry attempt to frame her.,
-line:0502b0b,ConstPresAfter_3,AriaC: Why...[p/] he even stole her locker’s nameplate and placed it over his.,
-line:0b04dd2,ConstPresAfter_3,Damn it...[p/][s/] That wasn't what really happened!,
-line:0a3c9d7,ConstPresAfter_3,"But honestly,[p/] it sounded more plausible than what [i]really[/i] took place...",
-line:0aa4635,ConstPresAfter_3,"CELESTE: ...We’re basically back to square one, aren’t we?",
-line:02dece8,ConstPresAfter_3,CELESTE: Anyone could have told that Construct to do all those things.,
-line:015d246,ConstPresAfter_3,Wait...[p/] Was that really true?,
-line:0a59c89,ConstPresAfter_3,"The Construct transported the professor’s body,[p/] and someone used an [b]illusion[/b] to make it look like her.",
-line:0a8b496,ConstPresAfter_3,They even used a pre-recorded voice to make the illusion more convincing...,
-line:0daaae1,ConstPresAfter_3,Could [i]anyone[/i] have done that?,
+line:05b3933,ConstPresAfter_2,"AriaC: I commend your deduction, Mr. Cuthbert.[p/] I would have never considered that possibility.",AriaC: 卡斯伯特先生，我对你的推论表示赞赏，[p/]我确实没有想过这种可能性。
+line:08e3a79,ConstPresAfter_2,"AriaC: It’s certainly plausible,[p/] but what does this prove exactly?",AriaC: 这确实合理，[p/]但又证明了什么呢？
+line:01ad0e7,ConstPresAfter_2,TYRION: It proves that the body wasn’t animated using [b]necromancy[/b].,TYRION: 这证明了尸体没有被[b]死灵术[/b]活化。
+line:07cd4c6,ConstPresAfter_2,TYRION: My client isn’t the murderer!,TYRION: 我的委托人不是凶手！
+line:077ca14,ConstPresAfter_2,AriaC: The defendant is still capable of performing all of the acts that you described.,AriaC: 被告依然可以执行你描述的每一个行动。
+line:0017496,ConstPresAfter_2,AriaC: His [b]Compendium[/b] contains [b]Illusory Disguise[/b] after all.,AriaC: 毕竟他的[b]法术汇编[/b]也包含了[b]幻象伪装[/b]。
+line:0774bf9,ConstPresAfter_2,TYRION: There were several students in the library that day.,TYRION: 案发当天图书馆有许多学生。
+line:0d1e0a5,ConstPresAfter_2,TYRION: [i]Any[/i] of them could have committed the murder!,TYRION: 他们中的[i]任何一个[/i]都有可能实施犯罪！
+line:0a13fe5,ConstPresAfter_2,"AriaC: One [i]might[/i] come to that conclusion,[p/] if they didn’t have one crucial piece of evidence.",AriaC: 如果没有关键性的证据的话，[p/]是有可能得出这样的结论。
+line:0939e6e,ConstPresAfter_2,AriaC: I’d like to present a new piece of evidence to the court.,AriaC: 那么我想向法庭提交新的证据。
+line:0c94e9a,ConstPresAfter_2,"From under her table,[p/] Steelwind pulled out Miriam Frega's bloody rapier.",斯蒂尔文德从桌子下拿出了一把沾血的刺剑。
+line:016b9ed,ConstPresAfter_2,JUDGE: A sword...?[p/][s/] I-[p/][s/]Is that...?!,JUDGE: 是一把剑……？[p/][s/]那、[p/][s/]那就是……？
+line:0f03b50,ConstPresAfter_2,"AriaC: Yes, Your Honor.",AriaC: 是的，法官阁下。
+line:0b19316,ConstPresAfter_3,AriaC: [i]This[/i] is the murder weapon.,AriaC: [i]这[/i]就是凶器。
+line:0db02a8,ConstPresAfter_3,AriaC: This rapier was reported stolen by Miriam Frega weeks before the murder.,AriaC: 在谋杀发生几周前，米莉亚姆·弗雷加通报称这把刺剑失窃。
+line:052fdb3,ConstPresAfter_3,"AriaC: During the investigation,[p/] it was finally found in the [i]defendant’s[/i] locker.",AriaC: 调查期间，[p/]我们在[i]被告的[/i]储物柜里找到了它。
+line:02c9813,ConstPresAfter_3,TYRION: W-[p/][s/]Wait!,Tyrion: 等、[p/][s/]等下！
+line:0109eb8,ConstPresAfter_3,AriaC: He was clearly trying to use one of her possessions in a paltry attempt to frame her.,AriaC: 显然被告想利用米莉亚姆的所有物来陷害她。
+line:0502b0b,ConstPresAfter_3,AriaC: Why...[p/] he even stole her locker’s nameplate and placed it over his.,AriaC: 他甚至……[p/]偷换了自己和弗雷加女士储物柜的名牌。
+line:0b04dd2,ConstPresAfter_3,Damn it...[p/][s/] That wasn't what really happened!,糟糕……[p/][s/]事情不是这样的！
+line:0a3c9d7,ConstPresAfter_3,"But honestly,[p/] it sounded more plausible than what [i]really[/i] took place...",但老实说，[p/]这听起来比[i]实际上[/i]的情况更合理……
+line:0aa4635,ConstPresAfter_3,"CELESTE: ...We’re basically back to square one, aren’t we?",CELESTE: ……我们基本是又回到了起点，不是吗？
+line:02dece8,ConstPresAfter_3,CELESTE: Anyone could have told that Construct to do all those things.,CELESTE: 谁都能让那些奥术构造体去做这些事。
+line:015d246,ConstPresAfter_3,Wait...[p/] Was that really true?,等一下……[p/]真的是这样吗？
+line:0a59c89,ConstPresAfter_3,"The Construct transported the professor’s body,[p/] and someone used an [b]illusion[/b] to make it look like her.",奥术构造体搬运了教授的尸体，[p/]还被人用[b]幻象术[/b]伪装成贝尔维瑟的样子。
+line:0a8b496,ConstPresAfter_3,They even used a pre-recorded voice to make the illusion more convincing...,甚至用了提前录制好的声音，来使幻象更加可信……
+line:0daaae1,ConstPresAfter_3,Could [i]anyone[/i] have done that?,有[i]谁[/i]能做到这一点呢？
 line:049ac03,RedPres,Theodore,
 line:085792e,RedPres,Default,
-line:068fd9a,RedPres,"No...[p/] The Constructs will take orders from anyone,[p/] but not all of their functions are enabled.",
-line:0ffdd18,RedPres,Who would have every function available to them?,
-line:0020359,RedPresAfter,It was at that moment that several memories flooded back to me.,
-line:004f5d5,RedPresAfter,TYRION: Mr. Hughes.[p/] You said that Bellwether yelled at you.,
-line:0b09cd6,RedPresAfter,TYRION: What were her exact words?,
-line:04c8d00,RedPresAfter,JAN: Uh...[p/] I think she yelled at me to “Be quiet”.,
+line:068fd9a,RedPres,"No...[p/] The Constructs will take orders from anyone,[p/] but not all of their functions are enabled.",不对……[p/]谁都能给构造体下指令，[p/]但不是所有的功能都开放。
+line:0ffdd18,RedPres,Who would have every function available to them?,谁会有完整的使用权限呢？
+line:0020359,RedPresAfter,It was at that moment that several memories flooded back to me.,就在那时几条记忆在我的脑海中闪现。
+line:004f5d5,RedPresAfter,TYRION: Mr. Hughes.[p/] You said that Bellwether yelled at you.,TYRION: 休斯先生。[p/]你有提到贝尔维瑟向你吼过。
+line:0b09cd6,RedPresAfter,TYRION: What were her exact words?,TYRION: 她朝你吼了什么？
+line:04c8d00,RedPresAfter,JAN: Uh...[p/] I think she yelled at me to “Be quiet”.,JAN: 唔……[p/]我记得她朝我吼道“安静！”。
 line:04cb7ec,RedPresAfter,MIRIAM: She yelled at me to “Be quiet!”,MIRIAM: 她吼我，让我“安静”！
-line:0cc8407,RedPresAfter,"MIRIAM: Until then,[p/] we had always been nothing but courteous with each other...",
-line:0ce05b9,RedPresAfter,"MIRIAM: I don’t know what got into her that day,[p/] but something put her in a foul mood.",
-line:05bf02c,RedPresAfter_1,Catherine: Be quiet!,
-line:05a29e0,RedPresAfter_1,TYRION: S-[p/][s/]Sorry!,
-line:0f5e479,RedPresAfter_1,Catherine: BE QUIET!,
-line:07a9a7d,RedPresAfter_1,Eris giggled to herself.[p/] She was clearly amused by what was happening.,
+line:0cc8407,RedPresAfter,"MIRIAM: Until then,[p/] we had always been nothing but courteous with each other...",MIRIAM: 在此之前，[p/]我们相处一直很客气的……
+line:0ce05b9,RedPresAfter,"MIRIAM: I don’t know what got into her that day,[p/] but something put her in a foul mood.",MIRIAM: 也不知道她那天是遇到什么事了……[p/]惹得她一肚子邪火。
+line:05bf02c,RedPresAfter_1,Catherine: Be quiet!,Catherine: 安静！
+line:05a29e0,RedPresAfter_1,TYRION: S-[p/][s/]Sorry!,TYRION: 对、[p/][s/]对不起！
+line:0f5e479,RedPresAfter_1,Catherine: BE QUIET!,Catherine: <size=1.5em>安静！</size>
+line:07a9a7d,RedPresAfter_1,Eris giggled to herself.[p/] She was clearly amused by what was happening.,厄莉斯咯咯地笑了起来。[p/]她显然对发生的事情感到很好笑。
 line:0410dd5,RedPresAfter_1,ERIS: The construct’s “voice” is an amalgam of pre-recorded phrases.,
 line:064a660,RedPresAfter_1,"ERIS: I’m not sure if you noticed,[p/] but it uses the voice of Professor Bellwether.",
 line:04cc02b,RedPresAfter_1,Celeste: Ugh...[p/] I knew there was something wrong with it.,
@@ -1677,7 +1677,7 @@ line:0dfa066,TheoObj,"THEODORE: I [i]did[/i] have strong opinions about how she 
 line:01f2642,TheoObj,"TYRION: Frankly,[p/] I find that hard to believe.",
 line:0b0717e,TheoObj,"TYRION: In fact,[p/] I think you might have had a [i]very[/i] good reason to murder the professor.",
 line:0439f3c,TheoObj,TYRION: ...Considering that she was going to take your job.,
-line:00f981a,TheoObj,AriaC: What...?,
+line:00f981a,TheoObj,AriaC: What...?,AriaC: ……什么？
 line:0e6da74,TheoObj,THEODORE: S-[p/][s/]So you knew about that...,
 line:0c08e16,TheoObj,"AriaC: I’m sorry,[p/] but I don’t follow.",
 line:0b989f8,TheoObj,AriaC: Just [i]how[/i] was the professor going to take the headmaster’s job?,
@@ -1903,7 +1903,7 @@ line:0b4937f,TheoCornered6,"Tyrion: You’re right, Mr. Redmond.",
 line:0049f20,TheoCornered6,"Tyrion: You wouldn’t try to frame Wallace,[p/] but you [i]would[/i] try to frame Miriam Frega.",
 line:09499fd,TheoCornered6,Theodore: ...!,
 line:01a4cd7,TheoCornered6,Default,
-line:09918b6,TheoCornered6,No...[p/] That wasn't right.,
+line:09918b6,TheoCornered6,No...[p/] That wasn't right.,不……[p/]那肯定不对。
 line:0b7b241,TheoCornered6,He wouldn't have [i]intentionally[/i] framed Wallace.,
 line:0b14fcb,TheoCornered6,Something must have confused him about whose locker he placed the rapier in.,
 line:0570e3c,TheoCornered7,"Tyrion: It would have been the perfect act of revenge, wouldn’t it?",
@@ -3055,9 +3055,9 @@ line:06f2650,AcademyHall_Talk,Player: BACK,
 line:0d1e996,HallJanJan,"TYRION: So, Jan.[p/] Are you a part of the staff here?",
 line:023f77c,HallJanJan,JAN: Yep...[p/] I’m a janitor...,
 line:0cc6c95,HallJanJan,JAN: I clean...[p/] and I do odd jobs here and there...,
-line:032eb45,HallJanJan,JAN: ...,
+line:032eb45,HallJanJan,JAN: ...,JAN: ……
 line:0f8fba9,HallJanJan,TYRION: ...,TYRION: ……
-line:0a39b4f,HallJanJan,JAN: ...,
+line:0a39b4f,HallJanJan,JAN: ...,JAN: ……
 line:08b5f76,HallJanJan,"Well...[p/] Apparently, that’s all he had to say about that.",
 line:0218fe9,AcademyHall_Present,Player: Runestone,
 line:0678e36,AcademyHall_Present,Jan: What's that thing?[p/] Is it a rock?,
@@ -3159,11 +3159,11 @@ line:05d0e93,AcademyHall_Check,VALERIE: I’m really behind on my work.,
 line:0967f00,AcademyHall_Check,VALERIE: But...[p/] [i]Jan[/i] was also nearby when we discovered the body.,
 line:0104556,AcademyHall_Check,VALERIE: I’m sure he can answer your questions!,
 line:077e094,AcademyHall_Check,"Before I had a chance to object,[p/] Valerie quickly walked away.",
-line:0314bb5,AcademyHall_Check,TYRION: W-[p/][s/]Wait!,
+line:0314bb5,AcademyHall_Check,TYRION: W-[p/][s/]Wait!,Tyrion: 等、[p/][s/]等下！
 line:021cd2f,AcademyHall_Check,CELESTE: ...Do you want me to go after her?,
 line:0126506,AcademyHall_Check,CELESTE: I’m pretty sure I can catch up to her.,
 line:0351b54,AcademyHall_Check,TYRION: No...[p/] We don’t want to scare those two more than we already have.,
-line:02ba0d7,AcademyHall_Check,JAN: ...,
+line:02ba0d7,AcademyHall_Check,JAN: ...,JAN: ……
 line:02cfdd5,AcademyHall_Check,"Anyways,[p/] Valerie said that Jan was nearby when the murder happened.",
 line:0b9b8a7,AcademyHall_Check,Maybe he saw something they didn't.,
 line:0821cd4,AcademyHall_Check,"TYRION: Jan, was it?",
@@ -3804,10 +3804,10 @@ line:0262fb8,LookTBooks_1,"The shelf slowly began to tip,[p/] and I had to catch
 line:0fd84b2,LookTBooks_1,Several books fell out of it as I slowly set the shelf back in place.,
 line:0b1f3f4,LookTBooks_1,"They hit the ground with a cacophony of thuds.[p/] Some students glanced over at me,[p/] annoyed by the noise.",
 line:091295f,LookTBooks_1,I really hoped Bellwether wasn't still around to see that.,
-line:069ca32,LookTBooks_1,Catherine: Be quiet!,
+line:069ca32,LookTBooks_1,Catherine: Be quiet!,Catherine: 安静！
 line:07a4324,LookTBooks_1,"I wasn't sure where the voice was coming from,[p/] but it sounded annoyed.",
-line:0c9bf08,LookTBooks_1,TYRION: S-[p/][s/]Sorry!,
-line:06d122f,LookTBooks_1,Catherine: BE QUIET!,
+line:0c9bf08,LookTBooks_1,TYRION: S-[p/][s/]Sorry!,TYRION: 对、[p/][s/]对不起！
+line:06d122f,LookTBooks_1,Catherine: BE QUIET!,Catherine: <size=1.5em>安静！</size>
 line:0fa06a0,LookTBooks_1,Eris giggled to herself as she watched me flounder around.,
 line:06976f3,LookTBooks_1,"CELESTE: Hey,[p/] are you okay?",
 line:09ba6cb,LookTBooks_1,Wallace: We heard a loud noise and—,
@@ -4269,13 +4269,13 @@ line:0c2878c,ValDeduce2,Tyrion: ...Good deductive reasoning.,
 line:0bb6830,ValDeduce2,"Celeste: Well, healing magic is also a form of [b]necromancy[/b], right?",
 line:00e6cc8,ValDeduce2,Celeste: I guess that explains why there are magical traces on her.,
 line:01d3e58,ValDeduce2,Celeste: It's a good thing a necromancer isn't actually trying to kill her.,
-line:0375a8d,ValDeduce2,...Wait a minute.,
+line:0375a8d,ValDeduce2,...Wait a minute.,……等一下。
 line:0a1558f,ValDeduce2b,000,
 line:0ded5e7,ValDeduce2b,Fail,
 line:0603083,ValDeduce2b,No...[p/] Valentina had traces of [b]necromancy[/b] on her.,
 line:0cfcad8,ValDeduce2b,"That made her think she'd been secretly attacked,[p/] but someone had just healed her.",
 line:07cd0d2,ValDeduce2b,I'd considered that possibility until now...,
-line:04925a5,ValDeduce3,TYRION: That’s it!,
+line:04925a5,ValDeduce3,TYRION: That’s it!,TYRION: 就是这个！
 line:06ab187,ValDeduce3,CELESTE: What...?,
 line:09f9e8d,ValDeduce3,"TYRION: This whole time,[p/][s/] we’ve been wondering why there were traces of [b]necromancy[/b] on the body!",
 line:002e3b8,ValDeduce3,TYRION: It wasn't because someone [i]attacked[/i] Bellwether with a [b]necromancy[/b] spell.,
