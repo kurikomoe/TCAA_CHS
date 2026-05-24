@@ -1880,104 +1880,104 @@ line:0fe1bd4,TheoCornered3,"Theodore: With your theory,[p/] the Construct would 
 line:070079c,TheoCornered3,"Theodore: Having it there would have risked my so-called ruse from being discovered. [h=""I was lucky.|Lady Frega can’t tell night from day."" e=""h""/]","Theodore: 如果把它放在那里，我那所谓的诡计就有可能会被识破。[h=""还好还好。|弗雷加小姐昼夜不分。"" e=""h""/]"
 line:01ab8ae,TheoCornered4,Logic,
 line:06d5b97,TheoCornered4,Intuition,
-line:0df927b,TheoCornered4,TYRION: The timing deduced from Ms. Frega’s testimony is predicated on one thing.,
-line:0081cc5,TheoCornered4,TYRION: She saw Ms. Bellwether exit your office after your meeting.,
-line:02d5bab,TheoCornered4,"TYRION: However,[p/] if we assume that you’re [i]lying[/i] about when this “meeting” ended,[p/] your entire argument falls apart.",
-line:02b447e,TheoCornered4,TYRION: Ms. Frega would have encountered Bellwether after her death at 2:01 PM.,
-line:068d8f5,TheoCornered4,THEODORE: M-[p/][s/]Ms. Frega wouldn’t have made a mistake like that!,
-line:0354d79,TheoCornered4,TYRION: Ms. Frega thought it was [i]morning[/i] when she saw Bellwether!,
-line:082a1c5,TheoCornered4,TYRION: She can’t reliably tell the time!,
+line:0df927b,TheoCornered4,TYRION: The timing deduced from Ms. Frega’s testimony is predicated on one thing.,TYRION: 根据弗雷加女士的证言推断出的时间有个前提。
+line:0081cc5,TheoCornered4,TYRION: She saw Ms. Bellwether exit your office after your meeting.,TYRION: 她看见了贝尔维瑟女士在会面结束后离开你的办公室。
+line:02d5bab,TheoCornered4,"TYRION: However,[p/] if we assume that you’re [i]lying[/i] about when this “meeting” ended,[p/] your entire argument falls apart.",TYRION: 然而，[p/]如果我们假定你在这次“会谈”的结束时间上[i]说了谎[/i]，[p/]你的整个主张就将分崩离析。
+line:02b447e,TheoCornered4,TYRION: Ms. Frega would have encountered Bellwether after her death at 2:01 PM.,TYRION: 弗雷加女士就是在下午 2:01，贝尔维瑟死后遇到了她。
+line:068d8f5,TheoCornered4,THEODORE: M-[p/][s/]Ms. Frega wouldn’t have made a mistake like that!,THEODORE: 弗、[p/][s/]弗雷加女士才不会犯这样的错误！
+line:0354d79,TheoCornered4,TYRION: Ms. Frega thought it was [i]morning[/i] when she saw Bellwether!,TYRION: 弗雷加女士看到贝尔维瑟的时候，还以为当时是[i]上午[/i]！
+line:082a1c5,TheoCornered4,TYRION: She can’t reliably tell the time!,TYRION: 她对时间的记忆并不准确！
 line:008b17b,TheoCornered4,Theodore: ...,Theodore: ……
 line:03e6023,TheoCornered4,Empathy,
-line:07890a1,TheoInterpret4Fail,"Tyrion: Redmond,[p/] what you’re saying clearly doesn’t match with what you’re thinking.",
-line:05d6c6e,TheoInterpret4Fail,Theodore: What kind of weak assertion is that?!,
-line:0b34710,TheoInterpret4Fail,Theodore: How could you [i]possibly[/i] know what I'm thinking?,
-line:0c9c806,TheoInterpret4Fail,"Tyrion: O-[p/]Oh, um...",
-line:07c9dd1,TheoInterpret4Fail,I needed to choose my words more carefully.,
-line:06c0f09,TheoCornered5,Theodore: T-[p/][s/]Then what about where the rapier was placed?!,
-line:064e857,TheoCornered5,"Theodore: If I really [i]was[/i] the murderer,[p/] then that would mean I planted the weapon in young [i]Wallace’s[/i] locker!",
-line:075483d,TheoCornered5,Theodore: Several of the students had lockers there that I had access to.,
-line:0ea387a,TheoCornered5,"Theodore: Wallace is one of my prized students.[p/][s/] If I had to frame anyone,[p/][s/] he would be the [i]last[/i] person I chose!",
+line:07890a1,TheoInterpret4Fail,"Tyrion: Redmond,[p/] what you’re saying clearly doesn’t match with what you’re thinking.",Tyrion: 雷德蒙。[p/]你所说的和你所想的明显不一致。
+line:05d6c6e,TheoInterpret4Fail,Theodore: What kind of weak assertion is that?!,Theodore: 你这是什么无力的主张？！
+line:0b34710,TheoInterpret4Fail,Theodore: How could you [i]possibly[/i] know what I'm thinking?,Theodore: 你怎么[i]可能[/i]知道我在想什么？
+line:0c9c806,TheoInterpret4Fail,"Tyrion: O-[p/]Oh, um...",Tyrion: 噢、[p/]噢，呃……
+line:07c9dd1,TheoInterpret4Fail,I needed to choose my words more carefully.,我得仔细斟酌自己的言语。
+line:06c0f09,TheoCornered5,Theodore: T-[p/][s/]Then what about where the rapier was placed?!,Theodore: 那、[p/][s/]那关于刺剑被遗落的地方呢？！
+line:064e857,TheoCornered5,"Theodore: If I really [i]was[/i] the murderer,[p/] then that would mean I planted the weapon in young [i]Wallace’s[/i] locker!",Theodore: 如果我[i]真的是[/i]凶手，[p/]就意味着是我把武器放在了[i]华莱士的[/i]储物柜里！
+line:075483d,TheoCornered5,Theodore: Several of the students had lockers there that I had access to.,Theodore: 我还能打开其他几个学生的储物柜。
+line:0ea387a,TheoCornered5,"Theodore: Wallace is one of my prized students.[p/][s/] If I had to frame anyone,[p/][s/] he would be the [i]last[/i] person I chose!",Theodore: 华莱士是我的爱徒之一。[p/][s/]如果我一定要陷害谁，[p/][s/][i]最不可能[/i]选的就是他！
 line:02deebd,TheoCornered6,LockerBlood2,
-line:0b4937f,TheoCornered6,"Tyrion: You’re right, Mr. Redmond.",
-line:0049f20,TheoCornered6,"Tyrion: You wouldn’t try to frame Wallace,[p/] but you [i]would[/i] try to frame Miriam Frega.",
+line:0b4937f,TheoCornered6,"Tyrion: You’re right, Mr. Redmond.",Tyrion: 你说得对，雷德蒙先生。
+line:0049f20,TheoCornered6,"Tyrion: You wouldn’t try to frame Wallace,[p/] but you [i]would[/i] try to frame Miriam Frega.",Tyrion: 你不会陷害华莱士，[p/]但你[i]会[/i]陷害米莉亚姆·弗雷加。
 line:09499fd,TheoCornered6,Theodore: ...!,Theodore: ……！
 line:01a4cd7,TheoCornered6,Default,
 line:09918b6,TheoCornered6,No...[p/] That wasn't right.,不……[p/]那肯定不对。
-line:0b7b241,TheoCornered6,He wouldn't have [i]intentionally[/i] framed Wallace.,
-line:0b14fcb,TheoCornered6,Something must have confused him about whose locker he placed the rapier in.,
-line:0570e3c,TheoCornered7,"Tyrion: It would have been the perfect act of revenge, wouldn’t it?",
-line:0a47f36,TheoCornered7,Tyrion: You murder your treacherous co-worker [i]and[/i] frame the daughter of the family that helped her!,
-line:09cf67f,TheoCornered7,"Tyrion: If Miriam had been implicated,[p/][s/] the Inquisition would have immediately swept Bellwether's murder under the rug!",
-line:09c027e,TheoCornered7,"Tyrion: But something went wrong, didn’t it, Redmond?",
-line:08096cd,TheoCornered7,Tyrion: The labels on Wallace’s locker and Miriam’s locker were switched.,
-line:0561896,TheoCornered7,Tyrion: Anyone who saw that would have easily mixed them up.,
-line:0e70fd4,TheoCornered7,Theodore: I am the [i]headmaster[/i] of the Imperial Academy!,
-line:0316378,TheoCornered7,Theodore: I have records of all the students’ lockers and where they’re located!,
-line:0d44ec5,TheoCornered7,"Theodore: If I truly planned this,[p/][s/] I would have [i]known[/i] where Wallace’s locker was!",
-line:0f9c966,TheoCornered7,Theodore: A simple change in labels wouldn’t have led me to make a careless mistake like that!,
+line:0b7b241,TheoCornered6,He wouldn't have [i]intentionally[/i] framed Wallace.,他不会[i]故意[/i]陷害华莱士。
+line:0b14fcb,TheoCornered6,Something must have confused him about whose locker he placed the rapier in.,在选择把刺剑放进哪个储物柜的时候，他肯定被什么东西误导了。
+line:0570e3c,TheoCornered7,"Tyrion: It would have been the perfect act of revenge, wouldn’t it?",Tyrion: 真是一场完美的复仇剧，不是吗？
+line:0a47f36,TheoCornered7,Tyrion: You murder your treacherous co-worker [i]and[/i] frame the daughter of the family that helped her!,Tyrion: 你杀掉那个背信弃义的同事，[i]同时[/i]又嫁祸给支持她家族的千金！
+line:09cf67f,TheoCornered7,"Tyrion: If Miriam had been implicated,[p/][s/] the Inquisition would have immediately swept Bellwether's murder under the rug!",Tyrion: 如果米莉亚姆被牵扯进来，[p/][s/]裁判所会马上把贝尔维瑟的谋杀案掩盖起来！
+line:09c027e,TheoCornered7,"Tyrion: But something went wrong, didn’t it, Redmond?",Tyrion: 但有个地方出了问题，不是吗，雷德蒙？
+line:08096cd,TheoCornered7,Tyrion: The labels on Wallace’s locker and Miriam’s locker were switched.,Tyrion: 华莱士和米莉亚姆储物柜上的名牌被交换了。
+line:0561896,TheoCornered7,Tyrion: Anyone who saw that would have easily mixed them up.,Tyrion: 看到名牌的人都会混淆二者。
+line:0e70fd4,TheoCornered7,Theodore: I am the [i]headmaster[/i] of the Imperial Academy!,Theodore: 我是这座帝国学院的[i]校长[/i]！
+line:0316378,TheoCornered7,Theodore: I have records of all the students’ lockers and where they’re located!,Theodore: 我有所有学生的储物柜及其位置的记录！
+line:0d44ec5,TheoCornered7,"Theodore: If I truly planned this,[p/][s/] I would have [i]known[/i] where Wallace’s locker was!",Theodore: 如果我真的谋划了这一切，[p/][s/]我会[i]记住[/i]华莱士的储物柜在哪里！
+line:0f9c966,TheoCornered7,Theodore: A simple change in labels wouldn’t have led me to make a careless mistake like that!,Theodore: 简单换个标签才不会让我犯下这么粗心的错误！
 line:0d5def0,TheoCornered8,Construct|LockerCon,
-line:026ff59,TheoCornered8,"TYRION: But it wasn’t you, was it?",
-line:076afea,TheoCornered8,TYRION: Your Arcane Construct was the one who planted the rapier in the locker.,
+line:026ff59,TheoCornered8,"TYRION: But it wasn’t you, was it?",TYRION: 但并非你自己动手，不是吗？
+line:076afea,TheoCornered8,TYRION: Your Arcane Construct was the one who planted the rapier in the locker.,TYRION: 把刺剑放入储物柜的是你的奥术构造体。
 line:041e585,TheoCornered8,THEODORE: ...!,THEODORE: ……！
 line:047259a,TheoCornered8,Default,
-line:0a31b15,TheoCornered8,No...[p/] He would have noticed if the locker IDs were switched.,
-line:0376f38,TheoCornered8,But that was all based on the assumption that [i]he[/i] was the person who planted the rapier.,
-line:0c125a4,TheoCornered9,TYRION: I bet you commanded it to “place this rapier in the locker of Miriam Frega”.,
-line:0892bd9,TheoCornered9,TYRION: But it saw the ID number on Wallace’s locker and assumed that it was Miriam’s.,
-line:0dd7cf9,TheoCornered9,THEODORE: T-[p/][s/]This is...![p/][s/] I-[p/][s/]I...!,
-line:048b546,TheoCornered9,Redmond was desperately stammering.,
-line:057fa3f,TheoCornered9,"THEODORE: Ms. Steelwind,[p/][s/] say something!",
-line:057903b,TheoCornered9,AriaC: ...What?![p/][s/] I...,
+line:0a31b15,TheoCornered8,No...[p/] He would have noticed if the locker IDs were switched.,不对……[p/]他自己会注意到储物柜的名牌被交换了。
+line:0376f38,TheoCornered8,But that was all based on the assumption that [i]he[/i] was the person who planted the rapier.,但那只是基于放置刺剑的是[i]他本人[/i]这一假定情况。
+line:0c125a4,TheoCornered9,TYRION: I bet you commanded it to “place this rapier in the locker of Miriam Frega”.,TYRION: 我敢打赌，是你命令它“将这把刺剑放到米莉亚姆·弗雷加的储物柜里”。
+line:0892bd9,TheoCornered9,TYRION: But it saw the ID number on Wallace’s locker and assumed that it was Miriam’s.,TYRION: 但它看到华莱士的储物柜上的名牌，就认为这是米莉亚姆的。
+line:0dd7cf9,TheoCornered9,THEODORE: T-[p/][s/]This is...![p/][s/] I-[p/][s/]I...!,THEODORE: 这、[p/][s/]这是……！[p/][s/]我、[p/][s/]我……！
+line:048b546,TheoCornered9,Redmond was desperately stammering.,雷德蒙在绝望中变得结巴了起来。
+line:057fa3f,TheoCornered9,"THEODORE: Ms. Steelwind,[p/][s/] say something!",THEODORE: 斯蒂尔文德女士。[p/][s/]说些什么啊！
+line:057903b,TheoCornered9,AriaC: ...What?![p/][s/] I...,AriaC: ……什么？！[p/][s/]我……
 line:02d25e8,TheoCornered9,AriaC: ...,AriaC: ……
-line:08e9883,TheoCornered9,AriaC: Agh!,
-line:013e35a,TheoCornered9,AriaC: Mr. Cuthbert![p/][s/] Your theory may be plausible but there’s no evidence to support it!,
+line:08e9883,TheoCornered9,AriaC: Agh!,AriaC: 呃！
+line:013e35a,TheoCornered9,AriaC: Mr. Cuthbert![p/][s/] Your theory may be plausible but there’s no evidence to support it!,AriaC: 卡斯伯特先生！[p/][s/]你的说法可能有道理，但没有证据支持！
 line:04218de,TheoCornered9,THEODORE: ...!,THEODORE: ……！
-line:066252e,TheoCornered9,"THEODORE: Ha![p/][s/] That’s right![p/][s/] You don’t have any proof, do you?!",
-line:068bc77,TheoCornered9,THEODORE: Saying that I could have committed the murder isn’t the same as proving I did it!,
+line:066252e,TheoCornered9,"THEODORE: Ha![p/][s/] That’s right![p/][s/] You don’t have any proof, do you?!",THEODORE: 哈！[p/][s/]没错！[p/][s/]你没有任何证据，不是吗？
+line:068bc77,TheoCornered9,THEODORE: Saying that I could have committed the murder isn’t the same as proving I did it!,THEODORE: 提出我有实施谋杀的可能性，和证明我确实做了，可根本不是一回事！
 line:04af87d,TheoCornered10,LockerCon,
-line:0edcfee,TheoCornered10,Tyrion: Your Arcane Construct is [i]still[/i] in the locker room where it planted the rapier!,
-line:09442f4,TheoCornered10,"Tyrion: All we have to do is take a look inside it,[p/] and we’ll see the blood inside!",
-line:073923d,TheoCornered10,"THEODORE: Is that so, Mr. Cuthbert?",
-line:0b7892a,TheoCornered10,What...?[p/] Why did he still look so confident?,
+line:0edcfee,TheoCornered10,Tyrion: Your Arcane Construct is [i]still[/i] in the locker room where it planted the rapier!,Tyrion: 你的奥术构造体[i]仍然[/i]待在放置刺剑的储物柜室！
+line:09442f4,TheoCornered10,"Tyrion: All we have to do is take a look inside it,[p/] and we’ll see the blood inside!",Tyrion: 我们只需要调查内侧，[p/]就能看到里面的血迹！
+line:073923d,TheoCornered10,"THEODORE: Is that so, Mr. Cuthbert?",THEODORE: 是这样吗，卡斯伯特先生？
+line:0b7892a,TheoCornered10,What...?[p/] Why did he still look so confident?,这……？[p/]他为什么看起来还这么自信？
 line:0de3f3d,TheoCornered10,Default,
-line:0de228f,TheoCornered10,No...[p/] Wasn't there some sort of evidence that would track the orders given to him?,
-line:06bbafc,TheoEmpEye,AriaC: No...![p/] Mr. Cuthbert...[p/] I...,
-line:0a25da4,TheoEmpEye,AriaC: I already checked the inside of that Construct during my investigation.,
-line:0f7f9d3,TheoEmpEye,AriaC: The interior was completely clean.,
-line:00753d7,TheoEmpEye,TYRION: What?!,
-line:0cc373b,TheoEmpEye,"THEODORE: The Constructs’ primary function is to assist and [i]clean[/i], dear Tyrion!",
-line:098648e,TheoEmpEye,"THEODORE: They have a function that allows them to clean [i]themselves[/i],[p/][s/] inside and out!",
-line:0a84f0c,TheoEmpEye,Tyrion: That still wouldn't erase the magical traces.,
-line:07245a2,TheoEmpEye,"Theodore: Healing spells may leave traces of [b]necromancy[/b],[p/] but so would a healing potion!",
-line:08f0966,TheoEmpEye,"Theodore: With no evidence of blood,[p/] there could be a myriad of reasons why those traces are there!",
-line:04e48e4,TheoEmpEye,"TYRION: W-[p/][s/]Well,[p/] we can still look at its command history, right?!",
-line:073888f,TheoEmpEye,"AriaC: ...Think about it, Mr. Cuthbert.",
-line:0ec0938,TheoEmpEye,AriaC: Do you honestly think that the murderer would leave behind evidence like that?,
-line:06d6de5,TheoEmpEye,"AriaC: ...I’m sure that [i]whoever[/i] orchestrated this plot,[p/] they ordered the Construct to wipe its logs when it was finished.",
-line:061840a,TheoEmpEye,TYRION: N-[p/][s/]No...,
-line:05d2ac5,TheoEmpEye,"THEODORE: That’s right, Mr. Cuthbert!",
-line:0592732,TheoEmpEye_2,THEODORE: Your case against me is theoretical at best!,
-line:00fecdd,TheoEmpEye_2,THEODORE: But I suppose I can still give you marks for trying!,
-line:0da3548,TheoEmpEye_2,He thought of everything!,
-line:0689a84,TheoEmpEye_2,Did he really get rid of all of the evidence?!,
+line:0de228f,TheoCornered10,No...[p/] Wasn't there some sort of evidence that would track the orders given to him?,不会吧……[p/]不应该有可以什么证据能导向他下的那些指令吗？
+line:06bbafc,TheoEmpEye,AriaC: No...![p/] Mr. Cuthbert...[p/] I...,AriaC: 不行……！[p/]卡斯伯特先生……[p/]我……
+line:0a25da4,TheoEmpEye,AriaC: I already checked the inside of that Construct during my investigation.,AriaC: 我已经在调查时检查了构造体的内腔。
+line:0f7f9d3,TheoEmpEye,AriaC: The interior was completely clean.,AriaC: 里面完全是干净的。
+line:00753d7,TheoEmpEye,TYRION: What?!,TYRION: 怎么会？！
+line:0cc373b,TheoEmpEye,"THEODORE: The Constructs’ primary function is to assist and [i]clean[/i], dear Tyrion!",THEODORE: 构造体的主要功能就是辅助和[i]清洁[/i]，我亲爱的提利昂！
+line:098648e,TheoEmpEye,"THEODORE: They have a function that allows them to clean [i]themselves[/i],[p/][s/] inside and out!",THEODORE: 它们本身就有清洁[i]自身[/i]的机能，[p/][s/]外表和内部皆有！
+line:0a84f0c,TheoEmpEye,Tyrion: That still wouldn't erase the magical traces.,Tyrion: 那还是无法抹除魔法痕迹。
+line:07245a2,TheoEmpEye,"Theodore: Healing spells may leave traces of [b]necromancy[/b],[p/] but so would a healing potion!",Theodore: 治愈魔法会留下[b]死灵术[/b]的痕迹，[p/]但治疗的药剂也可以！
+line:08f0966,TheoEmpEye,"Theodore: With no evidence of blood,[p/] there could be a myriad of reasons why those traces are there!",Theodore: 没有血迹作为证据，[p/]很多原因都可能导致这些痕迹出现！
+line:04e48e4,TheoEmpEye,"TYRION: W-[p/][s/]Well,[p/] we can still look at its command history, right?!",TYRION: 好、[p/][s/]好吧，[p/]但我们还是可以检查它的指令记录，对吧？！
+line:073888f,TheoEmpEye,"AriaC: ...Think about it, Mr. Cuthbert.",AriaC: ……仔细想想，卡斯伯特先生。
+line:0ec0938,TheoEmpEye,AriaC: Do you honestly think that the murderer would leave behind evidence like that?,AriaC: 你真的觉得凶手会留下这么显著的证据吗？
+line:06d6de5,TheoEmpEye,"AriaC: ...I’m sure that [i]whoever[/i] orchestrated this plot,[p/] they ordered the Construct to wipe its logs when it was finished.",AriaC: ……我很肯定，[i]不论是谁[/i]精心策划了这场阴谋，[p/]他们都会命令构造体删除历史记录。
+line:061840a,TheoEmpEye,TYRION: N-[p/][s/]No...,TYRION: 不、[p/][s/]不……
+line:05d2ac5,TheoEmpEye,"THEODORE: That’s right, Mr. Cuthbert!",THEODORE: 就是这样，卡斯伯特先生！
+line:0592732,TheoEmpEye_2,THEODORE: Your case against me is theoretical at best!,THEODORE: 你对我的指控，说到底也就是来自间接证据！
+line:00fecdd,TheoEmpEye_2,THEODORE: But I suppose I can still give you marks for trying!,THEODORE: 至少你的尝试精神可嘉！
+line:0da3548,TheoEmpEye_2,He thought of everything!,他考虑得十分周全！
+line:0689a84,TheoEmpEye_2,Did he really get rid of all of the evidence?!,他真的清理了所有证据吗？！
 line:0ff13fc,TheoEmpEye_2,TYRION: ...,TYRION: ……
-line:04ceefa,TheoEmpEye_2,I was running out of options.,
-line:06fd096,TheoEmpEye_2,But I still had [i]one[/i] option left.,
-line:00d69fa,TheoEmpEye_2,"THEODORE: ...Ha![p/] It’s unbecoming to glare like that, young Tyrion!",
-line:06cb373,TheoEmpEye_2,"AriaC: ...? [h=""He's doing it again...""/]",
-line:013ffb7,TheoEmpEye_2,I needed to bring myself back to that moment with Garrick Pierce.,
-line:080eaa5,TheoEmpEye_2,Everything was at stake for Wallace in this trial.,
-line:0c8a701,TheoEmpEye_2,He endured the collective hatred of everyone who didn't understand what he was doing.,
-line:0895647,TheoEmpEye_2,"Yet he stayed true to his ideals,[p/] no matter how much it harmed him.",
-line:00bf978,TheoEmpEye_2,"He studied [b]necromancy[/b],[p/] all for the betterment of mankind.",
-line:0419bfc,TheoEmpEye_2,"His life and his future were in my hands,[p/] and I would [i]not[/i] see his potential destroyed.",
-line:0b36d1b,TheoEmpEye_2,I activated the Empowered Eye again.,
-line:0bf26c0,TheoEmpEye_2,"Redmond did a good job of covering his tracks,[p/] but there was no such thing as the perfect crime.",
-line:063a647,TheoEmpEye_2,There had to be something that he forgot to get rid of!,
+line:04ceefa,TheoEmpEye_2,I was running out of options.,我的选项即将用尽。
+line:06fd096,TheoEmpEye_2,But I still had [i]one[/i] option left.,但仍然还剩[i]最后一个[/i]。
+line:00d69fa,TheoEmpEye_2,"THEODORE: ...Ha![p/] It’s unbecoming to glare like that, young Tyrion!",THEODORE: ……哈！[p/]那样瞪着我很没礼貌啊，年轻人！
+line:06cb373,TheoEmpEye_2,"AriaC: ...? [h=""He's doing it again...""/]","AriaC: ……？ [h=""他又在那样做了……""/]"
+line:013ffb7,TheoEmpEye_2,I needed to bring myself back to that moment with Garrick Pierce.,我需要将自己带回对峙加里克·皮尔斯的那个时刻。
+line:080eaa5,TheoEmpEye_2,Everything was at stake for Wallace in this trial.,这场庭审中，一切都在将华莱士逼向绝境。
+line:0c8a701,TheoEmpEye_2,He endured the collective hatred of everyone who didn't understand what he was doing.,他一直忍受着那些不理解他做法的人们向他集中的憎恨。
+line:0895647,TheoEmpEye_2,"Yet he stayed true to his ideals,[p/] no matter how much it harmed him.",但他仍然信奉自己的理念，[p/]无论这给他带来了多少伤害。
+line:00bf978,TheoEmpEye_2,"He studied [b]necromancy[/b],[p/] all for the betterment of mankind.",他研习[b]死灵术[/b]，[p/]都是为了造福人类。
+line:0419bfc,TheoEmpEye_2,"His life and his future were in my hands,[p/] and I would [i]not[/i] see his potential destroyed.",他的性命与未来都取决于我，[p/]而我[i]不愿意[/i]看到他的潜力就这样被摧毁。
+line:0b36d1b,TheoEmpEye_2,I activated the Empowered Eye again.,我又一次激活了强化之眼。
+line:0bf26c0,TheoEmpEye_2,"Redmond did a good job of covering his tracks,[p/] but there was no such thing as the perfect crime.",雷德蒙很好地掩盖了行踪，[p/]但从来就没有什么完美犯罪。
+line:063a647,TheoEmpEye_2,There had to be something that he forgot to get rid of!,肯定有什么他忘记抹去的痕迹！
 line:069030a,TheoEye,LockerCon,
-line:0376018,TheoEye,Theodore: Why was the Construct in the locker room...?,
-line:0951193,TheoEye,Theodore: It shouldn't have been there if it had followed my orders.,
+line:0376018,TheoEye,Theodore: Why was the Construct in the locker room...?,Theodore: 为什么那个构造体最后会留在储物柜室呢……？
+line:0951193,TheoEye,Theodore: It shouldn't have been there if it had followed my orders.,Theodore: 按照我的指令，它不应该留在那里。
 line:0c92bd1,TheoEye,Theodore: No matter...[p/] It wiped its logs.[p/] That's all that matters.,
 line:081d801,TheoEye,Theodore: They have nothing.,
 line:01145bd,TheoEye,"So, he [i]did[/i] order it to wipe its logs...",
@@ -3947,7 +3947,7 @@ line:0254763,MurderRevealB,Theodore: I-[p/][s/]I’m terribly sorry!,
 line:06332b3,MurderRevealB,A disembodied voice cut through the anxious murmurs of the students in the library.,
 line:0d2ffe3,MurderReveal_1,Theodore: Students and faculty![p/][s/] Please remain calm!,
 line:02ea570,MurderReveal_1,Theodore: T-[p/]There’s...[p/][s/] There’s been an attack in one of the lecture halls!,
-line:0ce3ebc,MurderReveal_1,TYRION: What?!,
+line:0ce3ebc,MurderReveal_1,TYRION: What?!,TYRION: 怎么会？！
 line:01e2719,MurderReveal_1,Theodore: Please stay where you are and wait for the City Watch to arrive!,
 line:02c87a7,MurderReveal_1,CELESTE: ...,Celeste: ……
 line:01abb27,MurderReveal_1,TYRION: ...We have to get out of here!,
@@ -4011,7 +4011,7 @@ line:0716486,MurderReveal_3,"CELESTE: Hey,[p/][s/] what are you doing?!",
 line:0f6fd9e,MurderReveal_3,ORYM: You three...?[p/] The hell are [i]you[/i] doing here?,
 line:066bf2f,MurderReveal_3,Tyrion: You said he was under arrest?[p/] On what charges?,
 line:0e3d9ee,MurderReveal_3,ORYM: The charge of first-degree murder![p/][s/] This damned mage killed Catherine Bellwether!,
-line:0ef4b89,MurderReveal_3,TYRION: What?!,
+line:0ef4b89,MurderReveal_3,TYRION: What?!,TYRION: 怎么会？！
 line:0348833,MurderReveal_3,Celeste grabbed the commander's arm and wrenched him off of Wallace.,
 line:0865f92,MurderReveal_3,"Orym showed no resistance,[p/] clearly remembering what happened during [i]her[/i] arrest last week.",
 line:054906a,MurderReveal_3,CELESTE: Like hell you’re arresting him!,
