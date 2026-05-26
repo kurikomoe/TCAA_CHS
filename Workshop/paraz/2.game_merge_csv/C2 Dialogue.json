@@ -10976,25 +10976,25 @@
   {
     "key": "C2 Dialogue.csv::translation::462f7d62ffe6df32",
     "original": "Theodore: No matter...[p/] It wiped its logs.[p/] That's all that matters.",
-    "translation": "",
+    "translation": "Theodore: 不要紧的……[p/]它自己把日志删除了。[p/]只要这样就万无一失。",
     "context": "{\n  \"id\": \"line:0c92bd1\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: No matter...[p/] It wiped its logs.[p/] That's all that matters.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe7ea3c525f7059a",
     "original": "Theodore: They have nothing.",
-    "translation": "",
+    "translation": "Theodore: 他们没有证据。",
     "context": "{\n  \"id\": \"line:081d801\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: They have nothing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eef0b0fa67bbe646",
     "original": "So, he [i]did[/i] order it to wipe its logs...",
-    "translation": "",
+    "translation": "所以，他[i]确实[/i]命令了构造体删除自身的日志……",
     "context": "{\n  \"id\": \"line:01145bd\",\n  \"node\": \"TheoEye\",\n  \"text\": \"So, he [i]did[/i] order it to wipe its logs...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5c5374458bf9b100",
     "original": "In order to cover all of its tracks,[p/] it probably would have done this last.",
-    "translation": "",
+    "translation": "并以此掩盖它的行踪，[p/]这大概率是最后一条指令。",
     "context": "{\n  \"id\": \"line:0b050b8\",\n  \"node\": \"TheoEye\",\n  \"text\": \"In order to cover all of its tracks,[p/] it probably would have done this last.\"\n}"
   },
   {
@@ -11006,37 +11006,37 @@
   {
     "key": "C2 Dialogue.csv::translation::de5f63cab148b543",
     "original": "Theodore: The Construct's orders were clear.",
-    "translation": "",
+    "translation": "Theodore: 对构造体的指令很明确。",
     "context": "{\n  \"id\": \"line:0e54a98\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: The Construct's orders were clear.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e727b56e8f35bfe5",
     "original": "Theodore: Plant the body in Lecture Hall 2-B.",
-    "translation": "",
+    "translation": "Theodore: 把尸体放到 2-B 讲堂里。",
     "context": "{\n  \"id\": \"line:09e1c82\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: Plant the body in Lecture Hall 2-B.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c41b432e29af82e6",
     "original": "Theodore: And then plant the evidence in Frega's locker.",
-    "translation": "",
+    "translation": "Theodore: 然后把证据放进弗雷加的储物柜。",
     "context": "{\n  \"id\": \"line:0404f9e\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: And then plant the evidence in Frega's locker.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::02a482369f44a1b4",
     "original": "Theodore: It was [i]supposed[/i] to head to the Storage Room afterward.",
-    "translation": "",
+    "translation": "Theodore: 之后它[i]本应[/i]回到储藏室。",
     "context": "{\n  \"id\": \"line:0a05aca\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: It was [i]supposed[/i] to head to the Storage Room afterward.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d6ce8103a83fdff5",
     "original": "Theodore: What happened?",
-    "translation": "",
+    "translation": "Theodore: 到底发生了什么？",
     "context": "{\n  \"id\": \"line:0560fa6\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: What happened?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5485e1f291cca983",
     "original": "Interesting...[p/] The Construct wasn't [i]supposed[/i] to be in the Locker Room?",
-    "translation": "",
+    "translation": "这就有意思了……[p/]那个构造体[i]不应该[/i]在储物柜室里？",
     "context": "{\n  \"id\": \"line:0f8b749\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Interesting...[p/] The Construct wasn't [i]supposed[/i] to be in the Locker Room?\"\n}"
   },
   {
@@ -11048,13 +11048,13 @@
   {
     "key": "C2 Dialogue.csv::translation::c2c78fa20b8cfaa2",
     "original": "Theodore: I can't believe I let this boy push me this far...",
-    "translation": "",
+    "translation": "Theodore: 我真不敢相信，这个小伙子能把我逼到这个地步……",
     "context": "{\n  \"id\": \"line:0edcdb8\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: I can't believe I let this boy push me this far...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::03296b9488a0b16c",
     "original": "Theodore: I was too careless...[p/] I should have been [i]much[/i] more wary of him.",
-    "translation": "",
+    "translation": "Theodore: 我太大意了……[p/]我应该对他[i]更加[/i]警惕的。",
     "context": "{\n  \"id\": \"line:094a8bb\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: I was too careless...[p/] I should have been [i]much[/i] more wary of him.\"\n}"
   },
   {
@@ -11066,25 +11066,25 @@
   {
     "key": "C2 Dialogue.csv::translation::c10dce39dbd262ff",
     "original": "Theodore: Agh...[p/] My head...",
-    "translation": "",
+    "translation": "Theodore: 啊……[p/]我的脑袋……",
     "context": "{\n  \"id\": \"line:0995cf4\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: Agh...[p/] My head...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::62d0243bc4bef014",
     "original": "Theodore: The stress from this trial must be giving me a migraine...",
-    "translation": "",
+    "translation": "Theodore: 庭审带来的压力让我犯偏头痛了……",
     "context": "{\n  \"id\": \"line:04eeea5\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: The stress from this trial must be giving me a migraine...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea5d438ae9b0913a",
     "original": "That was strange...[p/] Why couldn't I make him think about Eris?",
-    "translation": "",
+    "translation": "奇怪了……[p/]我为什么不能让他想厄莉斯的事情？",
     "context": "{\n  \"id\": \"line:0df2b41\",\n  \"node\": \"TheoEye\",\n  \"text\": \"That was strange...[p/] Why couldn't I make him think about Eris?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6facee305a6a2b70",
     "original": "Well,[p/] I suppose it doesn't matter.[p/] I had no reason to think Eris was involved anyway.",
-    "translation": "",
+    "translation": "算了，[p/]应该不太重要。[p/]我没有任何原由认定厄莉斯也参与其中。",
     "context": "{\n  \"id\": \"line:0913395\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Well,[p/] I suppose it doesn't matter.[p/] I had no reason to think Eris was involved anyway.\"\n}"
   },
   {
@@ -11096,13 +11096,13 @@
   {
     "key": "C2 Dialogue.csv::translation::07780a2f226b407f",
     "original": "Theodore: It's all Tymora's fault that I'm even here...",
-    "translation": "",
+    "translation": "Theodore: 我现在会在这里，都是泰摩拉的错……",
     "context": "{\n  \"id\": \"line:094f3aa\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: It's all Tymora's fault that I'm even here...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::914bfd73c932553a",
     "original": "Theodore: If it weren't for my debts,[p/] that boy would have never even [i]met[/i] Wallace.",
-    "translation": "",
+    "translation": "Theodore: 如果不是我的债务，[p/]那个小子永远不会[i]遇见[/i]华莱士。",
     "context": "{\n  \"id\": \"line:08b465f\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: If it weren't for my debts,[p/] that boy would have never even [i]met[/i] Wallace.\"\n}"
   },
   {
@@ -11114,19 +11114,19 @@
   {
     "key": "C2 Dialogue.csv::translation::e0b05c5507836f93",
     "original": "Theodore: I can't believe I put myself into this mess for [i]Bellwether[/i] of all people...",
-    "translation": "",
+    "translation": "Theodore: 我真不敢相信自己会为了[i]贝尔维瑟[/i]卷入这堆破事……",
     "context": "{\n  \"id\": \"line:04b4c95\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: I can't believe I put myself into this mess for [i]Bellwether[/i] of all people...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::46764f2526290e7d",
     "original": "Theodore: ...Why do I feel remorse for her?",
-    "translation": "",
+    "translation": "Theodore: ……我为何因她产生悔意？",
     "context": "{\n  \"id\": \"line:01ef8c5\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: ...Why do I feel remorse for her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::40408fc0c220f4a2",
     "original": "Theodore: She [i]deserved[/i] what happened to her.",
-    "translation": "",
+    "translation": "Theodore: 她根本就是[i]罪有应得[/i]。",
     "context": "{\n  \"id\": \"line:0664c2a\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: She [i]deserved[/i] what happened to her.\"\n}"
   },
   {
@@ -11138,13 +11138,13 @@
   {
     "key": "C2 Dialogue.csv::translation::1b4e95f17c64be81",
     "original": "Theodore: I wasn't just thinking of myself...",
-    "translation": "",
+    "translation": "Theodore: 我并不是只为了自己考虑……",
     "context": "{\n  \"id\": \"line:09adbc8\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: I wasn't just thinking of myself...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d665f949bec2bf71",
     "original": "Theodore: The staff...[p/][s/] Bellwether would have thrown them onto the [i]street[/i] if not for what I did!",
-    "translation": "",
+    "translation": "Theodore: 那些教职工……[p/][s/]如果我不动手，贝尔维瑟就会让他们所有人[i]流落街头[/i]！",
     "context": "{\n  \"id\": \"line:0b461cf\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: The staff...[p/][s/] Bellwether would have thrown them onto the [i]street[/i] if not for what I did!\"\n}"
   },
   {
@@ -11156,25 +11156,25 @@
   {
     "key": "C2 Dialogue.csv::translation::ffc7dd3e115f3abe",
     "original": "Theodore: This is all the nobility's fault!",
-    "translation": "",
+    "translation": "Theodore: 这都是贵族们的错！",
     "context": "{\n  \"id\": \"line:0046ada\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: This is all the nobility's fault!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b5307ea23621e95c",
     "original": "Theodore: This [i]whole[/i] time they were plotting to throw me out.",
-    "translation": "",
+    "translation": "Theodore: [i]这段时间[/i]他们一直在密谋赶我下台。",
     "context": "{\n  \"id\": \"line:02a23f2\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: This [i]whole[/i] time they were plotting to throw me out.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::14a5cae143026ca8",
     "original": "Theodore: It's [i]their[/i] fault that Bellwether is dead![p/][s/] Not mine!",
-    "translation": "",
+    "translation": "Theodore: 贝尔维瑟的死都怪[i]他们[/i]！[p/][s/]不怪我！",
     "context": "{\n  \"id\": \"line:0c81931\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: It's [i]their[/i] fault that Bellwether is dead![p/][s/] Not mine!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f799a1d6afa70ae7",
     "original": "Theodore: Her blood is on the hands of the Fregas [i]and[/i] the Steelwinds.",
-    "translation": "",
+    "translation": "Theodore: 害死她的是弗雷加[i]和[/i]斯蒂尔文德两家贵族。",
     "context": "{\n  \"id\": \"line:08ffb61\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: Her blood is on the hands of the Fregas [i]and[/i] the Steelwinds.\"\n}"
   },
   {
@@ -11186,31 +11186,31 @@
   {
     "key": "C2 Dialogue.csv::translation::8102e50478bac838",
     "original": "Theodore: I wonder...[p/] Did I leave any other pieces of evidence behind?",
-    "translation": "",
+    "translation": "Theodore: 我在想……[p/]我还留下了其他证据吗？",
     "context": "{\n  \"id\": \"line:0c8ef8a\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: I wonder...[p/] Did I leave any other pieces of evidence behind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5f00db91c91eb073",
     "original": "Theodore: I was far too reckless...",
-    "translation": "",
+    "translation": "Theodore: 我太鲁莽了……",
     "context": "{\n  \"id\": \"line:0b849cb\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: I was far too reckless...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::348feb79a87bc7d0",
     "original": "Theodore: But I needed [i]some[/i] way to keep that lecture hall empty.",
-    "translation": "",
+    "translation": "Theodore: 但我需要[i]某种[/i]让那个讲堂空无一人的方法。",
     "context": "{\n  \"id\": \"line:04f68c8\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: But I needed [i]some[/i] way to keep that lecture hall empty.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3dbf33a083584d10",
     "original": "Oh, right.[p/] He must have botched the alchemy experiment on purpose to keep the lecture hall clear.",
-    "translation": "",
+    "translation": "噢，对啊。[p/]他是故意搞砸了那个炼金实验，来确保讲堂里没有人。",
     "context": "{\n  \"id\": \"line:067a461\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Oh, right.[p/] He must have botched the alchemy experiment on purpose to keep the lecture hall clear.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2311938f1419d4ff",
     "original": "But that didn't really tell me anything I could use right now.",
-    "translation": "",
+    "translation": "但这并没有让我掌握更多可用的事实。",
     "context": "{\n  \"id\": \"line:0d1b413\",\n  \"node\": \"TheoEye\",\n  \"text\": \"But that didn't really tell me anything I could use right now.\"\n}"
   },
   {
@@ -11222,25 +11222,25 @@
   {
     "key": "C2 Dialogue.csv::translation::afaa28c082568de3",
     "original": "Theodore: I had to do everything I could to shift guilt away from myself.",
-    "translation": "",
+    "translation": "Theodore: 为了让自己洗脱嫌疑，我使出了一切手段。",
     "context": "{\n  \"id\": \"line:0cc58a9\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: I had to do everything I could to shift guilt away from myself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c09dc7ac1fa587d6",
     "original": "Theodore: ...But did I leave any holes in my alibi?",
-    "translation": "",
+    "translation": "Theodore: ……但我的不在场证明有留下什么漏洞吗？",
     "context": "{\n  \"id\": \"line:0bdf010\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: ...But did I leave any holes in my alibi?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6a9f022373eef7ad",
     "original": "Theodore: No...[p/] I accounted for everything.",
-    "translation": "",
+    "translation": "Theodore: 没有吧……[p/]每个方面我都算计过了。",
     "context": "{\n  \"id\": \"line:088335c\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: No...[p/] I accounted for everything.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::abda8a1e7145f562",
     "original": "Theodore: There's [i]no[/i] possible way I left any evidence behind.",
-    "translation": "",
+    "translation": "Theodore: 我[i]不可能[/i]留下任何证据。",
     "context": "{\n  \"id\": \"line:0c16e94\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: There's [i]no[/i] possible way I left any evidence behind.\"\n}"
   },
   {
@@ -11252,13 +11252,13 @@
   {
     "key": "C2 Dialogue.csv::translation::6d539def01e8060d",
     "original": "Theodore: ...My [b]illusion[/b] should have been flawless.",
-    "translation": "",
+    "translation": "Theodore: ……我的[b]幻象术[/b]是无懈可击的。",
     "context": "{\n  \"id\": \"line:07750bd\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: ...My [b]illusion[/b] should have been flawless.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5edd378f2fd3427e",
     "original": "Theodore: I can't believe this boy was able to deduce what happened.",
-    "translation": "",
+    "translation": "Theodore: 我不敢相信，这小伙子能推理出发生的事情。",
     "context": "{\n  \"id\": \"line:0bd45e4\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: I can't believe this boy was able to deduce what happened.\"\n}"
   },
   {
@@ -11270,85 +11270,85 @@
   {
     "key": "C2 Dialogue.csv::translation::90c38d812bd5d503",
     "original": "Theodore: I did everything I could to cast doubt on Frega's brat.",
-    "translation": "",
+    "translation": "Theodore: 我使劲浑身解数栽赃弗雷加家的小孩儿。",
     "context": "{\n  \"id\": \"line:070381a\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: I did everything I could to cast doubt on Frega's brat.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::42f615d6e508d0ef",
     "original": "Theodore: I can't believe Valerie placed a trace of [b]necromancy[/b] on the body.",
-    "translation": "",
+    "translation": "Theodore: 不敢相信瓦莱丽竟然在尸体上留下了[b]死灵术[/b]魔法的痕迹。",
     "context": "{\n  \"id\": \"line:0847b06\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: I can't believe Valerie placed a trace of [b]necromancy[/b] on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::918f4c6b8a3e37a8",
     "original": "Theodore: To make matters worse,[p/] the Construct placed the evidence in the wrong locker.",
-    "translation": "",
+    "translation": "Theodore: 更糟的是，[p/]那个构造体把物证放在了错误的柜子里。",
     "context": "{\n  \"id\": \"line:0d7cf75\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: To make matters worse,[p/] the Construct placed the evidence in the wrong locker.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1d3e073dbf53a2b0",
     "original": "So, he [i]did[/i] send the Construct to the locker room to plant the evidence.",
-    "translation": "",
+    "translation": "所以，他[i]确实[/i]有让构造体把物证放在储物柜里。",
     "context": "{\n  \"id\": \"line:03b75b2\",\n  \"node\": \"TheoEye\",\n  \"text\": \"So, he [i]did[/i] send the Construct to the locker room to plant the evidence.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::59b4a9f0cfbaa951",
     "original": "He must have also fabricated the documents that accused Miriam of cheating.",
-    "translation": "",
+    "translation": "他肯定还伪造了指控弗雷加作弊的文件。",
     "context": "{\n  \"id\": \"line:0001de9\",\n  \"node\": \"TheoEye\",\n  \"text\": \"He must have also fabricated the documents that accused Miriam of cheating.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d82c7e3e277bcf18",
     "original": "It was all to make [i]her[/i] look like the murderer,[p/] but this doesn't give me anything new to work with.",
-    "translation": "",
+    "translation": "这也是为了让[i]她[/i]更像凶手，[p/]但这并没有让我获得可以打破局面的信息。",
     "context": "{\n  \"id\": \"line:03de571\",\n  \"node\": \"TheoEye\",\n  \"text\": \"It was all to make [i]her[/i] look like the murderer,[p/] but this doesn't give me anything new to work with.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ae5018afe77bea7d",
     "original": "Theodore: ...?",
-    "translation": "",
+    "translation": "Theodore: ……？",
     "context": "{\n  \"id\": \"line:0c5f928\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: ...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::12c43d8e08b436d0",
     "original": "Theodore: Why am I thinking of this [i]now[/i]?",
-    "translation": "",
+    "translation": "Theodore: 我为什么[i]现在[/i]在想这个？",
     "context": "{\n  \"id\": \"line:0e0932b\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Theodore: Why am I thinking of this [i]now[/i]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d98a0748f5f00c02",
     "original": "Hm...[p/] That piece of evidence didn’t evoke any useful thoughts from him.",
-    "translation": "",
+    "translation": "唔……[p/]那份证据没能让他产生什么有用的想法。",
     "context": "{\n  \"id\": \"line:090b26e\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Hm...[p/] That piece of evidence didn’t evoke any useful thoughts from him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::98ec94b6887c6010",
     "original": "Maybe I needed to try PROJECTING something related to the Construct's actions.",
-    "translation": "",
+    "translation": "或许我该<size=1.5em>投射</size>跟构造体的行动有关的事物。",
     "context": "{\n  \"id\": \"line:07efe6e\",\n  \"node\": \"TheoEye\",\n  \"text\": \"Maybe I needed to try PROJECTING something related to the Construct's actions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2105923b7e5f7cc1",
     "original": "There was nothing there for me to use.",
-    "translation": "",
+    "translation": "没有可以让我利用的内容。",
     "context": "{\n  \"id\": \"line:050af18\",\n  \"node\": \"TheoEye\",\n  \"text\": \"There was nothing there for me to use.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e8ce36f4c5c405b3",
     "original": "Wait...[p/] He ordered the Construct to go to the Storage Room?",
-    "translation": "",
+    "translation": "等下……[p/]他曾命令过奥术构造体前往储藏室？",
     "context": "{\n  \"id\": \"line:0a573d5\",\n  \"node\": \"TheoAfterEye\",\n  \"text\": \"Wait...[p/] He ordered the Construct to go to the Storage Room?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::75b199455e37b63e",
     "original": "It should have done that [i]after[/i] it was finished planting evidence in the locker room.",
-    "translation": "",
+    "translation": "它本应在储物柜里放下物证[i]之后[/i]离开的。",
     "context": "{\n  \"id\": \"line:0ebf8fb\",\n  \"node\": \"TheoAfterEye\",\n  \"text\": \"It should have done that [i]after[/i] it was finished planting evidence in the locker room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::347bfcf2debacbf4",
     "original": "But we [i]found[/i] it in the Locker Room...",
-    "translation": "",
+    "translation": "但我们是在储物柜室里[i]找到[/i]它的……",
     "context": "{\n  \"id\": \"line:0cdacb6\",\n  \"node\": \"TheoAfterEye\",\n  \"text\": \"But we [i]found[/i] it in the Locker Room...\"\n}"
   },
   {
@@ -11360,85 +11360,85 @@
   {
     "key": "C2 Dialogue.csv::translation::7f5e14c4265a2592",
     "original": "No...[p/] Redmond clearly didn't intend for the Construct to end up in the Locker Room.",
-    "translation": "",
+    "translation": "不对啊……[p/]雷蒙德的本意明显不是让奥术构造体最后留在储物柜室里。",
     "context": "{\n  \"id\": \"line:025b486\",\n  \"node\": \"TheoAfterEye_2\",\n  \"text\": \"No...[p/] Redmond clearly didn't intend for the Construct to end up in the Locker Room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::872ba35d0d8023b7",
     "original": "Someone or something must have interfered with it.",
-    "translation": "",
+    "translation": "某人或某物一定干扰了它。",
     "context": "{\n  \"id\": \"line:004ad59\",\n  \"node\": \"TheoAfterEye_2\",\n  \"text\": \"Someone or something must have interfered with it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::010ded4d439abba8",
     "original": "Right...[p/] The body was probably reported earlier than Redmond expected.",
-    "translation": "",
+    "translation": "没错……[p/]尸体被发现并被报告的时间，可能要早于雷德蒙所预料的时间。",
     "context": "{\n  \"id\": \"line:0f6413c\",\n  \"node\": \"TheoAfterEye_3\",\n  \"text\": \"Right...[p/] The body was probably reported earlier than Redmond expected.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a41a57540285ea4f",
     "original": "That meant he probably started the lockdown [i]while[/i] the Construct was still in the Locker Room.",
-    "translation": "",
+    "translation": "也就是说，很可能在他启动封锁系统的[i]同时[/i]，构造体还在储物室里。",
     "context": "{\n  \"id\": \"line:0d06d69\",\n  \"node\": \"TheoAfterEye_3\",\n  \"text\": \"That meant he probably started the lockdown [i]while[/i] the Construct was still in the Locker Room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::36499affc5a931d3",
     "original": "But does this change anything?",
-    "translation": "",
+    "translation": "但这会改变什么吗？",
     "context": "{\n  \"id\": \"line:096a4da\",\n  \"node\": \"TheoAfterEye_3\",\n  \"text\": \"But does this change anything?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ff74736fabad1774",
     "original": "No...[p/] The lockdown prevented the Construct from leaving the Locker Room.",
-    "translation": "",
+    "translation": "不对……[p/]封锁阻止了奥术构造体离开储物柜室。",
     "context": "{\n  \"id\": \"line:02a3652\",\n  \"node\": \"TheoAfterEye_4\",\n  \"text\": \"No...[p/] The lockdown prevented the Construct from leaving the Locker Room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d7af9ae8a8149e0e",
     "original": "Would that have affected any of the elements at play during that time?",
-    "translation": "",
+    "translation": "那这段时间，构造体的行动会有受到其他影响吗？",
     "context": "{\n  \"id\": \"line:0c7d94d\",\n  \"node\": \"TheoAfterEye_4\",\n  \"text\": \"Would that have affected any of the elements at play during that time?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b0e54719cc07f444",
     "original": "Right...[p/] The series of commands would have been interrupted...",
-    "translation": "",
+    "translation": "对啊……[p/]指令的序列会被干扰……",
     "context": "{\n  \"id\": \"line:0beedb6\",\n  \"node\": \"TheoAfterEye_5\",\n  \"text\": \"Right...[p/] The series of commands would have been interrupted...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6eb282779764ba53",
     "original": "Wait a minute!",
-    "translation": "",
+    "translation": "等等！",
     "context": "{\n  \"id\": \"line:035640f\",\n  \"node\": \"TheoAfterEye_5\",\n  \"text\": \"Wait a minute!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::156ade3ccf0d4818",
     "original": "MIRIAM: Constructs execute a series of commands in the order that they are given.",
-    "translation": "",
+    "translation": "MIRIAM: 奥术构造体会按照顺序，执行收到的一系列指令。",
     "context": "{\n  \"id\": \"line:0c31939\",\n  \"node\": \"TheoAfterEye_5\",\n  \"text\": \"MIRIAM: Constructs execute a series of commands in the order that they are given.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d9f8fbefac94e684",
     "original": "MIRIAM: But let’s say one of those tasks is impossible to complete.",
-    "translation": "",
+    "translation": "MIRIAM: 但我们假设其中有些任务是无法完成的。",
     "context": "{\n  \"id\": \"line:00e4ef8\",\n  \"node\": \"TheoAfterEye_5\",\n  \"text\": \"MIRIAM: But let’s say one of those tasks is impossible to complete.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::44b0f79fa9456b1c",
     "original": "MIRIAM: When the Construct gets to that task,[p/] it will deem the entire series impossible to complete.",
-    "translation": "",
+    "translation": "MIRIAM: 当奥术构造体开始执行无法完成的任务时，[p/]它会认定整套命令都无法执行。",
     "context": "{\n  \"id\": \"line:0837036\",\n  \"node\": \"TheoAfterEye_5\",\n  \"text\": \"MIRIAM: When the Construct gets to that task,[p/] it will deem the entire series impossible to complete.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bf488096707b8dc6",
     "original": "MIRIAM: As a result,[p/] it will stop executing the series altogether.",
-    "translation": "",
+    "translation": "MIRIAM: 结果就是，[p/]它会停止执行全部任务。",
     "context": "{\n  \"id\": \"line:0eefb6d\",\n  \"node\": \"TheoAfterEye_5\",\n  \"text\": \"MIRIAM: As a result,[p/] it will stop executing the series altogether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0ea620886a6d168c",
     "original": "Celeste: So if a task in a series of commands is impossible,[p/] then that command will interrupt the entire series.",
-    "translation": "",
+    "translation": "Celestel: 也就是说如果一系列任务中之一无法完成，[p/]那么这个任务会中断后续任务的进行。",
     "context": "{\n  \"id\": \"line:0902785\",\n  \"node\": \"TheoAfterEye_5\",\n  \"text\": \"Celeste: So if a task in a series of commands is impossible,[p/] then that command will interrupt the entire series.\"\n}"
   },
   {
