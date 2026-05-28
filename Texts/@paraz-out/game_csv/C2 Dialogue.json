@@ -13351,155 +13351,155 @@
   {
     "key": "C2 Dialogue.csv::translation::8c0f1572986fab79",
     "original": "If Redmond was trying to cover his tracks,[p/] the Construct’s [i]final[/i] command would be to wipe its memory...",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果雷德蒙有尝试掩盖自己的行踪，[p/]构造体接收的[i]最后一条[/i]指令一定是抹除所有记录……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:080cba1\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"If Redmond was trying to cover his tracks,[p/] the Construct’s [i]final[/i] command would be to wipe its memory...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0f011ca4170b9b7f",
     "original": "But if its orders were interrupted by the lockdown,[p/] then—!",
-    "translation": "",
-    "stage": 0,
+    "translation": "但如果指令因封锁启动而中断，[p/]那么——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04429b4\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"But if its orders were interrupted by the lockdown,[p/] then—!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3375ced67b9aaa6e",
     "original": "TYRION: Ms. Steelwind,[p/] I have nothing more to ask this witness.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 斯蒂尔文德女士，[p/]我没有要向证人询问的问题了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02c9b64\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"TYRION: Ms. Steelwind,[p/] I have nothing more to ask this witness.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4ad6ae14373dc76f",
     "original": "AriaC: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eeae3f\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"AriaC: What?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9c18fdcdda41349b",
     "original": "CELESTE: You’re not giving up, are you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你还没放弃对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05215ef\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"CELESTE: You’re not giving up, are you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0fe05d221d5dc616",
     "original": "CELESTE: Yeah...[p/] I thought so,[p/] but how are you going to prove he did it if he’s not on the stand?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 是啊……[p/]我也觉得你不会放弃，[p/]但他都不在证人席上，你要怎么证明是他干的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:002f662\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"CELESTE: Yeah...[p/] I thought so,[p/] but how are you going to prove he did it if he’s not on the stand?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::801bd06840f766d2",
     "original": "TYRION: Don’t worry.[p/] The next witness’s testimony will be all I need.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 别担心，[p/]只要下一个证人的证言就足够了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d7b69f\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"TYRION: Don’t worry.[p/] The next witness’s testimony will be all I need.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f4a49eb8a6a752ed",
     "original": "CELESTE: \"Next\" witness?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: “下一个”证人？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0beb659\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"CELESTE: \\\"Next\\\" witness?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2de164ad2c87e5f7",
     "original": "AriaC: That look on your face isn’t one of resignation...",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你脸上可不是放弃希望的表情……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08104fb\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"AriaC: That look on your face isn’t one of resignation...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6831415ea177d14c",
     "original": "THEODORE: Ha![p/][s/] It’s nothing but desperate bravado.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 哈！[p/][s/]不过是深陷绝望之中的垂死挣扎罢了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:027a686\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"THEODORE: Ha![p/][s/] It’s nothing but desperate bravado.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f38dd0e713f890ee",
     "original": "THEODORE: Now,[p/] if you’ll excuse me...",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 现在，[p/]恕我失陪……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e05fae\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"THEODORE: Now,[p/] if you’ll excuse me...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::10f8e52920115daf",
     "original": "AriaC: ...You’ve let him get away, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……你让他就这么走了，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f0435a\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"AriaC: ...You’ve let him get away, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::334fc72d71413bdb",
     "original": "AriaC: I hope you know what you’re doing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我希望你清楚自己在做什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093e6ec\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"AriaC: I hope you know what you’re doing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::02ff3b03eedf01c2",
     "original": "TYRION: I do, Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我很清楚，斯蒂尔文德。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e45a1a\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"TYRION: I do, Steelwind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dbf57abc5e402f85",
     "original": "TYRION: First,[p/] I’d like for the Inquisition to bring in the Arcane Construct in the academy’s locker room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 首先，[p/]我想请裁判所将位于学院储物柜室里的奥术构造体带到法庭上来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:075d407\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"TYRION: First,[p/] I’d like for the Inquisition to bring in the Arcane Construct in the academy’s locker room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0c3177945520de7f",
     "original": "AriaC: We’ve already established that the murderer could have wiped its history.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我们已经确认了，凶手很可能抹消了它存储的日志。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:072a363\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"AriaC: We’ve already established that the murderer could have wiped its history.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::26e650ce0dae15a5",
     "original": "TYRION: Please...[p/] Just humor me for a second.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 拜托……[p/]这次你就稍微迁就我一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c704a7\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"TYRION: Please...[p/] Just humor me for a second.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::74bfe8c6a625a221",
     "original": "AriaC: ...Fine.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……那好吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:049a2bd\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"AriaC: ...Fine.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3ac646a3deee3a0d",
     "original": "AriaC: Bailiff,[p/] please relay Mr. Cuthbert's request to Commander White.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 法警，[p/]请将卡斯伯特先生的要求传达给怀特指挥官。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d99340\",\n  \"node\": \"TheoAfterEye_6\",\n  \"text\": \"AriaC: Bailiff,[p/] please relay Mr. Cuthbert's request to Commander White.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a9b31344fc0d0e19",
     "original": "AriaC: Well...[p/] Here's your Construct.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 来了…….[p/]你要的构造体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f4b88d\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"AriaC: Well...[p/] Here's your Construct.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ee7cabf5f5f030d5",
     "original": "AriaC: I hope you know what you're doing, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 卡斯伯特先生，我希望你知道自己要做什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ae4042\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"AriaC: I hope you know what you're doing, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe59e3eae8628972",
     "original": "TYRION: Construct!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 奥术构造体！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0113f60\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"TYRION: Construct!\"\n}"
   },
   {
