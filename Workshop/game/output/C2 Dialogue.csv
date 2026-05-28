@@ -2087,123 +2087,123 @@ line:0d99340,TheoAfterEye_6,"AriaC: Bailiff,[p/] please relay Mr. Cuthbert's req
 line:0f4b88d,TheoAfterEye_7,AriaC: Well...[p/] Here's your Construct.,AriaC: 来了…….[p/]你要的构造体。
 line:0ae4042,TheoAfterEye_7,"AriaC: I hope you know what you're doing, Mr. Cuthbert.",AriaC: 卡斯伯特先生，我希望你知道自己要做什么。
 line:0113f60,TheoAfterEye_7,TYRION: Construct!,TYRION: 奥术构造体！
-line:038449b,TheoAfterEye_7,Construct: WHAT ARE YOUR ORDERS?,
-line:07ef7bb,TheoAfterEye_7,TYRION: Please recite your command history.,
-line:0591fd1,TheoAfterEye_7,Construct: REPORTING.,
-line:002dfef,TheoAfterEye_7,Construct: COMMAND 1:[p/] STANDBY IN \[Headmaster’s Office\].,
-line:0d24433,TheoAfterEye_7,Construct: COMMAND 2:[p/] AWAIT VOCAL SIGNAL \[“Attack!”\] FROM \[Theodore Redmond\].,
-line:00d4238,TheoAfterEye_7,"Redmond stood up from the gallery,[p/] his face turning from confusion into terrified realization.",
-line:0900300,TheoAfterEye_7,"Steelwind watched him carefully,[p/] clutching the handle of her cane.",
-line:0c08792,TheoAfterEye_7,Construct: COMMAND 3:[p/] TREAT \[Catherine Bellwether\] AS A HOSTILE ENTITY AND NEUTRALIZE.,
+line:038449b,TheoAfterEye_7,Construct: WHAT ARE YOUR ORDERS?,Construct: <size=1.5em>有何命令？</size>
+line:07ef7bb,TheoAfterEye_7,TYRION: Please recite your command history.,TYRION: 请复述你的历史指令。
+line:0591fd1,TheoAfterEye_7,Construct: REPORTING.,Construct: <size=1.5em>报告：</size>
+line:002dfef,TheoAfterEye_7,Construct: COMMAND 1:[p/] STANDBY IN \[Headmaster’s Office\].,Construct: <size=1.5em>命令1：[p/]在\[校长办公室\]待命。</size>
+line:0d24433,TheoAfterEye_7,Construct: COMMAND 2:[p/] AWAIT VOCAL SIGNAL \[“Attack!”\] FROM \[Theodore Redmond\].,Construct: <size=1.5em>命令2：[p/]等待\[西奥多·雷德蒙\]的\[“攻击！”\]声音信号。</size>
+line:00d4238,TheoAfterEye_7,"Redmond stood up from the gallery,[p/] his face turning from confusion into terrified realization.",雷德蒙从旁听席上突然站起，[p/]表情从困惑变成惊恐的领悟。
+line:0900300,TheoAfterEye_7,"Steelwind watched him carefully,[p/] clutching the handle of her cane.",斯蒂尔文德警惕地盯住他，[p/]攥紧了手杖的把手。
+line:0c08792,TheoAfterEye_7,Construct: COMMAND 3:[p/] TREAT \[Catherine Bellwether\] AS A HOSTILE ENTITY AND NEUTRALIZE.,Construct: <size=1.5em>命令3：[p/]将\[凯瑟琳·贝尔维瑟\]视为敌对单位，并消灭该对象。</size>
 line:024a834,TheoAfterEye_7,THEODORE: ...!,THEODORE: ……！
-line:0a7cf46,TheoAfterEye_7,THEODORE: Construct![p/][s/] Wipe your—!,
-line:0c9c4cc,TheoAfterEye_7,AriaC: [i]Hodl[/i]!,
-line:0c7b10a,TheoAfterEye_7,"Before he could finish his order,[p/] the prosecutor whipped out her cane and pointed it square at the headmaster.",
-line:0ee663a,TheoAfterEye_7,"The headmaster tensed as his body tightened and he fell over,[p/] restrained by magical energy.",
+line:0a7cf46,TheoAfterEye_7,THEODORE: Construct![p/][s/] Wipe your—!,THEODORE: 奥术构造体！[p/][s/]清除你的——！
+line:0c9c4cc,TheoAfterEye_7,AriaC: [i]Hodl[/i]!,AriaC: [i]Hodl[/i]！
+line:0c7b10a,TheoAfterEye_7,"Before he could finish his order,[p/] the prosecutor whipped out her cane and pointed it square at the headmaster.",还没等他说完命令，[p/]检察官突然抽出手杖直指校长。
+line:0ee663a,TheoAfterEye_7,"The headmaster tensed as his body tightened and he fell over,[p/] restrained by magical energy.",校长身体突然紧绷，摔倒在地，[p/]被魔力束缚住了。
 line:05db93e,TheoAfterEye_7,THEODORE: ...!,THEODORE: ……！
-line:0b2976a,TheoAfterEye_8,He struggled against the spell to no avail.[p/] He could only watch through gritted teeth as the Construct continued.,
-line:0f6b042,TheoAfterEye_8,JUDGE: M-[p/][s/]Ms. Steelwind?!,
-line:0cd7707,TheoAfterEye_8,AriaC: Excuse the interruption.[p/] Please continue.,
-line:0beee3a,TheoAfterEye_8,Construct: COMMAND 4:[p/] AWAIT VOCAL SIGNAL “Leave” FROM \[Theodore Redmond\].,
-line:0d10c1f,TheoAfterEye_8,Construct: COMMAND 5:[p/] MOVE TO CLASSROOM 2-B. REPLY TO ANY INQUIRIES WITH VOICE LINE #3,
-line:040e93f,TheoAfterEye_8,Construct: COMMAND 6:[p/] REMOVE \[Catherine Bellwether\] FROM INTERIOR FRAME AND PLACE ON FLOOR.,
-line:0a93156,TheoAfterEye_8,"TYRION: Thank you, Construct.",
-line:0a032c7,TheoAfterEye_8,TYRION: You can stop now.[p/] I think we all know the rest.,
-line:0de8e08,TheoAfterEye_8,"TYRION: But just to be clear,[p/] who gave you this series of commands?",
-line:04520b4,TheoAfterEye_8,Construct: COMMANDS WERE PROVIDED BY Headmaster \[Theodore Redmond\].,
-line:02f324c,TheoAfterEye_8,THEODORE: How...?[p/][s/] HOW?!,
-line:029f4de,TheoAfterEye_8,THEODORE: I ordered the Construct to wipe its command history!,
-line:00d9c2e,TheoAfterEye_8,"TYRION: Redmond,[p/] Constructs don’t follow the same logic that humans do.",
-line:07c580a,TheoAfterEye_8,TYRION: They’re prone to error when their commands are impossible to execute.,
-line:0c922dd,TheoAfterEye_8,THEODORE: “Impossible”?![p/][s/] How were my commands impossible?!,
-line:03728e3,TheoAfterEye_8,TYRION: You were the one that [i]made[/i] it impossible.,
-line:06a9673,TheoAfterEye_8,TYRION: You activated the lockdown system.,
-line:00f2f5b,TheoAfterEye_8,THEODORE: The lockdown...?,
-line:07e5b21,TheoAfterEye_9,TYRION: I imagine you never expected anyone to go to Lecture Hall 2-B.,
-line:0dd6edf,TheoAfterEye_9,Tyrion: But the Ianus twins discovered the body earlier than you expected.,
-line:08fb6ad,TheoAfterEye_9,TYRION: You had no choice but to immediately activate the lockdown system when it was reported.[p/] It would have been suspicious otherwise.,
-line:0d31e34,TheoAfterEye_9,"TYRION: However,[p/][s/] the Construct was still in the Locker Room when you did this.",
-line:0a67127,TheoAfterEye_9,THEODORE: So [i]that’s[/i] why it was there...,
-line:0001672,TheoAfterEye_9,"TYRION: The Construct finished its tasks in the Locker Room,[p/] but then it tried to follow your next command.",
-line:005726c,TheoAfterEye_9,"TYRION: It attempted to move to the Storage Room,[p/] but was prevented from doing so.",
-line:0b17421,TheoAfterEye_9,TYRION: Completion of that command was impossible.,
-line:058a2f2,TheoAfterEye_9,"TYRION: So,[p/] the series of commands was stopped [i]before[/i] it wiped its history.",
-line:0c07d69,TheoAfterEye_9,THEODORE: No...!,
-line:002fe52,TheoAfterEye_9,TYRION: Theodore Redmond![p/][s/] You ordered your Construct to murder Catherine Bellwether.,
-line:0389067,TheoAfterEye_9,TYRION: Then you had it place the murder weapon in a locker to frame Miriam Frega!,
-line:0267e8e,TheoAfterEye_9,TYRION: And we have your Construct’s testimony to prove it!,
-line:0cc35e2,TheoAfterEye_9,"Tyrion: ...That's your last move, Redmond.[p/] That’s checkmate.",
-line:0f5f3e0,TheoAfterEye_10,AriaC: I...[p/] can’t believe it...,
-line:0181ac9,TheoAfterEye_10,"AriaC: How could you do something like this, Headmaster?",
-line:0c00bf8,TheoAfterEye_10,THEODORE: ...She was going to take everything from me.,
-line:0d05465,TheoAfterEye_10,THEODORE: My position.[p/][p/][s/] My academy.[p/][p/][s/] My students.,
-line:07c2bb5,TheoAfterEye_10,THEODORE: Everything would be gone.[p/][s/] It was going to be [i]stolen[/i] by her and the Fregas!,
-line:01aa506,TheoAfterEye_10,AriaC: I—,
-line:023ac6e,TheoAfterEye_10,AriaC: Why didn’t you say anything...?,
-line:06d5702,TheoAfterEye_10,AriaC: I could have—,
-line:0680e09,TheoAfterEye_10,"THEODORE: Don’t you [i]dare[/i] stand there and act ignorant, Lady Steelwind!",
-line:09811d4,TheoAfterEye_10,THEODORE: Do you think the Fregas acted alone?!,
-line:0a069b3,TheoAfterEye_10,"THEODORE: The Grand General is also on the school board,[p/] and he endorsed this plan just as much as they did!",
+line:0b2976a,TheoAfterEye_8,He struggled against the spell to no avail.[p/] He could only watch through gritted teeth as the Construct continued.,他拼命在法术下挣扎，但无济于事。[p/]他只得紧咬牙关，眼睁睁看着构造体继续读下去。
+line:0f6b042,TheoAfterEye_8,JUDGE: M-[p/][s/]Ms. Steelwind?!,JUDGE: 斯、[p/][s/]斯蒂尔文德女士？！
+line:0cd7707,TheoAfterEye_8,AriaC: Excuse the interruption.[p/] Please continue.,AriaC: 抱歉擅自打断庭审。[p/]请继续吧。
+line:0beee3a,TheoAfterEye_8,Construct: COMMAND 4:[p/] AWAIT VOCAL SIGNAL “Leave” FROM \[Theodore Redmond\].,Construct: <size=1.5em>命令4：[p/]等待\[西奥多·雷德蒙\]的“离开”声音信号。</size>
+line:0d10c1f,TheoAfterEye_8,Construct: COMMAND 5:[p/] MOVE TO CLASSROOM 2-B. REPLY TO ANY INQUIRIES WITH VOICE LINE #3,Construct: <size=1.5em>命令5：[p/]移动至教室 2-B，过程中使用预设声音 #3 回复一切询问。</size>
+line:040e93f,TheoAfterEye_8,Construct: COMMAND 6:[p/] REMOVE \[Catherine Bellwether\] FROM INTERIOR FRAME AND PLACE ON FLOOR.,Construct: <size=1.5em>命令6：[p/]将\[凯瑟琳·贝尔维瑟\]从内部取出并放置于地上。</size>
+line:0a93156,TheoAfterEye_8,"TYRION: Thank you, Construct.",TYRION: 奥术构造体，感谢你的陈述。
+line:0a032c7,TheoAfterEye_8,TYRION: You can stop now.[p/] I think we all know the rest.,TYRION: 你可以停止运行了，[p/]我想剩下的我们都知道了。
+line:0de8e08,TheoAfterEye_8,"TYRION: But just to be clear,[p/] who gave you this series of commands?",TYRION: 但有一点请你说清楚，[p/]是谁给予你这一系列的命令的？
+line:04520b4,TheoAfterEye_8,Construct: COMMANDS WERE PROVIDED BY Headmaster \[Theodore Redmond\].,Construct: <size=1.5em>命令由校长\[西奥多·雷德蒙\]所提供。</size>
+line:02f324c,TheoAfterEye_8,THEODORE: How...?[p/][s/] HOW?!,THEODORE: 怎么可能……？[p/][s/] <size=1.5em>这怎么可能？！</size>
+line:029f4de,TheoAfterEye_8,THEODORE: I ordered the Construct to wipe its command history!,THEODORE: 我命令过奥术构造体清除它的历史记录！
+line:00d9c2e,TheoAfterEye_8,"TYRION: Redmond,[p/] Constructs don’t follow the same logic that humans do.",TYRION: 雷德蒙，[p/]构造体和人类的逻辑思维不同。
+line:07c580a,TheoAfterEye_8,TYRION: They’re prone to error when their commands are impossible to execute.,TYRION: 当命令不可能执行时，它们就很容易出错。
+line:0c922dd,TheoAfterEye_8,THEODORE: “Impossible”?![p/][s/] How were my commands impossible?!,THEODORE: “不可能”？！[p/][s/]我的命令怎么会是不可能的？！
+line:03728e3,TheoAfterEye_8,TYRION: You were the one that [i]made[/i] it impossible.,TYRION: <u>导致</u>命令无法执行的正是你自己。
+line:06a9673,TheoAfterEye_8,TYRION: You activated the lockdown system.,TYRION: 你激活了学院的封锁系统。
+line:00f2f5b,TheoAfterEye_8,THEODORE: The lockdown...?,THEODORE: 封锁系统……？
+line:07e5b21,TheoAfterEye_9,TYRION: I imagine you never expected anyone to go to Lecture Hall 2-B.,TYRION: 我想你根本没想过会有人进入2-B号讲堂。
+line:0dd6edf,TheoAfterEye_9,Tyrion: But the Ianus twins discovered the body earlier than you expected.,Tyrion: 但伊努斯姐妹在比你预想更早的时候发现了尸体。
+line:08fb6ad,TheoAfterEye_9,TYRION: You had no choice but to immediately activate the lockdown system when it was reported.[p/] It would have been suspicious otherwise.,TYRION: 你别无选择只能在案件被通报时立即激活封锁系统。[p/]否则你自己就会收到怀疑。
+line:0d31e34,TheoAfterEye_9,"TYRION: However,[p/][s/] the Construct was still in the Locker Room when you did this.",TYRION: 然而，[p/][s/]当时奥术构造体还在储物柜室里。
+line:0a67127,TheoAfterEye_9,THEODORE: So [i]that’s[/i] why it was there...,THEODORE: 原来<u>这</u>就是为什么它在那……
+line:0001672,TheoAfterEye_9,"TYRION: The Construct finished its tasks in the Locker Room,[p/] but then it tried to follow your next command.",TYRION: 奥术构造体完成了在储物柜室里的任务。[p/]……但之后它试图进行下一项指令。
+line:005726c,TheoAfterEye_9,"TYRION: It attempted to move to the Storage Room,[p/] but was prevented from doing so.",TYRION: 它尝试移动至储藏室，[p/]但动作被阻止了。
+line:0b17421,TheoAfterEye_9,TYRION: Completion of that command was impossible.,TYRION: 这一项指令不可能完成。
+line:058a2f2,TheoAfterEye_9,"TYRION: So,[p/] the series of commands was stopped [i]before[/i] it wiped its history.",TYRION: 所以，[p/]指令的执行停止在了清除历史记录<u>之前</u>。
+line:0c07d69,TheoAfterEye_9,THEODORE: No...!,THEODORE: 不……！
+line:002fe52,TheoAfterEye_9,TYRION: Theodore Redmond![p/][s/] You ordered your Construct to murder Catherine Bellwether.,TYRION: 西奥多·雷德蒙！[p/][s/]你命令奥术构造体杀害凯瑟琳·贝尔维瑟。
+line:0389067,TheoAfterEye_9,TYRION: Then you had it place the murder weapon in a locker to frame Miriam Frega!,TYRION: 之后命令其将凶器放在储物柜里，试图陷害米莉亚姆·弗雷加！
+line:0267e8e,TheoAfterEye_9,TYRION: And we have your Construct’s testimony to prove it!,TYRION: 我们有奥术构造体的证言来证实这一切！
+line:0cc35e2,TheoAfterEye_9,"Tyrion: ...That's your last move, Redmond.[p/] That’s checkmate.",Tyrion: ……无处可逃了，雷德蒙。[p/]将死。
+line:0f5f3e0,TheoAfterEye_10,AriaC: I...[p/] can’t believe it...,AriaC: 我……[p/无法相信……
+line:0181ac9,TheoAfterEye_10,"AriaC: How could you do something like this, Headmaster?",AriaC: 您怎会做出这样的事，校长？
+line:0c00bf8,TheoAfterEye_10,THEODORE: ...She was going to take everything from me.,THEODORE: ……她要夺走我的一切。
+line:0d05465,TheoAfterEye_10,THEODORE: My position.[p/][p/][s/] My academy.[p/][p/][s/] My students.,THEODORE: 我的职位。[p/][p/][s/]我的学院。[p/][p/][s/]我的学生。
+line:07c2bb5,TheoAfterEye_10,THEODORE: Everything would be gone.[p/][s/] It was going to be [i]stolen[/i] by her and the Fregas!,THEODORE: 我的一切都将化为乌有。[p/][s/]这一切都会被她和弗雷加家族的人<u>偷走</u>！
+line:01aa506,TheoAfterEye_10,AriaC: I—,AriaC: 我——
+line:023ac6e,TheoAfterEye_10,AriaC: Why didn’t you say anything...?,AriaC: 你为什么不说出来呢……？
+line:06d5702,TheoAfterEye_10,AriaC: I could have—,AriaC: 我本可以——
+line:0680e09,TheoAfterEye_10,"THEODORE: Don’t you [i]dare[/i] stand there and act ignorant, Lady Steelwind!",THEODORE: 少站在那装无辜了！斯蒂尔文德小姐！
+line:09811d4,TheoAfterEye_10,THEODORE: Do you think the Fregas acted alone?!,THEODORE: 你以为弗雷加家是单独行事的吗？！
+line:0a069b3,TheoAfterEye_10,"THEODORE: The Grand General is also on the school board,[p/] and he endorsed this plan just as much as they did!",THEODORE: 大将军也是学院董事会的一员，[p/]而他对这个计划的喜爱与其他人没有分别！
 line:013ff1d,TheoAfterEye_10,AriaC: W-[p/][s/]What?!,AriaC: 什、[p/][s/]什么？！
-line:0d3ada3,TheoAfterEye_10,THEODORE: I have nothing to say to you.,
-line:0a84f55,TheoAfterEye_10,THEODORE: I thought you were different.[p/] I listened to you and the prince's lies about societal reform.,
-line:0ffa609,TheoAfterEye_10,"THEODORE: In the end,[p/] you were just like the rest of them...",
+line:0d3ada3,TheoAfterEye_10,THEODORE: I have nothing to say to you.,THEODORE: 我和你没什么好说的。
+line:0a84f55,TheoAfterEye_10,THEODORE: I thought you were different.[p/] I listened to you and the prince's lies about societal reform.,THEODORE: 我本以为你不一样。[p/]我听信了你和王子关于社会改革的谎言。
+line:0ffa609,TheoAfterEye_10,"THEODORE: In the end,[p/] you were just like the rest of them...",THEODORE: 归根结底，[p/]你与他们是一样的……
 line:013aaf6,TheoAfterEye_10,AriaC: ...,AriaC: ……
-line:0f764b4,TheoAfterEye_10,"THEODORE: By the Scaled Lord,[p/] what have I done?",
-line:0ed7f50,TheoAfterEye_10,THEODORE: I was even willing to sacrifice poor Wallace...,
-line:03d38d2,TheoAfterEye_10,THEODORE: Why did I ever listen to[p/],
-line:0ba9570,TheoAfterEye_11,Theodore: Why did I do this?,
-line:04955e9,TheoAfterEye_11,JUDGE: ...It appears we have a full confession.,
-line:010f75a,TheoAfterEye_11,JUDGE: The court sees no reason to prolong this any further.,
-line:0ce0291,TheoAfterEye_11,"JUDGE: Bailiff,[p/] please escort the witness to a holding cell.",
-line:0df7936,TheoAfterEye_11,WALLACE: Mr. Cuthbert![p/][s/] You...[p/][s/] You really did it!,
-line:0503f1a,TheoAfterEye_11,"CELESTE: It feels amazing, right?[p/] Like a big weight being lifted from your shoulders.",
-line:0cd6095,TheoAfterEye_11,"WALLACE: It does,[p/] but Headmaster Redmond—",
-line:0b97bcd,TheoAfterEye_11,WALLACE: What am I going to do now...?,
-line:01f97fd,TheoAfterEye_11,WALLACE: Headmaster Redmond was the only reason I could even [i]attend[/i] the Academy.,
-line:0e8464c,TheoAfterEye_11,WALLACE: If the school board replaces him with someone like Bellwether—,
-line:0e8b3ed,TheoAfterEye_11,CELESTE: C-[p/][s/]Come on![p/][s/] Don’t think like that!,
-line:09d3474,TheoAfterEye_11,CELESTE: You've been acquitted![p/][s/] You still have your freedom!,
-line:0a5fda0,TheoAfterEye_11,"I wanted to agree,[p/] but the study of [b]necromancy[/b] was outlawed.",
-line:01ea226,TheoAfterEye_11,"Without Redmond’s support,[p/] there weren’t many places he [i]could[/i] learn it.",
-line:062fc69,TheoAfterEye_11,And then there was staff at the Imperial Academy...,
-line:03400fd,TheoAfterEye_12,"CELESTE: H-[p/]Hey,[p/][s/] not you too!",
-line:0f58165,TheoAfterEye_12,"TYRION: Sorry...[p/] But Valentina,[p/] Valerie,[p/] and Jan.[p/] They’re all going to lose their jobs.",
-line:0bc4c11,TheoAfterEye_12,CELESTE: Come on![p/][s/] You found the truth [i]and[/i] you put a murderer behind bars!,
-line:0f8ce78,TheoAfterEye_12,CELESTE: You saved Wallace!,
-line:0bafd2e,TheoAfterEye_12,Ruby: She's right.,
-line:04ff16d,TheoAfterEye_12,"As we exited the courtroom,[p/] we were greeted by Ms. Tymora.",
-line:0eb82ed,TheoAfterEye_12,"Ruby: At the end of the day,[p/] you saved Wallace from a wrongful conviction.",
-line:011041f,TheoAfterEye_12,Ruby: You did what you set out to do.[p/] You should be proud of yourself for that.,
+line:0f764b4,TheoAfterEye_10,"THEODORE: By the Scaled Lord,[p/] what have I done?",THEODORE: 鳞甲领主啊，[p/]我到底做了什么？
+line:0ed7f50,TheoAfterEye_10,THEODORE: I was even willing to sacrifice poor Wallace...,THEODORE: 我甚至甘愿去牺牲可怜的华莱士……
+line:03d38d2,TheoAfterEye_10,THEODORE: Why did I ever listen to[p/],THEODORE: 为何我会听信[p/]
+line:0ba9570,TheoAfterEye_11,Theodore: Why did I do this?,Theodore: 为何我会做出这种事？
+line:04955e9,TheoAfterEye_11,JUDGE: ...It appears we have a full confession.,JUDGE: ……看来已经全盘招供了。
+line:010f75a,TheoAfterEye_11,JUDGE: The court sees no reason to prolong this any further.,JUDGE: 法庭认为没有理由再继续拖延此案。
+line:0ce0291,TheoAfterEye_11,"JUDGE: Bailiff,[p/] please escort the witness to a holding cell.",JUDGE: 法警，[p/]请押送证人到拘留所。
+line:0df7936,TheoAfterEye_11,WALLACE: Mr. Cuthbert![p/][s/] You...[p/][s/] You really did it!,WALLACE: 卡斯伯特先生！[p/][s/]你……[p/][s/]你真的做到了！
+line:0503f1a,TheoAfterEye_11,"CELESTE: It feels amazing, right?[p/] Like a big weight being lifted from your shoulders.",CELESTE: 感觉如梦似幻对吧？[p/]一种如释重负的感觉。
+line:0cd6095,TheoAfterEye_11,"WALLACE: It does,[p/] but Headmaster Redmond—",WALLACE: 确实如此，[p/]但是雷德蒙校长——
+line:0b97bcd,TheoAfterEye_11,WALLACE: What am I going to do now...?,WALLACE: 我现在该怎么办呢……？
+line:01f97fd,TheoAfterEye_11,WALLACE: Headmaster Redmond was the only reason I could even [i]attend[/i] the Academy.,WALLACE: 我能在学院<u>上学</u>都是因为雷德蒙校长。
+line:0e8464c,TheoAfterEye_11,WALLACE: If the school board replaces him with someone like Bellwether—,WALLACE: 如果董事会用另一个贝尔维瑟那样的人取代他——
+line:0e8b3ed,TheoAfterEye_11,CELESTE: C-[p/][s/]Come on![p/][s/] Don’t think like that!,CELESTE: 没、[p/][s/]没事的！[p/][s/]别那样想！
+line:09d3474,TheoAfterEye_11,CELESTE: You've been acquitted![p/][s/] You still have your freedom!,CELESTE: 你已经脱罪了！[p/][s/]你仍是自由之身啊！
+line:0a5fda0,TheoAfterEye_11,"I wanted to agree,[p/] but the study of [b]necromancy[/b] was outlawed.",我想要附和赞同，[p/]但研习[b]死灵术[/b]是违法的。
+line:01ea226,TheoAfterEye_11,"Without Redmond’s support,[p/] there weren’t many places he [i]could[/i] learn it.",没有了雷德蒙的支持，[p/]世上可没多少<u>能</u>供他研究的地方。
+line:062fc69,TheoAfterEye_11,And then there was staff at the Imperial Academy...,还有王国学院的员工们……
+line:03400fd,TheoAfterEye_12,"CELESTE: H-[p/]Hey,[p/][s/] not you too!",CELESTE: 嘿、[p/]嘿！[p/][s/]别你也这么一副样子啊！
+line:0f58165,TheoAfterEye_12,"TYRION: Sorry...[p/] But Valentina,[p/] Valerie,[p/] and Jan.[p/] They’re all going to lose their jobs.",TYRION: 不好意思……[p/]但想想瓦伦蒂娜，[p/]瓦莱丽，[p/]还有简。[p/]他们都要丢掉工作了。
+line:0bc4c11,TheoAfterEye_12,CELESTE: Come on![p/][s/] You found the truth [i]and[/i] you put a murderer behind bars!,CELESTE: 别想这些啦！[p/][s/]你找到了真相，<u>还</u>把真凶送进了监狱！
+line:0f8ce78,TheoAfterEye_12,CELESTE: You saved Wallace!,CELESTE: 你救了华莱士！
+line:0bafd2e,TheoAfterEye_12,Ruby: She's right.,Ruby: 她说得对。
+line:04ff16d,TheoAfterEye_12,"As we exited the courtroom,[p/] we were greeted by Ms. Tymora.",我们离开法庭时，[p/]泰摩拉女士向我们打招呼。
+line:0eb82ed,TheoAfterEye_12,"Ruby: At the end of the day,[p/] you saved Wallace from a wrongful conviction.",Ruby: 今天，[p/]你将华莱士从冤罪中解救出来。
+line:011041f,TheoAfterEye_12,Ruby: You did what you set out to do.[p/] You should be proud of yourself for that.,Ruby: 你完成了既定目标。[p/]你应当为此感到自豪。
 line:07560d6,TheoAfterEye_12,TYRION: ...,TYRION: ……
-line:0f7a4d8,TheoAfterEye_12,TYRION: I just wish I could do more.,
-line:032b480,TheoAfterEye_12,CELESTE: Nope![p/][s/] None of that!,
-line:092720a,TheoAfterEye_12,Celeste: I’m taking all of us to that restaurant we went to last time.,
-line:02c68cf,TheoAfterEye_12,TYRION: Do you...[p/] remember how much that place cost?,
-line:05d2317,TheoAfterEye_12,CELESTE: Don’t worry.[p/] I have plenty of gold.,
-line:0b1ce17,TheoAfterEye_12,TYRION: ...Am I the only one on this team not making any money?,
-line:044f7fc,TheoAfterEye_12,"Ruby: ...Why don't you meet us there, Celeste?",
-line:0c918b4,TheoAfterEye_12,Ruby: I need to talk with Tyrion for a moment.,
-line:0157f02,TheoAfterEye_12,Celeste: Alright.,
-line:0fb5794,TheoAfterEye_12,"Celeste: Let's go, Wallace!",
-line:06be91d,TheoAfterEye_12,Wallace: U-[p/][s/]Um...[p/] Okay...,
-line:082dff8,TheoAfterEye_13,Ruby: ...,
-line:0e4fc85,TheoAfterEye_13,"Ruby: ...You used that ability again, didn't you?",
-line:04a1838,TheoAfterEye_13,She didn't appear to be praising me...,
-line:0e092c2,TheoAfterEye_13,Tyrion: I-[p/]I did...[p/] I didn't really have a choice...,
-line:080154a,TheoAfterEye_13,"Ruby: The Eye of Horus is a powerful tool, Tyrion.",
-line:0aecb20,TheoAfterEye_13,Ruby: But that's twice now that you've used that ability to get out of a tough spot.,
-line:0612938,TheoAfterEye_13,Ruby: You can't keep relying on it if you want to grow.,
-line:0041470,TheoAfterEye_13,"Ruby: One day,[p/] you'll find a witness that it [i]won't[/i] work on.",
-line:08510b5,TheoAfterEye_13,"Tyrion: It's worked for me this far, though...",
-line:07f5a1b,TheoAfterEye_13,Ruby: ...,
-line:0fadd5f,TheoAfterEye_13,Tyrion: B-[p/][s/]But I suppose you're right.,
-line:0fa6c12,TheoAfterEye_13,Tyrion: I'll try to rely on it less next time...,
-line:0f55cf6,TheoAfterEye_13,TYRION: And that marked the end of another case in my career as a defense attorney.,
-line:070b139,TheoAfterEye_13,"TYRION: Another life saved,[p/] and another murderer brought to justice.",
-line:0744e57,TheoAfterEye_13,TYRION: ...But I still couldn’t shake this feeling of uneasiness.,
-line:00a24a4,TheoAfterEye_13,TYRION: Was it guilt for what would happen to the faculty staff?,
-line:0575ee5,TheoAfterEye_13,TYRION: ...Or was it something else?,
+line:0f7a4d8,TheoAfterEye_12,TYRION: I just wish I could do more.,TYRION: 我希望能做更多。
+line:032b480,TheoAfterEye_12,CELESTE: Nope![p/][s/] None of that!,CELESTE: 别！[p/][s/]别再想那个了！
+line:092720a,TheoAfterEye_12,Celeste: I’m taking all of us to that restaurant we went to last time.,Celeste: 我带大家去上次去的那间餐厅。
+line:02c68cf,TheoAfterEye_12,TYRION: Do you...[p/] remember how much that place cost?,TYRION: 你难道……[p/]忘了上次我们花了多少钱吗？
+line:05d2317,TheoAfterEye_12,CELESTE: Don’t worry.[p/] I have plenty of gold.,CELESTE: 没事的没事的，[p/]我很有钱。
+line:0b1ce17,TheoAfterEye_12,TYRION: ...Am I the only one on this team not making any money?,TYRION: ……我是这里唯一没赚到钱的人吗？
+line:044f7fc,TheoAfterEye_12,"Ruby: ...Why don't you meet us there, Celeste?",Ruby: ……我们就在那汇合吧，塞莱斯特。
+line:0c918b4,TheoAfterEye_12,Ruby: I need to talk with Tyrion for a moment.,Ruby: 我有些话想和提利昂聊聊。
+line:0157f02,TheoAfterEye_12,Celeste: Alright.,Celeste: 好。
+line:0fb5794,TheoAfterEye_12,"Celeste: Let's go, Wallace!",Celeste: 我们走吧，华莱士！
+line:06be91d,TheoAfterEye_12,Wallace: U-[p/][s/]Um...[p/] Okay...,Wallace: 唔、[p/][s/]嗯……[p/]好的……
+line:082dff8,TheoAfterEye_13,Ruby: ...,Ruby: ……
+line:0e4fc85,TheoAfterEye_13,"Ruby: ...You used that ability again, didn't you?",Ruby: ……你又用了那股力量，对吧？
+line:04a1838,TheoAfterEye_13,She didn't appear to be praising me...,听起来她并不是要夸奖我……
+line:0e092c2,TheoAfterEye_13,Tyrion: I-[p/]I did...[p/] I didn't really have a choice...,Tyrion: 我、[p/]我是用了…….[p/]我别无选择……
+line:080154a,TheoAfterEye_13,"Ruby: The Eye of Horus is a powerful tool, Tyrion.",Ruby: 荷鲁斯之眼是个强大的工具，提利昂。
+line:0aecb20,TheoAfterEye_13,Ruby: But that's twice now that you've used that ability to get out of a tough spot.,Ruby: 但你已经两次用那种力量来脱离困境了。
+line:0612938,TheoAfterEye_13,Ruby: You can't keep relying on it if you want to grow.,Ruby: 一直依赖它的话，你也难以成长。
+line:0041470,TheoAfterEye_13,"Ruby: One day,[p/] you'll find a witness that it [i]won't[/i] work on.",Ruby: 总有一天，[p/]你会遇到一个对他[i]不管用[/i]的证人。
+line:08510b5,TheoAfterEye_13,"Tyrion: It's worked for me this far, though...",Tyrion: 可到目前为止都能生效……
+line:07f5a1b,TheoAfterEye_13,Ruby: ...,Ruby: ……
+line:0fadd5f,TheoAfterEye_13,Tyrion: B-[p/][s/]But I suppose you're right.,Tyrion: 但、[p/][s/]但你说得没错。
+line:0fa6c12,TheoAfterEye_13,Tyrion: I'll try to rely on it less next time...,Tyrion: 我下次会尽力少依赖它的……
+line:0f55cf6,TheoAfterEye_13,TYRION: And that marked the end of another case in my career as a defense attorney.,TYRION: 这标志着我辩护律师生涯中另一个案件的结束。
+line:070b139,TheoAfterEye_13,"TYRION: Another life saved,[p/] and another murderer brought to justice.",TYRION: 又拯救了一条无辜的性命，[p/]又一名凶手被绳之以法。
+line:0744e57,TheoAfterEye_13,TYRION: ...But I still couldn’t shake this feeling of uneasiness.,TYRION: ……但我仍无法摆脱这种不安的感觉。
+line:00a24a4,TheoAfterEye_13,TYRION: Was it guilt for what would happen to the faculty staff?,TYRION: 是因为想到了学院教职员工们的未来吗？
+line:0575ee5,TheoAfterEye_13,TYRION: ...Or was it something else?,TYRION: ……还是说因为其他的事？
 line:0fe963b,ValFinal,Valerie: I can't believe it...[p/] It was really Theodore the entire time?,
 line:0328222,ValFinal,Jan: Can we talk about something else?[p/] Thinking about all that is really bumming me out.,
 line:0ed4764,ValFinal,Aria: I hope I'm not interrupting.,
@@ -2986,7 +2986,7 @@ line:0c2579e,WallaceDeduce7,Tyrion: ...Which can only mean that there's a magica
 line:016ba04,WallaceDeduce7,Celeste: I wonder what she's trying to hide.,
 line:060a25c,WallaceDeduce7,Tyrion: There's only one way to find out.,
 line:023fbd2,WallaceDeduce7,"Tyrion: The next time you see her,[p/] can you cast [b]Detect Magic[/b] from afar and scan her?",
-line:02940ef,WallaceDeduce7,Celeste: Alright.,
+line:02940ef,WallaceDeduce7,Celeste: Alright.,Celeste: 好。
 line:00f59ab,WallaceDeduce7,Celeste: It's been a while since we talked to her.[p/] Valerie also mentioned that they still had work to do today.,
 line:0496452,WallaceDeduce7,Celeste: She might be back in the Academy's Kitchen now.,
 line:057c425,AcademyHall_Examine,Player: 2-B,
@@ -3541,7 +3541,7 @@ line:00dd179,Start2,Tyrion: W-[p/][s/]We were just taking a break.,
 line:06fe428,Start2,"Tyrion: A pretty short break, from the looks of it...",
 line:095f1ac,Start2,"Celeste: Oh, so it's going to be like that?",
 line:0e3d41d,Start2,Tyrion: I suppose it's going to be like that.,
-line:0ad3ef6,Start2,Ruby: ...,
+line:0ad3ef6,Start2,Ruby: ...,Ruby: ……
 line:0f0c961,Start_1,The Imperial Library was supposedly one of the largest in Wyverngarde.[p/] I'd never seen so many books.,
 line:0a5261f,Start_1,"I honestly felt quite at home here.[p/] There was no noise,[p/] and everyone kept to themselves.",
 line:0723551,Start_1,"Aside from a few dirty looks from nearly everyone here,[p/] I was free to do my research in peace.",
@@ -3591,7 +3591,7 @@ line:015388d,Start_2,Eris: This is Wallace Nightgrave.[p/] We’re both students
 line:074a678,Start_2,Wallace: H-[p/]Hi...,
 line:07b822b,Start_2,"Ruby: That was a private conversation, by the way.",
 line:01f98e3,Start_2,Eris: Hm...,
-line:036f734,Start_2,Ruby: ...,
+line:036f734,Start_2,Ruby: ...,Ruby: ……
 line:0ce5286,Start_2,Eris: Researching unconventional forms of magic is actually a hobby of mine.,
 line:0cb410d,Start_2,"Eris: I might be able to help you with your research, Mr. Cuthbert.",
 line:0a31e6c,Start_2,Ruby: And what makes you so sure that [i]is[/i] what we were researching...?,
@@ -3667,7 +3667,7 @@ line:0523d56,Intro_Talk_Library,Player: Unconventional Magic,
 line:0e5bd76,Intro_Talk_Library,Eris: “Unconventional Magic”...,
 line:05e2681,Intro_Talk_Library,Eris: One might wonder why you're researching such a thing.,
 line:0bf5c14,Intro_Talk_Library,Celeste: I want to know that too!,
-line:0441e2f,Intro_Talk_Library,Ruby: ...,
+line:0441e2f,Intro_Talk_Library,Ruby: ...,Ruby: ……
 line:09f138d,Intro_Talk_Library,"Tyrion: I-[p/][s/]I’m sorry,[p/] but I can’t really say...",
 line:0a9cb70,Intro_Talk_Library,"Eris: There are many spells in this world,[p/] and new ones are always being developed.",
 line:070934e,Intro_Talk_Library,Eris: What makes you so certain that this magic isn't arcane?,
@@ -3677,7 +3677,7 @@ line:07d9576,Intro_Talk_Library,Tyrion: Um...[p/] Well...,
 line:0c402b3,Intro_Talk_Library,I needed to tread carefully.[p/] Ms. Tymora's glare agreed.,
 line:06e861e,Intro_Talk_Library,Tyrion: ...It was cast by someone who's not a mage.,
 line:0ae2f90,Intro_Talk_Library,"Eris: Oh, really?[p/] That implies that it was cast by a person,[p/] and it wasn't something like artificery.",
-line:027a079,Intro_Talk_Library,Ruby: ...,
+line:027a079,Intro_Talk_Library,Ruby: ...,Ruby: ……
 line:0220eea,Intro_Talk_Library,I flashed an apologetic look to my mentor.,
 line:0dad30d,Intro_Talk_Library,Eris: Hm...[p/] That [i]does[/i] remind me of a story.,
 line:0f2f173,Intro_Talk_Library,Tyrion: A...[p/] story?,
@@ -3712,7 +3712,7 @@ line:0f3c0e2,Intro_Talk_Library,"Eris: In other words,[p/] he could use magic th
 line:0847b3e,Intro_Talk_Library,"Ruby: Please,[p/] do you honestly expect us to believe a story like that?",
 line:06a4b60,Intro_Talk_Library,Ruby: It’s completely unrealistic.,
 line:036e73a,Intro_Talk_Library,Eris: ...As unrealistic as a non-mage using magic?,
-line:0e765a8,Intro_Talk_Library,Ruby: ...,
+line:0e765a8,Intro_Talk_Library,Ruby: ...,Ruby: ……
 line:0a41fea,Intro_Talk_Library,She had a point...[p/] It was the closest thing I had to a lead right now.,
 line:0bac201,Intro_Talk_Library,Player: BACK,
 line:0e9aaa5,Intro_Present_Library,Player: Runestone,

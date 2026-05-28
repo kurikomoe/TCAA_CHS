@@ -11576,667 +11576,667 @@
   {
     "key": "C2 Dialogue.csv::translation::b4041c1f4b7dd66d",
     "original": "Construct: WHAT ARE YOUR ORDERS?",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>有何命令？</size>",
     "context": "{\n  \"id\": \"line:038449b\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"Construct: WHAT ARE YOUR ORDERS?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::88d52603e49c11f5",
     "original": "TYRION: Please recite your command history.",
-    "translation": "",
+    "translation": "TYRION: 请复述你的历史指令。",
     "context": "{\n  \"id\": \"line:07ef7bb\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"TYRION: Please recite your command history.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::55bce9e53b8dfbf4",
     "original": "Construct: REPORTING.",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>报告：</size>",
     "context": "{\n  \"id\": \"line:0591fd1\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"Construct: REPORTING.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0e1c4d86c1f34f84",
     "original": "Construct: COMMAND 1:[p/] STANDBY IN \\[Headmaster’s Office\\].",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>命令1：[p/]在\\[校长办公室\\]待命。</size>",
     "context": "{\n  \"id\": \"line:002dfef\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"Construct: COMMAND 1:[p/] STANDBY IN \\\\[Headmaster’s Office\\\\].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4eeee7638bc49114",
     "original": "Construct: COMMAND 2:[p/] AWAIT VOCAL SIGNAL \\[“Attack!”\\] FROM \\[Theodore Redmond\\].",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>命令2：[p/]等待\\[西奥多·雷德蒙\\]的\\[“攻击！”\\]声音信号。</size>",
     "context": "{\n  \"id\": \"line:0d24433\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"Construct: COMMAND 2:[p/] AWAIT VOCAL SIGNAL \\\\[“Attack!”\\\\] FROM \\\\[Theodore Redmond\\\\].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::33863ae62268937a",
     "original": "Redmond stood up from the gallery,[p/] his face turning from confusion into terrified realization.",
-    "translation": "",
+    "translation": "雷德蒙从旁听席上突然站起，[p/]表情从困惑变成惊恐的领悟。",
     "context": "{\n  \"id\": \"line:00d4238\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"Redmond stood up from the gallery,[p/] his face turning from confusion into terrified realization.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::db509944927e829a",
     "original": "Steelwind watched him carefully,[p/] clutching the handle of her cane.",
-    "translation": "",
+    "translation": "斯蒂尔文德警惕地盯住他，[p/]攥紧了手杖的把手。",
     "context": "{\n  \"id\": \"line:0900300\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"Steelwind watched him carefully,[p/] clutching the handle of her cane.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::606c5c8b89f205b3",
     "original": "Construct: COMMAND 3:[p/] TREAT \\[Catherine Bellwether\\] AS A HOSTILE ENTITY AND NEUTRALIZE.",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>命令3：[p/]将\\[凯瑟琳·贝尔维瑟\\]视为敌对单位，并消灭该对象。</size>",
     "context": "{\n  \"id\": \"line:0c08792\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"Construct: COMMAND 3:[p/] TREAT \\\\[Catherine Bellwether\\\\] AS A HOSTILE ENTITY AND NEUTRALIZE.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::97a095bddba21a62",
     "original": "THEODORE: Construct![p/][s/] Wipe your—!",
-    "translation": "",
+    "translation": "THEODORE: 奥术构造体！[p/][s/]清除你的——！",
     "context": "{\n  \"id\": \"line:0a7cf46\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"THEODORE: Construct![p/][s/] Wipe your—!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7655d04111aeebde",
     "original": "AriaC: [i]Hodl[/i]!",
-    "translation": "",
+    "translation": "AriaC: [i]Hodl[/i]！",
     "context": "{\n  \"id\": \"line:0c9c4cc\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"AriaC: [i]Hodl[/i]!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b002162b3b83918c",
     "original": "Before he could finish his order,[p/] the prosecutor whipped out her cane and pointed it square at the headmaster.",
-    "translation": "",
+    "translation": "还没等他说完命令，[p/]检察官突然抽出手杖直指校长。",
     "context": "{\n  \"id\": \"line:0c7b10a\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"Before he could finish his order,[p/] the prosecutor whipped out her cane and pointed it square at the headmaster.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bd948284c7ee18e9",
     "original": "The headmaster tensed as his body tightened and he fell over,[p/] restrained by magical energy.",
-    "translation": "",
+    "translation": "校长身体突然紧绷，摔倒在地，[p/]被魔力束缚住了。",
     "context": "{\n  \"id\": \"line:0ee663a\",\n  \"node\": \"TheoAfterEye_7\",\n  \"text\": \"The headmaster tensed as his body tightened and he fell over,[p/] restrained by magical energy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::814b0b6d967d98e7",
     "original": "He struggled against the spell to no avail.[p/] He could only watch through gritted teeth as the Construct continued.",
-    "translation": "",
+    "translation": "他拼命在法术下挣扎，但无济于事。[p/]他只得紧咬牙关，眼睁睁看着构造体继续读下去。",
     "context": "{\n  \"id\": \"line:0b2976a\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"He struggled against the spell to no avail.[p/] He could only watch through gritted teeth as the Construct continued.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3f54423386851618",
     "original": "JUDGE: M-[p/][s/]Ms. Steelwind?!",
-    "translation": "",
+    "translation": "JUDGE: 斯、[p/][s/]斯蒂尔文德女士？！",
     "context": "{\n  \"id\": \"line:0f6b042\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"JUDGE: M-[p/][s/]Ms. Steelwind?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::397b0c43ee22475d",
     "original": "AriaC: Excuse the interruption.[p/] Please continue.",
-    "translation": "",
+    "translation": "AriaC: 抱歉擅自打断庭审。[p/]请继续吧。",
     "context": "{\n  \"id\": \"line:0cd7707\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"AriaC: Excuse the interruption.[p/] Please continue.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c4efebe51f4e88dd",
     "original": "Construct: COMMAND 4:[p/] AWAIT VOCAL SIGNAL “Leave” FROM \\[Theodore Redmond\\].",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>命令4：[p/]等待\\[西奥多·雷德蒙\\]的“离开”声音信号。</size>",
     "context": "{\n  \"id\": \"line:0beee3a\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"Construct: COMMAND 4:[p/] AWAIT VOCAL SIGNAL “Leave” FROM \\\\[Theodore Redmond\\\\].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f46e62d12b13ae0b",
     "original": "Construct: COMMAND 5:[p/] MOVE TO CLASSROOM 2-B. REPLY TO ANY INQUIRIES WITH VOICE LINE #3",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>命令5：[p/]移动至教室 2-B，过程中使用预设声音 #3 回复一切询问。</size>",
     "context": "{\n  \"id\": \"line:0d10c1f\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"Construct: COMMAND 5:[p/] MOVE TO CLASSROOM 2-B. REPLY TO ANY INQUIRIES WITH VOICE LINE #3\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fd79e2b875e697bd",
     "original": "Construct: COMMAND 6:[p/] REMOVE \\[Catherine Bellwether\\] FROM INTERIOR FRAME AND PLACE ON FLOOR.",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>命令6：[p/]将\\[凯瑟琳·贝尔维瑟\\]从内部取出并放置于地上。</size>",
     "context": "{\n  \"id\": \"line:040e93f\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"Construct: COMMAND 6:[p/] REMOVE \\\\[Catherine Bellwether\\\\] FROM INTERIOR FRAME AND PLACE ON FLOOR.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::26dc3cfe6320aa0a",
     "original": "TYRION: Thank you, Construct.",
-    "translation": "",
+    "translation": "TYRION: 奥术构造体，感谢你的陈述。",
     "context": "{\n  \"id\": \"line:0a93156\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"TYRION: Thank you, Construct.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8d686b8635738401",
     "original": "TYRION: You can stop now.[p/] I think we all know the rest.",
-    "translation": "",
+    "translation": "TYRION: 你可以停止运行了，[p/]我想剩下的我们都知道了。",
     "context": "{\n  \"id\": \"line:0a032c7\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"TYRION: You can stop now.[p/] I think we all know the rest.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bc69286ef45efdb9",
     "original": "TYRION: But just to be clear,[p/] who gave you this series of commands?",
-    "translation": "",
+    "translation": "TYRION: 但有一点请你说清楚，[p/]是谁给予你这一系列的命令的？",
     "context": "{\n  \"id\": \"line:0de8e08\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"TYRION: But just to be clear,[p/] who gave you this series of commands?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8213f4780b1e58be",
     "original": "Construct: COMMANDS WERE PROVIDED BY Headmaster \\[Theodore Redmond\\].",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>命令由校长\\[西奥多·雷德蒙\\]所提供。</size>",
     "context": "{\n  \"id\": \"line:04520b4\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"Construct: COMMANDS WERE PROVIDED BY Headmaster \\\\[Theodore Redmond\\\\].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3b007493cf8b552c",
     "original": "THEODORE: How...?[p/][s/] HOW?!",
-    "translation": "",
+    "translation": "THEODORE: 怎么可能……？[p/][s/] <size=1.5em>这怎么可能？！</size>",
     "context": "{\n  \"id\": \"line:02f324c\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"THEODORE: How...?[p/][s/] HOW?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2db4cfb7209b7aeb",
     "original": "THEODORE: I ordered the Construct to wipe its command history!",
-    "translation": "",
+    "translation": "THEODORE: 我命令过奥术构造体清除它的历史记录！",
     "context": "{\n  \"id\": \"line:029f4de\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"THEODORE: I ordered the Construct to wipe its command history!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::22fa2bb5b823f36e",
     "original": "TYRION: Redmond,[p/] Constructs don’t follow the same logic that humans do.",
-    "translation": "",
+    "translation": "TYRION: 雷德蒙，[p/]构造体和人类的逻辑思维不同。",
     "context": "{\n  \"id\": \"line:00d9c2e\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"TYRION: Redmond,[p/] Constructs don’t follow the same logic that humans do.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b7d32fc3a3cc0f45",
     "original": "TYRION: They’re prone to error when their commands are impossible to execute.",
-    "translation": "",
+    "translation": "TYRION: 当命令不可能执行时，它们就很容易出错。",
     "context": "{\n  \"id\": \"line:07c580a\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"TYRION: They’re prone to error when their commands are impossible to execute.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fd25fa74f629f59b",
     "original": "THEODORE: “Impossible”?![p/][s/] How were my commands impossible?!",
-    "translation": "",
+    "translation": "THEODORE: “不可能”？！[p/][s/]我的命令怎么会是不可能的？！",
     "context": "{\n  \"id\": \"line:0c922dd\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"THEODORE: “Impossible”?![p/][s/] How were my commands impossible?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1ad10cca748d5654",
     "original": "TYRION: You were the one that [i]made[/i] it impossible.",
-    "translation": "",
+    "translation": "TYRION: <u>导致</u>命令无法执行的正是你自己。",
     "context": "{\n  \"id\": \"line:03728e3\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"TYRION: You were the one that [i]made[/i] it impossible.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ac1b2c287ed9e3c7",
     "original": "TYRION: You activated the lockdown system.",
-    "translation": "",
+    "translation": "TYRION: 你激活了学院的封锁系统。",
     "context": "{\n  \"id\": \"line:06a9673\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"TYRION: You activated the lockdown system.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::088def577c5d07b9",
     "original": "THEODORE: The lockdown...?",
-    "translation": "",
+    "translation": "THEODORE: 封锁系统……？",
     "context": "{\n  \"id\": \"line:00f2f5b\",\n  \"node\": \"TheoAfterEye_8\",\n  \"text\": \"THEODORE: The lockdown...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1652e8636f244c29",
     "original": "TYRION: I imagine you never expected anyone to go to Lecture Hall 2-B.",
-    "translation": "",
+    "translation": "TYRION: 我想你根本没想过会有人进入2-B号讲堂。",
     "context": "{\n  \"id\": \"line:07e5b21\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"TYRION: I imagine you never expected anyone to go to Lecture Hall 2-B.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::681367fee31973d7",
     "original": "Tyrion: But the Ianus twins discovered the body earlier than you expected.",
-    "translation": "",
+    "translation": "Tyrion: 但伊努斯姐妹在比你预想更早的时候发现了尸体。",
     "context": "{\n  \"id\": \"line:0dd6edf\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"Tyrion: But the Ianus twins discovered the body earlier than you expected.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5695109fac9687ac",
     "original": "TYRION: You had no choice but to immediately activate the lockdown system when it was reported.[p/] It would have been suspicious otherwise.",
-    "translation": "",
+    "translation": "TYRION: 你别无选择只能在案件被通报时立即激活封锁系统。[p/]否则你自己就会收到怀疑。",
     "context": "{\n  \"id\": \"line:08fb6ad\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"TYRION: You had no choice but to immediately activate the lockdown system when it was reported.[p/] It would have been suspicious otherwise.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fd2e173ba329d73e",
     "original": "TYRION: However,[p/][s/] the Construct was still in the Locker Room when you did this.",
-    "translation": "",
+    "translation": "TYRION: 然而，[p/][s/]当时奥术构造体还在储物柜室里。",
     "context": "{\n  \"id\": \"line:0d31e34\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"TYRION: However,[p/][s/] the Construct was still in the Locker Room when you did this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1ef01450d3ed92db",
     "original": "THEODORE: So [i]that’s[/i] why it was there...",
-    "translation": "",
+    "translation": "THEODORE: 原来<u>这</u>就是为什么它在那……",
     "context": "{\n  \"id\": \"line:0a67127\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"THEODORE: So [i]that’s[/i] why it was there...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bcfc0ca1fdc9f5b0",
     "original": "TYRION: The Construct finished its tasks in the Locker Room,[p/] but then it tried to follow your next command.",
-    "translation": "",
+    "translation": "TYRION: 奥术构造体完成了在储物柜室里的任务。[p/]……但之后它试图进行下一项指令。",
     "context": "{\n  \"id\": \"line:0001672\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"TYRION: The Construct finished its tasks in the Locker Room,[p/] but then it tried to follow your next command.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb758d5ec0c3b33f",
     "original": "TYRION: It attempted to move to the Storage Room,[p/] but was prevented from doing so.",
-    "translation": "",
+    "translation": "TYRION: 它尝试移动至储藏室，[p/]但动作被阻止了。",
     "context": "{\n  \"id\": \"line:005726c\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"TYRION: It attempted to move to the Storage Room,[p/] but was prevented from doing so.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::268ddaeaaa1e36ac",
     "original": "TYRION: Completion of that command was impossible.",
-    "translation": "",
+    "translation": "TYRION: 这一项指令不可能完成。",
     "context": "{\n  \"id\": \"line:0b17421\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"TYRION: Completion of that command was impossible.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::71f6e98423bb7d81",
     "original": "TYRION: So,[p/] the series of commands was stopped [i]before[/i] it wiped its history.",
-    "translation": "",
+    "translation": "TYRION: 所以，[p/]指令的执行停止在了清除历史记录<u>之前</u>。",
     "context": "{\n  \"id\": \"line:058a2f2\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"TYRION: So,[p/] the series of commands was stopped [i]before[/i] it wiped its history.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::349c32439957b5ff",
     "original": "THEODORE: No...!",
-    "translation": "",
+    "translation": "THEODORE: 不……！",
     "context": "{\n  \"id\": \"line:0c07d69\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"THEODORE: No...!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::35aea18c28b863c9",
     "original": "TYRION: Theodore Redmond![p/][s/] You ordered your Construct to murder Catherine Bellwether.",
-    "translation": "",
+    "translation": "TYRION: 西奥多·雷德蒙！[p/][s/]你命令奥术构造体杀害凯瑟琳·贝尔维瑟。",
     "context": "{\n  \"id\": \"line:002fe52\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"TYRION: Theodore Redmond![p/][s/] You ordered your Construct to murder Catherine Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::acbdb6fee7beb037",
     "original": "TYRION: Then you had it place the murder weapon in a locker to frame Miriam Frega!",
-    "translation": "",
+    "translation": "TYRION: 之后命令其将凶器放在储物柜里，试图陷害米莉亚姆·弗雷加！",
     "context": "{\n  \"id\": \"line:0389067\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"TYRION: Then you had it place the murder weapon in a locker to frame Miriam Frega!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5b10e9d982046db",
     "original": "TYRION: And we have your Construct’s testimony to prove it!",
-    "translation": "",
+    "translation": "TYRION: 我们有奥术构造体的证言来证实这一切！",
     "context": "{\n  \"id\": \"line:0267e8e\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"TYRION: And we have your Construct’s testimony to prove it!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::059cba7fe2575ebb",
     "original": "Tyrion: ...That's your last move, Redmond.[p/] That’s checkmate.",
-    "translation": "",
+    "translation": "Tyrion: ……无处可逃了，雷德蒙。[p/]将死。",
     "context": "{\n  \"id\": \"line:0cc35e2\",\n  \"node\": \"TheoAfterEye_9\",\n  \"text\": \"Tyrion: ...That's your last move, Redmond.[p/] That’s checkmate.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::74afe434456ffa4e",
     "original": "AriaC: I...[p/] can’t believe it...",
-    "translation": "",
+    "translation": "AriaC: 我……[p/无法相信……",
     "context": "{\n  \"id\": \"line:0f5f3e0\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"AriaC: I...[p/] can’t believe it...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::236aa1fcc15c62a8",
     "original": "AriaC: How could you do something like this, Headmaster?",
-    "translation": "",
+    "translation": "AriaC: 您怎会做出这样的事，校长？",
     "context": "{\n  \"id\": \"line:0181ac9\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"AriaC: How could you do something like this, Headmaster?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be4506250889fb1f",
     "original": "THEODORE: ...She was going to take everything from me.",
-    "translation": "",
+    "translation": "THEODORE: ……她要夺走我的一切。",
     "context": "{\n  \"id\": \"line:0c00bf8\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: ...She was going to take everything from me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bfe42e5f7c60b419",
     "original": "THEODORE: My position.[p/][p/][s/] My academy.[p/][p/][s/] My students.",
-    "translation": "",
+    "translation": "THEODORE: 我的职位。[p/][p/][s/]我的学院。[p/][p/][s/]我的学生。",
     "context": "{\n  \"id\": \"line:0d05465\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: My position.[p/][p/][s/] My academy.[p/][p/][s/] My students.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cfaf87b4ba12301e",
     "original": "THEODORE: Everything would be gone.[p/][s/] It was going to be [i]stolen[/i] by her and the Fregas!",
-    "translation": "",
+    "translation": "THEODORE: 我的一切都将化为乌有。[p/][s/]这一切都会被她和弗雷加家族的人<u>偷走</u>！",
     "context": "{\n  \"id\": \"line:07c2bb5\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: Everything would be gone.[p/][s/] It was going to be [i]stolen[/i] by her and the Fregas!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::20411f4fd271aa26",
     "original": "AriaC: I—",
-    "translation": "",
+    "translation": "AriaC: 我——",
     "context": "{\n  \"id\": \"line:01aa506\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"AriaC: I—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e128d0cc7a4576bb",
     "original": "AriaC: Why didn’t you say anything...?",
-    "translation": "",
+    "translation": "AriaC: 你为什么不说出来呢……？",
     "context": "{\n  \"id\": \"line:023ac6e\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"AriaC: Why didn’t you say anything...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8cdab65190ffc34e",
     "original": "AriaC: I could have—",
-    "translation": "",
+    "translation": "AriaC: 我本可以——",
     "context": "{\n  \"id\": \"line:06d5702\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"AriaC: I could have—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2facf43562a8dcb7",
     "original": "THEODORE: Don’t you [i]dare[/i] stand there and act ignorant, Lady Steelwind!",
-    "translation": "",
+    "translation": "THEODORE: 少站在那装无辜了！斯蒂尔文德小姐！",
     "context": "{\n  \"id\": \"line:0680e09\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: Don’t you [i]dare[/i] stand there and act ignorant, Lady Steelwind!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::31859745e16f7774",
     "original": "THEODORE: Do you think the Fregas acted alone?!",
-    "translation": "",
+    "translation": "THEODORE: 你以为弗雷加家是单独行事的吗？！",
     "context": "{\n  \"id\": \"line:09811d4\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: Do you think the Fregas acted alone?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::80c2b670f3110fec",
     "original": "THEODORE: The Grand General is also on the school board,[p/] and he endorsed this plan just as much as they did!",
-    "translation": "",
+    "translation": "THEODORE: 大将军也是学院董事会的一员，[p/]而他对这个计划的喜爱与其他人没有分别！",
     "context": "{\n  \"id\": \"line:0a069b3\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: The Grand General is also on the school board,[p/] and he endorsed this plan just as much as they did!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b39efc7f7a69a9bd",
     "original": "THEODORE: I have nothing to say to you.",
-    "translation": "",
+    "translation": "THEODORE: 我和你没什么好说的。",
     "context": "{\n  \"id\": \"line:0d3ada3\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: I have nothing to say to you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::11e8af160828a443",
     "original": "THEODORE: I thought you were different.[p/] I listened to you and the prince's lies about societal reform.",
-    "translation": "",
+    "translation": "THEODORE: 我本以为你不一样。[p/]我听信了你和王子关于社会改革的谎言。",
     "context": "{\n  \"id\": \"line:0a84f55\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: I thought you were different.[p/] I listened to you and the prince's lies about societal reform.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7f2a44f6b0dfa22c",
     "original": "THEODORE: In the end,[p/] you were just like the rest of them...",
-    "translation": "",
+    "translation": "THEODORE: 归根结底，[p/]你与他们是一样的……",
     "context": "{\n  \"id\": \"line:0ffa609\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: In the end,[p/] you were just like the rest of them...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::48d9940565b816fc",
     "original": "THEODORE: By the Scaled Lord,[p/] what have I done?",
-    "translation": "",
+    "translation": "THEODORE: 鳞甲领主啊，[p/]我到底做了什么？",
     "context": "{\n  \"id\": \"line:0f764b4\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: By the Scaled Lord,[p/] what have I done?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5303c304b2e2d050",
     "original": "THEODORE: I was even willing to sacrifice poor Wallace...",
-    "translation": "",
+    "translation": "THEODORE: 我甚至甘愿去牺牲可怜的华莱士……",
     "context": "{\n  \"id\": \"line:0ed7f50\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: I was even willing to sacrifice poor Wallace...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8b3da2df4634d07",
     "original": "THEODORE: Why did I ever listen to[p/]",
-    "translation": "",
+    "translation": "THEODORE: 为何我会听信[p/]",
     "context": "{\n  \"id\": \"line:03d38d2\",\n  \"node\": \"TheoAfterEye_10\",\n  \"text\": \"THEODORE: Why did I ever listen to[p/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::41a76a245d950184",
     "original": "Theodore: Why did I do this?",
-    "translation": "",
+    "translation": "Theodore: 为何我会做出这种事？",
     "context": "{\n  \"id\": \"line:0ba9570\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"Theodore: Why did I do this?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32badfddeed44351",
     "original": "JUDGE: ...It appears we have a full confession.",
-    "translation": "",
+    "translation": "JUDGE: ……看来已经全盘招供了。",
     "context": "{\n  \"id\": \"line:04955e9\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"JUDGE: ...It appears we have a full confession.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e3729de32e7b5d37",
     "original": "JUDGE: The court sees no reason to prolong this any further.",
-    "translation": "",
+    "translation": "JUDGE: 法庭认为没有理由再继续拖延此案。",
     "context": "{\n  \"id\": \"line:010f75a\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"JUDGE: The court sees no reason to prolong this any further.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2e11d4cc2928ad0f",
     "original": "JUDGE: Bailiff,[p/] please escort the witness to a holding cell.",
-    "translation": "",
+    "translation": "JUDGE: 法警，[p/]请押送证人到拘留所。",
     "context": "{\n  \"id\": \"line:0ce0291\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"JUDGE: Bailiff,[p/] please escort the witness to a holding cell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8531bfd0779e2549",
     "original": "WALLACE: Mr. Cuthbert![p/][s/] You...[p/][s/] You really did it!",
-    "translation": "",
+    "translation": "WALLACE: 卡斯伯特先生！[p/][s/]你……[p/][s/]你真的做到了！",
     "context": "{\n  \"id\": \"line:0df7936\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"WALLACE: Mr. Cuthbert![p/][s/] You...[p/][s/] You really did it!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::64a026018eb33452",
     "original": "CELESTE: It feels amazing, right?[p/] Like a big weight being lifted from your shoulders.",
-    "translation": "",
+    "translation": "CELESTE: 感觉如梦似幻对吧？[p/]一种如释重负的感觉。",
     "context": "{\n  \"id\": \"line:0503f1a\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"CELESTE: It feels amazing, right?[p/] Like a big weight being lifted from your shoulders.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::63a597a7f3907b08",
     "original": "WALLACE: It does,[p/] but Headmaster Redmond—",
-    "translation": "",
+    "translation": "WALLACE: 确实如此，[p/]但是雷德蒙校长——",
     "context": "{\n  \"id\": \"line:0cd6095\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"WALLACE: It does,[p/] but Headmaster Redmond—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34dccdcde0f9fa35",
     "original": "WALLACE: What am I going to do now...?",
-    "translation": "",
+    "translation": "WALLACE: 我现在该怎么办呢……？",
     "context": "{\n  \"id\": \"line:0b97bcd\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"WALLACE: What am I going to do now...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8f52ae8bdb2600c7",
     "original": "WALLACE: Headmaster Redmond was the only reason I could even [i]attend[/i] the Academy.",
-    "translation": "",
+    "translation": "WALLACE: 我能在学院<u>上学</u>都是因为雷德蒙校长。",
     "context": "{\n  \"id\": \"line:01f97fd\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"WALLACE: Headmaster Redmond was the only reason I could even [i]attend[/i] the Academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::86a78bd6c4cabc67",
     "original": "WALLACE: If the school board replaces him with someone like Bellwether—",
-    "translation": "",
+    "translation": "WALLACE: 如果董事会用另一个贝尔维瑟那样的人取代他——",
     "context": "{\n  \"id\": \"line:0e8464c\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"WALLACE: If the school board replaces him with someone like Bellwether—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7c98827e11253cdb",
     "original": "CELESTE: C-[p/][s/]Come on![p/][s/] Don’t think like that!",
-    "translation": "",
+    "translation": "CELESTE: 没、[p/][s/]没事的！[p/][s/]别那样想！",
     "context": "{\n  \"id\": \"line:0e8b3ed\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"CELESTE: C-[p/][s/]Come on![p/][s/] Don’t think like that!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b40d2448a505a884",
     "original": "CELESTE: You've been acquitted![p/][s/] You still have your freedom!",
-    "translation": "",
+    "translation": "CELESTE: 你已经脱罪了！[p/][s/]你仍是自由之身啊！",
     "context": "{\n  \"id\": \"line:09d3474\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"CELESTE: You've been acquitted![p/][s/] You still have your freedom!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d9b3d823e49e66bb",
     "original": "I wanted to agree,[p/] but the study of [b]necromancy[/b] was outlawed.",
-    "translation": "",
+    "translation": "我想要附和赞同，[p/]但研习[b]死灵术[/b]是违法的。",
     "context": "{\n  \"id\": \"line:0a5fda0\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"I wanted to agree,[p/] but the study of [b]necromancy[/b] was outlawed.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2a30b2a15b6ff0b7",
     "original": "Without Redmond’s support,[p/] there weren’t many places he [i]could[/i] learn it.",
-    "translation": "",
+    "translation": "没有了雷德蒙的支持，[p/]世上可没多少<u>能</u>供他研究的地方。",
     "context": "{\n  \"id\": \"line:01ea226\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"Without Redmond’s support,[p/] there weren’t many places he [i]could[/i] learn it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1ff1dea4433a2e36",
     "original": "And then there was staff at the Imperial Academy...",
-    "translation": "",
+    "translation": "还有王国学院的员工们……",
     "context": "{\n  \"id\": \"line:062fc69\",\n  \"node\": \"TheoAfterEye_11\",\n  \"text\": \"And then there was staff at the Imperial Academy...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3df74455132c0a33",
     "original": "CELESTE: H-[p/]Hey,[p/][s/] not you too!",
-    "translation": "",
+    "translation": "CELESTE: 嘿、[p/]嘿！[p/][s/]别你也这么一副样子啊！",
     "context": "{\n  \"id\": \"line:03400fd\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"CELESTE: H-[p/]Hey,[p/][s/] not you too!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::381e1c4d437e660c",
     "original": "TYRION: Sorry...[p/] But Valentina,[p/] Valerie,[p/] and Jan.[p/] They’re all going to lose their jobs.",
-    "translation": "",
+    "translation": "TYRION: 不好意思……[p/]但想想瓦伦蒂娜，[p/]瓦莱丽，[p/]还有简。[p/]他们都要丢掉工作了。",
     "context": "{\n  \"id\": \"line:0f58165\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"TYRION: Sorry...[p/] But Valentina,[p/] Valerie,[p/] and Jan.[p/] They’re all going to lose their jobs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bd6fc2251812f07e",
     "original": "CELESTE: Come on![p/][s/] You found the truth [i]and[/i] you put a murderer behind bars!",
-    "translation": "",
+    "translation": "CELESTE: 别想这些啦！[p/][s/]你找到了真相，<u>还</u>把真凶送进了监狱！",
     "context": "{\n  \"id\": \"line:0bc4c11\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"CELESTE: Come on![p/][s/] You found the truth [i]and[/i] you put a murderer behind bars!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5b0cab69fd047bf2",
     "original": "CELESTE: You saved Wallace!",
-    "translation": "",
+    "translation": "CELESTE: 你救了华莱士！",
     "context": "{\n  \"id\": \"line:0f8ce78\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"CELESTE: You saved Wallace!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5e20bc470d0a2f4b",
     "original": "Ruby: She's right.",
-    "translation": "",
+    "translation": "Ruby: 她说得对。",
     "context": "{\n  \"id\": \"line:0bafd2e\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"Ruby: She's right.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04387465b3062a34",
     "original": "As we exited the courtroom,[p/] we were greeted by Ms. Tymora.",
-    "translation": "",
+    "translation": "我们离开法庭时，[p/]泰摩拉女士向我们打招呼。",
     "context": "{\n  \"id\": \"line:04ff16d\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"As we exited the courtroom,[p/] we were greeted by Ms. Tymora.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::73ca314f4c1f6bc7",
     "original": "Ruby: At the end of the day,[p/] you saved Wallace from a wrongful conviction.",
-    "translation": "",
+    "translation": "Ruby: 今天，[p/]你将华莱士从冤罪中解救出来。",
     "context": "{\n  \"id\": \"line:0eb82ed\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"Ruby: At the end of the day,[p/] you saved Wallace from a wrongful conviction.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7ba440e6522f1aa0",
     "original": "Ruby: You did what you set out to do.[p/] You should be proud of yourself for that.",
-    "translation": "",
+    "translation": "Ruby: 你完成了既定目标。[p/]你应当为此感到自豪。",
     "context": "{\n  \"id\": \"line:011041f\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"Ruby: You did what you set out to do.[p/] You should be proud of yourself for that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::334fba5a60e10450",
     "original": "TYRION: I just wish I could do more.",
-    "translation": "",
+    "translation": "TYRION: 我希望能做更多。",
     "context": "{\n  \"id\": \"line:0f7a4d8\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"TYRION: I just wish I could do more.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::67d95be8fdaba3d1",
     "original": "CELESTE: Nope![p/][s/] None of that!",
-    "translation": "",
+    "translation": "CELESTE: 别！[p/][s/]别再想那个了！",
     "context": "{\n  \"id\": \"line:032b480\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"CELESTE: Nope![p/][s/] None of that!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::47510b3cd42c8c88",
     "original": "Celeste: I’m taking all of us to that restaurant we went to last time.",
-    "translation": "",
+    "translation": "Celeste: 我带大家去上次去的那间餐厅。",
     "context": "{\n  \"id\": \"line:092720a\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"Celeste: I’m taking all of us to that restaurant we went to last time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::21f04bc77d8bdc80",
     "original": "TYRION: Do you...[p/] remember how much that place cost?",
-    "translation": "",
+    "translation": "TYRION: 你难道……[p/]忘了上次我们花了多少钱吗？",
     "context": "{\n  \"id\": \"line:02c68cf\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"TYRION: Do you...[p/] remember how much that place cost?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0bb02aa3dca97194",
     "original": "CELESTE: Don’t worry.[p/] I have plenty of gold.",
-    "translation": "",
+    "translation": "CELESTE: 没事的没事的，[p/]我很有钱。",
     "context": "{\n  \"id\": \"line:05d2317\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"CELESTE: Don’t worry.[p/] I have plenty of gold.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::11f5221f54a20cda",
     "original": "TYRION: ...Am I the only one on this team not making any money?",
-    "translation": "",
+    "translation": "TYRION: ……我是这里唯一没赚到钱的人吗？",
     "context": "{\n  \"id\": \"line:0b1ce17\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"TYRION: ...Am I the only one on this team not making any money?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ca0014cfe82f5751",
     "original": "Ruby: ...Why don't you meet us there, Celeste?",
-    "translation": "",
+    "translation": "Ruby: ……我们就在那汇合吧，塞莱斯特。",
     "context": "{\n  \"id\": \"line:044f7fc\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"Ruby: ...Why don't you meet us there, Celeste?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1999da3d31312b60",
     "original": "Ruby: I need to talk with Tyrion for a moment.",
-    "translation": "",
+    "translation": "Ruby: 我有些话想和提利昂聊聊。",
     "context": "{\n  \"id\": \"line:0c918b4\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"Ruby: I need to talk with Tyrion for a moment.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8a0bd5eebe451a20",
     "original": "Celeste: Alright.",
-    "translation": "",
+    "translation": "Celeste: 好。",
     "context": "{\n  \"id\": \"line:0157f02\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"Celeste: Alright.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c906878d307ec033",
     "original": "Celeste: Let's go, Wallace!",
-    "translation": "",
+    "translation": "Celeste: 我们走吧，华莱士！",
     "context": "{\n  \"id\": \"line:0fb5794\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"Celeste: Let's go, Wallace!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::50211aac7f68d0fc",
     "original": "Wallace: U-[p/][s/]Um...[p/] Okay...",
-    "translation": "",
+    "translation": "Wallace: 唔、[p/][s/]嗯……[p/]好的……",
     "context": "{\n  \"id\": \"line:06be91d\",\n  \"node\": \"TheoAfterEye_12\",\n  \"text\": \"Wallace: U-[p/][s/]Um...[p/] Okay...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::95604ccf3a826398",
     "original": "Ruby: ...",
-    "translation": "",
+    "translation": "Ruby: ……",
     "context": "{\n  \"id\": \"line:082dff8\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"Ruby: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::931d63c121b24498",
     "original": "Ruby: ...You used that ability again, didn't you?",
-    "translation": "",
+    "translation": "Ruby: ……你又用了那股力量，对吧？",
     "context": "{\n  \"id\": \"line:0e4fc85\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"Ruby: ...You used that ability again, didn't you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::44bb29dd96fbdcb2",
     "original": "She didn't appear to be praising me...",
-    "translation": "",
+    "translation": "听起来她并不是要夸奖我……",
     "context": "{\n  \"id\": \"line:04a1838\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"She didn't appear to be praising me...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dc07b66243bd858c",
     "original": "Tyrion: I-[p/]I did...[p/] I didn't really have a choice...",
-    "translation": "",
+    "translation": "Tyrion: 我、[p/]我是用了…….[p/]我别无选择……",
     "context": "{\n  \"id\": \"line:0e092c2\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"Tyrion: I-[p/]I did...[p/] I didn't really have a choice...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::89c6074f151acf81",
     "original": "Ruby: The Eye of Horus is a powerful tool, Tyrion.",
-    "translation": "",
+    "translation": "Ruby: 荷鲁斯之眼是个强大的工具，提利昂。",
     "context": "{\n  \"id\": \"line:080154a\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"Ruby: The Eye of Horus is a powerful tool, Tyrion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f0a5546e50556b7d",
     "original": "Ruby: But that's twice now that you've used that ability to get out of a tough spot.",
-    "translation": "",
+    "translation": "Ruby: 但你已经两次用那种力量来脱离困境了。",
     "context": "{\n  \"id\": \"line:0aecb20\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"Ruby: But that's twice now that you've used that ability to get out of a tough spot.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0acc81bc5b2b2cb1",
     "original": "Ruby: You can't keep relying on it if you want to grow.",
-    "translation": "",
+    "translation": "Ruby: 一直依赖它的话，你也难以成长。",
     "context": "{\n  \"id\": \"line:0612938\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"Ruby: You can't keep relying on it if you want to grow.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d3dafd3aea5911a9",
     "original": "Ruby: One day,[p/] you'll find a witness that it [i]won't[/i] work on.",
-    "translation": "",
+    "translation": "Ruby: 总有一天，[p/]你会遇到一个对他[i]不管用[/i]的证人。",
     "context": "{\n  \"id\": \"line:0041470\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"Ruby: One day,[p/] you'll find a witness that it [i]won't[/i] work on.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b0d47eaf1afb4fbc",
     "original": "Tyrion: It's worked for me this far, though...",
-    "translation": "",
+    "translation": "Tyrion: 可到目前为止都能生效……",
     "context": "{\n  \"id\": \"line:08510b5\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"Tyrion: It's worked for me this far, though...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::963e4564f9a0bc93",
     "original": "Tyrion: B-[p/][s/]But I suppose you're right.",
-    "translation": "",
+    "translation": "Tyrion: 但、[p/][s/]但你说得没错。",
     "context": "{\n  \"id\": \"line:0fadd5f\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"Tyrion: B-[p/][s/]But I suppose you're right.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::711b04fc4e413be0",
     "original": "Tyrion: I'll try to rely on it less next time...",
-    "translation": "",
+    "translation": "Tyrion: 我下次会尽力少依赖它的……",
     "context": "{\n  \"id\": \"line:0fa6c12\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"Tyrion: I'll try to rely on it less next time...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f175323186929162",
     "original": "TYRION: And that marked the end of another case in my career as a defense attorney.",
-    "translation": "",
+    "translation": "TYRION: 这标志着我辩护律师生涯中另一个案件的结束。",
     "context": "{\n  \"id\": \"line:0f55cf6\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"TYRION: And that marked the end of another case in my career as a defense attorney.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7299f36d0d4a10d1",
     "original": "TYRION: Another life saved,[p/] and another murderer brought to justice.",
-    "translation": "",
+    "translation": "TYRION: 又拯救了一条无辜的性命，[p/]又一名凶手被绳之以法。",
     "context": "{\n  \"id\": \"line:070b139\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"TYRION: Another life saved,[p/] and another murderer brought to justice.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f18599726d00c6db",
     "original": "TYRION: ...But I still couldn’t shake this feeling of uneasiness.",
-    "translation": "",
+    "translation": "TYRION: ……但我仍无法摆脱这种不安的感觉。",
     "context": "{\n  \"id\": \"line:0744e57\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"TYRION: ...But I still couldn’t shake this feeling of uneasiness.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b4fb5e81eb158a0f",
     "original": "TYRION: Was it guilt for what would happen to the faculty staff?",
-    "translation": "",
+    "translation": "TYRION: 是因为想到了学院教职员工们的未来吗？",
     "context": "{\n  \"id\": \"line:00a24a4\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"TYRION: Was it guilt for what would happen to the faculty staff?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::86e7a7eeaed00ed9",
     "original": "TYRION: ...Or was it something else?",
-    "translation": "",
+    "translation": "TYRION: ……还是说因为其他的事？",
     "context": "{\n  \"id\": \"line:0575ee5\",\n  \"node\": \"TheoAfterEye_13\",\n  \"text\": \"TYRION: ...Or was it something else?\"\n}"
   },
   {
