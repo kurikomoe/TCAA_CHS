@@ -12932,613 +12932,613 @@
   {
     "key": "C2 Dialogue.csv::translation::f39002b8148f60d7",
     "original": "MIRIAM: Well,[p/] I’m in the middle of a study break anyway.",
-    "translation": "",
+    "translation": "MIRIAM: 也行，[p/]本来我也正好研究到一半，打算休息一下。",
     "context": "{\n  \"id\": \"line:0e80bc5\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Well,[p/] I’m in the middle of a study break anyway.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::968589fcd3616672",
     "original": "MIRIAM: I suppose I have some time to spill some tea.",
-    "translation": "",
+    "translation": "MIRIAM: 我想有喝点茶的工夫。",
     "context": "{\n  \"id\": \"line:08d04db\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: I suppose I have some time to spill some tea.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::779be6a1d6e88ec7",
     "original": "MIRIAM: Speaking of...[p/] Construct,[p/] please prepare us some tea.",
-    "translation": "",
+    "translation": "MIRIAM: 说到这里……[p/]构造体，[p/]请为我们奉茶。",
     "context": "{\n  \"id\": \"line:060afdc\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Speaking of...[p/] Construct,[p/] please prepare us some tea.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c447171049ac3dc1",
     "original": "Miriam: Use that lotus tea we imported from the Eastern Kingdoms. [h=\"She might be useful.|I should win her favor.\" e=\"h\"/]",
-    "translation": "",
+    "translation": "Miriam: 用从东方古国进口的莲茶。[h=\"如果能赢得她的好感，|她或许能为我所用。\" e=\"h\"/]",
     "context": "{\n  \"id\": \"line:0f75e74\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Miriam: Use that lotus tea we imported from the Eastern Kingdoms. [h=\\\"She might be useful.|I should win her favor.\\\" e=\\\"h\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::30a7c527c6df6130",
     "original": "Construct: ACKNOWLEDGED.",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>遵命。</size>",
     "context": "{\n  \"id\": \"line:061c83e\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Construct: ACKNOWLEDGED.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a0078c5c9fb78e68",
     "original": "Celeste: “Lotus tea”...?",
-    "translation": "",
+    "translation": "Celeste: “莲茶”……？",
     "context": "{\n  \"id\": \"line:09d8a6c\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: “Lotus tea”...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0fa44800bda69142",
     "original": "Celeste: You...[p/][s/] have Lotus Juice?!",
-    "translation": "",
+    "translation": "Celeste: 你……[p/][s/]有莲之水？！",
     "context": "{\n  \"id\": \"line:0e8997a\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: You...[p/][s/] have Lotus Juice?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::abcd51cc9828f476",
     "original": "...I could feel myself slowly losing control of this situation.",
-    "translation": "",
+    "translation": "……我感到自己正慢慢失去对局面的控制。",
     "context": "{\n  \"id\": \"line:014e0b5\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"...I could feel myself slowly losing control of this situation.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0a1496505a0a4e07",
     "original": "Player: What did you see?",
-    "translation": "",
+    "translation": "Player: 你看到了什么？",
     "context": "{\n  \"id\": \"line:0d5cb88\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Player: What did you see?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b395d6c60d7a5464",
     "original": "Celeste: I heard that you were one of the last people who saw the professor.",
-    "translation": "",
+    "translation": "Celeste: 我有听说那天你是最后目击到教授的人之一。",
     "context": "{\n  \"id\": \"line:058ab27\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: I heard that you were one of the last people who saw the professor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::70108b334f860cfd",
     "original": "Celeste: Where did this happen?",
-    "translation": "",
+    "translation": "Celeste: 那是什么时候？",
     "context": "{\n  \"id\": \"line:080f9da\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: Where did this happen?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5f2ab88abd49f85c",
     "original": "MIRIAM: I was in the hallways when I saw her coming out of the headmaster’s office.",
-    "translation": "",
+    "translation": "MIRIAM: 我在走廊里，看到她从校长室出来。",
     "context": "{\n  \"id\": \"line:07e23d7\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: I was in the hallways when I saw her coming out of the headmaster’s office.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ed869b98507d581e",
     "original": "MIRIAM: She appeared to be heading towards the library.",
-    "translation": "",
+    "translation": "Miriam: 她看起来要往图书馆的方向走。",
     "context": "{\n  \"id\": \"line:08ba1b5\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: She appeared to be heading towards the library.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::715f5c6231b57584",
     "original": "Celeste: Do you remember what time this happened?",
-    "translation": "",
+    "translation": "Celeste: 你记得那是几点吗？",
     "context": "{\n  \"id\": \"line:0bb302e\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: Do you remember what time this happened?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::acba767170087b95",
     "original": "MIRIAM: Ah...[p/] I’m not really sure, honestly.",
-    "translation": "",
+    "translation": "MIRIAM: 啊……[p/]讲实话，我不太确定。",
     "context": "{\n  \"id\": \"line:035523c\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Ah...[p/] I’m not really sure, honestly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2a3bdfc78e3548e2",
     "original": "MIRIAM: It’s a little embarrassing,[p/] but I have a bad habit of getting too absorbed in my work.",
-    "translation": "",
+    "translation": "MIRIAM: 说来有点尴尬……[p/]但我有个坏习惯，容易沉浸在学习中。",
     "context": "{\n  \"id\": \"line:02dafaa\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: It’s a little embarrassing,[p/] but I have a bad habit of getting too absorbed in my work.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::68fd2c15dea757ed",
     "original": "MIRIAM: Sometimes entire [i]hours[/i] will pass without my notice.",
-    "translation": "",
+    "translation": "MIRIAM: 有时候，[i]好几个小时[/i]过去了我都注意不到。",
     "context": "{\n  \"id\": \"line:0301c46\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Sometimes entire [i]hours[/i] will pass without my notice.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::beb3c38b3a8c12c3",
     "original": "Celeste: Do you have a rough idea at least?",
-    "translation": "",
+    "translation": "Celeste: 那大概的时间还有印象吗？",
     "context": "{\n  \"id\": \"line:0a3df78\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: Do you have a rough idea at least?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fafa4bf68933c2e0",
     "original": "MIRIAM: I believe it was in the morning.",
-    "translation": "",
+    "translation": "MIRIAM: 我想应该是上午吧。",
     "context": "{\n  \"id\": \"line:021e132\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: I believe it was in the morning.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::45056a072240b75d",
     "original": "So it was [i]before[/i] her meeting with the headmaster?",
-    "translation": "",
+    "translation": "所以那是在与校长会面发生[i]之前[/i]？",
     "context": "{\n  \"id\": \"line:09e392b\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"So it was [i]before[/i] her meeting with the headmaster?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::60abb433fa5eb232",
     "original": "Celeste: Did anything seem off about her?",
-    "translation": "",
+    "translation": "Celeste: 她看起来有什么不对劲吗？",
     "context": "{\n  \"id\": \"line:0753951\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: Did anything seem off about her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8bec4044d1b1f14b",
     "original": "MIRIAM: ...No.[p/] It was a short encounter.",
-    "translation": "",
+    "translation": "MIRIAM: ……没有。[p/]我们就简单寒暄了一下。",
     "context": "{\n  \"id\": \"line:094bb6a\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: ...No.[p/] It was a short encounter.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::02c754e1433a5c14",
     "original": "MIRIAM: I merely greeted her,[p/] and she responded in kind. [h=\"Or at least...|that’s what [i]should[/i] have happened...\" e=\"sa\"/]",
-    "translation": "",
+    "translation": "MIRIAM: 我就是向她问了好，[p/]然后她和蔼地回应了。[h=\"或者说至少……|[i]本该是[/i]这样的……\" e=\"sa\"/]",
     "context": "{\n  \"id\": \"line:0fb0984\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: I merely greeted her,[p/] and she responded in kind. [h=\\\"Or at least...|that’s what [i]should[/i] have happened...\\\" e=\\\"sa\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5c01815205d4fd7a",
     "original": "That thought just now...[p/] What did it mean?",
-    "translation": "",
+    "translation": "刚刚的想法……[p/]那是什么意思？",
     "context": "{\n  \"id\": \"line:01eb27e\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"That thought just now...[p/] What did it mean?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ebda4ffb50717952",
     "original": "I slowly glanced at Celeste and caught her attention.",
-    "translation": "",
+    "translation": "我慢慢看向塞莱斯特，以悄悄引起她的注意。",
     "context": "{\n  \"id\": \"line:09c0270\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"I slowly glanced at Celeste and caught her attention.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::02dccf7ae51b3057",
     "original": "Using small motions,[p/] I shook my head.[p/] Miriam was holding something back.",
-    "translation": "",
+    "translation": "我打出细微的手势，[p/]摇了摇头。[p/]米莉亚姆还隐瞒了什么。",
     "context": "{\n  \"id\": \"line:0948e46\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Using small motions,[p/] I shook my head.[p/] Miriam was holding something back.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::79c365bead00ff50",
     "original": "Celeste: Were you and the professor [i]really[/i] on good terms?",
-    "translation": "",
+    "translation": "Celeste: 你和教授[i]确实[/i]关系亲密吗？",
     "context": "{\n  \"id\": \"line:04a2d8b\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: Were you and the professor [i]really[/i] on good terms?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb00124fdf5e54c6",
     "original": "Celeste: I heard she was pretty mean towards the other students.",
-    "translation": "",
+    "translation": "Celeste: 我听说她对其他学生很刻薄。",
     "context": "{\n  \"id\": \"line:03357e7\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: I heard she was pretty mean towards the other students.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1e68dd477d97ba49",
     "original": "MIRIAM: Towards the riff-raff, maybe,[p/] but not to students like us.",
-    "translation": "",
+    "translation": "MIRIAM: 对那些乌合之众来说，或许是吧。[p/]不过，对我这样的学生可不一样。",
     "context": "{\n  \"id\": \"line:0db496a\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Towards the riff-raff, maybe,[p/] but not to students like us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2499b1e1740a6a06",
     "original": "Miriam: She was my personal instructor during summer break.",
-    "translation": "",
+    "translation": "Miriam: 她在夏休的时候也担任我的私人导师。",
     "context": "{\n  \"id\": \"line:06e75c7\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Miriam: She was my personal instructor during summer break.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d73bc1928f66f540",
     "original": "Miriam: She fulfilled a similar role to both—[p/] ...to my sister when she studied here.",
-    "translation": "",
+    "translation": "Miriam: 她在与……[p/]与我还在校的姐姐来往时也担任了这个职务。",
     "context": "{\n  \"id\": \"line:0e15376\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Miriam: She fulfilled a similar role to both—[p/] ...to my sister when she studied here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0c9d1f9b5a88fb1d",
     "original": "Miriam: She was a long-time friend of House Frega.",
-    "translation": "",
+    "translation": "Miriam: 她长久以来都是弗雷加一族的好友。",
     "context": "{\n  \"id\": \"line:052f7a1\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Miriam: She was a long-time friend of House Frega.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2b77833433da138f",
     "original": "MIRIAM: That’s why we were planning on appointing her as the new headmaster.",
-    "translation": "",
+    "translation": "MIRIAM: 这就是为什么我们打算任命她为新一任校长。",
     "context": "{\n  \"id\": \"line:0e84b73\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: That’s why we were planning on appointing her as the new headmaster.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5911ba69d20d7bec",
     "original": "Celeste: Wait...[p/][s/] What did you just say?!",
-    "translation": "",
+    "translation": "Celeste: 等等……[p/][s/]你刚刚说什么？！",
     "context": "{\n  \"id\": \"line:0fa32cd\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: Wait...[p/][s/] What did you just say?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f7cfb8ed182286f",
     "original": "Player: Replacing the Headmaster",
-    "translation": "",
+    "translation": "Player: 替换校长",
     "context": "{\n  \"id\": \"line:0e66396\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Player: Replacing the Headmaster\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8196740ff88b763d",
     "original": "Celeste: Did you just say that they were going to appoint [i]Bellwether[/i] as the new headmaster?!",
-    "translation": "",
+    "translation": "Celeste: 你刚刚是说他们要任命[i]贝尔维瑟[/i]为新校长？！",
     "context": "{\n  \"id\": \"line:0262b4f\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: Did you just say that they were going to appoint [i]Bellwether[/i] as the new headmaster?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c880774175035876",
     "original": "MIRIAM: Oh, I’m surprised you didn’t know.",
-    "translation": "",
+    "translation": "MIRIAM: 哦，你不知道这件事才让我惊讶呢。",
     "context": "{\n  \"id\": \"line:0cc11a0\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Oh, I’m surprised you didn’t know.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2b9821bc9470e972",
     "original": "MIRIAM: House Frega holds several seats on the academy’s board, along with the Grand General.",
-    "translation": "",
+    "translation": "MIRIAM: 弗雷加家族在校董事会有几个席位，大将军也列席其中。",
     "context": "{\n  \"id\": \"line:003a812\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: House Frega holds several seats on the academy’s board, along with the Grand General.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::beaa18f1ff1466c7",
     "original": "MIRIAM: We were making plans to have her replace that lout: Redmond.",
-    "translation": "",
+    "translation": "MIRIAM: 我们正打算让她代替那个废物雷德蒙呢。",
     "context": "{\n  \"id\": \"line:0bde32a\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: We were making plans to have her replace that lout: Redmond.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4c6f87915f36196a",
     "original": "They were going to sack the headmaster?!",
-    "translation": "",
+    "translation": "他们要开除校长？",
     "context": "{\n  \"id\": \"line:089825c\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"They were going to sack the headmaster?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::889449ae29311155",
     "original": "Celeste: ...Did Headmaster Redmond know about this?",
-    "translation": "",
+    "translation": "Celeste: ……雷德蒙校长知道吗？",
     "context": "{\n  \"id\": \"line:0eb20db\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: ...Did Headmaster Redmond know about this?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f8e77b3c90f11c5d",
     "original": "MIRIAM: Oh, of course not.[p/] This was part of a large-scale plan.",
-    "translation": "",
+    "translation": "MIRIAM: 哦，当然不了。[p/]这只是一个更大的计划的一部分。",
     "context": "{\n  \"id\": \"line:0ba8b63\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Oh, of course not.[p/] This was part of a large-scale plan.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cecd6d7822aa9808",
     "original": "MIRIAM: Along with Redmond,[p/] we were also going to replace all of the staff members with Arcane Constructs.",
-    "translation": "",
+    "translation": "MIRIAM: 连同雷德蒙在内，我们要用奥术构造体换掉全部的教职工。",
     "context": "{\n  \"id\": \"line:05225d8\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Along with Redmond,[p/] we were also going to replace all of the staff members with Arcane Constructs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::917d1993fb631e5b",
     "original": "MIRIAM: We had to keep everything under wraps,[p/] or else the help would have left before we were ready.",
-    "translation": "",
+    "translation": "MIRIAM: 一切都得严格保密，[p/]不然帮工们就要在我们准备好前就逃跑了。",
     "context": "{\n  \"id\": \"line:0bbdc54\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: We had to keep everything under wraps,[p/] or else the help would have left before we were ready.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c8ea04cbfc48c5f3",
     "original": "Miriam: And where would [i]that[/i] leave us?",
-    "translation": "",
+    "translation": "Miriam: [i]那样的话[/i]，我们该如何自处？",
     "context": "{\n  \"id\": \"line:015863a\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Miriam: And where would [i]that[/i] leave us?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::087d865fb6f612f2",
     "original": "But Jan supposedly overheard Bellwether talking about the Constructs.",
-    "translation": "",
+    "translation": "但是简在不经意间听到了贝尔维瑟提起那些奥术构造体。",
     "context": "{\n  \"id\": \"line:0840985\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"But Jan supposedly overheard Bellwether talking about the Constructs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1ac3cc9ddc5afa4f",
     "original": "Did Bellwether prematurely reveal the plan to Theodore...?[p/] Or was Jan lying about how he found out?",
-    "translation": "",
+    "translation": "贝尔维瑟提前向西奥多暴露了计划吗？[p/]还是简在他怎么发现这件事上说谎了？",
     "context": "{\n  \"id\": \"line:083a63c\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Did Bellwether prematurely reveal the plan to Theodore...?[p/] Or was Jan lying about how he found out?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d60cb9434a91c126",
     "original": "MIRIAM: ...But alas.[p/] With Bellwether gone,[p/] we’ll have to delay our plans.",
-    "translation": "",
+    "translation": "MIRIAM: ……可惜呀。[p/]贝尔维瑟死后，我们只能推迟计划了。",
     "context": "{\n  \"id\": \"line:094c686\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: ...But alas.[p/] With Bellwether gone,[p/] we’ll have to delay our plans.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e41dc6b4d41973b",
     "original": "Player: Frega's Rapier",
-    "translation": "",
+    "translation": "Player: 弗雷加的刺剑",
     "context": "{\n  \"id\": \"line:056a7a2\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Player: Frega's Rapier\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5221233c321d98ce",
     "original": "Celeste: So...[p/] We heard that Aria took your rapier as evidence for the case.",
-    "translation": "",
+    "translation": "Celeste: 是这样的……[p/]我们听说阿莉亚把你的刺剑当作本案的证据拿走了。",
     "context": "{\n  \"id\": \"line:0989729\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: So...[p/] We heard that Aria took your rapier as evidence for the case.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e18340640ff9a5f7",
     "original": "MIRIAM: Can you believe her?![p/][s/] She [i]still[/i] won’t give it back to me!",
-    "translation": "",
+    "translation": "MIRIAM: 你敢信她吗？[p/][s/]她[i]还是[/i]不把它还给我！",
     "context": "{\n  \"id\": \"line:08a011c\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Can you believe her?![p/][s/] She [i]still[/i] won’t give it back to me!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0f950e748dc971d8",
     "original": "MIRIAM: My father will have my head if I can’t get it back soon!",
-    "translation": "",
+    "translation": "MIRIAM: 如果我不能马上拿回剑，父亲会要了我的命！",
     "context": "{\n  \"id\": \"line:00c199c\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: My father will have my head if I can’t get it back soon!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::92c69195a63d1d64",
     "original": "Celeste: How did it even become a part of the investigation anyways?",
-    "translation": "",
+    "translation": "Celeste: 它到底怎么掺和到调查里的？",
     "context": "{\n  \"id\": \"line:05b5143\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: How did it even become a part of the investigation anyways?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::350473e6836055db",
     "original": "MIRIAM: I don’t know![p/][s/] Aria won’t tell me anything!",
-    "translation": "",
+    "translation": "MIRIAM: 我不知道！[p/][s/]阿莉亚什么都不告诉我！",
     "context": "{\n  \"id\": \"line:0a5888d\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: I don’t know![p/][s/] Aria won’t tell me anything!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::de264f104a303897",
     "original": "MIRIAM: I swear if that [i]necromancer[/i] was the one who stole it,[p/] I’ll execute him myself.",
-    "translation": "",
+    "translation": "MIRIAM: 我发誓，如果是被那个[i]死灵法师[/i]偷走的，[p/]我会亲手处决他。",
     "context": "{\n  \"id\": \"line:09b3a03\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: I swear if that [i]necromancer[/i] was the one who stole it,[p/] I’ll execute him myself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3b00d35124dba1c9",
     "original": "Celeste: ...So someone [i]did[/i] steal it from you?",
-    "translation": "",
+    "translation": "Celeste: ……所以，是有人从你这里[i]偷走[/i]了那把剑？",
     "context": "{\n  \"id\": \"line:053505b\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: ...So someone [i]did[/i] steal it from you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::757107714258f13b",
     "original": "MIRIAM: Yes...[p/] From right out of my room...",
-    "translation": "",
+    "translation": "MIRIAM: 是的……[p/]就从我的房间里……",
     "context": "{\n  \"id\": \"line:091fb57\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Yes...[p/] From right out of my room...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::91d5ff6cfddd9b91",
     "original": "Celeste: When did this happen?",
-    "translation": "",
+    "translation": "Celeste: 那是什么时候？",
     "context": "{\n  \"id\": \"line:041fd5e\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: When did this happen?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::88e529bce4ff547f",
     "original": "MIRIAM: About a few weeks ago.",
-    "translation": "",
+    "translation": "MIRIAM: 大概几周前吧。",
     "context": "{\n  \"id\": \"line:05b5c03\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: About a few weeks ago.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bfd5b9251cfdfa03",
     "original": "MIRIAM: I noticed when I came back from one of my classes.",
-    "translation": "",
+    "translation": "MIRIAM: 我有一次下课回来，发现了这事。",
     "context": "{\n  \"id\": \"line:0cd39f8\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: I noticed when I came back from one of my classes.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b51e6fbbc3e1d374",
     "original": "MIRIAM: Someone removed the rapier from its display case in my room.",
-    "translation": "",
+    "translation": "MIRIAM: 有人从我房间里的展示柜里把刺剑拿走了。",
     "context": "{\n  \"id\": \"line:0535ce1\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Someone removed the rapier from its display case in my room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::09506af02b024b3e",
     "original": "Celeste: ...How did they get into your room in the first place?",
-    "translation": "",
+    "translation": "Celeste: ……但说到底，小偷怎么进入你房间的？",
     "context": "{\n  \"id\": \"line:0b54193\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: ...How did they get into your room in the first place?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6d8c091efc6d6940",
     "original": "Celeste: Do you think someone used magic to teleport past the door?",
-    "translation": "",
+    "translation": "Celeste: 你认为可能是有人用法术传送进来吗？",
     "context": "{\n  \"id\": \"line:039974a\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: Do you think someone used magic to teleport past the door?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fd50f3a385af7a94",
     "original": "MIRIAM: Please.[p/] I’m a master of [b]conjuration[/b] magic.",
-    "translation": "",
+    "translation": "MIRIAM: 得了吧。[p/]我是[b]召唤术[/b]魔法的大师。",
     "context": "{\n  \"id\": \"line:06755c1\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Please.[p/] I’m a master of [b]conjuration[/b] magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c26e54de77d1fbb8",
     "original": "MIRIAM: If someone attempted that,[p/] my enchantments would have shunted them out.",
-    "translation": "",
+    "translation": "MIRIAM: 如果有人尝试这么做，[p/]只会因我的法术吃闭门羹。",
     "context": "{\n  \"id\": \"line:07757b1\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: If someone attempted that,[p/] my enchantments would have shunted them out.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a92fe23efcb8771b",
     "original": "That meant that the thief came through one of the doors or windows.",
-    "translation": "",
+    "translation": "也就是说盗贼是从门或窗户进来的。",
     "context": "{\n  \"id\": \"line:02e0238\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"That meant that the thief came through one of the doors or windows.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e3b943dd4287c565",
     "original": "MIRIAM: I bet it was that necromancer.",
-    "translation": "",
+    "translation": "MIRIAM: 我敢打赌是那个[i]死灵法师[/i]干的。",
     "context": "{\n  \"id\": \"line:095d864\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: I bet it was that necromancer.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bfac46078821a570",
     "original": "Miriam: I’m sure a street child like him just [i]knows[/i] how to pick a lock.",
-    "translation": "",
+    "translation": "Miriam: 我确信，像他那样的街头混子恰好[i]知道[/i]怎么撬锁。",
     "context": "{\n  \"id\": \"line:0916ee8\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Miriam: I’m sure a street child like him just [i]knows[/i] how to pick a lock.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::611c3ad99ac8c1be",
     "original": "Player: Your Grades",
-    "translation": "",
+    "translation": "Player: 你的成绩",
     "context": "{\n  \"id\": \"line:00f26ed\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Player: Your Grades\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e74a508bcc5952db",
     "original": "Celeste: I’ve heard that you’re one of the academy’s top students.",
-    "translation": "",
+    "translation": "Celeste: 听说你是学院的顶尖学生之一。",
     "context": "{\n  \"id\": \"line:0619e0a\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: I’ve heard that you’re one of the academy’s top students.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f319ec638886db2",
     "original": "Celeste: ...Your grades must be amazing.",
-    "translation": "",
+    "translation": "Celeste: ……那你的成绩肯定很漂亮了。",
     "context": "{\n  \"id\": \"line:02c7434\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: ...Your grades must be amazing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3029f7a91df293de",
     "original": "MIRIAM: Of course![p/] As an inheritor of House Frega,[p/] my grades are impeccable! [h=\"It feels good|to have my greatness recognized.\" e=\"h\"/]",
-    "translation": "",
+    "translation": "MIRIAM: 这是自然！[p/]作为弗雷加家族的继承人之一，[p/]我的成绩无可挑剔！[[h=\"我的卓越为人所识，|这感觉真是太好了。\" e=\"h\"/]",
     "context": "{\n  \"id\": \"line:0e5fc4e\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Of course![p/] As an inheritor of House Frega,[p/] my grades are impeccable! [h=\\\"It feels good|to have my greatness recognized.\\\" e=\\\"h\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::89e6c32d9e3c300d",
     "original": "That was strange...[p/] I didn't see anything contradictory through the Eye this time.",
-    "translation": "",
+    "translation": "奇怪了……[p/]我这次没有从荷鲁斯之眼看到任何矛盾的内容。",
     "context": "{\n  \"id\": \"line:0985ed5\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"That was strange...[p/] I didn't see anything contradictory through the Eye this time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6c10b381e75d0a5a",
     "original": "Was she just delusional about how good a student she was?",
-    "translation": "",
+    "translation": "她是不是真相信了自己“优秀学生”的妄想？",
     "context": "{\n  \"id\": \"line:0b31850\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Was she just delusional about how good a student she was?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7c5d9555e3b531ec",
     "original": "I gestured to Celeste to continue pressing her.",
-    "translation": "",
+    "translation": "我向塞莱斯特打手势，示意她继续追问。",
     "context": "{\n  \"id\": \"line:0baadee\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"I gestured to Celeste to continue pressing her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::80ce7a26f5e5e790",
     "original": "Celeste: O-[p/]Oh...[p/] Uh...",
-    "translation": "",
+    "translation": "Celeste: 啊、[p/]哦……[p/]呜……",
     "context": "{\n  \"id\": \"line:0429591\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: O-[p/]Oh...[p/] Uh...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2f69e2972f23f5ec",
     "original": "Celeste: What kind of magic do you study here?",
-    "translation": "",
+    "translation": "Celeste: 你在这里研究哪种法术？",
     "context": "{\n  \"id\": \"line:03f2d2f\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: What kind of magic do you study here?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::20279c37344a5605",
     "original": "MIRIAM: You must be joking.[p/] I study magic from the school of [b]conjuration[/b].",
-    "translation": "",
+    "translation": "MIRIAM: 你在开玩笑吧。[p/]我学习[b]召唤术[/b]学派的魔法。",
     "context": "{\n  \"id\": \"line:0092c43\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: You must be joking.[p/] I study magic from the school of [b]conjuration[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e18efc088b0b62f5",
     "original": "MIRIAM: Just like[p/] most members of my house.",
-    "translation": "",
+    "translation": "MIRIAM: 就像——[p/]我家族的大多数人一样。",
     "context": "{\n  \"id\": \"line:017f8ea\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Just like[p/] most members of my house.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e86cc159abc312ef",
     "original": "Celeste: The school of [b]conjuration[/b]...",
-    "translation": "",
+    "translation": "Celeste: [i]召唤术[/i]学派……",
     "context": "{\n  \"id\": \"line:010e809\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: The school of [b]conjuration[/b]...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::60d693cb9e5f874b",
     "original": "Celeste: That’s the type of magic that specializes in spatial manipulation, right?",
-    "translation": "",
+    "translation": "CSteel: 那是专精操纵空间的魔法，对吧？",
     "context": "{\n  \"id\": \"line:0b56705\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: That’s the type of magic that specializes in spatial manipulation, right?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bd03423f219f3450",
     "original": "MIRIAM: Yes.[p/] I consider myself quite the expert in that field.",
-    "translation": "",
+    "translation": "MIRIAM: 是的。[p/]我认为自己在那个领域算是颇有学识。",
     "context": "{\n  \"id\": \"line:0dcb044\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Yes.[p/] I consider myself quite the expert in that field.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7f71cba356877e07",
     "original": "MIRIAM: Why,[p/] the Crown Prince himself has asked for my assistance in a research study. [h=\"It's nice to finally work|with someone of my caliber.\" e=\"h\"/]",
-    "translation": "",
+    "translation": "MIRIAM: 王储殿下甚至亲自请求我协助一个研究项目。[h=\"能和我这样水平的人一起工作，|可真是不错。\" e=\"h\"/]",
     "context": "{\n  \"id\": \"line:042b241\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Why,[p/] the Crown Prince himself has asked for my assistance in a research study. [h=\\\"It's nice to finally work|with someone of my caliber.\\\" e=\\\"h\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8cd479feff9d75af",
     "original": "Again,[p/] I didn’t see any thoughts that contradicted what she was saying.",
-    "translation": "",
+    "translation": "又一次，[p/]我没有看到与她言语相悖的想法。",
     "context": "{\n  \"id\": \"line:0e474aa\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Again,[p/] I didn’t see any thoughts that contradicted what she was saying.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d82a5e6b37f2a083",
     "original": "If she was smart enough to get the Crown Prince’s attention,[p/] why would she be cheating?",
-    "translation": "",
+    "translation": "如果她聪明到能被王储殿下注意，[p/]她为什么要作弊？",
     "context": "{\n  \"id\": \"line:0d539d9\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"If she was smart enough to get the Crown Prince’s attention,[p/] why would she be cheating?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::456eeb0b6ce28141",
     "original": "Player: Aria Steelwind",
-    "translation": "",
+    "translation": "Player: 阿莉亚·斯蒂尔文德",
     "context": "{\n  \"id\": \"line:0f7a65e\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Player: Aria Steelwind\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2dc55277eb28a2f4",
     "original": "Celeste: You said something about “my wayward relative” before.",
-    "translation": "",
+    "translation": "Celeste: 你前面好像有提到“我的远房亲戚”这个字眼。",
     "context": "{\n  \"id\": \"line:042c2e5\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: You said something about “my wayward relative” before.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::559216d5789c369c",
     "original": "Celeste: Were you talking about Aria?",
-    "translation": "",
+    "translation": "Celeste: 你是在说阿莉亚吗？",
     "context": "{\n  \"id\": \"line:05ef8c9\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: Were you talking about Aria?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4ff531d94014838e",
     "original": "MIRIAM: O-[p/][s/]Oh...[p/] I’m terribly sorry if I offended you.",
-    "translation": "",
+    "translation": "MIRIAM: 哦、[p/][s/]哦……[p/]如果我冒犯了你，我感到万分抱歉。",
     "context": "{\n  \"id\": \"line:093133b\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: O-[p/][s/]Oh...[p/] I’m terribly sorry if I offended you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7557a6bffd40743b",
     "original": "MIRIAM: But I’m sure it must pain you to see the way that she’s been acting lately.",
-    "translation": "",
+    "translation": "MIRIAM: 但我相信，她最近的行事风格一定让你颇感心痛。",
     "context": "{\n  \"id\": \"line:0942ff8\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: But I’m sure it must pain you to see the way that she’s been acting lately.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::20267e9bb47f9254",
     "original": "Celeste: Y-[p/]Yes...[p/] It’s...[p/] been [i]extremely[/i] hard.",
-    "translation": "",
+    "translation": "Celeste: 是、[p/]是啊……[p/]那……[p/]确实[i]十分[/i]不好。",
     "context": "{\n  \"id\": \"line:08a1441\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Celeste: Y-[p/]Yes...[p/] It’s...[p/] been [i]extremely[/i] hard.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::40f38550c22a5a55",
     "original": "Hang in there, Celeste.",
-    "translation": "",
+    "translation": "坚持住，塞莱斯特。",
     "context": "{\n  \"id\": \"line:0a84c0e\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Hang in there, Celeste.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::345ab7f5f283b66c",
     "original": "MIRIAM: Did you know that she even interrogated [i]me[/i] about the murder yesterday?",
-    "translation": "",
+    "translation": "MIRIAM: 你知道她昨天就谋杀案一事审问了[i]我[/i]吗？",
     "context": "{\n  \"id\": \"line:0f0a932\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Did you know that she even interrogated [i]me[/i] about the murder yesterday?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f15308b572d76908",
     "original": "MIRIAM: Can you believe it?[p/] A [i]Steelwind[/i] running around a crime scene like a common knight.",
-    "translation": "",
+    "translation": "MIRIAM: 你敢信吗？[p/][i]斯蒂尔文德家的人[/i]像个普通骑士一样在犯罪现场忙活。",
     "context": "{\n  \"id\": \"line:036257b\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Can you believe it?[p/] A [i]Steelwind[/i] running around a crime scene like a common knight.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a9464fef9b682b26",
     "original": "MIRIAM: Why,[p/] if I tried something like that,[p/] my father would disown me.",
-    "translation": "",
+    "translation": "MIRIAM: 我要是这么干，[p/]我父亲绝对会和我断绝关系。",
     "context": "{\n  \"id\": \"line:035df47\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Why,[p/] if I tried something like that,[p/] my father would disown me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6994530a0cf7a19b",
     "original": "Miriam: She's so desperate to prove that she's nothing like her father.",
-    "translation": "",
+    "translation": "Miriam: 她急切地想证明自己与她父亲不一样。",
     "context": "{\n  \"id\": \"line:080f418\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Miriam: She's so desperate to prove that she's nothing like her father.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::682a7992c1682d41",
     "original": "Tyrion: ...Is that really what you believe?",
-    "translation": "",
+    "translation": "Tyrion: ……你真的这么认为？",
     "context": "{\n  \"id\": \"line:0ead017\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Tyrion: ...Is that really what you believe?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bded4d9e148979a3",
     "original": "Tyrion: Or are you just hiding the fact that you're here on your father's behalf?",
-    "translation": "",
+    "translation": "Tyrion: 或者你只是在隐藏自己代表父亲来此的事实？",
     "context": "{\n  \"id\": \"line:04484a2\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Tyrion: Or are you just hiding the fact that you're here on your father's behalf?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::196c6c58ecbe250d",
     "original": "Aria: I am [i]not[/i] working with my father! [h=\"I working against him|just as much as you are!\" e=\"sa\"/]",
-    "translation": "",
+    "translation": "Aria: 我[i]没有[/i]参加父亲的事务！[h=\"和你一样|我是在对抗他！\" e=\"sa\"/]",
     "context": "{\n  \"id\": \"line:0ee3121\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Aria: I am [i]not[/i] working with my father! [h=\\\"I working against him|just as much as you are!\\\" e=\\\"sa\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7a66a473534ff87f",
     "original": "Aria: My apologies.[p/] I didn't mean to lose my temper like that.",
-    "translation": "",
+    "translation": "Aria: 抱歉。[p/]我不知道自己怎么了。",
     "context": "{\n  \"id\": \"line:0bff9ee\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Aria: My apologies.[p/] I didn't mean to lose my temper like that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e5c477ce48a98b53",
     "original": "Is that why she became a prosecutor?[p/] Was it all to reject her bloodthirsty father?",
-    "translation": "",
+    "translation": "那就是她成为检察官的原因吗？[p/]只是为了反对她那嗜血的父亲？",
     "context": "{\n  \"id\": \"line:04780b5\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"Is that why she became a prosecutor?[p/] Was it all to reject her bloodthirsty father?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2b40fa0f5625b2e4",
     "original": "MIRIAM: Honestly,[p/] she probably thinks she can do anything just because of her betrothed. [h=\"She's so full of herself.|Aster deserves better.\" e=\"a\"/]",
-    "translation": "",
+    "translation": "MIRIAM: 说真的，[p/]因为她未婚夫在，她大概觉得自己能为所欲为。[h=\"她太自满了。|阿斯特值得更好的。\" e=\"a\"/]",
     "context": "{\n  \"id\": \"line:036f91f\",\n  \"node\": \"Dorm_Talk\",\n  \"text\": \"MIRIAM: Honestly,[p/] she probably thinks she can do anything just because of her betrothed. [h=\\\"She's so full of herself.|Aster deserves better.\\\" e=\\\"a\\\"/]\"\n}"
   },
   {
