@@ -9963,7 +9963,7 @@
   {
     "key": "C1 Dialogue.csv::translation::ecda63cd19ca0a75",
     "original": "If a prisoner tried to escape,[p/] there would be a three-story drop to freedom.",
-    "translation": "如果秋芳想逃跑的话，[p/]从此通向自由的道路得有三层楼那么高。",
+    "translation": "如果囚犯想逃跑的话，[p/]从此通向自由的道路得有三层楼那么高。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:0ab4fb5\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"If a prisoner tried to escape,[p/] there would be a three-story drop to freedom.\"\n}"
   },

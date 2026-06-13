@@ -14702,493 +14702,493 @@
   {
     "key": "C2 Dialogue.csv::translation::ed803b5e5d1b0074",
     "original": "Celeste: Wait, do we have time to kill?",
-    "translation": "",
+    "translation": "Celeste: 话说，我们还有点时间放松下吧？",
     "context": "{\n  \"id\": \"line:0a03431\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Celeste: Wait, do we have time to kill?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cf481b84a7d5f44e",
     "original": "Celeste: ...Do you want to head back to the library?[p/] You could continue your research.",
-    "translation": "",
+    "translation": "Celeste: ……你有没有想回图书馆一趟？[p/]你可以继续自己的研究嘛。",
     "context": "{\n  \"id\": \"line:0e87ebe\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Celeste: ...Do you want to head back to the library?[p/] You could continue your research.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f6e1db80a372b59f",
     "original": "She was fidgeting with her hands.[p/] Her feet were already shuffling toward the library doors.",
-    "translation": "",
+    "translation": "她两手不安分地摆弄着，[p/]双脚已经挪向图书馆的方向。",
     "context": "{\n  \"id\": \"line:0359944\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"She was fidgeting with her hands.[p/] Her feet were already shuffling toward the library doors.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e4b5351b5f4f1c16",
     "original": "Tyrion: ...You just want to read [i]Dagger at Daggerfall[/i], don't you?",
-    "translation": "",
+    "translation": "Tyrion: ……你就是想继续读[i]《惊魂匕首雨》[/i]，是吧。",
     "context": "{\n  \"id\": \"line:0dedc91\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Tyrion: ...You just want to read [i]Dagger at Daggerfall[/i], don't you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ab99640aa8451fc9",
     "original": "Celeste: It's [i]Death at Daggerfall[/i],[p/] and it's a great series!",
-    "translation": "",
+    "translation": "Celeste: 是[i]《血溅匕首雨》[/i]，[p/]伟大的系列著作！",
     "context": "{\n  \"id\": \"line:0e8e1dc\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Celeste: It's [i]Death at Daggerfall[/i],[p/] and it's a great series!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4dfe623818fae379",
     "original": "Tyrion: Every time I try to pick one of those books up,[p/] I figure out who the killer is within the first few chapters.",
-    "translation": "",
+    "translation": "Tyrion: 每次我翻开其中一本，[p/]读完前几章就发现犯人是谁了。",
     "context": "{\n  \"id\": \"line:0a67c47\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Tyrion: Every time I try to pick one of those books up,[p/] I figure out who the killer is within the first few chapters.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a81eb0e136fcc86c",
     "original": "Celeste: Yeah?[p/] Well, I'm a normal human being, okay?[p/] I'm not some murder-solving prodigy.",
-    "translation": "",
+    "translation": "Celeste: 是哦？[p/]好啦，我只是一名凡人，行吧？[p/]我又不是什么破案天才。",
     "context": "{\n  \"id\": \"line:00ef9e6\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Celeste: Yeah?[p/] Well, I'm a normal human being, okay?[p/] I'm not some murder-solving prodigy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b035ecac55c51f37",
     "original": "Celeste: Why don't you go read one of those [i]Wraithbound[/i] books?",
-    "translation": "",
+    "translation": "Celeste: 你干嘛不去读[i]《缚灵者》[/i]丛书呢？",
     "context": "{\n  \"id\": \"line:0c78b29\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Celeste: Why don't you go read one of those [i]Wraithbound[/i] books?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2948464b9de9b146",
     "original": "Celeste: Maybe you'll find the unpublished sequel there, too.",
-    "translation": "",
+    "translation": "Celeste: 你或许能在那里找到还没出版的续作。",
     "context": "{\n  \"id\": \"line:089a463\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Celeste: Maybe you'll find the unpublished sequel there, too.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::499892dd6c39cba6",
     "original": "Tyrion: Celeste,[p/] that series has been finished for centuries.",
-    "translation": "",
+    "translation": "Tyrion: 塞莱斯特啊，[p/]这个系列几个世纪前就写完了。",
     "context": "{\n  \"id\": \"line:051f53c\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Tyrion: Celeste,[p/] that series has been finished for centuries.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3991832aa8b00507",
     "original": "Wallace: The nobility paid Corrin Bloomveil to write stories about evil necromancers![p/][s/] He's a sellout!",
-    "translation": "",
+    "translation": "Wallace: 贵族花大钱让科林·花帷去写那些邪恶死灵法师的故事！[p/][s/]他就靠这个赚得盆满钵满！",
     "context": "{\n  \"id\": \"line:0259c51\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Wallace: The nobility paid Corrin Bloomveil to write stories about evil necromancers![p/][s/] He's a sellout!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b64e9a9299ee2832",
     "original": "Wallace: Liches are magically impossible,[p/] but people still just eat that nonsense up!",
-    "translation": "",
+    "translation": "Wallace: 巫妖在法术上明明是不可能的，[p/]但人们就是吃这套无稽之谈！",
     "context": "{\n  \"id\": \"line:04def7e\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Wallace: Liches are magically impossible,[p/] but people still just eat that nonsense up!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e75c4c63a88d7e2c",
     "original": "Wallace: That man single-handedly threw the study of [b]necromancy[/b] back into the Stone Age!",
-    "translation": "",
+    "translation": "Wallace: 那家伙简直是一手把[b]死灵术[/b]的研究水平扔回了石器时代！",
     "context": "{\n  \"id\": \"line:09d2f7f\",\n  \"node\": \"DormEnd_3\",\n  \"text\": \"Wallace: That man single-handedly threw the study of [b]necromancy[/b] back into the Stone Age!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea911582cd97c004",
     "original": "Celeste: What's wrong?",
-    "translation": "",
+    "translation": "Celeste: 怎么了？",
     "context": "{\n  \"id\": \"line:06b5613\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: What's wrong?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b114424a1f5e53c7",
     "original": "Tyrion: I can't stop thinking about what Wallace said about Corrin Bloomviel.",
-    "translation": "",
+    "translation": "Tyrion: 我忍不住想起华莱士对科林·花帷的评论。",
     "context": "{\n  \"id\": \"line:001e8d6\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: I can't stop thinking about what Wallace said about Corrin Bloomviel.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4aac3a0bcc4e127c",
     "original": "Celeste: Look,[p/] I get that you really like that series,[p/] but they're just books, Tyrion.",
-    "translation": "",
+    "translation": "Celeste: 看吧，[p/]我明白你确实很热爱那部作品，[p/]但那也只是小说啊，提利昂。",
     "context": "{\n  \"id\": \"line:03ab330\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: Look,[p/] I get that you really like that series,[p/] but they're just books, Tyrion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eafcccd693921b89",
     "original": "Tyrion: They're more than that to me.[p/] Those books inspired me to do what I'm doing now.",
-    "translation": "",
+    "translation": "Tyrion: 对我来说意义更为重大。[p/]那辑丛书激励我投身现在的事业。",
     "context": "{\n  \"id\": \"line:0d4afc8\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: They're more than that to me.[p/] Those books inspired me to do what I'm doing now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::36aa6611f28dcc6c",
     "original": "Celeste: Wait...[p/] The story about the magic light swords inspired you to become a defense attorney?",
-    "translation": "",
+    "translation": "Celeste: 不会吧……[p/]关于魔法和光剑的故事却激励你成为辩护律师？",
     "context": "{\n  \"id\": \"line:00af226\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: Wait...[p/] The story about the magic light swords inspired you to become a defense attorney?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::efcc19ab8965a47e",
     "original": "Tyrion: A long time ago,[p/] I experienced firsthand how corrupt Wyverngarde was.[p/] I started assuming that the nobles would always win.",
-    "translation": "",
+    "translation": "Tyrion: 很久以前，[p/]我亲眼目睹维文加德王国有多么腐坏。[p/]我开始认为贵族永远赢得一切。",
     "context": "{\n  \"id\": \"line:0e7d060\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: A long time ago,[p/] I experienced firsthand how corrupt Wyverngarde was.[p/] I started assuming that the nobles would always win.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::90221d196f4e687b",
     "original": "Tyrion: But those books made me want to believe in a world where good could triumph over evil against all odds.",
-    "translation": "",
+    "translation": "Tyrion: 但那册书让我相信有一个善良战胜邪恶，越过一切阻碍的世界。",
     "context": "{\n  \"id\": \"line:065b733\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: But those books made me want to believe in a world where good could triumph over evil against all odds.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b93ea5f80d9301d2",
     "original": "Tyrion: And if I'd never had that,[p/] I don't know if I'd be here today.",
-    "translation": "",
+    "translation": "Tyrion: 如果没有那种体会，[p/]我不知道今天自己是否还会在这里。",
     "context": "{\n  \"id\": \"line:0d6dd0a\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: And if I'd never had that,[p/] I don't know if I'd be here today.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1af58c852bcc8f1e",
     "original": "Celeste: I get that,[p/] but Wallace really cares a lot about [b]necromancy[/b] too.",
-    "translation": "",
+    "translation": "Celeste:  我懂你了，[p/]但华莱士真的也很在乎[b]死灵术[/b]。",
     "context": "{\n  \"id\": \"line:00ca907\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: I get that,[p/] but Wallace really cares a lot about [b]necromancy[/b] too.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a241300f2c4914bb",
     "original": "Celeste: We've been [i]feeling[/i] the stigma against it for this entire case.",
-    "translation": "",
+    "translation": "Celeste: 在这个案件中，我们一直能[i]感受到[/i]对它的污名化。",
     "context": "{\n  \"id\": \"line:0bc8691\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: We've been [i]feeling[/i] the stigma against it for this entire case.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34285e40d5ac5c45",
     "original": "Celeste: Is it really so hard to believe that those books contributed to how bad things are for him?",
-    "translation": "",
+    "translation": "Celeste: 那些书对他来说造成多糟糕的影响，真的那么难以置信吗？",
     "context": "{\n  \"id\": \"line:0a3fb01\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: Is it really so hard to believe that those books contributed to how bad things are for him?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::70d1fe64157fbd04",
     "original": "Celeste: You've said it yourself.[p/] It's one of the most popular books out there.",
-    "translation": "",
+    "translation": "Celeste: 你自己也说了，p/]那是最受欢迎的书籍之一。",
     "context": "{\n  \"id\": \"line:0999a21\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: You've said it yourself.[p/] It's one of the most popular books out there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ce26223e0e8f9c85",
     "original": "Celeste: Do you even know what kind of person Corrin Bloomviel was?",
-    "translation": "",
+    "translation": "Celeste: 你其实都不知道科林·花帷是什么样的人，对吧？",
     "context": "{\n  \"id\": \"line:0b6c893\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: Do you even know what kind of person Corrin Bloomviel was?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::753656806eee44f9",
     "original": "Tyrion: ...Not really.",
-    "translation": "",
+    "translation": "Tyrion: ……确实不知道。",
     "context": "{\n  \"id\": \"line:0f0a1fe\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: ...Not really.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5db3f4e30d79dade",
     "original": "Celeste: So he [i]could[/i] have been paid off by the nobility to write those books.",
-    "translation": "",
+    "translation": "Celeste: 那么他[i]有可能[/i]是受贵族雇佣创作的。",
     "context": "{\n  \"id\": \"line:01c4295\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: So he [i]could[/i] have been paid off by the nobility to write those books.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::26c7fe2636061b99",
     "original": "Tyrion: No...[p/] Someone who did that could never write something so beautiful.",
-    "translation": "",
+    "translation": "Tyrion: 不可能……[p/]那种人不可能创作出那样优美的故事。",
     "context": "{\n  \"id\": \"line:0177a64\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: No...[p/] Someone who did that could never write something so beautiful.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::01f591b374e4582a",
     "original": "Tyrion: I'll grant you that it's likely he played into harmful stereotypes about necromancers,[p/] but I'm sure it was just an unfortunate mistake.",
-    "translation": "",
+    "translation": "Tyrion: 我赞同他可能是将死灵法师陷入有害的刻板印象，[p/]但我确信那只是个不幸的过失。",
     "context": "{\n  \"id\": \"line:071e31f\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: I'll grant you that it's likely he played into harmful stereotypes about necromancers,[p/] but I'm sure it was just an unfortunate mistake.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::126ad3a0c40ecb04",
     "original": "Tyrion: I'm sure there are historical records that will note his many good deeds and contributions to society.",
-    "translation": "",
+    "translation": "Tyrion: 我确信史书会记载他曾为社会作出的贡献。",
     "context": "{\n  \"id\": \"line:03a8868\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: I'm sure there are historical records that will note his many good deeds and contributions to society.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f4cf6a282d48b8a2",
     "original": "Tyrion: Maybe if I show Wallace that,[p/] he'll understand that he wasn't all that bad.",
-    "translation": "",
+    "translation": "Tyrion: 或许我向华莱士出示这些记录，[p/]他就会明白科林不是那么坏的人。",
     "context": "{\n  \"id\": \"line:055b466\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: Maybe if I show Wallace that,[p/] he'll understand that he wasn't all that bad.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb9a8213d65f91a0",
     "original": "Celeste: Sure, sure...",
-    "translation": "",
+    "translation": "Celeste: 是、是哦……",
     "context": "{\n  \"id\": \"line:0e0cadf\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: Sure, sure...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::42b6c1744d1779c7",
     "original": "I looked over to her.[p/] She was already shuffling towards the entrance of the library.",
-    "translation": "",
+    "translation": "我向她望去。[p/]她已经偷偷向图书馆入口的方向挪过去了。",
     "context": "{\n  \"id\": \"line:04e0341\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"I looked over to her.[p/] She was already shuffling towards the entrance of the library.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f528e125aa9a172",
     "original": "Tyrion: Alright, let's just go.",
-    "translation": "",
+    "translation": "Tyrion: 行吧，我们出发。",
     "context": "{\n  \"id\": \"line:0c479dd\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Tyrion: Alright, let's just go.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::599646f0372a5ed0",
     "original": "Celeste: Woohoo!",
-    "translation": "",
+    "translation": "Celeste: 哇哦！",
     "context": "{\n  \"id\": \"line:0dc29b6\",\n  \"node\": \"DormEnd_4\",\n  \"text\": \"Celeste: Woohoo!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0cb5cbefe6d04341",
     "original": "She barely acknowledged me.[p/] She flung open the doors to the library and ran inside.",
-    "translation": "",
+    "translation": "她几乎没理会我，[p/]猛地推开图书馆大门，冲了进去。",
     "context": "{\n  \"id\": \"line:0a96eea\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"She barely acknowledged me.[p/] She flung open the doors to the library and ran inside.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0781011264b384ed",
     "original": "By the time I entered the library,[p/] she was already sitting at a table,[p/] her eyes glued to the unpublished manuscript.",
-    "translation": "",
+    "translation": "待我走进图书馆时，[p/]她已经坐在桌边，[p/]视线黏在没出版的手稿上。",
     "context": "{\n  \"id\": \"line:0074c5a\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"By the time I entered the library,[p/] she was already sitting at a table,[p/] her eyes glued to the unpublished manuscript.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b67d352a4ea3082a",
     "original": "Tyrion: Alright,[p/] where to start...?",
-    "translation": "",
+    "translation": "Tyrion: 好了，[p/]从哪里开始呢？",
     "context": "{\n  \"id\": \"line:01cc8c4\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: Alright,[p/] where to start...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0253dc076397c694",
     "original": "Tyrion: Ah, here we go.[p/] Corrin Bloomviel's autobiography.",
-    "translation": "",
+    "translation": "Tyrion: 啊，找到了。[p/]科林·花帷的传记。",
     "context": "{\n  \"id\": \"line:0a4ff21\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: Ah, here we go.[p/] Corrin Bloomviel's autobiography.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ec9fadf0bc486673",
     "original": "Celeste: Ugh...[p/] That hour flew by.[p/] I still couldn't finish—",
-    "translation": "",
+    "translation": "Celeste: 呃……[p/]时间过得太快了。[p/]我都没来得及——",
     "context": "{\n  \"id\": \"line:0bb96d7\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Celeste: Ugh...[p/] That hour flew by.[p/] I still couldn't finish—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::056795583bb93996",
     "original": "Celeste: Oh my god...[p/] How many books did you get?",
-    "translation": "",
+    "translation": "Celeste: 天啊……[p/]你这是读了多少本书啊？",
     "context": "{\n  \"id\": \"line:008304c\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Celeste: Oh my god...[p/] How many books did you get?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f4406dda8f30d396",
     "original": "Tyrion: HE WAS A STEELWIND, CELESTE!",
-    "translation": "",
+    "translation": "Tyrion: <size=1.5em>他是斯蒂尔文德家的，塞莱斯特！</size>",
     "context": "{\n  \"id\": \"line:0cea3b2\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: HE WAS A STEELWIND, CELESTE!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f47ff1a3537a10d2",
     "original": "Celeste: I—[p/][s/] What?",
-    "translation": "",
+    "translation": "Celeste: 我——[p/][s/]真的假的？",
     "context": "{\n  \"id\": \"line:07476f5\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Celeste: I—[p/][s/] What?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ce3d2a1227cd223b",
     "original": "Tyrion: He wasn't just paid by the nobility![p/][s/] He was [i]of[/i] the nobility!",
-    "translation": "",
+    "translation": "Tyrion: 他不只是受雇于贵族！[p/][s/]他就是[i]贵族[/i]！",
     "context": "{\n  \"id\": \"line:0375c17\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: He wasn't just paid by the nobility![p/][s/] He was [i]of[/i] the nobility!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7b3d494a790d5dfa",
     "original": "Celeste: ...Was that in the historical records?",
-    "translation": "",
+    "translation": "Celeste: ……那是史书里记载的？",
     "context": "{\n  \"id\": \"line:0220f42\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Celeste: ...Was that in the historical records?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b1c38e5416b6582f",
     "original": "Tyrion: No![p/][s/] It's all one giant conspiracy!",
-    "translation": "",
+    "translation": "Tyrion: 不是！[p/][s/]这一切都是个巨大的阴谋！",
     "context": "{\n  \"id\": \"line:0638344\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: No![p/][s/] It's all one giant conspiracy!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4d8e946bdbd1135a",
     "original": "Tyrion: I found his old submissions to writing competitions that he'd made under his original name.",
-    "translation": "",
+    "translation": "Tyrion: 我找到了他以原名参加比赛时提交的作品。",
     "context": "{\n  \"id\": \"line:0316407\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: I found his old submissions to writing competitions that he'd made under his original name.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea3f789bafbb4735",
     "original": "Tyrion: The prose he used back then matches his style too closely![p/][s/] It's uncanny when you compare them!",
-    "translation": "",
+    "translation": "Tyrion: 他那种平铺直叙的风格与科林太吻合了！[p/][s/]将两者放在一起对比，简直不可思议！",
     "context": "{\n  \"id\": \"line:0987537\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: The prose he used back then matches his style too closely![p/][s/] It's uncanny when you compare them!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f9b9ed2559a713d0",
     "original": "Tyrion: Some of these submissions even contained story elements that he later used and polished in [i]Wraithbound[/i]!",
-    "translation": "",
+    "translation": "Tyrion: 其中一些作品的段落甚至在打磨之后又出现在[i]《缚灵者》[/i]系列中！",
     "context": "{\n  \"id\": \"line:006eb55\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: Some of these submissions even contained story elements that he later used and polished in [i]Wraithbound[/i]!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d5f9bb8b39653990",
     "original": "Celeste: How did you even—?",
-    "translation": "",
+    "translation": "Celeste: 你到底是怎么——？",
     "context": "{\n  \"id\": \"line:0c94f6f\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Celeste: How did you even—?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9b7b0b1880b2ebc4",
     "original": "Tyrion: His real name was Lorenzo Steelwind,[p/][s/] born in the year 208!",
-    "translation": "",
+    "translation": "Tyrion: 他的本名是洛伦佐·斯蒂尔文德，[p/][s/]生于208年！",
     "context": "{\n  \"id\": \"line:0ead09c\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: His real name was Lorenzo Steelwind,[p/][s/] born in the year 208!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cf78a5f84696f195",
     "original": "Tyrion: He deserted the army and was disowned by his family,[p/] but they paid him off, Celeste!",
-    "translation": "",
+    "translation": "Tyrion: 他逃离了军队，被逐出家门，[p/]但斯蒂尔文德家仍向他支付报酬啊，塞莱斯特！",
     "context": "{\n  \"id\": \"line:00d8fda\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: He deserted the army and was disowned by his family,[p/] but they paid him off, Celeste!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::73783e670292a769",
     "original": "Tyrion: They saw that the masses liked his writing!",
-    "translation": "",
+    "translation": "Tyrion: 他们发现了大众喜爱他的作品！",
     "context": "{\n  \"id\": \"line:0c95726\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: They saw that the masses liked his writing!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::33f5ba40cf02874b",
     "original": "Tyrion: They corrupted him![p/][s/] They used his artistry as a weapon to turn the public against the necromancers!",
-    "translation": "",
+    "translation": "Tyrion: 所以他们也腐化了他！[p/][s/]他们将科林文艺水平的作为武器，使民众厌恶死灵法师！",
     "context": "{\n  \"id\": \"line:0dbd5b7\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: They corrupted him![p/][s/] They used his artistry as a weapon to turn the public against the necromancers!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::67756507538dadc0",
     "original": "Tyrion: And he just [i]went[/i] with it![p/] They dangled his inheritance in front of him like a carrot on a stick!",
-    "translation": "",
+    "translation": "Tyrion: 而他[i]顺从[/i]了！[p/]就如同把胡萝卜绑在木棍上伸到驴子眼前那样，他们将继承权悬在他眼前引诱他！",
     "context": "{\n  \"id\": \"line:07912b2\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: And he just [i]went[/i] with it![p/] They dangled his inheritance in front of him like a carrot on a stick!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e62cf4d1f30ee660",
     "original": "Celeste: Tyrion,[p/] what in the actual hell?[p/] We've only been here for an hour.",
-    "translation": "",
+    "translation": "Celeste: 提利昂，[p/]这都哪跟哪啊？[p/]我们不过在这里待了一个小时。",
     "context": "{\n  \"id\": \"line:03ae190\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Celeste: Tyrion,[p/] what in the actual hell?[p/] We've only been here for an hour.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fa61a4d17af0a3be",
     "original": "Tyrion: I know...[p/] If I just had more time,[p/] I could find enough evidence to prove this once and for all.",
-    "translation": "",
+    "translation": "Tyrion: 我知道……[p/]如果时间更充裕一点，[p/]我能找到足够的证据来一劳永逸地证明这一点。",
     "context": "{\n  \"id\": \"line:04f47bb\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: I know...[p/] If I just had more time,[p/] I could find enough evidence to prove this once and for all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ae095cb6391cd0e8",
     "original": "Tyrion: I'm sure if I can take a few more hours to—",
-    "translation": "",
+    "translation": "Tyrion: 我确定，只要再花上几个小时——",
     "context": "{\n  \"id\": \"line:0f8c15a\",\n  \"node\": \"DormEnd_5\",\n  \"text\": \"Tyrion: I'm sure if I can take a few more hours to—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4884875d1836b1d0",
     "original": "Celeste: What?![p/][s/] Tyrion, no!",
-    "translation": "",
+    "translation": "Celeste: 什么呀？！[p/][s/]不行，提利昂！",
     "context": "{\n  \"id\": \"line:0583152\",\n  \"node\": \"DormEnd_6\",\n  \"text\": \"Celeste: What?![p/][s/] Tyrion, no!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::100ba357be74b15b",
     "original": "Celeste: Wallace's trial is tomorrow morning!",
-    "translation": "",
+    "translation": "Celeste: 华莱士的庭审明天一早就开始了！",
     "context": "{\n  \"id\": \"line:0d6e92a\",\n  \"node\": \"DormEnd_6\",\n  \"text\": \"Celeste: Wallace's trial is tomorrow morning!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::42a362047bbf6e52",
     "original": "Tyrion: S-[p/][s/]Scaled Lord,[p/][s/] how could I forget?!",
-    "translation": "",
+    "translation": "Tyrion: 鳞、[p/][s/]鳞主在上，[p/][s/]我怎能把这个忘记了？！",
     "context": "{\n  \"id\": \"line:06d61cd\",\n  \"node\": \"DormEnd_6\",\n  \"text\": \"Tyrion: S-[p/][s/]Scaled Lord,[p/][s/] how could I forget?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c1a48382f3efa8c7",
     "original": "Celeste: It's fine.[p/][s/] Let's just—",
-    "translation": "",
+    "translation": "Celeste: 没关系的。[p/][s/]我们这就——",
     "context": "{\n  \"id\": \"line:03a7ad7\",\n  \"node\": \"DormEnd_6\",\n  \"text\": \"Celeste: It's fine.[p/][s/] Let's just—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::999d4a06f3fac6fe",
     "original": "Tyrion: Wallace will want to hear about what I found!",
-    "translation": "",
+    "translation": "Tyrion: 华莱士会想要听到我的发现！",
     "context": "{\n  \"id\": \"line:0b3b931\",\n  \"node\": \"DormEnd_6\",\n  \"text\": \"Tyrion: Wallace will want to hear about what I found!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d8988b5815c77c3b",
     "original": "Celeste: Ugh...[p/] Okay,[p/] whatever.[p/] Let's just go home.",
-    "translation": "",
+    "translation": "Celeste: 呃……[p/]好啦。[p/]我们回家吧。",
     "context": "{\n  \"id\": \"line:0136715\",\n  \"node\": \"DormEnd_6\",\n  \"text\": \"Celeste: Ugh...[p/] Okay,[p/] whatever.[p/] Let's just go home.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::611b2398f0a1726a",
     "original": "Tyrion: Naught could remain concealed, Celeste!",
-    "translation": "",
+    "translation": "Tyrion: 凡欲隐匿，终必昭彰啊，塞莱斯特！",
     "context": "{\n  \"id\": \"line:0477b19\",\n  \"node\": \"DormEnd_6\",\n  \"text\": \"Tyrion: Naught could remain concealed, Celeste!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::752193008ba53de9",
     "original": "Celeste: Sure, Tyrion.[p/] You did great.[p/] Good job.",
-    "translation": "",
+    "translation": "Celeste: ……没错，提利昂。[p/]你做得很棒。[p/]好孩子。",
     "context": "{\n  \"id\": \"line:08e9793\",\n  \"node\": \"DormEnd_6\",\n  \"text\": \"Celeste: Sure, Tyrion.[p/] You did great.[p/] Good job.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0353010561df9608",
     "original": "Tyrion: Naught could remain concealed...",
-    "translation": "",
+    "translation": "Tyrion: 凡欲隐匿，终必昭彰……",
     "context": "{\n  \"id\": \"line:01d52d1\",\n  \"node\": \"DormEnd_6\",\n  \"text\": \"Tyrion: Naught could remain concealed...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ec01f18926082367",
     "original": "Wallace: What?!",
-    "translation": "",
+    "translation": "Wallace: 真的吗？！",
     "context": "{\n  \"id\": \"line:03d6ef8\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Wallace: What?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::08b9c3c2522dfe3f",
     "original": "Tyrion: I know![p/] I wouldn't believe it if I hadn't seen all the pieces there myself!",
-    "translation": "",
+    "translation": "Tyrion: 我已经知道了！[p/]如果不是亲眼见到那些材料，我根本不会相信的！",
     "context": "{\n  \"id\": \"line:05e8979\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Tyrion: I know![p/] I wouldn't believe it if I hadn't seen all the pieces there myself!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d3a228787dc61d71",
     "original": "Wallace: That makes so much sense...[p/] The Steelwinds had always seen the necromancers as a threat to their power...",
-    "translation": "",
+    "translation": "Wallace: 这就说的通了……[p/]斯蒂尔文德一族向来将死灵法师视作对他们权力的威胁……",
     "context": "{\n  \"id\": \"line:02b40dd\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Wallace: That makes so much sense...[p/] The Steelwinds had always seen the necromancers as a threat to their power...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e7a65e0ab8d78d6c",
     "original": "Celeste: Guys?",
-    "translation": "",
+    "translation": "Celeste: 伙计们？",
     "context": "{\n  \"id\": \"line:003a5cc\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Celeste: Guys?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0ab189efc5860ea8",
     "original": "Wallace: But to think that Bloomviel was originally a part of their family...",
-    "translation": "",
+    "translation": "Wallace: 但一想到花帷一开始就是他们家族的一员……",
     "context": "{\n  \"id\": \"line:0cb079b\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Wallace: But to think that Bloomviel was originally a part of their family...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::10e9eaf3a241bc37",
     "original": "Tyrion: I know, right?![p/] It's cruelly insane when you think about it!",
-    "translation": "",
+    "translation": "Tyrion: 我明白这种感觉！[p/]稍微想想这个观点都觉得太疯狂了！",
     "context": "{\n  \"id\": \"line:0c0b812\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Tyrion: I know, right?![p/] It's cruelly insane when you think about it!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6a68e967b47c74fe",
     "original": "Celeste: Guys![p/][s/] Focus!",
-    "translation": "",
+    "translation": "Celeste: 伙计们！[p/][s/]注意！",
     "context": "{\n  \"id\": \"line:01b4633\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Celeste: Guys![p/][s/] Focus!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5209817412fe8ff2",
     "original": "Celeste: Wallace is on trial for murder right now!",
-    "translation": "",
+    "translation": "Celeste: 华莱士现在要接受谋杀案的审判了！",
     "context": "{\n  \"id\": \"line:00478ba\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Celeste: Wallace is on trial for murder right now!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cb4900c6f6be3d2d",
     "original": "Wallace: ...",
-    "translation": "",
+    "translation": "Wallace: ……",
     "context": "{\n  \"id\": \"line:0ede2df\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Wallace: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a6f93c8fd33af6e5",
     "original": "Wallace: Oh, yeah...",
-    "translation": "",
+    "translation": "Wallace: 哦，是哦……",
     "context": "{\n  \"id\": \"line:02f840b\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Wallace: Oh, yeah...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7dd05da7d0798cf3",
     "original": "Tyrion: S-[p/][s/]Sorry,[p/] I don't know what came over me.",
-    "translation": "",
+    "translation": "Tyrion: 抱、[p/][s/]抱歉哦，[p/]真不知道自己着了什么魔。",
     "context": "{\n  \"id\": \"line:0623e0a\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Tyrion: S-[p/][s/]Sorry,[p/] I don't know what came over me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::960ec276a6ac80c9",
     "original": "Tyrion: After I acquit you,[p/] do you want to talk more about what I found?",
-    "translation": "",
+    "translation": "Tyrion: 让你脱罪之后，[p/]你想再一起深入聊聊我的发现吗？",
     "context": "{\n  \"id\": \"line:053454f\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Tyrion: After I acquit you,[p/] do you want to talk more about what I found?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::10be305e7c2ffda9",
     "original": "Wallace: Yes.",
-    "translation": "",
+    "translation": "Wallace: 当然。",
     "context": "{\n  \"id\": \"line:0bf3df6\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Wallace: Yes.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::397943fbc9e8a42b",
     "original": "Celeste: Alright,[p/] don't lose that confidence, I guess.",
-    "translation": "",
+    "translation": "Celeste: 行吧，[p/]别忘了这股子自信就好，我想。",
     "context": "{\n  \"id\": \"line:083cd5d\",\n  \"node\": \"DormEnd_7\",\n  \"text\": \"Celeste: Alright,[p/] don't lose that confidence, I guess.\"\n}"
   },
   {
@@ -15200,19 +15200,19 @@
   {
     "key": "C2 Dialogue.csv::translation::f5f48ea48eed4347",
     "original": "There was a steel door that led into the cell.",
-    "translation": "",
+    "translation": "一扇通往牢房的铁门。",
     "context": "{\n  \"id\": \"line:0a893af\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"There was a steel door that led into the cell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5db0fec794d6a353",
     "original": "A magical mechanism covered by a steel box was placed over the lock.",
-    "translation": "",
+    "translation": "门锁外面盖着被一个钢盒保护着的魔法装置。",
     "context": "{\n  \"id\": \"line:04fb7cc\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"A magical mechanism covered by a steel box was placed over the lock.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1ba22b0fbe32c025",
     "original": "They probably noticed that Celeste broke the lock last time she was here.",
-    "translation": "",
+    "translation": "他们大概是注意到塞莱斯特上次在里面破坏了门锁。",
     "context": "{\n  \"id\": \"line:048248c\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"They probably noticed that Celeste broke the lock last time she was here.\"\n}"
   },
   {
@@ -15224,13 +15224,13 @@
   {
     "key": "C2 Dialogue.csv::translation::beb22371628da1c8",
     "original": "Lit torches were hanging on the cell walls.[p/] It seemed a bit irresponsible to light a fire in here.",
-    "translation": "",
+    "translation": "点燃的火把挂在牢房的墙上。[p/]在这里点火看起来有点不负责任。",
     "context": "{\n  \"id\": \"line:0722d8a\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"Lit torches were hanging on the cell walls.[p/] It seemed a bit irresponsible to light a fire in here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::654e0f21bcb47ed9",
     "original": "But prisoner safety was probably the last thing on the Inquisition’s mind.",
-    "translation": "",
+    "translation": "但囚犯们的安全显然是裁判所最不关心的事情。",
     "context": "{\n  \"id\": \"line:04b672b\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"But prisoner safety was probably the last thing on the Inquisition’s mind.\"\n}"
   },
   {
@@ -15242,13 +15242,13 @@
   {
     "key": "C2 Dialogue.csv::translation::7cb3c1d109ae4466",
     "original": "The cell had a barred window.[p/] The bars were rusted.",
-    "translation": "",
+    "translation": "牢房里有一扇带有铁栏杆的窗户。[p/]栏杆已经生锈了。",
     "context": "{\n  \"id\": \"line:05a272f\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"The cell had a barred window.[p/] The bars were rusted.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ecda63cd19ca0a75",
     "original": "If a prisoner tried to escape,[p/] there would be a three-story drop to freedom.",
-    "translation": "",
+    "translation": "如果囚犯想逃跑的话，[p/]从此通向自由的道路得有三层楼那么高。",
     "context": "{\n  \"id\": \"line:00e8aff\",\n  \"node\": \"Dungeon_Examine\",\n  \"text\": \"If a prisoner tried to escape,[p/] there would be a three-story drop to freedom.\"\n}"
   },
   {
@@ -15266,37 +15266,37 @@
   {
     "key": "C2 Dialogue.csv::translation::40a867230a0c4a4f",
     "original": "WALLACE: I-[p/][s/]I don’t understand...",
-    "translation": "",
+    "translation": "WALLACE: 我、[p/][s/]我搞不明白……",
     "context": "{\n  \"id\": \"line:04e3509\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"WALLACE: I-[p/][s/]I don’t understand...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8170dff66e411653",
     "original": "WALLACE: I was with you in the library the entire time...",
-    "translation": "",
+    "translation": "WALLACE: 我一直都和你们待在图书馆……",
     "context": "{\n  \"id\": \"line:0cdb574\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"WALLACE: I was with you in the library the entire time...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9cc4fe0f8032683e",
     "original": "WALLACE: But why do they still think I’m the murderer? [h=\"It makes no sense...|unless.\" e=\"s\" /]",
-    "translation": "",
+    "translation": "WALLACE: 为什么他们觉得我是凶手？ [h=\"这说不通啊……|除非……\" e=\"s\" /]",
     "context": "{\n  \"id\": \"line:01aea80\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"WALLACE: But why do they still think I’m the murderer? [h=\\\"It makes no sense...|unless.\\\" e=\\\"s\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::21108982112a54a3",
     "original": "WALLACE: Y-[p/][s/]You told the Inquisition, right?!",
-    "translation": "",
+    "translation": "WALLACE: 你、[p/][s/]你和裁判所的人说了对不对？！",
     "context": "{\n  \"id\": \"line:0610fdf\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"WALLACE: Y-[p/][s/]You told the Inquisition, right?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::81f20e5eb9c875fb",
     "original": "WALLACE: Did you tell them that I was with you?! [h=\"Was I betrayed?!|Did they frame me?!\" e=\"sfa\" /]",
-    "translation": "",
+    "translation": "WALLACE: 你跟他们说了我和你在一起对吧？！ [h=\"我被背叛了吗？！|是他们诬陷了我吗？！\" e=\"sfa\" /]",
     "context": "{\n  \"id\": \"line:0efe0fe\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"WALLACE: Did you tell them that I was with you?! [h=\\\"Was I betrayed?!|Did they frame me?!\\\" e=\\\"sfa\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6bc5a146e51e847e",
     "original": "He backed away from us,[p/] a look of suspicion on his face.",
-    "translation": "",
+    "translation": "他向后方退去，[p/]满脸怀疑。",
     "context": "{\n  \"id\": \"line:09377af\",\n  \"node\": \"Dungeon_Talk\",\n  \"text\": \"He backed away from us,[p/] a look of suspicion on his face.\"\n}"
   },
   {
