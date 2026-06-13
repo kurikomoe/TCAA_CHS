@@ -2805,98 +2805,98 @@ line:0c03758,Dungeon_Talk,...Something similar happened to me after I left my ho
 line:095eaa1,Dungeon_Talk,Player: Wallace and Eris,Player: 华莱士和厄莉斯
 line:06d1d7d,Dungeon_Talk,"CELESTE: How did you and Eris become friends anyway? [h=""Who [i]is[/i] she?|There's something off about her..."" e=""f""/]","CELESTE: 那你怎么和厄莉斯成为朋友的呢？ [h=""她[i]到底[/i]是什么人？|她肯定有些问题……"" e=""f""/]"
 line:0a1754f,Dungeon_Talk,There was [i]another[/i] hint of fear from her...,她[i]又一次[/i]流露出恐惧的征兆……
-line:0bfab6e,Dungeon_Talk,WALLACE: O-[p/]Oh...[p/] Sometimes the other students would steal the id number off my locker and switch it with another student's.,
-line:0b66ac2,Dungeon_Talk,WALLACE: They thought it was funny whenever that student got angry with me...,
-line:064a098,Dungeon_Talk,WALLACE: Eris had a bit of a reputation around our school.,
-line:0a3c9ab,Dungeon_Talk,"WALLACE: Everyone was scared of her,[p/] even the students from the nobility.",
-line:00fc4fe,Dungeon_Talk,TYRION: Probably due to some baseless rumors.,
+line:0bfab6e,Dungeon_Talk,WALLACE: O-[p/]Oh...[p/] Sometimes the other students would steal the id number off my locker and switch it with another student's.,WALLACE: 哦、[p/]噢……[p/]有的时候其他学生会偷走我的储物柜名牌，然后跟其他人调换。
+line:0b66ac2,Dungeon_Talk,WALLACE: They thought it was funny whenever that student got angry with me...,WALLACE: 他们以看另一个学生对我生气取乐……
+line:064a098,Dungeon_Talk,WALLACE: Eris had a bit of a reputation around our school.,WALLACE: 厄莉斯在我们学院小有名气。
+line:0a3c9ab,Dungeon_Talk,"WALLACE: Everyone was scared of her,[p/] even the students from the nobility.",WALLACE: 每个人都害怕她，[p/]即使是贵族学生也一样。
+line:00fc4fe,Dungeon_Talk,TYRION: Probably due to some baseless rumors.,TYRION: 或许是因为一些无根据的流言。
 line:09d6095,Dungeon_Talk,CELESTE: ...,Celeste: ……
-line:0f08a71,Dungeon_Talk,"WALLACE: One day,[p/] someone switched my id number with hers.",
-line:01c53d4,Dungeon_Talk,WALLACE: I was so scared when she came up to me.[p/] I couldn’t even say anything.,
-line:09b0b2a,Dungeon_Talk,WALLACE: But she didn’t get angry like the others.,
-line:001ed41,Dungeon_Talk,WALLACE: She just apologized and gave me back my nameplate.,
-line:07caa6a,Dungeon_Talk,"WALLACE: After that,[p/] she started talking to me whenever she saw me.",
+line:0f08a71,Dungeon_Talk,"WALLACE: One day,[p/] someone switched my id number with hers.",WALLACE: 有一天，[p/]某人把我的名牌与她的调换了。
+line:01c53d4,Dungeon_Talk,WALLACE: I was so scared when she came up to me.[p/] I couldn’t even say anything.,WALLACE: 她向我走来时我害怕极了，[p/]一个字都说不出来。
+line:09b0b2a,Dungeon_Talk,WALLACE: But she didn’t get angry like the others.,WALLACE: 但她没有像其他人一样发脾气。
+line:001ed41,Dungeon_Talk,WALLACE: She just apologized and gave me back my nameplate.,WALLACE: 她只是道了个歉，然后把我的名牌还了过来。
+line:07caa6a,Dungeon_Talk,"WALLACE: After that,[p/] she started talking to me whenever she saw me.",WALLACE: 在那之后，[p/]她每次看到我都会与我说几句话。
 line:00a90c9,Dungeon_Talk,Player: Necromancy,
-line:0d08ed6,Dungeon_Talk,TYRION: So...[p/] I have to ask...,
-line:01958d6,Dungeon_Talk,"TYRION: If it’s caused you so much trouble,[p/] why are you still studying [b]necromancy[/b]?",
+line:0d08ed6,Dungeon_Talk,TYRION: So...[p/] I have to ask...,TYRION: 所以……[p/]我必须得问一下……
+line:01958d6,Dungeon_Talk,"TYRION: If it’s caused you so much trouble,[p/] why are you still studying [b]necromancy[/b]?",TYRION: 如果因此引起这么多麻烦，[p/]那你为什么还在继续学习[b]死灵术[/b]呢？
 line:05a35ab,Dungeon_Talk,WALLACE: ...,WALLACE: ……
-line:0e0ffc9,Dungeon_Talk,WALLACE: I want to become a doctor.,
-line:0a099b6,Dungeon_Talk,"TYRION: The headmaster told us the same thing,[p/] but why are you learning spells that can steal people’s life force and raise the undead?",
-line:0b83774,Dungeon_Talk,WALLACE: Life and death are two sides of the same coin.,
-line:03ce958,Dungeon_Talk,WALLACE: That’s the key principle behind [b]necromancy[/b].,
-line:07aaca5,Dungeon_Talk,WALLACE: The first undead was actually a failed attempt to resurrect a human using magic.,
-line:074e1b5,Dungeon_Talk,"WALLACE: Right now,[p/] [b]necromancy[/b] can only heal injuries and wounds,[p/] but it can’t do anything for diseases or deformities.",
-line:0f7d727,Dungeon_Talk,"WALLACE: If I could just keep studying,[p/] I [i]know[/i] I can develop [b]necromancy[/b] beyond that.",
-line:04c624b,Dungeon_Talk,WALLACE: I might even be able to create spells that can cure terminal diseases.,
-line:09fb2d0,Dungeon_Talk,Player: Catherine Bellwether,
-line:0f50731,Dungeon_Talk,"TYRION: I think I can already guess,[p/] but how was your relationship with Catherine Bellwether?",
+line:0e0ffc9,Dungeon_Talk,WALLACE: I want to become a doctor.,WALLACE: 我想要当一名医生。
+line:0a099b6,Dungeon_Talk,"TYRION: The headmaster told us the same thing,[p/] but why are you learning spells that can steal people’s life force and raise the undead?",TYRION: 校长也跟我们说了同样的内容，[p/]但你又为什么要学习那些窃取人的生命力，召唤僵尸的法术呢？
+line:0b83774,Dungeon_Talk,WALLACE: Life and death are two sides of the same coin.,WALLACE: 生与死是同一枚硬币的两面。
+line:03ce958,Dungeon_Talk,WALLACE: That’s the key principle behind [b]necromancy[/b].,WALLACE: 这是[b]死灵术[/b]背后的核心原理。
+line:07aaca5,Dungeon_Talk,WALLACE: The first undead was actually a failed attempt to resurrect a human using magic.,WALLACE: 第一个僵尸实际上是尝试使用法术复活人类的失败品。
+line:074e1b5,Dungeon_Talk,"WALLACE: Right now,[p/] [b]necromancy[/b] can only heal injuries and wounds,[p/] but it can’t do anything for diseases or deformities.",WALLACE: 目前，[p/][b]死灵术[/b]只能愈疗受伤与创口。[p/]但对疾病或天生畸形束手无策。
+line:0f7d727,Dungeon_Talk,"WALLACE: If I could just keep studying,[p/] I [i]know[/i] I can develop [b]necromancy[/b] beyond that.",WALLACE: 如果我继续深入学习，[p/]我[i]知道[/i]自己能让[b]死灵术[/b]发展到克服这一难关。
+line:04c624b,Dungeon_Talk,WALLACE: I might even be able to create spells that can cure terminal diseases.,WALLACE: 我或许能甚至创造能够治愈绝症的法术。
+line:09fb2d0,Dungeon_Talk,Player: Catherine Bellwether,Player: 凯瑟琳·贝尔维瑟
+line:0f50731,Dungeon_Talk,"TYRION: I think I can already guess,[p/] but how was your relationship with Catherine Bellwether?",TYRION: 我虽然能猜得到，[p/]你和凯瑟琳·贝尔维瑟的关系怎么样？
 line:0283b75,Dungeon_Talk,Wallace: ...,Wallace: ……
-line:093c07e,Dungeon_Talk,"WALLACE: After word got out about my spells,[p/] Professor Bellwether would always find reasons to punish me.",
-line:00409c8,Dungeon_Talk,WALLACE: She’d start yelling at me for even the smallest mistakes.,
-line:00dc115,Dungeon_Talk,Wallace: It was pretty obvious she had it out for the students who didn't come from the noble families.,
-line:01054ba,Dungeon_Talk,CELESTE: That’s terrible...,
-line:031d075,Dungeon_Talk,"WALLACE: I’d wake up each day,[p/] scared that she’d notice me in the hallways.",
-line:02756b1,Dungeon_Talk,"WALLACE: I knew how to avoid her and stay out of her way,[p/] but sometimes,[p/] she’d get bored and come looking for me.",
-line:063fc30,Dungeon_Talk,"WALLACE: I can’t believe that after everything that she did,[p/] she’s just gone.",
-line:053a57d,Dungeon_Talk,TYRION: I'm sure you have mixed emotions about what happened.,
-line:046c4bb,Dungeon_Talk,WALLACE: I honestly don’t know [i]how[/i] I feel about it...,
-line:03c3759,Dungeon_Talk,"WALLACE: To be honest,[p/] I always wished she would just disappear.",
-line:0687091,Dungeon_Talk,"WALLACE: But now that it’s finally happened,[p/] I just feel even [i]more[/i] scared. [h=""It feels like she’s going to|come back as a ghost to haunt me."" e=""fsa"" /]",
+line:093c07e,Dungeon_Talk,"WALLACE: After word got out about my spells,[p/] Professor Bellwether would always find reasons to punish me.",WALLACE: 我学习死灵术的消息传播出去后，[p/]贝尔维瑟教授总是找理由惩罚我。
+line:00409c8,Dungeon_Talk,WALLACE: She’d start yelling at me for even the smallest mistakes.,WALLACE: 我犯一点点小错她就会大声斥责。
+line:00dc115,Dungeon_Talk,Wallace: It was pretty obvious she had it out for the students who didn't come from the noble families.,Wallace: 她非常明显地针对那些不是贵族出身的学生。
+line:01054ba,Dungeon_Talk,CELESTE: That’s terrible...,CELESTE: 这太糟糕了……
+line:031d075,Dungeon_Talk,"WALLACE: I’d wake up each day,[p/] scared that she’d notice me in the hallways.",WALLACE: 我每天起床的时候，[p/]都怕今天她在走廊注意到我。
+line:02756b1,Dungeon_Talk,"WALLACE: I knew how to avoid her and stay out of her way,[p/] but sometimes,[p/] she’d get bored and come looking for me.",WALLACE: 所以我学会了躲着她走，[p/]但有的时候，[p/]她觉得无聊的时候就会来主动找我麻烦。
+line:063fc30,Dungeon_Talk,"WALLACE: I can’t believe that after everything that she did,[p/] she’s just gone.",WALLACE: 但我还是不敢相信在这一切之后，[p/]她就这么死去了。
+line:053a57d,Dungeon_Talk,TYRION: I'm sure you have mixed emotions about what happened.,TYRION: 相信你听到消息时心情很复杂。
+line:046c4bb,Dungeon_Talk,WALLACE: I honestly don’t know [i]how[/i] I feel about it...,WALLACE: 老实说我不知道应该有[i]什么样的[/i]感受……
+line:03c3759,Dungeon_Talk,"WALLACE: To be honest,[p/] I always wished she would just disappear.",WALLACE: 说实话，[p/]我也一直希望她能干脆消失不见。
+line:0687091,Dungeon_Talk,"WALLACE: But now that it’s finally happened,[p/] I just feel even [i]more[/i] scared. [h=""It feels like she’s going to|come back as a ghost to haunt me."" e=""fsa"" /]","WALLACE: 但真的发生以后，[p/]我却感觉[i]更加[/i]害怕了。 [h=""感觉她会……|从坟墓里爬出来继续纠缠我。"" e=""fsa"" /]"
 line:092f99a,Dungeon_Talk,Player: BACK,
 line:0c33360,Dungeon_Present,Player: Runestone,
-line:0311396,Dungeon_Present,Wallace: What's this?[p/] Is it some kind of artificery?,
-line:081d299,Dungeon_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,
-line:0dbe026,Dungeon_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,
-line:07209b1,Dungeon_Present,Wallace: Oh...[p/] I've seen some of the richer students using things like this.,
-line:0c95ba6,Dungeon_Present,Celeste: I'm sorry about him.[p/] He shows that thing to everyone.,
-line:0cd3735,Dungeon_Present,Tyrion: ...I just think it's neat.,
+line:0311396,Dungeon_Present,Wallace: What's this?[p/] Is it some kind of artificery?,Wallace: 这是什么呢？[p/]某种奥术能源装置？
+line:081d299,Dungeon_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,Tyrion: 这是个律师符石。[p/]它证明我持证律师的身份。
+line:0dbe026,Dungeon_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和案发现场的照片！
+line:07209b1,Dungeon_Present,Wallace: Oh...[p/] I've seen some of the richer students using things like this.,Wallace: 哦……[p/]我见过一些富有的学生用这种东西。
+line:0c95ba6,Dungeon_Present,Celeste: I'm sorry about him.[p/] He shows that thing to everyone.,Celeste: 我为他向你道歉。[p/]他对每个人都炫耀那东西。
+line:0cd3735,Dungeon_Present,Tyrion: ...I just think it's neat.,Tyrion: ……我只是觉得这个挺好的。
 line:02a53cd,Dungeon_Present,Player: Tyrion,
-line:0125b35,Dungeon_Present,"Wallace: I know I shouldn't be asking this, but...",
-line:01695f4,Dungeon_Present,Tyrion: What is it?,
-line:0a11718,Dungeon_Present,Wallace: Why are you helping me?,
-line:08862fc,Dungeon_Present,Wallace: I...[p/] don't have enough gold to pay you.,
-line:0fa36d7,Dungeon_Present,Tyrion: It's because we know that you're innocent.,
-line:007ffe3,Dungeon_Present,Wallace: ...Is that seriously the only reason?,
-line:0590149,Dungeon_Present,Tyrion: I became a defense attorney to help mages who are persecuted by the nobility.,
-line:0f270d8,Dungeon_Present,Tyrion: I know how much our society mistreats the commonfolk.,
-line:02c9399,Dungeon_Present,"Tyrion: I want to alleviate that,[p/] even if it's just a little.",
-line:0c7d447,Dungeon_Present,Wallace: ...Okay.,
-line:06a0876,Dungeon_Present,He still looked like he didn't fully believe me.,
+line:0125b35,Dungeon_Present,"Wallace: I know I shouldn't be asking this, but...",Wallace: 我知道不该问，但是……
+line:01695f4,Dungeon_Present,Tyrion: What is it?,TYRION: 怎么了？
+line:0a11718,Dungeon_Present,Wallace: Why are you helping me?,Wallace: 你为什么要帮我呢？
+line:08862fc,Dungeon_Present,Wallace: I...[p/] don't have enough gold to pay you.,Wallace: 我……[p/]没有足够支付酬劳的钱。
+line:0fa36d7,Dungeon_Present,Tyrion: It's because we know that you're innocent.,Tyrion: 因为我们知道你是无辜的。
+line:007ffe3,Dungeon_Present,Wallace: ...Is that seriously the only reason?,Wallace: ……真的只因为这个吗？
+line:0590149,Dungeon_Present,Tyrion: I became a defense attorney to help mages who are persecuted by the nobility.,Tyrion: 我是为了帮助被贵族迫害的法师们才成为辩护律师的。
+line:0f270d8,Dungeon_Present,Tyrion: I know how much our society mistreats the commonfolk.,Tyrion: 我知道社会对待平民有多不公平。
+line:02c9399,Dungeon_Present,"Tyrion: I want to alleviate that,[p/] even if it's just a little.",Tyrion: 我想要改善这个处境，[p/]即使只有一点点。
+line:0c7d447,Dungeon_Present,Wallace: ...Okay.,Wallace: ……好吧。
+line:06a0876,Dungeon_Present,He still looked like he didn't fully believe me.,他看起来仍然没有完全相信我。
 line:0c4edc8,Dungeon_Present,Player: Celeste,
-line:0aec279,Dungeon_Present,"Wallace: I wish I could be like you, Celeste...",
-line:0e78988,Dungeon_Present,Celeste: What?,
-line:009a017,Dungeon_Present,Wallace: You look so reliable.,
-line:0ec80a9,Dungeon_Present,Wallace: I wish I could even be half as confident as you are.,
-line:00e92bf,Dungeon_Present,Celeste: Don't worry.[p/] I'm sure you'll get there one day.,
-line:08ab670,Dungeon_Present,Wallace: ...I don't know about that.,
+line:0aec279,Dungeon_Present,"Wallace: I wish I could be like you, Celeste...",Wallace: 塞莱斯特，我很希望能像你那样……
+line:0e78988,Dungeon_Present,Celeste: What?,Celeste: 啊？！
+line:009a017,Dungeon_Present,Wallace: You look so reliable.,Wallace: 你看起来很可靠。
+line:0ec80a9,Dungeon_Present,Wallace: I wish I could even be half as confident as you are.,Wallace: 我希望自己至少能有你一半自信。
+line:00e92bf,Dungeon_Present,Celeste: Don't worry.[p/] I'm sure you'll get there one day.,Celeste: 别担心。[p/]我相信你总有一天会做到的。
+line:08ab670,Dungeon_Present,Wallace: ...I don't know about that.,Wallace: ……这我可不敢说。
 line:0d01ccc,Dungeon_Present,Player: Eris,
-line:05553b8,Dungeon_Present,"Tyrion: You seem to be good friends with Eris,[p/] despite your reputation.",
-line:0a69498,Dungeon_Present,Wallace: Yeah...[p/] I have no idea why she spends time with me.,
-line:07ce959,Dungeon_Present,Tyrion: S-[p/]Sorry...[p/] I wasn't trying to imply-,
-line:0d2941b,Dungeon_Present,Wallace: No.[p/] I get it.,
-line:01dfe52,Dungeon_Present,"Tyrion: But it sounds like everyone at the academy is scared of her, too.",
-line:0788f37,Dungeon_Present,Tyrion: Maybe she understands your situation better than anyone.,
-line:00da01b,Dungeon_Present,Wallace: Hm...[p/] Maybe...,
+line:05553b8,Dungeon_Present,"Tyrion: You seem to be good friends with Eris,[p/] despite your reputation.",Tyrion: 虽然你在他人心中名声不太好，[p/]但似乎与厄莉斯是好友。
+line:0a69498,Dungeon_Present,Wallace: Yeah...[p/] I have no idea why she spends time with me.,Wallace: 是啊……[p/]我也搞不懂为什么她愿意和我待在一起。
+line:07ce959,Dungeon_Present,Tyrion: S-[p/]Sorry...[p/] I wasn't trying to imply-,Tyrion: 抱、[p/]抱歉……[p/]我不是要暗示——
+line:0d2941b,Dungeon_Present,Wallace: No.[p/] I get it.,Wallace: 没事。[p/]我明白你的意思。
+line:01dfe52,Dungeon_Present,"Tyrion: But it sounds like everyone at the academy is scared of her, too.",Tyrion: 但听起来学院的其他人也很害怕她。
+line:0788f37,Dungeon_Present,Tyrion: Maybe she understands your situation better than anyone.,Tyrion: 或许她比其他任何人都理解你的处境。
+line:00da01b,Dungeon_Present,Wallace: Hm...[p/] Maybe...,Wallace: 嗯……[p/]可能吧……
 line:0f50413,Dungeon_Present,Player: Catherine|Catherine Autopsy,
-line:00bd5c1,Dungeon_Present,Wallace: I still can't believe the professor is actually dead...,
-line:0f8da0b,Dungeon_Present,Tyrion: Yeah...[p/] We just saw her this morning.,
-line:099018e,Dungeon_Present,Wallace: ...It just doesn't feel real.,
+line:00bd5c1,Dungeon_Present,Wallace: I still can't believe the professor is actually dead...,Wallace: 我还是不敢相信教授真的死了……
+line:0f8da0b,Dungeon_Present,Tyrion: Yeah...[p/] We just saw her this morning.,Tyrion: 是的……[p/]我们早上还见到她了。
+line:099018e,Dungeon_Present,Wallace: ...It just doesn't feel real.,Wallace: ……还是没有真实感。
 line:085cd75,Dungeon_Present,Player: Valentina|Valerie|Discover,
-line:08306a5,Dungeon_Present,Tyrion: Do you know the twins who work in the Academy Kitchen?,
-line:0d27b9b,Dungeon_Present,Wallace: Not personally.[p/] I only ever saw them when I went to get food in the cafeteria.,
-line:0cab364,Dungeon_Present,"Wallace: ...But I could tell that they were both scared of me, too.",
-line:015e040,Dungeon_Present,Wallace: They always did their best to avoid talking to me.,
-line:07d2a89,Dungeon_Present,Wallace: Sometimes they'd give me extra food...,
+line:08306a5,Dungeon_Present,Tyrion: Do you know the twins who work in the Academy Kitchen?,Tyrion: 你知道在学院厨房工作的那对双胞胎吗？
+line:0d27b9b,Dungeon_Present,Wallace: Not personally.[p/] I only ever saw them when I went to get food in the cafeteria.,Wallace: 不太熟悉。[p/]我只在餐厅取餐的时候见看到过她们。
+line:0cab364,Dungeon_Present,"Wallace: ...But I could tell that they were both scared of me, too.",Wallace: ……但我知道她们同样都很怕我。
+line:015e040,Dungeon_Present,Wallace: They always did their best to avoid talking to me.,Wallace: 她们总是千方百计地避免与我说话。
+line:07d2a89,Dungeon_Present,Wallace: Sometimes they'd give me extra food...,Wallace: 有的时候会给我打给我剩饭剩菜……
 line:062f2af,Dungeon_Present,Player: Theodore,
-line:0855e19,Dungeon_Present,Tyrion: You seem to have a good relationship with the headmaster.,
-line:0161de3,Dungeon_Present,Tyrion: He said that you were one of his star students.,
-line:029d091,Dungeon_Present,Wallace: ...Really?[p/] He said that?,
-line:0ce5567,Dungeon_Present,Wallace: The only reason why I'm even allowed to attend the Academy is because of him.,
-line:0718b58,Dungeon_Present,Celeste: What do you mean?,
-line:02711e3,Dungeon_Present,Wallace: He's running a scholarship program for mages born outside of the noble houses.,
-line:07ef074,Dungeon_Present,"Wallace: Usually,[p/] only nobles can afford to attend the Imperial Academy,[p/] but he's allowed mages born through the commonfolk to enroll there for free.",
+line:0855e19,Dungeon_Present,Tyrion: You seem to have a good relationship with the headmaster.,Tyrion: 你和校长看起来关系不错。
+line:0161de3,Dungeon_Present,Tyrion: He said that you were one of his star students.,Tyrion: 他说你是他的几个优秀学生之一。
+line:029d091,Dungeon_Present,Wallace: ...Really?[p/] He said that?,Wallace: ……真的吗？[p/]他是这么说的？
+line:0ce5567,Dungeon_Present,Wallace: The only reason why I'm even allowed to attend the Academy is because of him.,Wallace: 多亏了他，我才能被允许在学院学习。
+line:0718b58,Dungeon_Present,Celeste: What do you mean?,CELESTE: 这是什么意思？
+line:02711e3,Dungeon_Present,Wallace: He's running a scholarship program for mages born outside of the noble houses.,Wallace: 他运营着一个专为非贵族法师设立的奖学金项目。
+line:07ef074,Dungeon_Present,"Wallace: Usually,[p/] only nobles can afford to attend the Imperial Academy,[p/] but he's allowed mages born through the commonfolk to enroll there for free.",Wallace: 通常只有贵族才上得起帝国学院，[p/]但他允许平民出身的法师免费入学。
 line:0d22ee3,Dungeon_Present,Player: Wallace|WallComp,
-line:0a382c8,Dungeon_Present,"Tyrion: I've met a lot of mages in my time,[p/] but I've never met a necromancer before.",
+line:0a382c8,Dungeon_Present,"Tyrion: I've met a lot of mages in my time,[p/] but I've never met a necromancer before.",Tyrion: 我也遇到过很多法师了，[p/]但之前还从来没见过死灵法师。
 line:0e43720,Dungeon_Present,Celeste: Yeah...[p/] And you're not exactly what I was expecting.,
 line:0dba9d7,Dungeon_Present,Wallace: Sorry for disappointing you...,
 line:027737e,Dungeon_Present,Celeste: T-[p/][s/]That’s not what I meant.,
@@ -3024,7 +3024,7 @@ line:099ecd1,AcademyHall_Talk,JAN: She was walking really slowly.,
 line:0ea47e8,AcademyHall_Talk,JAN: I didn’t notice her at first.[p/] She basically shoved me out of her way.,
 line:01f64f1,AcademyHall_Talk,"JAN: After that,[p/] she knocked over that vase.",
 line:03e4a8b,AcademyHall_Talk,"JAN: Then she yelled at me to ""Be quiet"".[p/] I didn't even say anything.",
-line:040427d,AcademyHall_Talk,Player: Catherine Bellwether,
+line:040427d,AcademyHall_Talk,Player: Catherine Bellwether,Player: 凯瑟琳·贝尔维瑟
 line:077cd1c,AcademyHall_Talk,TYRION: What can you tell me about Catherine Bellwether?,
 line:02664d7,AcademyHall_Talk,TYRION: I've heard that she had a pretty bad relationship with the staff.,
 line:02e271c,AcademyHall_Talk,JAN: She had a “bad relationship” with everyone.,
@@ -3061,8 +3061,8 @@ line:0a39b4f,HallJanJan,JAN: ...,JAN: ……
 line:08b5f76,HallJanJan,"Well...[p/] Apparently, that’s all he had to say about that.",
 line:0218fe9,AcademyHall_Present,Player: Runestone,
 line:0678e36,AcademyHall_Present,Jan: What's that thing?[p/] Is it a rock?,
-line:0eb0f71,AcademyHall_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,
-line:0be307a,AcademyHall_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,
+line:0eb0f71,AcademyHall_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,Tyrion: 这是个律师符石。[p/]它证明我持证律师的身份。
+line:0be307a,AcademyHall_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和案发现场的照片！
 line:0a85ec9,AcademyHall_Present,Jan: ...,
 line:03d2eb2,AcademyHall_Present,Tyrion: ...Jan?,
 line:060ec66,AcademyHall_Present,Jan: Oh![p/][s/] Sorry.,
@@ -3257,7 +3257,7 @@ line:0093f63,Headmaster_Talk,ERIS: Just make sure that you don’t let another m
 line:0bf82f5,Headmaster_Talk,"ERIS: Once it attunes to a mage,[p/] no one else can use it.",
 line:04b6fc2,Headmaster_Talk,"Theodore: Wait,[p/] then how did[p/][p/]",
 line:0deda81,Headmaster_Talk,THEODORE: Wonderful.[p/] I just hope you can persuade Wallace to attune to it.,
-line:0e3b8d3,Headmaster_Talk,Player: Catherine Bellwether,
+line:0e3b8d3,Headmaster_Talk,Player: Catherine Bellwether,Player: 凯瑟琳·贝尔维瑟
 line:0d3791f,Headmaster_Talk,Player: The Meeting,
 line:0f00878,Headmaster_Talk,Tyrion: I heard that you had a meeting scheduled with Professor Bellwether this morning.,
 line:080b464,Headmaster_Talk,Tyrion: What time was this?[p/] And when did the meeting end?,
@@ -4119,7 +4119,7 @@ line:07fb62f,Kitchen_Talk,"VALENTINA: I don't know...[p/] But she wasn’t breat
 line:0cb9b0a,Kitchen_Talk,"She was less tense,[p/] which might imply that she was telling the truth.",
 line:0a62e92,Kitchen_Talk,It's possible the attack happened well before they discovered the body.,
 line:0481b16,Kitchen_Talk,Player: Wallace Nightgrave,
-line:09676e9,Kitchen_Talk,Player: Catherine Bellwether,
+line:09676e9,Kitchen_Talk,Player: Catherine Bellwether,Player: 凯瑟琳·贝尔维瑟
 line:0669e29,Kitchen_Talk,Player: Keeping your jobs,
 line:04ee66a,Kitchen_Talk,TYRION: Did you ever feel like your job was at risk because of Bellwether?,
 line:08d43c5,Kitchen_Talk,VALENTINA: U-[p/][s/]Um...[p/] Why would you say that?!,
@@ -4156,7 +4156,7 @@ line:0ad0c2c,ValCathTalk,Interesting...[p/] Why would she be worried about that?
 line:0a1a975,Kitchen_Present,Player: Runestone,
 line:0af00df,Kitchen_Present,"Valentina: Scaled Lord, he's got a thing!",
 line:0492ff7,Kitchen_Present,Tyrion: I-[p/][s/]It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,
-line:0368fcf,Kitchen_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,
+line:0368fcf,Kitchen_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和案发现场的照片！
 line:036ad8c,Kitchen_Present,"Valentina: ""Pictures""?!",
 line:00ecdc3,Kitchen_Present,Valentina: I do [i]not[/i] consent to having my picture taken.[p/] You are [i]legally[/i] not allowed to.,
 line:0716bda,Kitchen_Present,Tyrion: I-[p/][s/]I wasn't planning to...,
@@ -5095,7 +5095,7 @@ line:0a3417e,AfterLockerDeduce3,Tyrion: It had a [i]lot[/i] of Wallace’s posse
 line:0e0da82,AfterLockerDeduce3,"Tyrion: It’s possible that she really did steal these items from him,[p/] but it's more likely that this locker isn't actually hers.",
 line:0c46c27,AfterLockerDeduce3,Tyrion: Remember what Wallace told us before?,
 line:00a34e9,AfterLockerDeduce4,WALLACE: Sometimes the other students would steal the id number off my locker and switch it with another student's.,
-line:0e6cbb4,AfterLockerDeduce4,WALLACE: They thought it was funny whenever that student got angry with me...,
+line:0e6cbb4,AfterLockerDeduce4,WALLACE: They thought it was funny whenever that student got angry with me...,WALLACE: 他们以看另一个学生对我生气取乐……
 line:00f16ec,AfterLockerDeduce4,"CELESTE: So, someone switched the nameplates?",
 line:091addc,AfterLockerDeduce4,TYRION: This means that this [i]isn’t[/i] Miriam Frega’s locker.[p/] It’s Wallace’s.,
 line:01e80e1,AfterLockerDeduce4,CELESTE: But that would mean that the bloody object came from [i]Wallace’s[/i] locker!,
@@ -5186,7 +5186,7 @@ line:0a640c5,SchoolFoyer1_Present,Player: Runestone,
 line:08fec39,SchoolFoyer1_Present,Celeste: Um...[p/] Okay.,
 line:05d88f3,SchoolFoyer1_Present,"Tyrion: It's my Attorney's Runestone, Celeste.[p/] It proves that I’m a certified attorney.",
 line:0e7315e,SchoolFoyer1_Present,"Celeste: Yeah,[p/] you've shown this thing to me before.",
-line:0990d28,SchoolFoyer1_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,
+line:0990d28,SchoolFoyer1_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和案发现场的照片！
 line:05fee59,SchoolFoyer1_Present,"Celeste: Yes,[p/] it's very cool, Tyrion.",
 line:0fe546e,SchoolFoyer1_Present,Player: Tyrion|Celeste,
 line:08c505f,SchoolFoyer1_Present,Celeste: It's kind of fun seeing you work through everything.,
