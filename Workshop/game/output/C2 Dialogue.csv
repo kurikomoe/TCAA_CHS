@@ -2758,53 +2758,53 @@ line:01aea80,Dungeon_Talk,"WALLACE: But why do they still think I’m the murder
 line:0610fdf,Dungeon_Talk,"WALLACE: Y-[p/][s/]You told the Inquisition, right?!",WALLACE: 你、[p/][s/]你和裁判所的人说了对不对？！
 line:0efe0fe,Dungeon_Talk,"WALLACE: Did you tell them that I was with you?! [h=""Was I betrayed?!|Did they frame me?!"" e=""sfa"" /]","WALLACE: 你跟他们说了我和你在一起对吧？！ [h=""我被背叛了吗？！|是他们诬陷了我吗？！"" e=""sfa"" /]"
 line:09377af,Dungeon_Talk,"He backed away from us,[p/] a look of suspicion on his face.",他向后方退去，[p/]满脸怀疑。
-line:0463072,Dungeon_Talk,"TYRION: W-[p/]We did,[p/] but they found traces of [b]necromancy[/b] on the body.",
-line:0f3f50f,Dungeon_Talk,TYRION: They believe that Bellwether was murdered with a [b]necromancy[/b] spell.,
-line:039ebbd,Dungeon_Talk,"He seemed to get even more tense,[p/] something I didn't think was possible.",
-line:0dbaa77,Dungeon_Talk,Eris had mentioned that his studies were something he liked to keep to himself.[p/] I would need to be delicate.,
+line:0463072,Dungeon_Talk,"TYRION: W-[p/]We did,[p/] but they found traces of [b]necromancy[/b] on the body.",TYRION: 我、[p/]我们是有说，[p/]但他们在尸体上发现了[b]死灵术[/b]的痕迹。
+line:0f3f50f,Dungeon_Talk,TYRION: They believe that Bellwether was murdered with a [b]necromancy[/b] spell.,TYRION: 他们认为贝尔维瑟是被[b]死灵术[/b]杀害的。
+line:039ebbd,Dungeon_Talk,"He seemed to get even more tense,[p/] something I didn't think was possible.",他似乎变得更加紧张，[p/]即使我不认为那种说法有可能实施。
+line:0dbaa77,Dungeon_Talk,Eris had mentioned that his studies were something he liked to keep to himself.[p/] I would need to be delicate.,厄莉斯曾提到，他喜欢把自己的学习内容藏在自己心里。[p/]我得小心处理。
 line:0c5a9a3,Dungeon_Talk,Player: Necromancy,
-line:01fc900,Dungeon_Talk,TYRION: Wallace...[p/] We heard about the type of magic that you’re studying.,
-line:04cd7c7,Dungeon_Talk,WALLACE: ...!,
-line:0ae10f3,Dungeon_Talk,CELESTE: D-[p/][s/]Don’t worry![p/] The headmaster explained it to us already.,
-line:0d75cfc,Dungeon_Talk,"Celeste: You just want to use [b]necromancy[/b] to become a doctor, right?",
-line:08b2fd3,Dungeon_Talk,Tyrion: I think what you're doing is really respectable.,
-line:00b5d84,Dungeon_Talk,Tyrion: It's nice to see a dark school of magic being used as a force for good.,
-line:0ed09b1,Dungeon_Talk,Wallace: What?![p/][s/] No!,
-line:06d15b0,Dungeon_Talk,"Wallace: You've got it all backwards! [h=""It's because of [i]Wraithbound[/i]!|Those stupid books!"" e=""a"" /]",
-line:004ec03,Dungeon_Talk,"For the first time,[p/] I saw some genuine rage from him.",
-line:017ab33,Dungeon_Talk,Wallace: Real [b]necromancy[/b] has [i]always[/i] been about healing!,
-line:0e99470,Dungeon_Talk,"Wallace: But because of garbage like [i]Wraithbound[/i],[p/] the public keeps calling for [b]necromancy[/b] to be outlawed!",
-line:029ebc8,Dungeon_Talk,"Tyrion: I-[p/][s/]I think calling it ""garbage"" may be a bit much...",
-line:00b2582,Dungeon_Talk,Wallace: The nobility paid Corrin Bloomveil to write stories about evil necromancers![p/][s/] He was such a sellout!,
-line:0c3af49,Dungeon_Talk,"Wallace: Liches are magically impossible,[p/] but people still just believe that nonsense!",
+line:01fc900,Dungeon_Talk,TYRION: Wallace...[p/] We heard about the type of magic that you’re studying.,TYRION: 华莱士……[p/]关于你正在学习的法术类型，我们打听了点情报。
+line:04cd7c7,Dungeon_Talk,WALLACE: ...!,WALLACE: ……！
+line:0ae10f3,Dungeon_Talk,CELESTE: D-[p/][s/]Don’t worry![p/] The headmaster explained it to us already.,CELESTE: 别、[p/][s/]别担心！[p/]校长已经向我们解释清楚了。
+line:0d75cfc,Dungeon_Talk,"Celeste: You just want to use [b]necromancy[/b] to become a doctor, right?",Celeste: 你学习[b]死灵术[/b]是为了当医生，对吧？
+line:08b2fd3,Dungeon_Talk,Tyrion: I think what you're doing is really respectable.,Tyrion: 我认为你的做法相当值得尊敬。
+line:00b5d84,Dungeon_Talk,Tyrion: It's nice to see a dark school of magic being used as a force for good.,Tyrion: 黑暗的法术被用在好的方面，总是令人欣慰的。
+line:0ed09b1,Dungeon_Talk,Wallace: What?![p/][s/] No!,Wallace: 你说什么？！[p/][s/]不是这样的！
+line:06d15b0,Dungeon_Talk,"Wallace: You've got it all backwards! [h=""It's because of [i]Wraithbound[/i]!|Those stupid books!"" e=""a"" /]","Wallace: 你们根本就是搞反了！ [h=""都是因为[i]《缚灵者》[/i]！|那些愚蠢的书！"" e=""a"" /]"
+line:004ec03,Dungeon_Talk,"For the first time,[p/] I saw some genuine rage from him.",我第一次从他身上看到发自内心的愤怒。
+line:017ab33,Dungeon_Talk,Wallace: Real [b]necromancy[/b] has [i]always[/i] been about healing!,Wallace: 真正的[b]死灵术[/b][i]从来[/i]就是为治愈而存在的！
+line:0e99470,Dungeon_Talk,"Wallace: But because of garbage like [i]Wraithbound[/i],[p/] the public keeps calling for [b]necromancy[/b] to be outlawed!",Wallace: 但就是因为[i]《缚灵者》[/i]那种垃圾，[p/]人们才把[b]死灵术[/b]称之为禁忌！
+line:029ebc8,Dungeon_Talk,"Tyrion: I-[p/][s/]I think calling it ""garbage"" may be a bit much...",Tyrion: 我、[p/][s/]我觉得把那套书叫做“垃圾”是不是过分了……
+line:00b2582,Dungeon_Talk,Wallace: The nobility paid Corrin Bloomveil to write stories about evil necromancers![p/][s/] He was such a sellout!,Wallace: 贵族花大钱让科林·花帷去写那些邪恶死灵法师的故事！[p/][s/]他就靠这个赚得盆满钵满！
+line:0c3af49,Dungeon_Talk,"Wallace: Liches are magically impossible,[p/] but people still just believe that nonsense!",Wallace: 巫妖在法术上明明是不可能的，[p/]但人们就是吃这套无稽之谈！
 line:0ff568c,Dungeon_Talk,Wallace: That man single-handedly threw the study of [b]necromancy[/b] back into the Stone Age!,Wallace: 那家伙简直是一手把[b]死灵术[/b]的研究水平扔回了石器时代！
-line:07723da,Dungeon_Talk,"I had to temper myself.[p/] He was clearly passionate about this,[p/] but I'll admit it stung to hear him talk about my favorite book like that.",
-line:0ab2547,Dungeon_Talk,Celeste: ...Maybe we should talk about something else.,
-line:0f207cd,Dungeon_Talk,Player: Spell Compendium,
-line:0bd4153,Dungeon_Talk,TYRION: ...I understand that you have reservations about talking about your magic.,
-line:0d119ae,Dungeon_Talk,"TYRION: But in order to build a case for you,[p/] we'll need to PRESENT your [b]Spell Compendium[/b] to the courts.",
-line:0f51acc,Dungeon_Talk,WALLACE: I-[p/]I...[p/] don’t have one.,
-line:0067029,Dungeon_Talk,TYRION: Eris already told us about that.[p/] That's why she gave us a blank one for you to attune to.,
-line:0f2a21c,Dungeon_Talk,WALLACE: ...D-[p/]Do I have to?,
-line:0cd112a,Dungeon_Talk,TYRION: It would be extremely difficult to defend you without your Compendium.[p/] It's a core piece of evidence.,
-line:036c346,Dungeon_Talk,WALLACE: ...,
-line:0d2f85e,Dungeon_Talk,WALLACE: O-[p/]Okay...[p/] I’ll attune to it.,
-line:0ce742c,Dungeon_Talk,I understood why he was studying this type of magic.,
-line:0725d0b,Dungeon_Talk,...But the spells in his [b]Compendium[/b] sounded fairly gruesome.,
-line:0f833fb,Dungeon_Talk,It was a little terrifying to know that spells like this even existed.,
-line:00d14dc,Dungeon_Talk,"WALLACE: Sorry...[p/] A long time ago,[p/] I showed my [i]Compendium[/i] to someone.",
-line:0cb48e7,Dungeon_Talk,"WALLACE: After she saw my [b]necromancy[/b] spells,[p/] she told everyone in the academy.",
-line:049e19f,Dungeon_Talk,WALLACE: That’s when Professor Bellwether started coming after me.,
-line:034e496,Dungeon_Talk,TYRION: ...That must have been difficult for you.,
-line:0e2ea0c,Dungeon_Talk,"Wallace: After that,[p/] I didn't really talk to anyone.",
-line:02feecb,Dungeon_Talk,Tyrion: What about Eris?,
-line:0fb4cc4,Dungeon_Talk,"Wallace: Yeah,[p/] I guess Eris was there too?",
+line:07723da,Dungeon_Talk,"I had to temper myself.[p/] He was clearly passionate about this,[p/] but I'll admit it stung to hear him talk about my favorite book like that.",我得控制自己的情绪。[p/]他显然对此热情洋溢，[p/]但我不得不承认，听到他那样谈论自己最喜爱的书籍，让我很是受伤。
+line:0ab2547,Dungeon_Talk,Celeste: ...Maybe we should talk about something else.,Celeste: ……或者我们该谈谈别的。
+line:0f207cd,Dungeon_Talk,Player: Spell Compendium,Player: 法术汇编
+line:0bd4153,Dungeon_Talk,TYRION: ...I understand that you have reservations about talking about your magic.,TYRION: ……我能理解你在这方面有所顾虑。
+line:0d119ae,Dungeon_Talk,"TYRION: But in order to build a case for you,[p/] we'll need to PRESENT your [b]Spell Compendium[/b] to the courts.",TYRION: 但为了分析调查你涉及的案件，[p/]我需要向法庭<size=1.5em>出示</size>你的[b]法术汇编[/b]。
+line:0f51acc,Dungeon_Talk,WALLACE: I-[p/]I...[p/] don’t have one.,WALLACE: 我、[p/]我……其实没有那种东西。
+line:0067029,Dungeon_Talk,TYRION: Eris already told us about that.[p/] That's why she gave us a blank one for you to attune to.,TYRION: 厄莉斯已经告诉我们俩。[p/]所以她交给我们一个空白的汇编来跟你绑定。
+line:0f2a21c,Dungeon_Talk,WALLACE: ...D-[p/]Do I have to?,WALLACE: ……这、[p/]这是必须的吗？
+line:0cd112a,Dungeon_Talk,TYRION: It would be extremely difficult to defend you without your Compendium.[p/] It's a core piece of evidence.,TYRION: 没有你的法术汇编会使得辩护极其艰难。[p/]这是核心证据。
+line:036c346,Dungeon_Talk,WALLACE: ...,WALLACE: ……
+line:0d2f85e,Dungeon_Talk,WALLACE: O-[p/]Okay...[p/] I’ll attune to it.,WALLACE: 好、[p/]好的……[p/]我会绑定的。
+line:0ce742c,Dungeon_Talk,I understood why he was studying this type of magic.,我已经知道了他为何要学习这一系的法术。
+line:0725d0b,Dungeon_Talk,...But the spells in his [b]Compendium[/b] sounded fairly gruesome.,……但他[b]法术汇编[/b]里的法术看起来真的很恐怖。
+line:0f833fb,Dungeon_Talk,It was a little terrifying to know that spells like this even existed.,仅仅知道这样的法术存在于世都令人心惊。
+line:00d14dc,Dungeon_Talk,"WALLACE: Sorry...[p/] A long time ago,[p/] I showed my [i]Compendium[/i] to someone.",WALLACE: 对不起……[p/]很久以前，[p/]我曾将自己的[i]法术汇编[/i]向某人展示。
+line:0cb48e7,Dungeon_Talk,"WALLACE: After she saw my [b]necromancy[/b] spells,[p/] she told everyone in the academy.",WALLACE: 她看到我的[b]死灵术[/b]咒语后，[p/]就向学院的每个人说了出去。
+line:049e19f,Dungeon_Talk,WALLACE: That’s when Professor Bellwether started coming after me.,WALLACE: 也正是那时开始，贝尔维瑟教授开始针对我。
+line:034e496,Dungeon_Talk,TYRION: ...That must have been difficult for you.,Tyrion: ……你一定很难受。
+line:0e2ea0c,Dungeon_Talk,"Wallace: After that,[p/] I didn't really talk to anyone.",Wallace: 在那之后，[p/]我不再和任何人说话。
+line:02feecb,Dungeon_Talk,Tyrion: What about Eris?,Tyrion: 那厄莉斯是？
+line:0fb4cc4,Dungeon_Talk,"Wallace: Yeah,[p/] I guess Eris was there too?",Wallace: 是啊，[p/]那时候厄莉斯也在吧？
 line:06962c5,Dungeon_Talk,Celeste: ...,Celeste: ……
-line:09ad08d,Dungeon_Talk,It seemed like it was a difficult time for him.[p/] No wonder he had so much trouble remembering.,
-line:0c03758,Dungeon_Talk,...Something similar happened to me after I left my hometown.,
-line:095eaa1,Dungeon_Talk,Player: Wallace and Eris,
-line:06d1d7d,Dungeon_Talk,"CELESTE: How did you and Eris become friends anyway? [h=""Who [i]is[/i] she?|There's something off about her..."" e=""f""/]",
-line:0a1754f,Dungeon_Talk,There was [i]another[/i] hint of fear from her...,
+line:09ad08d,Dungeon_Talk,It seemed like it was a difficult time for him.[p/] No wonder he had so much trouble remembering.,看起来对他而言那是一段非常艰难的时光。[p/]难怪他这么不愿回忆。
+line:0c03758,Dungeon_Talk,...Something similar happened to me after I left my hometown.,……这与我离开故乡后的经历也很相似。
+line:095eaa1,Dungeon_Talk,Player: Wallace and Eris,Player: 华莱士和厄莉斯
+line:06d1d7d,Dungeon_Talk,"CELESTE: How did you and Eris become friends anyway? [h=""Who [i]is[/i] she?|There's something off about her..."" e=""f""/]","CELESTE: 那你怎么和厄莉斯成为朋友的呢？ [h=""她[i]到底[/i]是什么人？|她肯定有些问题……"" e=""f""/]"
+line:0a1754f,Dungeon_Talk,There was [i]another[/i] hint of fear from her...,她[i]又一次[/i]流露出恐惧的征兆……
 line:0bfab6e,Dungeon_Talk,WALLACE: O-[p/]Oh...[p/] Sometimes the other students would steal the id number off my locker and switch it with another student's.,
 line:0b66ac2,Dungeon_Talk,WALLACE: They thought it was funny whenever that student got angry with me...,
 line:064a098,Dungeon_Talk,WALLACE: Eris had a bit of a reputation around our school.,
@@ -2819,7 +2819,7 @@ line:07caa6a,Dungeon_Talk,"WALLACE: After that,[p/] she started talking to me wh
 line:00a90c9,Dungeon_Talk,Player: Necromancy,
 line:0d08ed6,Dungeon_Talk,TYRION: So...[p/] I have to ask...,
 line:01958d6,Dungeon_Talk,"TYRION: If it’s caused you so much trouble,[p/] why are you still studying [b]necromancy[/b]?",
-line:05a35ab,Dungeon_Talk,WALLACE: ...,
+line:05a35ab,Dungeon_Talk,WALLACE: ...,WALLACE: ……
 line:0e0ffc9,Dungeon_Talk,WALLACE: I want to become a doctor.,
 line:0a099b6,Dungeon_Talk,"TYRION: The headmaster told us the same thing,[p/] but why are you learning spells that can steal people’s life force and raise the undead?",
 line:0b83774,Dungeon_Talk,WALLACE: Life and death are two sides of the same coin.,
@@ -2919,7 +2919,7 @@ line:04206d1,Dungeon_Check,"Apparently,[p/] not well.",
 line:0e701d0,Dungeon_Check,WALLACE: Please tell me you’re going to get me out of here!,
 line:0f2722c,Dungeon_Check,"WALLACE: I-[p/][s/]I keep telling them that I didn't do it,[p/] but they won't listen!",
 line:0e40f15,Dungeon_Check,"TYRION: I'm sorry, Wallace, but...[p/] they found traces of [b]necromancy[/b] magic on the body.",
-line:0d1a947,Dungeon_Check,WALLACE: ...!,
+line:0d1a947,Dungeon_Check,WALLACE: ...!,WALLACE: ……！
 line:08c758e,Dungeon_Check,"TYRION: They’re convinced that you did this,[p/] and they're going to push your case to trial.",
 line:0898df9,Dungeon_Check,"WALLACE: W-[p/][s/]What?! [h=""No!|Are they going to execute me?!"" e=""sf"" /]",
 line:08934a6,Dungeon_Check,"WALLACE: T-[p/]This—[p/][s/] This can’t be happening! [h=""Are the walls moving?!|Are they closing in?!"" e=""sf"" /]",
@@ -3638,7 +3638,7 @@ line:01484b7,Intro_Talk_Library,ERIS: I’m a bit sad to admit that I'm not able
 line:0c89d25,Intro_Talk_Library,"CELESTE: That’s still pretty cool![p/] What about you, Wallace?",
 line:0396e89,Intro_Talk_Library,WALLACE: I-[p/]I—[p/] U-[p/]Um...,
 line:0f4ef7d,Intro_Talk_Library,ERIS: Wallace has a [i]unique[/i] field of study.[p/] Please don't ask him about it.,
-line:0b4f715,Intro_Talk_Library,WALLACE: ...,
+line:0b4f715,Intro_Talk_Library,WALLACE: ...,WALLACE: ……
 line:0a270d6,Intro_Talk_Library,Celeste: Oh...[p/] Okay.,
 line:0056027,Intro_Talk_Library,Player: Tyrion and Celeste,
 line:0a1a6f5,Intro_Talk_Library,Eris: Rumors about you two have been floating around.,
@@ -4023,7 +4023,7 @@ line:0a57b76,MurderReveal_3,CELESTE: But—!,
 line:04da407,MurderReveal_3,"TYRION: No,[p/] Ms. Tymora is right.",
 line:0d32caf,MurderReveal_3,"Tyrion: If Wallace is a suspect,[p/] we can’t legally stop the Inquisition from arresting him.",
 line:06bc86c,MurderReveal_3,"TYRION: It'd be best for you to go with them, Wallace.[p/] I'm sure we can get all of this sorted out.",
-line:0a6237e,MurderReveal_3,WALLACE: ...,
+line:0a6237e,MurderReveal_3,WALLACE: ...,WALLACE: ……
 line:0a9c85e,MurderReveal_4,I could only watch as the Inquisition dragged him away.,
 line:0c27b10,MurderReveal_4,ERIS: My apologies.[p/] I’m going to accompany him.,
 line:05c3721,MurderReveal_4,Celeste: I can't believe this...,
