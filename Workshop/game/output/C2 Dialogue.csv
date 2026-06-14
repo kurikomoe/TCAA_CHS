@@ -2897,156 +2897,156 @@ line:02711e3,Dungeon_Present,Wallace: He's running a scholarship program for mag
 line:07ef074,Dungeon_Present,"Wallace: Usually,[p/] only nobles can afford to attend the Imperial Academy,[p/] but he's allowed mages born through the commonfolk to enroll there for free.",Wallace: 通常只有贵族才上得起帝国学院，[p/]但他允许平民出身的法师免费入学。
 line:0d22ee3,Dungeon_Present,Player: Wallace|WallComp,
 line:0a382c8,Dungeon_Present,"Tyrion: I've met a lot of mages in my time,[p/] but I've never met a necromancer before.",Tyrion: 我也遇到过很多法师了，[p/]但之前还从来没见过死灵法师。
-line:0e43720,Dungeon_Present,Celeste: Yeah...[p/] And you're not exactly what I was expecting.,
-line:0dba9d7,Dungeon_Present,Wallace: Sorry for disappointing you...,
-line:027737e,Dungeon_Present,Celeste: T-[p/][s/]That’s not what I meant.,
+line:0e43720,Dungeon_Present,Celeste: Yeah...[p/] And you're not exactly what I was expecting.,Celeste: 是的……[p/]而且你也不是我们以为的那种法师。
+line:0dba9d7,Dungeon_Present,Wallace: Sorry for disappointing you...,Wallace: 不好意思让你失望了……
+line:027737e,Dungeon_Present,Celeste: T-[p/][s/]That’s not what I meant.,Celeste: 我、[p/][s/]我不是这个意思。
 line:09551f0,Dungeon_Present,Player: Back,
 line:0cd4d67,Dungeon_Present,Player: Default,
-line:0e75341,Dungeon_Present,"Tyrion: What can you tell me about this, Wallace?",
-line:0f93ed9,Dungeon_Present,Wallace: Sorry...[p/] I can't tell you much about that.,
-line:077e37c,Dungeon_Check,"I looked around the dungeon,[p/] but I didn't see Wallace in any of the cells.",
-line:083bf34,Dungeon_Check,Celeste: The Inquisition is probably still questioning him.,
-line:09571db,Dungeon_Check,Celeste: We should come back later.,
-line:04401d9,Dungeon_Check,"As we arrived at the Ratholme Dungeons,[p/] I spotted Wallace locked in one of the nearby cells.",
-line:08318c6,Dungeon_Check,"...He was lying on the floor,[p/] muttering to himself.",
-line:00fd3c4,Dungeon_Check,WALLACE: It’s over...[p/] My life is over...,
-line:0ec96bb,Dungeon_Check,TYRION: Um...[p/] Wallace?,
-line:012fbcf,Dungeon_Check,WALLACE: Eep![p/][s/] Who are you?![p/][s/] What do you want?!,
-line:04d2b87,Dungeon_Check,CELESTE: Wallace.[p/] It’s us.,
-line:0f996cc,Dungeon_Check,WALLACE: O-[p/]Oh...[p/] right...,
-line:093920b,Dungeon_Check,CELESTE: How are you doing?,
-line:04206d1,Dungeon_Check,"Apparently,[p/] not well.",
-line:0e701d0,Dungeon_Check,WALLACE: Please tell me you’re going to get me out of here!,
-line:0f2722c,Dungeon_Check,"WALLACE: I-[p/][s/]I keep telling them that I didn't do it,[p/] but they won't listen!",
-line:0e40f15,Dungeon_Check,"TYRION: I'm sorry, Wallace, but...[p/] they found traces of [b]necromancy[/b] magic on the body.",
+line:0e75341,Dungeon_Present,"Tyrion: What can you tell me about this, Wallace?",Tyrion: 关于这个你有什么想法吗，华莱士？
+line:0f93ed9,Dungeon_Present,Wallace: Sorry...[p/] I can't tell you much about that.,Wallace: 抱歉……[p/]我没什么能告诉你的。
+line:077e37c,Dungeon_Check,"I looked around the dungeon,[p/] but I didn't see Wallace in any of the cells.",我在地牢里四处张望，[p/]但华莱士不在其中任何一间。
+line:083bf34,Dungeon_Check,Celeste: The Inquisition is probably still questioning him.,Celeste: 应该是裁判所还在盘问他吧。
+line:09571db,Dungeon_Check,Celeste: We should come back later.,Celeste: 我们应该晚点再来。
+line:04401d9,Dungeon_Check,"As we arrived at the Ratholme Dungeons,[p/] I spotted Wallace locked in one of the nearby cells.",我们抵达瑞思霍姆地牢时，[p/]我在近处的一间牢房发现了华莱士。
+line:08318c6,Dungeon_Check,"...He was lying on the floor,[p/] muttering to himself.",……他正躺在地上，[p/]喃喃自语。
+line:00fd3c4,Dungeon_Check,WALLACE: It’s over...[p/] My life is over...,WALLACE: 完蛋了……[p/]我的人生完蛋了……
+line:0ec96bb,Dungeon_Check,TYRION: Um...[p/] Wallace?,TYRION: 呃……[p/]华莱士？
+line:012fbcf,Dungeon_Check,WALLACE: Eep![p/][s/] Who are you?![p/][s/] What do you want?!,WALLACE: 噫！[p/][s/]你是谁？！[p/][s/]你想干什么？！
+line:04d2b87,Dungeon_Check,CELESTE: Wallace.[p/] It’s us.,CELESTE: 华莱士。[p/]是我们啊。
+line:0f996cc,Dungeon_Check,WALLACE: O-[p/]Oh...[p/] right...,WALLACE: 噢、[p/]噢……[p/]对……
+line:093920b,Dungeon_Check,CELESTE: How are you doing?,CELESTE: 你感觉怎么样？
+line:04206d1,Dungeon_Check,"Apparently,[p/] not well.",显然，[p/]不怎么样。
+line:0e701d0,Dungeon_Check,WALLACE: Please tell me you’re going to get me out of here!,WALLACE: 请告诉我你们会带我离开这里！
+line:0f2722c,Dungeon_Check,"WALLACE: I-[p/][s/]I keep telling them that I didn't do it,[p/] but they won't listen!",WALLACE: 我、[p/][s/]我一直告诉他们这不是我干的，[p/]但他们根本不听！
+line:0e40f15,Dungeon_Check,"TYRION: I'm sorry, Wallace, but...[p/] they found traces of [b]necromancy[/b] magic on the body.",TYRION: 很抱歉，华莱士，但是……[p/]他们在尸体上发现了[b]死灵术[/b]的魔法痕迹。
 line:0d1a947,Dungeon_Check,WALLACE: ...!,WALLACE: ……！
-line:08c758e,Dungeon_Check,"TYRION: They’re convinced that you did this,[p/] and they're going to push your case to trial.",
-line:0898df9,Dungeon_Check,"WALLACE: W-[p/][s/]What?! [h=""No!|Are they going to execute me?!"" e=""sf"" /]",
-line:08934a6,Dungeon_Check,"WALLACE: T-[p/]This—[p/][s/] This can’t be happening! [h=""Are the walls moving?!|Are they closing in?!"" e=""sf"" /]",
-line:074988d,Dungeon_Check,"WALLACE: ... [h=""I can’t...|I can’t breathe!"" e=""fs""/]",
-line:0a64c3a,Dungeon_Check,TYRION: P-[p/][s/]Please calm down!,
-line:086fe50,Dungeon_Check,"Tyrion: Wallace, we know that you’re innocent.",
-line:0350940,Dungeon_Check,Wallace: But those [i]knights[/i] think I did this...[p/] Are they going to kill me?,
-line:055d776,Dungeon_Check,TYRION: I've spent my entire life learning how to deal with situations like this.,
-line:053a3a7,Dungeon_Check,"Tyrion: If you let me represent you in court,[p/] I can prove that you're innocent.",
-line:04bcf6e,Dungeon_Check,"WALLACE: O-[p/]Oh, right...[p/] You said that you were a lawyer...",
-line:0d50c6e,Dungeon_Check,"WALLACE: ...B-[p/][s/]But,[p/] I don’t really have any money to pay you with.",
-line:02968fa,Dungeon_Check,TYRION: Don’t worry about that.,
-line:0195a3b,Dungeon_Check,"TYRION: For now,[p/] let’s just focus on getting you acquitted.",
-line:0e46243,Dungeon_Check,"WALLACE: W-[p/][s/]What...? [h=""Do they seriously|want to help me...?"" e=""hf""/]",
-line:063881b,Dungeon_Check,"WALLACE: ... [h=""No...|They must want something from me..."" e=""hf""/]",
-line:0cbb427,Dungeon_Check,"WALLACE: ...Well, I guess it doesn’t matter anyway.",
-line:09e7a34,Dungeon_Check,WALLACE: It’s not like I have anything else to lose.,
-line:089c7cc,Dungeon_Check,"That wasn't exactly the reaction I was hoping for,[p/] but at least he was cooperating...",
-line:05a981e,WallaceDeduce,TYRION: Hm...[p/] I think I’m starting to put things together now...,
-line:046f42f,WallaceDeduce,CELESTE: Have you figured something out?,
-line:0806e64,WallaceDeduce,TYRION: Yeah...[p/] I need a moment to think through everything...,
-line:03928b0,WallaceDeduce,Tyrion: The prosecution wants to implicate Wallace despite his alibi.,
-line:0dfd9e9,WallaceDeduce,Tyrion: They wouldn’t have a reason to do this unless the evidence heavily implicated him.,
-line:0758a54,WallaceDeduce,Tyrion: We’ve learned that Wallace is a necromancer.,
-line:0298727,WallaceDeduce,Tyrion: And he’s the only person at the academy that’s capable of high-level [b]necromancy[/b].,
+line:08c758e,Dungeon_Check,"TYRION: They’re convinced that you did this,[p/] and they're going to push your case to trial.",TYRION: 他们认定是你所为，[p/]而且想将你这个案件提交庭审。
+line:0898df9,Dungeon_Check,"WALLACE: W-[p/][s/]What?! [h=""No!|Are they going to execute me?!"" e=""sf"" /]","WALLACE: 你、[p/][s/]你说什么？！ [h=""不！|他们要处刑我吗？！"" e=""sf"" /]"
+line:08934a6,Dungeon_Check,"WALLACE: T-[p/]This—[p/][s/] This can’t be happening! [h=""Are the walls moving?!|Are they closing in?!"" e=""sf"" /]","WALLACE: 这、[p/]这个——[p/][s/]这决不能发生！ [h=""墙壁是在移动吗？！|它们是在向我压过来吗？！"" e=""sf"" /]"
+line:074988d,Dungeon_Check,"WALLACE: ... [h=""I can’t...|I can’t breathe!"" e=""fs""/]","WALLACE: …… [h=""我不能……|我不能呼吸了！"" e=""fs""/]"
+line:0a64c3a,Dungeon_Check,TYRION: P-[p/][s/]Please calm down!,TYRION: 请、[p/][s/]请冷静一下！
+line:086fe50,Dungeon_Check,"Tyrion: Wallace, we know that you’re innocent.",Tyrion: 华莱士，我们知道你是无辜的。
+line:0350940,Dungeon_Check,Wallace: But those [i]knights[/i] think I did this...[p/] Are they going to kill me?,Wallace: 但那些[i]骑士[/i]认为是我干的……[p/]他们要杀了我吗？
+line:055d776,Dungeon_Check,TYRION: I've spent my entire life learning how to deal with situations like this.,TYRION: 我一生致力于研究如何处理这种情况。
+line:053a3a7,Dungeon_Check,"Tyrion: If you let me represent you in court,[p/] I can prove that you're innocent.",Tyrion: 如果你让我在法庭上为你辩护，[p/]我能保证你取得无罪判决。
+line:04bcf6e,Dungeon_Check,"WALLACE: O-[p/]Oh, right...[p/] You said that you were a lawyer...",WALLACE: 噢、[p/]没错……[p/]你说过你是律师……
+line:0d50c6e,Dungeon_Check,"WALLACE: ...B-[p/][s/]But,[p/] I don’t really have any money to pay you with.",WALLACE: ……但、[p/][s/]但是，[p/]我真的没钱付给你。
+line:02968fa,Dungeon_Check,TYRION: Don’t worry about that.,TYRION: 不要担心这个。
+line:0195a3b,Dungeon_Check,"TYRION: For now,[p/] let’s just focus on getting you acquitted.",TYRION: 现在，[p/]我们还是专注于让你无罪释放。
+line:0e46243,Dungeon_Check,"WALLACE: W-[p/][s/]What...? [h=""Do they seriously|want to help me...?"" e=""hf""/]","WALLACE: 真、[p/][s/]真的吗……？ [h=""他们是真的|想要帮助我吗……？"" e=""hf""/]"
+line:063881b,Dungeon_Check,"WALLACE: ... [h=""No...|They must want something from me..."" e=""hf""/]","WALLACE: …… [h=""不是的……|他们肯定是想从我这里得到什么……"" e=""hf""/]"
+line:0cbb427,Dungeon_Check,"WALLACE: ...Well, I guess it doesn’t matter anyway.",WALLACE: ……算了，我想也没关系。
+line:09e7a34,Dungeon_Check,WALLACE: It’s not like I have anything else to lose.,WALLACE: 我也没什么好失去的了。
+line:089c7cc,Dungeon_Check,"That wasn't exactly the reaction I was hoping for,[p/] but at least he was cooperating...",这并不是我希望看到的反应，[p/]但他至少在配合了……
+line:05a981e,WallaceDeduce,TYRION: Hm...[p/] I think I’m starting to put things together now...,TYRION: 嗯……[p/]我认为我已经开始把这些事情联系起来了……
+line:046f42f,WallaceDeduce,CELESTE: Have you figured something out?,CELESTE: 你得出什么结论了吗？
+line:0806e64,WallaceDeduce,TYRION: Yeah...[p/] I need a moment to think through everything...,TYRION: 是啊……[p/]我需要一点时间来通盘考虑一下……
+line:03928b0,WallaceDeduce,Tyrion: The prosecution wants to implicate Wallace despite his alibi.,Tyrion: 尽管有不在场证明，检方还是要把华莱士牵扯进来。
+line:0dfd9e9,WallaceDeduce,Tyrion: They wouldn’t have a reason to do this unless the evidence heavily implicated him.,Tyrion: 除非有与他高度相关的证据，否则他们没有理由这么做。
+line:0758a54,WallaceDeduce,Tyrion: We’ve learned that Wallace is a necromancer.,Tyrion: 我们已经知道华莱士是一个死灵法师。
+line:0298727,WallaceDeduce,Tyrion: And he’s the only person at the academy that’s capable of high-level [b]necromancy[/b].,Tyrion: 而且他是学院里唯一一个可以使用高阶[b]死灵术[/b]的人。
 line:016d4c1,WallaceDeduce2,0000,
 line:08129e0,WallaceDeduce2,Player: Fail,
-line:077f48c,WallaceDeduce2,No...[p/] Wallace was the only person who studied high-level [b]necromancy[/b] at the academy.,
-line:0937fd8,WallaceDeduce2,And there was a piece of evidence at the crime scene that painted him as a suspect.,
-line:03ce9a2,WallaceDeduce3,Tyrion: There's a trace of [b]necromancy[/b] on the body.,
-line:0eb2d12,WallaceDeduce3,Celeste: This means that they think Wallace used one of his [b]necromancy[/b] spells.,
-line:0b1109b,WallaceDeduce3,"Celeste: Even without seeing the traces,[p/] it’s pretty obvious that magic was used on the body.",
-line:000280b,WallaceDeduce3,Tyrion: Right.[p/] There aren’t any wounds on it.,
-line:00a0090,WallaceDeduce3,Tyrion: And the Autopsy Report found no signs of poison or disease.,
-line:09afdf0,WallaceDeduce3,"Tyrion: If I know Prosecutor Steelwind,[p/] she probably already has a theory on which spell he might have used.",
-line:00bc3f6,WallaceDeduce3,Tyrion: The prosecution will probably argue that Wallace used one of his spells to kill Bellwether.,
+line:077f48c,WallaceDeduce2,No...[p/] Wallace was the only person who studied high-level [b]necromancy[/b] at the academy.,不对……[p/]华莱士是学院里唯一学习高阶[b]死灵术[/b]的人。
+line:0937fd8,WallaceDeduce2,And there was a piece of evidence at the crime scene that painted him as a suspect.,而案发现场有某个证据让他染上作案嫌疑。
+line:03ce9a2,WallaceDeduce3,Tyrion: There's a trace of [b]necromancy[/b] on the body.,Tyrion: 尸体上有一处[b]死灵术[/b]的痕迹。
+line:0eb2d12,WallaceDeduce3,Celeste: This means that they think Wallace used one of his [b]necromancy[/b] spells.,Celeste: 这意味着他们认定是华莱士使用了某种[b]死灵术[b]。
+line:0b1109b,WallaceDeduce3,"Celeste: Even without seeing the traces,[p/] it’s pretty obvious that magic was used on the body.",Celeste: 即使没有发现这些痕迹，[p/]尸体曾被施放魔法一事也是很明显的。
+line:000280b,WallaceDeduce3,Tyrion: Right.[p/] There aren’t any wounds on it.,Tyrion: 没错。[p/]上面没有任何伤口。
+line:00a0090,WallaceDeduce3,Tyrion: And the Autopsy Report found no signs of poison or disease.,Tyrion: 尸检报告也显示没有任何中毒或疾病的迹象。
+line:09afdf0,WallaceDeduce3,"Tyrion: If I know Prosecutor Steelwind,[p/] she probably already has a theory on which spell he might have used.",Tyrion: 以我对斯蒂尔文德检察官的认识，[p/]她很可能已经推断出了他使用的法术。
+line:00bc3f6,WallaceDeduce3,Tyrion: The prosecution will probably argue that Wallace used one of his spells to kill Bellwether.,Tyrion: 检方很可能会主张华莱士用他的某个法术杀死了贝尔维瑟。
 line:04418c0,WallaceDeduce4,0,
 line:072bab3,WallaceDeduce4,Fail,
-line:052f29e,WallaceDeduce4,"No...[p/] Despite his reasons,[p/] Wallace knew how to use some disturbing spells.",
-line:0f0e52c,WallaceDeduce4,I needed to check my NOTES and read the description of each spell Wallace could use.,
-line:04eb5f4,WallaceDeduce4,The body had no visible wounds or bruises.,
-line:03f9a65,WallaceDeduce4,Which spell could harm Bellwether without wounding or bruising her?,
-line:0f05e32,WallaceDeduce5,Tyrion: They will probably say that he used [b]Necrotic Blight[/b].,
-line:0374957,WallaceDeduce5,CELESTE: That makes sense.,
-line:03ac755,WallaceDeduce5,Celeste: [b]Necrotic Blight[/b] would have “drained the lifeforce from her body”...,
-line:0c32dc0,WallaceDeduce5,TYRION: But that’s where the contradiction lies.,
-line:0f9a193,WallaceDeduce5,TYRION: Let’s suppose that Wallace [i]did[/i] kill Bellwether using [b]Necrotic Blight[/b].,
-line:068c944,WallaceDeduce5,TYRION: There’s something at the crime scene that wouldn’t be there if that were true.,
+line:052f29e,WallaceDeduce4,"No...[p/] Despite his reasons,[p/] Wallace knew how to use some disturbing spells.",不对……[p/]尽管理由正当，[p/]但华莱士确实知道如何施展某些不太安全的法术。
+line:0f0e52c,WallaceDeduce4,I needed to check my NOTES and read the description of each spell Wallace could use.,我需要检查自己的<size=1.5em>笔记</size>，仔细查看华莱士能够使用的每一条法术。
+line:04eb5f4,WallaceDeduce4,The body had no visible wounds or bruises.,尸体上没有可见的创口或瘀痕。
+line:03f9a65,WallaceDeduce4,Which spell could harm Bellwether without wounding or bruising her?,什么法术能够在不造成伤口或瘀伤的情况下伤害贝尔维瑟呢？
+line:0f05e32,WallaceDeduce5,Tyrion: They will probably say that he used [b]Necrotic Blight[/b].,Tyrion: 他们很可能说华莱士施放了[b]索命咒[/b]。
+line:0374957,WallaceDeduce5,CELESTE: That makes sense.,CELESTE: 有道理。
+line:03ac755,WallaceDeduce5,Celeste: [b]Necrotic Blight[/b] would have “drained the lifeforce from her body”...,Celeste: [b]索命咒[/b]应该会“使她身体的生命力流失殆尽”……
+line:0c32dc0,WallaceDeduce5,TYRION: But that’s where the contradiction lies.,TYRION: 但这就是矛盾所在。
+line:0f9a193,WallaceDeduce5,TYRION: Let’s suppose that Wallace [i]did[/i] kill Bellwether using [b]Necrotic Blight[/b].,TYRION: 我们先假设华莱士[i]确实[/i]用[b]索命咒[/b]杀死了贝尔维瑟。
+line:068c944,WallaceDeduce5,TYRION: There’s something at the crime scene that wouldn’t be there if that were true.,TYRION: 这样的话，犯罪现场就出现了不该存在的东西。
 line:0960eb0,WallaceDeduce6,0000,
 line:0c7dde3,WallaceDeduce6,Player: Fail,
-line:0a38c9d,WallaceDeduce6,No...[p/] Steelwind would probably argue that Wallace used [b]Necrotic Blight[b/].,
-line:05d3a04,WallaceDeduce6,"But if that really [i]did[/i] happen,[p/] there was something on the body that [i]shouldn't[/i] be there.",
-line:097da0e,WallaceDeduce7,Tyrion: [b]Necrotic Blight[/b] is a spell that doesn’t inflict any visible wounds.,
-line:09d1ae5,WallaceDeduce7,"Tyrion: But if that's true,[p/] there shouldn’t have been any blood at the scene.",
-line:0513ae2,WallaceDeduce7,CELESTE: ...But then what really happened?,
-line:0534cdd,WallaceDeduce7,TYRION: [i]That’s[/i] the last piece.,
-line:0a9b410,WallaceDeduce7,"TYRION: And if I had to guess,[p/] the information we need is being hidden by one of the witnesses who discovered the body.",
-line:013aa51,WallaceDeduce7,CELESTE: Valentina...,
-line:04b1166,WallaceDeduce7,TYRION: She’s definitely hiding something.,
-line:08f7778,WallaceDeduce7,TYRION: Did you notice how she reacted when I asked you to scan the room?,
-line:005d470,WallaceDeduce7,"CELESTE: Yeah,[p/] she ran away.[p/] She didn’t even try to be subtle about it.",
-line:0bd14b4,WallaceDeduce7,"TYRION: With the way she reacted,[p/] I think she may have been trying to hide herself from your [b]Detect Magic[/b].",
-line:0c2579e,WallaceDeduce7,Tyrion: ...Which can only mean that there's a magical trace on her.,
-line:016ba04,WallaceDeduce7,Celeste: I wonder what she's trying to hide.,
-line:060a25c,WallaceDeduce7,Tyrion: There's only one way to find out.,
-line:023fbd2,WallaceDeduce7,"Tyrion: The next time you see her,[p/] can you cast [b]Detect Magic[/b] from afar and scan her?",
+line:0a38c9d,WallaceDeduce6,No...[p/] Steelwind would probably argue that Wallace used [b]Necrotic Blight[b/].,不对……[p/]斯蒂尔文德很可能主张华莱士施放了[b]索命咒[/b]。
+line:05d3a04,WallaceDeduce6,"But if that really [i]did[/i] happen,[p/] there was something on the body that [i]shouldn't[/i] be there.",但如果[i]真是[/i]这样，[p/]尸体上就出现了[i]不应该[/i]有的东西。
+line:097da0e,WallaceDeduce7,Tyrion: [b]Necrotic Blight[/b] is a spell that doesn’t inflict any visible wounds.,Tyrion: [b]索命咒[/b]这个法术不会造成任何可见的创伤。
+line:09d1ae5,WallaceDeduce7,"Tyrion: But if that's true,[p/] there shouldn’t have been any blood at the scene.",Tyrion: 但若确实如此，[p/]现场就不应该有任何血迹。
+line:0513ae2,WallaceDeduce7,CELESTE: ...But then what really happened?,CELESTE: ……那究竟发生了什么事情？
+line:0534cdd,WallaceDeduce7,TYRION: [i]That’s[/i] the last piece.,TYRION: [i]这个[/i]就是最后一块拼图了。
+line:0a9b410,WallaceDeduce7,"TYRION: And if I had to guess,[p/] the information we need is being hidden by one of the witnesses who discovered the body.",TYRION: 如果我没猜错的话，[p/]正是尸体的发现人之一隐藏了我们所需的信息。
+line:013aa51,WallaceDeduce7,CELESTE: Valentina...,CELESTE: 是瓦伦蒂娜……
+line:04b1166,WallaceDeduce7,TYRION: She’s definitely hiding something.,TYRION: 她肯定隐瞒了什么。
+line:08f7778,WallaceDeduce7,TYRION: Did you notice how she reacted when I asked you to scan the room?,TYRION: 你还记得我让你探测那个房间时，她有什么反应吗？
+line:005d470,WallaceDeduce7,"CELESTE: Yeah,[p/] she ran away.[p/] She didn’t even try to be subtle about it.",CELESTE: 是的，[p/]她逃走了。[p/]甚至都没想办法掩饰一下。
+line:0bd14b4,WallaceDeduce7,"TYRION: With the way she reacted,[p/] I think she may have been trying to hide herself from your [b]Detect Magic[/b].",TYRION: 按照她的反应……[p/]我认为她可能在试图躲避你的[b]法术探测[/b]。
+line:0c2579e,WallaceDeduce7,Tyrion: ...Which can only mean that there's a magical trace on her.,Tyrion: ……这只能意味着她身上有法术痕迹。
+line:016ba04,WallaceDeduce7,Celeste: I wonder what she's trying to hide.,Celeste: 我想知道她到底要隐瞒什么。
+line:060a25c,WallaceDeduce7,Tyrion: There's only one way to find out.,Tyrion: 只有试试看了。
+line:023fbd2,WallaceDeduce7,"Tyrion: The next time you see her,[p/] can you cast [b]Detect Magic[/b] from afar and scan her?",Tyrion: 下一次看到她的时候，[p/]你能偷偷在远处施放[b]法术探测[/b]扫描她吗？
 line:02940ef,WallaceDeduce7,Celeste: Alright.,Celeste: 好。
-line:00f59ab,WallaceDeduce7,Celeste: It's been a while since we talked to her.[p/] Valerie also mentioned that they still had work to do today.,
-line:0496452,WallaceDeduce7,Celeste: She might be back in the Academy's Kitchen now.,
+line:00f59ab,WallaceDeduce7,Celeste: It's been a while since we talked to her.[p/] Valerie also mentioned that they still had work to do today.,Celeste: 我们上次跟她谈话已经有一会儿了。[p/]瓦莱丽也提到她们今天还有工作要处理。
+line:0496452,WallaceDeduce7,Celeste: She might be back in the Academy's Kitchen now.,Celeste: 她可能已经回学院厨房了。
 line:057c425,AcademyHall_Examine,Player: 2-B,
-line:0879b66,AcademyHall_Examine,"This was Lecture Hall 2-B,[p/] where Bellwether's body was found.",
+line:0879b66,AcademyHall_Examine,"This was Lecture Hall 2-B,[p/] where Bellwether's body was found.",这是2-B号讲堂，[p/]也就是贝尔维瑟的尸体被发现的地方。
 line:02bbf80,AcademyHall_Examine,Player: 2-D,
-line:036d52d,AcademyHall_Examine,This was Lecture Hall 2-D.,
+line:036d52d,AcademyHall_Examine,This was Lecture Hall 2-D.,这是2-D号讲堂。
 line:069b2f2,AcademyHall_Examine,Player: 2-F,
-line:0f83e3b,AcademyHall_Examine,This was Lecture Hall 2-F.,
+line:0f83e3b,AcademyHall_Examine,This was Lecture Hall 2-F.,这是2-F号讲堂。
 line:040d3ff,AcademyHall_Examine,Player: 2-H,
-line:048ca7e,AcademyHall_Examine,This was Lecture Hall 2-H.,
+line:048ca7e,AcademyHall_Examine,This was Lecture Hall 2-H.,这是2-H号讲堂。
 line:0a89091,AcademyHall_Examine,Player: Closet,
-line:03ac2ff,AcademyHall_Examine,It appeared to be some kind of storage closet.,
-line:0665966,AcademyHall_Examine,There wasn't anything of note inside of it.,
+line:03ac2ff,AcademyHall_Examine,It appeared to be some kind of storage closet.,看起来是某种储物柜。
+line:0665966,AcademyHall_Examine,There wasn't anything of note inside of it.,里面没什么值得注意的东西。
 line:01d332e,AcademyHall_Examine,Player: Back,
 line:018609b,AcademyHall_Talk,Player: Jan Hughes,
 line:0e1e5db,AcademyHall_Talk,Player: The Murder,Player: 谋杀案
-line:0cba1f4,AcademyHall_Talk,TYRION: Valerie mentioned that you were close to Lecture Hall 2-B before they found Bellwether.,
-line:0995d05,AcademyHall_Talk,TYRION: What were you doing when the twins discovered the body?,
+line:0cba1f4,AcademyHall_Talk,TYRION: Valerie mentioned that you were close to Lecture Hall 2-B before they found Bellwether.,TYRION: 瓦莱丽提到，她们找到贝尔维瑟之前，你就在 2-B 讲堂附近。
+line:0995d05,AcademyHall_Talk,TYRION: What were you doing when the twins discovered the body?,TYRION: 那对双胞胎发现尸体的时候你在干什么？
 line:08df30e,AcademyHall_Talk,JAN: I was cleaning the halls.,JAN: 我当时正在打扫大厅。
 line:019368d,AcademyHall_Talk,JAN: Bellwether knocked over a vase...[p/] There were shards and dirt everywhere.,JAN: 贝尔维瑟撞倒了一个花瓶……[p/]搞得满地都是碎片和泥土。
 line:0630d25,AcademyHall_Talk,TYRION: Wait...[p/] You [s/][i]saw[/i] the professor before the twins arrived?,TYRION: 等等……[p/]你[s/]在双胞胎到来之前[i]看到了[/i]教授？
 line:0b8c5ad,AcademyHall_Talk,"JAN: Yeah.[p/] Like I said,[p/] she broke the vase right in this hallway...",JAN: 是啊。[p/]我刚才说过了，[p/]她把走廊里的花瓶打碎了……
 line:047b112,AcademyHall_Talk,JAN: It was probably 20-30 minutes before the twins found the body.,JAN: 大概是在那对双胞胎发现尸体 20 到 30 分钟之前。
-line:0620fe5,AcademyHall_Talk,TYRION: You might have been the last person to see her alive.,
-line:0306e6f,AcademyHall_Talk,TYRION: Did you see where she went after breaking the vase?,
-line:027a94d,AcademyHall_Talk,"JAN: Yeah,[p/] I think she went into that room over there.",
-line:0c37b25,AcademyHall_Talk,Jan pointed towards Lecture Hall 2-B.,
-line:0eb10bb,AcademyHall_Talk,TYRION: Did you see anyone else enter the lecture hall?,
-line:091a140,AcademyHall_Talk,JAN: I’m honestly not sure.,
-line:07d42c7,AcademyHall_Talk,JAN: I was more worried about cleaning up the mess she made.,
-line:0d9a42d,AcademyHall_Talk,TYRION: Well...[p/] Did you notice anything off about her?,
-line:0d6a6fb,AcademyHall_Talk,JAN: She [i]was[/i] in a pretty bad mood.,
-line:016cb82,AcademyHall_Talk,"JAN: But honestly,[p/] that’s pretty normal for her.",
-line:099ecd1,AcademyHall_Talk,JAN: She was walking really slowly.,
-line:0ea47e8,AcademyHall_Talk,JAN: I didn’t notice her at first.[p/] She basically shoved me out of her way.,
-line:01f64f1,AcademyHall_Talk,"JAN: After that,[p/] she knocked over that vase.",
-line:03e4a8b,AcademyHall_Talk,"JAN: Then she yelled at me to ""Be quiet"".[p/] I didn't even say anything.",
+line:0620fe5,AcademyHall_Talk,TYRION: You might have been the last person to see her alive.,TYRION: 你可能就是最后一个看到她还活着的人。
+line:0306e6f,AcademyHall_Talk,TYRION: Did you see where she went after breaking the vase?,TYRION: 你有看到她打碎花瓶后去哪里了吗？
+line:027a94d,AcademyHall_Talk,"JAN: Yeah,[p/] I think she went into that room over there.",JAN: 有啊，[p/]我记得她走进那边那个房间了吧。
+line:0c37b25,AcademyHall_Talk,Jan pointed towards Lecture Hall 2-B.,简指向2-B号讲堂。
+line:0eb10bb,AcademyHall_Talk,TYRION: Did you see anyone else enter the lecture hall?,TYRION: 你有看到其他人进入那间讲堂吗？
+line:091a140,AcademyHall_Talk,JAN: I’m honestly not sure.,JAN: 我真的不怎么确定。
+line:07d42c7,AcademyHall_Talk,JAN: I was more worried about cleaning up the mess she made.,JAN: 我当时急着清理她搞出来的那一地垃圾。
+line:0d9a42d,AcademyHall_Talk,TYRION: Well...[p/] Did you notice anything off about her?,TYRION: 行吧……[p/]她看起来有什么不对劲吗？
+line:0d6a6fb,AcademyHall_Talk,JAN: She [i]was[/i] in a pretty bad mood.,JAN: 她心情[i]真的[/i]很差。
+line:016cb82,AcademyHall_Talk,"JAN: But honestly,[p/] that’s pretty normal for her.",JAN: 但老实说，[p/]她这个样子才正常。
+line:099ecd1,AcademyHall_Talk,JAN: She was walking really slowly.,JAN: 她当时走得非常慢。
+line:0ea47e8,AcademyHall_Talk,JAN: I didn’t notice her at first.[p/] She basically shoved me out of her way.,JAN: 我一开始没注意到挡了她路，[p/]然后她基本上算是给我一把推开了。
+line:01f64f1,AcademyHall_Talk,"JAN: After that,[p/] she knocked over that vase.",JAN: 紧接着，[p/]她就撞翻了花瓶。
+line:03e4a8b,AcademyHall_Talk,"JAN: Then she yelled at me to ""Be quiet"".[p/] I didn't even say anything.",JAN: 然后她向我吼道“安静”。[p/]可我明明一个字都没说。
 line:040427d,AcademyHall_Talk,Player: Catherine Bellwether,Player: 凯瑟琳·贝尔维瑟
-line:077cd1c,AcademyHall_Talk,TYRION: What can you tell me about Catherine Bellwether?,
-line:02664d7,AcademyHall_Talk,TYRION: I've heard that she had a pretty bad relationship with the staff.,
-line:02e271c,AcademyHall_Talk,JAN: She had a “bad relationship” with everyone.,
-line:0a4dcaa,AcademyHall_Talk,"JAN: Students,[p/] the other teachers,[p/] I can’t think of many people who actually [i]did[/i] get along with her.",
-line:01066e3,AcademyHall_Talk,TYRION: I’m sure you had your own share of bad experiences with her.,
-line:00a825f,AcademyHall_Talk,JAN: Yeah...[p/] She’d always yell at me whenever I dozed off.,
-line:001237e,AcademyHall_Talk,"JAN: I hate to say it,[p/] but things are a [i]lot[/i] more peaceful around here without her.",
-line:0d8e752,AcademyHall_Talk,"That was blunt,[p/] to say the least...",
-line:0e4b7ff,AcademyHall_Talk,"But from what I'd heard from everyone else,[p/] I couldn't exactly blame him for thinking that.",
+line:077cd1c,AcademyHall_Talk,TYRION: What can you tell me about Catherine Bellwether?,TYRION: 能聊聊凯瑟琳·贝尔维瑟吗？
+line:02664d7,AcademyHall_Talk,TYRION: I've heard that she had a pretty bad relationship with the staff.,TYRION: 我听说她和教职工们关系很差。
+line:02e271c,AcademyHall_Talk,JAN: She had a “bad relationship” with everyone.,JAN: 她与任何人都“关系很差”。
+line:0a4dcaa,AcademyHall_Talk,"JAN: Students,[p/] the other teachers,[p/] I can’t think of many people who actually [i]did[/i] get along with her.",JAN: 学生啊，[p/]其他老师啊，[p/]我还真想不到[i]有[/i]谁和她处得好。
+line:01066e3,AcademyHall_Talk,TYRION: I’m sure you had your own share of bad experiences with her.,TYRION: 我相信你和她之间肯定也有不太愉快的经历。
+line:00a825f,AcademyHall_Talk,JAN: Yeah...[p/] She’d always yell at me whenever I dozed off.,JAN: 是啊……[p/]我每次打盹的时候她都会冲我大吼大叫。
+line:001237e,AcademyHall_Talk,"JAN: I hate to say it,[p/] but things are a [i]lot[/i] more peaceful around here without her.",JAN: 我不想这么说出来，[p/]但是……[p/]她不在之后好像四周都和平了[i]很多[/i]。
+line:0d8e752,AcademyHall_Talk,"That was blunt,[p/] to say the least...",这话真直，[p/]但并不夸张。
+line:0e4b7ff,AcademyHall_Talk,"But from what I'd heard from everyone else,[p/] I couldn't exactly blame him for thinking that.",以我从其他人那里了解到的情况，[p/]我不能为他的想法责怪他。
 line:072444a,AcademyHall_Talk,Player: Firing the academy staff,
-line:0ed73d5,AcademyHall_Talk,TYRION: Valentina...[p/] [i]mentioned[/i] something interesting.,
-line:0db2ed8,AcademyHall_Talk,TYRION: She seems to think Bellwether was putting her job at risk.,
-line:0f6b5aa,AcademyHall_Talk,"JAN: Oh, yeah...[p/] Bellwether was putting [i]all[/i] of our jobs at risk.",
-line:07d5cfe,AcademyHall_Talk,TYRION: What made you think that?,
-line:0d2af4e,AcademyHall_Talk,JAN: You know those Arcane Constructs in the library?,
-line:00ac545,AcademyHall_Talk,JAN: Bellwether was the one who put them there.,
-line:0c633c9,AcademyHall_Talk,"CELESTE: Oh, yeah![p/][s/] They’re so cool!",
-line:05693fe,AcademyHall_Talk,"JAN: Well,[p/] a few weeks ago,[p/] I peeked in on a meeting she was having with Theodore.",
-line:001b340,AcademyHall_Talk,"JAN: Apparently,[p/] the school board was planning to replace the staff with them.",
-line:0f5b43f,AcademyHall_Talk,CELESTE: O-[p/]Oh...,
-line:0572cf7,AcademyHall_Talk,"TYRION: Well, I’m sure the headmaster rejected her proposal.",
-line:0041633,AcademyHall_Talk,"JAN: I don’t know...[p/] From the way she was talking,[p/] it sounded like he didn’t have any say in the matter.",
+line:0ed73d5,AcademyHall_Talk,TYRION: Valentina...[p/] [i]mentioned[/i] something interesting.,TYRION: 瓦伦蒂娜……[p/][i]提到了[/i]有意思的消息。
+line:0db2ed8,AcademyHall_Talk,TYRION: She seems to think Bellwether was putting her job at risk.,TYRION: 她认为贝尔维瑟会让她丢掉工作。
+line:0f6b5aa,AcademyHall_Talk,"JAN: Oh, yeah...[p/] Bellwether was putting [i]all[/i] of our jobs at risk.",JAN: 啊，是啊……[p/]贝尔维瑟是想要砸掉我们[i]所有人[/i]的饭碗。
+line:07d5cfe,AcademyHall_Talk,TYRION: What made you think that?,TYRION: 你为何这么想？
+line:0d2af4e,AcademyHall_Talk,JAN: You know those Arcane Constructs in the library?,JAN: 你知道图书馆里的那些奥术构造体吧？
+line:00ac545,AcademyHall_Talk,JAN: Bellwether was the one who put them there.,JAN: 是贝尔维瑟将它们安放在那里的。
+line:0c633c9,AcademyHall_Talk,"CELESTE: Oh, yeah![p/][s/] They’re so cool!",CELESTE: 哦，这样啊！[p/][s/]它们看着还挺酷的！
+line:05693fe,AcademyHall_Talk,"JAN: Well,[p/] a few weeks ago,[p/] I peeked in on a meeting she was having with Theodore.",JAN: 不过，[p/]就在几周前，[p/]我无意间听到他和西奥多校长的一次会谈。
+line:001b340,AcademyHall_Talk,"JAN: Apparently,[p/] the school board was planning to replace the staff with them.",JAN: 很明显，[p/]学院董事会打算用它们代替校工们。
+line:0f5b43f,AcademyHall_Talk,CELESTE: O-[p/]Oh...,CELESTE: 啊、[p/]噢……
+line:0572cf7,AcademyHall_Talk,"TYRION: Well, I’m sure the headmaster rejected her proposal.",TYRION: 哎，我相信校长拒绝了她的提案。
+line:0041633,AcademyHall_Talk,"JAN: I don’t know...[p/] From the way she was talking,[p/] it sounded like he didn’t have any say in the matter.",JAN: 我不知道……[p/]从她说话的样子来看，[p/]校长在这件事上似乎没有发言权。
 line:0735a07,AcademyHall_Talk,TYRION: But only the headmaster should have the authority to fire the staff.,
 line:07ea236,AcademyHall_Talk,TYRION: Why would she be that confident?,
 line:0669cfa,AcademyHall_Talk,JAN: Dunno.[p/] All I know is that she hated having commoners on campus.,
@@ -3303,7 +3303,7 @@ line:071b044,Wall_Conv,Tyrion: Then why did [i]you[/i] allow him to study it?,
 line:01da515,Wall_Conv,"THEODORE: After everything that has happened to him,[p/] I made an exception,[p/] even if I [i]was[/i] breaking the law.",
 line:0cee327,Wall_Conv,TYRION: ...What happened to him?,
 line:0ffb012,Wall_Conv,THEODORE: ...I’m not at liberty to say more.,
-line:0abcb0b,Cath_Conv,TYRION: What can you tell me about Catherine Bellwether?,
+line:0abcb0b,Cath_Conv,TYRION: What can you tell me about Catherine Bellwether?,TYRION: 能聊聊凯瑟琳·贝尔维瑟吗？
 line:090b7f6,Cath_Conv,"THEODORE: ... [h=""Nothing [i]kind[/i]...|I can tell you that much..."" e=""saf""/]",
 line:09632d4,Cath_Conv,"Wow,[p/] that was a whole mess of emotions.",
 line:0d59ec3,Cath_Conv,"THEODORE: Truth be told,[p/] she was rather...[p/] unpleasant to work with.",
@@ -4139,7 +4139,7 @@ line:09a310f,ValWallTalk,VALENTINA: No...[p/][s/] But I’ve heard the rumors![p
 line:061da42,ValWallTalk,VALENTINA: I’m sure he’s just biding his time...[p/] waiting for his chance to raise an army.,
 line:0a49720,ValWallTalk,It couldn't be helped that people thought of him that way.,
 line:05834ef,ValWallTalk,[i]I[/i] still wasn't sure what to make of all of this.,
-line:04a22c8,ValCathTalk,TYRION: What can you tell me about Catherine Bellwether?,
+line:04a22c8,ValCathTalk,TYRION: What can you tell me about Catherine Bellwether?,TYRION: 能聊聊凯瑟琳·贝尔维瑟吗？
 line:0fcabdd,ValCathTalk,"VALENTINA: ... [h=""Nothing good,|if that's what you're looking for..."" e=""as"" /]",
 line:03431d5,ValCathTalk,Yet another set of negative emotions.,
 line:0167aec,ValCathTalk,Celeste: Just tell us the truth.,

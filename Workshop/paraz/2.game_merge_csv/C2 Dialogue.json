@@ -16064,271 +16064,271 @@
   {
     "key": "C2 Dialogue.csv::translation::38070ed3bec58864",
     "original": "Celeste: Yeah...[p/] And you're not exactly what I was expecting.",
-    "translation": "",
+    "translation": "Celeste: 是的……[p/]而且你也不是我们以为的那种法师。",
     "context": "{\n  \"id\": \"line:0e43720\",\n  \"node\": \"Dungeon_Present\",\n  \"text\": \"Celeste: Yeah...[p/] And you're not exactly what I was expecting.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06e018dc91b8b840",
     "original": "Wallace: Sorry for disappointing you...",
-    "translation": "",
+    "translation": "Wallace: 不好意思让你失望了……",
     "context": "{\n  \"id\": \"line:0dba9d7\",\n  \"node\": \"Dungeon_Present\",\n  \"text\": \"Wallace: Sorry for disappointing you...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7928b04a017f9bff",
     "original": "Celeste: T-[p/][s/]That’s not what I meant.",
-    "translation": "",
+    "translation": "Celeste: 我、[p/][s/]我不是这个意思。",
     "context": "{\n  \"id\": \"line:027737e\",\n  \"node\": \"Dungeon_Present\",\n  \"text\": \"Celeste: T-[p/][s/]That’s not what I meant.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1ffbc3385121c6cd",
     "original": "Tyrion: What can you tell me about this, Wallace?",
-    "translation": "",
+    "translation": "Tyrion: 关于这个你有什么想法吗，华莱士？",
     "context": "{\n  \"id\": \"line:0e75341\",\n  \"node\": \"Dungeon_Present\",\n  \"text\": \"Tyrion: What can you tell me about this, Wallace?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::de454212266366ea",
     "original": "Wallace: Sorry...[p/] I can't tell you much about that.",
-    "translation": "",
+    "translation": "Wallace: 抱歉……[p/]我没什么能告诉你的。",
     "context": "{\n  \"id\": \"line:0f93ed9\",\n  \"node\": \"Dungeon_Present\",\n  \"text\": \"Wallace: Sorry...[p/] I can't tell you much about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4d392842af4351bc",
     "original": "I looked around the dungeon,[p/] but I didn't see Wallace in any of the cells.",
-    "translation": "",
+    "translation": "我在地牢里四处张望，[p/]但华莱士不在其中任何一间。",
     "context": "{\n  \"id\": \"line:077e37c\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"I looked around the dungeon,[p/] but I didn't see Wallace in any of the cells.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a343726df46480ff",
     "original": "Celeste: The Inquisition is probably still questioning him.",
-    "translation": "",
+    "translation": "Celeste: 应该是裁判所还在盘问他吧。",
     "context": "{\n  \"id\": \"line:083bf34\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"Celeste: The Inquisition is probably still questioning him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cb3cdcd1b21a47b4",
     "original": "Celeste: We should come back later.",
-    "translation": "",
+    "translation": "Celeste: 我们应该晚点再来。",
     "context": "{\n  \"id\": \"line:09571db\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"Celeste: We should come back later.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::758c5c8ce52e7200",
     "original": "As we arrived at the Ratholme Dungeons,[p/] I spotted Wallace locked in one of the nearby cells.",
-    "translation": "",
+    "translation": "我们抵达瑞思霍姆地牢时，[p/]我在近处的一间牢房发现了华莱士。",
     "context": "{\n  \"id\": \"line:04401d9\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"As we arrived at the Ratholme Dungeons,[p/] I spotted Wallace locked in one of the nearby cells.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f5a6d2f4639cd8d",
     "original": "...He was lying on the floor,[p/] muttering to himself.",
-    "translation": "",
+    "translation": "……他正躺在地上，[p/]喃喃自语。",
     "context": "{\n  \"id\": \"line:08318c6\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"...He was lying on the floor,[p/] muttering to himself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2caa78c207978088",
     "original": "WALLACE: It’s over...[p/] My life is over...",
-    "translation": "",
+    "translation": "WALLACE: 完蛋了……[p/]我的人生完蛋了……",
     "context": "{\n  \"id\": \"line:00fd3c4\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: It’s over...[p/] My life is over...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c80a1dbbba595a78",
     "original": "TYRION: Um...[p/] Wallace?",
-    "translation": "",
+    "translation": "TYRION: 呃……[p/]华莱士？",
     "context": "{\n  \"id\": \"line:0ec96bb\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"TYRION: Um...[p/] Wallace?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9c02dced3b9586ac",
     "original": "WALLACE: Eep![p/][s/] Who are you?![p/][s/] What do you want?!",
-    "translation": "",
+    "translation": "WALLACE: 噫！[p/][s/]你是谁？！[p/][s/]你想干什么？！",
     "context": "{\n  \"id\": \"line:012fbcf\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: Eep![p/][s/] Who are you?![p/][s/] What do you want?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cc62619b0a0a4f2b",
     "original": "CELESTE: Wallace.[p/] It’s us.",
-    "translation": "",
+    "translation": "CELESTE: 华莱士。[p/]是我们啊。",
     "context": "{\n  \"id\": \"line:04d2b87\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"CELESTE: Wallace.[p/] It’s us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3b1216c73badab24",
     "original": "WALLACE: O-[p/]Oh...[p/] right...",
-    "translation": "",
+    "translation": "WALLACE: 噢、[p/]噢……[p/]对……",
     "context": "{\n  \"id\": \"line:0f996cc\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: O-[p/]Oh...[p/] right...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::16334ba7710e8f1b",
     "original": "CELESTE: How are you doing?",
-    "translation": "",
+    "translation": "CELESTE: 你感觉怎么样？",
     "context": "{\n  \"id\": \"line:093920b\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"CELESTE: How are you doing?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::744c0837400c56cf",
     "original": "Apparently,[p/] not well.",
-    "translation": "",
+    "translation": "显然，[p/]不怎么样。",
     "context": "{\n  \"id\": \"line:04206d1\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"Apparently,[p/] not well.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5dff8b1b575ae9af",
     "original": "WALLACE: Please tell me you’re going to get me out of here!",
-    "translation": "",
+    "translation": "WALLACE: 请告诉我你们会带我离开这里！",
     "context": "{\n  \"id\": \"line:0e701d0\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: Please tell me you’re going to get me out of here!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ec1a90ebcb2d907d",
     "original": "WALLACE: I-[p/][s/]I keep telling them that I didn't do it,[p/] but they won't listen!",
-    "translation": "",
+    "translation": "WALLACE: 我、[p/][s/]我一直告诉他们这不是我干的，[p/]但他们根本不听！",
     "context": "{\n  \"id\": \"line:0f2722c\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: I-[p/][s/]I keep telling them that I didn't do it,[p/] but they won't listen!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8c46a860509e9082",
     "original": "TYRION: I'm sorry, Wallace, but...[p/] they found traces of [b]necromancy[/b] magic on the body.",
-    "translation": "",
+    "translation": "TYRION: 很抱歉，华莱士，但是……[p/]他们在尸体上发现了[b]死灵术[/b]的魔法痕迹。",
     "context": "{\n  \"id\": \"line:0e40f15\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"TYRION: I'm sorry, Wallace, but...[p/] they found traces of [b]necromancy[/b] magic on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3e680bcf6faf6f54",
     "original": "TYRION: They’re convinced that you did this,[p/] and they're going to push your case to trial.",
-    "translation": "",
+    "translation": "TYRION: 他们认定是你所为，[p/]而且想将你这个案件提交庭审。",
     "context": "{\n  \"id\": \"line:08c758e\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"TYRION: They’re convinced that you did this,[p/] and they're going to push your case to trial.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d4cfc5a851e6f9db",
     "original": "WALLACE: W-[p/][s/]What?! [h=\"No!|Are they going to execute me?!\" e=\"sf\" /]",
-    "translation": "",
+    "translation": "WALLACE: 你、[p/][s/]你说什么？！ [h=\"不！|他们要处刑我吗？！\" e=\"sf\" /]",
     "context": "{\n  \"id\": \"line:0898df9\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: W-[p/][s/]What?! [h=\\\"No!|Are they going to execute me?!\\\" e=\\\"sf\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a738ab85289db447",
     "original": "WALLACE: T-[p/]This—[p/][s/] This can’t be happening! [h=\"Are the walls moving?!|Are they closing in?!\" e=\"sf\" /]",
-    "translation": "",
+    "translation": "WALLACE: 这、[p/]这个——[p/][s/]这决不能发生！ [h=\"墙壁是在移动吗？！|它们是在向我压过来吗？！\" e=\"sf\" /]",
     "context": "{\n  \"id\": \"line:08934a6\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: T-[p/]This—[p/][s/] This can’t be happening! [h=\\\"Are the walls moving?!|Are they closing in?!\\\" e=\\\"sf\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::41e185a11d717c8d",
     "original": "WALLACE: ... [h=\"I can’t...|I can’t breathe!\" e=\"fs\"/]",
-    "translation": "",
+    "translation": "WALLACE: …… [h=\"我不能……|我不能呼吸了！\" e=\"fs\"/]",
     "context": "{\n  \"id\": \"line:074988d\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: ... [h=\\\"I can’t...|I can’t breathe!\\\" e=\\\"fs\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::43f1b840a9e9cc88",
     "original": "TYRION: P-[p/][s/]Please calm down!",
-    "translation": "",
+    "translation": "TYRION: 请、[p/][s/]请冷静一下！",
     "context": "{\n  \"id\": \"line:0a64c3a\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"TYRION: P-[p/][s/]Please calm down!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a2d8d30cfae13ef8",
     "original": "Tyrion: Wallace, we know that you’re innocent.",
-    "translation": "",
+    "translation": "Tyrion: 华莱士，我们知道你是无辜的。",
     "context": "{\n  \"id\": \"line:086fe50\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"Tyrion: Wallace, we know that you’re innocent.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a478916c2d3f072a",
     "original": "Wallace: But those [i]knights[/i] think I did this...[p/] Are they going to kill me?",
-    "translation": "",
+    "translation": "Wallace: 但那些[i]骑士[/i]认为是我干的……[p/]他们要杀了我吗？",
     "context": "{\n  \"id\": \"line:0350940\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"Wallace: But those [i]knights[/i] think I did this...[p/] Are they going to kill me?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c94cc485ebd20fc0",
     "original": "TYRION: I've spent my entire life learning how to deal with situations like this.",
-    "translation": "",
+    "translation": "TYRION: 我一生致力于研究如何处理这种情况。",
     "context": "{\n  \"id\": \"line:055d776\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"TYRION: I've spent my entire life learning how to deal with situations like this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3c4922c1555f63b1",
     "original": "Tyrion: If you let me represent you in court,[p/] I can prove that you're innocent.",
-    "translation": "",
+    "translation": "Tyrion: 如果你让我在法庭上为你辩护，[p/]我能保证你取得无罪判决。",
     "context": "{\n  \"id\": \"line:053a3a7\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"Tyrion: If you let me represent you in court,[p/] I can prove that you're innocent.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::51a641fea0c5be20",
     "original": "WALLACE: O-[p/]Oh, right...[p/] You said that you were a lawyer...",
-    "translation": "",
+    "translation": "WALLACE: 噢、[p/]没错……[p/]你说过你是律师……",
     "context": "{\n  \"id\": \"line:04bcf6e\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: O-[p/]Oh, right...[p/] You said that you were a lawyer...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::95113bdf95e9bee6",
     "original": "WALLACE: ...B-[p/][s/]But,[p/] I don’t really have any money to pay you with.",
-    "translation": "",
+    "translation": "WALLACE: ……但、[p/][s/]但是，[p/]我真的没钱付给你。",
     "context": "{\n  \"id\": \"line:0d50c6e\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: ...B-[p/][s/]But,[p/] I don’t really have any money to pay you with.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::57e8a0b4f2aab568",
     "original": "TYRION: Don’t worry about that.",
-    "translation": "",
+    "translation": "TYRION: 不要担心这个。",
     "context": "{\n  \"id\": \"line:02968fa\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"TYRION: Don’t worry about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7bfeec54ceedd9b4",
     "original": "TYRION: For now,[p/] let’s just focus on getting you acquitted.",
-    "translation": "",
+    "translation": "TYRION: 现在，[p/]我们还是专注于让你无罪释放。",
     "context": "{\n  \"id\": \"line:0195a3b\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"TYRION: For now,[p/] let’s just focus on getting you acquitted.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::687b48e897e23aee",
     "original": "WALLACE: W-[p/][s/]What...? [h=\"Do they seriously|want to help me...?\" e=\"hf\"/]",
-    "translation": "",
+    "translation": "WALLACE: 真、[p/][s/]真的吗……？ [h=\"他们是真的|想要帮助我吗……？\" e=\"hf\"/]",
     "context": "{\n  \"id\": \"line:0e46243\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: W-[p/][s/]What...? [h=\\\"Do they seriously|want to help me...?\\\" e=\\\"hf\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c4cf8621f8156a46",
     "original": "WALLACE: ... [h=\"No...|They must want something from me...\" e=\"hf\"/]",
-    "translation": "",
+    "translation": "WALLACE: …… [h=\"不是的……|他们肯定是想从我这里得到什么……\" e=\"hf\"/]",
     "context": "{\n  \"id\": \"line:063881b\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: ... [h=\\\"No...|They must want something from me...\\\" e=\\\"hf\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::31a433c4b1800374",
     "original": "WALLACE: ...Well, I guess it doesn’t matter anyway.",
-    "translation": "",
+    "translation": "WALLACE: ……算了，我想也没关系。",
     "context": "{\n  \"id\": \"line:0cbb427\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: ...Well, I guess it doesn’t matter anyway.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fee6159816e28e2d",
     "original": "WALLACE: It’s not like I have anything else to lose.",
-    "translation": "",
+    "translation": "WALLACE: 我也没什么好失去的了。",
     "context": "{\n  \"id\": \"line:09e7a34\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"WALLACE: It’s not like I have anything else to lose.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::817fe19d4a51b948",
     "original": "That wasn't exactly the reaction I was hoping for,[p/] but at least he was cooperating...",
-    "translation": "",
+    "translation": "这并不是我希望看到的反应，[p/]但他至少在配合了……",
     "context": "{\n  \"id\": \"line:089c7cc\",\n  \"node\": \"Dungeon_Check\",\n  \"text\": \"That wasn't exactly the reaction I was hoping for,[p/] but at least he was cooperating...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d56e02e048d9b8f7",
     "original": "TYRION: Hm...[p/] I think I’m starting to put things together now...",
-    "translation": "",
+    "translation": "TYRION: 嗯……[p/]我认为我已经开始把这些事情联系起来了……",
     "context": "{\n  \"id\": \"line:05a981e\",\n  \"node\": \"WallaceDeduce\",\n  \"text\": \"TYRION: Hm...[p/] I think I’m starting to put things together now...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4a5363d7e6fe9de0",
     "original": "CELESTE: Have you figured something out?",
-    "translation": "",
+    "translation": "CELESTE: 你得出什么结论了吗？",
     "context": "{\n  \"id\": \"line:046f42f\",\n  \"node\": \"WallaceDeduce\",\n  \"text\": \"CELESTE: Have you figured something out?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c4e55ac54b6dcdd8",
     "original": "TYRION: Yeah...[p/] I need a moment to think through everything...",
-    "translation": "",
+    "translation": "TYRION: 是啊……[p/]我需要一点时间来通盘考虑一下……",
     "context": "{\n  \"id\": \"line:0806e64\",\n  \"node\": \"WallaceDeduce\",\n  \"text\": \"TYRION: Yeah...[p/] I need a moment to think through everything...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3bf98dac5f62af9c",
     "original": "Tyrion: The prosecution wants to implicate Wallace despite his alibi.",
-    "translation": "",
+    "translation": "Tyrion: 尽管有不在场证明，检方还是要把华莱士牵扯进来。",
     "context": "{\n  \"id\": \"line:03928b0\",\n  \"node\": \"WallaceDeduce\",\n  \"text\": \"Tyrion: The prosecution wants to implicate Wallace despite his alibi.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ccb8ed8ad2ee62f6",
     "original": "Tyrion: They wouldn’t have a reason to do this unless the evidence heavily implicated him.",
-    "translation": "",
+    "translation": "Tyrion: 除非有与他高度相关的证据，否则他们没有理由这么做。",
     "context": "{\n  \"id\": \"line:0dfd9e9\",\n  \"node\": \"WallaceDeduce\",\n  \"text\": \"Tyrion: They wouldn’t have a reason to do this unless the evidence heavily implicated him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b4e6c0d5045357e2",
     "original": "Tyrion: We’ve learned that Wallace is a necromancer.",
-    "translation": "",
+    "translation": "Tyrion: 我们已经知道华莱士是一个死灵法师。",
     "context": "{\n  \"id\": \"line:0758a54\",\n  \"node\": \"WallaceDeduce\",\n  \"text\": \"Tyrion: We’ve learned that Wallace is a necromancer.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a0ca5c25cd929098",
     "original": "Tyrion: And he’s the only person at the academy that’s capable of high-level [b]necromancy[/b].",
-    "translation": "",
+    "translation": "Tyrion: 而且他是学院里唯一一个可以使用高阶[b]死灵术[/b]的人。",
     "context": "{\n  \"id\": \"line:0298727\",\n  \"node\": \"WallaceDeduce\",\n  \"text\": \"Tyrion: And he’s the only person at the academy that’s capable of high-level [b]necromancy[/b].\"\n}"
   },
   {
@@ -16340,55 +16340,55 @@
   {
     "key": "C2 Dialogue.csv::translation::bcb06880f0104c85",
     "original": "No...[p/] Wallace was the only person who studied high-level [b]necromancy[/b] at the academy.",
-    "translation": "",
+    "translation": "不对……[p/]华莱士是学院里唯一学习高阶[b]死灵术[/b]的人。",
     "context": "{\n  \"id\": \"line:077f48c\",\n  \"node\": \"WallaceDeduce2\",\n  \"text\": \"No...[p/] Wallace was the only person who studied high-level [b]necromancy[/b] at the academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c0ee490cade50204",
     "original": "And there was a piece of evidence at the crime scene that painted him as a suspect.",
-    "translation": "",
+    "translation": "而案发现场有某个证据让他染上作案嫌疑。",
     "context": "{\n  \"id\": \"line:0937fd8\",\n  \"node\": \"WallaceDeduce2\",\n  \"text\": \"And there was a piece of evidence at the crime scene that painted him as a suspect.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::23c923c8e121426d",
     "original": "Tyrion: There's a trace of [b]necromancy[/b] on the body.",
-    "translation": "",
+    "translation": "Tyrion: 尸体上有一处[b]死灵术[/b]的痕迹。",
     "context": "{\n  \"id\": \"line:03ce9a2\",\n  \"node\": \"WallaceDeduce3\",\n  \"text\": \"Tyrion: There's a trace of [b]necromancy[/b] on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8f809b8854b122b5",
     "original": "Celeste: This means that they think Wallace used one of his [b]necromancy[/b] spells.",
-    "translation": "",
+    "translation": "Celeste: 这意味着他们认定是华莱士使用了某种[b]死灵术[b]。",
     "context": "{\n  \"id\": \"line:0eb2d12\",\n  \"node\": \"WallaceDeduce3\",\n  \"text\": \"Celeste: This means that they think Wallace used one of his [b]necromancy[/b] spells.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::43dd051a2727ecc4",
     "original": "Celeste: Even without seeing the traces,[p/] it’s pretty obvious that magic was used on the body.",
-    "translation": "",
+    "translation": "Celeste: 即使没有发现这些痕迹，[p/]尸体曾被施放魔法一事也是很明显的。",
     "context": "{\n  \"id\": \"line:0b1109b\",\n  \"node\": \"WallaceDeduce3\",\n  \"text\": \"Celeste: Even without seeing the traces,[p/] it’s pretty obvious that magic was used on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a8a5bc919947aac9",
     "original": "Tyrion: Right.[p/] There aren’t any wounds on it.",
-    "translation": "",
+    "translation": "Tyrion: 没错。[p/]上面没有任何伤口。",
     "context": "{\n  \"id\": \"line:000280b\",\n  \"node\": \"WallaceDeduce3\",\n  \"text\": \"Tyrion: Right.[p/] There aren’t any wounds on it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e2330e694b79195",
     "original": "Tyrion: And the Autopsy Report found no signs of poison or disease.",
-    "translation": "",
+    "translation": "Tyrion: 尸检报告也显示没有任何中毒或疾病的迹象。",
     "context": "{\n  \"id\": \"line:00a0090\",\n  \"node\": \"WallaceDeduce3\",\n  \"text\": \"Tyrion: And the Autopsy Report found no signs of poison or disease.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ceb3b53c1c53a903",
     "original": "Tyrion: If I know Prosecutor Steelwind,[p/] she probably already has a theory on which spell he might have used.",
-    "translation": "",
+    "translation": "Tyrion: 以我对斯蒂尔文德检察官的认识，[p/]她很可能已经推断出了他使用的法术。",
     "context": "{\n  \"id\": \"line:09afdf0\",\n  \"node\": \"WallaceDeduce3\",\n  \"text\": \"Tyrion: If I know Prosecutor Steelwind,[p/] she probably already has a theory on which spell he might have used.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3dbe1cd633052bff",
     "original": "Tyrion: The prosecution will probably argue that Wallace used one of his spells to kill Bellwether.",
-    "translation": "",
+    "translation": "Tyrion: 检方很可能会主张华莱士用他的某个法术杀死了贝尔维瑟。",
     "context": "{\n  \"id\": \"line:00bc3f6\",\n  \"node\": \"WallaceDeduce3\",\n  \"text\": \"Tyrion: The prosecution will probably argue that Wallace used one of his spells to kill Bellwether.\"\n}"
   },
   {
@@ -16400,169 +16400,169 @@
   {
     "key": "C2 Dialogue.csv::translation::dd4b8963a01b0f04",
     "original": "No...[p/] Despite his reasons,[p/] Wallace knew how to use some disturbing spells.",
-    "translation": "",
+    "translation": "不对……[p/]尽管理由正当，[p/]但华莱士确实知道如何施展某些不太安全的法术。",
     "context": "{\n  \"id\": \"line:052f29e\",\n  \"node\": \"WallaceDeduce4\",\n  \"text\": \"No...[p/] Despite his reasons,[p/] Wallace knew how to use some disturbing spells.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::23ec3a81ef729208",
     "original": "I needed to check my NOTES and read the description of each spell Wallace could use.",
-    "translation": "",
+    "translation": "我需要检查自己的<size=1.5em>笔记</size>，仔细查看华莱士能够使用的每一条法术。",
     "context": "{\n  \"id\": \"line:0f0e52c\",\n  \"node\": \"WallaceDeduce4\",\n  \"text\": \"I needed to check my NOTES and read the description of each spell Wallace could use.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9193838dbedf3c4f",
     "original": "The body had no visible wounds or bruises.",
-    "translation": "",
+    "translation": "尸体上没有可见的创口或瘀痕。",
     "context": "{\n  \"id\": \"line:04eb5f4\",\n  \"node\": \"WallaceDeduce4\",\n  \"text\": \"The body had no visible wounds or bruises.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0412a233c4ab13af",
     "original": "Which spell could harm Bellwether without wounding or bruising her?",
-    "translation": "",
+    "translation": "什么法术能够在不造成伤口或瘀伤的情况下伤害贝尔维瑟呢？",
     "context": "{\n  \"id\": \"line:03f9a65\",\n  \"node\": \"WallaceDeduce4\",\n  \"text\": \"Which spell could harm Bellwether without wounding or bruising her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f7ada9c56656d585",
     "original": "Tyrion: They will probably say that he used [b]Necrotic Blight[/b].",
-    "translation": "",
+    "translation": "Tyrion: 他们很可能说华莱士施放了[b]索命咒[/b]。",
     "context": "{\n  \"id\": \"line:0f05e32\",\n  \"node\": \"WallaceDeduce5\",\n  \"text\": \"Tyrion: They will probably say that he used [b]Necrotic Blight[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cc13737360f8ff65",
     "original": "CELESTE: That makes sense.",
-    "translation": "",
+    "translation": "CELESTE: 有道理。",
     "context": "{\n  \"id\": \"line:0374957\",\n  \"node\": \"WallaceDeduce5\",\n  \"text\": \"CELESTE: That makes sense.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3ea54048dbea024c",
     "original": "Celeste: [b]Necrotic Blight[/b] would have “drained the lifeforce from her body”...",
-    "translation": "",
+    "translation": "Celeste: [b]索命咒[/b]应该会“使她身体的生命力流失殆尽”……",
     "context": "{\n  \"id\": \"line:03ac755\",\n  \"node\": \"WallaceDeduce5\",\n  \"text\": \"Celeste: [b]Necrotic Blight[/b] would have “drained the lifeforce from her body”...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::880f43605b1a571c",
     "original": "TYRION: But that’s where the contradiction lies.",
-    "translation": "",
+    "translation": "TYRION: 但这就是矛盾所在。",
     "context": "{\n  \"id\": \"line:0c32dc0\",\n  \"node\": \"WallaceDeduce5\",\n  \"text\": \"TYRION: But that’s where the contradiction lies.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::30e6814014268125",
     "original": "TYRION: Let’s suppose that Wallace [i]did[/i] kill Bellwether using [b]Necrotic Blight[/b].",
-    "translation": "",
+    "translation": "TYRION: 我们先假设华莱士[i]确实[/i]用[b]索命咒[/b]杀死了贝尔维瑟。",
     "context": "{\n  \"id\": \"line:0f9a193\",\n  \"node\": \"WallaceDeduce5\",\n  \"text\": \"TYRION: Let’s suppose that Wallace [i]did[/i] kill Bellwether using [b]Necrotic Blight[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e249be5b9e4ff5a4",
     "original": "TYRION: There’s something at the crime scene that wouldn’t be there if that were true.",
-    "translation": "",
+    "translation": "TYRION: 这样的话，犯罪现场就出现了不该存在的东西。",
     "context": "{\n  \"id\": \"line:068c944\",\n  \"node\": \"WallaceDeduce5\",\n  \"text\": \"TYRION: There’s something at the crime scene that wouldn’t be there if that were true.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::559ef191def1307b",
     "original": "No...[p/] Steelwind would probably argue that Wallace used [b]Necrotic Blight[b/].",
-    "translation": "",
+    "translation": "不对……[p/]斯蒂尔文德很可能主张华莱士施放了[b]索命咒[/b]。",
     "context": "{\n  \"id\": \"line:0a38c9d\",\n  \"node\": \"WallaceDeduce6\",\n  \"text\": \"No...[p/] Steelwind would probably argue that Wallace used [b]Necrotic Blight[b/].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::343f5a662c934553",
     "original": "But if that really [i]did[/i] happen,[p/] there was something on the body that [i]shouldn't[/i] be there.",
-    "translation": "",
+    "translation": "但如果[i]真是[/i]这样，[p/]尸体上就出现了[i]不应该[/i]有的东西。",
     "context": "{\n  \"id\": \"line:05d3a04\",\n  \"node\": \"WallaceDeduce6\",\n  \"text\": \"But if that really [i]did[/i] happen,[p/] there was something on the body that [i]shouldn't[/i] be there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a528aa472d1a677",
     "original": "Tyrion: [b]Necrotic Blight[/b] is a spell that doesn’t inflict any visible wounds.",
-    "translation": "",
+    "translation": "Tyrion: [b]索命咒[/b]这个法术不会造成任何可见的创伤。",
     "context": "{\n  \"id\": \"line:097da0e\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"Tyrion: [b]Necrotic Blight[/b] is a spell that doesn’t inflict any visible wounds.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::62dd5ed85d6aa2bb",
     "original": "Tyrion: But if that's true,[p/] there shouldn’t have been any blood at the scene.",
-    "translation": "",
+    "translation": "Tyrion: 但若确实如此，[p/]现场就不应该有任何血迹。",
     "context": "{\n  \"id\": \"line:09d1ae5\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"Tyrion: But if that's true,[p/] there shouldn’t have been any blood at the scene.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f9f5860eca61e66f",
     "original": "CELESTE: ...But then what really happened?",
-    "translation": "",
+    "translation": "CELESTE: ……那究竟发生了什么事情？",
     "context": "{\n  \"id\": \"line:0513ae2\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"CELESTE: ...But then what really happened?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c5f36c95d63b5dda",
     "original": "TYRION: [i]That’s[/i] the last piece.",
-    "translation": "",
+    "translation": "TYRION: [i]这个[/i]就是最后一块拼图了。",
     "context": "{\n  \"id\": \"line:0534cdd\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"TYRION: [i]That’s[/i] the last piece.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1a1c50f881459da9",
     "original": "TYRION: And if I had to guess,[p/] the information we need is being hidden by one of the witnesses who discovered the body.",
-    "translation": "",
+    "translation": "TYRION: 如果我没猜错的话，[p/]正是尸体的发现人之一隐藏了我们所需的信息。",
     "context": "{\n  \"id\": \"line:0a9b410\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"TYRION: And if I had to guess,[p/] the information we need is being hidden by one of the witnesses who discovered the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bac6a4b354c675d3",
     "original": "CELESTE: Valentina...",
-    "translation": "",
+    "translation": "CELESTE: 是瓦伦蒂娜……",
     "context": "{\n  \"id\": \"line:013aa51\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"CELESTE: Valentina...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a75456553d8cf782",
     "original": "TYRION: She’s definitely hiding something.",
-    "translation": "",
+    "translation": "TYRION: 她肯定隐瞒了什么。",
     "context": "{\n  \"id\": \"line:04b1166\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"TYRION: She’s definitely hiding something.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::131405ec6a44307f",
     "original": "TYRION: Did you notice how she reacted when I asked you to scan the room?",
-    "translation": "",
+    "translation": "TYRION: 你还记得我让你探测那个房间时，她有什么反应吗？",
     "context": "{\n  \"id\": \"line:08f7778\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"TYRION: Did you notice how she reacted when I asked you to scan the room?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::26dbe98d15768830",
     "original": "CELESTE: Yeah,[p/] she ran away.[p/] She didn’t even try to be subtle about it.",
-    "translation": "",
+    "translation": "CELESTE: 是的，[p/]她逃走了。[p/]甚至都没想办法掩饰一下。",
     "context": "{\n  \"id\": \"line:005d470\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"CELESTE: Yeah,[p/] she ran away.[p/] She didn’t even try to be subtle about it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fa4ffe546fb56329",
     "original": "TYRION: With the way she reacted,[p/] I think she may have been trying to hide herself from your [b]Detect Magic[/b].",
-    "translation": "",
+    "translation": "TYRION: 按照她的反应……[p/]我认为她可能在试图躲避你的[b]法术探测[/b]。",
     "context": "{\n  \"id\": \"line:0bd14b4\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"TYRION: With the way she reacted,[p/] I think she may have been trying to hide herself from your [b]Detect Magic[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::052aa4d8470a5541",
     "original": "Tyrion: ...Which can only mean that there's a magical trace on her.",
-    "translation": "",
+    "translation": "Tyrion: ……这只能意味着她身上有法术痕迹。",
     "context": "{\n  \"id\": \"line:0c2579e\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"Tyrion: ...Which can only mean that there's a magical trace on her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::db193ad321e3555d",
     "original": "Celeste: I wonder what she's trying to hide.",
-    "translation": "",
+    "translation": "Celeste: 我想知道她到底要隐瞒什么。",
     "context": "{\n  \"id\": \"line:016ba04\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"Celeste: I wonder what she's trying to hide.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0e709b1591df83c1",
     "original": "Tyrion: There's only one way to find out.",
-    "translation": "",
+    "translation": "Tyrion: 只有试试看了。",
     "context": "{\n  \"id\": \"line:060a25c\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"Tyrion: There's only one way to find out.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::79b4a14933a200a4",
     "original": "Tyrion: The next time you see her,[p/] can you cast [b]Detect Magic[/b] from afar and scan her?",
-    "translation": "",
+    "translation": "Tyrion: 下一次看到她的时候，[p/]你能偷偷在远处施放[b]法术探测[/b]扫描她吗？",
     "context": "{\n  \"id\": \"line:023fbd2\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"Tyrion: The next time you see her,[p/] can you cast [b]Detect Magic[/b] from afar and scan her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4d138010ae3ff1f1",
     "original": "Celeste: It's been a while since we talked to her.[p/] Valerie also mentioned that they still had work to do today.",
-    "translation": "",
+    "translation": "Celeste: 我们上次跟她谈话已经有一会儿了。[p/]瓦莱丽也提到她们今天还有工作要处理。",
     "context": "{\n  \"id\": \"line:00f59ab\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"Celeste: It's been a while since we talked to her.[p/] Valerie also mentioned that they still had work to do today.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2389d3db6aabd176",
     "original": "Celeste: She might be back in the Academy's Kitchen now.",
-    "translation": "",
+    "translation": "Celeste: 她可能已经回学院厨房了。",
     "context": "{\n  \"id\": \"line:0496452\",\n  \"node\": \"WallaceDeduce7\",\n  \"text\": \"Celeste: She might be back in the Academy's Kitchen now.\"\n}"
   },
   {
@@ -16574,7 +16574,7 @@
   {
     "key": "C2 Dialogue.csv::translation::6dfd8037bf8edf8a",
     "original": "This was Lecture Hall 2-B,[p/] where Bellwether's body was found.",
-    "translation": "",
+    "translation": "这是2-B号讲堂，[p/]也就是贝尔维瑟的尸体被发现的地方。",
     "context": "{\n  \"id\": \"line:0879b66\",\n  \"node\": \"AcademyHall_Examine\",\n  \"text\": \"This was Lecture Hall 2-B,[p/] where Bellwether's body was found.\"\n}"
   },
   {
@@ -16586,7 +16586,7 @@
   {
     "key": "C2 Dialogue.csv::translation::c74a2f8b12de79a6",
     "original": "This was Lecture Hall 2-D.",
-    "translation": "",
+    "translation": "这是2-D号讲堂。",
     "context": "{\n  \"id\": \"line:036d52d\",\n  \"node\": \"AcademyHall_Examine\",\n  \"text\": \"This was Lecture Hall 2-D.\"\n}"
   },
   {
@@ -16598,7 +16598,7 @@
   {
     "key": "C2 Dialogue.csv::translation::e87dd656648dda31",
     "original": "This was Lecture Hall 2-F.",
-    "translation": "",
+    "translation": "这是2-F号讲堂。",
     "context": "{\n  \"id\": \"line:0f83e3b\",\n  \"node\": \"AcademyHall_Examine\",\n  \"text\": \"This was Lecture Hall 2-F.\"\n}"
   },
   {
@@ -16610,7 +16610,7 @@
   {
     "key": "C2 Dialogue.csv::translation::4845373dc52fd545",
     "original": "This was Lecture Hall 2-H.",
-    "translation": "",
+    "translation": "这是2-H号讲堂。",
     "context": "{\n  \"id\": \"line:048ca7e\",\n  \"node\": \"AcademyHall_Examine\",\n  \"text\": \"This was Lecture Hall 2-H.\"\n}"
   },
   {
@@ -16622,13 +16622,13 @@
   {
     "key": "C2 Dialogue.csv::translation::3cd54419128adca6",
     "original": "It appeared to be some kind of storage closet.",
-    "translation": "",
+    "translation": "看起来是某种储物柜。",
     "context": "{\n  \"id\": \"line:03ac2ff\",\n  \"node\": \"AcademyHall_Examine\",\n  \"text\": \"It appeared to be some kind of storage closet.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::83cfa17c66e764cd",
     "original": "There wasn't anything of note inside of it.",
-    "translation": "",
+    "translation": "里面没什么值得注意的东西。",
     "context": "{\n  \"id\": \"line:0665966\",\n  \"node\": \"AcademyHall_Examine\",\n  \"text\": \"There wasn't anything of note inside of it.\"\n}"
   },
   {
@@ -16640,151 +16640,151 @@
   {
     "key": "C2 Dialogue.csv::translation::d0dfea9aa8fbed59",
     "original": "TYRION: Valerie mentioned that you were close to Lecture Hall 2-B before they found Bellwether.",
-    "translation": "",
+    "translation": "TYRION: 瓦莱丽提到，她们找到贝尔维瑟之前，你就在 2-B 讲堂附近。",
     "context": "{\n  \"id\": \"line:0cba1f4\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: Valerie mentioned that you were close to Lecture Hall 2-B before they found Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8a64e61e755a7414",
     "original": "TYRION: What were you doing when the twins discovered the body?",
-    "translation": "",
+    "translation": "TYRION: 那对双胞胎发现尸体的时候你在干什么？",
     "context": "{\n  \"id\": \"line:0995d05\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: What were you doing when the twins discovered the body?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::85912472ce9387a1",
     "original": "TYRION: You might have been the last person to see her alive.",
-    "translation": "",
+    "translation": "TYRION: 你可能就是最后一个看到她还活着的人。",
     "context": "{\n  \"id\": \"line:0620fe5\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: You might have been the last person to see her alive.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::45e79a32061ddb38",
     "original": "TYRION: Did you see where she went after breaking the vase?",
-    "translation": "",
+    "translation": "TYRION: 你有看到她打碎花瓶后去哪里了吗？",
     "context": "{\n  \"id\": \"line:0306e6f\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: Did you see where she went after breaking the vase?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e3076f39e7a0f1fc",
     "original": "JAN: Yeah,[p/] I think she went into that room over there.",
-    "translation": "",
+    "translation": "JAN: 有啊，[p/]我记得她走进那边那个房间了吧。",
     "context": "{\n  \"id\": \"line:027a94d\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: Yeah,[p/] I think she went into that room over there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e2c471706532a452",
     "original": "Jan pointed towards Lecture Hall 2-B.",
-    "translation": "",
+    "translation": "简指向2-B号讲堂。",
     "context": "{\n  \"id\": \"line:0c37b25\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"Jan pointed towards Lecture Hall 2-B.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::683def1d820ac64a",
     "original": "TYRION: Did you see anyone else enter the lecture hall?",
-    "translation": "",
+    "translation": "TYRION: 你有看到其他人进入那间讲堂吗？",
     "context": "{\n  \"id\": \"line:0eb10bb\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: Did you see anyone else enter the lecture hall?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d1b0633f2a13b219",
     "original": "JAN: I’m honestly not sure.",
-    "translation": "",
+    "translation": "JAN: 我真的不怎么确定。",
     "context": "{\n  \"id\": \"line:091a140\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: I’m honestly not sure.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b250dfc2bbe52dc9",
     "original": "JAN: I was more worried about cleaning up the mess she made.",
-    "translation": "",
+    "translation": "JAN: 我当时急着清理她搞出来的那一地垃圾。",
     "context": "{\n  \"id\": \"line:07d42c7\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: I was more worried about cleaning up the mess she made.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8e9682b2d3d7bb19",
     "original": "TYRION: Well...[p/] Did you notice anything off about her?",
-    "translation": "",
+    "translation": "TYRION: 行吧……[p/]她看起来有什么不对劲吗？",
     "context": "{\n  \"id\": \"line:0d9a42d\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: Well...[p/] Did you notice anything off about her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::28aba01ed824bd24",
     "original": "JAN: She [i]was[/i] in a pretty bad mood.",
-    "translation": "",
+    "translation": "JAN: 她心情[i]真的[/i]很差。",
     "context": "{\n  \"id\": \"line:0d6a6fb\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: She [i]was[/i] in a pretty bad mood.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::41618c0243feec52",
     "original": "JAN: But honestly,[p/] that’s pretty normal for her.",
-    "translation": "",
+    "translation": "JAN: 但老实说，[p/]她这个样子才正常。",
     "context": "{\n  \"id\": \"line:016cb82\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: But honestly,[p/] that’s pretty normal for her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::288ce6f2a2e66911",
     "original": "JAN: She was walking really slowly.",
-    "translation": "",
+    "translation": "JAN: 她当时走得非常慢。",
     "context": "{\n  \"id\": \"line:099ecd1\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: She was walking really slowly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5e8ce25916b9f156",
     "original": "JAN: I didn’t notice her at first.[p/] She basically shoved me out of her way.",
-    "translation": "",
+    "translation": "JAN: 我一开始没注意到挡了她路，[p/]然后她基本上算是给我一把推开了。",
     "context": "{\n  \"id\": \"line:0ea47e8\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: I didn’t notice her at first.[p/] She basically shoved me out of her way.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4003e8dbf8a0148b",
     "original": "JAN: After that,[p/] she knocked over that vase.",
-    "translation": "",
+    "translation": "JAN: 紧接着，[p/]她就撞翻了花瓶。",
     "context": "{\n  \"id\": \"line:01f64f1\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: After that,[p/] she knocked over that vase.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1fa6dcc72f9b4a23",
     "original": "JAN: Then she yelled at me to \"Be quiet\".[p/] I didn't even say anything.",
-    "translation": "",
+    "translation": "JAN: 然后她向我吼道“安静”。[p/]可我明明一个字都没说。",
     "context": "{\n  \"id\": \"line:03e4a8b\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: Then she yelled at me to \\\"Be quiet\\\".[p/] I didn't even say anything.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6b4b76c8202084cd",
     "original": "TYRION: What can you tell me about Catherine Bellwether?",
-    "translation": "",
+    "translation": "TYRION: 能聊聊凯瑟琳·贝尔维瑟吗？",
     "context": "{\n  \"id\": \"line:077cd1c\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: What can you tell me about Catherine Bellwether?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::12079c3e83e666cf",
     "original": "TYRION: I've heard that she had a pretty bad relationship with the staff.",
-    "translation": "",
+    "translation": "TYRION: 我听说她和教职工们关系很差。",
     "context": "{\n  \"id\": \"line:02664d7\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: I've heard that she had a pretty bad relationship with the staff.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c1f4b1253c87be47",
     "original": "JAN: She had a “bad relationship” with everyone.",
-    "translation": "",
+    "translation": "JAN: 她与任何人都“关系很差”。",
     "context": "{\n  \"id\": \"line:02e271c\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: She had a “bad relationship” with everyone.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::518d44c6e64e1852",
     "original": "JAN: Students,[p/] the other teachers,[p/] I can’t think of many people who actually [i]did[/i] get along with her.",
-    "translation": "",
+    "translation": "JAN: 学生啊，[p/]其他老师啊，[p/]我还真想不到[i]有[/i]谁和她处得好。",
     "context": "{\n  \"id\": \"line:0a4dcaa\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: Students,[p/] the other teachers,[p/] I can’t think of many people who actually [i]did[/i] get along with her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5dad1677fd112d36",
     "original": "TYRION: I’m sure you had your own share of bad experiences with her.",
-    "translation": "",
+    "translation": "TYRION: 我相信你和她之间肯定也有不太愉快的经历。",
     "context": "{\n  \"id\": \"line:01066e3\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: I’m sure you had your own share of bad experiences with her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5f40fc004d8ee0b",
     "original": "JAN: Yeah...[p/] She’d always yell at me whenever I dozed off.",
-    "translation": "",
+    "translation": "JAN: 是啊……[p/]我每次打盹的时候她都会冲我大吼大叫。",
     "context": "{\n  \"id\": \"line:00a825f\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: Yeah...[p/] She’d always yell at me whenever I dozed off.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::26b0a35d282572ff",
     "original": "JAN: I hate to say it,[p/] but things are a [i]lot[/i] more peaceful around here without her.",
-    "translation": "",
+    "translation": "JAN: 我不想这么说出来，[p/]但是……[p/]她不在之后好像四周都和平了[i]很多[/i]。",
     "context": "{\n  \"id\": \"line:001237e\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: I hate to say it,[p/] but things are a [i]lot[/i] more peaceful around here without her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e47094821a9e66ad",
     "original": "That was blunt,[p/] to say the least...",
-    "translation": "",
+    "translation": "这话真直，[p/]但并不夸张。",
     "context": "{\n  \"id\": \"line:0d8e752\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"That was blunt,[p/] to say the least...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2328922f48abb90c",
     "original": "But from what I'd heard from everyone else,[p/] I couldn't exactly blame him for thinking that.",
-    "translation": "",
+    "translation": "以我从其他人那里了解到的情况，[p/]我不能为他的想法责怪他。",
     "context": "{\n  \"id\": \"line:0e4b7ff\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"But from what I'd heard from everyone else,[p/] I couldn't exactly blame him for thinking that.\"\n}"
   },
   {
@@ -16796,73 +16796,73 @@
   {
     "key": "C2 Dialogue.csv::translation::1167e294300b4b5b",
     "original": "TYRION: Valentina...[p/] [i]mentioned[/i] something interesting.",
-    "translation": "",
+    "translation": "TYRION: 瓦伦蒂娜……[p/][i]提到了[/i]有意思的消息。",
     "context": "{\n  \"id\": \"line:0ed73d5\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: Valentina...[p/] [i]mentioned[/i] something interesting.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::92cca0a5c1342881",
     "original": "TYRION: She seems to think Bellwether was putting her job at risk.",
-    "translation": "",
+    "translation": "TYRION: 她认为贝尔维瑟会让她丢掉工作。",
     "context": "{\n  \"id\": \"line:0db2ed8\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: She seems to think Bellwether was putting her job at risk.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::902f3ba259cf77bc",
     "original": "JAN: Oh, yeah...[p/] Bellwether was putting [i]all[/i] of our jobs at risk.",
-    "translation": "",
+    "translation": "JAN: 啊，是啊……[p/]贝尔维瑟是想要砸掉我们[i]所有人[/i]的饭碗。",
     "context": "{\n  \"id\": \"line:0f6b5aa\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: Oh, yeah...[p/] Bellwether was putting [i]all[/i] of our jobs at risk.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea3491caf0b1817f",
     "original": "TYRION: What made you think that?",
-    "translation": "",
+    "translation": "TYRION: 你为何这么想？",
     "context": "{\n  \"id\": \"line:07d5cfe\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: What made you think that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4bff0e2fd592b023",
     "original": "JAN: You know those Arcane Constructs in the library?",
-    "translation": "",
+    "translation": "JAN: 你知道图书馆里的那些奥术构造体吧？",
     "context": "{\n  \"id\": \"line:0d2af4e\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: You know those Arcane Constructs in the library?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b4e1d83f18078cb0",
     "original": "JAN: Bellwether was the one who put them there.",
-    "translation": "",
+    "translation": "JAN: 是贝尔维瑟将它们安放在那里的。",
     "context": "{\n  \"id\": \"line:00ac545\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: Bellwether was the one who put them there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3d0b9abaa1ff83d7",
     "original": "CELESTE: Oh, yeah![p/][s/] They’re so cool!",
-    "translation": "",
+    "translation": "CELESTE: 哦，这样啊！[p/][s/]它们看着还挺酷的！",
     "context": "{\n  \"id\": \"line:0c633c9\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"CELESTE: Oh, yeah![p/][s/] They’re so cool!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f12c452d0ac2a8d8",
     "original": "JAN: Well,[p/] a few weeks ago,[p/] I peeked in on a meeting she was having with Theodore.",
-    "translation": "",
+    "translation": "JAN: 不过，[p/]就在几周前，[p/]我无意间听到他和西奥多校长的一次会谈。",
     "context": "{\n  \"id\": \"line:05693fe\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: Well,[p/] a few weeks ago,[p/] I peeked in on a meeting she was having with Theodore.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2518d653587cfe1b",
     "original": "JAN: Apparently,[p/] the school board was planning to replace the staff with them.",
-    "translation": "",
+    "translation": "JAN: 很明显，[p/]学院董事会打算用它们代替校工们。",
     "context": "{\n  \"id\": \"line:001b340\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: Apparently,[p/] the school board was planning to replace the staff with them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0895d8bcd438a152",
     "original": "CELESTE: O-[p/]Oh...",
-    "translation": "",
+    "translation": "CELESTE: 啊、[p/]噢……",
     "context": "{\n  \"id\": \"line:0f5b43f\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"CELESTE: O-[p/]Oh...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d17807df873af61e",
     "original": "TYRION: Well, I’m sure the headmaster rejected her proposal.",
-    "translation": "",
+    "translation": "TYRION: 哎，我相信校长拒绝了她的提案。",
     "context": "{\n  \"id\": \"line:0572cf7\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: Well, I’m sure the headmaster rejected her proposal.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::996a52618db354cc",
     "original": "JAN: I don’t know...[p/] From the way she was talking,[p/] it sounded like he didn’t have any say in the matter.",
-    "translation": "",
+    "translation": "JAN: 我不知道……[p/]从她说话的样子来看，[p/]校长在这件事上似乎没有发言权。",
     "context": "{\n  \"id\": \"line:0041633\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: I don’t know...[p/] From the way she was talking,[p/] it sounded like he didn’t have any say in the matter.\"\n}"
   },
   {
