@@ -19679,92 +19679,92 @@
   {
     "key": "C2 Dialogue.csv::translation::30229b0711656edc",
     "original": "TYRION: But only the headmaster should have the authority to fire the staff.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但应该只有校长有权解雇校工啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0735a07\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: But only the headmaster should have the authority to fire the staff.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::589fddf6bf490f2a",
     "original": "TYRION: Why would she be that confident?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她为什么那么自信？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07ea236\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"TYRION: Why would she be that confident?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::69d89ab1eb8d4a1f",
     "original": "JAN: Dunno.[p/] All I know is that she hated having commoners on campus.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 不晓得啊。[p/]我只知道她很讨厌学院里的平民们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0669cfa\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"JAN: Dunno.[p/] All I know is that she hated having commoners on campus.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8879757d78bba352",
     "original": "Jan: She was really miffed when Theodore started hiring commonfolk from the community center.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 她对校长从居民中心雇佣平民真的很恼火。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c39137\",\n  \"node\": \"AcademyHall_Talk\",\n  \"text\": \"Jan: She was really miffed when Theodore started hiring commonfolk from the community center.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b74c77cfa101da86",
     "original": "TYRION: So, Jan.[p/] Are you a part of the staff here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 简，[p/]你是这里的教职工？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d1e996\",\n  \"node\": \"HallJanJan\",\n  \"text\": \"TYRION: So, Jan.[p/] Are you a part of the staff here?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8a3ac28826099ba3",
     "original": "JAN: Yep...[p/] I’m a janitor...",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 对的……[p/]我算个清洁工……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:023f77c\",\n  \"node\": \"HallJanJan\",\n  \"text\": \"JAN: Yep...[p/] I’m a janitor...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a1cb17432358a3d",
     "original": "JAN: I clean...[p/] and I do odd jobs here and there...",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 就打扫卫生……[p/]然后做一些杂活……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cc6c95\",\n  \"node\": \"HallJanJan\",\n  \"text\": \"JAN: I clean...[p/] and I do odd jobs here and there...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::663b81187fdf6179",
     "original": "Well...[p/] Apparently, that’s all he had to say about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "好吧……[p/]显然对此他也只有这么多要说了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b5f76\",\n  \"node\": \"HallJanJan\",\n  \"text\": \"Well...[p/] Apparently, that’s all he had to say about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::840808ffc60e9910",
     "original": "Jan: What's that thing?[p/] Is it a rock?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 那是啥？[p/]一块石头？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0678e36\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: What's that thing?[p/] Is it a rock?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9160dbb37e1965f4",
     "original": "Jan: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a85ec9\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32ed6b0a994f0e60",
     "original": "Tyrion: ...Jan?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……简？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03d2eb2\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: ...Jan?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::563eee1a5b05e6a2",
     "original": "Jan: Oh![p/][s/] Sorry.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 噢！[p/][s/]对不起啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:060ec66\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Oh![p/][s/] Sorry.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9a98d7783e810f82",
     "original": "Jan: I dozed off there for a second.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我打了几秒钟的盹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:057871c\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: I dozed off there for a second.\"\n}"
   },
   {
@@ -19777,106 +19777,106 @@
   {
     "key": "C2 Dialogue.csv::translation::ddf74c177c8a0dd4",
     "original": "Tyrion: Are you aware of the foul smell in Lecture Hall 2-B?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你有注意到 2-B 讲堂里的恶臭味吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fd9ce6\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: Are you aware of the foul smell in Lecture Hall 2-B?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::18cebb991370e184",
     "original": "Jan: Yeah...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 有啊……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b67267\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Yeah...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d1c73159733843c4",
     "original": "Jan: Luckily,[p/] Aria isn't letting anyone into the lecture hall until the investigation's over.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 幸运的是，[p/]阿莉亚在调查结束前不让任何人进入那间讲堂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0868d1d\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Luckily,[p/] Aria isn't letting anyone into the lecture hall until the investigation's over.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d1fa7a42134d2708",
     "original": "Jan: ...But,[p/] I'll probably have to get to it eventually.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: ……但是，[p/]我大概最后还是要进去处理这个。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05c472f\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: ...But,[p/] I'll probably have to get to it eventually.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8c1d251e6ff9c222",
     "original": "Jan: [i]*sigh*[/i][p/] Alchemical messes are always such a pain to clean up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: [i]*叹气* [/i][p/]炼金的垃圾清理起来总是很痛苦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:003f7ac\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: [i]*sigh*[/i][p/] Alchemical messes are always such a pain to clean up.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bc2f9115ee4c7c86",
     "original": "Jan: I wonder if Aria can help me out like she used to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我在想阿莉亚能不能和以前一样帮帮我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00c063c\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: I wonder if Aria can help me out like she used to.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cd19c5b2397524ce",
     "original": "Tyrion: Wait...[p/] Do you know Prosecutor Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 哎……？[p/]你认识斯蒂尔文德检察官？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d3b907\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: Wait...[p/] Do you know Prosecutor Steelwind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cd8e75f5ee136740",
     "original": "Jan: She went here a few years ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 她几年前还在这里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093b3e9\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: She went here a few years ago.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::48401484bc8d312c",
     "original": "Jan: She'd always help me out using her magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 她经常用魔法帮我的忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01db1b1\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: She'd always help me out using her magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f4eeb63943f4159",
     "original": "Jan: I miss that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我还挺想念的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:048964c\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: I miss that...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::150f5c230f30baad",
     "original": "Jan: Man...[p/] I still can't believe someone killed Bellwether.[p/] It's unreal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 老兄……[p/]我还是不敢相信有人杀了贝尔维瑟。[p/]太不真实了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:073b6e9\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Man...[p/] I still can't believe someone killed Bellwether.[p/] It's unreal.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fba01044f6ac9666",
     "original": "Tyrion: I'm sure you have mixed feelings about what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我相信你对发生的事情感到五味杂陈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b30ad0\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: I'm sure you have mixed feelings about what happened.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::88041f20ac09c03a",
     "original": "Jan: Yeah...[p/] I feel like I [i]should[/i] be happy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 是……[p/]我感觉我好像[i]应该[/i]高兴。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0af84e6\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Yeah...[p/] I feel like I [i]should[/i] be happy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe4ed18ddea793c5",
     "original": "Jan: But honestly,[p/] I don't know [i]what[/i] to feel.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 但老实说，[p/]我不知道该有[i]什么[/i]感受。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03e3faf\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: But honestly,[p/] I don't know [i]what[/i] to feel.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::75caca5e10e674d1",
     "original": "Jan: It's easier not to think about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 不去想这些更轻松啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04cd5ac\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: It's easier not to think about it.\"\n}"
   },
   {
@@ -19889,57 +19889,57 @@
   {
     "key": "C2 Dialogue.csv::translation::e8fce1d824ec827f",
     "original": "Tyrion: Are you friends with the Ianus sisters?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你和伊努斯姐妹是朋友吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f39e8\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: Are you friends with the Ianus sisters?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34aff601dc4e7f4a",
     "original": "Jan: Yeah,[p/] us commoners got to stick together, after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 是啊，[p/]毕竟我们这些平民也只能抱团取暖。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b4efd5\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Yeah,[p/] us commoners got to stick together, after all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::806979b39bdb5cf8",
     "original": "Jan: I don't know if you got a chance to try it,[p/] but their food is amazing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 不知道你有没有机会去体验一下，[p/]她们做的饭菜挺棒的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0184b69\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: I don't know if you got a chance to try it,[p/] but their food is amazing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::844d449bd6126e6b",
     "original": "Jan: Valerie always saves food for me.[p/] So I pay that back by washing their dishes when I have time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 瓦莱丽经常给我留点吃的。[p/]我就在有空的时候帮她们洗碗来报答。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03f5905\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Valerie always saves food for me.[p/] So I pay that back by washing their dishes when I have time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::113308065596916f",
     "original": "Tyrion: I guess there's always give and take in a place like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我想在这样的地方也必须要互帮互助。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f4782b\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: I guess there's always give and take in a place like this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a69f76cebd2985e3",
     "original": "Jan: Yeah,[p/] we even shared notes to figure out Bellwether's schedule.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 是啊，[p/]我们甚至分享笔记，来理清贝尔维瑟的行程。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0379389\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Yeah,[p/] we even shared notes to figure out Bellwether's schedule.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::41e11af1351e4058",
     "original": "Jan: That made it a lot easier to avoid her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 这让躲避她轻松多了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06b5633\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: That made it a lot easier to avoid her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::929cb3b1b868d685",
     "original": "Bellwether was kind of a menace here, wasn't she?",
-    "translation": "",
-    "stage": 0,
+    "translation": "贝尔维瑟在这里都算是个威胁了吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05bcd14\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Bellwether was kind of a menace here, wasn't she?\"\n}"
   },
   {
@@ -19952,43 +19952,43 @@
   {
     "key": "C2 Dialogue.csv::translation::5f4456a0cbcf14e0",
     "original": "Tyrion: How is working under Headmaster Redmond?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 在雷德蒙校长手底下做事感觉怎么样？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01fb5d4\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: How is working under Headmaster Redmond?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b29a909db29a36cf",
     "original": "Jan: It's great.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 挺好的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:008034f\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: It's great.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::357f850440bcdb6d",
     "original": "Jan: I owe a lot to him for getting me this job.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我得到这份工作，可以说亏欠他很多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ae3535\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: I owe a lot to him for getting me this job.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e8c9a723a892bfae",
     "original": "Jan: But I suppose these things never last.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 但看来这一切不会一直持续下去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c4848d\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: But I suppose these things never last.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::237285dfd9e3be00",
     "original": "He must be talking about Bellwether's plan to fire the staff.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他一定是指贝尔维瑟计划解雇教职工的事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:094c7d8\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"He must be talking about Bellwether's plan to fire the staff.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::35ac0a1c6512a0cc",
     "original": "What could he mean by that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "他这话是什么意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ffa5da\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"What could he mean by that?\"\n}"
   },
   {
@@ -20001,29 +20001,29 @@
   {
     "key": "C2 Dialogue.csv::translation::c67107f6cda41048",
     "original": "Tyrion: I just want to go over your statement again, Jan.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 简，我想再听一遍你的说词。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:022232c\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: I just want to go over your statement again, Jan.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7d76c76748a5ae2b",
     "original": "Tyrion: Are you sure you didn't leave out any details?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你确定没有遗漏什么细节吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:081054f\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: Are you sure you didn't leave out any details?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::62062ff135551159",
     "original": "Jan: I'm pretty sure,[p/] but I wasn't paying that much attention.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我很确定，[p/]但当时我也没太注意她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b02a93\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: I'm pretty sure,[p/] but I wasn't paying that much attention.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::933075a9446c2601",
     "original": "Jan: I definitely didn't think the workday would end with a murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 怎么也想不到那个工作日会以凶杀案结束。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03d0419\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: I definitely didn't think the workday would end with a murder.\"\n}"
   },
   {
@@ -20036,148 +20036,148 @@
   {
     "key": "C2 Dialogue.csv::translation::1658930351336b55",
     "original": "Jan: Ugh...[p/] I just really hope we don't lose our jobs to those Constructs.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 呃啊……[p/]我真不希望被那些构造体抢了工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cdf1e9\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Ugh...[p/] I just really hope we don't lose our jobs to those Constructs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::27f39d7c931a5891",
     "original": "Tyrion: Well, if there's any silver lining to Bellwether's death,[p/] it's that she can't carry out her plan.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 好吧，如果说贝尔维瑟的死有什么积极之处的话，[p/]那就是她再也不能执行这个计划了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:017f13f\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: Well, if there's any silver lining to Bellwether's death,[p/] it's that she can't carry out her plan.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3c54df2a7f07fc6e",
     "original": "Jan: Damn...[p/] That's kind of heartless, man.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 该死……[p/]这有点太无情了，兄弟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f8b38e\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Damn...[p/] That's kind of heartless, man.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::07c823f9fe3aa315",
     "original": "Tyrion: ...While I [i]do[/i] want to catch the real murderer,[p/] I don't have much pity for people who abuse positions of power.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我[i]确实[/i]想抓住真凶，[p/]但我也不怎么同情滥用职权的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09f375c\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: ...While I [i]do[/i] want to catch the real murderer,[p/] I don't have much pity for people who abuse positions of power.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2159bee7c9a73253",
     "original": "Jan: Well...[p/] I can't blame you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 好吧……[p/]我也不能责怪你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0db49f8\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Well...[p/] I can't blame you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::183f10108cb536d3",
     "original": "Jan: I'm sure many people feel the same way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 应该还有很多人这么想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b0503\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: I'm sure many people feel the same way.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ab9bfda654e55dd5",
     "original": "Right...[p/] Valentina mentioned something similar.",
-    "translation": "",
-    "stage": 0,
+    "translation": "没错……[p/]瓦伦蒂娜也提到相同的观点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a249ef\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Right...[p/] Valentina mentioned something similar.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::58a49b503cab9bee",
     "original": "I wonder what he meant by that...",
-    "translation": "",
-    "stage": 0,
+    "translation": "我想他大概是这个意思……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0add900\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"I wonder what he meant by that...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8e32619c23c1cb19",
     "original": "Tyrion: Have you met Prosecutor Steelwind?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你见过斯蒂尔文德检察官吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03b8a8a\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: Have you met Prosecutor Steelwind?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1c4da19822863e1e",
     "original": "Jan: Not recently,[p/] but she used to go to school here a few years ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 最近没有。[p/]但她几年前还在这所学院学习。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07ff0ca\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Not recently,[p/] but she used to go to school here a few years ago.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::11bf03586a36ab1b",
     "original": "Celeste: What was she like back then?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 她那时候是什么样子？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b891c\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Celeste: What was she like back then?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8365c48d5bf28f29",
     "original": "Jan: Oh, she was great.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 噢，她人挺好的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a1d2a3\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Oh, she was great.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dd5a0d7ee12a5eaa",
     "original": "Jan: She'd always reprimand Bellwether when she'd pick on the students and staff.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 贝尔维瑟对学生和教职工们吹毛求疵的时候，阿莉亚总是会站出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:031b27e\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: She'd always reprimand Bellwether when she'd pick on the students and staff.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6c71cbdcfa066bd8",
     "original": "Jan: She's a Steelwind,[p/] so she was probably the only person in this school that could stand up to her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 她是斯蒂尔文德家的人，[p/]所以她大概是学校里唯一一个可以正面顶撞她的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a29746\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: She's a Steelwind,[p/] so she was probably the only person in this school that could stand up to her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::650673ec5b36b78e",
     "original": "Jan: The students elected her as the student-body president,[p/] and she took that job pretty seriously.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 学生们选她担任学生会主席，[p/]她也很认真地对待这份工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02aa5e4\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: The students elected her as the student-body president,[p/] and she took that job pretty seriously.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::861ae83f017b593d",
     "original": "Jan: Things were a lot better when she was here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 她在这里的时候情况好多了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:011ddd5\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Things were a lot better when she was here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7b5b7e78a220bb25",
     "original": "Jan: I don't care what people say,[p/] she was so much better than Beatrice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 不管别人怎么说，[p/]相较于比亚特丽丝，她好多了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00924bb\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: I don't care what people say,[p/] she was so much better than Beatrice.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ab609474c5b79110",
     "original": "Tyrion: What can you tell me about this, Mr. Hughes?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 关于这个你有什么想法吗，休斯先生？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0007a1a\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Tyrion: What can you tell me about this, Mr. Hughes?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::78dc8d035ebfddd7",
     "original": "Jan: Ugh...[p/] I don't know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 呃……[p/]我不知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:098d695\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: Ugh...[p/] I don't know.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f3faa3a447224c53",
     "original": "Jan: That's not my department.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我不负责这个。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ec5068\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"Jan: That's not my department.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::990a7f21185b22b0",
     "original": "He wasn't being very helpful...",
-    "translation": "",
-    "stage": 0,
+    "translation": "他不是很帮得上忙……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cbb5b8\",\n  \"node\": \"AcademyHall_Present\",\n  \"text\": \"He wasn't being very helpful...\"\n}"
   },
   {

@@ -3047,90 +3047,90 @@ line:001b340,AcademyHall_Talk,"JAN: Apparently,[p/] the school board was plannin
 line:0f5b43f,AcademyHall_Talk,CELESTE: O-[p/]Oh...,CELESTE: 啊、[p/]噢……
 line:0572cf7,AcademyHall_Talk,"TYRION: Well, I’m sure the headmaster rejected her proposal.",TYRION: 哎，我相信校长拒绝了她的提案。
 line:0041633,AcademyHall_Talk,"JAN: I don’t know...[p/] From the way she was talking,[p/] it sounded like he didn’t have any say in the matter.",JAN: 我不知道……[p/]从她说话的样子来看，[p/]校长在这件事上似乎没有发言权。
-line:0735a07,AcademyHall_Talk,TYRION: But only the headmaster should have the authority to fire the staff.,
-line:07ea236,AcademyHall_Talk,TYRION: Why would she be that confident?,
-line:0669cfa,AcademyHall_Talk,JAN: Dunno.[p/] All I know is that she hated having commoners on campus.,
-line:0c39137,AcademyHall_Talk,Jan: She was really miffed when Theodore started hiring commonfolk from the community center.,
+line:0735a07,AcademyHall_Talk,TYRION: But only the headmaster should have the authority to fire the staff.,TYRION: 但应该只有校长有权解雇校工啊。
+line:07ea236,AcademyHall_Talk,TYRION: Why would she be that confident?,TYRION: 她为什么那么自信？
+line:0669cfa,AcademyHall_Talk,JAN: Dunno.[p/] All I know is that she hated having commoners on campus.,JAN: 不晓得啊。[p/]我只知道她很讨厌学院里的平民们。
+line:0c39137,AcademyHall_Talk,Jan: She was really miffed when Theodore started hiring commonfolk from the community center.,Jan: 她对校长从居民中心雇佣平民真的很恼火。
 line:06f2650,AcademyHall_Talk,Player: BACK,
-line:0d1e996,HallJanJan,"TYRION: So, Jan.[p/] Are you a part of the staff here?",
-line:023f77c,HallJanJan,JAN: Yep...[p/] I’m a janitor...,
-line:0cc6c95,HallJanJan,JAN: I clean...[p/] and I do odd jobs here and there...,
+line:0d1e996,HallJanJan,"TYRION: So, Jan.[p/] Are you a part of the staff here?",TYRION: 简，[p/]你是这里的教职工？
+line:023f77c,HallJanJan,JAN: Yep...[p/] I’m a janitor...,JAN: 对的……[p/]我算个清洁工……
+line:0cc6c95,HallJanJan,JAN: I clean...[p/] and I do odd jobs here and there...,JAN: 就打扫卫生……[p/]然后做一些杂活……
 line:032eb45,HallJanJan,JAN: ...,JAN: ……
 line:0f8fba9,HallJanJan,TYRION: ...,TYRION: ……
 line:0a39b4f,HallJanJan,JAN: ...,JAN: ……
-line:08b5f76,HallJanJan,"Well...[p/] Apparently, that’s all he had to say about that.",
+line:08b5f76,HallJanJan,"Well...[p/] Apparently, that’s all he had to say about that.",好吧……[p/]显然对此他也只有这么多要说了。
 line:0218fe9,AcademyHall_Present,Player: Runestone,
-line:0678e36,AcademyHall_Present,Jan: What's that thing?[p/] Is it a rock?,
+line:0678e36,AcademyHall_Present,Jan: What's that thing?[p/] Is it a rock?,Jan: 那是啥？[p/]一块石头？
 line:0eb0f71,AcademyHall_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,Tyrion: 这是个律师符石。[p/]它证明我持证律师的身份。
 line:0be307a,AcademyHall_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes!,Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和案发现场的照片！
-line:0a85ec9,AcademyHall_Present,Jan: ...,
-line:03d2eb2,AcademyHall_Present,Tyrion: ...Jan?,
-line:060ec66,AcademyHall_Present,Jan: Oh![p/][s/] Sorry.,
-line:057871c,AcademyHall_Present,Jan: I dozed off there for a second.,
+line:0a85ec9,AcademyHall_Present,Jan: ...,Jan: ……
+line:03d2eb2,AcademyHall_Present,Tyrion: ...Jan?,Tyrion: ……简？
+line:060ec66,AcademyHall_Present,Jan: Oh![p/][s/] Sorry.,Jan: 噢！[p/][s/]对不起啊。
+line:057871c,AcademyHall_Present,Jan: I dozed off there for a second.,Jan: 我打了几秒钟的盹。
 line:042f14e,AcademyHall_Present,Player: Jan,
 line:05136da,AcademyHall_Present,Player: Foul,
-line:0fd9ce6,AcademyHall_Present,Tyrion: Are you aware of the foul smell in Lecture Hall 2-B?,
-line:0b67267,AcademyHall_Present,Jan: Yeah...,
-line:0868d1d,AcademyHall_Present,"Jan: Luckily,[p/] Aria isn't letting anyone into the lecture hall until the investigation's over.",
-line:05c472f,AcademyHall_Present,"Jan: ...But,[p/] I'll probably have to get to it eventually.",
-line:003f7ac,AcademyHall_Present,Jan: [i]*sigh*[/i][p/] Alchemical messes are always such a pain to clean up.,
-line:00c063c,AcademyHall_Present,Jan: I wonder if Aria can help me out like she used to.,
-line:0d3b907,AcademyHall_Present,Tyrion: Wait...[p/] Do you know Prosecutor Steelwind?,
-line:093b3e9,AcademyHall_Present,Jan: She went here a few years ago.,
-line:01db1b1,AcademyHall_Present,Jan: She'd always help me out using her magic.,
-line:048964c,AcademyHall_Present,Jan: I miss that...,
+line:0fd9ce6,AcademyHall_Present,Tyrion: Are you aware of the foul smell in Lecture Hall 2-B?,Tyrion: 你有注意到 2-B 讲堂里的恶臭味吗？
+line:0b67267,AcademyHall_Present,Jan: Yeah...,Jan: 有啊……
+line:0868d1d,AcademyHall_Present,"Jan: Luckily,[p/] Aria isn't letting anyone into the lecture hall until the investigation's over.",Jan: 幸运的是，[p/]阿莉亚在调查结束前不让任何人进入那间讲堂。
+line:05c472f,AcademyHall_Present,"Jan: ...But,[p/] I'll probably have to get to it eventually.",Jan: ……但是，[p/]我大概最后还是要进去处理这个。
+line:003f7ac,AcademyHall_Present,Jan: [i]*sigh*[/i][p/] Alchemical messes are always such a pain to clean up.,Jan: [i]*叹气* [/i][p/]炼金的垃圾清理起来总是很痛苦。
+line:00c063c,AcademyHall_Present,Jan: I wonder if Aria can help me out like she used to.,Jan: 我在想阿莉亚能不能和以前一样帮帮我。
+line:0d3b907,AcademyHall_Present,Tyrion: Wait...[p/] Do you know Prosecutor Steelwind?,Tyrion: 哎……？[p/]你认识斯蒂尔文德检察官？
+line:093b3e9,AcademyHall_Present,Jan: She went here a few years ago.,Jan: 她几年前还在这里。
+line:01db1b1,AcademyHall_Present,Jan: She'd always help me out using her magic.,Jan: 她经常用魔法帮我的忙。
+line:048964c,AcademyHall_Present,Jan: I miss that...,Jan: 我还挺想念的……
 line:0e91586,AcademyHall_Present,Player: Catherine|Catherine Autopsy|BellRep,
-line:073b6e9,AcademyHall_Present,Jan: Man...[p/] I still can't believe someone killed Bellwether.[p/] It's unreal.,
-line:0b30ad0,AcademyHall_Present,Tyrion: I'm sure you have mixed feelings about what happened.,
-line:0af84e6,AcademyHall_Present,Jan: Yeah...[p/] I feel like I [i]should[/i] be happy.,
-line:03e3faf,AcademyHall_Present,"Jan: But honestly,[p/] I don't know [i]what[/i] to feel.",
-line:04cd5ac,AcademyHall_Present,Jan: It's easier not to think about it.,
+line:073b6e9,AcademyHall_Present,Jan: Man...[p/] I still can't believe someone killed Bellwether.[p/] It's unreal.,Jan: 老兄……[p/]我还是不敢相信有人杀了贝尔维瑟。[p/]太不真实了。
+line:0b30ad0,AcademyHall_Present,Tyrion: I'm sure you have mixed feelings about what happened.,Tyrion: 我相信你对发生的事情感到五味杂陈。
+line:0af84e6,AcademyHall_Present,Jan: Yeah...[p/] I feel like I [i]should[/i] be happy.,Jan: 是……[p/]我感觉我好像[i]应该[/i]高兴。
+line:03e3faf,AcademyHall_Present,"Jan: But honestly,[p/] I don't know [i]what[/i] to feel.",Jan: 但老实说，[p/]我不知道该有[i]什么[/i]感受。
+line:04cd5ac,AcademyHall_Present,Jan: It's easier not to think about it.,Jan: 不去想这些更轻松啊。
 line:09b5c0f,AcademyHall_Present,Player: Discover|Valentina|Valerie,
-line:02f39e8,AcademyHall_Present,Tyrion: Are you friends with the Ianus sisters?,
-line:0b4efd5,AcademyHall_Present,"Jan: Yeah,[p/] us commoners got to stick together, after all.",
-line:0184b69,AcademyHall_Present,"Jan: I don't know if you got a chance to try it,[p/] but their food is amazing.",
-line:03f5905,AcademyHall_Present,Jan: Valerie always saves food for me.[p/] So I pay that back by washing their dishes when I have time.,
-line:0f4782b,AcademyHall_Present,Tyrion: I guess there's always give and take in a place like this.,
-line:0379389,AcademyHall_Present,"Jan: Yeah,[p/] we even shared notes to figure out Bellwether's schedule.",
-line:06b5633,AcademyHall_Present,Jan: That made it a lot easier to avoid her.,
-line:05bcd14,AcademyHall_Present,"Bellwether was kind of a menace here, wasn't she?",
+line:02f39e8,AcademyHall_Present,Tyrion: Are you friends with the Ianus sisters?,Tyrion: 你和伊努斯姐妹是朋友吗？
+line:0b4efd5,AcademyHall_Present,"Jan: Yeah,[p/] us commoners got to stick together, after all.",Jan: 是啊，[p/]毕竟我们这些平民也只能抱团取暖。
+line:0184b69,AcademyHall_Present,"Jan: I don't know if you got a chance to try it,[p/] but their food is amazing.",Jan: 不知道你有没有机会去体验一下，[p/]她们做的饭菜挺棒的。
+line:03f5905,AcademyHall_Present,Jan: Valerie always saves food for me.[p/] So I pay that back by washing their dishes when I have time.,Jan: 瓦莱丽经常给我留点吃的。[p/]我就在有空的时候帮她们洗碗来报答。
+line:0f4782b,AcademyHall_Present,Tyrion: I guess there's always give and take in a place like this.,Tyrion: 我想在这样的地方也必须要互帮互助。
+line:0379389,AcademyHall_Present,"Jan: Yeah,[p/] we even shared notes to figure out Bellwether's schedule.",Jan: 是啊，[p/]我们甚至分享笔记，来理清贝尔维瑟的行程。
+line:06b5633,AcademyHall_Present,Jan: That made it a lot easier to avoid her.,Jan: 这让躲避她轻松多了。
+line:05bcd14,AcademyHall_Present,"Bellwether was kind of a menace here, wasn't she?",贝尔维瑟在这里都算是个威胁了吧？
 line:06b2117,AcademyHall_Present,Player: Theodore|Head Action,
-line:01fb5d4,AcademyHall_Present,Tyrion: How is working under Headmaster Redmond?,
-line:008034f,AcademyHall_Present,Jan: It's great.,
-line:0ae3535,AcademyHall_Present,Jan: I owe a lot to him for getting me this job.,
-line:0c4848d,AcademyHall_Present,Jan: But I suppose these things never last.,
-line:094c7d8,AcademyHall_Present,He must be talking about Bellwether's plan to fire the staff.,
-line:0ffa5da,AcademyHall_Present,What could he mean by that?,
+line:01fb5d4,AcademyHall_Present,Tyrion: How is working under Headmaster Redmond?,Tyrion: 在雷德蒙校长手底下做事感觉怎么样？
+line:008034f,AcademyHall_Present,Jan: It's great.,Jan: 挺好的。
+line:0ae3535,AcademyHall_Present,Jan: I owe a lot to him for getting me this job.,Jan: 我得到这份工作，可以说亏欠他很多。
+line:0c4848d,AcademyHall_Present,Jan: But I suppose these things never last.,Jan: 但看来这一切不会一直持续下去。
+line:094c7d8,AcademyHall_Present,He must be talking about Bellwether's plan to fire the staff.,他一定是指贝尔维瑟计划解雇教职工的事。
+line:0ffa5da,AcademyHall_Present,What could he mean by that?,他这话是什么意思？
 line:0c124e5,AcademyHall_Present,Player: JanTest|JanTest2,
-line:022232c,AcademyHall_Present,"Tyrion: I just want to go over your statement again, Jan.",
-line:081054f,AcademyHall_Present,Tyrion: Are you sure you didn't leave out any details?,
-line:0b02a93,AcademyHall_Present,"Jan: I'm pretty sure,[p/] but I wasn't paying that much attention.",
-line:03d0419,AcademyHall_Present,Jan: I definitely didn't think the workday would end with a murder.,
+line:022232c,AcademyHall_Present,"Tyrion: I just want to go over your statement again, Jan.",Tyrion: 简，我想再听一遍你的说词。
+line:081054f,AcademyHall_Present,Tyrion: Are you sure you didn't leave out any details?,Tyrion: 你确定没有遗漏什么细节吗？
+line:0b02a93,AcademyHall_Present,"Jan: I'm pretty sure,[p/] but I wasn't paying that much attention.",Jan: 我很确定，[p/]但当时我也没太注意她。
+line:03d0419,AcademyHall_Present,Jan: I definitely didn't think the workday would end with a murder.,Jan: 怎么也想不到那个工作日会以凶杀案结束。
 line:012df20,AcademyHall_Present,Player: BellPlan|BellPlan2|Construct,
-line:0cdf1e9,AcademyHall_Present,Jan: Ugh...[p/] I just really hope we don't lose our jobs to those Constructs.,
-line:017f13f,AcademyHall_Present,"Tyrion: Well, if there's any silver lining to Bellwether's death,[p/] it's that she can't carry out her plan.",
-line:0f8b38e,AcademyHall_Present,"Jan: Damn...[p/] That's kind of heartless, man.",
-line:09f375c,AcademyHall_Present,"Tyrion: ...While I [i]do[/i] want to catch the real murderer,[p/] I don't have much pity for people who abuse positions of power.",
-line:0db49f8,AcademyHall_Present,Jan: Well...[p/] I can't blame you.,
-line:05b0503,AcademyHall_Present,Jan: I'm sure many people feel the same way.,
-line:0a249ef,AcademyHall_Present,Right...[p/] Valentina mentioned something similar.,
-line:0add900,AcademyHall_Present,I wonder what he meant by that...,
+line:0cdf1e9,AcademyHall_Present,Jan: Ugh...[p/] I just really hope we don't lose our jobs to those Constructs.,Jan: 呃啊……[p/]我真不希望被那些构造体抢了工作。
+line:017f13f,AcademyHall_Present,"Tyrion: Well, if there's any silver lining to Bellwether's death,[p/] it's that she can't carry out her plan.",Tyrion: 好吧，如果说贝尔维瑟的死有什么积极之处的话，[p/]那就是她再也不能执行这个计划了。
+line:0f8b38e,AcademyHall_Present,"Jan: Damn...[p/] That's kind of heartless, man.",Jan: 该死……[p/]这有点太无情了，兄弟。
+line:09f375c,AcademyHall_Present,"Tyrion: ...While I [i]do[/i] want to catch the real murderer,[p/] I don't have much pity for people who abuse positions of power.",Tyrion: ……我[i]确实[/i]想抓住真凶，[p/]但我也不怎么同情滥用职权的人。
+line:0db49f8,AcademyHall_Present,Jan: Well...[p/] I can't blame you.,Jan: 好吧……[p/]我也不能责怪你。
+line:05b0503,AcademyHall_Present,Jan: I'm sure many people feel the same way.,Jan: 应该还有很多人这么想。
+line:0a249ef,AcademyHall_Present,Right...[p/] Valentina mentioned something similar.,没错……[p/]瓦伦蒂娜也提到相同的观点。
+line:0add900,AcademyHall_Present,I wonder what he meant by that...,我想他大概是这个意思……
 line:0b48366,AcademyHall_Present,Player: Aria,
-line:03b8a8a,AcademyHall_Present,Tyrion: Have you met Prosecutor Steelwind?,
-line:07ff0ca,AcademyHall_Present,"Jan: Not recently,[p/] but she used to go to school here a few years ago.",
-line:05b891c,AcademyHall_Present,Celeste: What was she like back then?,
-line:0a1d2a3,AcademyHall_Present,"Jan: Oh, she was great.",
-line:031b27e,AcademyHall_Present,Jan: She'd always reprimand Bellwether when she'd pick on the students and staff.,
-line:0a29746,AcademyHall_Present,"Jan: She's a Steelwind,[p/] so she was probably the only person in this school that could stand up to her.",
-line:02aa5e4,AcademyHall_Present,"Jan: The students elected her as the student-body president,[p/] and she took that job pretty seriously.",
-line:011ddd5,AcademyHall_Present,Jan: Things were a lot better when she was here.,
-line:00924bb,AcademyHall_Present,"Jan: I don't care what people say,[p/] she was so much better than Beatrice.",
+line:03b8a8a,AcademyHall_Present,Tyrion: Have you met Prosecutor Steelwind?,Tyrion: 你见过斯蒂尔文德检察官吗？
+line:07ff0ca,AcademyHall_Present,"Jan: Not recently,[p/] but she used to go to school here a few years ago.",Jan: 最近没有。[p/]但她几年前还在这所学院学习。
+line:05b891c,AcademyHall_Present,Celeste: What was she like back then?,Celeste: 她那时候是什么样子？
+line:0a1d2a3,AcademyHall_Present,"Jan: Oh, she was great.",Jan: 噢，她人挺好的。
+line:031b27e,AcademyHall_Present,Jan: She'd always reprimand Bellwether when she'd pick on the students and staff.,Jan: 贝尔维瑟对学生和教职工们吹毛求疵的时候，阿莉亚总是会站出来。
+line:0a29746,AcademyHall_Present,"Jan: She's a Steelwind,[p/] so she was probably the only person in this school that could stand up to her.",Jan: 她是斯蒂尔文德家的人，[p/]所以她大概是学校里唯一一个可以正面顶撞她的人。
+line:02aa5e4,AcademyHall_Present,"Jan: The students elected her as the student-body president,[p/] and she took that job pretty seriously.",Jan: 学生们选她担任学生会主席，[p/]她也很认真地对待这份工作。
+line:011ddd5,AcademyHall_Present,Jan: Things were a lot better when she was here.,Jan: 她在这里的时候情况好多了。
+line:00924bb,AcademyHall_Present,"Jan: I don't care what people say,[p/] she was so much better than Beatrice.",Jan: 不管别人怎么说，[p/]相较于比亚特丽丝，她好多了。
 line:07ededd,AcademyHall_Present,Player: Back,
 line:01b36e9,AcademyHall_Present,Player: Default,
-line:0007a1a,AcademyHall_Present,"Tyrion: What can you tell me about this, Mr. Hughes?",
-line:098d695,AcademyHall_Present,Jan: Ugh...[p/] I don't know.,
-line:0ec5068,AcademyHall_Present,Jan: That's not my department.,
-line:0cbb5b8,AcademyHall_Present,He wasn't being very helpful...,
+line:0007a1a,AcademyHall_Present,"Tyrion: What can you tell me about this, Mr. Hughes?",Tyrion: 关于这个你有什么想法吗，休斯先生？
+line:098d695,AcademyHall_Present,Jan: Ugh...[p/] I don't know.,Jan: 呃……[p/]我不知道。
+line:0ec5068,AcademyHall_Present,Jan: That's not my department.,Jan: 我不负责这个。
+line:0cbb5b8,AcademyHall_Present,He wasn't being very helpful...,他不是很帮得上忙……
 line:0e57eb4,AcademyHall_Check,I spotted Valentina again.[p/] She was speaking to someone in a blue-collar uniform.,
 line:0592d23,AcademyHall_Check,"I'd only met her briefly in the kitchen,[p/] but there was something[p/] different about her posture.",
 line:0b3ce73,AcademyHall_Check,And then there was the man in the uniform.[p/] Could he be the custodian that she mentioned?,
@@ -3187,7 +3187,7 @@ line:0e238e5,AcademyHall_Check,I couldn't help but chuckle to myself.,
 line:008251e,AcademyHall_Check,"Tyrion: Okay, okay.[p/] I guess we still need to talk to Wallace.",
 line:043a333,AcademyHall_Check,Tyrion: Let's head to the dungeons.,
 line:092d29c,AcademyHall_Check,Celeste: See?[p/] There we go.,
-line:0367b39,AcademyHall_Check,Jan: ...,
+line:0367b39,AcademyHall_Check,Jan: ...,Jan: ……
 line:050b919,Headmaster_Examine,Player: Painting 1,
 line:08c6118,Headmaster_Examine,Tyrion: It's a painting of someone.[p/] He looks like some sort of professor.,
 line:01c1303,Headmaster_Examine,Theodore: That's Professor Lukas Gilbert.[p/] He was an instructor here many decades ago.,
