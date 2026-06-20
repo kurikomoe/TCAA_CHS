@@ -20183,211 +20183,211 @@
   {
     "key": "C2 Dialogue.csv::translation::1ca08d990a6e4f53",
     "original": "I spotted Valentina again.[p/] She was speaking to someone in a blue-collar uniform.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我又找到了瓦伦蒂娜。[p/]她正在与一个蓝领校工说话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e57eb4\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"I spotted Valentina again.[p/] She was speaking to someone in a blue-collar uniform.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6ce36981bc870153",
     "original": "I'd only met her briefly in the kitchen,[p/] but there was something[p/] different about her posture.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我只和她在厨房有草草见过一面，[p/]但她现在的仪态[p/]与当时稍有改变。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0592d23\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"I'd only met her briefly in the kitchen,[p/] but there was something[p/] different about her posture.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::698c8a3dec3383a2",
     "original": "And then there was the man in the uniform.[p/] Could he be the custodian that she mentioned?",
-    "translation": "",
-    "stage": 0,
+    "translation": "而她面前有个穿着制服的男性。[p/]那就是她提到的“管理人员”吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b3ce73\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"And then there was the man in the uniform.[p/] Could he be the custodian that she mentioned?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::91bbe0ed4c58c6c5",
     "original": "As I approached,[p/] I noticed he was slouched over.[p/] He barely looked awake.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我靠近的时候，[p/]注意到他的身体无精打采地耷拉着。[p/]看起来几乎睡着了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e96fab\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"As I approached,[p/] I noticed he was slouched over.[p/] He barely looked awake.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::23d58ae89fefb414",
     "original": "Even while speaking to Valentina,[p/] he was sweeping the floor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但他甚至又一边和瓦伦蒂娜说话，[p/]一遍拖着地板。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b29204\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Even while speaking to Valentina,[p/] he was sweeping the floor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::11c97251d16df0ee",
     "original": "However,[p/] his movements looked robotic.[p/] He was just going through the motions without any awareness.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不过，[p/]他的动作看着很机械。[p/]只是在无意识地重复动作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:090e7a3\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"However,[p/] his movements looked robotic.[p/] He was just going through the motions without any awareness.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8b19d68919ba35cd",
     "original": "Valerie: Jan,[p/] I know you're tired.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 简，[p/]我知道你很疲累了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02e7f96\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Valerie: Jan,[p/] I know you're tired.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4af510b0c743e2d4",
     "original": "Valerie: But we really need you to fix the plumbing in the kitchen sinks.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 但我们真的很需要你来把厨房水槽修好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08e151c\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Valerie: But we really need you to fix the plumbing in the kitchen sinks.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f6dc1be74cea33d8",
     "original": "Jan: Ugh...[p/] Someone just died.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 哈啊……[p/]有人刚死掉了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00fd192\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Jan: Ugh...[p/] Someone just died.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::640fe28a104a73a9",
     "original": "Jan: Can’t we take the day off for [i]once[/i]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我们就不能放[i]哪怕一天[/i]假吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0887cee\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Jan: Can’t we take the day off for [i]once[/i]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fd9740f2b14e2af4",
     "original": "Valerie: I'm sorry,[p/] but Valentina and I still need to cook for the students.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 真抱歉，[p/]但瓦伦蒂娜和我仍然需要给学生们做饭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06147fe\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Valerie: I'm sorry,[p/] but Valentina and I still need to cook for the students.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5947b837f2aaa7dc",
     "original": "Wait...[p/] Why was Valentina suddenly speaking in the third person?",
-    "translation": "",
-    "stage": 0,
+    "translation": "等等……[p/]为什么瓦伦蒂娜突然用第三人称说话？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09cfe96\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Wait...[p/] Why was Valentina suddenly speaking in the third person?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::549b9931ee2520eb",
     "original": "Valerie: Oh?[p/] Hello.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 噢？[p/]你好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01f97db\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Valerie: Oh?[p/] Hello.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::532bdceae93e838c",
     "original": "CELESTE: ...Valentina?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ……瓦伦蒂娜？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a021a8\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"CELESTE: ...Valentina?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::538eed5b837bf42d",
     "original": "Valerie: Oh, my apologies.[p/] I’m not Valentina.[p/] I’m her sister: Valerie.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 啊，对不起。[p/]我不是瓦伦蒂娜。[p/]我是她妹妹瓦莱丽。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0192e33\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Valerie: Oh, my apologies.[p/] I’m not Valentina.[p/] I’m her sister: Valerie.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c1dd337b41d1062a",
     "original": "CELESTE: Are you trying to trick us or something?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你是想捉弄我们还是什么意思？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dc8e86\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"CELESTE: Are you trying to trick us or something?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b9971849e4fc3e75",
     "original": "CELESTE: You look exactly the same!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你看起来和她一模一样嘛！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c90c43\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"CELESTE: You look exactly the same!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9a24f0b37c3300ab",
     "original": "I remembered reading about something like this before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我想起来自己之前读到过类似的事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0adf414\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"I remembered reading about something like this before.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a319ebd72fcb1e9d",
     "original": "TYRION: You two are identical twins, aren’t you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你们俩是同卵双胞胎，对吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b69db0\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"TYRION: You two are identical twins, aren’t you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::200ebecb152621f2",
     "original": "VALERIE: Yes,[p/] that's correct.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALERIE: 是的，[p/]正是如此。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e42b49\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"VALERIE: Yes,[p/] that's correct.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a69dbdcf544cd1df",
     "original": "Wait...[p/] This meant that [i]she[/i] was the one who discovered the body alongside Valentina.",
-    "translation": "",
-    "stage": 0,
+    "translation": "慢着……[p/]也就是说[i]她[/i]就是与瓦伦蒂娜一同发现尸体的那个人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0881284\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Wait...[p/] This meant that [i]she[/i] was the one who discovered the body alongside Valentina.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9451448585233be7",
     "original": "TYRION: Since we have you here,[p/] do you mind if I ask you some questions about what happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 既然我们正好在这里遇见了，[p/]你是否介意我们就发生了什么问你几个问题？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:052ac18\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"TYRION: Since we have you here,[p/] do you mind if I ask you some questions about what happened?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7ba279e6cdc1a397",
     "original": "VALERIE: U-[p/]Um...[p/] I’m terribly sorry.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALERIE: 呃、[p/]嗯……[p/]非常抱歉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:022b1e9\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"VALERIE: U-[p/]Um...[p/] I’m terribly sorry.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bf8fb787545b4b8e",
     "original": "VALERIE: But I’ve already spent a lot of time looking for Jan here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALERIE: 但我到这里找简就已经花费了很多时间了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:063155a\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"VALERIE: But I’ve already spent a lot of time looking for Jan here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4e16c38144f012c6",
     "original": "VALERIE: I’m really behind on my work.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALERIE: 我真的得回去工作了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05d0e93\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"VALERIE: I’m really behind on my work.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::73f112e847e3b04c",
     "original": "VALERIE: But...[p/] [i]Jan[/i] was also nearby when we discovered the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALERIE: 但是……[p/][i]简[/i]在我们发现尸体的时候也在附近。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0967f00\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"VALERIE: But...[p/] [i]Jan[/i] was also nearby when we discovered the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::930dc5424b88c456",
     "original": "VALERIE: I’m sure he can answer your questions!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALERIE: 他肯定能回答你的问题！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0104556\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"VALERIE: I’m sure he can answer your questions!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9af30c20902863e9",
     "original": "Before I had a chance to object,[p/] Valerie quickly walked away.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我还没来得及提出反对，[p/]瓦莱丽一溜烟逃走了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:077e094\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Before I had a chance to object,[p/] Valerie quickly walked away.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::64568d4f02df953b",
     "original": "CELESTE: ...Do you want me to go after her?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ……你要我去追她吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:021cd2f\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"CELESTE: ...Do you want me to go after her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::07f2e4fa8693545b",
     "original": "CELESTE: I’m pretty sure I can catch up to her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我很确定自己能逮住她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0126506\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"CELESTE: I’m pretty sure I can catch up to her.\"\n}"
   },
   {
