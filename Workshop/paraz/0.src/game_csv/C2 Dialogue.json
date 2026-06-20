@@ -20393,71 +20393,71 @@
   {
     "key": "C2 Dialogue.csv::translation::e8ea14d2be7b92e5",
     "original": "TYRION: No...[p/] We don’t want to scare those two more than we already have.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 算了吧……[p/]我们也不想再吓到她们两个了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0351b54\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"TYRION: No...[p/] We don’t want to scare those two more than we already have.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5034a81be5a1200b",
     "original": "Anyways,[p/] Valerie said that Jan was nearby when the murder happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "总之，[p/]瓦莱丽提到凶杀发生时简就在附近。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02cfdd5\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Anyways,[p/] Valerie said that Jan was nearby when the murder happened.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8784da78de67fd6b",
     "original": "Maybe he saw something they didn't.",
-    "translation": "",
-    "stage": 0,
+    "translation": "或许他有看到她们不知道的东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b9b8a7\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Maybe he saw something they didn't.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34d9606e648bba4c",
     "original": "TYRION: Jan, was it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你是简对吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0821cd4\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"TYRION: Jan, was it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6f6030e0853e9509",
     "original": "TYRION: Do you mind if we ask you some questions about what happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你介意我们就发生了什么事情问几个问题吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a7368f\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"TYRION: Do you mind if we ask you some questions about what happened?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e5de4eedb7be392d",
     "original": "JAN: Ugh...[p/] Really...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 呃……[p/]真的要吗……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b8da44\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"JAN: Ugh...[p/] Really...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c3cebde5c59a4bac",
     "original": "JAN: Well, whatever.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JAN: 行，随便吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fb46fc\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"JAN: Well, whatever.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c6041c0936d3adfe",
     "original": "Jan: At least I have an excuse to take a break now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 至少我有休息一下的借口了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0239bc2\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Jan: At least I have an excuse to take a break now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c2e739f7327c0047",
     "original": "Tyrion: Okay, thank you for answering our questions, Jan.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 好的，感谢你回答我吗的问题，简。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00d0af3\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Tyrion: Okay, thank you for answering our questions, Jan.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c0797d244dd52a61",
     "original": "Jan: Sure, anytime.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 没事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f1dbae\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Jan: Sure, anytime.\"\n}"
   },
   {
