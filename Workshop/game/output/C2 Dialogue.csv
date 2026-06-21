@@ -3269,95 +3269,95 @@ line:0c33af0,Headmaster_Talk,"TYRION: ...If you don’t mind me asking,[p/] what
 line:072fcf5,Headmaster_Talk,THEODORE: We met to discuss routine administrative matters.,THEODORE: 我们为了讨论常规行政事务进行会谈。
 line:01335fc,Headmaster_Talk,"THEODORE: Despite our personal disagreements,[p/] we knew to stay civil when discussing professional affairs.",THEODORE: 虽然个人意见有分歧，[p/]但我们讨论公务的时候还是会保持职业素养。
 line:02f04e2,Headmaster_Talk,"THEODORE: ...But to be perfectly honest,[p/] it [i]did[/i] always feel like I was treading on eggshells when speaking with her.",THEODORE: ……但是说实在话，[p/]与她交谈[i]确实[/i]一直让我有如履薄冰之感。
-line:02202fd,Headmaster_Talk,"Tyrion: But you were her superior,[p/] weren’t you?",
-line:08da9e2,Headmaster_Talk,Tyrion: Didn’t she respect your authority?,
-line:0200613,Headmaster_Talk,THEODORE: We had many arguments about how I was managing the Imperial Academy.,
-line:003ab77,Headmaster_Talk,THEODORE: And she was very vocal about her distaste for the students accepted through my scholarship program.,
-line:0f276f0,Headmaster_Talk,"THEODORE: She was...[p/] difficult,[p/] to say the least.",
+line:02202fd,Headmaster_Talk,"Tyrion: But you were her superior,[p/] weren’t you?",Tyrion: 但您才是她的上司，[p/]不对吗？
+line:08da9e2,Headmaster_Talk,Tyrion: Didn’t she respect your authority?,Tyrion: 她不尊重您的权威吗？
+line:0200613,Headmaster_Talk,THEODORE: We had many arguments about how I was managing the Imperial Academy.,THEODORE: 就管理学院的方式，我们有过很多争论。
+line:003ab77,Headmaster_Talk,THEODORE: And she was very vocal about her distaste for the students accepted through my scholarship program.,THEODORE: 而她对反感平民法师通过我的奖学金项目进入学院这一点向来直言不讳。
+line:0f276f0,Headmaster_Talk,"THEODORE: She was...[p/] difficult,[p/] to say the least.",THEODORE: 至少可以说……[p/]她这人……[p/]不好相处。
 line:03bee44,Headmaster_Talk,Player: BACK,
-line:09b07fd,Wall_Conv,TYRION: What can you tell me about Wallace?,
-line:01e8296,Wall_Conv,"TYRION: Earlier,[p/] you said that he was one of your prized students.",
-line:0986f35,Wall_Conv,Tyrion: ...We also heard that he's a necromancer.,
+line:09b07fd,Wall_Conv,TYRION: What can you tell me about Wallace?,TYRION: 您能跟我说一说华莱士的事情吗？
+line:01e8296,Wall_Conv,"TYRION: Earlier,[p/] you said that he was one of your prized students.",Tyrion: 稍早，[p/]您说他是您的几个优秀学生之一。
+line:0986f35,Wall_Conv,Tyrion: ...We also heard that he's a necromancer.,Tyrion: ……我们也已经知道华莱士是一个死灵法师。
 line:0f78df6,Wall_Conv,THEODORE: ...,THEODORE: ……
-line:04e91ed,Wall_Conv,TYRION: I just need to understand if that's really true.,
-line:0c0e050,Wall_Conv,THEODORE: [i]*sigh*[/i][p/] You are correct.[p/] Young Wallace is a necromancer.,
-line:027b6fb,Wall_Conv,CELESTE: What?![p/][s/] But why would he study something like that?!,
-line:0c7443f,Wall_Conv,THEODORE: [b]Necromancy[/b] is probably one of the most dangerous and most scrutinized schools of magic.,
-line:03f514e,Wall_Conv,THEODORE: Its image has been tainted by myths of dark wizards raising armies of the undead.,
-line:0ed04e5,Wall_Conv,"THEODORE: However,[p/] it doesn’t just control the forces of death.[p/] It can also control the forces of life.",
-line:0caf399,Wall_Conv,"TYRION: ""Forces of life”?",
-line:04658eb,Wall_Conv,THEODORE: The truth is that healing magic is also classified as [b]necromancy[/b].,
-line:00f349e,Wall_Conv,"THEODORE: Most healers don’t care to admit it because of the stigma it has,[p/] but that’s why Wallace is studying it.",
-line:0cbd037,Wall_Conv,Theodore: He wishes to become a doctor.,
-line:00d7566,Wall_Conv,CELESTE: But there are plenty of mages who know healing magic.,
-line:08e1dde,Wall_Conv,CELESTE: Why is Wallace being singled out?,
-line:05e3fd2,Wall_Conv,"THEODORE: For years,[p/] he’s been studying [b]necromancy[/b] beyond the basic healing spells.",
-line:0cc5fcd,Wall_Conv,THEODORE: He believes that high-level [b]necromancy[/b] could revolutionize modern medicine.,
-line:05f2e7f,Wall_Conv,"THEODORE: ...Unfortunately,[p/] many among the faculty don’t see it that way.",
-line:0b05063,Wall_Conv,THEODORE: Wallace doesn’t hail from any of the noble houses.,
-line:0ac47cf,Wall_Conv,THEODORE: He was abandoned by his parents at an orphanage—[p/]presumably to avoid a scandal.,
-line:0e29ca8,Wall_Conv,CELESTE: He’s like me...,
-line:0c7009e,Wall_Conv,"THEODORE: Many of the faculty fear that he’ll use his knowledge to raise armies of undead,[p/] just like the necromancers of fiction.",
-line:0cfa13b,Wall_Conv,THEODORE: The Imperial Academy isn’t even [i]permitted[/i] to teach it to students beyond basic healing magic.,
-line:071b044,Wall_Conv,Tyrion: Then why did [i]you[/i] allow him to study it?,
-line:01da515,Wall_Conv,"THEODORE: After everything that has happened to him,[p/] I made an exception,[p/] even if I [i]was[/i] breaking the law.",
-line:0cee327,Wall_Conv,TYRION: ...What happened to him?,
-line:0ffb012,Wall_Conv,THEODORE: ...I’m not at liberty to say more.,
+line:04e91ed,Wall_Conv,TYRION: I just need to understand if that's really true.,TYRION: 我只需知道是否确实如此。
+line:0c0e050,Wall_Conv,THEODORE: [i]*sigh*[/i][p/] You are correct.[p/] Young Wallace is a necromancer.,THEODORE: [i]*叹气*[/i][p/]你说得对。[p/]小华莱士确实是死灵法师。
+line:027b6fb,Wall_Conv,CELESTE: What?![p/][s/] But why would he study something like that?!,CELESTE: 什么？！[p/][s/]他为什么要学习那种东西？！
+line:0c7443f,Wall_Conv,THEODORE: [b]Necromancy[/b] is probably one of the most dangerous and most scrutinized schools of magic.,THEODORE: [b]死灵术[/b]很可能是最危险，审查也最严格的奥术学派。
+line:03f514e,Wall_Conv,THEODORE: Its image has been tainted by myths of dark wizards raising armies of the undead.,THEODORE: 长期以来，阴暗的巫师唤起僵尸大军这类传说一直在抹黑它的形象。
+line:0ed04e5,Wall_Conv,"THEODORE: However,[p/] it doesn’t just control the forces of death.[p/] It can also control the forces of life.",THEODORE: 然而，[p/]它不仅仅操控死亡的力量。[p/]它也操控生命的力量。
+line:0caf399,Wall_Conv,"TYRION: ""Forces of life”?",TYRION: “生命的力量”？
+line:04658eb,Wall_Conv,THEODORE: The truth is that healing magic is also classified as [b]necromancy[/b].,THEODORE: 真相是，治愈魔法被归类为[b]死灵术[/b]的一种。
+line:00f349e,Wall_Conv,"THEODORE: Most healers don’t care to admit it because of the stigma it has,[p/] but that’s why Wallace is studying it.",THEODORE: 绝大多数治愈师因为它的污名而不敢承认这一点，[p/]但这也正是华莱士研习死灵术的原因。
+line:0cbd037,Wall_Conv,Theodore: He wishes to become a doctor.,Theodore: 他希望成为医生。
+line:00d7566,Wall_Conv,CELESTE: But there are plenty of mages who know healing magic.,CELESTE: 但是很多法师都会使用治愈魔法。
+line:08e1dde,Wall_Conv,CELESTE: Why is Wallace being singled out?,CELESTE: 为什么只有华莱士被叫做死灵法师？
+line:05e3fd2,Wall_Conv,"THEODORE: For years,[p/] he’s been studying [b]necromancy[/b] beyond the basic healing spells.",THEODORE: 这几年来，[p/]他一直在研究超出基础治愈魔法范围的[b]死灵术[/b]。
+line:0cc5fcd,Wall_Conv,THEODORE: He believes that high-level [b]necromancy[/b] could revolutionize modern medicine.,THEODORE: 他相信高阶[b]死灵术[/b]会革新现代医学。
+line:05f2e7f,Wall_Conv,"THEODORE: ...Unfortunately,[p/] many among the faculty don’t see it that way.",THEODORE: ……不幸的是，[p/]许多教员并不这么认为。
+line:0b05063,Wall_Conv,THEODORE: Wallace doesn’t hail from any of the noble houses.,THEODORE: 华莱士并非出身于贵族世家。
+line:0ac47cf,Wall_Conv,THEODORE: He was abandoned by his parents at an orphanage—[p/]presumably to avoid a scandal.,THEODORE: 他被生身父母抛弃，成为了孤儿——[p/]很可能是为了规避丑闻。
+line:0e29ca8,Wall_Conv,CELESTE: He’s like me...,CELESTE: 他就像我一样……
+line:0c7009e,Wall_Conv,"THEODORE: Many of the faculty fear that he’ll use his knowledge to raise armies of undead,[p/] just like the necromancers of fiction.",THEODORE: 许多教员都害怕他会借此组建一支僵尸大军，[p/]就像故事里的死灵法师们一样。
+line:0cfa13b,Wall_Conv,THEODORE: The Imperial Academy isn’t even [i]permitted[/i] to teach it to students beyond basic healing magic.,THEODORE: 帝国学院甚至[i]不允许[/i]向学生教授超出基础治愈魔法的内容。
+line:071b044,Wall_Conv,Tyrion: Then why did [i]you[/i] allow him to study it?,Tyrion: 那[i]您[/i]又为什么准许他学习？
+line:01da515,Wall_Conv,"THEODORE: After everything that has happened to him,[p/] I made an exception,[p/] even if I [i]was[/i] breaking the law.",THEODORE: 在他经历那些事情之后，[p/]我破例了，[p/]即使是[i]打破[/i]法规。
+line:0cee327,Wall_Conv,TYRION: ...What happened to him?,TYRION: ……发生了什么事？
+line:0ffb012,Wall_Conv,THEODORE: ...I’m not at liberty to say more.,THEODORE: ……我无权透露详情。
 line:0abcb0b,Cath_Conv,TYRION: What can you tell me about Catherine Bellwether?,TYRION: 能聊聊凯瑟琳·贝尔维瑟吗？
-line:090b7f6,Cath_Conv,"THEODORE: ... [h=""Nothing [i]kind[/i]...|I can tell you that much..."" e=""saf""/]",
-line:09632d4,Cath_Conv,"Wow,[p/] that was a whole mess of emotions.",
-line:0d59ec3,Cath_Conv,"THEODORE: Truth be told,[p/] she was rather...[p/] unpleasant to work with.",
-line:05b6b16,Cath_Conv,TYRION: Can you think of any enemies she might have had?,
-line:0cd511f,Cath_Conv,ERIS: You might as well list anyone who didn't hail from the Four Pillar Families.,
-line:0247af7,Cath_Conv,THEODORE: E-[p/]Eris...,
-line:02ced2c,Cath_Conv,ERIS: It's best not to beat around the bush with these sorts of things.,
-line:0466b4b,Cath_Conv,"ERIS: As I'm sure you saw this morning,[p/] [i]asphalt[/i] was probably less abrasive than her personality.",
-line:0ec2add,Cath_Conv,ERIS: Many people in this school did [i]not[/i] care for her.,
-line:084e732,Cath_Conv,"TYRION: Maybe she wasn’t the nicest person,[p/] but would that really be enough to motivate someone to murder her?",
-line:02f2827,Cath_Conv,"ERIS: She’d often target and harass students,[p/] especially those who were commoners.",
-line:058fd69,Cath_Conv,ERIS: She even made a habit of expelling those students for the smallest infractions.,
-line:039e04e,Cath_Conv,"CELESTE: For commoners,[p/] magic can be our ticket out of poverty.",
-line:069f017,Cath_Conv,CELESTE: I can’t imagine how it’d feel to have that opportunity unfairly ripped away from you.,
-line:0791980,Cath_Conv,"ERIS: She was akin to a grim reaper,[p/] hanging over the student body,[p/] waiting to steal away their futures.",
-line:023796a,Cath_Conv,ERIS: The human psyche can only be pushed so far.,
-line:07ce204,Cath_Conv,TYRION: What about her relationship with the faculty?,
-line:063c856,Cath_Conv,"THEODORE: In some cases,[p/] it was worse than it was with the students.",
-line:04765c5,Cath_Conv,THEODORE: She’d often treat the staff like her personal servants.,
-line:0218f7c,Cath_Conv,"THEODORE: I’ve received many complaints from them about her behavior,[p/] but I was powerless to stop her.",
-line:093e51e,Cath_Conv,CELESTE: But how?[p/] I thought you were the headmaster.,
-line:02f6a0f,Cath_Conv,THEODORE: She's a close friend of the Duke of Finance.[p/] She’s used her position to curry favor with the noble houses over the years.,
-line:053a645,Cath_Conv,"THEODORE: As you can imagine,[p/] the academy’s board is controlled by the nobility.",
-line:0a47cf8,Cath_Conv,"THEODORE: If I ever tried to remove her,[p/] there would be dire consequences.",
+line:090b7f6,Cath_Conv,"THEODORE: ... [h=""Nothing [i]kind[/i]...|I can tell you that much..."" e=""saf""/]","THEODORE: …… [h=""不是[i]好事[/i]……|I我只能说到这里了……"" e=""saf""/]"
+line:09632d4,Cath_Conv,"Wow,[p/] that was a whole mess of emotions.",哇，[p/]这情绪可真是够复杂的。
+line:0d59ec3,Cath_Conv,"THEODORE: Truth be told,[p/] she was rather...[p/] unpleasant to work with.",THEODORE: 实话实说，[p/]同她共事相当……[p/]令人不快。
+line:05b6b16,Cath_Conv,TYRION: Can you think of any enemies she might have had?,TYRION: 您能想起来可能与她有仇的人吗？
+line:0cd511f,Cath_Conv,ERIS: You might as well list anyone who didn't hail from the Four Pillar Families.,ERIS: 那你可能要把学院里四大支柱家族以外的每个人都列进来。
+line:0247af7,Cath_Conv,THEODORE: E-[p/]Eris...,THEODORE: 厄、[p/]厄莉斯……
+line:02ced2c,Cath_Conv,ERIS: It's best not to beat around the bush with these sorts of things.,ERIS: 这种事情最好就别绕弯子啦。
+line:0466b4b,Cath_Conv,"ERIS: As I'm sure you saw this morning,[p/] [i]asphalt[/i] was probably less abrasive than her personality.",ERIS: 而且我相信上午你也看到了，[p/][i]沥青[/i]都没她的性格那么难磨。
+line:0ec2add,Cath_Conv,ERIS: Many people in this school did [i]not[/i] care for her.,ERIS: 学校里的许多人都[i]不[/i]喜欢她。
+line:084e732,Cath_Conv,"TYRION: Maybe she wasn’t the nicest person,[p/] but would that really be enough to motivate someone to murder her?",TYRION: 她或许不是什么善人，[p/]但真的会有人因此想杀了她吗？
+line:02f2827,Cath_Conv,"ERIS: She’d often target and harass students,[p/] especially those who were commoners.",ERIS: 她经常针对骚扰某些学生，[p/]特别是那些出身于平民的。
+line:058fd69,Cath_Conv,ERIS: She even made a habit of expelling those students for the smallest infractions.,ERIS: 她甚至经常因一些很轻微的过失就开除那些学生。
+line:039e04e,Cath_Conv,"CELESTE: For commoners,[p/] magic can be our ticket out of poverty.",CELESTE: 对平民来说，[p/]魔法可以是我们摆脱贫困的一张入场券。
+line:069f017,Cath_Conv,CELESTE: I can’t imagine how it’d feel to have that opportunity unfairly ripped away from you.,CELESTE: 我难以想象，被这样不公平地剥夺机会是怎样的感受。
+line:0791980,Cath_Conv,"ERIS: She was akin to a grim reaper,[p/] hanging over the student body,[p/] waiting to steal away their futures.",ERIS: 她就像个死神，[p/]镰刀悬在学生们的头顶，[p/]随时都要夺去他们的未来。
+line:023796a,Cath_Conv,ERIS: The human psyche can only be pushed so far.,ERIS: 人类的心理承受能力是有限的。
+line:07ce204,Cath_Conv,TYRION: What about her relationship with the faculty?,TYRION: 那她与教职工们的关系如何？
+line:063c856,Cath_Conv,"THEODORE: In some cases,[p/] it was worse than it was with the students.",THEODORE: 在某些情况下，[p/]比与学生的关系更糟糕。
+line:04765c5,Cath_Conv,THEODORE: She’d often treat the staff like her personal servants.,THEODORE: 她经常把职工们当做自己的仆人使唤。
+line:0218f7c,Cath_Conv,"THEODORE: I’ve received many complaints from them about her behavior,[p/] but I was powerless to stop her.",THEODORE: 很多人都会对我投诉这些行径，[p/]但我无力阻止她。
+line:093e51e,Cath_Conv,CELESTE: But how?[p/] I thought you were the headmaster.,CELESTE: 为什么呢？[p/]我觉得校长应该可以吧。
+line:02f6a0f,Cath_Conv,THEODORE: She's a close friend of the Duke of Finance.[p/] She’s used her position to curry favor with the noble houses over the years.,THEODORE: 她是那位财政公爵的密友啊。[p/]这么多年来，她一直利用自己的职位给贵族牟利。
+line:053a645,Cath_Conv,"THEODORE: As you can imagine,[p/] the academy’s board is controlled by the nobility.",THEODORE: 正如你能想像的，[p/]学院的董事会受贵族控制。
+line:0a47cf8,Cath_Conv,"THEODORE: If I ever tried to remove her,[p/] there would be dire consequences.",THEODORE: 只要我试图除掉她，[p/]后果都将不堪设想。
 line:042268c,Headmaster_Present,Player: Runestone,
-line:08fa674,Headmaster_Present,"Theodore: Ah,[p/] a Runestone.[p/] You have one too?",
-line:0b86b54,Headmaster_Present,Tyrion: It's one specifically created for attorneys.[p/] It lets me take pictures of evidence and crime scenes!,
-line:05781f7,Headmaster_Present,Theodore: I never really understood the appeal of those contraptions.,
-line:0c8cdfa,Headmaster_Present,Tyrion: Really?[p/][s/] They're really convenient.,
-line:085ddb1,Headmaster_Present,Theodore: ...I just could never wrap my head around how to use them.,
-line:030ecd7,Headmaster_Present,Theodore: They're just not for me.,
+line:08fa674,Headmaster_Present,"Theodore: Ah,[p/] a Runestone.[p/] You have one too?",Theodore: 啊，[p/]是符石。[p/]你也有一个？
+line:0b86b54,Headmaster_Present,Tyrion: It's one specifically created for attorneys.[p/] It lets me take pictures of evidence and crime scenes!,Tyrion: 这是专为律师制作的。[p/]能用它拍下证据和案发现场的照片！
+line:05781f7,Headmaster_Present,Theodore: I never really understood the appeal of those contraptions.,Theodore: 我从没理解过这些新奇玩意儿对你们的吸引力从何而来。
+line:0c8cdfa,Headmaster_Present,Tyrion: Really?[p/][s/] They're really convenient.,Tyrion: 真的吗？[p/][s/]它们用起来挺方便的啊。
+line:085ddb1,Headmaster_Present,Theodore: ...I just could never wrap my head around how to use them.,Theodore: ……我就是不明白要怎么用它们。
+line:030ecd7,Headmaster_Present,Theodore: They're just not for me.,Theodore: 它们就是不适合我。
 line:0f1fd28,Headmaster_Present,Player: Tyrion,
-line:02806e8,Headmaster_Present,"Theodore: I'm sorry that your first visit to the academy ended so tragically, Mr. Cuthbert.",
-line:01b7934,Headmaster_Present,Tyrion: There's no need to apologize.[p/] No one could have guessed that today would turn out like this.,
-line:0ae9958,Headmaster_Present,"Theodore: Nevertheless,[p/] I hope you found our resources useful for your research.",
+line:02806e8,Headmaster_Present,"Theodore: I'm sorry that your first visit to the academy ended so tragically, Mr. Cuthbert.",Theodore: 卡斯伯特先生，很遗憾你的首次来访会以这么悲惨的方式结束。
+line:01b7934,Headmaster_Present,Tyrion: There's no need to apologize.[p/] No one could have guessed that today would turn out like this.,Tyrion: 您不需要道歉。[p/]没有人能预料到今天会发生这种事情。
+line:0ae9958,Headmaster_Present,"Theodore: Nevertheless,[p/] I hope you found our resources useful for your research.",Theodore: 不管怎么说，[p/]希望我们的馆藏对你的研究有帮助。
 line:056d211,Headmaster_Present,Player: Celeste,
-line:0f554d6,Headmaster_Present,Theodore: I'd [i]heard[/i] that Ms. Tymora had recently hired a mage.,
-line:0eaedd5,Headmaster_Present,Theodore: I hope that you found our resources useful for your studies.,
-line:041e37f,Headmaster_Present,"Celeste: Yeah, definitely.[p/] I was able to learn a lot of spells today.",
-line:0a7553f,Headmaster_Present,"Theodore: ""Spells""?",
-line:0e08839,Headmaster_Present,Why did everyone react like that?[p/] Was learning multiple spells [i]not[/i] normal?,
-line:047b292,Headmaster_Present,"Theodore: Anyways,[p/] I'm glad you enjoyed using our Library.",
-line:07214f5,Headmaster_Present,Theodore: Our academy [i]does[/i] offer scholarships for mages of the commonfolk.,
-line:047789a,Headmaster_Present,Theodore: Would you be interested in enrolling here?,
-line:0300657,Headmaster_Present,"Celeste: No offense,[p/] but I just [i]can't[/i] stand the idea of being cooped up in a school like this.",
-line:05752fa,Headmaster_Present,Celeste: I like learning about magic in the field.,
-line:0726781,Headmaster_Present,Theodore: Ah...[p/] That's unfortunate...,
+line:0f554d6,Headmaster_Present,Theodore: I'd [i]heard[/i] that Ms. Tymora had recently hired a mage.,Theodore: 我有[i]听说[/i]泰摩拉女士最近招募了一位法师。
+line:0eaedd5,Headmaster_Present,Theodore: I hope that you found our resources useful for your studies.,Theodore: 我希望我们的馆藏对你研习魔法有益处。
+line:041e37f,Headmaster_Present,"Celeste: Yeah, definitely.[p/] I was able to learn a lot of spells today.",Celeste: 那肯定有帮助呀。[p/]我今天学会了好多魔法呢。
+line:0a7553f,Headmaster_Present,"Theodore: ""Spells""?",Theodore: “好多魔法”？
+line:0e08839,Headmaster_Present,Why did everyone react like that?[p/] Was learning multiple spells [i]not[/i] normal?,为什么每个人都是这种反应？[p/]难道一下子学会好几条法术[i]不正常[/i]吗？
+line:047b292,Headmaster_Present,"Theodore: Anyways,[p/] I'm glad you enjoyed using our Library.",Theodore: 总之，[p/]我很高兴你们享受使用学院的图书馆。
+line:07214f5,Headmaster_Present,Theodore: Our academy [i]does[/i] offer scholarships for mages of the commonfolk.,Theodore: 我们学院[i]也有[/i]为平民法师提供奖学金。
+line:047789a,Headmaster_Present,Theodore: Would you be interested in enrolling here?,Theodore: 你有兴趣在这里就读吗？
+line:0300657,Headmaster_Present,"Celeste: No offense,[p/] but I just [i]can't[/i] stand the idea of being cooped up in a school like this.",Celeste: 无意冒犯，[p/]但我仅仅想一想被关在这样的学校里都[i]没法[/i]忍受。
+line:05752fa,Headmaster_Present,Celeste: I like learning about magic in the field.,Celeste: 我喜欢靠实践学习魔法。
+line:0726781,Headmaster_Present,Theodore: Ah...[p/] That's unfortunate...,Theodore: 啊……[p/]那太可惜了……
 line:078ac91,Headmaster_Present,Player: Aria,
-line:04de71e,Headmaster_Present,"Tyrion: Have you met the prosecutor, Mr. Redmond?",
-line:0ac27d0,Headmaster_Present,Theodore: Ah.[p/] I am already well acquainted with her.,
-line:0f4ce3f,Headmaster_Present,Theodore: She was once a student here.,
-line:0b9dcbf,Headmaster_Present,"Tyrion: Oh, right.[p/] She [i]is[/i] a noble.",
-line:0877d62,Headmaster_Present,Celeste: What was she like when she attended school here?,
-line:0de2096,Headmaster_Present,Theodore: She was quite the overachiever.[p/] She was elected student council president during her first year in the General Arcane Track.,
+line:04de71e,Headmaster_Present,"Tyrion: Have you met the prosecutor, Mr. Redmond?",Tyrion: 您有见到检察官吗，雷德蒙先生？
+line:0ac27d0,Headmaster_Present,Theodore: Ah.[p/] I am already well acquainted with her.,Theodore: 啊。[p/]我和她本来就很熟悉。
+line:0f4ce3f,Headmaster_Present,Theodore: She was once a student here.,Theodore: 她曾经是这里的学生。
+line:0b9dcbf,Headmaster_Present,"Tyrion: Oh, right.[p/] She [i]is[/i] a noble.",Tyrion: 哦，对哦。[p/]她[i]也是[/i]个贵族嘛。
+line:0877d62,Headmaster_Present,Celeste: What was she like when she attended school here?,Celeste: 她在这里读书的时候是什么样子？
+line:0de2096,Headmaster_Present,Theodore: She was quite the overachiever.[p/] She was elected student council president during her first year in the General Arcane Track.,Theodore: 她是个出类拔萃的人。[p/]还在第一年学习通用奥术理论的时候，她就被推举成为学生会主席了。
 line:017e5ec,Headmaster_Present,Celeste: Ugh...[p/] She [i]would[/i] be one of those students.,
 line:0614de6,Headmaster_Present,"Theodore: [i]*sigh*[/i][p/] I [i]do[/i] miss those days. [h=""She was working so hard|to escape from Beatrice's shadow."" e=""sa"" /]",
 line:0428c8e,Headmaster_Present,Player: Eris,

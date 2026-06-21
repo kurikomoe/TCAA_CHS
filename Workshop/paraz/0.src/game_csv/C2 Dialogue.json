@@ -21079,575 +21079,575 @@
   {
     "key": "C2 Dialogue.csv::translation::8c200df7e5b56086",
     "original": "Tyrion: But you were her superior,[p/] weren’t you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但您才是她的上司，[p/]不对吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02202fd\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"Tyrion: But you were her superior,[p/] weren’t you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::02614bbbc2a49798",
     "original": "Tyrion: Didn’t she respect your authority?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她不尊重您的权威吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08da9e2\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"Tyrion: Didn’t she respect your authority?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f8b1244112e0d73a",
     "original": "THEODORE: We had many arguments about how I was managing the Imperial Academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 就管理学院的方式，我们有过很多争论。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0200613\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: We had many arguments about how I was managing the Imperial Academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b59a308f144b5617",
     "original": "THEODORE: And she was very vocal about her distaste for the students accepted through my scholarship program.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 而她对反感平民法师通过我的奖学金项目进入学院这一点向来直言不讳。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:003ab77\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: And she was very vocal about her distaste for the students accepted through my scholarship program.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8bf998050747e9f3",
     "original": "THEODORE: She was...[p/] difficult,[p/] to say the least.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 至少可以说……[p/]她这人……[p/]不好相处。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f276f0\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: She was...[p/] difficult,[p/] to say the least.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::663cf4e8106aba9e",
     "original": "TYRION: What can you tell me about Wallace?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 您能跟我说一说华莱士的事情吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09b07fd\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"TYRION: What can you tell me about Wallace?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17c59cf0e7edaed7",
     "original": "TYRION: Earlier,[p/] you said that he was one of your prized students.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 稍早，[p/]您说他是您的几个优秀学生之一。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e8296\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"TYRION: Earlier,[p/] you said that he was one of your prized students.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3c1a74e0aca48f0b",
     "original": "Tyrion: ...We also heard that he's a necromancer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我们也已经知道华莱士是一个死灵法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0986f35\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"Tyrion: ...We also heard that he's a necromancer.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::19497f84c68a5f8c",
     "original": "TYRION: I just need to understand if that's really true.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我只需知道是否确实如此。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04e91ed\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"TYRION: I just need to understand if that's really true.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7082d7477b171e05",
     "original": "THEODORE: [i]*sigh*[/i][p/] You are correct.[p/] Young Wallace is a necromancer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: [i]*叹气*[/i][p/]你说得对。[p/]小华莱士确实是死灵法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c0e050\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: [i]*sigh*[/i][p/] You are correct.[p/] Young Wallace is a necromancer.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5a64d19859d5d15d",
     "original": "CELESTE: What?![p/][s/] But why would he study something like that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 什么？！[p/][s/]他为什么要学习那种东西？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:027b6fb\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"CELESTE: What?![p/][s/] But why would he study something like that?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e5d38f05b991d01a",
     "original": "THEODORE: [b]Necromancy[/b] is probably one of the most dangerous and most scrutinized schools of magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: [b]死灵术[/b]很可能是最危险，审查也最严格的奥术学派。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c7443f\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: [b]Necromancy[/b] is probably one of the most dangerous and most scrutinized schools of magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8e9a22a7cfb4cf88",
     "original": "THEODORE: Its image has been tainted by myths of dark wizards raising armies of the undead.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 长期以来，阴暗的巫师唤起僵尸大军这类传说一直在抹黑它的形象。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03f514e\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: Its image has been tainted by myths of dark wizards raising armies of the undead.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7d0efd86843e918d",
     "original": "THEODORE: However,[p/] it doesn’t just control the forces of death.[p/] It can also control the forces of life.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 然而，[p/]它不仅仅操控死亡的力量。[p/]它也操控生命的力量。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ed04e5\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: However,[p/] it doesn’t just control the forces of death.[p/] It can also control the forces of life.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6fdad9d83579c64c",
     "original": "TYRION: \"Forces of life”?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: “生命的力量”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0caf399\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"TYRION: \\\"Forces of life”?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4ebfa295cf9ce2f7",
     "original": "THEODORE: The truth is that healing magic is also classified as [b]necromancy[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 真相是，治愈魔法被归类为[b]死灵术[/b]的一种。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04658eb\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: The truth is that healing magic is also classified as [b]necromancy[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::164cc6aff3af7e7b",
     "original": "THEODORE: Most healers don’t care to admit it because of the stigma it has,[p/] but that’s why Wallace is studying it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 绝大多数治愈师因为它的污名而不敢承认这一点，[p/]但这也正是华莱士研习死灵术的原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00f349e\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: Most healers don’t care to admit it because of the stigma it has,[p/] but that’s why Wallace is studying it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d929bc4c10624a24",
     "original": "Theodore: He wishes to become a doctor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 他希望成为医生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cbd037\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"Theodore: He wishes to become a doctor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cec6038b93655bb2",
     "original": "CELESTE: But there are plenty of mages who know healing magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 但是很多法师都会使用治愈魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00d7566\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"CELESTE: But there are plenty of mages who know healing magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e36f21ed4068298a",
     "original": "CELESTE: Why is Wallace being singled out?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 为什么只有华莱士被叫做死灵法师？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08e1dde\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"CELESTE: Why is Wallace being singled out?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::711d276ca5ec4f79",
     "original": "THEODORE: For years,[p/] he’s been studying [b]necromancy[/b] beyond the basic healing spells.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 这几年来，[p/]他一直在研究超出基础治愈魔法范围的[b]死灵术[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05e3fd2\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: For years,[p/] he’s been studying [b]necromancy[/b] beyond the basic healing spells.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f35006d026b96525",
     "original": "THEODORE: He believes that high-level [b]necromancy[/b] could revolutionize modern medicine.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 他相信高阶[b]死灵术[/b]会革新现代医学。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cc5fcd\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: He believes that high-level [b]necromancy[/b] could revolutionize modern medicine.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7c7ee7274bb425a6",
     "original": "THEODORE: ...Unfortunately,[p/] many among the faculty don’t see it that way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……不幸的是，[p/]许多教员并不这么认为。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05f2e7f\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: ...Unfortunately,[p/] many among the faculty don’t see it that way.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::479d9c960be1e280",
     "original": "THEODORE: Wallace doesn’t hail from any of the noble houses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 华莱士并非出身于贵族世家。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b05063\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: Wallace doesn’t hail from any of the noble houses.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::262fb619ffb26ab9",
     "original": "THEODORE: He was abandoned by his parents at an orphanage—[p/]presumably to avoid a scandal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 他被生身父母抛弃，成为了孤儿——[p/]很可能是为了规避丑闻。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ac47cf\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: He was abandoned by his parents at an orphanage—[p/]presumably to avoid a scandal.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1cf4a304e59cb000",
     "original": "CELESTE: He’s like me...",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 他就像我一样……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e29ca8\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"CELESTE: He’s like me...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::202581c59140e560",
     "original": "THEODORE: Many of the faculty fear that he’ll use his knowledge to raise armies of undead,[p/] just like the necromancers of fiction.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 许多教员都害怕他会借此组建一支僵尸大军，[p/]就像故事里的死灵法师们一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c7009e\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: Many of the faculty fear that he’ll use his knowledge to raise armies of undead,[p/] just like the necromancers of fiction.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::09609412507a33c4",
     "original": "THEODORE: The Imperial Academy isn’t even [i]permitted[/i] to teach it to students beyond basic healing magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 帝国学院甚至[i]不允许[/i]向学生教授超出基础治愈魔法的内容。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cfa13b\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: The Imperial Academy isn’t even [i]permitted[/i] to teach it to students beyond basic healing magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e90893bccd57b7b",
     "original": "Tyrion: Then why did [i]you[/i] allow him to study it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那[i]您[/i]又为什么准许他学习？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:071b044\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"Tyrion: Then why did [i]you[/i] allow him to study it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f43293e71d5d05bb",
     "original": "THEODORE: After everything that has happened to him,[p/] I made an exception,[p/] even if I [i]was[/i] breaking the law.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 在他经历那些事情之后，[p/]我破例了，[p/]即使是[i]打破[/i]法规。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01da515\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: After everything that has happened to him,[p/] I made an exception,[p/] even if I [i]was[/i] breaking the law.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4182627428a8f9c9",
     "original": "TYRION: ...What happened to him?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……发生了什么事？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cee327\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"TYRION: ...What happened to him?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::da89d329b3f879ec",
     "original": "THEODORE: ...I’m not at liberty to say more.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……我无权透露详情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ffb012\",\n  \"node\": \"Wall_Conv\",\n  \"text\": \"THEODORE: ...I’m not at liberty to say more.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::075a261e5b37de2e",
     "original": "THEODORE: ... [h=\"Nothing [i]kind[/i]...|I can tell you that much...\" e=\"saf\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: …… [h=\"不是[i]好事[/i]……|I我只能说到这里了……\" e=\"saf\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:090b7f6\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"THEODORE: ... [h=\\\"Nothing [i]kind[/i]...|I can tell you that much...\\\" e=\\\"saf\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::39b9ea8e09242ae6",
     "original": "Wow,[p/] that was a whole mess of emotions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "哇，[p/]这情绪可真是够复杂的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09632d4\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"Wow,[p/] that was a whole mess of emotions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3614ecb10546dd74",
     "original": "THEODORE: Truth be told,[p/] she was rather...[p/] unpleasant to work with.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 实话实说，[p/]同她共事相当……[p/]令人不快。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d59ec3\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"THEODORE: Truth be told,[p/] she was rather...[p/] unpleasant to work with.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ab22a8577aad0fb0",
     "original": "TYRION: Can you think of any enemies she might have had?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 您能想起来可能与她有仇的人吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b6b16\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"TYRION: Can you think of any enemies she might have had?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b96b36064d363a4f",
     "original": "ERIS: You might as well list anyone who didn't hail from the Four Pillar Families.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 那你可能要把学院里四大支柱家族以外的每个人都列进来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cd511f\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"ERIS: You might as well list anyone who didn't hail from the Four Pillar Families.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d74feac52a82dc58",
     "original": "THEODORE: E-[p/]Eris...",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 厄、[p/]厄莉斯……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0247af7\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"THEODORE: E-[p/]Eris...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::26ade17cdf16b5d4",
     "original": "ERIS: It's best not to beat around the bush with these sorts of things.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 这种事情最好就别绕弯子啦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02ced2c\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"ERIS: It's best not to beat around the bush with these sorts of things.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cf669db5120a087c",
     "original": "ERIS: As I'm sure you saw this morning,[p/] [i]asphalt[/i] was probably less abrasive than her personality.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 而且我相信上午你也看到了，[p/][i]沥青[/i]都没她的性格那么难磨。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0466b4b\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"ERIS: As I'm sure you saw this morning,[p/] [i]asphalt[/i] was probably less abrasive than her personality.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a62ea12be7eadab1",
     "original": "ERIS: Many people in this school did [i]not[/i] care for her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 学校里的许多人都[i]不[/i]喜欢她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ec2add\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"ERIS: Many people in this school did [i]not[/i] care for her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7b97e270dd470929",
     "original": "TYRION: Maybe she wasn’t the nicest person,[p/] but would that really be enough to motivate someone to murder her?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她或许不是什么善人，[p/]但真的会有人因此想杀了她吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:084e732\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"TYRION: Maybe she wasn’t the nicest person,[p/] but would that really be enough to motivate someone to murder her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9778f13d829ec2a7",
     "original": "ERIS: She’d often target and harass students,[p/] especially those who were commoners.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 她经常针对骚扰某些学生，[p/]特别是那些出身于平民的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f2827\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"ERIS: She’d often target and harass students,[p/] especially those who were commoners.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c30181265e201b20",
     "original": "ERIS: She even made a habit of expelling those students for the smallest infractions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 她甚至经常因一些很轻微的过失就开除那些学生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:058fd69\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"ERIS: She even made a habit of expelling those students for the smallest infractions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::92781a6bf2bf2a28",
     "original": "CELESTE: For commoners,[p/] magic can be our ticket out of poverty.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 对平民来说，[p/]魔法可以是我们摆脱贫困的一张入场券。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:039e04e\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"CELESTE: For commoners,[p/] magic can be our ticket out of poverty.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a6e04050a870a3d1",
     "original": "CELESTE: I can’t imagine how it’d feel to have that opportunity unfairly ripped away from you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我难以想象，被这样不公平地剥夺机会是怎样的感受。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:069f017\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"CELESTE: I can’t imagine how it’d feel to have that opportunity unfairly ripped away from you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1b0ab7ed6d319641",
     "original": "ERIS: She was akin to a grim reaper,[p/] hanging over the student body,[p/] waiting to steal away their futures.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 她就像个死神，[p/]镰刀悬在学生们的头顶，[p/]随时都要夺去他们的未来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0791980\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"ERIS: She was akin to a grim reaper,[p/] hanging over the student body,[p/] waiting to steal away their futures.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04f21991d2f7cb34",
     "original": "ERIS: The human psyche can only be pushed so far.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 人类的心理承受能力是有限的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:023796a\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"ERIS: The human psyche can only be pushed so far.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9571acc95855b89d",
     "original": "TYRION: What about her relationship with the faculty?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 那她与教职工们的关系如何？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07ce204\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"TYRION: What about her relationship with the faculty?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::af8334e6fa8fe9a8",
     "original": "THEODORE: In some cases,[p/] it was worse than it was with the students.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 在某些情况下，[p/]比与学生的关系更糟糕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:063c856\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"THEODORE: In some cases,[p/] it was worse than it was with the students.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e05e693b05363657",
     "original": "THEODORE: She’d often treat the staff like her personal servants.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 她经常把职工们当做自己的仆人使唤。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04765c5\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"THEODORE: She’d often treat the staff like her personal servants.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ff9fdf2e8a406aa0",
     "original": "THEODORE: I’ve received many complaints from them about her behavior,[p/] but I was powerless to stop her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 很多人都会对我投诉这些行径，[p/]但我无力阻止她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0218f7c\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"THEODORE: I’ve received many complaints from them about her behavior,[p/] but I was powerless to stop her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::067e51020808c955",
     "original": "CELESTE: But how?[p/] I thought you were the headmaster.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 为什么呢？[p/]我觉得校长应该可以吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093e51e\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"CELESTE: But how?[p/] I thought you were the headmaster.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cd910ed2546ce702",
     "original": "THEODORE: She's a close friend of the Duke of Finance.[p/] She’s used her position to curry favor with the noble houses over the years.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 她是那位财政公爵的密友啊。[p/]这么多年来，她一直利用自己的职位给贵族牟利。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f6a0f\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"THEODORE: She's a close friend of the Duke of Finance.[p/] She’s used her position to curry favor with the noble houses over the years.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d81965c7ebf1a2bb",
     "original": "THEODORE: As you can imagine,[p/] the academy’s board is controlled by the nobility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 正如你能想像的，[p/]学院的董事会受贵族控制。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:053a645\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"THEODORE: As you can imagine,[p/] the academy’s board is controlled by the nobility.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e2b301c3ab56311",
     "original": "THEODORE: If I ever tried to remove her,[p/] there would be dire consequences.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 只要我试图除掉她，[p/]后果都将不堪设想。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a47cf8\",\n  \"node\": \"Cath_Conv\",\n  \"text\": \"THEODORE: If I ever tried to remove her,[p/] there would be dire consequences.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d482c9e42602fd69",
     "original": "Theodore: Ah,[p/] a Runestone.[p/] You have one too?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 啊，[p/]是符石。[p/]你也有一个？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08fa674\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Ah,[p/] a Runestone.[p/] You have one too?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eaa15f462933a663",
     "original": "Tyrion: It's one specifically created for attorneys.[p/] It lets me take pictures of evidence and crime scenes!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这是专为律师制作的。[p/]能用它拍下证据和案发现场的照片！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b86b54\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: It's one specifically created for attorneys.[p/] It lets me take pictures of evidence and crime scenes!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0b82edadec263003",
     "original": "Theodore: I never really understood the appeal of those contraptions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 我从没理解过这些新奇玩意儿对你们的吸引力从何而来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05781f7\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: I never really understood the appeal of those contraptions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::192098c44574e211",
     "original": "Tyrion: Really?[p/][s/] They're really convenient.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 真的吗？[p/][s/]它们用起来挺方便的啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c8cdfa\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: Really?[p/][s/] They're really convenient.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea744c06ca02d4f0",
     "original": "Theodore: ...I just could never wrap my head around how to use them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: ……我就是不明白要怎么用它们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:085ddb1\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: ...I just could never wrap my head around how to use them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::456a80dfb79fcb2f",
     "original": "Theodore: They're just not for me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 它们就是不适合我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:030ecd7\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: They're just not for me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::15733d52ab730dcd",
     "original": "Theodore: I'm sorry that your first visit to the academy ended so tragically, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 卡斯伯特先生，很遗憾你的首次来访会以这么悲惨的方式结束。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02806e8\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: I'm sorry that your first visit to the academy ended so tragically, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5eb72703dd435e00",
     "original": "Tyrion: There's no need to apologize.[p/] No one could have guessed that today would turn out like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 您不需要道歉。[p/]没有人能预料到今天会发生这种事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01b7934\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: There's no need to apologize.[p/] No one could have guessed that today would turn out like this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cd2f5141997af651",
     "original": "Theodore: Nevertheless,[p/] I hope you found our resources useful for your research.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 不管怎么说，[p/]希望我们的馆藏对你的研究有帮助。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ae9958\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Nevertheless,[p/] I hope you found our resources useful for your research.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::973d70616b7894d1",
     "original": "Theodore: I'd [i]heard[/i] that Ms. Tymora had recently hired a mage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 我有[i]听说[/i]泰摩拉女士最近招募了一位法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f554d6\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: I'd [i]heard[/i] that Ms. Tymora had recently hired a mage.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8f3d93b4a733f541",
     "original": "Theodore: I hope that you found our resources useful for your studies.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 我希望我们的馆藏对你研习魔法有益处。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eaedd5\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: I hope that you found our resources useful for your studies.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f351c4b72ccc8e0",
     "original": "Celeste: Yeah, definitely.[p/] I was able to learn a lot of spells today.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 那肯定有帮助呀。[p/]我今天学会了好多魔法呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:041e37f\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Celeste: Yeah, definitely.[p/] I was able to learn a lot of spells today.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e1beef72227856ec",
     "original": "Theodore: \"Spells\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: “好多魔法”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a7553f\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: \\\"Spells\\\"?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0753c75c388f434b",
     "original": "Why did everyone react like that?[p/] Was learning multiple spells [i]not[/i] normal?",
-    "translation": "",
-    "stage": 0,
+    "translation": "为什么每个人都是这种反应？[p/]难道一下子学会好几条法术[i]不正常[/i]吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e08839\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Why did everyone react like that?[p/] Was learning multiple spells [i]not[/i] normal?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::087fcc4fb5537a4c",
     "original": "Theodore: Anyways,[p/] I'm glad you enjoyed using our Library.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 总之，[p/]我很高兴你们享受使用学院的图书馆。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:047b292\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Anyways,[p/] I'm glad you enjoyed using our Library.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c9c81a4f31522c5d",
     "original": "Theodore: Our academy [i]does[/i] offer scholarships for mages of the commonfolk.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 我们学院[i]也有[/i]为平民法师提供奖学金。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07214f5\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Our academy [i]does[/i] offer scholarships for mages of the commonfolk.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4a0b95a8d63c1510",
     "original": "Theodore: Would you be interested in enrolling here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 你有兴趣在这里就读吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:047789a\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Would you be interested in enrolling here?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::056ca094b417d946",
     "original": "Celeste: No offense,[p/] but I just [i]can't[/i] stand the idea of being cooped up in a school like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 无意冒犯，[p/]但我仅仅想一想被关在这样的学校里都[i]没法[/i]忍受。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0300657\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Celeste: No offense,[p/] but I just [i]can't[/i] stand the idea of being cooped up in a school like this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::16bcb0594534000c",
     "original": "Celeste: I like learning about magic in the field.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我喜欢靠实践学习魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05752fa\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Celeste: I like learning about magic in the field.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b0b3a45c47ad7928",
     "original": "Theodore: Ah...[p/] That's unfortunate...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 啊……[p/]那太可惜了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0726781\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Ah...[p/] That's unfortunate...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2d2e62c88b09b875",
     "original": "Tyrion: Have you met the prosecutor, Mr. Redmond?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 您有见到检察官吗，雷德蒙先生？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04de71e\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: Have you met the prosecutor, Mr. Redmond?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::729b1c55089de32c",
     "original": "Theodore: Ah.[p/] I am already well acquainted with her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 啊。[p/]我和她本来就很熟悉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ac27d0\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Ah.[p/] I am already well acquainted with her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a30aa7228bc0ba4",
     "original": "Theodore: She was once a student here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 她曾经是这里的学生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f4ce3f\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: She was once a student here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6511b051e730eaf4",
     "original": "Tyrion: Oh, right.[p/] She [i]is[/i] a noble.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 哦，对哦。[p/]她[i]也是[/i]个贵族嘛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b9dcbf\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: Oh, right.[p/] She [i]is[/i] a noble.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dd6c79dec41523a5",
     "original": "Celeste: What was she like when she attended school here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 她在这里读书的时候是什么样子？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0877d62\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Celeste: What was she like when she attended school here?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::91d198b321910729",
     "original": "Theodore: She was quite the overachiever.[p/] She was elected student council president during her first year in the General Arcane Track.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 她是个出类拔萃的人。[p/]还在第一年学习通用奥术理论的时候，她就被推举成为学生会主席了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0de2096\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: She was quite the overachiever.[p/] She was elected student council president during her first year in the General Arcane Track.\"\n}"
   },
   {
