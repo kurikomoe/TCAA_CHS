@@ -20449,7 +20449,7 @@
   {
     "key": "C2 Dialogue.csv::translation::c2e739f7327c0047",
     "original": "Tyrion: Okay, thank you for answering our questions, Jan.",
-    "translation": "Tyrion: 好的，感谢你回答我吗的问题，简。",
+    "translation": "Tyrion: 好的，感谢你回答我们的问题，简。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:00d0af3\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Tyrion: Okay, thank you for answering our questions, Jan.\"\n}"
   },
@@ -20463,85 +20463,85 @@
   {
     "key": "C2 Dialogue.csv::translation::95bf9a49ceeb6676",
     "original": "Tyrion: We still don't have any leads on other suspects.[p/] It's just a lot of people who saw and/or hated Bellwether.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们还是没有其他嫌疑人的线索。[p/]只是找到许多目击或怨恨贝尔维瑟的人们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d06a7f\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Tyrion: We still don't have any leads on other suspects.[p/] It's just a lot of people who saw and/or hated Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3cc451721292ca13",
     "original": "Celeste: Right...[p/] If it wasn't Wallace,[p/] it still could have been any other mage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是啊……[p/]如果不是华莱士做的，[p/]还是应该有其他的法师动了手。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00598b0\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Celeste: Right...[p/] If it wasn't Wallace,[p/] it still could have been any other mage.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ffb575951732c1c5",
     "original": "Tyrion: The trial is coming up soon.[p/] We still don't know why there are traces of [b]necromancy[/b] on the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 庭审马上要开始了。[p/]但我们还是不知道尸体上[b]死灵术[/b]的痕迹是哪里来的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00b0e08\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Tyrion: The trial is coming up soon.[p/] We still don't know why there are traces of [b]necromancy[/b] on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e433a10c6cb8bb3f",
     "original": "Celeste: Come on,[p/] don't be like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 拜托。[p/]别这样嘛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:071bc2d\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Celeste: Come on,[p/] don't be like that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8e6bcce95ccde9cd",
     "original": "Celeste: You always get to the truth in the end.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你每次都会找到真相。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eff687\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Celeste: You always get to the truth in the end.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::da56f243d3a4d387",
     "original": "Tyrion: Celeste,[p/] it's only been one time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 其实也只有一次啊，[p/]塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a25057\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Tyrion: Celeste,[p/] it's only been one time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f79987b72994be5",
     "original": "Celeste: And after we acquit Wallace,[p/] it's going to be a grand total of [i]two[/i] times.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 那我们洗清华莱士的线以后，[p/]加在一起不就有[i]两次[/i]了吗。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0522aa6\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Celeste: And after we acquit Wallace,[p/] it's going to be a grand total of [i]two[/i] times.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::68740508f507f589",
     "original": "Celeste: It doesn't matter who tries to stop us—[p/]man,[p/] king,[p/] or god.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 无论是谁想要阻止我们——[p/]人、[p/]王、[p/]亦或是神。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0528605\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Celeste: It doesn't matter who tries to stop us—[p/]man,[p/] king,[p/] or god.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::07e9e7f603fdaa89",
     "original": "I couldn't help but chuckle to myself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我忍不住轻笑几声。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e238e5\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"I couldn't help but chuckle to myself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6176f809a0800d0a",
     "original": "Tyrion: Okay, okay.[p/] I guess we still need to talk to Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 好了好了。[p/]我想还是得和华莱士再谈一谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:008251e\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Tyrion: Okay, okay.[p/] I guess we still need to talk to Wallace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::10f42a67eeb471c1",
     "original": "Tyrion: Let's head to the dungeons.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们这就去地牢吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:043a333\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Tyrion: Let's head to the dungeons.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5115545fa8061c8d",
     "original": "Celeste: See?[p/] There we go.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 对吧？[p/]出发咯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:092d29c\",\n  \"node\": \"AcademyHall_Check\",\n  \"text\": \"Celeste: See?[p/] There we go.\"\n}"
   },
   {
@@ -20554,50 +20554,50 @@
   {
     "key": "C2 Dialogue.csv::translation::76a3e9e288cf51f9",
     "original": "Tyrion: It's a painting of someone.[p/] He looks like some sort of professor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这是描绘某个人的画作。[p/]他看起来像是一位教授。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08c6118\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Tyrion: It's a painting of someone.[p/] He looks like some sort of professor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::19d8b76194eb1dc3",
     "original": "Theodore: That's Professor Lukas Gilbert.[p/] He was an instructor here many decades ago.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 那是 Lukas Gilbert 教授。[p/]他在几十年前是这里的一位导师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c1303\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: That's Professor Lukas Gilbert.[p/] He was an instructor here many decades ago.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3ef57d2e2589a487",
     "original": "Theodore: He was quite the accomplished scholar,[p/] and well-beloved by the students here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 他是一位颇有成就的学者，[p/]也深受学生们喜爱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:080a24d\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: He was quite the accomplished scholar,[p/] and well-beloved by the students here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::62c2c9ad81c03c3d",
     "original": "Theodore: And this was all despite his lack of magical ability.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 即使他并没有什么魔法才能。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b69f02\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: And this was all despite his lack of magical ability.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e0332a439dcd34f1",
     "original": "Celeste: He studied magic without actually being able to use it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 他用不了魔法却还能研究这些？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05cc966\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Celeste: He studied magic without actually being able to use it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::35945f838e3791de",
     "original": "Theodore: Yes.[p/] He was quite remarkable.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 是的。[p/]他真的很了不起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ee0462\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: Yes.[p/] He was quite remarkable.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b5647deca56adc0a",
     "original": "Theodore: ...Unfortunately,[p/] we lost him to illness very early in his career.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: ……但很不幸的是，[p/]他很早就因病离开了我们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07617e7\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: ...Unfortunately,[p/] we lost him to illness very early in his career.\"\n}"
   },
   {
@@ -20610,57 +20610,57 @@
   {
     "key": "C2 Dialogue.csv::translation::c57b99286118a1c8",
     "original": "Tyrion: It's a painting of a mage...[p/] But he doesn't quite look like a noble.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这是一幅关于法师的画像……[p/]但他看起来不太像一名贵族。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0715dbe\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Tyrion: It's a painting of a mage...[p/] But he doesn't quite look like a noble.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6c908c44cfa8bacf",
     "original": "Theodore: Oh. That's Jason Steelwind.[p/] One of the chosen mages of the Scaled Lord.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 噢，那是杰森·斯蒂尔文德。[p/]是鳞甲领主选中的法师之一。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f29a05\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: Oh. That's Jason Steelwind.[p/] One of the chosen mages of the Scaled Lord.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::49d3ff1414572625",
     "original": "Celeste: Wait...[p/] \"Steelwind\"?[p/] As in-",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 等下……[p/]“斯蒂尔文德”？[p/]那他就是——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e66900\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Celeste: Wait...[p/] \\\"Steelwind\\\"?[p/] As in-\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d251ebb5e5e677de",
     "original": "Theodore: Yes.[p/] He's the earliest recorded ancestor of House Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 没错。[p/]他是斯蒂尔文德一族最早被记载的先祖。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:097115e\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: Yes.[p/] He's the earliest recorded ancestor of House Steelwind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b160f110f682e1b9",
     "original": "Theodore: Legends say that the Scaled Lord bestowed his power upon him and his allies to create the first mages.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 传说鳞甲领主把自身的力量赋予他和他的盟友们，并创造了第一批法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03557f7\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: Legends say that the Scaled Lord bestowed his power upon him and his allies to create the first mages.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c192d40cb6f9bc66",
     "original": "Celeste: Wow...[p/] It's hard to even tell that he and the prosecutor belong to the same bloodline.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 哇哦……[p/]甚至很难看出来他和检察官属于同一条血脉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01031ff\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Celeste: Wow...[p/] It's hard to even tell that he and the prosecutor belong to the same bloodline.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e923c146a74af167",
     "original": "Theodore: As with all the noble houses,[p/] House Steelwind had quite humble beginnings.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 在所有贵族之中，[p/]斯蒂尔文德一家也算是出身平凡。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b2ad18\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: As with all the noble houses,[p/] House Steelwind had quite humble beginnings.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::10349b2dcce376e8",
     "original": "If only they'd remember where they came from...",
-    "translation": "",
-    "stage": 0,
+    "translation": "要是他们还记得自己的出身就好了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09301ed\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"If only they'd remember where they came from...\"\n}"
   },
   {
@@ -20673,15 +20673,15 @@
   {
     "key": "C2 Dialogue.csv::translation::05be9ce770a21d13",
     "original": "Tyrion: There's a fireplace with some burning wood.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这儿有个壁炉，里面有些柴火正在燃烧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09636d5\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Tyrion: There's a fireplace with some burning wood.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b93e68e1dd6aea90",
     "original": "Tyrion: It looks pretty cozy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 看起来很舒适。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:006f48d\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Tyrion: It looks pretty cozy.\"\n}"
   },
   {
@@ -20694,169 +20694,169 @@
   {
     "key": "C2 Dialogue.csv::translation::3f51bc70464116c3",
     "original": "Tyrion: It's a fancy-looking chandelier.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 看起来很花哨的吊灯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:092aada\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Tyrion: It's a fancy-looking chandelier.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::93c55250024ee2fd",
     "original": "Tyrion: There's a window with a view of a garden.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 可以看到花园的窗户。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b70f8\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Tyrion: There's a window with a view of a garden.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a2108fd7b91beee8",
     "original": "Tyrion: The headmaster has a nice view from up here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 校长可以通过这里欣赏优美的景色。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09e8929\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Tyrion: The headmaster has a nice view from up here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f23e49950de2fabd",
     "original": "Tyrion: It's a small table for guests.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一个小巧的会客桌。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08efb5e\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Tyrion: It's a small table for guests.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b3ed0ba9a21ebaec",
     "original": "Tyrion: Is that...[p/] wine?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那是……[p/]葡萄酒吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cfa289\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Tyrion: Is that...[p/] wine?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::91310bb86cc3b899",
     "original": "Theodore: No, actually.[p/] It's just apple juice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 不，并不是。[p/]那只是苹果汁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bfdf00\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: No, actually.[p/] It's just apple juice.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::18ea27c338a14a70",
     "original": "Theodore: Most of my guests [i]are[/i] students after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 毕竟我的大多数来客[i]是[/i]学生们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:052e26f\",\n  \"node\": \"Headmaster_Examine\",\n  \"text\": \"Theodore: Most of my guests [i]are[/i] students after all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0a7a6259729be85d",
     "original": "THEODORE: This is terrible.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 这太糟糕了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:026e60b\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: This is terrible.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4351eecd733e11c7",
     "original": "THEODORE: To think that one of my prized students would be accused of murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我的爱徒之一竟会被指控为杀人犯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04ba19b\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: To think that one of my prized students would be accused of murder.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ad9a9baebe8567e5",
     "original": "TYRION: We heard your voice on the intercom when the lockdown happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 封锁发生的时候，我们从内部通讯系统听到了您的声音。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0567d75\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"TYRION: We heard your voice on the intercom when the lockdown happened.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6d13cfc7f2cd369e",
     "original": "TYRION: Are you the one who triggered it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 是您启动了封锁吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02c792b\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"TYRION: Are you the one who triggered it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f8fb06e80351ad67",
     "original": "THEODORE: Y-[p/][s/]Yes.[p/] I activated it when I received the call from Valentina.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 是、[p/][s/]是的。[p/]我接到瓦伦蒂娜的呼叫后就启动了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0df33f8\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: Y-[p/][s/]Yes.[p/] I activated it when I received the call from Valentina.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::66805a9709e9c2ab",
     "original": "THEODORE: She reported that Professor Bellwether was collapsed and unresponsive.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 她报告说贝尔维瑟教授陷入昏迷，没有反应。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a2f975\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: She reported that Professor Bellwether was collapsed and unresponsive.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a385c5131fda3708",
     "original": "TYRION: How does the lockdown system work?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 封锁系统是怎样运作的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0566bf1\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"TYRION: How does the lockdown system work?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::df55945d48faa536",
     "original": "THEODORE: It’s an artificery network that's built into the walls of the entire academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 整个学院建筑的墙壁中都安装了奥术能源网络。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0951247\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: It’s an artificery network that's built into the walls of the entire academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1b552b8e36c54bc9",
     "original": "THEODORE: In the event of an emergency,[p/] I can activate it using this stone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 当紧急情况发生时，[p/]我可以用这块符石启动它。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05db327\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: In the event of an emergency,[p/] I can activate it using this stone.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be5d054055e28919",
     "original": "The headmaster pulled out a glowing stone from his desk.",
-    "translation": "",
-    "stage": 0,
+    "translation": "校长从书桌里取出一块发光的石头。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a33dcd\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"The headmaster pulled out a glowing stone from his desk.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::22dc622bc1e87303",
     "original": "I could hear the hum of magical energy emanating from it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我能听到它散发的魔力发出嗡嗡的声响。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a43dd5\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"I could hear the hum of magical energy emanating from it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::18615a9aa0b4271d",
     "original": "THEODORE: Once activated,[p/] the system creates magical barriers throughout the building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 一旦启动，[p/]这个系统会在整个建筑内创造魔法屏障。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0943af2\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: Once activated,[p/] the system creates magical barriers throughout the building.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3b5bdb56ee47aa06",
     "original": "THEODORE: It’s designed to contain and protect each room in the building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 它的设计可以包围并保护大楼内的每个房间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0187402\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: It’s designed to contain and protect each room in the building.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06edcc375d5d90f6",
     "original": "TYRION: Could a powerful mage breach any of these barriers?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 强力的法师是否能突破这个屏障呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b532c\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"TYRION: Could a powerful mage breach any of these barriers?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::de85b8ee12034d8d",
     "original": "THEODORE: I doubt it.[p/] The barriers can withstand a great amount of force.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我认为不太可能。[p/]这些屏障可以承受很大的力量。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:058e529\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: I doubt it.[p/] The barriers can withstand a great amount of force.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::738efaf9ca2cff0c",
     "original": "THEODORE: They even block mages from teleporting through them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 甚至能阻止法师用传送通过它们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06cf860\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: They even block mages from teleporting through them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::adbe192501acbef9",
     "original": "THEODORE: And once activated,[p/] even [i]I[/i] can’t turn it off for an hour.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 而且一旦启动，[p/]即使是[i]我[/i]也没办法在一小时之内关闭它。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:041f8a6\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: And once activated,[p/] even [i]I[/i] can’t turn it off for an hour.\"\n}"
   },
   {
@@ -20876,127 +20876,127 @@
   {
     "key": "C2 Dialogue.csv::translation::6362701e955eb6aa",
     "original": "ERIS: If you plan on defending Wallace,[p/] will you need his [b]Spell Compendium[/b]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: ERIS: 如果你准备为华莱士辩护，[p/]你会需要他的[b]法术汇编[/b]对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03104c8\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"ERIS: If you plan on defending Wallace,[p/] will you need his [b]Spell Compendium[/b]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::41da8cff191e5cc7",
     "original": "TYRION: Yes.[p/] Having a client’s [b]Compendium[/b] is instrumental to acquitting them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 是的。[p/]拿到[b]法术汇编[/b]对证明委托人的清白非常重要。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ad6c5d\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"TYRION: Yes.[p/] Having a client’s [b]Compendium[/b] is instrumental to acquitting them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::528716803c2f7598",
     "original": "ERIS: You may find that a bit...[p/] difficult.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 但对你来说，这会……[p/]有点困难。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08bde0e\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"ERIS: You may find that a bit...[p/] difficult.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0e8a4664f0bea9f2",
     "original": "ERIS: After a certain incident,[p/] he destroyed his [b]Compendium[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 在某件事发生后，[p/]他破坏了自己的[b]法术汇编[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02d1f05\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"ERIS: After a certain incident,[p/] he destroyed his [b]Compendium[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::28013db02f337da9",
     "original": "TYRION: What?[p/] Why would he do that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 什么？[p/]他为什么要这么做？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0be0e3f\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"TYRION: What?[p/] Why would he do that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2c503d7a0606bcd2",
     "original": "TYRION: Doesn’t he need it to cast his magic?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 他不需要靠这个施放法术吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:034eb35\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"TYRION: Doesn’t he need it to cast his magic?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::58588f20591cf5a4",
     "original": "CELESTE: A [b]Spell Compendium[/b] is a device we use to keep track of what spells we can cast.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: [b]法术汇编[/b]只是一个记录法师们可以使用什么魔法的装置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:090a20b\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"CELESTE: A [b]Spell Compendium[/b] is a device we use to keep track of what spells we can cast.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::03ba8c1778fcfc81",
     "original": "CELESTE: It’s really convenient for remembering the formulas and incantations of my spells, but it’s not actually [i]required[/i] to use magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 在回忆已知魔法的范式和咏唱内容这方面很便利，但使用法术并不[i]需要[/i]它。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e21924\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"CELESTE: It’s really convenient for remembering the formulas and incantations of my spells, but it’s not actually [i]required[/i] to use magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a8c8f11da59772e4",
     "original": "CELESTE: ...I thought of getting rid of mine a long time ago,[p/] but they’re really expensive.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ……我很早之前想过扔掉自己的汇编，[p/]但它还挺贵的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02eb4f5\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"CELESTE: ...I thought of getting rid of mine a long time ago,[p/] but they’re really expensive.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::84182e44e1abd5fc",
     "original": "Eris: Luckily,[p/] I have an unattuned [b]Spell Compendium[/b] right here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 很巧呀，[p/]我这里正好有一个还没绑定的[b]法术汇编[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cdce08\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"Eris: Luckily,[p/] I have an unattuned [b]Spell Compendium[/b] right here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb929f617232e267",
     "original": "Eris: I’d be more than happy to give it to you if it helps Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 如果能帮上华莱士，我很乐意把它给你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e61d9\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"Eris: I’d be more than happy to give it to you if it helps Wallace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::42e8b0722f529a13",
     "original": "TYRION: O-[p/][s/]Oh...[p/][s/] Thanks!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 噢、[p/][s/]噢……[p/][s/]谢谢你！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b638e7\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"TYRION: O-[p/][s/]Oh...[p/][s/] Thanks!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7e7f8001fae7d51e",
     "original": "ERIS: Wallace just needs to maintain physical contact with it for ten minutes.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 只需要让华莱士和它保持接触十分钟就行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d94a3b\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"ERIS: Wallace just needs to maintain physical contact with it for ten minutes.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::104dca9ca27688cd",
     "original": "ERIS: After that,[p/] the [b]Compendium[/b] will attune to his magic and update in real time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 在那之后，[p/]这个[b]法术汇编[/b]就会与他的魔法绑定并实时更新。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04de206\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"ERIS: After that,[p/] the [b]Compendium[/b] will attune to his magic and update in real time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a437abe4e8b080e0",
     "original": "ERIS: Just make sure that you don’t let another mage like Celeste hold it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 只是得保证在那之前你没有让另一个法师——比如塞莱斯特——拿着它。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0093f63\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"ERIS: Just make sure that you don’t let another mage like Celeste hold it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d672f8a550e903a8",
     "original": "ERIS: Once it attunes to a mage,[p/] no one else can use it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 一旦它与某个法师绑定了，[p/]就没有其他人能再绑定它了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bf82f5\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"ERIS: Once it attunes to a mage,[p/] no one else can use it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::baf1a77a11cd3fc8",
     "original": "Theodore: Wait,[p/] then how did[p/][p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 慢着，[p/]你怎么[p/][p/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04b6fc2\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"Theodore: Wait,[p/] then how did[p/][p/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f0727c5ee8a5df1e",
     "original": "THEODORE: Wonderful.[p/] I just hope you can persuade Wallace to attune to it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 太好了。[p/]我希望你能说服华莱士与它绑定。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0deda81\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: Wonderful.[p/] I just hope you can persuade Wallace to attune to it.\"\n}"
   },
   {
@@ -21009,71 +21009,71 @@
   {
     "key": "C2 Dialogue.csv::translation::abcba4be0153a1bc",
     "original": "Tyrion: I heard that you had a meeting scheduled with Professor Bellwether this morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我听说您约好今天上午与贝尔维瑟教授会面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f00878\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"Tyrion: I heard that you had a meeting scheduled with Professor Bellwether this morning.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bee9e088d529fe39",
     "original": "Tyrion: What time was this?[p/] And when did the meeting end?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 具体是什么时候？[p/]这次会面什么时候结束的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:080b464\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"Tyrion: What time was this?[p/] And when did the meeting end?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dff4b56a1d392c58",
     "original": "THEODORE: Our meeting was scheduled for noon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我们约好正午见面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:001248d\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: Our meeting was scheduled for noon.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::417f1893b560bf44",
     "original": "THEODORE: She arrived on time,[p/] and our meeting lasted until 1:00 PM.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 她准时到来，[p/]我们的谈话一直持续到下午 1:00。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a94165\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: She arrived on time,[p/] and our meeting lasted until 1:00 PM.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe2bed6bd846645e",
     "original": "TYRION: Did anything seem off about her to you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 就您看来，她有什么不对劲的地方吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0661e66\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"TYRION: Did anything seem off about her to you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::61942d5ef1828c6d",
     "original": "THEODORE: No.[p/] She seemed to be her usual self. [h=\"Her usual insufferable self...\" e=\"sfa\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 没有，[p/]她看起来一如往常。 [h=\"令人难以忍受地一如往常……\" e=\"sfa\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ee6d04\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: No.[p/] She seemed to be her usual self. [h=\\\"Her usual insufferable self...\\\" e=\\\"sfa\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4126e63379c0c6a9",
     "original": "TYRION: ...If you don’t mind me asking,[p/] what was the purpose of your meeting?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 如果您不介意我这么问的话，[p/]这次会面的目的是什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c33af0\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"TYRION: ...If you don’t mind me asking,[p/] what was the purpose of your meeting?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f40681e4ddfe56d5",
     "original": "THEODORE: We met to discuss routine administrative matters.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我们为了讨论常规行政事务进行会谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:072fcf5\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: We met to discuss routine administrative matters.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::76b2a1e6872faea3",
     "original": "THEODORE: Despite our personal disagreements,[p/] we knew to stay civil when discussing professional affairs.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 虽然个人意见有分歧，[p/]但我们讨论公务的时候还是会保持职业素养。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01335fc\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: Despite our personal disagreements,[p/] we knew to stay civil when discussing professional affairs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3be1b6348017b335",
     "original": "THEODORE: ...But to be perfectly honest,[p/] it [i]did[/i] always feel like I was treading on eggshells when speaking with her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: ……但是说实在话，[p/]与她交谈[i]确实[/i]一直让我有如履薄冰之感。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f04e2\",\n  \"node\": \"Headmaster_Talk\",\n  \"text\": \"THEODORE: ...But to be perfectly honest,[p/] it [i]did[/i] always feel like I was treading on eggshells when speaking with her.\"\n}"
   },
   {

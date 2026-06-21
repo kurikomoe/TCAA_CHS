@@ -3171,104 +3171,104 @@ line:0a7368f,AcademyHall_Check,TYRION: Do you mind if we ask you some questions 
 line:0b8da44,AcademyHall_Check,JAN: Ugh...[p/] Really...?,JAN: 呃……[p/]真的要吗……？
 line:0fb46fc,AcademyHall_Check,"JAN: Well, whatever.",JAN: 行，随便吧。
 line:0239bc2,AcademyHall_Check,Jan: At least I have an excuse to take a break now.,Jan: 至少我有休息一下的借口了。
-line:00d0af3,AcademyHall_Check,"Tyrion: Okay, thank you for answering our questions, Jan.",Tyrion: 好的，感谢你回答我吗的问题，简。
+line:00d0af3,AcademyHall_Check,"Tyrion: Okay, thank you for answering our questions, Jan.",Tyrion: 好的，感谢你回答我们的问题，简。
 line:0f1dbae,AcademyHall_Check,"Jan: Sure, anytime.",Jan: 没事。
 line:04bb78a,AcademyHall_Check,Tyrion: ...,Tyrion: ……
 line:01955b5,AcademyHall_Check,Celeste: What's wrong?,Celeste: 怎么了？
-line:0d06a7f,AcademyHall_Check,Tyrion: We still don't have any leads on other suspects.[p/] It's just a lot of people who saw and/or hated Bellwether.,
-line:00598b0,AcademyHall_Check,"Celeste: Right...[p/] If it wasn't Wallace,[p/] it still could have been any other mage.",
-line:00b0e08,AcademyHall_Check,Tyrion: The trial is coming up soon.[p/] We still don't know why there are traces of [b]necromancy[/b] on the body.,
-line:071bc2d,AcademyHall_Check,"Celeste: Come on,[p/] don't be like that.",
-line:0eff687,AcademyHall_Check,Celeste: You always get to the truth in the end.,
-line:0a25057,AcademyHall_Check,"Tyrion: Celeste,[p/] it's only been one time.",
-line:0522aa6,AcademyHall_Check,"Celeste: And after we acquit Wallace,[p/] it's going to be a grand total of [i]two[/i] times.",
-line:0528605,AcademyHall_Check,"Celeste: It doesn't matter who tries to stop us—[p/]man,[p/] king,[p/] or god.",
-line:0e238e5,AcademyHall_Check,I couldn't help but chuckle to myself.,
-line:008251e,AcademyHall_Check,"Tyrion: Okay, okay.[p/] I guess we still need to talk to Wallace.",
-line:043a333,AcademyHall_Check,Tyrion: Let's head to the dungeons.,
-line:092d29c,AcademyHall_Check,Celeste: See?[p/] There we go.,
+line:0d06a7f,AcademyHall_Check,Tyrion: We still don't have any leads on other suspects.[p/] It's just a lot of people who saw and/or hated Bellwether.,Tyrion: 我们还是没有其他嫌疑人的线索。[p/]只是找到许多目击或怨恨贝尔维瑟的人们。
+line:00598b0,AcademyHall_Check,"Celeste: Right...[p/] If it wasn't Wallace,[p/] it still could have been any other mage.",Celeste: 是啊……[p/]如果不是华莱士做的，[p/]还是应该有其他的法师动了手。
+line:00b0e08,AcademyHall_Check,Tyrion: The trial is coming up soon.[p/] We still don't know why there are traces of [b]necromancy[/b] on the body.,Tyrion: 庭审马上要开始了。[p/]但我们还是不知道尸体上[b]死灵术[/b]的痕迹是哪里来的。
+line:071bc2d,AcademyHall_Check,"Celeste: Come on,[p/] don't be like that.",Celeste: 拜托。[p/]别这样嘛。
+line:0eff687,AcademyHall_Check,Celeste: You always get to the truth in the end.,Celeste: 你每次都会找到真相。
+line:0a25057,AcademyHall_Check,"Tyrion: Celeste,[p/] it's only been one time.",Tyrion: 其实也只有一次啊，[p/]塞莱斯特。
+line:0522aa6,AcademyHall_Check,"Celeste: And after we acquit Wallace,[p/] it's going to be a grand total of [i]two[/i] times.",Celeste: 那我们洗清华莱士的线以后，[p/]加在一起不就有[i]两次[/i]了吗。
+line:0528605,AcademyHall_Check,"Celeste: It doesn't matter who tries to stop us—[p/]man,[p/] king,[p/] or god.",Celeste: 无论是谁想要阻止我们——[p/]人、[p/]王、[p/]亦或是神。
+line:0e238e5,AcademyHall_Check,I couldn't help but chuckle to myself.,我忍不住轻笑几声。
+line:008251e,AcademyHall_Check,"Tyrion: Okay, okay.[p/] I guess we still need to talk to Wallace.",Tyrion: 好了好了。[p/]我想还是得和华莱士再谈一谈。
+line:043a333,AcademyHall_Check,Tyrion: Let's head to the dungeons.,Tyrion: 我们这就去地牢吧。
+line:092d29c,AcademyHall_Check,Celeste: See?[p/] There we go.,Celeste: 对吧？[p/]出发咯。
 line:0367b39,AcademyHall_Check,Jan: ...,Jan: ……
 line:050b919,Headmaster_Examine,Player: Painting 1,
-line:08c6118,Headmaster_Examine,Tyrion: It's a painting of someone.[p/] He looks like some sort of professor.,
-line:01c1303,Headmaster_Examine,Theodore: That's Professor Lukas Gilbert.[p/] He was an instructor here many decades ago.,
-line:080a24d,Headmaster_Examine,"Theodore: He was quite the accomplished scholar,[p/] and well-beloved by the students here.",
-line:0b69f02,Headmaster_Examine,Theodore: And this was all despite his lack of magical ability.,
-line:05cc966,Headmaster_Examine,Celeste: He studied magic without actually being able to use it?,
-line:0ee0462,Headmaster_Examine,Theodore: Yes.[p/] He was quite remarkable.,
-line:07617e7,Headmaster_Examine,"Theodore: ...Unfortunately,[p/] we lost him to illness very early in his career.",
+line:08c6118,Headmaster_Examine,Tyrion: It's a painting of someone.[p/] He looks like some sort of professor.,Tyrion: 这是描绘某个人的画作。[p/]他看起来像是一位教授。
+line:01c1303,Headmaster_Examine,Theodore: That's Professor Lukas Gilbert.[p/] He was an instructor here many decades ago.,Theodore: 那是 Lukas Gilbert 教授。[p/]他在几十年前是这里的一位导师。
+line:080a24d,Headmaster_Examine,"Theodore: He was quite the accomplished scholar,[p/] and well-beloved by the students here.",Theodore: 他是一位颇有成就的学者，[p/]也深受学生们喜爱。
+line:0b69f02,Headmaster_Examine,Theodore: And this was all despite his lack of magical ability.,Theodore: 即使他并没有什么魔法才能。
+line:05cc966,Headmaster_Examine,Celeste: He studied magic without actually being able to use it?,Celeste: 他用不了魔法却还能研究这些？
+line:0ee0462,Headmaster_Examine,Theodore: Yes.[p/] He was quite remarkable.,Theodore: 是的。[p/]他真的很了不起。
+line:07617e7,Headmaster_Examine,"Theodore: ...Unfortunately,[p/] we lost him to illness very early in his career.",Theodore: ……但很不幸的是，[p/]他很早就因病离开了我们。
 line:02c2caa,Headmaster_Examine,Player: Painting 2,
-line:0715dbe,Headmaster_Examine,Tyrion: It's a painting of a mage...[p/] But he doesn't quite look like a noble.,
-line:0f29a05,Headmaster_Examine,Theodore: Oh. That's Jason Steelwind.[p/] One of the chosen mages of the Scaled Lord.,
-line:0e66900,Headmaster_Examine,"Celeste: Wait...[p/] ""Steelwind""?[p/] As in-",
-line:097115e,Headmaster_Examine,Theodore: Yes.[p/] He's the earliest recorded ancestor of House Steelwind.,
-line:03557f7,Headmaster_Examine,Theodore: Legends say that the Scaled Lord bestowed his power upon him and his allies to create the first mages.,
-line:01031ff,Headmaster_Examine,Celeste: Wow...[p/] It's hard to even tell that he and the prosecutor belong to the same bloodline.,
-line:0b2ad18,Headmaster_Examine,"Theodore: As with all the noble houses,[p/] House Steelwind had quite humble beginnings.",
-line:09301ed,Headmaster_Examine,If only they'd remember where they came from...,
+line:0715dbe,Headmaster_Examine,Tyrion: It's a painting of a mage...[p/] But he doesn't quite look like a noble.,Tyrion: 这是一幅关于法师的画像……[p/]但他看起来不太像一名贵族。
+line:0f29a05,Headmaster_Examine,Theodore: Oh. That's Jason Steelwind.[p/] One of the chosen mages of the Scaled Lord.,Theodore: 噢，那是杰森·斯蒂尔文德。[p/]是鳞甲领主选中的法师之一。
+line:0e66900,Headmaster_Examine,"Celeste: Wait...[p/] ""Steelwind""?[p/] As in-",Celeste: 等下……[p/]“斯蒂尔文德”？[p/]那他就是——
+line:097115e,Headmaster_Examine,Theodore: Yes.[p/] He's the earliest recorded ancestor of House Steelwind.,Theodore: 没错。[p/]他是斯蒂尔文德一族最早被记载的先祖。
+line:03557f7,Headmaster_Examine,Theodore: Legends say that the Scaled Lord bestowed his power upon him and his allies to create the first mages.,Theodore: 传说鳞甲领主把自身的力量赋予他和他的盟友们，并创造了第一批法师。
+line:01031ff,Headmaster_Examine,Celeste: Wow...[p/] It's hard to even tell that he and the prosecutor belong to the same bloodline.,Celeste: 哇哦……[p/]甚至很难看出来他和检察官属于同一条血脉。
+line:0b2ad18,Headmaster_Examine,"Theodore: As with all the noble houses,[p/] House Steelwind had quite humble beginnings.",Theodore: 在所有贵族之中，[p/]斯蒂尔文德一家也算是出身平凡。
+line:09301ed,Headmaster_Examine,If only they'd remember where they came from...,要是他们还记得自己的出身就好了……
 line:0d72056,Headmaster_Examine,Player: Fireplace,
-line:09636d5,Headmaster_Examine,Tyrion: There's a fireplace with some burning wood.,
-line:006f48d,Headmaster_Examine,Tyrion: It looks pretty cozy.,
+line:09636d5,Headmaster_Examine,Tyrion: There's a fireplace with some burning wood.,Tyrion: 这儿有个壁炉，里面有些柴火正在燃烧。
+line:006f48d,Headmaster_Examine,Tyrion: It looks pretty cozy.,Tyrion: 看起来很舒适。
 line:0095c34,Headmaster_Examine,Player: Chandalier,
-line:092aada,Headmaster_Examine,Tyrion: It's a fancy-looking chandelier.,
+line:092aada,Headmaster_Examine,Tyrion: It's a fancy-looking chandelier.,Tyrion: 看起来很花哨的吊灯。
 line:05775e2,Headmaster_Examine,Player: Window,
-line:08b70f8,Headmaster_Examine,Tyrion: There's a window with a view of a garden.,
-line:09e8929,Headmaster_Examine,Tyrion: The headmaster has a nice view from up here.,
+line:08b70f8,Headmaster_Examine,Tyrion: There's a window with a view of a garden.,Tyrion: 可以看到花园的窗户。
+line:09e8929,Headmaster_Examine,Tyrion: The headmaster has a nice view from up here.,Tyrion: 校长可以通过这里欣赏优美的景色。
 line:087ea0c,Headmaster_Examine,Player: Table,
-line:08efb5e,Headmaster_Examine,Tyrion: It's a small table for guests.,
-line:0cfa289,Headmaster_Examine,Tyrion: Is that...[p/] wine?,
-line:0bfdf00,Headmaster_Examine,"Theodore: No, actually.[p/] It's just apple juice.",
-line:052e26f,Headmaster_Examine,Theodore: Most of my guests [i]are[/i] students after all.,
+line:08efb5e,Headmaster_Examine,Tyrion: It's a small table for guests.,Tyrion: 一个小巧的会客桌。
+line:0cfa289,Headmaster_Examine,Tyrion: Is that...[p/] wine?,Tyrion: 那是……[p/]葡萄酒吗？
+line:0bfdf00,Headmaster_Examine,"Theodore: No, actually.[p/] It's just apple juice.",Theodore: 不，并不是。[p/]那只是苹果汁。
+line:052e26f,Headmaster_Examine,Theodore: Most of my guests [i]are[/i] students after all.,Theodore: 毕竟我的大多数来客[i]是[/i]学生们。
 line:0237bb8,Headmaster_Examine,Player: Back,
 line:0e95aa2,Headmaster_Talk,Player: The Murder,Player: 谋杀案
-line:026e60b,Headmaster_Talk,THEODORE: This is terrible.,
-line:04ba19b,Headmaster_Talk,THEODORE: To think that one of my prized students would be accused of murder.,
-line:0567d75,Headmaster_Talk,TYRION: We heard your voice on the intercom when the lockdown happened.,
-line:02c792b,Headmaster_Talk,TYRION: Are you the one who triggered it?,
-line:0df33f8,Headmaster_Talk,THEODORE: Y-[p/][s/]Yes.[p/] I activated it when I received the call from Valentina.,
-line:0a2f975,Headmaster_Talk,THEODORE: She reported that Professor Bellwether was collapsed and unresponsive.,
-line:0566bf1,Headmaster_Talk,TYRION: How does the lockdown system work?,
-line:0951247,Headmaster_Talk,THEODORE: It’s an artificery network that's built into the walls of the entire academy.,
-line:05db327,Headmaster_Talk,"THEODORE: In the event of an emergency,[p/] I can activate it using this stone.",
-line:0a33dcd,Headmaster_Talk,The headmaster pulled out a glowing stone from his desk.,
-line:0a43dd5,Headmaster_Talk,I could hear the hum of magical energy emanating from it.,
-line:0943af2,Headmaster_Talk,"THEODORE: Once activated,[p/] the system creates magical barriers throughout the building.",
-line:0187402,Headmaster_Talk,THEODORE: It’s designed to contain and protect each room in the building.,
-line:08b532c,Headmaster_Talk,TYRION: Could a powerful mage breach any of these barriers?,
-line:058e529,Headmaster_Talk,THEODORE: I doubt it.[p/] The barriers can withstand a great amount of force.,
-line:06cf860,Headmaster_Talk,THEODORE: They even block mages from teleporting through them.,
-line:041f8a6,Headmaster_Talk,"THEODORE: And once activated,[p/] even [i]I[/i] can’t turn it off for an hour.",
+line:026e60b,Headmaster_Talk,THEODORE: This is terrible.,THEODORE: 这太糟糕了。
+line:04ba19b,Headmaster_Talk,THEODORE: To think that one of my prized students would be accused of murder.,THEODORE: 我的爱徒之一竟会被指控为杀人犯。
+line:0567d75,Headmaster_Talk,TYRION: We heard your voice on the intercom when the lockdown happened.,TYRION: 封锁发生的时候，我们从内部通讯系统听到了您的声音。
+line:02c792b,Headmaster_Talk,TYRION: Are you the one who triggered it?,TYRION: 是您启动了封锁吗？
+line:0df33f8,Headmaster_Talk,THEODORE: Y-[p/][s/]Yes.[p/] I activated it when I received the call from Valentina.,THEODORE: 是、[p/][s/]是的。[p/]我接到瓦伦蒂娜的呼叫后就启动了。
+line:0a2f975,Headmaster_Talk,THEODORE: She reported that Professor Bellwether was collapsed and unresponsive.,THEODORE: 她报告说贝尔维瑟教授陷入昏迷，没有反应。
+line:0566bf1,Headmaster_Talk,TYRION: How does the lockdown system work?,TYRION: 封锁系统是怎样运作的？
+line:0951247,Headmaster_Talk,THEODORE: It’s an artificery network that's built into the walls of the entire academy.,THEODORE: 整个学院建筑的墙壁中都安装了奥术能源网络。
+line:05db327,Headmaster_Talk,"THEODORE: In the event of an emergency,[p/] I can activate it using this stone.",THEODORE: 当紧急情况发生时，[p/]我可以用这块符石启动它。
+line:0a33dcd,Headmaster_Talk,The headmaster pulled out a glowing stone from his desk.,校长从书桌里取出一块发光的石头。
+line:0a43dd5,Headmaster_Talk,I could hear the hum of magical energy emanating from it.,我能听到它散发的魔力发出嗡嗡的声响。
+line:0943af2,Headmaster_Talk,"THEODORE: Once activated,[p/] the system creates magical barriers throughout the building.",THEODORE: 一旦启动，[p/]这个系统会在整个建筑内创造魔法屏障。
+line:0187402,Headmaster_Talk,THEODORE: It’s designed to contain and protect each room in the building.,THEODORE: 它的设计可以包围并保护大楼内的每个房间。
+line:08b532c,Headmaster_Talk,TYRION: Could a powerful mage breach any of these barriers?,TYRION: 强力的法师是否能突破这个屏障呢？
+line:058e529,Headmaster_Talk,THEODORE: I doubt it.[p/] The barriers can withstand a great amount of force.,THEODORE: 我认为不太可能。[p/]这些屏障可以承受很大的力量。
+line:06cf860,Headmaster_Talk,THEODORE: They even block mages from teleporting through them.,THEODORE: 甚至能阻止法师用传送通过它们。
+line:041f8a6,Headmaster_Talk,"THEODORE: And once activated,[p/] even [i]I[/i] can’t turn it off for an hour.",THEODORE: 而且一旦启动，[p/]即使是[i]我[/i]也没办法在一小时之内关闭它。
 line:09fd8ed,Headmaster_Talk,Player: Wallace Nightgrave,
 line:04f36f7,Headmaster_Talk,Player: Wallace's Spell Compendium,
-line:03104c8,Headmaster_Talk,"ERIS: If you plan on defending Wallace,[p/] will you need his [b]Spell Compendium[/b]?",
-line:0ad6c5d,Headmaster_Talk,TYRION: Yes.[p/] Having a client’s [b]Compendium[/b] is instrumental to acquitting them.,
-line:08bde0e,Headmaster_Talk,ERIS: You may find that a bit...[p/] difficult.,
-line:02d1f05,Headmaster_Talk,"ERIS: After a certain incident,[p/] he destroyed his [b]Compendium[/b].",
-line:0be0e3f,Headmaster_Talk,TYRION: What?[p/] Why would he do that?,
-line:034eb35,Headmaster_Talk,TYRION: Doesn’t he need it to cast his magic?,
-line:090a20b,Headmaster_Talk,CELESTE: A [b]Spell Compendium[/b] is a device we use to keep track of what spells we can cast.,
-line:0e21924,Headmaster_Talk,"CELESTE: It’s really convenient for remembering the formulas and incantations of my spells, but it’s not actually [i]required[/i] to use magic.",
-line:02eb4f5,Headmaster_Talk,"CELESTE: ...I thought of getting rid of mine a long time ago,[p/] but they’re really expensive.",
-line:0cdce08,Headmaster_Talk,"Eris: Luckily,[p/] I have an unattuned [b]Spell Compendium[/b] right here.",
-line:01e61d9,Headmaster_Talk,Eris: I’d be more than happy to give it to you if it helps Wallace.,
-line:0b638e7,Headmaster_Talk,TYRION: O-[p/][s/]Oh...[p/][s/] Thanks!,
-line:0d94a3b,Headmaster_Talk,ERIS: Wallace just needs to maintain physical contact with it for ten minutes.,
-line:04de206,Headmaster_Talk,"ERIS: After that,[p/] the [b]Compendium[/b] will attune to his magic and update in real time.",
-line:0093f63,Headmaster_Talk,ERIS: Just make sure that you don’t let another mage like Celeste hold it.,
-line:0bf82f5,Headmaster_Talk,"ERIS: Once it attunes to a mage,[p/] no one else can use it.",
-line:04b6fc2,Headmaster_Talk,"Theodore: Wait,[p/] then how did[p/][p/]",
-line:0deda81,Headmaster_Talk,THEODORE: Wonderful.[p/] I just hope you can persuade Wallace to attune to it.,
+line:03104c8,Headmaster_Talk,"ERIS: If you plan on defending Wallace,[p/] will you need his [b]Spell Compendium[/b]?",ERIS: ERIS: 如果你准备为华莱士辩护，[p/]你会需要他的[b]法术汇编[/b]对吧？
+line:0ad6c5d,Headmaster_Talk,TYRION: Yes.[p/] Having a client’s [b]Compendium[/b] is instrumental to acquitting them.,TYRION: 是的。[p/]拿到[b]法术汇编[/b]对证明委托人的清白非常重要。
+line:08bde0e,Headmaster_Talk,ERIS: You may find that a bit...[p/] difficult.,ERIS: 但对你来说，这会……[p/]有点困难。
+line:02d1f05,Headmaster_Talk,"ERIS: After a certain incident,[p/] he destroyed his [b]Compendium[/b].",ERIS: 在某件事发生后，[p/]他破坏了自己的[b]法术汇编[/b]。
+line:0be0e3f,Headmaster_Talk,TYRION: What?[p/] Why would he do that?,TYRION: 什么？[p/]他为什么要这么做？
+line:034eb35,Headmaster_Talk,TYRION: Doesn’t he need it to cast his magic?,TYRION: 他不需要靠这个施放法术吗？
+line:090a20b,Headmaster_Talk,CELESTE: A [b]Spell Compendium[/b] is a device we use to keep track of what spells we can cast.,CELESTE: [b]法术汇编[/b]只是一个记录法师们可以使用什么魔法的装置。
+line:0e21924,Headmaster_Talk,"CELESTE: It’s really convenient for remembering the formulas and incantations of my spells, but it’s not actually [i]required[/i] to use magic.",CELESTE: 在回忆已知魔法的范式和咏唱内容这方面很便利，但使用法术并不[i]需要[/i]它。
+line:02eb4f5,Headmaster_Talk,"CELESTE: ...I thought of getting rid of mine a long time ago,[p/] but they’re really expensive.",CELESTE: ……我很早之前想过扔掉自己的汇编，[p/]但它还挺贵的。
+line:0cdce08,Headmaster_Talk,"Eris: Luckily,[p/] I have an unattuned [b]Spell Compendium[/b] right here.",Eris: 很巧呀，[p/]我这里正好有一个还没绑定的[b]法术汇编[/b]。
+line:01e61d9,Headmaster_Talk,Eris: I’d be more than happy to give it to you if it helps Wallace.,Eris: 如果能帮上华莱士，我很乐意把它给你。
+line:0b638e7,Headmaster_Talk,TYRION: O-[p/][s/]Oh...[p/][s/] Thanks!,TYRION: 噢、[p/][s/]噢……[p/][s/]谢谢你！
+line:0d94a3b,Headmaster_Talk,ERIS: Wallace just needs to maintain physical contact with it for ten minutes.,ERIS: 只需要让华莱士和它保持接触十分钟就行。
+line:04de206,Headmaster_Talk,"ERIS: After that,[p/] the [b]Compendium[/b] will attune to his magic and update in real time.",ERIS: 在那之后，[p/]这个[b]法术汇编[/b]就会与他的魔法绑定并实时更新。
+line:0093f63,Headmaster_Talk,ERIS: Just make sure that you don’t let another mage like Celeste hold it.,ERIS: 只是得保证在那之前你没有让另一个法师——比如塞莱斯特——拿着它。
+line:0bf82f5,Headmaster_Talk,"ERIS: Once it attunes to a mage,[p/] no one else can use it.",ERIS: 一旦它与某个法师绑定了，[p/]就没有其他人能再绑定它了。
+line:04b6fc2,Headmaster_Talk,"Theodore: Wait,[p/] then how did[p/][p/]",Theodore: 慢着，[p/]你怎么[p/][p/]
+line:0deda81,Headmaster_Talk,THEODORE: Wonderful.[p/] I just hope you can persuade Wallace to attune to it.,THEODORE: 太好了。[p/]我希望你能说服华莱士与它绑定。
 line:0e3b8d3,Headmaster_Talk,Player: Catherine Bellwether,Player: 凯瑟琳·贝尔维瑟
 line:0d3791f,Headmaster_Talk,Player: The Meeting,
-line:0f00878,Headmaster_Talk,Tyrion: I heard that you had a meeting scheduled with Professor Bellwether this morning.,
-line:080b464,Headmaster_Talk,Tyrion: What time was this?[p/] And when did the meeting end?,
-line:001248d,Headmaster_Talk,THEODORE: Our meeting was scheduled for noon.,
-line:0a94165,Headmaster_Talk,"THEODORE: She arrived on time,[p/] and our meeting lasted until 1:00 PM.",
-line:0661e66,Headmaster_Talk,TYRION: Did anything seem off about her to you?,
-line:0ee6d04,Headmaster_Talk,"THEODORE: No.[p/] She seemed to be her usual self. [h=""Her usual insufferable self..."" e=""sfa""/]",
-line:0c33af0,Headmaster_Talk,"TYRION: ...If you don’t mind me asking,[p/] what was the purpose of your meeting?",
-line:072fcf5,Headmaster_Talk,THEODORE: We met to discuss routine administrative matters.,
-line:01335fc,Headmaster_Talk,"THEODORE: Despite our personal disagreements,[p/] we knew to stay civil when discussing professional affairs.",
-line:02f04e2,Headmaster_Talk,"THEODORE: ...But to be perfectly honest,[p/] it [i]did[/i] always feel like I was treading on eggshells when speaking with her.",
+line:0f00878,Headmaster_Talk,Tyrion: I heard that you had a meeting scheduled with Professor Bellwether this morning.,Tyrion: 我听说您约好今天上午与贝尔维瑟教授会面。
+line:080b464,Headmaster_Talk,Tyrion: What time was this?[p/] And when did the meeting end?,Tyrion: 具体是什么时候？[p/]这次会面什么时候结束的？
+line:001248d,Headmaster_Talk,THEODORE: Our meeting was scheduled for noon.,THEODORE: 我们约好正午见面。
+line:0a94165,Headmaster_Talk,"THEODORE: She arrived on time,[p/] and our meeting lasted until 1:00 PM.",THEODORE: 她准时到来，[p/]我们的谈话一直持续到下午 1:00。
+line:0661e66,Headmaster_Talk,TYRION: Did anything seem off about her to you?,TYRION: 就您看来，她有什么不对劲的地方吗？
+line:0ee6d04,Headmaster_Talk,"THEODORE: No.[p/] She seemed to be her usual self. [h=""Her usual insufferable self..."" e=""sfa""/]","THEODORE: 没有，[p/]她看起来一如往常。 [h=""令人难以忍受地一如往常……"" e=""sfa""/]"
+line:0c33af0,Headmaster_Talk,"TYRION: ...If you don’t mind me asking,[p/] what was the purpose of your meeting?",TYRION: 如果您不介意我这么问的话，[p/]这次会面的目的是什么？
+line:072fcf5,Headmaster_Talk,THEODORE: We met to discuss routine administrative matters.,THEODORE: 我们为了讨论常规行政事务进行会谈。
+line:01335fc,Headmaster_Talk,"THEODORE: Despite our personal disagreements,[p/] we knew to stay civil when discussing professional affairs.",THEODORE: 虽然个人意见有分歧，[p/]但我们讨论公务的时候还是会保持职业素养。
+line:02f04e2,Headmaster_Talk,"THEODORE: ...But to be perfectly honest,[p/] it [i]did[/i] always feel like I was treading on eggshells when speaking with her.",THEODORE: ……但是说实在话，[p/]与她交谈[i]确实[/i]一直让我有如履薄冰之感。
 line:02202fd,Headmaster_Talk,"Tyrion: But you were her superior,[p/] weren’t you?",
 line:08da9e2,Headmaster_Talk,Tyrion: Didn’t she respect your authority?,
 line:0200613,Headmaster_Talk,THEODORE: We had many arguments about how I was managing the Imperial Academy.,
