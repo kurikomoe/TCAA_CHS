@@ -2533,7 +2533,7 @@ line:03a1a4c,Dorm_Present,"...How about sharing that ""prosperity"" with the com
 line:04b4da6,Dorm_Present,Player: Blood|Blood2|Rapier|Rapier2,
 line:096b60a,Dorm_Present,Miriam: Ugh...[p/] I really hope Aria returns my rapier soon.,Miriam: 呃啊……[p/]真希望阿莉亚能早点把我的剑还给我。
 line:0efa6da,Dorm_Present,Celeste: It must be pretty important to you.,Celeste: 那对你来说肯定重要非凡。
-line:019ec38,Dorm_Present,"Miriam: It is an ancient family heirloom,[p/] wielded by Beatrice the first:[p/] one of the first heroes of Wyverngarde.",Miriam: 那是我家从上古时期代代相传的传家宝，[p/]曾是维文加德几位开过英雄之一——比阿特丽斯一世的佩剑。
+line:019ec38,Dorm_Present,"Miriam: It is an ancient family heirloom,[p/] wielded by Beatrice the first:[p/] one of the first heroes of Wyverngarde.",Miriam: 那是我家从上古时期代代相传的传家宝，[p/]曾是维文加德几位开过英雄之一——比亚特丽丝一世的佩剑。
 line:09ee327,Dorm_Present,"Miriam: ... [h=""I wonder...|Is she okay...?"" e=""sf"" /]","Miriam: …… [h=""我又想起来……|她还好吗……？"" e=""sf"" /]"
 line:06bf5ac,Dorm_Present,"I mean...[p/] If she was one of the heroes of Wyverngarde,[p/] she was probably long dead by now.",我得说……[p/]如果她真的是维文加德的开国英雄，[p/]她肯定早就逝去了。
 line:0af657e,Dorm_Present,Player: Construct|Logic|LockerCon,
@@ -3358,95 +3358,95 @@ line:0f4ce3f,Headmaster_Present,Theodore: She was once a student here.,Theodore:
 line:0b9dcbf,Headmaster_Present,"Tyrion: Oh, right.[p/] She [i]is[/i] a noble.",Tyrion: 哦，对哦。[p/]她[i]也是[/i]个贵族嘛。
 line:0877d62,Headmaster_Present,Celeste: What was she like when she attended school here?,Celeste: 她在这里读书的时候是什么样子？
 line:0de2096,Headmaster_Present,Theodore: She was quite the overachiever.[p/] She was elected student council president during her first year in the General Arcane Track.,Theodore: 她是个出类拔萃的人。[p/]还在第一年学习通用奥术理论的时候，她就被推举成为学生会主席了。
-line:017e5ec,Headmaster_Present,Celeste: Ugh...[p/] She [i]would[/i] be one of those students.,
-line:0614de6,Headmaster_Present,"Theodore: [i]*sigh*[/i][p/] I [i]do[/i] miss those days. [h=""She was working so hard|to escape from Beatrice's shadow."" e=""sa"" /]",
+line:017e5ec,Headmaster_Present,Celeste: Ugh...[p/] She [i]would[/i] be one of those students.,Celeste: 唔……[p/]她[i]本可以[/i]像那些贵族学生一样的。
+line:0614de6,Headmaster_Present,"Theodore: [i]*sigh*[/i][p/] I [i]do[/i] miss those days. [h=""She was working so hard|to escape from Beatrice's shadow."" e=""sa"" /]","Theodore: [i]*叹气*[/i][p/]我[i]真的[/i]怀念那些时光。[h=""她那时如此努力|也是为了逃离比亚特丽丝的阴影吧。"" e=""sa"" /]"
 line:0428c8e,Headmaster_Present,Player: Eris,
-line:03121cb,Headmaster_Present,Theodore: Did you know?[p/] Eris is one of our top students in the study of [i]illusion[/i] magic.,
-line:0194489,Headmaster_Present,"Eris: Thank you, headmaster.[p/] I appreciate your praise.",
-line:03daaab,Headmaster_Present,"Tyrion: Why [i]do[/i] you study illusion magic, Eris?",
-line:06c0fa3,Headmaster_Present,"Eris: Oh,[p/] no particular reason.",
-line:0d56b35,Headmaster_Present,Eris: I just happened to have an affinity for it.,
-line:07d9d51,Headmaster_Present,Eris: It's also quite enjoyable to use my magic to deceive people.,
-line:0664d2b,Headmaster_Present,Hm...[p/] I guess she [i]did[/i] enjoy startling me.,
+line:03121cb,Headmaster_Present,Theodore: Did you know?[p/] Eris is one of our top students in the study of [i]illusion[/i] magic.,Theodore: 你们知道吗？[p/]在我们这里，厄莉斯可是[i]幻象术[/i]方面最顶尖的学生之一。
+line:0194489,Headmaster_Present,"Eris: Thank you, headmaster.[p/] I appreciate your praise.",Eris: 谢谢您，校长。[p/]感谢您的夸赞。
+line:03daaab,Headmaster_Present,"Tyrion: Why [i]do[/i] you study illusion magic, Eris?",Tyrion: 厄莉斯，你[i]为什么[/i]学习幻象术？
+line:06c0fa3,Headmaster_Present,"Eris: Oh,[p/] no particular reason.",Eris: 噢，[p/]没什么特别的原因。
+line:0d56b35,Headmaster_Present,Eris: I just happened to have an affinity for it.,Eris: 我只是凑巧喜欢它。
+line:07d9d51,Headmaster_Present,Eris: It's also quite enjoyable to use my magic to deceive people.,Eris: 用我的魔法欺骗别人也挺好玩的。
+line:0664d2b,Headmaster_Present,Hm...[p/] I guess she [i]did[/i] enjoy startling me.,嗯……[p/]我猜她[i]确实[/i]喜欢让我受到惊吓。
 line:053fa5b,Headmaster_Present,Player: Ruby,
-line:03d2afe,Headmaster_Present,Tyrion: Ms. Tymora mentioned that you gave us permission to use the Library.,
-line:030f680,Headmaster_Present,Tyrion: I can't thank you enough for that.[p/] We learned a lot.,
-line:01e671a,Headmaster_Present,Theodore: Of course.[p/] I'm always willing to aid the younger generation in the pursuit of knowledge.,
-line:0bb56be,Headmaster_Present,"Tyrion: How [i]do[/i] you know Ms. Tymora, anyways?",
-line:022476f,Headmaster_Present,Theodore: Ah...[p/] That's...,
-line:02e2494,Headmaster_Present,Oh...[p/] Did she defend him in a court case?,
-line:091f42f,Headmaster_Present,"From his reaction,[p/] it must have been a hard time in his life.",
-line:021e4d7,Headmaster_Present,It'd be best not to pry further.,
+line:03d2afe,Headmaster_Present,Tyrion: Ms. Tymora mentioned that you gave us permission to use the Library.,Tyrion: 泰摩拉女士说过，是您给予我们使用图书馆的许可。
+line:030f680,Headmaster_Present,Tyrion: I can't thank you enough for that.[p/] We learned a lot.,Tyrion: 真的感激不尽。[p/]我们学到了很多东西。
+line:01e671a,Headmaster_Present,Theodore: Of course.[p/] I'm always willing to aid the younger generation in the pursuit of knowledge.,Theodore: 应该的。[p/]我一向愿意帮助你们年轻一代追求知识。
+line:0bb56be,Headmaster_Present,"Tyrion: How [i]do[/i] you know Ms. Tymora, anyways?",Tyrion:  话说回来，您是[i]怎么[/i]认识泰摩拉女士的？
+line:022476f,Headmaster_Present,Theodore: Ah...[p/] That's...,Theodore: 啊……[p/]那是因为……
+line:02e2494,Headmaster_Present,Oh...[p/] Did she defend him in a court case?,噢……[p/]她曾在法庭上为他辩护过吗？
+line:091f42f,Headmaster_Present,"From his reaction,[p/] it must have been a hard time in his life.",从他的反应来看，[p/]那一定是一段困难的经历。
+line:021e4d7,Headmaster_Present,It'd be best not to pry further.,最好不要再深究了。
 line:0a01085,Headmaster_Present,Player: Wallace,
 line:0410742,Headmaster_Present,Player: Catherine,
 line:04c328b,Headmaster_Present,Player: Jan,
-line:0bd551a,Headmaster_Present,Tyrion: Mr. Hughes doesn't seem like the most...[p/] reliable employee.,
-line:00c2daa,Headmaster_Present,"Theodore: Please don't speak of him like that. [h=""He works far more|rigorously than anyone..."" e=""s""/]",
-line:07476a0,Headmaster_Present,Tyrion: A-[p/][s/]Ah...[p/] My apologies.,
-line:0ead391,Headmaster_Present,Maybe my impression of him was wrong...,
+line:0bd551a,Headmaster_Present,Tyrion: Mr. Hughes doesn't seem like the most...[p/] reliable employee.,Tyrion: 休斯先生看起来好像不是个很……[p/]可靠的雇员。
+line:00c2daa,Headmaster_Present,"Theodore: Please don't speak of him like that. [h=""He works far more|rigorously than anyone..."" e=""s""/]","Theodore: 请别这么说他。[h=""他比任何人|工作都更严谨……"" e=""s""/]"
+line:07476a0,Headmaster_Present,Tyrion: A-[p/][s/]Ah...[p/] My apologies.,Tyrion: 啊、[p/][s/]嗯……[p/]我为此道歉。
+line:0ead391,Headmaster_Present,Maybe my impression of him was wrong...,或许我对他的印象有问题……
 line:01d3ef3,Headmaster_Present,Player: Theodore,
-line:03fbec3,Headmaster_Present,"Tyrion: How long have you been headmaster of the Imperial Academy, Mr. Redmond?",
-line:0099ad9,Headmaster_Present,Theodore: For as long as I can remember.,
-line:01ca629,Headmaster_Present,Theodore: I have dedicated my life to nurturing the knowledge and growth of young mages.,
-line:0910f72,Headmaster_Present,"Theodore: And I hope to do so for many more years. [h=""I've come this far..."" e=""afs""/]",
-line:0771018,Headmaster_Present,...His thoughts didn't match with what he was saying.,
+line:03fbec3,Headmaster_Present,"Tyrion: How long have you been headmaster of the Imperial Academy, Mr. Redmond?",Tyrion: 雷德蒙先生，您担任帝国学院的校长有多久了？
+line:0099ad9,Headmaster_Present,Theodore: For as long as I can remember.,Theodore: 从我还能记得的时候就已经是了。
+line:01ca629,Headmaster_Present,Theodore: I have dedicated my life to nurturing the knowledge and growth of young mages.,Theodore: 我将自己的一生都献给了充实知识与培养年轻法师的事业。
+line:0910f72,Headmaster_Present,"Theodore: And I hope to do so for many more years. [h=""I've come this far..."" e=""afs""/]","Theodore: 我也希望还能这样干很多年。[h=""我都撑到现在了……"" e=""afs""/]"
+line:0771018,Headmaster_Present,...His thoughts didn't match with what he was saying.,……他的想法与他说的好像并不一致。
 line:06a7fc6,Headmaster_Present,Player: Map,
-line:049e651,Headmaster_Present,Tyrion: The Imperial Academy is actually quite big when I look at it.,
-line:0039347,Headmaster_Present,"Theodore: Well, of course.[p/] We [i]are[/i] the primary source of magical education for mages throughout the kingdom.",
-line:04d4b72,Headmaster_Present,"Theodore: As you may well know,[p/] most of the mages enrolled here are of the nobility.",
-line:0144582,Headmaster_Present,Theodore: Their families have invested a lot in our facilities.,
+line:049e651,Headmaster_Present,Tyrion: The Imperial Academy is actually quite big when I look at it.,Tyrion: 我看到帝国学院其实还挺大的。
+line:0039347,Headmaster_Present,"Theodore: Well, of course.[p/] We [i]are[/i] the primary source of magical education for mages throughout the kingdom.",Theodore: 那肯定是的。[p/]我们[i]是[/i]为王国的法师们教育魔法的主要力量。
+line:04d4b72,Headmaster_Present,"Theodore: As you may well know,[p/] most of the mages enrolled here are of the nobility.",Theodore: 你可能也知道，[p/]大多数在这里就读的法师是贵族。
+line:0144582,Headmaster_Present,Theodore: Their families have invested a lot in our facilities.,Theodore: 我们的大部分设施都是由这些家族投资。
 line:0c4330a,Headmaster_Present,Player: Foul,
-line:0d1a94b,Headmaster_Present,Tyrion: Steelwind told us there was a bit of a mishap in Lecture Hall 2-B.,
-line:00438d4,Headmaster_Present,"Theodore: A-[p/]Ah,[p/] yes...",
-line:03b459c,Headmaster_Present,Theodore: I was filling in for the alchemy instructor when I accidentally misread the instructions she left.,
-line:00b1d04,Headmaster_Present,Theodore: I'm quite embarrassed to admit that my old age is catching up with me.,
-line:0ca1541,Headmaster_Present,"Tyrion: Oh, I didn't know you were the instructor for that alchemy class.",
+line:0d1a94b,Headmaster_Present,Tyrion: Steelwind told us there was a bit of a mishap in Lecture Hall 2-B.,Tyrion: 斯蒂尔文德告诉我们， 2-B 讲堂里曾出了一个小事故。
+line:00438d4,Headmaster_Present,"Theodore: A-[p/]Ah,[p/] yes...",Theodore: 呃、[p/]啊，[p/]是这样……
+line:03b459c,Headmaster_Present,Theodore: I was filling in for the alchemy instructor when I accidentally misread the instructions she left.,Theodore: 我当时正在代替炼金术讲师授课，但不小心读错了她留的说明。
+line:00b1d04,Headmaster_Present,Theodore: I'm quite embarrassed to admit that my old age is catching up with me.,Theodore: 承认我年事已高确实有些尴尬。
+line:0ca1541,Headmaster_Present,"Tyrion: Oh, I didn't know you were the instructor for that alchemy class.",Tyrion: 噢，我不知道就是您当时在教授炼金术课程。
 line:00bc7c9,Headmaster_Present,Player: Catherine Autopsy|Blood|Blood2,
-line:0f37e3f,Headmaster_Present,Theodore: It's a terrible thing that happened.,
-line:0f2db59,Headmaster_Present,Theodore: To think that someone would commit [i]murder[/i] within the academy.,
-line:0265c79,Headmaster_Present,Tyrion: Using [b]necromancy[/b] no less...,
-line:0540066,Headmaster_Present,Theodore: ...Yes.[p/] It's all a lot to take in...,
+line:0f37e3f,Headmaster_Present,Theodore: It's a terrible thing that happened.,Theodore: 发生那样的事情确实很糟糕。
+line:0f2db59,Headmaster_Present,Theodore: To think that someone would commit [i]murder[/i] within the academy.,Theodore: 没想到有人竟然在这所学院里实施[i]谋杀[/i]。
+line:0265c79,Headmaster_Present,Tyrion: Using [b]necromancy[/b] no less...,Tyrion: 而且居然还使用了[b]死灵术[/b]……
+line:0540066,Headmaster_Present,Theodore: ...Yes.[p/] It's all a lot to take in...,Theodore: ……是啊。[p/]看起来还有很多事情需要调查……
 line:0bd55d2,Headmaster_Present,Player: Back,
 line:02b9fae,Headmaster_Present,Player: Default,
-line:07e033c,Headmaster_Present,"Tyrion: What can you tell me about this, Mr. Redmond?",
-line:062da10,Headmaster_Present,Theodore: Ah...[p/] My apologies.,
-line:097f7e7,Headmaster_Present,"Theodore: I've learned a lot in my years,[p/] but I can't say much about that.",
-line:0e76cdd,Headmaster_Check,"I followed the map that Steelwind gave us,[p/] arriving at the Headmaster’s Office.",
-line:09d1954,Headmaster_Check,"Theodore: Oh?[p/] Hello, there.",
-line:0cbb361,Headmaster_Check,Theodore: I wasn’t expecting guests today.,
-line:0a3f8cb,Headmaster_Check,"An elderly man rose to greet us,[p/] his hand trembling as he walked towards us with the support of his cane.",
-line:0365ee4,Headmaster_Check,"His face was wrinkled,[p/] but his eyes were sharp.[p/] His expression held the wisdom of a life long-lived.",
-line:0bcab2a,Headmaster_Check,I recognized his voice.[p/] He was the one who made those announcements during the lockdown.,
-line:02e70f8,Headmaster_Check,TYRION: Sorry for coming unannounced.,
-line:0206bb8,Headmaster_Check,TYRION: You must be—,
-line:02c50e0,Headmaster_Check,THEODORE: My name is Theodore Redmond.[p/] I'm the headmaster of the Wyverngarde Imperial Academy.,
-line:0cbd05c,Headmaster_Check,THEODORE: And judging from [i]your[/i] appearance...[p/] You must be the protégé of Ruby Tymora.,
-line:060f727,Headmaster_Check,THEODORE: To what do I owe the pleasure?,
-line:0d53db9,Headmaster_Check,ERIS: They must be here to investigate the murder.,
-line:0dcea42,Headmaster_Check,TYRION: Wait...[p/] Eris?,
-line:0d2ab38,Headmaster_Check,Tyrion: I thought you went to see Wallace.,
-line:0e7102e,Headmaster_Check,"ERIS: Unfortunately,[p/] the Inquisition is questioning him right now.",
-line:01ad3d3,Headmaster_Check,ERIS: They aren't allowing visitors.,
-line:06e0b4c,Headmaster_Check,CELESTE: He must be so scared right now...,
-line:00e01ec,Headmaster_Check,CELESTE: I hope he’s okay.,
-line:069f189,Headmaster_Check,Right...[p/] She had the same experience not too long ago.,
-line:0c04ae3,Headmaster_Check,"THEODORE: I can't believe this is happening... [h=""Why in the Lord's name|did they arrest Wallace?"" e=""afs""/]",
-line:01dac03,Start,Valerie: ...How are we going to get all of this out on time?,
-line:064cae9,Start,The myriad of empty plates laid around the kitchen filled Valerie with dread.,
-line:035ea3d,Start,"It was almost time for breakfast,[p/] and soon the students would be upon them.",
-line:0821d4a,Start,Valentina quickly passed by her sister as she snatched a tray off the counter.,
-line:0b18d51,Start,"She was jumping between multiple stations,[p/] but even then,[p/] each movement she made was quick and purposeful.",
-line:018af6b,Start,The kitchen was a machine.[p/] Valentina just had to turn each gear singlehandedly.,
-line:0819b47,Start,"But in her hands,[p/] it ran like clockwork...[p/] Most of the time.",
-line:0c47717,Start,"Valentina: Val,[p/] are you finished plating the smoked salmon?",
-line:0c93e8c,Start,Valerie: R-[p/][s/]Right![p/] Sorry...,
-line:08268f0,Start,Valerie stared at the excess assortment of food they had prepared for the noble children.,
-line:0ddfb2a,Start,She grimly remembered the years she and her sister spent starving in an orphanage.,
-line:09ea2ed,Start,Valerie: ...Are they even going to eat all of this?,
-line:02e3561,Start,Valentina: They won't.[p/] They’ll taste a few of them and throw the rest out.,
-line:0df1830,Start,Valentina: It still has to be perfect when it hits the cafeteria.,
-line:08312e8,Start,Valerie: Okay...,
-line:0acccfd,Start,"Valerie watched as her sister lifted each of the croissant slices,[p/] measuring their width against her index finger.",
+line:07e033c,Headmaster_Present,"Tyrion: What can you tell me about this, Mr. Redmond?",Tyrion: 关于这个您有什么想法吗，雷德蒙先生？
+line:062da10,Headmaster_Present,Theodore: Ah...[p/] My apologies.,Theodore: 啊……[p/]很抱歉。
+line:097f7e7,Headmaster_Present,"Theodore: I've learned a lot in my years,[p/] but I can't say much about that.",Theodore: 我曾经研究过很多东西，[p/]但关于这个我没什么好说的。
+line:0e76cdd,Headmaster_Check,"I followed the map that Steelwind gave us,[p/] arriving at the Headmaster’s Office.",我跟随着斯蒂尔文德给我们的地图，[p]抵达了校长室。
+line:09d1954,Headmaster_Check,"Theodore: Oh?[p/] Hello, there.",Theodore: 噢？[p/]你好，请进来吧。
+line:0cbb361,Headmaster_Check,Theodore: I wasn’t expecting guests today.,Theodore: 我没想到今天会有客人。
+line:0a3f8cb,Headmaster_Check,"An elderly man rose to greet us,[p/] his hand trembling as he walked towards us with the support of his cane.",一位老人起身向我们问候，[p/]他拄着拐杖向我们走来，手微微颤抖。
+line:0365ee4,Headmaster_Check,"His face was wrinkled,[p/] but his eyes were sharp.[p/] His expression held the wisdom of a life long-lived.",他的面容遍布皱纹，[p/]但眼神依旧犀利。[p/]他的神情正承载着那种长寿之人积累一生的智慧。
+line:0bcab2a,Headmaster_Check,I recognized his voice.[p/] He was the one who made those announcements during the lockdown.,我认出了他的声音。[p/]他就是封锁期间向大家讲话的那个人。
+line:02e70f8,Headmaster_Check,TYRION: Sorry for coming unannounced.,TYRION: 抱歉没提前告诉您就来了。
+line:0206bb8,Headmaster_Check,TYRION: You must be—,TYRION: 您一定是——
+line:02c50e0,Headmaster_Check,THEODORE: My name is Theodore Redmond.[p/] I'm the headmaster of the Wyverngarde Imperial Academy.,THEODORE: 我是西奥多·雷德蒙。[p/]是维文加德帝国学院的校长。
+line:0cbd05c,Headmaster_Check,THEODORE: And judging from [i]your[/i] appearance...[p/] You must be the protégé of Ruby Tymora.,THEODORE: 从[i]你的[/i]外观来看……[p/]你一定是鲁比·泰摩拉的那位徒弟。
+line:060f727,Headmaster_Check,THEODORE: To what do I owe the pleasure?,THEODORE: 有何贵干呢？
+line:0d53db9,Headmaster_Check,ERIS: They must be here to investigate the murder.,ERIS: 他们一定是来这里调查谋杀案的。
+line:0dcea42,Headmaster_Check,TYRION: Wait...[p/] Eris?,TYRION: 等等……[p/]厄莉斯？
+line:0d2ab38,Headmaster_Check,Tyrion: I thought you went to see Wallace.,Tyrion: 我以为你去探视华莱士了。
+line:0e7102e,Headmaster_Check,"ERIS: Unfortunately,[p/] the Inquisition is questioning him right now.",ERIS: 很不巧，[p/]裁判所的人正好在问他话。
+line:01ad3d3,Headmaster_Check,ERIS: They aren't allowing visitors.,ERIS: 他们不允许探视。
+line:06e0b4c,Headmaster_Check,CELESTE: He must be so scared right now...,CELESTE: 他现在一定很害怕……
+line:00e01ec,Headmaster_Check,CELESTE: I hope he’s okay.,CELESTE: 希望他还好。
+line:069f189,Headmaster_Check,Right...[p/] She had the same experience not too long ago.,是啊……[p/]塞莱斯特在不久之前也有类似的经历。
+line:0c04ae3,Headmaster_Check,"THEODORE: I can't believe this is happening... [h=""Why in the Lord's name|did they arrest Wallace?"" e=""afs""/]","THEODORE: 竟然发生了这种事情，真不敢相信…… [h=""我的主啊……|他们逮捕了华莱士？"" e=""afs""/]"
+line:01dac03,Start,Valerie: ...How are we going to get all of this out on time?,Valerie: ……我们什么时候能把这一堆搞定啊？
+line:064cae9,Start,The myriad of empty plates laid around the kitchen filled Valerie with dread.,厨房里四处堆积如山的空盘子让瓦莱丽焦虑无比。
+line:035ea3d,Start,"It was almost time for breakfast,[p/] and soon the students would be upon them.",马上就到早餐时间了，[p/]很快学生们会来到她们面前。
+line:0821d4a,Start,Valentina quickly passed by her sister as she snatched a tray off the counter.,瓦伦蒂娜从柜台抽出一个托盘，从她妹妹身旁匆匆经过。
+line:0b18d51,Start,"She was jumping between multiple stations,[p/] but even then,[p/] each movement she made was quick and purposeful.",她在几个餐台之间来回穿梭，[p/]但即使如此，[p/]她的每个动作都迅捷而目的明确。
+line:018af6b,Start,The kitchen was a machine.[p/] Valentina just had to turn each gear singlehandedly.,餐厅就像一台复杂的机械，[p/]而瓦伦蒂娜不得不独自转动每一个齿轮。
+line:0819b47,Start,"But in her hands,[p/] it ran like clockwork...[p/] Most of the time.",可在她的手上，[p/]餐厅宛如钟表般精密运行……[p/]绝大多数时候是这样。
+line:0c47717,Start,"Valentina: Val,[p/] are you finished plating the smoked salmon?",Valentina: 瓦尔，[p/]你把熏三文鱼块都装盘了吗？
+line:0c93e8c,Start,Valerie: R-[p/][s/]Right![p/] Sorry...,Valerie: 啊、[p/][s/]是！[p/]对不起……
+line:08268f0,Start,Valerie stared at the excess assortment of food they had prepared for the noble children.,瓦莱丽盯着她们为贵族小孩们准备的琳琅满目、有些过剩的食物。
+line:0ddfb2a,Start,She grimly remembered the years she and her sister spent starving in an orphanage.,她痛苦地回忆起过去她们姐妹在孤儿院忍饥挨饿的岁月。
+line:09ea2ed,Start,Valerie: ...Are they even going to eat all of this?,Valerie: ……他们真会把这些都吃完吗？
+line:02e3561,Start,Valentina: They won't.[p/] They’ll taste a few of them and throw the rest out.,Valentina: 才不会。[p/]他们只会尝几口试味，然后把剩下的扔掉。
+line:0df1830,Start,Valentina: It still has to be perfect when it hits the cafeteria.,Valentina: 但只要摆上餐桌，它们就必须完美。
+line:08312e8,Start,Valerie: Okay...,Valerie: 好吧……
+line:0acccfd,Start,"Valerie watched as her sister lifted each of the croissant slices,[p/] measuring their width against her index finger.",瓦莱丽看着姐姐拿起每一块牛角面包，[p/]用食指比划它们的尺寸。
 line:037dfe6,Start,Valentina: These slices are too thick.[p/] It's going to overpower the salmon.,
 line:0a952a6,Start,Valerie: ...Does that really matter?[p/] I thought they really liked your croissants.,
 line:0dde69e,Start,"Valentina: Trust me.[p/] If the ratio's off,[p/] they [i]will[/i] make sure we know.",

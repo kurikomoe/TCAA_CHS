@@ -14078,7 +14078,7 @@
   {
     "key": "C2 Dialogue.csv::translation::3d5a15b5df46b1a4",
     "original": "Miriam: It is an ancient family heirloom,[p/] wielded by Beatrice the first:[p/] one of the first heroes of Wyverngarde.",
-    "translation": "Miriam: 那是我家从上古时期代代相传的传家宝，[p/]曾是维文加德几位开过英雄之一——比阿特丽斯一世的佩剑。",
+    "translation": "Miriam: 那是我家从上古时期代代相传的传家宝，[p/]曾是维文加德几位开过英雄之一——比亚特丽丝一世的佩剑。",
     "context": "{\n  \"id\": \"line:019ec38\",\n  \"node\": \"Dorm_Present\",\n  \"text\": \"Miriam: It is an ancient family heirloom,[p/] wielded by Beatrice the first:[p/] one of the first heroes of Wyverngarde.\"\n}"
   },
   {
@@ -18560,55 +18560,55 @@
   {
     "key": "C2 Dialogue.csv::translation::b8ed5e9012166b27",
     "original": "Celeste: Ugh...[p/] She [i]would[/i] be one of those students.",
-    "translation": "",
+    "translation": "Celeste: 唔……[p/]她[i]本可以[/i]像那些贵族学生一样的。",
     "context": "{\n  \"id\": \"line:017e5ec\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Celeste: Ugh...[p/] She [i]would[/i] be one of those students.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a6d9c11e4827991b",
     "original": "Theodore: [i]*sigh*[/i][p/] I [i]do[/i] miss those days. [h=\"She was working so hard|to escape from Beatrice's shadow.\" e=\"sa\" /]",
-    "translation": "",
+    "translation": "Theodore: [i]*叹气*[/i][p/]我[i]真的[/i]怀念那些时光。[h=\"她那时如此努力|也是为了逃离比亚特丽丝的阴影吧。\" e=\"sa\" /]",
     "context": "{\n  \"id\": \"line:0614de6\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: [i]*sigh*[/i][p/] I [i]do[/i] miss those days. [h=\\\"She was working so hard|to escape from Beatrice's shadow.\\\" e=\\\"sa\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::90f914c91c73797f",
     "original": "Theodore: Did you know?[p/] Eris is one of our top students in the study of [i]illusion[/i] magic.",
-    "translation": "",
+    "translation": "Theodore: 你们知道吗？[p/]在我们这里，厄莉斯可是[i]幻象术[/i]方面最顶尖的学生之一。",
     "context": "{\n  \"id\": \"line:03121cb\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Did you know?[p/] Eris is one of our top students in the study of [i]illusion[/i] magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cb2488f90c176f08",
     "original": "Eris: Thank you, headmaster.[p/] I appreciate your praise.",
-    "translation": "",
+    "translation": "Eris: 谢谢您，校长。[p/]感谢您的夸赞。",
     "context": "{\n  \"id\": \"line:0194489\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Eris: Thank you, headmaster.[p/] I appreciate your praise.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::41e02c7415144735",
     "original": "Tyrion: Why [i]do[/i] you study illusion magic, Eris?",
-    "translation": "",
+    "translation": "Tyrion: 厄莉斯，你[i]为什么[/i]学习幻象术？",
     "context": "{\n  \"id\": \"line:03daaab\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: Why [i]do[/i] you study illusion magic, Eris?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ed0bb3c52ce57fe3",
     "original": "Eris: Oh,[p/] no particular reason.",
-    "translation": "",
+    "translation": "Eris: 噢，[p/]没什么特别的原因。",
     "context": "{\n  \"id\": \"line:06c0fa3\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Eris: Oh,[p/] no particular reason.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c48fbfb5f68092b0",
     "original": "Eris: I just happened to have an affinity for it.",
-    "translation": "",
+    "translation": "Eris: 我只是凑巧喜欢它。",
     "context": "{\n  \"id\": \"line:0d56b35\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Eris: I just happened to have an affinity for it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::07a061da5dc8241d",
     "original": "Eris: It's also quite enjoyable to use my magic to deceive people.",
-    "translation": "",
+    "translation": "Eris: 用我的魔法欺骗别人也挺好玩的。",
     "context": "{\n  \"id\": \"line:07d9d51\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Eris: It's also quite enjoyable to use my magic to deceive people.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb5a4fa4982b124b",
     "original": "Hm...[p/] I guess she [i]did[/i] enjoy startling me.",
-    "translation": "",
+    "translation": "嗯……[p/]我猜她[i]确实[/i]喜欢让我受到惊吓。",
     "context": "{\n  \"id\": \"line:0664d2b\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Hm...[p/] I guess she [i]did[/i] enjoy startling me.\"\n}"
   },
   {
@@ -18620,103 +18620,103 @@
   {
     "key": "C2 Dialogue.csv::translation::9590bbdc887fe329",
     "original": "Tyrion: Ms. Tymora mentioned that you gave us permission to use the Library.",
-    "translation": "",
+    "translation": "Tyrion: 泰摩拉女士说过，是您给予我们使用图书馆的许可。",
     "context": "{\n  \"id\": \"line:03d2afe\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: Ms. Tymora mentioned that you gave us permission to use the Library.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e8ee9cdbda9ee9f",
     "original": "Tyrion: I can't thank you enough for that.[p/] We learned a lot.",
-    "translation": "",
+    "translation": "Tyrion: 真的感激不尽。[p/]我们学到了很多东西。",
     "context": "{\n  \"id\": \"line:030f680\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: I can't thank you enough for that.[p/] We learned a lot.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c747149079ffe51a",
     "original": "Theodore: Of course.[p/] I'm always willing to aid the younger generation in the pursuit of knowledge.",
-    "translation": "",
+    "translation": "Theodore: 应该的。[p/]我一向愿意帮助你们年轻一代追求知识。",
     "context": "{\n  \"id\": \"line:01e671a\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Of course.[p/] I'm always willing to aid the younger generation in the pursuit of knowledge.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f3274a94216c9058",
     "original": "Tyrion: How [i]do[/i] you know Ms. Tymora, anyways?",
-    "translation": "",
+    "translation": "Tyrion:  话说回来，您是[i]怎么[/i]认识泰摩拉女士的？",
     "context": "{\n  \"id\": \"line:0bb56be\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: How [i]do[/i] you know Ms. Tymora, anyways?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::63a9a57739fb14d8",
     "original": "Theodore: Ah...[p/] That's...",
-    "translation": "",
+    "translation": "Theodore: 啊……[p/]那是因为……",
     "context": "{\n  \"id\": \"line:022476f\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Ah...[p/] That's...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34f72d3cad7a0e1d",
     "original": "Oh...[p/] Did she defend him in a court case?",
-    "translation": "",
+    "translation": "噢……[p/]她曾在法庭上为他辩护过吗？",
     "context": "{\n  \"id\": \"line:02e2494\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Oh...[p/] Did she defend him in a court case?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::90b70575ce4e0a7b",
     "original": "From his reaction,[p/] it must have been a hard time in his life.",
-    "translation": "",
+    "translation": "从他的反应来看，[p/]那一定是一段困难的经历。",
     "context": "{\n  \"id\": \"line:091f42f\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"From his reaction,[p/] it must have been a hard time in his life.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3997e809a2dd6ba2",
     "original": "It'd be best not to pry further.",
-    "translation": "",
+    "translation": "最好不要再深究了。",
     "context": "{\n  \"id\": \"line:021e4d7\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"It'd be best not to pry further.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5c717066f617c2ba",
     "original": "Tyrion: Mr. Hughes doesn't seem like the most...[p/] reliable employee.",
-    "translation": "",
+    "translation": "Tyrion: 休斯先生看起来好像不是个很……[p/]可靠的雇员。",
     "context": "{\n  \"id\": \"line:0bd551a\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: Mr. Hughes doesn't seem like the most...[p/] reliable employee.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0bb922499d3270dc",
     "original": "Theodore: Please don't speak of him like that. [h=\"He works far more|rigorously than anyone...\" e=\"s\"/]",
-    "translation": "",
+    "translation": "Theodore: 请别这么说他。[h=\"他比任何人|工作都更严谨……\" e=\"s\"/]",
     "context": "{\n  \"id\": \"line:00c2daa\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Please don't speak of him like that. [h=\\\"He works far more|rigorously than anyone...\\\" e=\\\"s\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::10bdbf5672ffb4b3",
     "original": "Tyrion: A-[p/][s/]Ah...[p/] My apologies.",
-    "translation": "",
+    "translation": "Tyrion: 啊、[p/][s/]嗯……[p/]我为此道歉。",
     "context": "{\n  \"id\": \"line:07476a0\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: A-[p/][s/]Ah...[p/] My apologies.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e1a6e119f977d66b",
     "original": "Maybe my impression of him was wrong...",
-    "translation": "",
+    "translation": "或许我对他的印象有问题……",
     "context": "{\n  \"id\": \"line:0ead391\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Maybe my impression of him was wrong...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8bb257daa0f208d",
     "original": "Tyrion: How long have you been headmaster of the Imperial Academy, Mr. Redmond?",
-    "translation": "",
+    "translation": "Tyrion: 雷德蒙先生，您担任帝国学院的校长有多久了？",
     "context": "{\n  \"id\": \"line:03fbec3\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: How long have you been headmaster of the Imperial Academy, Mr. Redmond?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e0c2d13b065d2ebc",
     "original": "Theodore: For as long as I can remember.",
-    "translation": "",
+    "translation": "Theodore: 从我还能记得的时候就已经是了。",
     "context": "{\n  \"id\": \"line:0099ad9\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: For as long as I can remember.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2e3bbb6c8478406d",
     "original": "Theodore: I have dedicated my life to nurturing the knowledge and growth of young mages.",
-    "translation": "",
+    "translation": "Theodore: 我将自己的一生都献给了充实知识与培养年轻法师的事业。",
     "context": "{\n  \"id\": \"line:01ca629\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: I have dedicated my life to nurturing the knowledge and growth of young mages.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::24809189243b5f98",
     "original": "Theodore: And I hope to do so for many more years. [h=\"I've come this far...\" e=\"afs\"/]",
-    "translation": "",
+    "translation": "Theodore: 我也希望还能这样干很多年。[h=\"我都撑到现在了……\" e=\"afs\"/]",
     "context": "{\n  \"id\": \"line:0910f72\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: And I hope to do so for many more years. [h=\\\"I've come this far...\\\" e=\\\"afs\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0f71c968bd5bd560",
     "original": "...His thoughts didn't match with what he was saying.",
-    "translation": "",
+    "translation": "……他的想法与他说的好像并不一致。",
     "context": "{\n  \"id\": \"line:0771018\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"...His thoughts didn't match with what he was saying.\"\n}"
   },
   {
@@ -18728,55 +18728,55 @@
   {
     "key": "C2 Dialogue.csv::translation::a35a6d92139cb570",
     "original": "Tyrion: The Imperial Academy is actually quite big when I look at it.",
-    "translation": "",
+    "translation": "Tyrion: 我看到帝国学院其实还挺大的。",
     "context": "{\n  \"id\": \"line:049e651\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: The Imperial Academy is actually quite big when I look at it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2cfed64cc8db13b9",
     "original": "Theodore: Well, of course.[p/] We [i]are[/i] the primary source of magical education for mages throughout the kingdom.",
-    "translation": "",
+    "translation": "Theodore: 那肯定是的。[p/]我们[i]是[/i]为王国的法师们教育魔法的主要力量。",
     "context": "{\n  \"id\": \"line:0039347\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Well, of course.[p/] We [i]are[/i] the primary source of magical education for mages throughout the kingdom.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0b7cae56ebf9bd48",
     "original": "Theodore: As you may well know,[p/] most of the mages enrolled here are of the nobility.",
-    "translation": "",
+    "translation": "Theodore: 你可能也知道，[p/]大多数在这里就读的法师是贵族。",
     "context": "{\n  \"id\": \"line:04d4b72\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: As you may well know,[p/] most of the mages enrolled here are of the nobility.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7f8222e6e2717bcc",
     "original": "Theodore: Their families have invested a lot in our facilities.",
-    "translation": "",
+    "translation": "Theodore: 我们的大部分设施都是由这些家族投资。",
     "context": "{\n  \"id\": \"line:0144582\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Their families have invested a lot in our facilities.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2610a8158541f439",
     "original": "Tyrion: Steelwind told us there was a bit of a mishap in Lecture Hall 2-B.",
-    "translation": "",
+    "translation": "Tyrion: 斯蒂尔文德告诉我们， 2-B 讲堂里曾出了一个小事故。",
     "context": "{\n  \"id\": \"line:0d1a94b\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: Steelwind told us there was a bit of a mishap in Lecture Hall 2-B.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e2e26e1bc1106050",
     "original": "Theodore: A-[p/]Ah,[p/] yes...",
-    "translation": "",
+    "translation": "Theodore: 呃、[p/]啊，[p/]是这样……",
     "context": "{\n  \"id\": \"line:00438d4\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: A-[p/]Ah,[p/] yes...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fc48f98d76c6298c",
     "original": "Theodore: I was filling in for the alchemy instructor when I accidentally misread the instructions she left.",
-    "translation": "",
+    "translation": "Theodore: 我当时正在代替炼金术讲师授课，但不小心读错了她留的说明。",
     "context": "{\n  \"id\": \"line:03b459c\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: I was filling in for the alchemy instructor when I accidentally misread the instructions she left.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cb4de1fdb7fbaa54",
     "original": "Theodore: I'm quite embarrassed to admit that my old age is catching up with me.",
-    "translation": "",
+    "translation": "Theodore: 承认我年事已高确实有些尴尬。",
     "context": "{\n  \"id\": \"line:00b1d04\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: I'm quite embarrassed to admit that my old age is catching up with me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ca435dc326c768f3",
     "original": "Tyrion: Oh, I didn't know you were the instructor for that alchemy class.",
-    "translation": "",
+    "translation": "Tyrion: 噢，我不知道就是您当时在教授炼金术课程。",
     "context": "{\n  \"id\": \"line:0ca1541\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: Oh, I didn't know you were the instructor for that alchemy class.\"\n}"
   },
   {
@@ -18788,259 +18788,259 @@
   {
     "key": "C2 Dialogue.csv::translation::e9d71c963c964768",
     "original": "Theodore: It's a terrible thing that happened.",
-    "translation": "",
+    "translation": "Theodore: 发生那样的事情确实很糟糕。",
     "context": "{\n  \"id\": \"line:0f37e3f\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: It's a terrible thing that happened.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::115dfb105be5b9ef",
     "original": "Theodore: To think that someone would commit [i]murder[/i] within the academy.",
-    "translation": "",
+    "translation": "Theodore: 没想到有人竟然在这所学院里实施[i]谋杀[/i]。",
     "context": "{\n  \"id\": \"line:0f2db59\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: To think that someone would commit [i]murder[/i] within the academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1da8ef1c5302de6c",
     "original": "Tyrion: Using [b]necromancy[/b] no less...",
-    "translation": "",
+    "translation": "Tyrion: 而且居然还使用了[b]死灵术[/b]……",
     "context": "{\n  \"id\": \"line:0265c79\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: Using [b]necromancy[/b] no less...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::395d8494f7795afd",
     "original": "Theodore: ...Yes.[p/] It's all a lot to take in...",
-    "translation": "",
+    "translation": "Theodore: ……是啊。[p/]看起来还有很多事情需要调查……",
     "context": "{\n  \"id\": \"line:0540066\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: ...Yes.[p/] It's all a lot to take in...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e5369bd6ef81e48",
     "original": "Tyrion: What can you tell me about this, Mr. Redmond?",
-    "translation": "",
+    "translation": "Tyrion: 关于这个您有什么想法吗，雷德蒙先生？",
     "context": "{\n  \"id\": \"line:07e033c\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Tyrion: What can you tell me about this, Mr. Redmond?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::88e3332365b8ad71",
     "original": "Theodore: Ah...[p/] My apologies.",
-    "translation": "",
+    "translation": "Theodore: 啊……[p/]很抱歉。",
     "context": "{\n  \"id\": \"line:062da10\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: Ah...[p/] My apologies.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f538a99a624acf26",
     "original": "Theodore: I've learned a lot in my years,[p/] but I can't say much about that.",
-    "translation": "",
+    "translation": "Theodore: 我曾经研究过很多东西，[p/]但关于这个我没什么好说的。",
     "context": "{\n  \"id\": \"line:097f7e7\",\n  \"node\": \"Headmaster_Present\",\n  \"text\": \"Theodore: I've learned a lot in my years,[p/] but I can't say much about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dcc6fdc36175be4f",
     "original": "I followed the map that Steelwind gave us,[p/] arriving at the Headmaster’s Office.",
-    "translation": "",
+    "translation": "我跟随着斯蒂尔文德给我们的地图，[p]抵达了校长室。",
     "context": "{\n  \"id\": \"line:0e76cdd\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"I followed the map that Steelwind gave us,[p/] arriving at the Headmaster’s Office.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ba22d944d8b4aa9d",
     "original": "Theodore: Oh?[p/] Hello, there.",
-    "translation": "",
+    "translation": "Theodore: 噢？[p/]你好，请进来吧。",
     "context": "{\n  \"id\": \"line:09d1954\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"Theodore: Oh?[p/] Hello, there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5ac16e91ad5b27ea",
     "original": "Theodore: I wasn’t expecting guests today.",
-    "translation": "",
+    "translation": "Theodore: 我没想到今天会有客人。",
     "context": "{\n  \"id\": \"line:0cbb361\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"Theodore: I wasn’t expecting guests today.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5d32bc1ee2ca0c36",
     "original": "An elderly man rose to greet us,[p/] his hand trembling as he walked towards us with the support of his cane.",
-    "translation": "",
+    "translation": "一位老人起身向我们问候，[p/]他拄着拐杖向我们走来，手微微颤抖。",
     "context": "{\n  \"id\": \"line:0a3f8cb\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"An elderly man rose to greet us,[p/] his hand trembling as he walked towards us with the support of his cane.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cca29aa0d0c36f78",
     "original": "His face was wrinkled,[p/] but his eyes were sharp.[p/] His expression held the wisdom of a life long-lived.",
-    "translation": "",
+    "translation": "他的面容遍布皱纹，[p/]但眼神依旧犀利。[p/]他的神情正承载着那种长寿之人积累一生的智慧。",
     "context": "{\n  \"id\": \"line:0365ee4\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"His face was wrinkled,[p/] but his eyes were sharp.[p/] His expression held the wisdom of a life long-lived.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::549ba5ea346b6132",
     "original": "I recognized his voice.[p/] He was the one who made those announcements during the lockdown.",
-    "translation": "",
+    "translation": "我认出了他的声音。[p/]他就是封锁期间向大家讲话的那个人。",
     "context": "{\n  \"id\": \"line:0bcab2a\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"I recognized his voice.[p/] He was the one who made those announcements during the lockdown.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6615ea6b48732305",
     "original": "TYRION: Sorry for coming unannounced.",
-    "translation": "",
+    "translation": "TYRION: 抱歉没提前告诉您就来了。",
     "context": "{\n  \"id\": \"line:02e70f8\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"TYRION: Sorry for coming unannounced.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6a6c6ef3443b7bc3",
     "original": "TYRION: You must be—",
-    "translation": "",
+    "translation": "TYRION: 您一定是——",
     "context": "{\n  \"id\": \"line:0206bb8\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"TYRION: You must be—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9a9e1851eb64b199",
     "original": "THEODORE: My name is Theodore Redmond.[p/] I'm the headmaster of the Wyverngarde Imperial Academy.",
-    "translation": "",
+    "translation": "THEODORE: 我是西奥多·雷德蒙。[p/]是维文加德帝国学院的校长。",
     "context": "{\n  \"id\": \"line:02c50e0\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"THEODORE: My name is Theodore Redmond.[p/] I'm the headmaster of the Wyverngarde Imperial Academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1cc5da4bbaac6165",
     "original": "THEODORE: And judging from [i]your[/i] appearance...[p/] You must be the protégé of Ruby Tymora.",
-    "translation": "",
+    "translation": "THEODORE: 从[i]你的[/i]外观来看……[p/]你一定是鲁比·泰摩拉的那位徒弟。",
     "context": "{\n  \"id\": \"line:0cbd05c\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"THEODORE: And judging from [i]your[/i] appearance...[p/] You must be the protégé of Ruby Tymora.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::823e0953302abdf3",
     "original": "THEODORE: To what do I owe the pleasure?",
-    "translation": "",
+    "translation": "THEODORE: 有何贵干呢？",
     "context": "{\n  \"id\": \"line:060f727\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"THEODORE: To what do I owe the pleasure?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7bc78ff8dccdba5b",
     "original": "ERIS: They must be here to investigate the murder.",
-    "translation": "",
+    "translation": "ERIS: 他们一定是来这里调查谋杀案的。",
     "context": "{\n  \"id\": \"line:0d53db9\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"ERIS: They must be here to investigate the murder.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::daddd99e49b19258",
     "original": "TYRION: Wait...[p/] Eris?",
-    "translation": "",
+    "translation": "TYRION: 等等……[p/]厄莉斯？",
     "context": "{\n  \"id\": \"line:0dcea42\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"TYRION: Wait...[p/] Eris?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a4cc69e78824b5ce",
     "original": "Tyrion: I thought you went to see Wallace.",
-    "translation": "",
+    "translation": "Tyrion: 我以为你去探视华莱士了。",
     "context": "{\n  \"id\": \"line:0d2ab38\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"Tyrion: I thought you went to see Wallace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1efb651f6e20161f",
     "original": "ERIS: Unfortunately,[p/] the Inquisition is questioning him right now.",
-    "translation": "",
+    "translation": "ERIS: 很不巧，[p/]裁判所的人正好在问他话。",
     "context": "{\n  \"id\": \"line:0e7102e\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"ERIS: Unfortunately,[p/] the Inquisition is questioning him right now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5da3c548ef3bb377",
     "original": "ERIS: They aren't allowing visitors.",
-    "translation": "",
+    "translation": "ERIS: 他们不允许探视。",
     "context": "{\n  \"id\": \"line:01ad3d3\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"ERIS: They aren't allowing visitors.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e78468a2ac6f662a",
     "original": "CELESTE: He must be so scared right now...",
-    "translation": "",
+    "translation": "CELESTE: 他现在一定很害怕……",
     "context": "{\n  \"id\": \"line:06e0b4c\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"CELESTE: He must be so scared right now...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1a93cb7994f0a65a",
     "original": "CELESTE: I hope he’s okay.",
-    "translation": "",
+    "translation": "CELESTE: 希望他还好。",
     "context": "{\n  \"id\": \"line:00e01ec\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"CELESTE: I hope he’s okay.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::13a9fa3ae4247920",
     "original": "Right...[p/] She had the same experience not too long ago.",
-    "translation": "",
+    "translation": "是啊……[p/]塞莱斯特在不久之前也有类似的经历。",
     "context": "{\n  \"id\": \"line:069f189\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"Right...[p/] She had the same experience not too long ago.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e73160e25a2007ba",
     "original": "THEODORE: I can't believe this is happening... [h=\"Why in the Lord's name|did they arrest Wallace?\" e=\"afs\"/]",
-    "translation": "",
+    "translation": "THEODORE: 竟然发生了这种事情，真不敢相信…… [h=\"我的主啊……|他们逮捕了华莱士？\" e=\"afs\"/]",
     "context": "{\n  \"id\": \"line:0c04ae3\",\n  \"node\": \"Headmaster_Check\",\n  \"text\": \"THEODORE: I can't believe this is happening... [h=\\\"Why in the Lord's name|did they arrest Wallace?\\\" e=\\\"afs\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b54eb1673f0aa91c",
     "original": "Valerie: ...How are we going to get all of this out on time?",
-    "translation": "",
+    "translation": "Valerie: ……我们什么时候能把这一堆搞定啊？",
     "context": "{\n  \"id\": \"line:01dac03\",\n  \"node\": \"Start\",\n  \"text\": \"Valerie: ...How are we going to get all of this out on time?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::88041c959ba09571",
     "original": "The myriad of empty plates laid around the kitchen filled Valerie with dread.",
-    "translation": "",
+    "translation": "厨房里四处堆积如山的空盘子让瓦莱丽焦虑无比。",
     "context": "{\n  \"id\": \"line:064cae9\",\n  \"node\": \"Start\",\n  \"text\": \"The myriad of empty plates laid around the kitchen filled Valerie with dread.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fa37fb15a15b90d5",
     "original": "It was almost time for breakfast,[p/] and soon the students would be upon them.",
-    "translation": "",
+    "translation": "马上就到早餐时间了，[p/]很快学生们会来到她们面前。",
     "context": "{\n  \"id\": \"line:035ea3d\",\n  \"node\": \"Start\",\n  \"text\": \"It was almost time for breakfast,[p/] and soon the students would be upon them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dd69fdf40a81e1dc",
     "original": "Valentina quickly passed by her sister as she snatched a tray off the counter.",
-    "translation": "",
+    "translation": "瓦伦蒂娜从柜台抽出一个托盘，从她妹妹身旁匆匆经过。",
     "context": "{\n  \"id\": \"line:0821d4a\",\n  \"node\": \"Start\",\n  \"text\": \"Valentina quickly passed by her sister as she snatched a tray off the counter.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f025a99564f90a16",
     "original": "She was jumping between multiple stations,[p/] but even then,[p/] each movement she made was quick and purposeful.",
-    "translation": "",
+    "translation": "她在几个餐台之间来回穿梭，[p/]但即使如此，[p/]她的每个动作都迅捷而目的明确。",
     "context": "{\n  \"id\": \"line:0b18d51\",\n  \"node\": \"Start\",\n  \"text\": \"She was jumping between multiple stations,[p/] but even then,[p/] each movement she made was quick and purposeful.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2de2939a56711a2c",
     "original": "The kitchen was a machine.[p/] Valentina just had to turn each gear singlehandedly.",
-    "translation": "",
+    "translation": "餐厅就像一台复杂的机械，[p/]而瓦伦蒂娜不得不独自转动每一个齿轮。",
     "context": "{\n  \"id\": \"line:018af6b\",\n  \"node\": \"Start\",\n  \"text\": \"The kitchen was a machine.[p/] Valentina just had to turn each gear singlehandedly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::efc039d7104362b4",
     "original": "But in her hands,[p/] it ran like clockwork...[p/] Most of the time.",
-    "translation": "",
+    "translation": "可在她的手上，[p/]餐厅宛如钟表般精密运行……[p/]绝大多数时候是这样。",
     "context": "{\n  \"id\": \"line:0819b47\",\n  \"node\": \"Start\",\n  \"text\": \"But in her hands,[p/] it ran like clockwork...[p/] Most of the time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0ae500fcadf18453",
     "original": "Valentina: Val,[p/] are you finished plating the smoked salmon?",
-    "translation": "",
+    "translation": "Valentina: 瓦尔，[p/]你把熏三文鱼块都装盘了吗？",
     "context": "{\n  \"id\": \"line:0c47717\",\n  \"node\": \"Start\",\n  \"text\": \"Valentina: Val,[p/] are you finished plating the smoked salmon?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5e199ee60d7ec083",
     "original": "Valerie: R-[p/][s/]Right![p/] Sorry...",
-    "translation": "",
+    "translation": "Valerie: 啊、[p/][s/]是！[p/]对不起……",
     "context": "{\n  \"id\": \"line:0c93e8c\",\n  \"node\": \"Start\",\n  \"text\": \"Valerie: R-[p/][s/]Right![p/] Sorry...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fc4df10731d67c30",
     "original": "Valerie stared at the excess assortment of food they had prepared for the noble children.",
-    "translation": "",
+    "translation": "瓦莱丽盯着她们为贵族小孩们准备的琳琅满目、有些过剩的食物。",
     "context": "{\n  \"id\": \"line:08268f0\",\n  \"node\": \"Start\",\n  \"text\": \"Valerie stared at the excess assortment of food they had prepared for the noble children.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0c5f3bea045f82ff",
     "original": "She grimly remembered the years she and her sister spent starving in an orphanage.",
-    "translation": "",
+    "translation": "她痛苦地回忆起过去她们姐妹在孤儿院忍饥挨饿的岁月。",
     "context": "{\n  \"id\": \"line:0ddfb2a\",\n  \"node\": \"Start\",\n  \"text\": \"She grimly remembered the years she and her sister spent starving in an orphanage.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2b3f3694a2ff031d",
     "original": "Valerie: ...Are they even going to eat all of this?",
-    "translation": "",
+    "translation": "Valerie: ……他们真会把这些都吃完吗？",
     "context": "{\n  \"id\": \"line:09ea2ed\",\n  \"node\": \"Start\",\n  \"text\": \"Valerie: ...Are they even going to eat all of this?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::495b1d4b2507ba87",
     "original": "Valentina: They won't.[p/] They’ll taste a few of them and throw the rest out.",
-    "translation": "",
+    "translation": "Valentina: 才不会。[p/]他们只会尝几口试味，然后把剩下的扔掉。",
     "context": "{\n  \"id\": \"line:02e3561\",\n  \"node\": \"Start\",\n  \"text\": \"Valentina: They won't.[p/] They’ll taste a few of them and throw the rest out.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d2f90e227e47eebc",
     "original": "Valentina: It still has to be perfect when it hits the cafeteria.",
-    "translation": "",
+    "translation": "Valentina: 但只要摆上餐桌，它们就必须完美。",
     "context": "{\n  \"id\": \"line:0df1830\",\n  \"node\": \"Start\",\n  \"text\": \"Valentina: It still has to be perfect when it hits the cafeteria.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::00adee212986a041",
     "original": "Valerie: Okay...",
-    "translation": "",
+    "translation": "Valerie: 好吧……",
     "context": "{\n  \"id\": \"line:08312e8\",\n  \"node\": \"Start\",\n  \"text\": \"Valerie: Okay...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::611017990ef8a737",
     "original": "Valerie watched as her sister lifted each of the croissant slices,[p/] measuring their width against her index finger.",
-    "translation": "",
+    "translation": "瓦莱丽看着姐姐拿起每一块牛角面包，[p/]用食指比划它们的尺寸。",
     "context": "{\n  \"id\": \"line:0acccfd\",\n  \"node\": \"Start\",\n  \"text\": \"Valerie watched as her sister lifted each of the croissant slices,[p/] measuring their width against her index finger.\"\n}"
   },
   {
