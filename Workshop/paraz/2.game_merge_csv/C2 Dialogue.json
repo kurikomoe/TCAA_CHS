@@ -19970,37 +19970,37 @@
   {
     "key": "C2 Dialogue.csv::translation::684f25a2c02b9bbd",
     "original": "EXAMINE",
-    "translation": "",
+    "translation": "检查",
     "context": "{\n  \"id\": \"line:02bcc24\",\n  \"node\": \"Intro_Main\",\n  \"text\": \"EXAMINE\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::911e4cb35fa92564",
     "original": "TALK",
-    "translation": "",
+    "translation": "交谈",
     "context": "{\n  \"id\": \"line:0553cab\",\n  \"node\": \"Intro_Main\",\n  \"text\": \"TALK\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3bf08a84f15b98ce",
     "original": "MOVE",
-    "translation": "",
+    "translation": "移动",
     "context": "{\n  \"id\": \"line:0bd32d6\",\n  \"node\": \"Intro_Main\",\n  \"text\": \"MOVE\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b40f85dcc743fd99",
     "original": "PRESENT",
-    "translation": "",
+    "translation": "出示",
     "context": "{\n  \"id\": \"line:0648117\",\n  \"node\": \"Intro_Main\",\n  \"text\": \"PRESENT\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ecf1d7df68d6aa53",
     "original": "MENUS",
-    "translation": "",
+    "translation": "菜单",
     "context": "{\n  \"id\": \"line:0913146\",\n  \"node\": \"Intro_Main\",\n  \"text\": \"MENUS\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5a21d97b52b414be",
     "original": "The library was full of books.[p/] I'd been reading through them all morning.",
-    "translation": "",
+    "translation": "图书馆内藏书琳琅满目。[p/]我一整个上午都在其中浏览。",
     "context": "{\n  \"id\": \"line:009a105\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"The library was full of books.[p/] I'd been reading through them all morning.\"\n}"
   },
   {
@@ -20012,25 +20012,25 @@
   {
     "key": "C2 Dialogue.csv::translation::2fb3c6d140a32fc2",
     "original": "It was a holy text of some sort.",
-    "translation": "",
+    "translation": "某种神圣的经文。",
     "context": "{\n  \"id\": \"line:0b39844\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"It was a holy text of some sort.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8be64af9f27bc499",
     "original": "It must've been related to the Church of Bahamut.",
-    "translation": "",
+    "translation": "肯定与巴哈姆特教会有关系。",
     "context": "{\n  \"id\": \"line:0726895\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"It must've been related to the Church of Bahamut.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6bf2b54825528565",
     "original": "There was a table for students to sit at.",
-    "translation": "",
+    "translation": "一张供学生坐下阅览的桌子。",
     "context": "{\n  \"id\": \"line:0efc1fd\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"There was a table for students to sit at.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::347cd8869f28cb86",
     "original": "I'd been here with Celeste all morning.",
-    "translation": "",
+    "translation": "我在这与塞莱斯特度过了整整一个上午。",
     "context": "{\n  \"id\": \"line:03842de\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"I'd been here with Celeste all morning.\"\n}"
   },
   {
@@ -20042,37 +20042,37 @@
   {
     "key": "C2 Dialogue.csv::translation::9ee46944f8626ab7",
     "original": "Tyrion: It's a globe of the world.",
-    "translation": "",
+    "translation": "Tyrion: 是个地球仪。",
     "context": "{\n  \"id\": \"line:0c962da\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"Tyrion: It's a globe of the world.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bab5253fe8169315",
     "original": "Tyrion: It's amazing how many other nations there are aside from Wyverngarde.",
-    "translation": "",
+    "translation": "Tyrion: 没想到除了维文加德以外还有如此多的国家。",
     "context": "{\n  \"id\": \"line:0102d14\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"Tyrion: It's amazing how many other nations there are aside from Wyverngarde.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ed80923bd1fc6e41",
     "original": "Celeste: I've been to most of these places.",
-    "translation": "",
+    "translation": "Celeste: 这上面的大多数地方我都去过。",
     "context": "{\n  \"id\": \"line:05ee706\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"Celeste: I've been to most of these places.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d27985c4472c2492",
     "original": "Celeste: You should come with me next time, Tyrion.",
-    "translation": "",
+    "translation": "Celeste: 提利昂，有机会你应该和我一起去看看。",
     "context": "{\n  \"id\": \"line:00b15ab\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"Celeste: You should come with me next time, Tyrion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b90ca069d9011083",
     "original": "That was a nice thought.",
-    "translation": "",
+    "translation": "这想法不错。",
     "context": "{\n  \"id\": \"line:005ee4b\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"That was a nice thought.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8b5b9ade2badbc5",
     "original": "Maybe I could find some time to travel with her.",
-    "translation": "",
+    "translation": "或许我该寻找时间与她一同出游。",
     "context": "{\n  \"id\": \"line:0f0caeb\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"Maybe I could find some time to travel with her.\"\n}"
   },
   {
@@ -20084,13 +20084,13 @@
   {
     "key": "C2 Dialogue.csv::translation::64cf223ca2d76215",
     "original": "There was a newsletter taped to one of the shelves.",
-    "translation": "",
+    "translation": "一个书架上贴着一份时讯。",
     "context": "{\n  \"id\": \"line:0ae6de0\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"There was a newsletter taped to one of the shelves.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0cf0d428c8fdc08a",
     "original": "\"Due to several instances of crude misuse,[p/] Arcane Construct voice lines can now only be set by Headmaster Redmond.\".",
-    "translation": "",
+    "translation": "“鉴于奥术构造体多次被粗暴滥用，[p/]目前仅校长雷德蒙可更改构造体的相关语音设定。”",
     "context": "{\n  \"id\": \"line:0b25d3c\",\n  \"node\": \"Intro_Examine_Library\",\n  \"text\": \"\\\"Due to several instances of crude misuse,[p/] Arcane Construct voice lines can now only be set by Headmaster Redmond.\\\".\"\n}"
   },
   {
@@ -20102,55 +20102,55 @@
   {
     "key": "C2 Dialogue.csv::translation::a3278ebe4a4ac5e5",
     "original": "TYRION: Are you two students at the Imperial Academy?",
-    "translation": "",
+    "translation": "TYRION: 你们两位是帝国学院的学生吗？",
     "context": "{\n  \"id\": \"line:0ab73cf\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"TYRION: Are you two students at the Imperial Academy?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ee6ff26db7f23c57",
     "original": "ERIS: I’m currently taking classes here for the [b]illusion[/b] program.",
-    "translation": "",
+    "translation": "ERIS: 我目前在这里进修[b]幻象术[/b]课程。",
     "context": "{\n  \"id\": \"line:0397c49\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"ERIS: I’m currently taking classes here for the [b]illusion[/b] program.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2ee5a62e0babbe69",
     "original": "CELESTE: Illusions...[p/] That’s the kind of magic that lets you turn invisible, right?",
-    "translation": "",
+    "translation": "CELESTE: 幻象术……[p/]是那种能把你变成隐形人的魔法对吗？",
     "context": "{\n  \"id\": \"line:04a44f0\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"CELESTE: Illusions...[p/] That’s the kind of magic that lets you turn invisible, right?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::19fe1fa180df3e3f",
     "original": "ERIS: Technically,[p/] yes,[p/] but few mages ever reach that level.",
-    "translation": "",
+    "translation": "ERIS: 从魔法的可行性上来讲，确实可以，[p/]但很少有法师能达到那种水平。",
     "context": "{\n  \"id\": \"line:0bb3324\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"ERIS: Technically,[p/] yes,[p/] but few mages ever reach that level.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b4d4137a56a01e96",
     "original": "ERIS: I’m a bit sad to admit that I'm not able to cast that arcane spell.",
-    "translation": "",
+    "translation": "ERIS: 虽然有点遗憾，但我还无法施放那种法术。",
     "context": "{\n  \"id\": \"line:01484b7\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"ERIS: I’m a bit sad to admit that I'm not able to cast that arcane spell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::818d88843654986a",
     "original": "CELESTE: That’s still pretty cool![p/] What about you, Wallace?",
-    "translation": "",
+    "translation": "CELESTE: 光是学习这门魔法就已经很酷了！[p/]你呢，华莱士？",
     "context": "{\n  \"id\": \"line:0c89d25\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"CELESTE: That’s still pretty cool![p/] What about you, Wallace?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::33104fe2b6f07c9f",
     "original": "WALLACE: I-[p/]I—[p/] U-[p/]Um...",
-    "translation": "",
+    "translation": "WALLACE: 啊、[p/]我……[p/]呃、[p/]唔……",
     "context": "{\n  \"id\": \"line:0396e89\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"WALLACE: I-[p/]I—[p/] U-[p/]Um...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::24c3e19430d61d7a",
     "original": "ERIS: Wallace has a [i]unique[/i] field of study.[p/] Please don't ask him about it.",
-    "translation": "",
+    "translation": "ERIS: 华莱士的研究分野很[i]独特[/i]。[p/]请别在这个问题上逼问他。",
     "context": "{\n  \"id\": \"line:0f4ef7d\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"ERIS: Wallace has a [i]unique[/i] field of study.[p/] Please don't ask him about it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::788656fe03b10d32",
     "original": "Celeste: Oh...[p/] Okay.",
-    "translation": "",
+    "translation": "Celeste: 噢……[p/]那好吧。",
     "context": "{\n  \"id\": \"line:0a270d6\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Celeste: Oh...[p/] Okay.\"\n}"
   },
   {
@@ -20162,133 +20162,133 @@
   {
     "key": "C2 Dialogue.csv::translation::ab4293915e135dfc",
     "original": "Eris: Rumors about you two have been floating around.",
-    "translation": "",
+    "translation": "Eris: 跟你们两位有关的流言到处都是呢。",
     "context": "{\n  \"id\": \"line:0a1a6f5\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: Rumors about you two have been floating around.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2a1ddfff4fd1e1a7",
     "original": "Tyrion: ...Really?",
-    "translation": "",
+    "translation": "Tyrion: ……真的？",
     "context": "{\n  \"id\": \"line:0b0b775\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Tyrion: ...Really?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::98084dc1e103a8fb",
     "original": "Eris: Many recognize you from the news articles about Ms. McCoy's trial.",
-    "translation": "",
+    "translation": "Eris: 许多人在关于麦考伊女士那场庭审的报道中知道了你。",
     "context": "{\n  \"id\": \"line:0e37532\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: Many recognize you from the news articles about Ms. McCoy's trial.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eaa595e3e2fc8d37",
     "original": "Celeste: Ugh...[p/] Really?",
-    "translation": "",
+    "translation": "Celeste: 呃……[p/]真的吗？",
     "context": "{\n  \"id\": \"line:0e3df60\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Celeste: Ugh...[p/] Really?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ad5f783ed9f9b73e",
     "original": "Eris: The students were surprised to see you two on the academy grounds this morning.",
-    "translation": "",
+    "translation": "Eris: 学生们看到你们俩一早出现在学院里，很是惊讶。",
     "context": "{\n  \"id\": \"line:015f7de\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: The students were surprised to see you two on the academy grounds this morning.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f01f2b818b645fe1",
     "original": "That made sense.[p/] In some ways,[p/] this school was a cornerstone of the nobility's power.",
-    "translation": "",
+    "translation": "这也说得通。[p/]某种意义上，[p/]这所学院就是贵族们权力的基础。",
     "context": "{\n  \"id\": \"line:037a5e0\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"That made sense.[p/] In some ways,[p/] this school was a cornerstone of the nobility's power.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ebf7cdd436b3e994",
     "original": "This was the last place anyone would expect us to take an interest in,[p/] much less be permitted to enter.",
-    "translation": "",
+    "translation": "这里本来是人们最无可能认为我们会感兴趣的地方，[p/]更不用说还允许我们入内。",
     "context": "{\n  \"id\": \"line:01aba41\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"This was the last place anyone would expect us to take an interest in,[p/] much less be permitted to enter.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a120aeca4d4dd1fb",
     "original": "Luckily,[p/] Ms. Tymora had a lot of connections she could pull on.",
-    "translation": "",
+    "translation": "有幸的是，[p/]泰摩拉女士有一些可以动用的关系。",
     "context": "{\n  \"id\": \"line:058d877\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Luckily,[p/] Ms. Tymora had a lot of connections she could pull on.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bcf51f7a9e899f3b",
     "original": "Eris: I'm particularly surprised that [i]you're[/i] still in Wyverngarde, Ms. McCoy.",
-    "translation": "",
+    "translation": "Eris: [i]你[/i]仍然待在维文加德这一点让我尤为惊讶，麦考伊女士。",
     "context": "{\n  \"id\": \"line:0f91c94\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: I'm particularly surprised that [i]you're[/i] still in Wyverngarde, Ms. McCoy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::990265494a8b91b6",
     "original": "Eris: I'd figured the \"Crimson Demon\" would be off on another violent escapade.",
-    "translation": "",
+    "translation": "Eris: 我还以为“绯红恶魔”已经前往下一起暴力活动了呢。",
     "context": "{\n  \"id\": \"line:09fa2c1\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: I'd figured the \\\"Crimson Demon\\\" would be off on another violent escapade.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5ea65f346850d987",
     "original": "Celeste: Oh gods...[p/] The papers found out about that?",
-    "translation": "",
+    "translation": "Celeste: 天哪……[p/]报纸上还提到了这个？",
     "context": "{\n  \"id\": \"line:0af7759\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Celeste: Oh gods...[p/] The papers found out about that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::921424ecc79c8e94",
     "original": "Tyrion: \"Crimson Demon\"?",
-    "translation": "",
+    "translation": "Tyrion: “绯红恶魔”？",
     "context": "{\n  \"id\": \"line:0e27fce\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Tyrion: \\\"Crimson Demon\\\"?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::474f5033854bf13b",
     "original": "Celeste: Don't ask...",
-    "translation": "",
+    "translation": "Celeste: 别问了……",
     "context": "{\n  \"id\": \"line:0b7c396\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Celeste: Don't ask...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6feb824bcca75c86",
     "original": "Celeste: Anyways,[p/] I'm working as Tyrion’s personal mercenary now.",
-    "translation": "",
+    "translation": "Celeste: 总之，[p/]我现在是作为提利昂的私人佣兵工作。",
     "context": "{\n  \"id\": \"line:0f3015c\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Celeste: Anyways,[p/] I'm working as Tyrion’s personal mercenary now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2a76ac4416ffea80",
     "original": "WALLACE: M-[p/][s/]Mercenary?!",
-    "translation": "",
+    "translation": "WALLACE: 佣、[p/][s/]佣兵？！",
     "context": "{\n  \"id\": \"line:0187af1\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"WALLACE: M-[p/][s/]Mercenary?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::57380aac60d0f0f1",
     "original": "Tyrion: ...I'd prefer the term \"bodyguard\".",
-    "translation": "",
+    "translation": "Tyrion: ……我觉得临时“保镖”这个称呼更恰当一点。",
     "context": "{\n  \"id\": \"line:05e87b4\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Tyrion: ...I'd prefer the term \\\"bodyguard\\\".\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ff85de36685d7aeb",
     "original": "I'd successfully indicted Pierce in her trial,[p/] but that invited a lot of unwanted attention.",
-    "translation": "",
+    "translation": "我在她的庭审中成功让皮尔斯伏罪，[p/]但也招致了许多不必要的关注。",
     "context": "{\n  \"id\": \"line:0097493\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"I'd successfully indicted Pierce in her trial,[p/] but that invited a lot of unwanted attention.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7efbaa9c70d30d88",
     "original": "It wasn't long before I found armed thugs suspiciously looming around my house.",
-    "translation": "",
+    "translation": "不久前我发现一群武装了的暴徒出现在我家附近。",
     "context": "{\n  \"id\": \"line:07ef2f7\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"It wasn't long before I found armed thugs suspiciously looming around my house.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::76506ddb445fb301",
     "original": "After what happened to Flinhart,[p/] Celeste wanted to stay closer to her mother.[p/] Steelwind even kept the teleportation circle from the investigation active for her.",
-    "translation": "",
+    "translation": "在弗林哈特那件事之后，[p/]塞莱斯特希望生活得离母亲更近一点，[p/]斯蒂尔文德甚至为她留下了调查现场时设立的传送门。",
     "context": "{\n  \"id\": \"line:0adb375\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"After what happened to Flinhart,[p/] Celeste wanted to stay closer to her mother.[p/] Steelwind even kept the teleportation circle from the investigation active for her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::23a7c085b702b477",
     "original": "Ms. Tymora saw an opportunity to hire her as my bodyguard.[p/] I [i]did[/i] get along really well with her after all.",
-    "translation": "",
+    "translation": "泰摩拉女士发现了聘请她担任我的保镖的机会。[p/]而且我[i]有[/i]和她处得十分融洽。",
     "context": "{\n  \"id\": \"line:07d5e44\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Ms. Tymora saw an opportunity to hire her as my bodyguard.[p/] I [i]did[/i] get along really well with her after all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a77d7165e2a01bb",
     "original": "It was nice to have someone to talk to while I was getting acquainted with being an attorney.",
-    "translation": "",
+    "translation": "在我逐渐适应律师的工作时，有人可以商谈是件很棒的事情。",
     "context": "{\n  \"id\": \"line:0a2df6e\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"It was nice to have someone to talk to while I was getting acquainted with being an attorney.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6f67bf47db807335",
     "original": "...It was also nice to have someone who could toss an armed thug with one arm.",
-    "translation": "",
+    "translation": "……而且有个能一只手就制服武装暴徒的人在身边也同样令人感激。",
     "context": "{\n  \"id\": \"line:0449ae7\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"...It was also nice to have someone who could toss an armed thug with one arm.\"\n}"
   },
   {
@@ -20300,115 +20300,115 @@
   {
     "key": "C2 Dialogue.csv::translation::e2cc1f9129db9aa4",
     "original": "Eris: “Unconventional Magic”...",
-    "translation": "",
+    "translation": "Eris: “非常规魔法”……",
     "context": "{\n  \"id\": \"line:0e5bd76\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: “Unconventional Magic”...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ffec11cf8172c908",
     "original": "Eris: One might wonder why you're researching such a thing.",
-    "translation": "",
+    "translation": "Eris: 人们会好奇你们研究这种东西的原因。",
     "context": "{\n  \"id\": \"line:05e2681\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: One might wonder why you're researching such a thing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5ddd1160aa928fbf",
     "original": "Celeste: I want to know that too!",
-    "translation": "",
+    "translation": "Celeste: 我也想知道！",
     "context": "{\n  \"id\": \"line:0bf5c14\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Celeste: I want to know that too!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1c6914823d123b17",
     "original": "Tyrion: I-[p/][s/]I’m sorry,[p/] but I can’t really say...",
-    "translation": "",
+    "translation": "Tyrion: 对、[p/][s/]I对不起，[p/]但这个我真不能说……",
     "context": "{\n  \"id\": \"line:09f138d\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Tyrion: I-[p/][s/]I’m sorry,[p/] but I can’t really say...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::87c0cb688f862156",
     "original": "Eris: There are many spells in this world,[p/] and new ones are always being developed.",
-    "translation": "",
+    "translation": "Eris: 世上有各种各样的法术，[p/]而且新法术也不断地被创造出来。",
     "context": "{\n  \"id\": \"line:0a9cb70\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: There are many spells in this world,[p/] and new ones are always being developed.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::509f25c7e0ab675c",
     "original": "Eris: What makes you so certain that this magic isn't arcane?",
-    "translation": "",
+    "translation": "Eris: 你为什么确信这种法术不是奥术呢？",
     "context": "{\n  \"id\": \"line:070934e\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: What makes you so certain that this magic isn't arcane?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a56b5dcc1b9f2ec1",
     "original": "Tyrion: The magic I'm looking into doesn’t follow the conventions of arcane magic.",
-    "translation": "",
+    "translation": "Tyrion: 我在调查的这种魔法并不遵守奥术魔法的规则。",
     "context": "{\n  \"id\": \"line:0fad280\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Tyrion: The magic I'm looking into doesn’t follow the conventions of arcane magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7404eaf6c57f1636",
     "original": "Eris: Oh?[p/] How so?",
-    "translation": "",
+    "translation": "Eris: 是吗？[p/]怎么个不遵守法？",
     "context": "{\n  \"id\": \"line:0834bc8\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: Oh?[p/] How so?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7a16a5c105c2675d",
     "original": "Tyrion: Um...[p/] Well...",
-    "translation": "",
+    "translation": "Tyrion: 呃……[p/]这个嘛……",
     "context": "{\n  \"id\": \"line:07d9576\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Tyrion: Um...[p/] Well...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bf1efad0822d9914",
     "original": "I needed to tread carefully.[p/] Ms. Tymora's glare agreed.",
-    "translation": "",
+    "translation": "我得谨慎表述。[p/]泰摩拉女士正死死盯着。",
     "context": "{\n  \"id\": \"line:0c402b3\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"I needed to tread carefully.[p/] Ms. Tymora's glare agreed.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e67dd66b3e1367a1",
     "original": "Tyrion: ...It was cast by someone who's not a mage.",
-    "translation": "",
+    "translation": "Tyrion: ……它是被并非法师的人施放的。",
     "context": "{\n  \"id\": \"line:06e861e\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Tyrion: ...It was cast by someone who's not a mage.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::41c2f2f2939b2d68",
     "original": "Eris: Oh, really?[p/] That implies that it was cast by a person,[p/] and it wasn't something like artificery.",
-    "translation": "",
+    "translation": "Eris: 哦？是这样？[p/]也就是说它被某个人施放，[p/]而且不是奥术能源装置。",
     "context": "{\n  \"id\": \"line:0ae2f90\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: Oh, really?[p/] That implies that it was cast by a person,[p/] and it wasn't something like artificery.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::139b7e9ffa966f38",
     "original": "I flashed an apologetic look to my mentor.",
-    "translation": "",
+    "translation": "我对着自己的导师投向一个歉意的眼神。",
     "context": "{\n  \"id\": \"line:0220eea\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"I flashed an apologetic look to my mentor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e620fd5d849d3927",
     "original": "Eris: Hm...[p/] That [i]does[/i] remind me of a story.",
-    "translation": "",
+    "translation": "Eris: 嗯……[p/]这[i]有[/i]让我想起一个故事。",
     "context": "{\n  \"id\": \"line:0dad30d\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: Hm...[p/] That [i]does[/i] remind me of a story.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::86467d4071606bce",
     "original": "Tyrion: A...[p/] story?",
-    "translation": "",
+    "translation": "Tyrion: ……[p/]故事？",
     "context": "{\n  \"id\": \"line:0f2f173\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Tyrion: A...[p/] story?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::86c4311a77619219",
     "original": "Eris: Mr. Cuthbert.[p/] Are you familiar with the legends about how Wyverngade was created?",
-    "translation": "",
+    "translation": "Eris: 卡斯伯特先生。[p/]你熟悉维文加德王国的建国传说吗？",
     "context": "{\n  \"id\": \"line:093b39e\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: Mr. Cuthbert.[p/] Are you familiar with the legends about how Wyverngade was created?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2bb75d3c5f535f7c",
     "original": "Tyrion: You mean the story about the ancient dragons?",
-    "translation": "",
+    "translation": "Tyrion: 你是说那个古龙们的故事？",
     "context": "{\n  \"id\": \"line:05984c5\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Tyrion: You mean the story about the ancient dragons?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2e8bf5d4bdaaa160",
     "original": "Celeste: Dragons?",
-    "translation": "",
+    "translation": "Celeste: 龙？",
     "context": "{\n  \"id\": \"line:07f7b5a\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Celeste: Dragons?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::913d180c556b78fb",
     "original": "Eris: Hm...[p/] I knew you'd find it interesting.",
-    "translation": "",
+    "translation": "Eris: 嗯……[p/]我想你会发现故事里的有趣之处。",
     "context": "{\n  \"id\": \"line:072a0ff\",\n  \"node\": \"Intro_Talk_Library\",\n  \"text\": \"Eris: Hm...[p/] I knew you'd find it interesting.\"\n}"
   },
   {

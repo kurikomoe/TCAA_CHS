@@ -3605,86 +3605,86 @@ line:0699d5f,Start_2,Ruby: Wait[p/][p/],Ruby: 且慢[p/][p/]
 line:00f62de,Start_2,Ruby: Fine...[p/] I suppose it wouldn't hurt.,Ruby: 好吧……[p/]应该没什么大不了的。
 line:06fbde3,Start_2,"Ruby: Just be more careful, Tyrion.",Ruby: 小心点，提利昂。
 line:0d84ac9,Start_2,Tyrion: R-[p/][s/]Right...,Tyrion: 是、[p/][s/]是……
-line:02bcc24,Intro_Main,EXAMINE,
-line:0553cab,Intro_Main,TALK,
-line:0bd32d6,Intro_Main,MOVE,
-line:0648117,Intro_Main,PRESENT,
-line:0913146,Intro_Main,MENUS,
+line:02bcc24,Intro_Main,EXAMINE,检查
+line:0553cab,Intro_Main,TALK,交谈
+line:0bd32d6,Intro_Main,MOVE,移动
+line:0648117,Intro_Main,PRESENT,出示
+line:0913146,Intro_Main,MENUS,菜单
 line:097a2cb,Intro_Examine_Library,Player: Books,
-line:009a105,Intro_Examine_Library,The library was full of books.[p/] I'd been reading through them all morning.,
+line:009a105,Intro_Examine_Library,The library was full of books.[p/] I'd been reading through them all morning.,图书馆内藏书琳琅满目。[p/]我一整个上午都在其中浏览。
 line:0ff5153,Intro_Examine_Library,Player: Holy Text,
-line:0b39844,Intro_Examine_Library,It was a holy text of some sort.,
-line:0726895,Intro_Examine_Library,It must've been related to the Church of Bahamut.,
+line:0b39844,Intro_Examine_Library,It was a holy text of some sort.,某种神圣的经文。
+line:0726895,Intro_Examine_Library,It must've been related to the Church of Bahamut.,肯定与巴哈姆特教会有关系。
 line:0aa01d8,Intro_Examine_Library,Player: Table,
-line:0efc1fd,Intro_Examine_Library,There was a table for students to sit at.,
-line:03842de,Intro_Examine_Library,I'd been here with Celeste all morning.,
+line:0efc1fd,Intro_Examine_Library,There was a table for students to sit at.,一张供学生坐下阅览的桌子。
+line:03842de,Intro_Examine_Library,I'd been here with Celeste all morning.,我在这与塞莱斯特度过了整整一个上午。
 line:020064c,Intro_Examine_Library,Player: Globe,
-line:0c962da,Intro_Examine_Library,Tyrion: It's a globe of the world.,
-line:0102d14,Intro_Examine_Library,Tyrion: It's amazing how many other nations there are aside from Wyverngarde.,
-line:05ee706,Intro_Examine_Library,Celeste: I've been to most of these places.,
-line:00b15ab,Intro_Examine_Library,"Celeste: You should come with me next time, Tyrion.",
-line:005ee4b,Intro_Examine_Library,That was a nice thought.,
-line:0f0caeb,Intro_Examine_Library,Maybe I could find some time to travel with her.,
+line:0c962da,Intro_Examine_Library,Tyrion: It's a globe of the world.,Tyrion: 是个地球仪。
+line:0102d14,Intro_Examine_Library,Tyrion: It's amazing how many other nations there are aside from Wyverngarde.,Tyrion: 没想到除了维文加德以外还有如此多的国家。
+line:05ee706,Intro_Examine_Library,Celeste: I've been to most of these places.,Celeste: 这上面的大多数地方我都去过。
+line:00b15ab,Intro_Examine_Library,"Celeste: You should come with me next time, Tyrion.",Celeste: 提利昂，有机会你应该和我一起去看看。
+line:005ee4b,Intro_Examine_Library,That was a nice thought.,这想法不错。
+line:0f0caeb,Intro_Examine_Library,Maybe I could find some time to travel with her.,或许我该寻找时间与她一同出游。
 line:02a9754,Intro_Examine_Library,Player: Notice,
-line:0ae6de0,Intro_Examine_Library,There was a newsletter taped to one of the shelves.,
-line:0b25d3c,Intro_Examine_Library,"""Due to several instances of crude misuse,[p/] Arcane Construct voice lines can now only be set by Headmaster Redmond."".",
+line:0ae6de0,Intro_Examine_Library,There was a newsletter taped to one of the shelves.,一个书架上贴着一份时讯。
+line:0b25d3c,Intro_Examine_Library,"""Due to several instances of crude misuse,[p/] Arcane Construct voice lines can now only be set by Headmaster Redmond."".",“鉴于奥术构造体多次被粗暴滥用，[p/]目前仅校长雷德蒙可更改构造体的相关语音设定。”
 line:07897ef,Intro_Examine_Library,Player: Back,
 line:01243c0,Intro_Talk_Library,Player: Eris and Wallace,
-line:0ab73cf,Intro_Talk_Library,TYRION: Are you two students at the Imperial Academy?,
-line:0397c49,Intro_Talk_Library,ERIS: I’m currently taking classes here for the [b]illusion[/b] program.,
-line:04a44f0,Intro_Talk_Library,"CELESTE: Illusions...[p/] That’s the kind of magic that lets you turn invisible, right?",
-line:0bb3324,Intro_Talk_Library,"ERIS: Technically,[p/] yes,[p/] but few mages ever reach that level.",
-line:01484b7,Intro_Talk_Library,ERIS: I’m a bit sad to admit that I'm not able to cast that arcane spell.,
-line:0c89d25,Intro_Talk_Library,"CELESTE: That’s still pretty cool![p/] What about you, Wallace?",
-line:0396e89,Intro_Talk_Library,WALLACE: I-[p/]I—[p/] U-[p/]Um...,
-line:0f4ef7d,Intro_Talk_Library,ERIS: Wallace has a [i]unique[/i] field of study.[p/] Please don't ask him about it.,
+line:0ab73cf,Intro_Talk_Library,TYRION: Are you two students at the Imperial Academy?,TYRION: 你们两位是帝国学院的学生吗？
+line:0397c49,Intro_Talk_Library,ERIS: I’m currently taking classes here for the [b]illusion[/b] program.,ERIS: 我目前在这里进修[b]幻象术[/b]课程。
+line:04a44f0,Intro_Talk_Library,"CELESTE: Illusions...[p/] That’s the kind of magic that lets you turn invisible, right?",CELESTE: 幻象术……[p/]是那种能把你变成隐形人的魔法对吗？
+line:0bb3324,Intro_Talk_Library,"ERIS: Technically,[p/] yes,[p/] but few mages ever reach that level.",ERIS: 从魔法的可行性上来讲，确实可以，[p/]但很少有法师能达到那种水平。
+line:01484b7,Intro_Talk_Library,ERIS: I’m a bit sad to admit that I'm not able to cast that arcane spell.,ERIS: 虽然有点遗憾，但我还无法施放那种法术。
+line:0c89d25,Intro_Talk_Library,"CELESTE: That’s still pretty cool![p/] What about you, Wallace?",CELESTE: 光是学习这门魔法就已经很酷了！[p/]你呢，华莱士？
+line:0396e89,Intro_Talk_Library,WALLACE: I-[p/]I—[p/] U-[p/]Um...,WALLACE: 啊、[p/]我……[p/]呃、[p/]唔……
+line:0f4ef7d,Intro_Talk_Library,ERIS: Wallace has a [i]unique[/i] field of study.[p/] Please don't ask him about it.,ERIS: 华莱士的研究分野很[i]独特[/i]。[p/]请别在这个问题上逼问他。
 line:0b4f715,Intro_Talk_Library,WALLACE: ...,WALLACE: ……
-line:0a270d6,Intro_Talk_Library,Celeste: Oh...[p/] Okay.,
+line:0a270d6,Intro_Talk_Library,Celeste: Oh...[p/] Okay.,Celeste: 噢……[p/]那好吧。
 line:0056027,Intro_Talk_Library,Player: Tyrion and Celeste,
-line:0a1a6f5,Intro_Talk_Library,Eris: Rumors about you two have been floating around.,
-line:0b0b775,Intro_Talk_Library,Tyrion: ...Really?,
-line:0e37532,Intro_Talk_Library,Eris: Many recognize you from the news articles about Ms. McCoy's trial.,
-line:0e3df60,Intro_Talk_Library,Celeste: Ugh...[p/] Really?,
-line:015f7de,Intro_Talk_Library,Eris: The students were surprised to see you two on the academy grounds this morning.,
-line:037a5e0,Intro_Talk_Library,"That made sense.[p/] In some ways,[p/] this school was a cornerstone of the nobility's power.",
-line:01aba41,Intro_Talk_Library,"This was the last place anyone would expect us to take an interest in,[p/] much less be permitted to enter.",
-line:058d877,Intro_Talk_Library,"Luckily,[p/] Ms. Tymora had a lot of connections she could pull on.",
-line:0f91c94,Intro_Talk_Library,"Eris: I'm particularly surprised that [i]you're[/i] still in Wyverngarde, Ms. McCoy.",
-line:09fa2c1,Intro_Talk_Library,"Eris: I'd figured the ""Crimson Demon"" would be off on another violent escapade.",
-line:0af7759,Intro_Talk_Library,Celeste: Oh gods...[p/] The papers found out about that?,
-line:0e27fce,Intro_Talk_Library,"Tyrion: ""Crimson Demon""?",
-line:0b7c396,Intro_Talk_Library,Celeste: Don't ask...,
-line:0f3015c,Intro_Talk_Library,"Celeste: Anyways,[p/] I'm working as Tyrion’s personal mercenary now.",
-line:0187af1,Intro_Talk_Library,WALLACE: M-[p/][s/]Mercenary?!,
-line:05e87b4,Intro_Talk_Library,"Tyrion: ...I'd prefer the term ""bodyguard"".",
-line:0097493,Intro_Talk_Library,"I'd successfully indicted Pierce in her trial,[p/] but that invited a lot of unwanted attention.",
-line:07ef2f7,Intro_Talk_Library,It wasn't long before I found armed thugs suspiciously looming around my house.,
-line:0adb375,Intro_Talk_Library,"After what happened to Flinhart,[p/] Celeste wanted to stay closer to her mother.[p/] Steelwind even kept the teleportation circle from the investigation active for her.",
-line:07d5e44,Intro_Talk_Library,Ms. Tymora saw an opportunity to hire her as my bodyguard.[p/] I [i]did[/i] get along really well with her after all.,
-line:0a2df6e,Intro_Talk_Library,It was nice to have someone to talk to while I was getting acquainted with being an attorney.,
-line:0449ae7,Intro_Talk_Library,...It was also nice to have someone who could toss an armed thug with one arm.,
+line:0a1a6f5,Intro_Talk_Library,Eris: Rumors about you two have been floating around.,Eris: 跟你们两位有关的流言到处都是呢。
+line:0b0b775,Intro_Talk_Library,Tyrion: ...Really?,Tyrion: ……真的？
+line:0e37532,Intro_Talk_Library,Eris: Many recognize you from the news articles about Ms. McCoy's trial.,Eris: 许多人在关于麦考伊女士那场庭审的报道中知道了你。
+line:0e3df60,Intro_Talk_Library,Celeste: Ugh...[p/] Really?,Celeste: 呃……[p/]真的吗？
+line:015f7de,Intro_Talk_Library,Eris: The students were surprised to see you two on the academy grounds this morning.,Eris: 学生们看到你们俩一早出现在学院里，很是惊讶。
+line:037a5e0,Intro_Talk_Library,"That made sense.[p/] In some ways,[p/] this school was a cornerstone of the nobility's power.",这也说得通。[p/]某种意义上，[p/]这所学院就是贵族们权力的基础。
+line:01aba41,Intro_Talk_Library,"This was the last place anyone would expect us to take an interest in,[p/] much less be permitted to enter.",这里本来是人们最无可能认为我们会感兴趣的地方，[p/]更不用说还允许我们入内。
+line:058d877,Intro_Talk_Library,"Luckily,[p/] Ms. Tymora had a lot of connections she could pull on.",有幸的是，[p/]泰摩拉女士有一些可以动用的关系。
+line:0f91c94,Intro_Talk_Library,"Eris: I'm particularly surprised that [i]you're[/i] still in Wyverngarde, Ms. McCoy.",Eris: [i]你[/i]仍然待在维文加德这一点让我尤为惊讶，麦考伊女士。
+line:09fa2c1,Intro_Talk_Library,"Eris: I'd figured the ""Crimson Demon"" would be off on another violent escapade.",Eris: 我还以为“绯红恶魔”已经前往下一起暴力活动了呢。
+line:0af7759,Intro_Talk_Library,Celeste: Oh gods...[p/] The papers found out about that?,Celeste: 天哪……[p/]报纸上还提到了这个？
+line:0e27fce,Intro_Talk_Library,"Tyrion: ""Crimson Demon""?",Tyrion: “绯红恶魔”？
+line:0b7c396,Intro_Talk_Library,Celeste: Don't ask...,Celeste: 别问了……
+line:0f3015c,Intro_Talk_Library,"Celeste: Anyways,[p/] I'm working as Tyrion’s personal mercenary now.",Celeste: 总之，[p/]我现在是作为提利昂的私人佣兵工作。
+line:0187af1,Intro_Talk_Library,WALLACE: M-[p/][s/]Mercenary?!,WALLACE: 佣、[p/][s/]佣兵？！
+line:05e87b4,Intro_Talk_Library,"Tyrion: ...I'd prefer the term ""bodyguard"".",Tyrion: ……我觉得临时“保镖”这个称呼更恰当一点。
+line:0097493,Intro_Talk_Library,"I'd successfully indicted Pierce in her trial,[p/] but that invited a lot of unwanted attention.",我在她的庭审中成功让皮尔斯伏罪，[p/]但也招致了许多不必要的关注。
+line:07ef2f7,Intro_Talk_Library,It wasn't long before I found armed thugs suspiciously looming around my house.,不久前我发现一群武装了的暴徒出现在我家附近。
+line:0adb375,Intro_Talk_Library,"After what happened to Flinhart,[p/] Celeste wanted to stay closer to her mother.[p/] Steelwind even kept the teleportation circle from the investigation active for her.",在弗林哈特那件事之后，[p/]塞莱斯特希望生活得离母亲更近一点，[p/]斯蒂尔文德甚至为她留下了调查现场时设立的传送门。
+line:07d5e44,Intro_Talk_Library,Ms. Tymora saw an opportunity to hire her as my bodyguard.[p/] I [i]did[/i] get along really well with her after all.,泰摩拉女士发现了聘请她担任我的保镖的机会。[p/]而且我[i]有[/i]和她处得十分融洽。
+line:0a2df6e,Intro_Talk_Library,It was nice to have someone to talk to while I was getting acquainted with being an attorney.,在我逐渐适应律师的工作时，有人可以商谈是件很棒的事情。
+line:0449ae7,Intro_Talk_Library,...It was also nice to have someone who could toss an armed thug with one arm.,……而且有个能一只手就制服武装暴徒的人在身边也同样令人感激。
 line:0523d56,Intro_Talk_Library,Player: Unconventional Magic,
-line:0e5bd76,Intro_Talk_Library,Eris: “Unconventional Magic”...,
-line:05e2681,Intro_Talk_Library,Eris: One might wonder why you're researching such a thing.,
-line:0bf5c14,Intro_Talk_Library,Celeste: I want to know that too!,
+line:0e5bd76,Intro_Talk_Library,Eris: “Unconventional Magic”...,Eris: “非常规魔法”……
+line:05e2681,Intro_Talk_Library,Eris: One might wonder why you're researching such a thing.,Eris: 人们会好奇你们研究这种东西的原因。
+line:0bf5c14,Intro_Talk_Library,Celeste: I want to know that too!,Celeste: 我也想知道！
 line:0441e2f,Intro_Talk_Library,Ruby: ...,Ruby: ……
-line:09f138d,Intro_Talk_Library,"Tyrion: I-[p/][s/]I’m sorry,[p/] but I can’t really say...",
-line:0a9cb70,Intro_Talk_Library,"Eris: There are many spells in this world,[p/] and new ones are always being developed.",
-line:070934e,Intro_Talk_Library,Eris: What makes you so certain that this magic isn't arcane?,
-line:0fad280,Intro_Talk_Library,Tyrion: The magic I'm looking into doesn’t follow the conventions of arcane magic.,
-line:0834bc8,Intro_Talk_Library,Eris: Oh?[p/] How so?,
-line:07d9576,Intro_Talk_Library,Tyrion: Um...[p/] Well...,
-line:0c402b3,Intro_Talk_Library,I needed to tread carefully.[p/] Ms. Tymora's glare agreed.,
-line:06e861e,Intro_Talk_Library,Tyrion: ...It was cast by someone who's not a mage.,
-line:0ae2f90,Intro_Talk_Library,"Eris: Oh, really?[p/] That implies that it was cast by a person,[p/] and it wasn't something like artificery.",
+line:09f138d,Intro_Talk_Library,"Tyrion: I-[p/][s/]I’m sorry,[p/] but I can’t really say...",Tyrion: 对、[p/][s/]I对不起，[p/]但这个我真不能说……
+line:0a9cb70,Intro_Talk_Library,"Eris: There are many spells in this world,[p/] and new ones are always being developed.",Eris: 世上有各种各样的法术，[p/]而且新法术也不断地被创造出来。
+line:070934e,Intro_Talk_Library,Eris: What makes you so certain that this magic isn't arcane?,Eris: 你为什么确信这种法术不是奥术呢？
+line:0fad280,Intro_Talk_Library,Tyrion: The magic I'm looking into doesn’t follow the conventions of arcane magic.,Tyrion: 我在调查的这种魔法并不遵守奥术魔法的规则。
+line:0834bc8,Intro_Talk_Library,Eris: Oh?[p/] How so?,Eris: 是吗？[p/]怎么个不遵守法？
+line:07d9576,Intro_Talk_Library,Tyrion: Um...[p/] Well...,Tyrion: 呃……[p/]这个嘛……
+line:0c402b3,Intro_Talk_Library,I needed to tread carefully.[p/] Ms. Tymora's glare agreed.,我得谨慎表述。[p/]泰摩拉女士正死死盯着。
+line:06e861e,Intro_Talk_Library,Tyrion: ...It was cast by someone who's not a mage.,Tyrion: ……它是被并非法师的人施放的。
+line:0ae2f90,Intro_Talk_Library,"Eris: Oh, really?[p/] That implies that it was cast by a person,[p/] and it wasn't something like artificery.",Eris: 哦？是这样？[p/]也就是说它被某个人施放，[p/]而且不是奥术能源装置。
 line:027a079,Intro_Talk_Library,Ruby: ...,Ruby: ……
-line:0220eea,Intro_Talk_Library,I flashed an apologetic look to my mentor.,
-line:0dad30d,Intro_Talk_Library,Eris: Hm...[p/] That [i]does[/i] remind me of a story.,
-line:0f2f173,Intro_Talk_Library,Tyrion: A...[p/] story?,
-line:093b39e,Intro_Talk_Library,Eris: Mr. Cuthbert.[p/] Are you familiar with the legends about how Wyverngade was created?,
-line:05984c5,Intro_Talk_Library,Tyrion: You mean the story about the ancient dragons?,
-line:07f7b5a,Intro_Talk_Library,Celeste: Dragons?,
-line:072a0ff,Intro_Talk_Library,Eris: Hm...[p/] I knew you'd find it interesting.,
+line:0220eea,Intro_Talk_Library,I flashed an apologetic look to my mentor.,我对着自己的导师投向一个歉意的眼神。
+line:0dad30d,Intro_Talk_Library,Eris: Hm...[p/] That [i]does[/i] remind me of a story.,Eris: 嗯……[p/]这[i]有[/i]让我想起一个故事。
+line:0f2f173,Intro_Talk_Library,Tyrion: A...[p/] story?,Tyrion: ……[p/]故事？
+line:093b39e,Intro_Talk_Library,Eris: Mr. Cuthbert.[p/] Are you familiar with the legends about how Wyverngade was created?,Eris: 卡斯伯特先生。[p/]你熟悉维文加德王国的建国传说吗？
+line:05984c5,Intro_Talk_Library,Tyrion: You mean the story about the ancient dragons?,Tyrion: 你是说那个古龙们的故事？
+line:07f7b5a,Intro_Talk_Library,Celeste: Dragons?,Celeste: 龙？
+line:072a0ff,Intro_Talk_Library,Eris: Hm...[p/] I knew you'd find it interesting.,Eris: 嗯……[p/]我想你会发现故事里的有趣之处。
 line:0fbfc76,Intro_Talk_Library,Player: The Ancient Dragons,
 line:056fc7a,Intro_Talk_Library,Celeste: Are you talking about those stories told by the Church of Bahamut?,
 line:0928159,Intro_Talk_Library,"Tyrion: Technically,[p/] there's only ever mention of [i]one[/i] ancient dragon:[p/] Rathallion, the Scaled Lord.",
@@ -4466,10 +4466,10 @@ line:06f3400,Library_Examine,Player: Table,
 line:0c77ec3,Library_Examine,Tyrion: There are tables for students to sit at while they study.,
 line:0888c16,Library_Examine,Celeste: Ugh...[p/] I don't think I could handle studying here day after day.,
 line:0955dcd,Library_Examine,Player: Globe,
-line:0a5e720,Library_Examine,Tyrion: It's a globe of the world.,
-line:083aa69,Library_Examine,Tyrion: It's amazing how many other nations there are aside from Wyverngarde.,
-line:076711c,Library_Examine,Celeste: I've been to most of these places.,
-line:04ff9d7,Library_Examine,"Celeste: You should come with me next time, Tyrion.",
+line:0a5e720,Library_Examine,Tyrion: It's a globe of the world.,Tyrion: 是个地球仪。
+line:083aa69,Library_Examine,Tyrion: It's amazing how many other nations there are aside from Wyverngarde.,Tyrion: 没想到除了维文加德以外还有如此多的国家。
+line:076711c,Library_Examine,Celeste: I've been to most of these places.,Celeste: 这上面的大多数地方我都去过。
+line:04ff9d7,Library_Examine,"Celeste: You should come with me next time, Tyrion.",Celeste: 提利昂，有机会你应该和我一起去看看。
 line:0c4b14f,Library_Examine,Aria: ...Isn't traveling through the border heavily restricted?,
 line:0353d87,Library_Examine,Celeste: O-[p/]Oh...[p/] Uh...,Celeste: 啊、[p/]哦……[p/]呜……
 line:03337a8,Library_Examine,Aria: Don't worry.[p/] I won't report you.,
@@ -4490,17 +4490,17 @@ line:0b59f09,Library_Examine,Player: Books,
 line:0c40b27,Library_Examine,The library was full of books for educational purposes.,
 line:09396a8,Library_Examine,I'd spent all of yesterday morning combing through them for information about the Eye of Horus.,
 line:0fac373,Library_Examine,Player: Holy Text,
-line:08fce5f,Library_Examine,It was a holy text of some sort.,
+line:08fce5f,Library_Examine,It was a holy text of some sort.,某种神圣的经文。
 line:0786b54,Library_Examine,"The story I'd read about the ""Eye of Bahamut"" was in this book.",
 line:0fd8095,Library_Examine,Player: Table,
 line:008b66b,Library_Examine,It was a table for students to sit at.,
 line:0e72023,Library_Examine,I was studying here with Celeste yesterday morning.,
 line:0449823,Library_Examine,Player: Globe,
-line:0cfdc49,Library_Examine,Tyrion: It's a globe of the world.,
-line:049e34c,Library_Examine,Tyrion: It's amazing how many other nations there are aside from Wyverngarde.,
-line:067cbaf,Library_Examine,Celeste: I've been to most of these places.,
-line:019ec8f,Library_Examine,"Celeste: You should come with me next time, Tyrion.",
-line:0cc1f72,Library_Examine,That was a nice thought.,
+line:0cfdc49,Library_Examine,Tyrion: It's a globe of the world.,Tyrion: 是个地球仪。
+line:049e34c,Library_Examine,Tyrion: It's amazing how many other nations there are aside from Wyverngarde.,Tyrion: 没想到除了维文加德以外还有如此多的国家。
+line:067cbaf,Library_Examine,Celeste: I've been to most of these places.,Celeste: 这上面的大多数地方我都去过。
+line:019ec8f,Library_Examine,"Celeste: You should come with me next time, Tyrion.",Celeste: 提利昂，有机会你应该和我一起去看看。
+line:0cc1f72,Library_Examine,That was a nice thought.,这想法不错。
 line:0163104,Library_Examine,Maybe I could travel with her when I was ready to take a break from this.,
 line:0d72286,Library_Examine,Player: Notice,
 line:03e3c9d,Library_Examine,There's some sort of notice taped to one of the shelves.,
@@ -5271,7 +5271,7 @@ line:07d8f95,SchoolFoyer1_Check,"Celeste: Yeah,[p/] I guess my dad was the same 
 line:0292bcf,SchoolFoyer1_Check,Celeste: I guess people show love in different ways.,
 line:09e4865,SchoolFoyer1_Check,"Tyrion: I know you didn't get the best first impression of her,[p/] but I hope you can get along with her.",
 line:0f3354e,SchoolFoyer1_Check,"Celeste: [i]*sigh*[/i][p/] I'll try,[p/] but only because I really like this job.",
-line:0e981cc,SchoolFoyer1_Check,Tyrion: ...Really?,
+line:0e981cc,SchoolFoyer1_Check,Tyrion: ...Really?,Tyrion: ……真的？
 line:0d2560d,SchoolFoyer1_Check,"Celeste: Yeah![p/][s/] You're the best client I've ever had, Tyrion!",
 line:0ed909b,SchoolFoyer1_Check,Tyrion: ...I see.[p/] That's good to hear.,
 line:0538269,SchoolFoyer1_Check,She was probably just saying that.[p/] I'm sure she told every one of her clients the same thing.,
