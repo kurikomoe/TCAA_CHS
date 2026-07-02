@@ -24061,463 +24061,463 @@
   {
     "key": "C2 Dialogue.csv::translation::c92b03ad3d14fbaf",
     "original": "She looked like a woman of the aristocracy.[p/] Every bit of her demeanor carried that—[p/]from the stiffness of her posture to the condescending grimace on her face.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她看起来像是一位贵族女子。[p/]从她强硬的姿势到居高临下的表情，[p/]她的言行举止无不透露着这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:029e8bd\",\n  \"node\": \"LookTBooks\",\n  \"text\": \"She looked like a woman of the aristocracy.[p/] Every bit of her demeanor carried that—[p/]from the stiffness of her posture to the condescending grimace on her face.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::052832cd42621bd7",
     "original": "She glared at each of us like we were the most disgusting things she'd ever seen in her life.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她用一种好似在看此生所见最恶心之事的眼神打量着我们每一个人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09c560c\",\n  \"node\": \"LookTBooks\",\n  \"text\": \"She glared at each of us like we were the most disgusting things she'd ever seen in her life.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe007144e7712688",
     "original": "WALLACE: P-[p/][s/]P-[p/][s/]Professor Bellwether!",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 贝、[p/][s/]贝、[p/][s/]贝尔维瑟教授！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0843743\",\n  \"node\": \"LookTBooks\",\n  \"text\": \"WALLACE: P-[p/][s/]P-[p/][s/]Professor Bellwether!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::40191a426691dd83",
     "original": "CATHERINE: That is [s/][i]Professor[/i][p/] Bellwether to you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CATHERINE: 你应该称呼我贝尔维瑟[i]教授[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ff69c2\",\n  \"node\": \"LookTBooks\",\n  \"text\": \"CATHERINE: That is [s/][i]Professor[/i][p/] Bellwether to you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e890744af07ee1cd",
     "original": "Celeste: But he just called you—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 可他刚刚不就是这样称呼你——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0180ceb\",\n  \"node\": \"LookTBooks\",\n  \"text\": \"Celeste: But he just called you—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::025c87ff7ff204d5",
     "original": "CATHERINE: I knew letting you rabble into our walls would lead to nothing but trouble.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CATHERINE: 我就知道你们这些贱民混进来只会制造麻烦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aa77be\",\n  \"node\": \"LookTBooks\",\n  \"text\": \"CATHERINE: I knew letting you rabble into our walls would lead to nothing but trouble.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be1098c8ad75b877",
     "original": "CATHERINE: ...You’ve even started associating with our malcontents.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CATHERINE: ……你们甚至已经开始和我们这里的问题分子搭上线了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6f214\",\n  \"node\": \"LookTBooks\",\n  \"text\": \"CATHERINE: ...You’ve even started associating with our malcontents.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5560913512214e54",
     "original": "CATHERINE: Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CATHERINE: 华莱士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cdd0be\",\n  \"node\": \"LookTBooks\",\n  \"text\": \"CATHERINE: Wallace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6ab5b77890492ac4",
     "original": "WALLACE: Y-[p/]y-[p/]y-[p/]y-[p/]yes?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 我、[p/]我、[p/]我、[p/]我、[p/]我在？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cfd0e4\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"WALLACE: Y-[p/]y-[p/]y-[p/]y-[p/]yes?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5bfc33e2fa8f20f4",
     "original": "CATHERINE: How am I supposed to understand you when you’re stuttering?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CATHERINE: 你这么结结巴巴的我怎么知道你在说什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f21222\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"CATHERINE: How am I supposed to understand you when you’re stuttering?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c264681b800bbd5c",
     "original": "WALLACE: Y-[p/][s/]Yes,[p/][s/] Professor Bellwether!",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 是、[p/][s/]是，[p/][s/]贝尔维瑟教授！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09ec077\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"WALLACE: Y-[p/][s/]Yes,[p/][s/] Professor Bellwether!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7d2aa7e7064283ef",
     "original": "CATHERINE: Straighten out your uniform and fix that [i]awful[/i] hair.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CATHERINE: 整理好你的制服和那头[i]乱糟糟[/i]的头发。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:043b68a\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"CATHERINE: Straighten out your uniform and fix that [i]awful[/i] hair.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::db31a630091023ce",
     "original": "CATHERINE: I know it’s unreasonable to expect anything more from you,[p/] but try not to look like such a street urchin.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CATHERINE: 我知道对你有任何期待都是徒劳的，[p/]但至少别让自己看着像个街头流浪的小子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:091be65\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"CATHERINE: I know it’s unreasonable to expect anything more from you,[p/] but try not to look like such a street urchin.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e721663dbe333ad9",
     "original": "Wallace shrank away from the professor.[p/] He reacted like a scared and beaten animal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "华莱士从教授身边畏缩地退开，[p/]就像被痛击而受了惊吓的小动物。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0332e36\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"Wallace shrank away from the professor.[p/] He reacted like a scared and beaten animal.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::729188f28097d049",
     "original": "I could see Celeste's fist start to clench.[p/] She looked like she was about to toss the professor across the room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我看到塞莱斯特的拳头逐渐握紧，[p/]她看着就像要把教授扔到房间的另一头去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:048944e\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"I could see Celeste's fist start to clench.[p/] She looked like she was about to toss the professor across the room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::050a47bb2729d2cc",
     "original": "I flashed her a look.[p/] Any trouble we caused would just make things worse for Eris and Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我赶紧向她使眼色。[p/]我们惹下的每个问题都只会让厄莉斯和华莱士的处境更艰难。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d1dc9a\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"I flashed her a look.[p/] Any trouble we caused would just make things worse for Eris and Wallace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cf382fd9c4df6c93",
     "original": "Catherine: As for the rest of you,[p/] your rowdy behavior is disrupting the other students.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Catherine: 至于其他人，[p/]你们的吵闹行为正在干扰其他学生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04c819e\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"Catherine: As for the rest of you,[p/] your rowdy behavior is disrupting the other students.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::78f1f86c1458fee6",
     "original": "Catherine: Leave.[p/] Now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Catherine: 出去，[p/]马上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03b67ec\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"Catherine: Leave.[p/] Now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fdd9672d05d49e97",
     "original": "RUBY: Oh, please.[p/] The headmaster gave us express permission to be here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 哦，拜托。[p/]是校长许可我们进入这里的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:019260f\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"RUBY: Oh, please.[p/] The headmaster gave us express permission to be here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8f04f4472e13f0f7",
     "original": "Catherine: That may be,[p/] but the school board has placed the Imperial Library under my jurisdiction.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Catherine: 可能是这样，[p/]但学院董事会已经决议将帝国图书馆划归我来管理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:097ec81\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"Catherine: That may be,[p/] but the school board has placed the Imperial Library under my jurisdiction.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a73c853406224e68",
     "original": "Catherine: I can remove anyone who disrupts the studies of our prized students.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Catherine: 我可以驱逐任何干扰优秀学生们学习的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07eddc8\",\n  \"node\": \"LookTBooksB\",\n  \"text\": \"Catherine: I can remove anyone who disrupts the studies of our prized students.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::49a3e25c083a7586",
     "original": "Ruby: Why would [i]you[/i] have authority over the library?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: [i]你[/i]怎么会有管理图书馆的权力？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:013f6bc\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Ruby: Why would [i]you[/i] have authority over the library?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::614b7d9b71821d6f",
     "original": "Tyrion: My apologies, Professor.[p/] We'll try to keep our volume lower.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 非常抱歉，教授。[p/]我们会尽量压低声音。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07e8ed7\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Tyrion: My apologies, Professor.[p/] We'll try to keep our volume lower.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::121e5cd4a2a9534f",
     "original": "Catherine: I don't believe I was talking to you,[p/][s/] [i]boy[/i].[p/] Know your place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Catherine: 我可不认为自己有与你说话，[p/][s/][i]小子[/i]。[p/]摆清自己的位置。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:029c10e\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Catherine: I don't believe I was talking to you,[p/][s/] [i]boy[/i].[p/] Know your place.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::144b30458a9949d9",
     "original": "Celeste: Oh, Tyrion.[p/] [i]Please[/i] tell me you feel threatened so I can \"defend\" you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 哎呀，提利昂。[p/][i]请[/i]告诉我你正遭受威胁，这样我就能“保护”你了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0779b4a\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Celeste: Oh, Tyrion.[p/] [i]Please[/i] tell me you feel threatened so I can \\\"defend\\\" you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::aca4f1be47ea78f4",
     "original": "I wanted to avoid a confrontation,[p/] but a part of me really wanted to see that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我试图避免正面冲突，[p/]但我心里也有点想看她那么做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d89ceb\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"I wanted to avoid a confrontation,[p/] but a part of me really wanted to see that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0366d7d6b544f1f7",
     "original": "Catherine: If you refuse to leave,[p/] I'll have no choice but to remove you myself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Catherine: 如果你们拒绝自行离开，[p/]我就只能自己动手了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06f5708\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Catherine: If you refuse to leave,[p/] I'll have no choice but to remove you myself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::caa8b2563a66e944",
     "original": "Catherine: I'll have you know that I'm the most accomplished mage at this academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Catherine: 我会让你们知道本人正是学院里最卓越的法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:047efed\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Catherine: I'll have you know that I'm the most accomplished mage at this academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dfc2950fb4f37b91",
     "original": "Celeste: Trust me.[p/] You'll find spellcasting difficult while something's hitting you in the face. [h=\"Come at me, bitch.|I'll wear you like a sweater.\" e=\"ha\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 信我。[p/]当有人一拳打在你脸上时，你会发现施放魔法是一件多么困难的事情。 [h=\"来啊，贱人。|看我秒杀你。\" e=\"ha\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01ffa45\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Celeste: Trust me.[p/] You'll find spellcasting difficult while something's hitting you in the face. [h=\\\"Come at me, bitch.|I'll wear you like a sweater.\\\" e=\\\"ha\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ebd62437a95da292",
     "original": "...I definitely caught hints of Flinhart in her thoughts every so often.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……我时不时在她的思绪中捕捉到弗林哈特的影子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b02369\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"...I definitely caught hints of Flinhart in her thoughts every so often.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::647bba453a7a2984",
     "original": "CATHERINE: H-[p/][s/]Hmph...[p/] I don't have to stand for this. [h=\"That girl is like a rabid dog...|It'd be best to keep my distance.\" e=\"f\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "CATHERINE: 咳、[p/][s/]哼…….[p/]我不必在这里忍受这个。 [h=\"那个女孩像条疯狗一样……|最好离她远一点。\" e=\"f\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00c6774\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"CATHERINE: H-[p/][s/]Hmph...[p/] I don't have to stand for this. [h=\\\"That girl is like a rabid dog...|It'd be best to keep my distance.\\\" e=\\\"f\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5fc86d8be8783f5",
     "original": "Catherine: I was just on my way to speak with the headmaster.[p/] He [i]will[/i] be hearing of this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Catherine: 我正好就要去和校长谈谈。[p/]他[i]会l[/i]听闻这一切的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0923ee7\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Catherine: I was just on my way to speak with the headmaster.[p/] He [i]will[/i] be hearing of this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fb4feae04c263167",
     "original": "Celeste: Oh,[p/][s/] you're going to tell on us?[p/][s/] I'm [i]so[/i] scared!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 噢？[p/][s/]你想告我们的状吗？[p/][s/]我[i]好[/i]害怕哦！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:073012e\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Celeste: Oh,[p/][s/] you're going to tell on us?[p/][s/] I'm [i]so[/i] scared!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::09d90246f6655377",
     "original": "WALLACE: ...Celeste,[p/] you're a little scary.",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: ……塞莱斯特，[p/]你有点吓人了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01a95f0\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"WALLACE: ...Celeste,[p/] you're a little scary.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6349dc253f2363b5",
     "original": "Celeste: Aw...[p/] Thank you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 喔……[p/]谢啦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00cfe7d\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Celeste: Aw...[p/] Thank you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fc022aef24d4bb06",
     "original": "ERIS: Anyways,[p/] Wallace.[p/] You’ve finished this week’s assignment, haven’t you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 算啦。[p/] 华莱士，[p/]你这周作业都做完了对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04b0f9b\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"ERIS: Anyways,[p/] Wallace.[p/] You’ve finished this week’s assignment, haven’t you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3aa791ebb16aed50",
     "original": "Eris: Would you mind entertaining Celeste while I aid Mr. Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 在我帮卡斯伯特先生研究的时候，你介意招待一下塞莱斯特吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01fe8a6\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"Eris: Would you mind entertaining Celeste while I aid Mr. Cuthbert?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d33c6d5102bc9dc4",
     "original": "WALLACE: U-[p/][s/]Um...[p/] I don’t know...",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 呃、[p/][s/]嗯……[p/]我不知道……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bb583f\",\n  \"node\": \"LookTBooksC\",\n  \"text\": \"WALLACE: U-[p/][s/]Um...[p/] I don’t know...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::036ac1d6209e81f6",
     "original": "CELESTE: Now that you mention it...[p/] I could really use some help learning a new spell formula.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 既然你都这么说了……[p/]我确实需要人帮忙找一个具体的魔法范式。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d19dba\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"CELESTE: Now that you mention it...[p/] I could really use some help learning a new spell formula.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f7a74953f523e1b2",
     "original": "CELESTE: You know your way around here.[p/] Right, Wallace?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你对这里很熟悉吧。[p/]是不，华莱士？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09ee2ea\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"CELESTE: You know your way around here.[p/] Right, Wallace?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dd5ff4c837e1c6d5",
     "original": "WALLACE: U-[p/][s/]Um...[p/] O-[p/][s/]okay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 呃、[p/][s/]嗯……[p/]好、[p/][s/]好的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ce2d78\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"WALLACE: U-[p/][s/]Um...[p/] O-[p/][s/]okay.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7a20694b741923e4",
     "original": "RUBY: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:011cb98\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"RUBY: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b4c8a76e895c37ca",
     "original": "TYRION: I’ll be discreet, Ms. Tymora.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我会小心的，泰摩拉女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:019f01b\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"TYRION: I’ll be discreet, Ms. Tymora.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b67e9a4474b143b2",
     "original": "RUBY: ...Please do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: ……拜托你一定要这么做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01517e4\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"RUBY: ...Please do.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::091f25b84de9031d",
     "original": "RUBY: I still have some business to take care of here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 我在这里还有其他事情要处理。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08e1a43\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"RUBY: I still have some business to take care of here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3d56ac7f72dd7b27",
     "original": "Ruby: I'll leave you to it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 接下来都靠你们自己了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03835dc\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"Ruby: I'll leave you to it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b318f6558d0bda1b",
     "original": "She was about to leave,[p/] but she stared at Eris warily.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她正要离开的时候，[p/]转头警惕地盯着厄莉斯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0114b62\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"She was about to leave,[p/] but she stared at Eris warily.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eeb8f750a3dfd3a9",
     "original": "Eris: ...Is something wrong, Ruby?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……有什么问题吗，鲁比？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00c87c7\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"Eris: ...Is something wrong, Ruby?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5de5db39597e44c3",
     "original": "Ruby: No.[p/] Not at all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 不，[p/]没有任何问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f80509\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"Ruby: No.[p/] Not at all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9eff18d6fea5a0dd",
     "original": "I spent the next few hours searching through the library’s books with Eris.",
-    "translation": "",
-    "stage": 0,
+    "translation": "接下来几个小时，我与厄莉斯一起在图书馆搜寻资料。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b2f960\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"I spent the next few hours searching through the library’s books with Eris.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::047dbd10a2a81dca",
     "original": "I hadn’t thought to look into the ancient dragons.[p/] The library had religious texts about them in abundance.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我之前没想过要调查那些古龙，[p/]刚好图书馆里有很多关于他们的宗教典籍。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f8688\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"I hadn’t thought to look into the ancient dragons.[p/] The library had religious texts about them in abundance.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c3f731e8f0b5b36b",
     "original": "There was one problem, though...",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽说还是有一个问题……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01d1af6\",\n  \"node\": \"LookTBooksD\",\n  \"text\": \"There was one problem, though...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9924bb8a86fa04b7",
     "original": "TYRION: These texts read more like myths than real historical documents.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 这些文本读起来与其说是历史记录，更像是神话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0485beb\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"TYRION: These texts read more like myths than real historical documents.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6fb1889188f434e9",
     "original": "ERIS: It can’t be helped.[p/] The Church of Bahamut has far too much influence in Wyverngarde.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 帮不上忙呢。[p/]巴哈姆特教会在维文加德的影响力太大了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0798d8e\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"ERIS: It can’t be helped.[p/] The Church of Bahamut has far too much influence in Wyverngarde.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::36be85a9878005f9",
     "original": "Eris: To them,[p/] history is a narrative to be embellished rather than something to be preserved.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 对他们而言，[p/]讲述历史时要加以修饰，而不是保持原样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d0d7a8\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"Eris: To them,[p/] history is a narrative to be embellished rather than something to be preserved.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::05f8f773c24631cd",
     "original": "Eris: The bones of dragons are displayed in Wyverngarde's museums.[p/] Without those,[p/] most would have no evidence that they even existed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 维文加德的博物馆里展示有一些龙骨。[p/]要没有那些，[p/]基本上就没有证明它们存在过的证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:015f201\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"Eris: The bones of dragons are displayed in Wyverngarde's museums.[p/] Without those,[p/] most would have no evidence that they even existed.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::92da3ba08dff38ee",
     "original": "TYRION: Except for Rathallion, possibly...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 拉萨利昂可能是例外，大概吧……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01dc735\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"TYRION: Except for Rathallion, possibly...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c44634cd1f7aff24",
     "original": "Tyrion: According to these legends,[p/] dragons can't die of old age.[p/] Presumably,[p/] he'd still be alive.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 根据那些传说，[p/]龙是不会老死的。[p/]没准祂还活着呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05a7634\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"Tyrion: According to these legends,[p/] dragons can't die of old age.[p/] Presumably,[p/] he'd still be alive.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0dfe3c2c42efe0d9",
     "original": "ERIS: I wouldn’t be surprised.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 是的话我也不意外。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:087ce77\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"ERIS: I wouldn’t be surprised.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3bce8d099c182069",
     "original": "Eris: Despite everything,[p/] the kingdom includes him in our constitution.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 不管怎么说，[p/]王国仍然将它列入宪法之中。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03f6fff\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"Eris: Despite everything,[p/] the kingdom includes him in our constitution.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::559d10a01bf80924",
     "original": "TYRION: Wait...[p/] Really?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等一等……[p/]真的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03b20b5\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"TYRION: Wait...[p/] Really?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6c9763d2d8785a4a",
     "original": "ERIS: As the savior of our kingdom,[p/] he and his kin were given an honorary position in our kingdom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 作为我们王国的救世主，[p/]他和自己的血亲有个荣誉职位。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0af0226\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"ERIS: As the savior of our kingdom,[p/] he and his kin were given an honorary position in our kingdom.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::05cbfd5b5f0c81bb",
     "original": "ERIS: The Scaled Lord made Wyverngarde what it is today.[p/] He was given authority that befits such a legacy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 是鳞甲领主造就了维文加德今天拥有的一切。[p/]它被赋予了与这些遗留相称的威权。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0add678\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"ERIS: The Scaled Lord made Wyverngarde what it is today.[p/] He was given authority that befits such a legacy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34e0461f43407bd5",
     "original": "TYRION: How have I never heard of this before?[p/] I've memorized all of Wyverngarde's laws.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我之前怎么没听说过？[p/]我记得王国的每一条法令啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01fad7b\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"TYRION: How have I never heard of this before?[p/] I've memorized all of Wyverngarde's laws.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a6e4a878d31c1341",
     "original": "Eris: Practically speaking,[p/] it's never been invoked.[p/] It's merely a law spun of reverent words to praise the Scaled Lord and appease the Church.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 实际上讲，[p/]这一条文从未使用过。[p/]这仅仅是一条用虔敬的言辞编纂的法律，用于赞美鳞甲领主并安抚教会。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e5aaae\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"Eris: Practically speaking,[p/] it's never been invoked.[p/] It's merely a law spun of reverent words to praise the Scaled Lord and appease the Church.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::444b9b7d3e8608a8",
     "original": "TYRION: [s/]A-[p/]Ah!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: [s/]啊、[p/]哎呀！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d0b55b\",\n  \"node\": \"LookTBooksE\",\n  \"text\": \"TYRION: [s/]A-[p/]Ah!\"\n}"
   },
   {
