@@ -22412,31 +22412,31 @@
   {
     "key": "C2 Dialogue.csv::translation::f03135188d4e5557",
     "original": "VALENTINA: ...! [h=\"Did he just say,|[i]scan for magical traces[/i]?!\" e=\"f\" /]",
-    "translation": "",
+    "translation": "VALENTINA: ……！ [h=\"他刚刚是不是说，|[i]扫描一下魔法痕迹[/i]?!\" e=\"f\" /]",
     "context": "{\n  \"id\": \"line:099eca1\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"VALENTINA: ...! [h=\\\"Did he just say,|[i]scan for magical traces[/i]?!\\\" e=\\\"f\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0d579decab6d5f0c",
     "original": "VALENTINA: O-[p/]Oh![p/][s/] I-[p/][s/]I’ll just get out of your way, then!",
-    "translation": "",
+    "translation": "VALENTINA: 这、[p/]这样啊！[p/][s/]那、[p/][s/]那我先走了，免得碍你们的事！",
     "context": "{\n  \"id\": \"line:0c3aaf5\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"VALENTINA: O-[p/]Oh![p/][s/] I-[p/][s/]I’ll just get out of your way, then!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::97b4a45db12e48f0",
     "original": "Before we could even acknowledge her,[p/] Valentina broke out into a sprint and fled from the kitchen.",
-    "translation": "",
+    "translation": "我们还没来得及向她打招呼，[p/]瓦伦蒂娜突然开始冲刺，从厨房逃走了。",
     "context": "{\n  \"id\": \"line:0808649\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Before we could even acknowledge her,[p/] Valentina broke out into a sprint and fled from the kitchen.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2d22dd82bf208ec2",
     "original": "Celeste: Wow...[p/] She can run pretty fast.",
-    "translation": "",
+    "translation": "Celeste: 哇哦……[p/]她跑得好快啊。",
     "context": "{\n  \"id\": \"line:0a740ad\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Celeste: Wow...[p/] She can run pretty fast.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb7489ed6eeee1c3",
     "original": "What was [i]that[/i] about?",
-    "translation": "",
+    "translation": "她这是[i]怎么个情况[/i]？",
     "context": "{\n  \"id\": \"line:03ee03f\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"What was [i]that[/i] about?\"\n}"
   },
   {
@@ -22448,7 +22448,7 @@
   {
     "key": "C2 Dialogue.csv::translation::da7cf299dab99488",
     "original": "There was a rack of cooking implements hanging from the wall.",
-    "translation": "",
+    "translation": "墙上挂着一系列烹饪用具。",
     "context": "{\n  \"id\": \"line:085f0f3\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"There was a rack of cooking implements hanging from the wall.\"\n}"
   },
   {
@@ -22460,7 +22460,7 @@
   {
     "key": "C2 Dialogue.csv::translation::9e78decd5a9e44d7",
     "original": "Several commonly used ingredients were close to the cooking area.",
-    "translation": "",
+    "translation": "作业区边上放着常用食材。",
     "context": "{\n  \"id\": \"line:08a6bba\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Several commonly used ingredients were close to the cooking area.\"\n}"
   },
   {
@@ -22472,19 +22472,19 @@
   {
     "key": "C2 Dialogue.csv::translation::3b7135537cf1afd1",
     "original": "Tyrion: There's a barrel full of some sort of drink.",
-    "translation": "",
+    "translation": "Tyrion: 这里有一满桶的某种饮料。",
     "context": "{\n  \"id\": \"line:0ee460a\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Tyrion: There's a barrel full of some sort of drink.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8e22bb28ed602216",
     "original": "Celeste: I wonder...",
-    "translation": "",
+    "translation": "Celeste: 我在想……",
     "context": "{\n  \"id\": \"line:09940f4\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Celeste: I wonder...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0b522d1fa756238c",
     "original": "Tyrion: It's probably not Lotus Juice, Celeste...",
-    "translation": "",
+    "translation": "Tyrion: 那大概不是莲之水哦，塞莱斯特……",
     "context": "{\n  \"id\": \"line:07954c9\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Tyrion: It's probably not Lotus Juice, Celeste...\"\n}"
   },
   {
@@ -22496,55 +22496,55 @@
   {
     "key": "C2 Dialogue.csv::translation::6bd3fb1167e9b0e2",
     "original": "Tyrion: Oh,[p/] it's a plate of bread.",
-    "translation": "",
+    "translation": "Tyrion: 噢，[p/]有一盘面包。",
     "context": "{\n  \"id\": \"line:0a0a2d7\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Tyrion: Oh,[p/] it's a plate of bread.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2907411037405680",
     "original": "Tyrion: They probably serve these as sides to the entrees.",
-    "translation": "",
+    "translation": "Tyrion: 大概是作为主菜的配菜供应的。",
     "context": "{\n  \"id\": \"line:0a8a64f\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Tyrion: They probably serve these as sides to the entrees.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::517cc03a7259bf39",
     "original": "Celeste: ...Don't get any ideas, Tyrion.",
-    "translation": "",
+    "translation": "Celeste: ……别抱坏心思，提利昂。",
     "context": "{\n  \"id\": \"line:0d666f7\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Celeste: ...Don't get any ideas, Tyrion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::82facc5425b70168",
     "original": "Celeste: Remember when we went to that fancy restaurant?",
-    "translation": "",
+    "translation": "Celeste: 还记得我们去那个高档餐厅的时候吗？",
     "context": "{\n  \"id\": \"line:00593b5\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Celeste: Remember when we went to that fancy restaurant?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::db296142fcbbe6a8",
     "original": "Celeste: You just [i]kept[/i] ordering breadsticks and butter.",
-    "translation": "",
+    "translation": "Celeste: 你当时[i]一直[/i]只点面包条和黄油。",
     "context": "{\n  \"id\": \"line:0245a83\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Celeste: You just [i]kept[/i] ordering breadsticks and butter.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3d3ac96390b86d1a",
     "original": "Tyrion: The bread is [i]free[/i]![p/][s/] I might as well take advantage of it!",
-    "translation": "",
+    "translation": "Tyrion: 那些面包都是[i]免费[/]i的啊！[p/][s/]那我为什么不好好利用一下！",
     "context": "{\n  \"id\": \"line:0dc76e6\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Tyrion: The bread is [i]free[/i]![p/][s/] I might as well take advantage of it!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6e5b6ac6d24ae7f0",
     "original": "Celeste: You know,[p/] eating that many carbs isn't good for you.",
-    "translation": "",
+    "translation": "Celeste: 你应该知道吃太多碳水食品对身体也不好啊。",
     "context": "{\n  \"id\": \"line:06bc8cd\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Celeste: You know,[p/] eating that many carbs isn't good for you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c49c6ef7b604c7d6",
     "original": "Tyrion: It's not as if I'm gaining any weight.",
-    "translation": "",
+    "translation": "Tyrion: 说得好像我体重增加了一样。",
     "context": "{\n  \"id\": \"line:077a433\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Tyrion: It's not as if I'm gaining any weight.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::38125be08436efc0",
     "original": "Celeste: ...Weird,[p/] I've never had that problem either.",
-    "translation": "",
+    "translation": "Celeste: ……说来奇怪，[p/]我自己也没遇到过这种问题。",
     "context": "{\n  \"id\": \"line:044c477\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Celeste: ...Weird,[p/] I've never had that problem either.\"\n}"
   },
   {
@@ -22556,13 +22556,13 @@
   {
     "key": "C2 Dialogue.csv::translation::b60da0ad8e2aede8",
     "original": "There was a large cooking station here.",
-    "translation": "",
+    "translation": "一个庞大的烹饪工作台。",
     "context": "{\n  \"id\": \"line:0383eba\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"There was a large cooking station here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::593598c88f4520ee",
     "original": "They must've prepared the meals in bulk here.",
-    "translation": "",
+    "translation": "她们一定是在这里批量准备餐饮。",
     "context": "{\n  \"id\": \"line:0546e7d\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"They must've prepared the meals in bulk here.\"\n}"
   },
   {
@@ -22574,7 +22574,7 @@
   {
     "key": "C2 Dialogue.csv::translation::8395494bd6ccf69e",
     "original": "There was a set of pots for cooking soups and the like.",
-    "translation": "",
+    "translation": "放置着一套用来做汤或者类似菜肴的罐子。",
     "context": "{\n  \"id\": \"line:00ab58a\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"There was a set of pots for cooking soups and the like.\"\n}"
   },
   {
@@ -22586,13 +22586,13 @@
   {
     "key": "C2 Dialogue.csv::translation::109ae33a7dca8474",
     "original": "They must've served the students' meals on these plates.",
-    "translation": "",
+    "translation": "她们肯定是将学生们的用餐盛放到这些盘子上。",
     "context": "{\n  \"id\": \"line:0481777\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"They must've served the students' meals on these plates.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7571b294791b431d",
     "original": "It was a shame they had to close the kitchen due to the investigation.",
-    "translation": "",
+    "translation": "为了调查而不得不关闭这件厨房还是挺可惜的。",
     "context": "{\n  \"id\": \"line:05125de\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"It was a shame they had to close the kitchen due to the investigation.\"\n}"
   },
   {
@@ -22604,37 +22604,37 @@
   {
     "key": "C2 Dialogue.csv::translation::ed62ac16fb652dd5",
     "original": "There was a large sack of produce in the corner.",
-    "translation": "",
+    "translation": "角落里放着一大袋农产品。",
     "context": "{\n  \"id\": \"line:0f1a791\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"There was a large sack of produce in the corner.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::15037c3233ba7e10",
     "original": "There was some wine there, too.",
-    "translation": "",
+    "translation": "里面还装了几瓶酒。",
     "context": "{\n  \"id\": \"line:06e5d14\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"There was some wine there, too.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f8d1844d87e3e829",
     "original": "It must be for cooking...[p/] Or the professors.",
-    "translation": "",
+    "translation": "肯定是用于烹饪的……[p/]或者是供教授们享用。",
     "context": "{\n  \"id\": \"line:0135f12\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"It must be for cooking...[p/] Or the professors.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f73f8930cf9f0ad",
     "original": "I wanted to take a look around the kitchen,[p/] but Valentina seemed a little anxious.",
-    "translation": "",
+    "translation": "我本想在厨房各处仔细看看，[p/]但瓦伦蒂娜看起来有些焦躁。",
     "context": "{\n  \"id\": \"line:03f4933\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"I wanted to take a look around the kitchen,[p/] but Valentina seemed a little anxious.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1779939e587fad3c",
     "original": "Snooping around might've scared her off.",
-    "translation": "",
+    "translation": "到处翻检恐怕会惊扰到她。",
     "context": "{\n  \"id\": \"line:0ccadcf\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"Snooping around might've scared her off.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e5d994220ff0f508",
     "original": "I needed to TALK to her before EXAMINING the kitchen.",
-    "translation": "",
+    "translation": "在<size=1.5em>检查</size>厨房之前我得和她<size=1.5em>对话</size>。",
     "context": "{\n  \"id\": \"line:08c760e\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"I needed to TALK to her before EXAMINING the kitchen.\"\n}"
   },
   {
@@ -22652,31 +22652,31 @@
   {
     "key": "C2 Dialogue.csv::translation::a21fcd8d06c6057c",
     "original": "TYRION: Ms. Ianus,[p/] there appears to be traces of [b]necromancy[/b] on Bellwether’s body.",
-    "translation": "",
+    "translation": "TYRION: 伊努斯女士。[p/]贝尔维瑟的尸体上有发现[b]死灵术[/b]的痕迹。",
     "context": "{\n  \"id\": \"line:02394f7\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"TYRION: Ms. Ianus,[p/] there appears to be traces of [b]necromancy[/b] on Bellwether’s body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f2b93c178bcbd15",
     "original": "VALENTINA: T-[p/][s/]That’s because that necromancer killed her, right?",
-    "translation": "",
+    "translation": "VALENTINA: 那、[p/][s/]那不是因为那个死灵法师杀了她吗？",
     "context": "{\n  \"id\": \"line:0e7b9c9\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"VALENTINA: T-[p/][s/]That’s because that necromancer killed her, right?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a183c437be0e5ba1",
     "original": "TYRION: That’s the thing.[p/] If [i]that[/i] were true,[p/] a lot of the evidence we found doesn't make sense.",
-    "translation": "",
+    "translation": "TYRION: 说到点了。[p/]如果[i]那个[/i]理论成立，[p/]那我们目前找到的许多证据都不合理。",
     "context": "{\n  \"id\": \"line:0f52743\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"TYRION: That’s the thing.[p/] If [i]that[/i] were true,[p/] a lot of the evidence we found doesn't make sense.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::aa9b708e90bf48ca",
     "original": "TYRION: I think someone [i]else[/i] cast a spell on the body.",
-    "translation": "",
+    "translation": "TYRION: 我认为还有[i]别人[/i]在尸体上施过法。",
     "context": "{\n  \"id\": \"line:038205f\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"TYRION: I think someone [i]else[/i] cast a spell on the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a0024ec3a7538403",
     "original": "VALENTINA: ...!",
-    "translation": "",
+    "translation": "VALENTINA: ……！",
     "context": "{\n  \"id\": \"line:0159f09\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"VALENTINA: ...!\"\n}"
   },
   {

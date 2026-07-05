@@ -4052,54 +4052,54 @@ line:07c527e,MurderReveal_4,I was reluctant to admit that I was just as excited 
 line:03b0705,Kitchen_Examine,"TYRION: Celeste,[p/] this room was close to the crime scene.",TYRION: 塞莱斯特，[p/]厨房离犯罪现场很近。
 line:00c96cb,Kitchen_Examine,TYRION: Could you cast [b]Detect Magic[/b] and scan for magical traces?,TYRION: 你能施放[b]法术探测[/b]扫描一下魔法痕迹吗？
 line:00a8c85,Kitchen_Examine,CELESTE: Sure.,CELESTE: 没问题。
-line:099eca1,Kitchen_Examine,"VALENTINA: ...! [h=""Did he just say,|[i]scan for magical traces[/i]?!"" e=""f"" /]",
-line:0c3aaf5,Kitchen_Examine,"VALENTINA: O-[p/]Oh![p/][s/] I-[p/][s/]I’ll just get out of your way, then!",
-line:0808649,Kitchen_Examine,"Before we could even acknowledge her,[p/] Valentina broke out into a sprint and fled from the kitchen.",
-line:0a740ad,Kitchen_Examine,Celeste: Wow...[p/] She can run pretty fast.,
-line:03ee03f,Kitchen_Examine,What was [i]that[/i] about?,
+line:099eca1,Kitchen_Examine,"VALENTINA: ...! [h=""Did he just say,|[i]scan for magical traces[/i]?!"" e=""f"" /]","VALENTINA: ……！ [h=""他刚刚是不是说，|[i]扫描一下魔法痕迹[/i]?!"" e=""f"" /]"
+line:0c3aaf5,Kitchen_Examine,"VALENTINA: O-[p/]Oh![p/][s/] I-[p/][s/]I’ll just get out of your way, then!",VALENTINA: 这、[p/]这样啊！[p/][s/]那、[p/][s/]那我先走了，免得碍你们的事！
+line:0808649,Kitchen_Examine,"Before we could even acknowledge her,[p/] Valentina broke out into a sprint and fled from the kitchen.",我们还没来得及向她打招呼，[p/]瓦伦蒂娜突然开始冲刺，从厨房逃走了。
+line:0a740ad,Kitchen_Examine,Celeste: Wow...[p/] She can run pretty fast.,Celeste: 哇哦……[p/]她跑得好快啊。
+line:03ee03f,Kitchen_Examine,What was [i]that[/i] about?,她这是[i]怎么个情况[/i]？
 line:030390c,Kitchen_Examine,Player: Spoons,
-line:085f0f3,Kitchen_Examine,There was a rack of cooking implements hanging from the wall.,
+line:085f0f3,Kitchen_Examine,There was a rack of cooking implements hanging from the wall.,墙上挂着一系列烹饪用具。
 line:00e92e7,Kitchen_Examine,Player: Ingredients,
-line:08a6bba,Kitchen_Examine,Several commonly used ingredients were close to the cooking area.,
+line:08a6bba,Kitchen_Examine,Several commonly used ingredients were close to the cooking area.,作业区边上放着常用食材。
 line:0161db1,Kitchen_Examine,Player: Barrels,
-line:0ee460a,Kitchen_Examine,Tyrion: There's a barrel full of some sort of drink.,
-line:09940f4,Kitchen_Examine,Celeste: I wonder...,
-line:07954c9,Kitchen_Examine,"Tyrion: It's probably not Lotus Juice, Celeste...",
+line:0ee460a,Kitchen_Examine,Tyrion: There's a barrel full of some sort of drink.,Tyrion: 这里有一满桶的某种饮料。
+line:09940f4,Kitchen_Examine,Celeste: I wonder...,Celeste: 我在想……
+line:07954c9,Kitchen_Examine,"Tyrion: It's probably not Lotus Juice, Celeste...",Tyrion: 那大概不是莲之水哦，塞莱斯特……
 line:05845bb,Kitchen_Examine,Celeste: ...,Celeste: ……
 line:0bd437e,Kitchen_Examine,Player: Bread,
-line:0a0a2d7,Kitchen_Examine,"Tyrion: Oh,[p/] it's a plate of bread.",
-line:0a8a64f,Kitchen_Examine,Tyrion: They probably serve these as sides to the entrees.,
-line:0d666f7,Kitchen_Examine,"Celeste: ...Don't get any ideas, Tyrion.",
+line:0a0a2d7,Kitchen_Examine,"Tyrion: Oh,[p/] it's a plate of bread.",Tyrion: 噢，[p/]有一盘面包。
+line:0a8a64f,Kitchen_Examine,Tyrion: They probably serve these as sides to the entrees.,Tyrion: 大概是作为主菜的配菜供应的。
+line:0d666f7,Kitchen_Examine,"Celeste: ...Don't get any ideas, Tyrion.",Celeste: ……别抱坏心思，提利昂。
 line:04b247d,Kitchen_Examine,Tyrion: ...What?,Tyrion: ……什么？
-line:00593b5,Kitchen_Examine,Celeste: Remember when we went to that fancy restaurant?,
-line:0245a83,Kitchen_Examine,Celeste: You just [i]kept[/i] ordering breadsticks and butter.,
-line:0dc76e6,Kitchen_Examine,Tyrion: The bread is [i]free[/i]![p/][s/] I might as well take advantage of it!,
-line:06bc8cd,Kitchen_Examine,"Celeste: You know,[p/] eating that many carbs isn't good for you.",
-line:077a433,Kitchen_Examine,Tyrion: It's not as if I'm gaining any weight.,
-line:044c477,Kitchen_Examine,"Celeste: ...Weird,[p/] I've never had that problem either.",
+line:00593b5,Kitchen_Examine,Celeste: Remember when we went to that fancy restaurant?,Celeste: 还记得我们去那个高档餐厅的时候吗？
+line:0245a83,Kitchen_Examine,Celeste: You just [i]kept[/i] ordering breadsticks and butter.,Celeste: 你当时[i]一直[/i]只点面包条和黄油。
+line:0dc76e6,Kitchen_Examine,Tyrion: The bread is [i]free[/i]![p/][s/] I might as well take advantage of it!,Tyrion: 那些面包都是[i]免费[/]i的啊！[p/][s/]那我为什么不好好利用一下！
+line:06bc8cd,Kitchen_Examine,"Celeste: You know,[p/] eating that many carbs isn't good for you.",Celeste: 你应该知道吃太多碳水食品对身体也不好啊。
+line:077a433,Kitchen_Examine,Tyrion: It's not as if I'm gaining any weight.,Tyrion: 说得好像我体重增加了一样。
+line:044c477,Kitchen_Examine,"Celeste: ...Weird,[p/] I've never had that problem either.",Celeste: ……说来奇怪，[p/]我自己也没遇到过这种问题。
 line:0ba5343,Kitchen_Examine,Player: Station,
-line:0383eba,Kitchen_Examine,There was a large cooking station here.,
-line:0546e7d,Kitchen_Examine,They must've prepared the meals in bulk here.,
+line:0383eba,Kitchen_Examine,There was a large cooking station here.,一个庞大的烹饪工作台。
+line:0546e7d,Kitchen_Examine,They must've prepared the meals in bulk here.,她们一定是在这里批量准备餐饮。
 line:05e04a4,Kitchen_Examine,Player: Pots,
-line:00ab58a,Kitchen_Examine,There was a set of pots for cooking soups and the like.,
+line:00ab58a,Kitchen_Examine,There was a set of pots for cooking soups and the like.,放置着一套用来做汤或者类似菜肴的罐子。
 line:04a82a7,Kitchen_Examine,Player: Plates,
-line:0481777,Kitchen_Examine,They must've served the students' meals on these plates.,
-line:05125de,Kitchen_Examine,It was a shame they had to close the kitchen due to the investigation.,
+line:0481777,Kitchen_Examine,They must've served the students' meals on these plates.,她们肯定是将学生们的用餐盛放到这些盘子上。
+line:05125de,Kitchen_Examine,It was a shame they had to close the kitchen due to the investigation.,为了调查而不得不关闭这件厨房还是挺可惜的。
 line:0e2dde0,Kitchen_Examine,Player: Stuff,
-line:0f1a791,Kitchen_Examine,There was a large sack of produce in the corner.,
-line:06e5d14,Kitchen_Examine,"There was some wine there, too.",
-line:0135f12,Kitchen_Examine,It must be for cooking...[p/] Or the professors.,
+line:0f1a791,Kitchen_Examine,There was a large sack of produce in the corner.,角落里放着一大袋农产品。
+line:06e5d14,Kitchen_Examine,"There was some wine there, too.",里面还装了几瓶酒。
+line:0135f12,Kitchen_Examine,It must be for cooking...[p/] Or the professors.,肯定是用于烹饪的……[p/]或者是供教授们享用。
 line:0367894,Kitchen_Examine,Player: Back,
-line:03f4933,Kitchen_Examine,"I wanted to take a look around the kitchen,[p/] but Valentina seemed a little anxious.",
-line:0ccadcf,Kitchen_Examine,Snooping around might've scared her off.,
-line:08c760e,Kitchen_Examine,I needed to TALK to her before EXAMINING the kitchen.,
+line:03f4933,Kitchen_Examine,"I wanted to take a look around the kitchen,[p/] but Valentina seemed a little anxious.",我本想在厨房各处仔细看看，[p/]但瓦伦蒂娜看起来有些焦躁。
+line:0ccadcf,Kitchen_Examine,Snooping around might've scared her off.,到处翻检恐怕会惊扰到她。
+line:08c760e,Kitchen_Examine,I needed to TALK to her before EXAMINING the kitchen.,在<size=1.5em>检查</size>厨房之前我得和她<size=1.5em>对话</size>。
 line:0b809d8,Kitchen_Talk,Player: Necromancy on you,
 line:0b8a08e,Kitchen_Talk,Player: Magic on the body,
-line:02394f7,Kitchen_Talk,"TYRION: Ms. Ianus,[p/] there appears to be traces of [b]necromancy[/b] on Bellwether’s body.",
-line:0e7b9c9,Kitchen_Talk,"VALENTINA: T-[p/][s/]That’s because that necromancer killed her, right?",
-line:0f52743,Kitchen_Talk,"TYRION: That’s the thing.[p/] If [i]that[/i] were true,[p/] a lot of the evidence we found doesn't make sense.",
-line:038205f,Kitchen_Talk,TYRION: I think someone [i]else[/i] cast a spell on the body.,
-line:0159f09,Kitchen_Talk,VALENTINA: ...!,
+line:02394f7,Kitchen_Talk,"TYRION: Ms. Ianus,[p/] there appears to be traces of [b]necromancy[/b] on Bellwether’s body.",TYRION: 伊努斯女士。[p/]贝尔维瑟的尸体上有发现[b]死灵术[/b]的痕迹。
+line:0e7b9c9,Kitchen_Talk,"VALENTINA: T-[p/][s/]That’s because that necromancer killed her, right?",VALENTINA: 那、[p/][s/]那不是因为那个死灵法师杀了她吗？
+line:0f52743,Kitchen_Talk,"TYRION: That’s the thing.[p/] If [i]that[/i] were true,[p/] a lot of the evidence we found doesn't make sense.",TYRION: 说到点了。[p/]如果[i]那个[/i]理论成立，[p/]那我们目前找到的许多证据都不合理。
+line:038205f,Kitchen_Talk,TYRION: I think someone [i]else[/i] cast a spell on the body.,TYRION: 我认为还有[i]别人[/i]在尸体上施过法。
+line:0159f09,Kitchen_Talk,VALENTINA: ...!,VALENTINA: ……！
 line:0981661,Kitchen_Talk,She became even more tense than before.,
 line:0c3d394,Kitchen_Talk,TYRION: ...Is it possible that you saw someone use magic on Bellwether?,
 line:0a8db47,Kitchen_Talk,"VALENTINA: N-[p/][s/]No![p/][s/] Definitely, not! [h=""Calm down!|There’s no way they know!"" e=""f"" /]",
