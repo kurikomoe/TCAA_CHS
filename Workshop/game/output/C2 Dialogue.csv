@@ -3826,93 +3826,93 @@ line:02d4866,LookTBooks_1B,"Upon Wallace's command,[p/] one of the nearby suits 
 line:0c57271,LookTBooks_1B,"The voice coming from it sounded like a woman's,[p/] but it lacked any emotion.",它发出的声音像是女性，[p/]不过没有任何感情。
 line:03389c8,LookTBooks_1B,I could have sworn that I'd heard its voice before.,我发誓自己肯定听过这个声音。
 line:0922dbb,LookTBooks_1B,"Tyrion: Oh, I thought those things were just decorative.",Tyrion: 噢，我还以为这些盔甲只是装饰物呢。
-line:063c234,LookTBooks_1B,ERIS: This is an Arcane Construct.[p/] It's a suit of armor brought to life using artificery.,
-line:01f2b52,LookTBooks_1B,ERIS: They’re designed to carry out various tasks on campus.,
-line:063f520,LookTBooks_1B,CELESTE: Really?[p/] I didn’t know artificery had come that far.,
-line:0fa429f,LookTBooks_1B,ERIS: They’re still experimental.[p/] They aren’t available to the public yet.,
-line:02f6d35,LookTBooks_1B,Eris: House von Sanctus is using the Academy as a testing ground for them.,
-line:08198b4,LookTBooks_1B,"Wallace: Construct,[p/] can you please put these books back where they belong?",
+line:063c234,LookTBooks_1B,ERIS: This is an Arcane Construct.[p/] It's a suit of armor brought to life using artificery.,ERIS: 这是奥术构造体。[p/]可以说是一具用奥术能源赋予生命的盔甲。
+line:01f2b52,LookTBooks_1B,ERIS: They’re designed to carry out various tasks on campus.,ERIS: 它们被设计为可以替学生执行多种任务。
+line:063f520,LookTBooks_1B,CELESTE: Really?[p/] I didn’t know artificery had come that far.,CELESTE: 真的吗？[p/]我还不知道奥术能源的技术已经这么先进了。
+line:0fa429f,LookTBooks_1B,ERIS: They’re still experimental.[p/] They aren’t available to the public yet.,ERIS: 它们还在试验阶段。[p/]所以还不能提供公众使用。
+line:02f6d35,LookTBooks_1B,Eris: House von Sanctus is using the Academy as a testing ground for them.,Eris: 冯·桑克图斯家将学院作为它们的试验场。
+line:08198b4,LookTBooks_1B,"Wallace: Construct,[p/] can you please put these books back where they belong?",Wallace: 构造体。[p/]能请你将这些书本放回原位吗？
 line:0678080,LookTBooks_1B,Construct: ACKNOWLEDGED.,Construct: <size=1.5em>遵命。</size>
-line:09a22ed,LookTBooks_1B,"Eris: You're so polite to them.[p/] You know they're just machines, don't you?",
-line:0e6580e,LookTBooks_1B,Wallace: They're really helpful...[p/] It just feels wrong to be rude to them.,
-line:0fa8056,LookTBooks_2,"The Construct jumped straight into its task,[p/] its metallic hands moving with a quick yet delicate precision.",
-line:001056c,LookTBooks_2,It wasn't long before all the books were back exactly where they belonged.,
-line:09e5d29,LookTBooks_2,"CELESTE: Wow![p/] So, they do whatever you tell them to do?",
-line:0b350c4,LookTBooks_2,Wallace: There [i]are[/i] some limits to—,
-line:0ce18c6,LookTBooks_2,CELESTE: Construct![p/][s/] Tell me that I’m the fairest maiden you’ve ever seen!,
-line:0afce85,LookTBooks_2,Construct: COMMAND REJECTED.,
-line:063c578,LookTBooks_2,CELESTE: Aw...[p/] What?,
-line:01beb60,LookTBooks_2,TYRION: I guess they’re not able to lie.,
-line:0b45041,LookTBooks_2,"Celeste: Watch it, Cuthbert.",
+line:09a22ed,LookTBooks_1B,"Eris: You're so polite to them.[p/] You know they're just machines, don't you?",Eris: 你对它们也太礼貌了。[p/]你知道它们只是机器而已啊，对不对？
+line:0e6580e,LookTBooks_1B,Wallace: They're really helpful...[p/] It just feels wrong to be rude to them.,Wallace: 它们还挺有用的……[p/]对它们太粗鲁感觉不太对。
+line:0fa8056,LookTBooks_2,"The Construct jumped straight into its task,[p/] its metallic hands moving with a quick yet delicate precision.",构造体马上投入工作，[p/]它的双手由金属制成，动作迅速又精确。
+line:001056c,LookTBooks_2,It wasn't long before all the books were back exactly where they belonged.,没过多久所有书本都被放回了原本的位置。
+line:09e5d29,LookTBooks_2,"CELESTE: Wow![p/] So, they do whatever you tell them to do?",CELESTE: 哇哦！[p/]所以你让它干什么它就干什么？
+line:0b350c4,LookTBooks_2,Wallace: There [i]are[/i] some limits to—,Wallace: 还是[i]有[/i]限制的——
+line:0ce18c6,LookTBooks_2,CELESTE: Construct![p/][s/] Tell me that I’m the fairest maiden you’ve ever seen!,CELESTE: 构造体！[p/][s/]对我说，我是你见过最漂亮的少女！
+line:0afce85,LookTBooks_2,Construct: COMMAND REJECTED.,Construct: <size=1.5em>拒绝</size>。
+line:063c578,LookTBooks_2,CELESTE: Aw...[p/] What?,CELESTE: 喔……[p/]什么呀？
+line:01beb60,LookTBooks_2,TYRION: I guess they’re not able to lie.,TYRION: 我猜它们没办法说谎。
+line:0b45041,LookTBooks_2,"Celeste: Watch it, Cuthbert.",Celeste: 给我小心点，卡斯伯特。
 line:0becf69,LookTBooks_2,ERIS: The construct’s “voice” is an amalgam of pre-recorded phrases.,ERIS: 奥术构造体的“声音”只是拼凑了一系列提前录制好的片段。
 line:0486908,LookTBooks_2,"ERIS: I’m not sure if you noticed,[p/] but it uses the voice of Professor Bellwether.",ERIS: 不知道你有没有注意到，[p/]它用的是贝尔维瑟教授的声音。
 line:0781e76,LookTBooks_2,Celeste: Ugh...[p/] I knew there was something wrong with it.,Celeste: 唔……[p/]我就觉得有些怪怪的。
 line:0d85174,LookTBooks_3,"ERIS: Unfortunately,[p/] you can’t make them say anything other than basic responses.",ERIS: 不过遗憾的是，[p/]它们只能做一些基本的答复。
 line:05f1742,LookTBooks_3,ERIS: Only the headmaster can change those settings.,ERIS: 只有校长能更改这些设定。
-line:040d593,LookTBooks_3,"TYRION: I've heard of artificery recording audio,[p/] but to think they could process and respond to what I'm saying.",
-line:09f109b,LookTBooks_3,TYRION: I’ve never seen anything like it.,
-line:0f65e30,LookTBooks_3,"Celeste: But you just said that they're experimental, right?",
-line:0c29e92,LookTBooks_3,Celeste: Maybe I can find a way to trick it into doing what I want.,
-line:0d741bb,LookTBooks_3,Eris: I'd advise against that.[p/] We've had several instances of students using them to play pranks.,
-line:02d6a2c,LookTBooks_3,"Eris: Even if your commands are rejected,[p/] they're still stored in the Construct's logs.",
-line:02f233b,LookTBooks_3,ERIS: And weren't you researching spells with Wallace?,
-line:0d03c4c,LookTBooks_3,"Celeste: Oh, that?[p/] I'm already done.",
-line:0ec8182,LookTBooks_3,Celeste: I've just been reading [i]Death at Daggerfall[/i].,
-line:05d9f96,LookTBooks_3,Celeste: Did you know they have the unpublished manuscript of the newest book?,
-line:0d79c77,LookTBooks_3,Those books were apparently her favorite series of murder mysteries.[p/] She'd been recommending them to me for the entire week.,
-line:01680f0,LookTBooks_3,"And by ""recommending"",[p/] I meant she'd been leaving those books around my house.",
-line:0aa93b6,LookTBooks_3,"I think at one point,[p/] she'd somehow snuck them into Ms. Tymora's office.",
-line:0091d0f,LookTBooks_3,...I really got an earful from my mentor about that one.,
-line:0ffc401,LookTBooks_3,Tyrion: There's no possible way you're already done learning those new spells.,
-line:03a09bd,LookTBooks_3,Tyrion: We've only been here a few hours.,
-line:01a0e16,LookTBooks_3,Celeste: Yeah?[p/] You wanna bet?,
-line:0d7e4ed,LookTBooks_3,Tyrion: Sure.[p/] Show me your Spell Compendium.,
-line:02d2e9b,LookTBooks_3,"Celeste: What?[p/] No! [h=""I can't tell him yet.|I want it to be a surprise."" e=""f"" /]",
-line:07c7732,LookTBooks_3,I didn't catch any lies through the Eye of Horus.[p/] Was she really telling the truth?,
-line:0556a8d,LookTBooks_3,I never actually knew the process for learning new spells.,
-line:06bfb79,LookTBooks_3,I just knew that it involved becoming familiar with unique spell formulas.,
-line:0e23fb6,LookTBooks_3,She was fidgeting a lot when we were reading together this morning.,
-line:03bfbb9,LookTBooks_3,She basically forced me into taking a break to play chess with her.,
-line:07bca36,LookTBooks_3,"Tyrion: ...If you were in the fiction section,[p/] did you get a chance to read [i]Wraithbound[/i]?",
-line:049a51a,LookTBooks_3,Celeste: This again?,
-line:0e5f8cf,LookTBooks_3,"Tyrion: It's a great series, Celeste.",
-line:0db211c,LookTBooks_3,"The best series I've ever read.[p/] Even after nearly a century,[p/] those books had aged like fine wine.",
-line:078f824,LookTBooks_3,"Celeste: Look, Tyrion.[p/] I'm sorry,[p/] but I just can't get into it.",
-line:006a308,LookTBooks_3,Celeste: The whole thing just feels so hammy and unrealistic.,
-line:0eb20bf,LookTBooks_3,Tyrion: Come on![p/] It's a classic story of good vs evil.[p/] Corrin Bloomveil is a literary genius.,
-line:01a0f45,LookTBooks_3,...Maybe I needed to start leaving my copies of [i]Wraithbound[/i] in the McCoy Tavern.,
-line:08b70c0,LookTBooks_3,"Celeste: Look,[p/] I'm just not into the fantasy genre.",
-line:0c01410,LookTBooks_3,"Wallace: ... [h=""Good...|Those books are terrible anyways."" e=""sa""/]",
-line:0231f8d,LookTBooks_3,Tyrion: What?,
-line:05b3204,LookTBooks_3,"Wallace: U-[p/][s/]Um...[p/] I should get back to work! [h=""Scaled Lord,|did I say that out loud?!"" e=""f""/]",
-line:0390f04,LookTBooks_3,"Wallace: Let's go, Celeste!",
-line:0befa22,LookTBooks_3,Celeste: Um...[p/] Okay?,
-line:0903ec5,LookTBooks_3,"Tyrion: ...Let's keep going, Eris.",
-line:06cb8c0,LookTBooks_3,I had no intentions of letting Celeste get ahead of me.,
-line:0b734d2,MurderReveal,I read more and more about the ancient dragons.,
-line:02a440a,MurderReveal,"I looked at anything I could get my hands on—[p/]historical accounts,[p/] religious texts,[p/] even folk tales.",
-line:01483e9,MurderReveal,"But after finding the twelfth embelished story about a dragon fighting a knight,[p/] I was starting to lose hope.",
-line:040bd93,MurderReveal,"This most recent story was the worst.[p/] It read like the fantasy novels I usually read,[p/] but even [i]I[/i] had a limit.",
-line:0dbb44c,MurderReveal,"At this point,[p/] I felt like one of those Arcane Constructs,[p/] hollowly reading out the words of yet another myth to myself.",
-line:0b797d6,MurderReveal,"Tyrion: [i]""The dragon awoke with a rumble,[p/] hot steam pouring from its mouth.""[/i]",
-line:0053ace,MurderReveal,"Tyrion: [i]""The knight responded in kind,[p/] drawing his steel and charging forward.[/i]""",
-line:05aa868,MurderReveal,"Tyrion: [i]""But the dragon had his own weapon.[p/] He used his Eye of Bahamut to—""[/i]",
-line:01c275f,MurderReveal,My dull rhythmic dictation broke when I read that line.,
-line:07a4683,MurderReveal,"I straightened out in my chair,[p/] and inspected each subsequent line carefully.",
-line:0a4c152,MurderReveal,"Tyrion: [i]""He used his Eye of Bahamut to call upon the power of Radiance to pierce through the knight's soul.""[/i]",
-line:070841a,MurderReveal,"Tyrion: [i]""Naught a single thought was concealed from his gaze.""[/i]",
-line:04aefda,MurderReveal,"Tyrion: [i]""The knight's thoughts—[p/]even his emotions—[p/]were laid bare before the scaled giant.""[/i]",
-line:05bda41,MurderReveal,That description sounded eerily familiar.,
-line:009acb4,MurderReveal,"I'd named my ability the ""Eye of Horus"" when I was a child.[p/] At the time,[p/] I was just copying one of my childhood friends.",
-line:0d4da19,MurderReveal,"But was I actually using this ""Eye of Bahamut""?",
+line:040d593,LookTBooks_3,"TYRION: I've heard of artificery recording audio,[p/] but to think they could process and respond to what I'm saying.",TYRION: 我听说过奥术能源能用于记录声音，[p/]但想想看，现在它们是响应我的言语并执行动作。
+line:09f109b,LookTBooks_3,TYRION: I’ve never seen anything like it.,TYRION: 我还没见过这样的东西。
+line:0f65e30,LookTBooks_3,"Celeste: But you just said that they're experimental, right?",Celeste: 但你刚刚说它们还在试验阶段是吗？
+line:0c29e92,LookTBooks_3,Celeste: Maybe I can find a way to trick it into doing what I want.,Celeste: 或许我能够找到一个方法，骗它按我的想法去做。
+line:0d741bb,LookTBooks_3,Eris: I'd advise against that.[p/] We've had several instances of students using them to play pranks.,Eris: 我不建议哦。[p/]我们已经遇到好几起学生用它们恶作剧的情况。
+line:02d6a2c,LookTBooks_3,"Eris: Even if your commands are rejected,[p/] they're still stored in the Construct's logs.",Eris: 即使指令被拒绝执行，[p/]其内容还是会储存在构造体的命令日志里。
+line:02f233b,LookTBooks_3,ERIS: And weren't you researching spells with Wallace?,ERIS: 还有，你不是要和华莱士研究法术吗？
+line:0d03c4c,LookTBooks_3,"Celeste: Oh, that?[p/] I'm already done.",Celeste: 哦，那个啊？[p/]我已经做完了。
+line:0ec8182,LookTBooks_3,Celeste: I've just been reading [i]Death at Daggerfall[/i].,Celeste: 我刚刚在读[i]《血溅匕首雨》[/i]。
+line:05d9f96,LookTBooks_3,Celeste: Did you know they have the unpublished manuscript of the newest book?,Celeste:你知道这里藏有还未刊印的系列最新作的原稿吗？
+line:0d79c77,LookTBooks_3,Those books were apparently her favorite series of murder mysteries.[p/] She'd been recommending them to me for the entire week.,那显然是在说她最喜爱的悬疑小说系列。[p/]整整一星期她都在跟我推荐它们。
+line:01680f0,LookTBooks_3,"And by ""recommending"",[p/] I meant she'd been leaving those books around my house.",至于“推荐”的方法，[p/]她就是把那些书放在我家里的每个角落。
+line:0aa93b6,LookTBooks_3,"I think at one point,[p/] she'd somehow snuck them into Ms. Tymora's office.",有那么一次，[p/]她不知怎么地将小说带进了泰摩拉女士的办公室。
+line:0091d0f,LookTBooks_3,...I really got an earful from my mentor about that one.,……而我因此受到导师的严厉说教。
+line:0ffc401,LookTBooks_3,Tyrion: There's no possible way you're already done learning those new spells.,Tyrion: 你不太可能就把那几条新法术学会了吧。
+line:03a09bd,LookTBooks_3,Tyrion: We've only been here a few hours.,Tyrion: 我们才来了几个小时啊。
+line:01a0e16,LookTBooks_3,Celeste: Yeah?[p/] You wanna bet?,Celeste: 是哦？[p/]要打赌吗？
+line:0d7e4ed,LookTBooks_3,Tyrion: Sure.[p/] Show me your Spell Compendium.,Tyrion: 当然可以。[p/]把你的法术汇编给我看。
+line:02d2e9b,LookTBooks_3,"Celeste: What?[p/] No! [h=""I can't tell him yet.|I want it to be a surprise."" e=""f"" /]","Celeste: 等等？[p/]不行！! [h=""我还不能给他。|本来要作为惊喜的。"" e=""f"" /]"
+line:07c7732,LookTBooks_3,I didn't catch any lies through the Eye of Horus.[p/] Was she really telling the truth?,我的荷鲁斯之眼没有捕捉到谎言。[p/]她说的是真的？
+line:0556a8d,LookTBooks_3,I never actually knew the process for learning new spells.,但我也从不知道学习新法术要费多少功夫。
+line:06bfb79,LookTBooks_3,I just knew that it involved becoming familiar with unique spell formulas.,我只知道这需要熟悉那些独特的法术范式。
+line:0e23fb6,LookTBooks_3,She was fidgeting a lot when we were reading together this morning.,我们今早一起看书时，她就坐立不安。
+line:03bfbb9,LookTBooks_3,She basically forced me into taking a break to play chess with her.,她基本上是强迫我休息，和她一起下棋。
+line:07bca36,LookTBooks_3,"Tyrion: ...If you were in the fiction section,[p/] did you get a chance to read [i]Wraithbound[/i]?",Tyrion: ……既然你刚才是在小说那一区，[p/]你是否有读到[i]《缚灵者》[/i]？
+line:049a51a,LookTBooks_3,Celeste: This again?,Celeste: 又是这个？
+line:0e5f8cf,LookTBooks_3,"Tyrion: It's a great series, Celeste.",Tyrion: 那可是伟大的系列著作啊，塞莱斯特。
+line:0db211c,LookTBooks_3,"The best series I've ever read.[p/] Even after nearly a century,[p/] those books had aged like fine wine.",那是我读过最好的作品。[p/]即使已经问世接近一个世纪，[p/]它们就像陈年佳酿，历久弥香。
+line:078f824,LookTBooks_3,"Celeste: Look, Tyrion.[p/] I'm sorry,[p/] but I just can't get into it.",Celeste: 听着，提利昂。[p/]我很抱歉，[p/]但我真的度不进去。
+line:006a308,LookTBooks_3,Celeste: The whole thing just feels so hammy and unrealistic.,Celeste: 读下来感觉太过造作，没有真实感。
+line:0eb20bf,LookTBooks_3,Tyrion: Come on![p/] It's a classic story of good vs evil.[p/] Corrin Bloomveil is a literary genius.,Tyrion: 拜托！[p/]这是经典的关于正邪之争的故事。[p/]科林·花帷真是一位文学天才。
+line:01a0f45,LookTBooks_3,...Maybe I needed to start leaving my copies of [i]Wraithbound[/i] in the McCoy Tavern.,……或许我该把自己多买的[i]《缚灵者》[/i]放到麦考伊酒馆里。
+line:08b70c0,LookTBooks_3,"Celeste: Look,[p/] I'm just not into the fantasy genre.",Celeste: 好啦，[p/]我就是读不太进去幻想作品。
+line:0c01410,LookTBooks_3,"Wallace: ... [h=""Good...|Those books are terrible anyways."" e=""sa""/]","Wallace: …… [h=""挺好……|那部书本来就很烂。"" e=""sa""/]"
+line:0231f8d,LookTBooks_3,Tyrion: What?,Tyrion: 什么？
+line:05b3204,LookTBooks_3,"Wallace: U-[p/][s/]Um...[p/] I should get back to work! [h=""Scaled Lord,|did I say that out loud?!"" e=""f""/]","Wallace: 呃、[p/][s/]嗯……[p/]我得回去学习了！ [h=""鳞主在上，|我难道说出声了？！"" e=""f""/]"
+line:0390f04,LookTBooks_3,"Wallace: Let's go, Celeste!",Wallace: 走吧，塞莱斯特！
+line:0befa22,LookTBooks_3,Celeste: Um...[p/] Okay?,CELESTE: 唔……[p/]好的？
+line:0903ec5,LookTBooks_3,"Tyrion: ...Let's keep going, Eris.",Tyrion: ……那我们也继续吧，厄莉斯。
+line:06cb8c0,LookTBooks_3,I had no intentions of letting Celeste get ahead of me.,我可不想落在塞莱斯特后面。
+line:0b734d2,MurderReveal,I read more and more about the ancient dragons.,我读了一本又一本关于古龙的记载。
+line:02a440a,MurderReveal,"I looked at anything I could get my hands on—[p/]historical accounts,[p/] religious texts,[p/] even folk tales.",我翻阅了所有能取得的——[p/]史书记载、[p/]宗教经典、[p/]甚至是民间故事。
+line:01483e9,MurderReveal,"But after finding the twelfth embelished story about a dragon fighting a knight,[p/] I was starting to lose hope.",但在读过第十二个精心润饰的龙与骑士战斗的故事后，[p/]我开始失去希望了。
+line:040bd93,MurderReveal,"This most recent story was the worst.[p/] It read like the fantasy novels I usually read,[p/] but even [i]I[/i] had a limit.",最新的这个故事都糟透了。[p/]它看起来就像我一直读的奇幻小说，[p/]但就算是[i]我[/i]这个爱好者也是有极限的。
+line:0dbb44c,MurderReveal,"At this point,[p/] I felt like one of those Arcane Constructs,[p/] hollowly reading out the words of yet another myth to myself.",读到这个份上，[p/]我感觉自己已经变成了奥术构造体的一员，[p/]只是不过脑子地读出又一章神话里的那些词句。
+line:0b797d6,MurderReveal,"Tyrion: [i]""The dragon awoke with a rumble,[p/] hot steam pouring from its mouth.""[/i]",Tyrion: [i]“恶龙发出轰隆隆的声响，就此苏醒，[p/]口中喷出炙热的蒸汽。”[/i]
+line:0053ace,MurderReveal,"Tyrion: [i]""The knight responded in kind,[p/] drawing his steel and charging forward.[/i]""",Tyrion: [i]“骑士恰当地予以回应，[p/]拔出利剑，向前冲锋。”[/i]
+line:05aa868,MurderReveal,"Tyrion: [i]""But the dragon had his own weapon.[p/] He used his Eye of Bahamut to—""[/i]",Tyrion: [i]“但恶龙也有自己的独门武器。[p/]它使用自己的巴哈姆特之眼——”[/i]
+line:01c275f,MurderReveal,My dull rhythmic dictation broke when I read that line.,读到这一句，我沉闷的念白就此中断。
+line:07a4683,MurderReveal,"I straightened out in my chair,[p/] and inspected each subsequent line carefully.",我在椅背前挺直背脊，[p/]仔细地检查接下来的每一句话。
+line:0a4c152,MurderReveal,"Tyrion: [i]""He used his Eye of Bahamut to call upon the power of Radiance to pierce through the knight's soul.""[/i]",Tyrion: [i]“它使用自己的巴哈姆特之眼召来光辉之力，刺穿了骑士的灵魂。”[/i]
+line:070841a,MurderReveal,"Tyrion: [i]""Naught a single thought was concealed from his gaze.""[/i]",Tyrion: [i]“在他的凝视之下，任何想法都无所遁形。”[/i]
+line:04aefda,MurderReveal,"Tyrion: [i]""The knight's thoughts—[p/]even his emotions—[p/]were laid bare before the scaled giant.""[/i]",Tyrion: [i]“骑士的所有想法——[p/]甚至是情感——[p/]在身披鳞甲的巨物面前暴露无遗。”[/i]
+line:05bda41,MurderReveal,That description sounded eerily familiar.,这种描述听起来很是熟悉。
+line:009acb4,MurderReveal,"I'd named my ability the ""Eye of Horus"" when I was a child.[p/] At the time,[p/] I was just copying one of my childhood friends.",我还小的时候，将自己这种能力命名为“荷鲁斯之眼”。[p/]那时，[p/]我仅仅是沿用了儿时玩伴的说法。
+line:0d4da19,MurderReveal,"But was I actually using this ""Eye of Bahamut""?",但我一直在用的其实是“巴哈姆特之眼”吗？
 line:0bcd0e4,MurderReveal,...,……
-line:0ba6277,MurderReveal,"Honestly,[p/] ""Eye of Horus"" fits better.",
-line:046d45c,MurderReveal,"Eris: Ah, [p/] the Eye of Bahamut.",
-line:08d9ca0,MurderReveal,Tyrion: Agh!,
-line:047715d,MurderReveal,I jumped out of my seat again.[p/] How did she always sneak up on me like that?,
-line:054021f,MurderReveal,"Tyrion: D-[p/][s/]Do you know about this ""Eye of Bahamut""?",
-line:0574427,MurderReveal,Tyrion: This is the first time I've seen it mentioned.,
-line:0e5de79,MurderReveal,Eris: Ah...[p/] Legends say that the Eye of Bahamut holds the power to mimic the radiance of the celestial gods.,
+line:0ba6277,MurderReveal,"Honestly,[p/] ""Eye of Horus"" fits better.",老实说，[p/] “荷鲁斯之眼”好听一点。
+line:046d45c,MurderReveal,"Eris: Ah, [p/] the Eye of Bahamut.",Eris: 啊，[p/]巴哈姆特之眼啊。
+line:08d9ca0,MurderReveal,Tyrion: Agh!,Tyrion: 呃啊！
+line:047715d,MurderReveal,I jumped out of my seat again.[p/] How did she always sneak up on me like that?,我又一次从座位上跳起来。[p/]她怎么总是能这样悄无声息地出现？
+line:054021f,MurderReveal,"Tyrion: D-[p/][s/]Do you know about this ""Eye of Bahamut""?",Tyrion: 你、[p/][s/]你知道这个“巴哈姆特之眼”？
+line:0574427,MurderReveal,Tyrion: This is the first time I've seen it mentioned.,Tyrion: 我还是第一次看到这个字眼。
+line:0e5de79,MurderReveal,Eris: Ah...[p/] Legends say that the Eye of Bahamut holds the power to mimic the radiance of the celestial gods.,Eris: 啊……[p/]传说巴哈姆特之眼拥有模仿天神光辉的力量。
 line:0727ed6,MurderReveal,"Tyrion: The ""[i]celestial[/i] gods""?[p/] Are they anything like the Scaled Lord?",
 line:0bd8d32,MurderReveal,"Eris: ...Not quite,[p/] and I doubt you'd find anything about them here.",
 line:08b102f,MurderReveal,"Tyrion: The Eye of Bahamut mimics the ""radiance"" of the gods.",

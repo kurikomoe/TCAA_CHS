@@ -21164,481 +21164,481 @@
   {
     "key": "C2 Dialogue.csv::translation::21a16dd70b8a49e5",
     "original": "ERIS: This is an Arcane Construct.[p/] It's a suit of armor brought to life using artificery.",
-    "translation": "",
+    "translation": "ERIS: 这是奥术构造体。[p/]可以说是一具用奥术能源赋予生命的盔甲。",
     "context": "{\n  \"id\": \"line:063c234\",\n  \"node\": \"LookTBooks_1B\",\n  \"text\": \"ERIS: This is an Arcane Construct.[p/] It's a suit of armor brought to life using artificery.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7b89c0013a038ab8",
     "original": "ERIS: They’re designed to carry out various tasks on campus.",
-    "translation": "",
+    "translation": "ERIS: 它们被设计为可以替学生执行多种任务。",
     "context": "{\n  \"id\": \"line:01f2b52\",\n  \"node\": \"LookTBooks_1B\",\n  \"text\": \"ERIS: They’re designed to carry out various tasks on campus.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4cbfa6aae193f72a",
     "original": "CELESTE: Really?[p/] I didn’t know artificery had come that far.",
-    "translation": "",
+    "translation": "CELESTE: 真的吗？[p/]我还不知道奥术能源的技术已经这么先进了。",
     "context": "{\n  \"id\": \"line:063f520\",\n  \"node\": \"LookTBooks_1B\",\n  \"text\": \"CELESTE: Really?[p/] I didn’t know artificery had come that far.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::344284b62d37a6c8",
     "original": "ERIS: They’re still experimental.[p/] They aren’t available to the public yet.",
-    "translation": "",
+    "translation": "ERIS: 它们还在试验阶段。[p/]所以还不能提供公众使用。",
     "context": "{\n  \"id\": \"line:0fa429f\",\n  \"node\": \"LookTBooks_1B\",\n  \"text\": \"ERIS: They’re still experimental.[p/] They aren’t available to the public yet.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1807753ea1c9919b",
     "original": "Eris: House von Sanctus is using the Academy as a testing ground for them.",
-    "translation": "",
+    "translation": "Eris: 冯·桑克图斯家将学院作为它们的试验场。",
     "context": "{\n  \"id\": \"line:02f6d35\",\n  \"node\": \"LookTBooks_1B\",\n  \"text\": \"Eris: House von Sanctus is using the Academy as a testing ground for them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cdde2f86e14f5f2f",
     "original": "Wallace: Construct,[p/] can you please put these books back where they belong?",
-    "translation": "",
+    "translation": "Wallace: 构造体。[p/]能请你将这些书本放回原位吗？",
     "context": "{\n  \"id\": \"line:08198b4\",\n  \"node\": \"LookTBooks_1B\",\n  \"text\": \"Wallace: Construct,[p/] can you please put these books back where they belong?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::02af6b00312641ba",
     "original": "Eris: You're so polite to them.[p/] You know they're just machines, don't you?",
-    "translation": "",
+    "translation": "Eris: 你对它们也太礼貌了。[p/]你知道它们只是机器而已啊，对不对？",
     "context": "{\n  \"id\": \"line:09a22ed\",\n  \"node\": \"LookTBooks_1B\",\n  \"text\": \"Eris: You're so polite to them.[p/] You know they're just machines, don't you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::984a191d80e2c8f1",
     "original": "Wallace: They're really helpful...[p/] It just feels wrong to be rude to them.",
-    "translation": "",
+    "translation": "Wallace: 它们还挺有用的……[p/]对它们太粗鲁感觉不太对。",
     "context": "{\n  \"id\": \"line:0e6580e\",\n  \"node\": \"LookTBooks_1B\",\n  \"text\": \"Wallace: They're really helpful...[p/] It just feels wrong to be rude to them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e22314eaccb01f3d",
     "original": "The Construct jumped straight into its task,[p/] its metallic hands moving with a quick yet delicate precision.",
-    "translation": "",
+    "translation": "构造体马上投入工作，[p/]它的双手由金属制成，动作迅速又精确。",
     "context": "{\n  \"id\": \"line:0fa8056\",\n  \"node\": \"LookTBooks_2\",\n  \"text\": \"The Construct jumped straight into its task,[p/] its metallic hands moving with a quick yet delicate precision.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c374e47e20dbfcb8",
     "original": "It wasn't long before all the books were back exactly where they belonged.",
-    "translation": "",
+    "translation": "没过多久所有书本都被放回了原本的位置。",
     "context": "{\n  \"id\": \"line:001056c\",\n  \"node\": \"LookTBooks_2\",\n  \"text\": \"It wasn't long before all the books were back exactly where they belonged.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b66d3aaebe949086",
     "original": "CELESTE: Wow![p/] So, they do whatever you tell them to do?",
-    "translation": "",
+    "translation": "CELESTE: 哇哦！[p/]所以你让它干什么它就干什么？",
     "context": "{\n  \"id\": \"line:09e5d29\",\n  \"node\": \"LookTBooks_2\",\n  \"text\": \"CELESTE: Wow![p/] So, they do whatever you tell them to do?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::abeb6c4178d6be38",
     "original": "Wallace: There [i]are[/i] some limits to—",
-    "translation": "",
+    "translation": "Wallace: 还是[i]有[/i]限制的——",
     "context": "{\n  \"id\": \"line:0b350c4\",\n  \"node\": \"LookTBooks_2\",\n  \"text\": \"Wallace: There [i]are[/i] some limits to—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f8e4dd0194a76e6f",
     "original": "CELESTE: Construct![p/][s/] Tell me that I’m the fairest maiden you’ve ever seen!",
-    "translation": "",
+    "translation": "CELESTE: 构造体！[p/][s/]对我说，我是你见过最漂亮的少女！",
     "context": "{\n  \"id\": \"line:0ce18c6\",\n  \"node\": \"LookTBooks_2\",\n  \"text\": \"CELESTE: Construct![p/][s/] Tell me that I’m the fairest maiden you’ve ever seen!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f6a73d8ca0bb357",
     "original": "Construct: COMMAND REJECTED.",
-    "translation": "",
+    "translation": "Construct: <size=1.5em>拒绝</size>。",
     "context": "{\n  \"id\": \"line:0afce85\",\n  \"node\": \"LookTBooks_2\",\n  \"text\": \"Construct: COMMAND REJECTED.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::72cad532621e5e1b",
     "original": "CELESTE: Aw...[p/] What?",
-    "translation": "",
+    "translation": "CELESTE: 喔……[p/]什么呀？",
     "context": "{\n  \"id\": \"line:063c578\",\n  \"node\": \"LookTBooks_2\",\n  \"text\": \"CELESTE: Aw...[p/] What?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3becc5e681aca29d",
     "original": "TYRION: I guess they’re not able to lie.",
-    "translation": "",
+    "translation": "TYRION: 我猜它们没办法说谎。",
     "context": "{\n  \"id\": \"line:01beb60\",\n  \"node\": \"LookTBooks_2\",\n  \"text\": \"TYRION: I guess they’re not able to lie.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::39e7aff09b574bb0",
     "original": "Celeste: Watch it, Cuthbert.",
-    "translation": "",
+    "translation": "Celeste: 给我小心点，卡斯伯特。",
     "context": "{\n  \"id\": \"line:0b45041\",\n  \"node\": \"LookTBooks_2\",\n  \"text\": \"Celeste: Watch it, Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8e165020eaed9a9",
     "original": "TYRION: I've heard of artificery recording audio,[p/] but to think they could process and respond to what I'm saying.",
-    "translation": "",
+    "translation": "TYRION: 我听说过奥术能源能用于记录声音，[p/]但想想看，现在它们是响应我的言语并执行动作。",
     "context": "{\n  \"id\": \"line:040d593\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"TYRION: I've heard of artificery recording audio,[p/] but to think they could process and respond to what I'm saying.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f0f0e96865e40e61",
     "original": "TYRION: I’ve never seen anything like it.",
-    "translation": "",
+    "translation": "TYRION: 我还没见过这样的东西。",
     "context": "{\n  \"id\": \"line:09f109b\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"TYRION: I’ve never seen anything like it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ee689175f67a796c",
     "original": "Celeste: But you just said that they're experimental, right?",
-    "translation": "",
+    "translation": "Celeste: 但你刚刚说它们还在试验阶段是吗？",
     "context": "{\n  \"id\": \"line:0f65e30\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: But you just said that they're experimental, right?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::173cf7aa8e10a5fb",
     "original": "Celeste: Maybe I can find a way to trick it into doing what I want.",
-    "translation": "",
+    "translation": "Celeste: 或许我能够找到一个方法，骗它按我的想法去做。",
     "context": "{\n  \"id\": \"line:0c29e92\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: Maybe I can find a way to trick it into doing what I want.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9484ecefb026202a",
     "original": "Eris: I'd advise against that.[p/] We've had several instances of students using them to play pranks.",
-    "translation": "",
+    "translation": "Eris: 我不建议哦。[p/]我们已经遇到好几起学生用它们恶作剧的情况。",
     "context": "{\n  \"id\": \"line:0d741bb\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Eris: I'd advise against that.[p/] We've had several instances of students using them to play pranks.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4557e4e3a6184c08",
     "original": "Eris: Even if your commands are rejected,[p/] they're still stored in the Construct's logs.",
-    "translation": "",
+    "translation": "Eris: 即使指令被拒绝执行，[p/]其内容还是会储存在构造体的命令日志里。",
     "context": "{\n  \"id\": \"line:02d6a2c\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Eris: Even if your commands are rejected,[p/] they're still stored in the Construct's logs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fbadba8d95681efc",
     "original": "ERIS: And weren't you researching spells with Wallace?",
-    "translation": "",
+    "translation": "ERIS: 还有，你不是要和华莱士研究法术吗？",
     "context": "{\n  \"id\": \"line:02f233b\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"ERIS: And weren't you researching spells with Wallace?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3b861e17cc5fdbe0",
     "original": "Celeste: Oh, that?[p/] I'm already done.",
-    "translation": "",
+    "translation": "Celeste: 哦，那个啊？[p/]我已经做完了。",
     "context": "{\n  \"id\": \"line:0d03c4c\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: Oh, that?[p/] I'm already done.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17a46d4b035c2f22",
     "original": "Celeste: I've just been reading [i]Death at Daggerfall[/i].",
-    "translation": "",
+    "translation": "Celeste: 我刚刚在读[i]《血溅匕首雨》[/i]。",
     "context": "{\n  \"id\": \"line:0ec8182\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: I've just been reading [i]Death at Daggerfall[/i].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::280b53af6fa5052f",
     "original": "Celeste: Did you know they have the unpublished manuscript of the newest book?",
-    "translation": "",
+    "translation": "Celeste:你知道这里藏有还未刊印的系列最新作的原稿吗？",
     "context": "{\n  \"id\": \"line:05d9f96\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: Did you know they have the unpublished manuscript of the newest book?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a649b6448d4ddf59",
     "original": "Those books were apparently her favorite series of murder mysteries.[p/] She'd been recommending them to me for the entire week.",
-    "translation": "",
+    "translation": "那显然是在说她最喜爱的悬疑小说系列。[p/]整整一星期她都在跟我推荐它们。",
     "context": "{\n  \"id\": \"line:0d79c77\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Those books were apparently her favorite series of murder mysteries.[p/] She'd been recommending them to me for the entire week.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9d82b8bf72e9743a",
     "original": "And by \"recommending\",[p/] I meant she'd been leaving those books around my house.",
-    "translation": "",
+    "translation": "至于“推荐”的方法，[p/]她就是把那些书放在我家里的每个角落。",
     "context": "{\n  \"id\": \"line:01680f0\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"And by \\\"recommending\\\",[p/] I meant she'd been leaving those books around my house.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9288b9ea39672cb6",
     "original": "I think at one point,[p/] she'd somehow snuck them into Ms. Tymora's office.",
-    "translation": "",
+    "translation": "有那么一次，[p/]她不知怎么地将小说带进了泰摩拉女士的办公室。",
     "context": "{\n  \"id\": \"line:0aa93b6\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"I think at one point,[p/] she'd somehow snuck them into Ms. Tymora's office.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::88815c6f26d60a0a",
     "original": "...I really got an earful from my mentor about that one.",
-    "translation": "",
+    "translation": "……而我因此受到导师的严厉说教。",
     "context": "{\n  \"id\": \"line:0091d0f\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"...I really got an earful from my mentor about that one.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::893f9feae8cd1b85",
     "original": "Tyrion: There's no possible way you're already done learning those new spells.",
-    "translation": "",
+    "translation": "Tyrion: 你不太可能就把那几条新法术学会了吧。",
     "context": "{\n  \"id\": \"line:0ffc401\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Tyrion: There's no possible way you're already done learning those new spells.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ddcce51039a0f725",
     "original": "Tyrion: We've only been here a few hours.",
-    "translation": "",
+    "translation": "Tyrion: 我们才来了几个小时啊。",
     "context": "{\n  \"id\": \"line:03a09bd\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Tyrion: We've only been here a few hours.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::87c67f5e5a5a6c02",
     "original": "Celeste: Yeah?[p/] You wanna bet?",
-    "translation": "",
+    "translation": "Celeste: 是哦？[p/]要打赌吗？",
     "context": "{\n  \"id\": \"line:01a0e16\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: Yeah?[p/] You wanna bet?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9bd9d163f1a29bdf",
     "original": "Tyrion: Sure.[p/] Show me your Spell Compendium.",
-    "translation": "",
+    "translation": "Tyrion: 当然可以。[p/]把你的法术汇编给我看。",
     "context": "{\n  \"id\": \"line:0d7e4ed\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Tyrion: Sure.[p/] Show me your Spell Compendium.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2028515558311ea4",
     "original": "Celeste: What?[p/] No! [h=\"I can't tell him yet.|I want it to be a surprise.\" e=\"f\" /]",
-    "translation": "",
+    "translation": "Celeste: 等等？[p/]不行！! [h=\"我还不能给他。|本来要作为惊喜的。\" e=\"f\" /]",
     "context": "{\n  \"id\": \"line:02d2e9b\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: What?[p/] No! [h=\\\"I can't tell him yet.|I want it to be a surprise.\\\" e=\\\"f\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7dbba010b092cd61",
     "original": "I didn't catch any lies through the Eye of Horus.[p/] Was she really telling the truth?",
-    "translation": "",
+    "translation": "我的荷鲁斯之眼没有捕捉到谎言。[p/]她说的是真的？",
     "context": "{\n  \"id\": \"line:07c7732\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"I didn't catch any lies through the Eye of Horus.[p/] Was she really telling the truth?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0cf54211ffb45315",
     "original": "I never actually knew the process for learning new spells.",
-    "translation": "",
+    "translation": "但我也从不知道学习新法术要费多少功夫。",
     "context": "{\n  \"id\": \"line:0556a8d\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"I never actually knew the process for learning new spells.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c3c056aeb475bebd",
     "original": "I just knew that it involved becoming familiar with unique spell formulas.",
-    "translation": "",
+    "translation": "我只知道这需要熟悉那些独特的法术范式。",
     "context": "{\n  \"id\": \"line:06bfb79\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"I just knew that it involved becoming familiar with unique spell formulas.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::092d462caf9f567f",
     "original": "She was fidgeting a lot when we were reading together this morning.",
-    "translation": "",
+    "translation": "我们今早一起看书时，她就坐立不安。",
     "context": "{\n  \"id\": \"line:0e23fb6\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"She was fidgeting a lot when we were reading together this morning.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0f765587ce1097c9",
     "original": "She basically forced me into taking a break to play chess with her.",
-    "translation": "",
+    "translation": "她基本上是强迫我休息，和她一起下棋。",
     "context": "{\n  \"id\": \"line:03bfbb9\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"She basically forced me into taking a break to play chess with her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7b92e802067cfe8b",
     "original": "Tyrion: ...If you were in the fiction section,[p/] did you get a chance to read [i]Wraithbound[/i]?",
-    "translation": "",
+    "translation": "Tyrion: ……既然你刚才是在小说那一区，[p/]你是否有读到[i]《缚灵者》[/i]？",
     "context": "{\n  \"id\": \"line:07bca36\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Tyrion: ...If you were in the fiction section,[p/] did you get a chance to read [i]Wraithbound[/i]?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5b708ba2e8f66252",
     "original": "Celeste: This again?",
-    "translation": "",
+    "translation": "Celeste: 又是这个？",
     "context": "{\n  \"id\": \"line:049a51a\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: This again?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::445b57388744e73d",
     "original": "Tyrion: It's a great series, Celeste.",
-    "translation": "",
+    "translation": "Tyrion: 那可是伟大的系列著作啊，塞莱斯特。",
     "context": "{\n  \"id\": \"line:0e5f8cf\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Tyrion: It's a great series, Celeste.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0138d10acf12bb30",
     "original": "The best series I've ever read.[p/] Even after nearly a century,[p/] those books had aged like fine wine.",
-    "translation": "",
+    "translation": "那是我读过最好的作品。[p/]即使已经问世接近一个世纪，[p/]它们就像陈年佳酿，历久弥香。",
     "context": "{\n  \"id\": \"line:0db211c\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"The best series I've ever read.[p/] Even after nearly a century,[p/] those books had aged like fine wine.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3743f9ad829a46fa",
     "original": "Celeste: Look, Tyrion.[p/] I'm sorry,[p/] but I just can't get into it.",
-    "translation": "",
+    "translation": "Celeste: 听着，提利昂。[p/]我很抱歉，[p/]但我真的度不进去。",
     "context": "{\n  \"id\": \"line:078f824\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: Look, Tyrion.[p/] I'm sorry,[p/] but I just can't get into it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::61561b5b53b4004d",
     "original": "Celeste: The whole thing just feels so hammy and unrealistic.",
-    "translation": "",
+    "translation": "Celeste: 读下来感觉太过造作，没有真实感。",
     "context": "{\n  \"id\": \"line:006a308\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: The whole thing just feels so hammy and unrealistic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0df25fe9b588e384",
     "original": "Tyrion: Come on![p/] It's a classic story of good vs evil.[p/] Corrin Bloomveil is a literary genius.",
-    "translation": "",
+    "translation": "Tyrion: 拜托！[p/]这是经典的关于正邪之争的故事。[p/]科林·花帷真是一位文学天才。",
     "context": "{\n  \"id\": \"line:0eb20bf\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Tyrion: Come on![p/] It's a classic story of good vs evil.[p/] Corrin Bloomveil is a literary genius.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a41c3f34ba5940e5",
     "original": "...Maybe I needed to start leaving my copies of [i]Wraithbound[/i] in the McCoy Tavern.",
-    "translation": "",
+    "translation": "……或许我该把自己多买的[i]《缚灵者》[/i]放到麦考伊酒馆里。",
     "context": "{\n  \"id\": \"line:01a0f45\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"...Maybe I needed to start leaving my copies of [i]Wraithbound[/i] in the McCoy Tavern.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e7d5959e9e22831",
     "original": "Celeste: Look,[p/] I'm just not into the fantasy genre.",
-    "translation": "",
+    "translation": "Celeste: 好啦，[p/]我就是读不太进去幻想作品。",
     "context": "{\n  \"id\": \"line:08b70c0\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: Look,[p/] I'm just not into the fantasy genre.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::59836418bc37e1e9",
     "original": "Wallace: ... [h=\"Good...|Those books are terrible anyways.\" e=\"sa\"/]",
-    "translation": "",
+    "translation": "Wallace: …… [h=\"挺好……|那部书本来就很烂。\" e=\"sa\"/]",
     "context": "{\n  \"id\": \"line:0c01410\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Wallace: ... [h=\\\"Good...|Those books are terrible anyways.\\\" e=\\\"sa\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be00ac24412bebea",
     "original": "Tyrion: What?",
-    "translation": "",
+    "translation": "Tyrion: 什么？",
     "context": "{\n  \"id\": \"line:0231f8d\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Tyrion: What?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::29e7eea673273adc",
     "original": "Wallace: U-[p/][s/]Um...[p/] I should get back to work! [h=\"Scaled Lord,|did I say that out loud?!\" e=\"f\"/]",
-    "translation": "",
+    "translation": "Wallace: 呃、[p/][s/]嗯……[p/]我得回去学习了！ [h=\"鳞主在上，|我难道说出声了？！\" e=\"f\"/]",
     "context": "{\n  \"id\": \"line:05b3204\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Wallace: U-[p/][s/]Um...[p/] I should get back to work! [h=\\\"Scaled Lord,|did I say that out loud?!\\\" e=\\\"f\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4b87d7916293d74e",
     "original": "Wallace: Let's go, Celeste!",
-    "translation": "",
+    "translation": "Wallace: 走吧，塞莱斯特！",
     "context": "{\n  \"id\": \"line:0390f04\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Wallace: Let's go, Celeste!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::98e988f7195e3192",
     "original": "Celeste: Um...[p/] Okay?",
-    "translation": "",
+    "translation": "CELESTE: 唔……[p/]好的？",
     "context": "{\n  \"id\": \"line:0befa22\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Celeste: Um...[p/] Okay?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2bb251cbf3ad9223",
     "original": "Tyrion: ...Let's keep going, Eris.",
-    "translation": "",
+    "translation": "Tyrion: ……那我们也继续吧，厄莉斯。",
     "context": "{\n  \"id\": \"line:0903ec5\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"Tyrion: ...Let's keep going, Eris.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::641301312d88bd0f",
     "original": "I had no intentions of letting Celeste get ahead of me.",
-    "translation": "",
+    "translation": "我可不想落在塞莱斯特后面。",
     "context": "{\n  \"id\": \"line:06cb8c0\",\n  \"node\": \"LookTBooks_3\",\n  \"text\": \"I had no intentions of letting Celeste get ahead of me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c4e659bef3d40e24",
     "original": "I read more and more about the ancient dragons.",
-    "translation": "",
+    "translation": "我读了一本又一本关于古龙的记载。",
     "context": "{\n  \"id\": \"line:0b734d2\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"I read more and more about the ancient dragons.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e514ab7e86306082",
     "original": "I looked at anything I could get my hands on—[p/]historical accounts,[p/] religious texts,[p/] even folk tales.",
-    "translation": "",
+    "translation": "我翻阅了所有能取得的——[p/]史书记载、[p/]宗教经典、[p/]甚至是民间故事。",
     "context": "{\n  \"id\": \"line:02a440a\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"I looked at anything I could get my hands on—[p/]historical accounts,[p/] religious texts,[p/] even folk tales.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1d8eacea36353a76",
     "original": "But after finding the twelfth embelished story about a dragon fighting a knight,[p/] I was starting to lose hope.",
-    "translation": "",
+    "translation": "但在读过第十二个精心润饰的龙与骑士战斗的故事后，[p/]我开始失去希望了。",
     "context": "{\n  \"id\": \"line:01483e9\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"But after finding the twelfth embelished story about a dragon fighting a knight,[p/] I was starting to lose hope.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::12ded3c9387f6e3b",
     "original": "This most recent story was the worst.[p/] It read like the fantasy novels I usually read,[p/] but even [i]I[/i] had a limit.",
-    "translation": "",
+    "translation": "最新的这个故事都糟透了。[p/]它看起来就像我一直读的奇幻小说，[p/]但就算是[i]我[/i]这个爱好者也是有极限的。",
     "context": "{\n  \"id\": \"line:040bd93\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"This most recent story was the worst.[p/] It read like the fantasy novels I usually read,[p/] but even [i]I[/i] had a limit.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::846a67359a4216f1",
     "original": "At this point,[p/] I felt like one of those Arcane Constructs,[p/] hollowly reading out the words of yet another myth to myself.",
-    "translation": "",
+    "translation": "读到这个份上，[p/]我感觉自己已经变成了奥术构造体的一员，[p/]只是不过脑子地读出又一章神话里的那些词句。",
     "context": "{\n  \"id\": \"line:0dbb44c\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"At this point,[p/] I felt like one of those Arcane Constructs,[p/] hollowly reading out the words of yet another myth to myself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::965308d7a6eaa142",
     "original": "Tyrion: [i]\"The dragon awoke with a rumble,[p/] hot steam pouring from its mouth.\"[/i]",
-    "translation": "",
+    "translation": "Tyrion: [i]“恶龙发出轰隆隆的声响，就此苏醒，[p/]口中喷出炙热的蒸汽。”[/i]",
     "context": "{\n  \"id\": \"line:0b797d6\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: [i]\\\"The dragon awoke with a rumble,[p/] hot steam pouring from its mouth.\\\"[/i]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::26454675307c5f0a",
     "original": "Tyrion: [i]\"The knight responded in kind,[p/] drawing his steel and charging forward.[/i]\"",
-    "translation": "",
+    "translation": "Tyrion: [i]“骑士恰当地予以回应，[p/]拔出利剑，向前冲锋。”[/i]",
     "context": "{\n  \"id\": \"line:0053ace\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: [i]\\\"The knight responded in kind,[p/] drawing his steel and charging forward.[/i]\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b0bac14eda6808a8",
     "original": "Tyrion: [i]\"But the dragon had his own weapon.[p/] He used his Eye of Bahamut to—\"[/i]",
-    "translation": "",
+    "translation": "Tyrion: [i]“但恶龙也有自己的独门武器。[p/]它使用自己的巴哈姆特之眼——”[/i]",
     "context": "{\n  \"id\": \"line:05aa868\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: [i]\\\"But the dragon had his own weapon.[p/] He used his Eye of Bahamut to—\\\"[/i]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::140712805a1407b4",
     "original": "My dull rhythmic dictation broke when I read that line.",
-    "translation": "",
+    "translation": "读到这一句，我沉闷的念白就此中断。",
     "context": "{\n  \"id\": \"line:01c275f\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"My dull rhythmic dictation broke when I read that line.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8c5d4eb0a0dcef67",
     "original": "I straightened out in my chair,[p/] and inspected each subsequent line carefully.",
-    "translation": "",
+    "translation": "我在椅背前挺直背脊，[p/]仔细地检查接下来的每一句话。",
     "context": "{\n  \"id\": \"line:07a4683\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"I straightened out in my chair,[p/] and inspected each subsequent line carefully.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::739b87c5a797b75b",
     "original": "Tyrion: [i]\"He used his Eye of Bahamut to call upon the power of Radiance to pierce through the knight's soul.\"[/i]",
-    "translation": "",
+    "translation": "Tyrion: [i]“它使用自己的巴哈姆特之眼召来光辉之力，刺穿了骑士的灵魂。”[/i]",
     "context": "{\n  \"id\": \"line:0a4c152\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: [i]\\\"He used his Eye of Bahamut to call upon the power of Radiance to pierce through the knight's soul.\\\"[/i]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be29cabdf43f14da",
     "original": "Tyrion: [i]\"Naught a single thought was concealed from his gaze.\"[/i]",
-    "translation": "",
+    "translation": "Tyrion: [i]“在他的凝视之下，任何想法都无所遁形。”[/i]",
     "context": "{\n  \"id\": \"line:070841a\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: [i]\\\"Naught a single thought was concealed from his gaze.\\\"[/i]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f7bfbb8a9a5508ca",
     "original": "Tyrion: [i]\"The knight's thoughts—[p/]even his emotions—[p/]were laid bare before the scaled giant.\"[/i]",
-    "translation": "",
+    "translation": "Tyrion: [i]“骑士的所有想法——[p/]甚至是情感——[p/]在身披鳞甲的巨物面前暴露无遗。”[/i]",
     "context": "{\n  \"id\": \"line:04aefda\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: [i]\\\"The knight's thoughts—[p/]even his emotions—[p/]were laid bare before the scaled giant.\\\"[/i]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5af154596df2c309",
     "original": "That description sounded eerily familiar.",
-    "translation": "",
+    "translation": "这种描述听起来很是熟悉。",
     "context": "{\n  \"id\": \"line:05bda41\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"That description sounded eerily familiar.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::383c0b4e74b9ec5e",
     "original": "I'd named my ability the \"Eye of Horus\" when I was a child.[p/] At the time,[p/] I was just copying one of my childhood friends.",
-    "translation": "",
+    "translation": "我还小的时候，将自己这种能力命名为“荷鲁斯之眼”。[p/]那时，[p/]我仅仅是沿用了儿时玩伴的说法。",
     "context": "{\n  \"id\": \"line:009acb4\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"I'd named my ability the \\\"Eye of Horus\\\" when I was a child.[p/] At the time,[p/] I was just copying one of my childhood friends.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b186482506032ba5",
     "original": "But was I actually using this \"Eye of Bahamut\"?",
-    "translation": "",
+    "translation": "但我一直在用的其实是“巴哈姆特之眼”吗？",
     "context": "{\n  \"id\": \"line:0d4da19\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"But was I actually using this \\\"Eye of Bahamut\\\"?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e18f59037985a706",
     "original": "Honestly,[p/] \"Eye of Horus\" fits better.",
-    "translation": "",
+    "translation": "老实说，[p/] “荷鲁斯之眼”好听一点。",
     "context": "{\n  \"id\": \"line:0ba6277\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Honestly,[p/] \\\"Eye of Horus\\\" fits better.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e314276388a38a69",
     "original": "Eris: Ah, [p/] the Eye of Bahamut.",
-    "translation": "",
+    "translation": "Eris: 啊，[p/]巴哈姆特之眼啊。",
     "context": "{\n  \"id\": \"line:046d45c\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Eris: Ah, [p/] the Eye of Bahamut.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::039355b83f920196",
     "original": "Tyrion: Agh!",
-    "translation": "",
+    "translation": "Tyrion: 呃啊！",
     "context": "{\n  \"id\": \"line:08d9ca0\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: Agh!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1dd0fc5b40518462",
     "original": "I jumped out of my seat again.[p/] How did she always sneak up on me like that?",
-    "translation": "",
+    "translation": "我又一次从座位上跳起来。[p/]她怎么总是能这样悄无声息地出现？",
     "context": "{\n  \"id\": \"line:047715d\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"I jumped out of my seat again.[p/] How did she always sneak up on me like that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::28ffbb9e728def23",
     "original": "Tyrion: D-[p/][s/]Do you know about this \"Eye of Bahamut\"?",
-    "translation": "",
+    "translation": "Tyrion: 你、[p/][s/]你知道这个“巴哈姆特之眼”？",
     "context": "{\n  \"id\": \"line:054021f\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: D-[p/][s/]Do you know about this \\\"Eye of Bahamut\\\"?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::736ce5a38a6f9e6b",
     "original": "Tyrion: This is the first time I've seen it mentioned.",
-    "translation": "",
+    "translation": "Tyrion: 我还是第一次看到这个字眼。",
     "context": "{\n  \"id\": \"line:0574427\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: This is the first time I've seen it mentioned.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eef09aa5f6c07038",
     "original": "Eris: Ah...[p/] Legends say that the Eye of Bahamut holds the power to mimic the radiance of the celestial gods.",
-    "translation": "",
+    "translation": "Eris: 啊……[p/]传说巴哈姆特之眼拥有模仿天神光辉的力量。",
     "context": "{\n  \"id\": \"line:0e5de79\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Eris: Ah...[p/] Legends say that the Eye of Bahamut holds the power to mimic the radiance of the celestial gods.\"\n}"
   },
   {
