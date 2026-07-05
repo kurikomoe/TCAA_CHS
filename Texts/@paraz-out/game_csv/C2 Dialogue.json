@@ -25251,897 +25251,897 @@
   {
     "key": "C2 Dialogue.csv::translation::0aea6d9b7b943e8e",
     "original": "Tyrion: The \"[i]celestial[/i] gods\"?[p/] Are they anything like the Scaled Lord?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “[i]天神[/i]？”[p/]是类似鳞甲领主那样的存在吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0727ed6\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: The \\\"[i]celestial[/i] gods\\\"?[p/] Are they anything like the Scaled Lord?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0345baea9f6a6ddb",
     "original": "Eris: ...Not quite,[p/] and I doubt you'd find anything about them here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: ……不太准确，[p/]而且我怀疑你没法在这里找到关于他们的记述。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bd8d32\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Eris: ...Not quite,[p/] and I doubt you'd find anything about them here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f9281515b2db938",
     "original": "Tyrion: The Eye of Bahamut mimics the \"radiance\" of the gods.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 巴哈姆特之眼能够模仿天神的“光辉”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b102f\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: The Eye of Bahamut mimics the \\\"radiance\\\" of the gods.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::740cab9c72b0bb9d",
     "original": "Tyrion: Does that mean the dragon in this story is mimicking magic related to these \"celestials\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这是否意味着故事中的龙是在模仿与“天界”有关的魔法？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ea7fa6\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Tyrion: Does that mean the dragon in this story is mimicking magic related to these \\\"celestials\\\"?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a6430a9fccad2da",
     "original": "Eris: Unfortunately,[p/] knowledge of them is quite scarce in Wyvergarde.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 不幸的是，[p/]关于天界的知识在这个维文加德里是很稀缺的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e5fd82\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Eris: Unfortunately,[p/] knowledge of them is quite scarce in Wyvergarde.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a148b307683985b4",
     "original": "Eris: Even mentioning the celestials could very well tie a noose around your neck.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 即使提到这个字眼都足够将你送上绞刑架。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a491fc\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Eris: Even mentioning the celestials could very well tie a noose around your neck.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::03036746b8169680",
     "original": "Eris: It's forbidden to possess any texts that even whisper their names.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Eris: 持有相关的文本，或者仅仅轻语那个名字，都是一种禁忌。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:000fab9\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Eris: It's forbidden to possess any texts that even whisper their names.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::75b36a49f60be51f",
     "original": "Ugh...[p/] The kingdom must've been suppressing knowledge of religions other than the Scaled Lord.",
-    "translation": "",
-    "stage": 0,
+    "translation": "呃……[p/]王国一直以来肯定是封锁了鳞甲领主之外宗教的知识。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b13f4\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Ugh...[p/] The kingdom must've been suppressing knowledge of religions other than the Scaled Lord.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::355d367f9ac05dc0",
     "original": "No wonder I couldn't find any information here.[p/] Was this whole morning a colossal waste of time?",
-    "translation": "",
-    "stage": 0,
+    "translation": "难怪我在这里什么信息都得不到。[p/]那整个上午是否都白费了呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:047a628\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"No wonder I couldn't find any information here.[p/] Was this whole morning a colossal waste of time?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d90f4a14416239cf",
     "original": "...No.[p/] This was still a lead.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……并非如此。[p/]这仍然带来了一点进展。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c075da\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"...No.[p/] This was still a lead.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bc5e7944c6799209",
     "original": "If I couldn't read about the celestial gods here,[p/] I'd just have to look somewhere else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果我无法在这里找到关于天神们的描述，[p/]我只需到其他地方寻找。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c54260\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"If I couldn't read about the celestial gods here,[p/] I'd just have to look somewhere else.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5aa2ec5cbfb9dc5f",
     "original": "Ms. Tymora had a lot of connections.[p/] I'm not sure if she'd condone the risk of buying illegal books, though.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然泰摩拉女士关系很广，[p/]但我也不确定她是否愿意承担采够非法书籍的风险。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02b2682\",\n  \"node\": \"MurderReveal\",\n  \"text\": \"Ms. Tymora had a lot of connections.[p/] I'm not sure if she'd condone the risk of buying illegal books, though.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8121be9d7d9fb7e2",
     "original": "Suddenly,[p/] a low-pitched thrum thundered across the room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "突然间，[p/] 一声低沉的轰鸣声传遍了整个房间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:057778f\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"Suddenly,[p/] a low-pitched thrum thundered across the room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fa78925c855423f8",
     "original": "It was unnaturally loud.[p/] It must've been produced by some sort of magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这声音响得不自然，p/]肯定是由某种魔力发出的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a18223\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"It was unnaturally loud.[p/] It must've been produced by some sort of magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::539ea0cc4e5e0fad",
     "original": "CELESTE: Ugh...[p/][s/] What [i]is[/i] that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 呃啊……[p/][s/][i]什么[/i]动静啊？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c4325f\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"CELESTE: Ugh...[p/][s/] What [i]is[/i] that?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0d735a1a4e9882c4",
     "original": "TYRION: Were you messing around with the Arcane Constructs...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 不会是你乱用奥术构造体搞的吧……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0446a4c\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"TYRION: Were you messing around with the Arcane Constructs...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::68cdf0af6d2362de",
     "original": "CELESTE: What?![p/][s/] No!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 什么东西？！[p/][s/]才不是啦！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b5066\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"CELESTE: What?![p/][s/] No!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f8f712852c8cc0c9",
     "original": "Celeste: ...I mean—[p/]only a little.[p/] I didn't expect that to trip anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……我是说——[p/]是有那么一点点。[p/]但我也没觉得会引发这种动静啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bef9bd\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"Celeste: ...I mean—[p/]only a little.[p/] I didn't expect that to trip anything.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04e6a8fa880cf01d",
     "original": "Celeste: It finally stopped...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 终于停下来了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0feb1a1\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"Celeste: It finally stopped...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a81d72ca48ca1d1c",
     "original": "WALLACE: E-[p/]Eris...[p/][s/] Wasn’t that the lockdown?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 厄、[p/]厄莉斯……[p/][s/]那不是封锁系统吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:061e1b5\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"WALLACE: E-[p/]Eris...[p/][s/] Wasn’t that the lockdown?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b6c3e0335e9999b5",
     "original": "ERIS: Yes.[p/] I believe so.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 对。[p/]我也这么认为。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a9ca5\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"ERIS: Yes.[p/] I believe so.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ba0f2d1d317f8494",
     "original": "TYRION: “Lockdown”?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: “封锁系统”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cf1f6a\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"TYRION: “Lockdown”?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::54e46ee4ac15617c",
     "original": "ERIS: The academy is outfitted with a large artificery system.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 学院配置了一套大型奥术系统。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f967f\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"ERIS: The academy is outfitted with a large artificery system.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::701b29723669eb16",
     "original": "ERIS: In a state of emergency,[p/] it will erect magical barriers throughout the building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 出现紧急情况时，[p/]它会在整栋大楼里展开魔法屏障。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b6675b\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"ERIS: In a state of emergency,[p/] it will erect magical barriers throughout the building.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2878a26b24fc8d02",
     "original": "CELESTE: “State of emergency”?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: “紧急情况”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04e4573\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"CELESTE: “State of emergency”?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::acbc30bb3e359be8",
     "original": "CELESTE: Should we be worried?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 那我们该为此担心吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09e6120\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"CELESTE: Should we be worried?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::828312b018fd8917",
     "original": "ERIS: Don’t worry.[p/] The lockdown is designed to keep everyone sequestered.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 别紧张。[p/]封锁是为了保障大家的安全。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07eac8d\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"ERIS: Don’t worry.[p/] The lockdown is designed to keep everyone sequestered.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5518c852b94a7ea2",
     "original": "ERIS: We’re safe from most threats as long as those barriers stay up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 只要屏障还在，我们就能免受绝大多数的威胁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07825c5\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"ERIS: We’re safe from most threats as long as those barriers stay up.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32652282727a283d",
     "original": "But...[p/] Ms. Tymora.[p/][s/] Wasn't she still on campus?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "但是……[p/]还有泰摩拉女士。[p/][s/]她不是还在学院里吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:002a224\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"But...[p/] Ms. Tymora.[p/][s/] Wasn't she still on campus?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f6bacb3dbd83fa4",
     "original": "Theodore: I-[p/][s/]I’m terribly sorry!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 我、[p/][s/]我很抱歉！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0254763\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"Theodore: I-[p/][s/]I’m terribly sorry!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04c23b7bf37686c2",
     "original": "A disembodied voice cut through the anxious murmurs of the students in the library.",
-    "translation": "",
-    "stage": 0,
+    "translation": "一个不知从哪里来的声音穿透了图书馆里学生们焦虑的低语声。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06332b3\",\n  \"node\": \"MurderRevealB\",\n  \"text\": \"A disembodied voice cut through the anxious murmurs of the students in the library.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0e44e042e5856afd",
     "original": "Theodore: Students and faculty![p/][s/] Please remain calm!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 全体师生！[p/][s/]请保持冷静！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d2ffe3\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"Theodore: Students and faculty![p/][s/] Please remain calm!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::759cc90bc185a12d",
     "original": "Theodore: T-[p/]There’s...[p/][s/] There’s been an attack in one of the lecture halls!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 在、[p/]在……[p/][s/]在一间讲堂里发生了袭击事件！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02ea570\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"Theodore: T-[p/]There’s...[p/][s/] There’s been an attack in one of the lecture halls!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0ad68c6e080d7fcc",
     "original": "Theodore: Please stay where you are and wait for the City Watch to arrive!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 请留在原地，等待城市安保到来！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e2719\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"Theodore: Please stay where you are and wait for the City Watch to arrive!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0dff9d0e3bf15198",
     "original": "TYRION: ...We have to get out of here!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……我们得从这里出去！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01abb27\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"TYRION: ...We have to get out of here!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::538d79a8d0cacd62",
     "original": "Celeste: What?[p/][s/] Tyrion, no.[p/] That's the last thing we should do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 什么？[p/][s/]提利昂，不行。[p/]我们最不该做的就是出去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:074aae6\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"Celeste: What?[p/][s/] Tyrion, no.[p/] That's the last thing we should do.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ecd7e9c8e41e2230",
     "original": "I ran towards the library entrance.[p/] My body crashed into the door.[p/] It didn't budge at all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我冲向图书馆的大门，[p/]拼尽全力撞了上去，[p/]但它一动不动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0779562\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"I ran towards the library entrance.[p/] My body crashed into the door.[p/] It didn't budge at all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9d7091ad338fb27a",
     "original": "I desperately pushed and pulled at the handle,[p/] trying to wrench the door open.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我拼命地摇动门把手，[p/]试图把门锁拧开。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0794bca\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"I desperately pushed and pulled at the handle,[p/] trying to wrench the door open.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b079d95160cc6315",
     "original": "CELESTE: Tyrion, stop that!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 提利昂，停下来！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:049ad5d\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"CELESTE: Tyrion, stop that!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::35abb346d0bad57f",
     "original": "TYRION: B-[p/]But...[p/][s/] Ms. Tymora!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但、[p/]但是……[p/][s/]泰摩拉女士！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:028ddf2\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"TYRION: B-[p/]But...[p/][s/] Ms. Tymora!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::45d853f1526624df",
     "original": "CELESTE: I know that you’re worried about her,[p/] but it's not safe out there!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我知道你担心她，[p/]但门外不安全！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08a7a00\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"CELESTE: I know that you’re worried about her,[p/] but it's not safe out there!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c9c74aaf3900bfa6",
     "original": "CELESTE: Look,[p/] the best thing we can do right now is stay here and wait until the lockdown is over.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 听着，[p/]我们现在最应该做的就是原地待命，直到封锁结束。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09697e0\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"CELESTE: Look,[p/] the best thing we can do right now is stay here and wait until the lockdown is over.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e5d7ae5f68166432",
     "original": "I knew she was right,[p/] but I couldn't just stand here and do nothing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我明知她说得对，[p/]但我不能就这么在原地什么都不做。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0de8631\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"I knew she was right,[p/] but I couldn't just stand here and do nothing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b996e058903312b2",
     "original": "I began kicking the door handle,[p/] but my foot was repelled by the low hum of magical energy.[p/] It didn't move at all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我狠狠踹向门把手，[p/]但只听见一声低沉的嗡鸣，脚被魔力推开了。[p/]它没有受到一点影响。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07d628a\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"I began kicking the door handle,[p/] but my foot was repelled by the low hum of magical energy.[p/] It didn't move at all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d9382fc71e7b0e89",
     "original": "Celeste’s hand rested on the hilt of her sword.[p/] Her eyes slowly scanned our surroundings.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特将手按在剑柄上，[p/]双眼缓缓扫过四周。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082a1fc\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"Celeste’s hand rested on the hilt of her sword.[p/] Her eyes slowly scanned our surroundings.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::08b10c4cff7fcaad",
     "original": "The other students watched her fearfully.[p/] No one dared to come near us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "其他学生恐惧地看着她，[p/]没有人敢靠近我们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0493253\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"The other students watched her fearfully.[p/] No one dared to come near us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1ac3fcd0392f32a8",
     "original": "WALLACE: Celeste...[p/] I think you can calm down.[p/] They said the attack was in the lecture halls.",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 塞莱斯特……[p/]我觉得你可以放松一点。[p/]他们说了袭击是发生在讲堂里的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bc20f6\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"WALLACE: Celeste...[p/] I think you can calm down.[p/] They said the attack was in the lecture halls.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0c5702504875eeaf",
     "original": "She answered him without breaking her glare.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她眼神依旧犀利，向他回复：",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0950861\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"She answered him without breaking her glare.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8813dcec59b6a097",
     "original": "Celeste: We don't know what's happening,[p/] and it's my job to keep Tyrion safe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们不知道到底发生了什么，[p/]而我的工作就是保证提利昂的安全。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0589286\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"Celeste: We don't know what's happening,[p/] and it's my job to keep Tyrion safe.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a467c0d9d407db54",
     "original": "...She also calmed me down earlier.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……她刚才也让我冷静了不少。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:083fcc4\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"...She also calmed me down earlier.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ac7298cee58e1b2a",
     "original": "It was easy to forget sometimes,[p/] but she was really vigilant when it counted.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然很容易被忘记，[p/]但到了关键时刻，她总是十分警觉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f7e231\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"It was easy to forget sometimes,[p/] but she was really vigilant when it counted.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::251232747f4cc99e",
     "original": "Theodore: Students and faculty.[p/] Thank you for your patience.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 各位师生。[p/]感谢你们的耐心。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b79af\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"Theodore: Students and faculty.[p/] Thank you for your patience.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9a6760b77da43531",
     "original": "Theodore: The knights have secured the building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 骑士们已经确保大楼的安全。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:034184b\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"Theodore: The knights have secured the building.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::302f8387c3194d63",
     "original": "Theodore: The lockdown has been lifted.[p/] However,[p/] please remain in the building until—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Theodore: 封锁已经解除。[p/]但是，[p/]请各位继续待在大楼里，直到——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:097b80f\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"Theodore: The lockdown has been lifted.[p/] However,[p/] please remain in the building until—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4cf21f62e11d0e60",
     "original": "He was barely finished with his announcement before I was out the door.",
-    "translation": "",
-    "stage": 0,
+    "translation": "没等到他宣布完毕，我就冲出门外。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00630dc\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"He was barely finished with his announcement before I was out the door.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5600506d3043173d",
     "original": "CELESTE: Tyrion?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 提利昂？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0824e2c\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"CELESTE: Tyrion?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6b0f40f93742b3a3",
     "original": "Celeste: Hey![p/][s/] Don’t go off on your own!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嘿！[p/][s/]别自己一个人行动！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e2ee2e\",\n  \"node\": \"MurderReveal_1\",\n  \"text\": \"Celeste: Hey![p/][s/] Don’t go off on your own!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e5988cd882dfd36",
     "original": "I desperately ran through the academy hallways.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我在学院的走廊上拼命跑过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0450403\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"I desperately ran through the academy hallways.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3b821d8aaf2c163e",
     "original": "Tyrion: No...[p/] No...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 不……[p/]不……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09b2e76\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"Tyrion: No...[p/] No...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0ecc9b535f586fcb",
     "original": "Tyrion: Ms. Tymora?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰摩拉女士？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0620fad\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"Tyrion: Ms. Tymora?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f76babc467b8b295",
     "original": "Tyrion: Ms. Tymora![p/][s/] Where are you?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰摩拉女士！[p/][s/]你在哪里？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:058269f\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"Tyrion: Ms. Tymora![p/][s/] Where are you?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34f1aeb878949afd",
     "original": "I was running blindly.[p/] My breath was haggard.[p/] My heart was racing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我盲目地奔跑着，[p/]上气不接下气，[p/]心脏砰砰直跳。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:028d21f\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"I was running blindly.[p/] My breath was haggard.[p/] My heart was racing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::842e14e2dde555df",
     "original": "Dread was creeping inside me with each passing moment.[p/] I didn't even know where I was going.",
-    "translation": "",
-    "stage": 0,
+    "translation": "随着时间一点点流逝，恐惧愈发攫住心头。[p/]我甚至已经不知道自己在往哪里去了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d34367\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"Dread was creeping inside me with each passing moment.[p/] I didn't even know where I was going.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d6a19c40ec90f924",
     "original": "RUBY: ...Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: ……卡斯伯特？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0422053\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"RUBY: ...Cuthbert?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e44da6004505496a",
     "original": "RUBY: What’s wrong?[p/] Why are you shouting?",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 发生什么了？[p/]你为什么大喊大叫的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:097aab8\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"RUBY: What’s wrong?[p/] Why are you shouting?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1b1f79d8866c7c5e",
     "original": "TYRION: M-[p/][s/]Ms. Tymora!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰、[p/][s/]泰摩拉女士！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:029af25\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"TYRION: M-[p/][s/]Ms. Tymora!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a20484e61c88c6d3",
     "original": "RUBY: Are you okay?[p/] You're breathing—",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 你还好吗？[p/]看你喘成这样——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:016a580\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"RUBY: Are you okay?[p/] You're breathing—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7c8acd183b72d36a",
     "original": "Relief washed away my anxiety.[p/] I just embraced my mentor tightly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "宽慰的心情冲走了所有的焦虑。[p/]我紧紧地抱住自己的导师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:047645a\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"Relief washed away my anxiety.[p/] I just embraced my mentor tightly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3ea6f15ad9202eef",
     "original": "She'd always demanded I keep a professional distance from her,[p/] but despite myself,[p/] I was just relieved she was safe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她总是要求我与她保持工作距离，[p/]但尽管我极力克制，[p/]仍然因她的安全感到如释重负。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08565d6\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"She'd always demanded I keep a professional distance from her,[p/] but despite myself,[p/] I was just relieved she was safe.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04edae16220680b6",
     "original": "CELESTE: Tyrion![p/][s/] There you are!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 提利昂！[p/][s/]你在这儿呢！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0183457\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"CELESTE: Tyrion![p/][s/] There you are!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5762588449cd8faa",
     "original": "CELESTE: And...[p/] you're crying?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 呃……[p/]你是哭了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:051beb2\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"CELESTE: And...[p/] you're crying?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7c5d6f65400d8c78",
     "original": "RUBY: C-[p/][s/]Cuthbert...[p/] You're hurting me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 卡、[p/][s/]卡斯伯特……[p/]你有点抱我弄疼了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:044a56a\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"RUBY: C-[p/][s/]Cuthbert...[p/] You're hurting me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2d357b3d821672de",
     "original": "Tyrion: S-[p/][s/]Sorry...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 对、[p/][s/]对不起……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:098fe9f\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"Tyrion: S-[p/][s/]Sorry...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6518450be56f000a",
     "original": "I let go of her and tried to stifle my tears.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我松开了她，想要忍住泪水。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d7e129\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"I let go of her and tried to stifle my tears.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::19ffd2e27fceb925",
     "original": "CELESTE: We heard the announcement.[p/] Are you okay, Ruby?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我们听到了广播。[p/]你没事吧，鲁比？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d0e2e9\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"CELESTE: We heard the announcement.[p/] Are you okay, Ruby?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::85dd834485af1c68",
     "original": "RUBY: I am,[p/] but—",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 我没事，[p/]但是——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:083125f\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"RUBY: I am,[p/] but—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d6f706c4ccf72145",
     "original": "Ms. Tymora glanced at Wallace.[p/] She slowly put herself between us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "泰摩拉女士看了一眼华莱士。[p/]她慢慢移动到我们俩之间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0249182\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"Ms. Tymora glanced at Wallace.[p/] She slowly put herself between us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ddfabf37be3a7e40",
     "original": "RUBY: For now,[p/] I think we should head to the foyer.",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 现在，[p/]我们该去前厅了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f583c9\",\n  \"node\": \"MurderReveal_2\",\n  \"text\": \"RUBY: For now,[p/] I think we should head to the foyer.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b4deeec0bc4fac96",
     "original": "We arrived at the foyer.[p/] The Academy was swarmed with a legion of familiar knights.",
-    "translation": "",
-    "stage": 0,
+    "translation": "当我们到达前厅时，[p/]学院里已经聚集了一大批我们熟悉的骑士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b96fd0\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"We arrived at the foyer.[p/] The Academy was swarmed with a legion of familiar knights.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::91518d640086057e",
     "original": "TYRION: The Inquisition?[p/] Don’t tell me...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 是裁判所？[p/]别告诉我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:069266c\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"TYRION: The Inquisition?[p/] Don’t tell me...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5ee46c3b2c1c0bc",
     "original": "CELESTE: They mentioned that there was an attack on campus...",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 之前提到学院里发生了一起袭击事件……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ce2a51\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"CELESTE: They mentioned that there was an attack on campus...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::339c497f0d14f7e8",
     "original": "CELESTE: They must have used magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 肯定是使用了魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a6d5d\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"CELESTE: They must have used magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2f5a64285df84090",
     "original": "ORYM: Hey![p/][s/] You, there!",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 喂！[p/][s/]那边，就是你！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aaa8ac\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"ORYM: Hey![p/][s/] You, there!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7da417e0fe84114f",
     "original": "As we came into the foyer,[p/] the Commander marched towards us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我们一走进前厅，[p/]指挥官马上向我们冲过来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d65c8a\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"As we came into the foyer,[p/] the Commander marched towards us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f8192f52bd6b1fe6",
     "original": "...But his attention wasn’t focused on Celeste this time.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……但这次他不是冲着塞莱斯特来的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02fb951\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"...But his attention wasn’t focused on Celeste this time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b9da34dc42e5e322",
     "original": "WALLACE: H-[p/][s/]Huh?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 哈、[p/][s/]哈啊？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d10df7\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"WALLACE: H-[p/][s/]Huh?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::040a3bf9ccd651ef",
     "original": "ORYM: Wallace Nightgrave![p/] By the authority of the Wyverngarde Crown,[p/][s/] I’m placing you under arrest!",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 华莱士·奈特格雷夫！[p/]以维文加德皇室的名义，[p/][s/]我在此将你逮捕！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e6a2dc\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"ORYM: Wallace Nightgrave![p/] By the authority of the Wyverngarde Crown,[p/][s/] I’m placing you under arrest!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::349158142b88064f",
     "original": "Before Wallace could react,[p/] Orym grabbed him by the wrist and began dragging him away.",
-    "translation": "",
-    "stage": 0,
+    "translation": "华莱士还没来得及作出反应，[p/]奥蒙就已经抓住他的手腕，将他拖走了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dcf2d7\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"Before Wallace could react,[p/] Orym grabbed him by the wrist and began dragging him away.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3f116c62d84cc555",
     "original": "CELESTE: Hey,[p/][s/] what are you doing?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 嘿，[p/][s/]你干嘛呀？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0716486\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"CELESTE: Hey,[p/][s/] what are you doing?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::543624739b73bc0c",
     "original": "ORYM: You three...?[p/] The hell are [i]you[/i] doing here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 是你们三个……？[p/][i]你们[/i]又他妈在这里干嘛？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6fd9e\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"ORYM: You three...?[p/] The hell are [i]you[/i] doing here?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5af08aa08f2dffd",
     "original": "Tyrion: You said he was under arrest?[p/] On what charges?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你说他被逮捕了？[p/]罪名是什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:066bf2f\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"Tyrion: You said he was under arrest?[p/] On what charges?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e7150482a1cf60d",
     "original": "ORYM: The charge of first-degree murder![p/][s/] This damned mage killed Catherine Bellwether!",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 是一等谋杀罪！[p/][s/]这个该死的法师杀死了凯瑟琳·贝尔维瑟！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e3d9ee\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"ORYM: The charge of first-degree murder![p/][s/] This damned mage killed Catherine Bellwether!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::142ab1604599a640",
     "original": "Celeste grabbed the commander's arm and wrenched him off of Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "塞莱斯特抓住指挥官的手臂，将他从华莱士身边拉开。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0348833\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"Celeste grabbed the commander's arm and wrenched him off of Wallace.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0589d9a8f5a54d77",
     "original": "Orym showed no resistance,[p/] clearly remembering what happened during [i]her[/i] arrest last week.",
-    "translation": "",
-    "stage": 0,
+    "translation": "奥蒙没有抵抗，[p/]显然是想起了上次逮捕[i]她[/i]的时候发生了什么事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0865f92\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"Orym showed no resistance,[p/] clearly remembering what happened during [i]her[/i] arrest last week.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ead14e01b6a10355",
     "original": "CELESTE: Like hell you’re arresting him!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你别想逮捕他！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:054906a\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"CELESTE: Like hell you’re arresting him!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::48ca1302ef71beaf",
     "original": "CELESTE: He was with us in the library the entire morning!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 他整个上午都和我们一起待在图书馆！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0480b59\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"CELESTE: He was with us in the library the entire morning!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7510fa9fe084691c",
     "original": "CELESTE: There’s no way he could have murdered her!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 他才没可能杀了她！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:017fab7\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"CELESTE: There’s no way he could have murdered her!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2658a0f3870d6ff6",
     "original": "RUBY: Step aside, Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 让开，塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01f832e\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"RUBY: Step aside, Celeste.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ef360cce9f3abd18",
     "original": "CELESTE: But—!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 但是——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a57b76\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"CELESTE: But—!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5b9513644342faf",
     "original": "TYRION: No,[p/] Ms. Tymora is right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 是的，[p/]泰摩拉女士是对的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04da407\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"TYRION: No,[p/] Ms. Tymora is right.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e7d6bf321cfd5815",
     "original": "Tyrion: If Wallace is a suspect,[p/] we can’t legally stop the Inquisition from arresting him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果华莱士被列为了嫌疑人，[p/]我们是不能合法阻止裁判所逮捕他的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d32caf\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"Tyrion: If Wallace is a suspect,[p/] we can’t legally stop the Inquisition from arresting him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::93353291d48b9ded",
     "original": "TYRION: It'd be best for you to go with them, Wallace.[p/] I'm sure we can get all of this sorted out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 华莱士，你跟他们走是正确的。[p/]我确信我们会解决这个问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06bc86c\",\n  \"node\": \"MurderReveal_3\",\n  \"text\": \"TYRION: It'd be best for you to go with them, Wallace.[p/] I'm sure we can get all of this sorted out.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::abaf1041e8f0aa65",
     "original": "I could only watch as the Inquisition dragged him away.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我只好眼看着裁判所的人将他带走了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a9c85e\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"I could only watch as the Inquisition dragged him away.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ee936a4f115be45e",
     "original": "ERIS: My apologies.[p/] I’m going to accompany him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ERIS: 容我致歉。[p/]我去陪他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c27b10\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"ERIS: My apologies.[p/] I’m going to accompany him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c8b2ef1b4a6ab241",
     "original": "Celeste: I can't believe this...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 真是难以置信……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05c3721\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"Celeste: I can't believe this...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1cee97f35bed9422",
     "original": "TYRION: They arrested him,[p/] even though he was in a different room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 尽管他在另一个房间里，[p/]他们还是逮捕了他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c6d525\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"TYRION: They arrested him,[p/] even though he was in a different room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::236368a21cc2ab3d",
     "original": "Ruby: This school is filled with plenty of mages.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 这所学院里到处都是法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0831e7c\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"Ruby: This school is filled with plenty of mages.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ed98c18f18029c43",
     "original": "Ruby: There [i]has[/i] to be a longer list of suspects.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: [i]肯定[/i]有一个长长的嫌疑人名单。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05dbca9\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"Ruby: There [i]has[/i] to be a longer list of suspects.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::29fb56ecbe77d4ba",
     "original": "CELESTE: What do we do now?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我们现在怎么办？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ed6a65\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"CELESTE: What do we do now?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::72ba823ab5994672",
     "original": "TYRION: Let's head to the Lecture Halls.[p/] That's where the murder must've taken place.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我们这就去那个讲堂吧。[p/]就是谋杀案发生的地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:032080a\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"TYRION: Let's head to the Lecture Halls.[p/] That's where the murder must've taken place.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::61c980e172135186",
     "original": "RUBY: Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 卡斯伯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093e55b\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"RUBY: Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d5e3b49b5223b1ba",
     "original": "TYRION: Y-[p/][s/]yes?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 怎、[p/][s/]怎么啦？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ddb942\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"TYRION: Y-[p/][s/]yes?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7546bb280934b4b1",
     "original": "RUBY: He hasn’t accepted you as his attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 他还没确定委托你辩护呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07e2973\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"RUBY: He hasn’t accepted you as his attorney.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7c654ad18cc48827",
     "original": "RUBY: You don’t even know if you’ll be working this case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 你都不知道自己会不会接手这个案子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fce6dc\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"RUBY: You don’t even know if you’ll be working this case.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ab61546fb2b9eba8",
     "original": "Tyrion: But I [i]know[/i] that he’s innocent.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但我们[i]知道[/i]他是无辜的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0126701\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"Tyrion: But I [i]know[/i] that he’s innocent.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0ef71d44583e0aa9",
     "original": "She looked like she was about to reprimand me,[p/] but she just let out a defeated sigh.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她看起来好像想训斥我，[p/]但最后只是发出认输的一声叹息。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c69cc0\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"She looked like she was about to reprimand me,[p/] but she just let out a defeated sigh.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0c15f477c6202028",
     "original": "RUBY: Just remember that being an attorney is your [i]job[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 拜托你记得辩护是你的[i]工作[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0430c48\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"RUBY: Just remember that being an attorney is your [i]job[/i].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::541524b1cf741e25",
     "original": "Ruby: Our law firm isn't a charity.[p/] If you overextend yourself,[p/] I'm not going to pay your rent for you.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Ruby: 我们的法律服务不是做慈善。[p/]如果你做得太过了，[p/]我不会继续帮你付佣金的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:039b2a8\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"Ruby: Our law firm isn't a charity.[p/] If you overextend yourself,[p/] I'm not going to pay your rent for you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2c75714adb86a0e2",
     "original": "RUBY: I have another appointment in the city.[p/] Can you two take it from here?",
-    "translation": "",
-    "stage": 0,
+    "translation": "RUBY: 我还要回城里赶赴另一场会面。[p/]就你们两个没问题吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08e6838\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"RUBY: I have another appointment in the city.[p/] Can you two take it from here?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0f5bd6d3f660c4c7",
     "original": "TYRION: Y-[p/]Yes.[p/][s/] Of course!",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 是、[p/]是的。[p/][s/]那当然！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b17528\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"TYRION: Y-[p/]Yes.[p/][s/] Of course!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a066918d0cd7eb1",
     "original": "TYRION: Alright.[p/] Let’s go, Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 好了。[p/]我们走吧，塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06de4c4\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"TYRION: Alright.[p/] Let’s go, Celeste.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8a059f02a7ef73d5",
     "original": "Celeste: Oh![p/] I've been waiting for our first case!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嗷！[p/]我一直在等我们第一次合作办案呢！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05559e0\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"Celeste: Oh![p/] I've been waiting for our first case!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::92538f931534aa17",
     "original": "Tyrion: Celeste,[p/] Wallace was just arrested.[p/] Be respectful.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特，[p/]华莱士才刚刚被逮捕。[p/]对工作尊重一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:064766b\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"Tyrion: Celeste,[p/] Wallace was just arrested.[p/] Be respectful.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e1e19572a5cee8f0",
     "original": "Celeste: ...R-[p/][s/]Right.[p/] Sorry...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……好、[p/][s/]好吧。[p/]对不起……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0518197\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"Celeste: ...R-[p/][s/]Right.[p/] Sorry...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a7c6233184b6beb9",
     "original": "I was reluctant to admit that I was just as excited as she was.",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然不愿意承认，但自己其实和她一样兴奋。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07c527e\",\n  \"node\": \"MurderReveal_4\",\n  \"text\": \"I was reluctant to admit that I was just as excited as she was.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ac536b67b589e0e0",
     "original": "TYRION: Celeste,[p/] this room was close to the crime scene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 塞莱斯特，[p/]厨房离犯罪现场很近。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03b0705\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"TYRION: Celeste,[p/] this room was close to the crime scene.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::12e0a548d3e688e3",
     "original": "TYRION: Could you cast [b]Detect Magic[/b] and scan for magical traces?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你能施放[b]法术探测[/b]扫描一下魔法痕迹吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00c96cb\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"TYRION: Could you cast [b]Detect Magic[/b] and scan for magical traces?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b4939e3312646fa8",
     "original": "CELESTE: Sure.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 没问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a8c85\",\n  \"node\": \"Kitchen_Examine\",\n  \"text\": \"CELESTE: Sure.\"\n}"
   },
   {
