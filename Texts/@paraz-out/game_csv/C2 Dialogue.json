@@ -26413,15 +26413,15 @@
   {
     "key": "C2 Dialogue.csv::translation::3619f3793b5c9e6a",
     "original": "Player: Necromancy on you",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 施加在你身上的死灵术",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b809d8\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"Player: Necromancy on you\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::423683c48132f03c",
     "original": "Player: Magic on the body",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 施加在尸体上的魔法",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b8a08e\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"Player: Magic on the body\"\n}"
   },
   {
@@ -26462,379 +26462,379 @@
   {
     "key": "C2 Dialogue.csv::translation::97bfee8c11e03c69",
     "original": "She became even more tense than before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她比先前更加紧张了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0981661\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"She became even more tense than before.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b0fa3a0148ccecf8",
     "original": "TYRION: ...Is it possible that you saw someone use magic on Bellwether?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……你有目击到有人对贝尔维瑟使用魔法吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c3d394\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"TYRION: ...Is it possible that you saw someone use magic on Bellwether?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e8f9b49418f316a0",
     "original": "VALENTINA: N-[p/][s/]No![p/][s/] Definitely, not! [h=\"Calm down!|There’s no way they know!\" e=\"f\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 没、[p/][s/]没有！[p/][s/]绝对没有！[h=\"冷静！ |他们不可能知道这件事的！\" e=\"f\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a8db47\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"VALENTINA: N-[p/][s/]No![p/][s/] Definitely, not! [h=\\\"Calm down!|There’s no way they know!\\\" e=\\\"f\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bf328be358d5861b",
     "original": "Her thoughts were an open book now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她的想法已经完全为我敞开了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a5eb87\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"Her thoughts were an open book now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b78e0babd31d4ad1",
     "original": "If I beat her in an ARGUMENT,[p/] her thoughts might show me what she’s hiding.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果我能在 <size=1.5em>辩论</size> 中说服她，[p/]心中的想法可能会揭露她在隐瞒什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0efe287\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"If I beat her in an ARGUMENT,[p/] her thoughts might show me what she’s hiding.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2f787d426858ca25",
     "original": "Player: Did you see something? (ARGUMENT)",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 你看到了什么？（辩论）",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0070315\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"Player: Did you see something? (ARGUMENT)\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e6f9372dfb92708b",
     "original": "TYRION: Could you tell us what happened when you and your sister discovered the body?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 能否告诉我们，你们姐妹两位在发现尸体时的情况？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bd75bb\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"TYRION: Could you tell us what happened when you and your sister discovered the body?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a506e2aab9e7aac7",
     "original": "VALENTINA: R-[p/]Right...",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 好、[p/]好的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:057e228\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"VALENTINA: R-[p/]Right...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e70c9476f0131d3e",
     "original": "VALENTINA: My sister and I were heading to the west exit.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我妹妹和我当时正朝西侧出口走去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:008e216\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"VALENTINA: My sister and I were heading to the west exit.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::00d94550e2b16ebf",
     "original": "VALENTINA: We saw the professor in a nearby classroom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我们看到附近的教室里有教授的身影。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0627c36\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"VALENTINA: We saw the professor in a nearby classroom.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d26326284b6f271d",
     "original": "Valentina: ...She was lying on the floor in a pool of blood. [h=\"It really scared me|seeing her like that...\" e=\"fsa\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: ……她倒在一片血泊之中。 [h=\"看到她那个样子|真是吓死我了……\" e=\"fsa\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0848cfc\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"Valentina: ...She was lying on the floor in a pool of blood. [h=\\\"It really scared me|seeing her like that...\\\" e=\\\"fsa\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6f2c6d23e8503fb3",
     "original": "VALENTINA: I used an emergency communication device to call for help.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我用了紧急通讯装置来求助。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f7fa51\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"VALENTINA: I used an emergency communication device to call for help.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b77441a59b84e0f7",
     "original": "VALENTINA: While I was doing that,[p/] my sister tried to wake her up. [h=\"That <i>is</i> what happened...\" e=\"fs\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 与此同时，[p/]我妹妹试着叫醒她。 [h=\"<i>确实</i>是这样……\" e=\"fs\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0318275\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"VALENTINA: While I was doing that,[p/] my sister tried to wake her up. [h=\\\"That <i>is</i> what happened...\\\" e=\\\"fs\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eaa32a933735c10e",
     "original": "TYRION: Was the professor still alive?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 那时教授还活着吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b08e43\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"TYRION: Was the professor still alive?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a10cf1de7f715051",
     "original": "VALENTINA: I don't know...[p/] But she wasn’t breathing,[p/] and she didn’t have a pulse.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 我不知道……[p/]但当时她已经没有了呼吸，[p/]也没有脉搏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07fb62f\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"VALENTINA: I don't know...[p/] But she wasn’t breathing,[p/] and she didn’t have a pulse.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2a47b24ccceca4ee",
     "original": "She was less tense,[p/] which might imply that she was telling the truth.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她没那么紧张了，[p/]或许能说明她在说真话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cb9b0a\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"She was less tense,[p/] which might imply that she was telling the truth.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::55173723713a0efc",
     "original": "It's possible the attack happened well before they discovered the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "袭击发生在她们发现尸体前是很可能的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a62e92\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"It's possible the attack happened well before they discovered the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7dd1f86dfcf52c03",
     "original": "Player: Keeping your jobs",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 保住饭碗",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0669e29\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"Player: Keeping your jobs\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a7d6d2a4cc0d0aeb",
     "original": "TYRION: Did you ever feel like your job was at risk because of Bellwether?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你是否曾感觉自己有可能因为贝尔维瑟而丢掉工作？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04ee66a\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"TYRION: Did you ever feel like your job was at risk because of Bellwether?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5361f66829f20480",
     "original": "VALENTINA: U-[p/][s/]Um...[p/] Why would you say that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 唔、[p/][s/]唔……[p/]你为什么这么说？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08d43c5\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"VALENTINA: U-[p/][s/]Um...[p/] Why would you say that?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0ebc4fa57c8341b2",
     "original": "Tyrion: ...It was just a hunch.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……直觉罢了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0722dba\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"Tyrion: ...It was just a hunch.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a60ee5981a06f549",
     "original": "Valentina: Yeah?![p/][s/] W-[p/][s/]Well,[p/] you're wrong!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 是吗?![p/][s/]那、[p/][s/]那好，[p/]你错了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0971dc3\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"Valentina: Yeah?![p/][s/] W-[p/][s/]Well,[p/] you're wrong!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ec5066b9b9c32d74",
     "original": "Valentina: [i]I[/i], for one, plan to work here until the day I die![p/][s/] Haha!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: [i]我[/i]，首先，就打算在这里工作到死！[p/][s/]哈哈！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07e76ad\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"Valentina: [i]I[/i], for one, plan to work here until the day I die![p/][s/] Haha!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1e4599f2add0f756",
     "original": "She was clearly lying,[p/] but maybe it would be best to keep that to myself for now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她明显在说谎，[p/]但或许现在还是不挑明为好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0791da7\",\n  \"node\": \"Kitchen_Talk\",\n  \"text\": \"She was clearly lying,[p/] but maybe it would be best to keep that to myself for now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a27efd6fd3f06f2d",
     "original": "TYRION: What do you know about the suspect in this case?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 关于此案的嫌疑人你有什么了解吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:023d657\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"TYRION: What do you know about the suspect in this case?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ad8491c38a16e1bc",
     "original": "TYRION: His name is Wallace Nightgrave.[p/] He’s a student here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 他叫华莱士·奈特格雷夫，[p/]是这里的一个学生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04833d6\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"TYRION: His name is Wallace Nightgrave.[p/] He’s a student here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4c4f74440d0af3de",
     "original": "VALENTINA: ...H-[p/][s/]He’s that scary necromancer, right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: ……他、[p/][s/]他就是那个骇人的死灵法师，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08fea6a\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"VALENTINA: ...H-[p/][s/]He’s that scary necromancer, right?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::67c88679283887ca",
     "original": "VALENTINA: The one that makes zombies?",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 那个制造僵尸的家伙？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04f9d34\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"VALENTINA: The one that makes zombies?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::98b0e25cd88989df",
     "original": "TYRION: ...Those are just rumors.[p/] He wants to be a doctor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……只是传言而已。[p/]他想成为一名医生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08232e4\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"TYRION: ...Those are just rumors.[p/] He wants to be a doctor.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5df68850a8c85b2b",
     "original": "VALENTINA: B-[p/][s/]But he studies [b]necromancy[/b]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 但、[p/][s/]但他是在学习[b]死灵术[/b]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0229fb1\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"VALENTINA: B-[p/][s/]But he studies [b]necromancy[/b]!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f4182f6d367f4392",
     "original": "Tyrion: Have you ever actually gotten to know him?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你有真的很了解他吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bc581b\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"Tyrion: Have you ever actually gotten to know him?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e0c3d4b54d848a72",
     "original": "VALENTINA: No...[p/][s/] But I’ve heard the rumors![p/] He’s always hanging around the cemetery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 没有……[p/][s/]但我听过那些传言！[p/]他总去墓地。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09a310f\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"VALENTINA: No...[p/][s/] But I’ve heard the rumors![p/] He’s always hanging around the cemetery.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d6fef493b2055d68",
     "original": "VALENTINA: I’m sure he’s just biding his time...[p/] waiting for his chance to raise an army.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 他肯定是在等待时机……[p/]等待一个组建不死大军的机会。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:061da42\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"VALENTINA: I’m sure he’s just biding his time...[p/] waiting for his chance to raise an army.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::363263d8ef6ab6ee",
     "original": "It couldn't be helped that people thought of him that way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "人们总是这么看待他，也真没什么办法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a49720\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"It couldn't be helped that people thought of him that way.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f1a382be30b79fd7",
     "original": "[i]I[/i] still wasn't sure what to make of all of this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "[i]我[/i]仍然不确定该如何理解发生的事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05834ef\",\n  \"node\": \"ValWallTalk\",\n  \"text\": \"[i]I[/i] still wasn't sure what to make of all of this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::88cb2be15fc21394",
     "original": "VALENTINA: ... [h=\"Nothing good,|if that's what you're looking for...\" e=\"as\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: …… [h=\"如果你们非得听的话……|反正没有好话。\" e=\"as\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fcabdd\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"VALENTINA: ... [h=\\\"Nothing good,|if that's what you're looking for...\\\" e=\\\"as\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::56233e413dba2dce",
     "original": "Yet another set of negative emotions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "又是一系列消极的反应。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03431d5\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"Yet another set of negative emotions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3aea4a33f7a7cf44",
     "original": "Celeste: Just tell us the truth.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 跟我们说真话就好了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0167aec\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"Celeste: Just tell us the truth.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c862508c7d487738",
     "original": "Celeste: I don't think we've talked to anyone who had anything nice to say about her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们也没碰到任何说她好话的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a7cfb\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"Celeste: I don't think we've talked to anyone who had anything nice to say about her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::40cbbb2af6a7c448",
     "original": "VALENTINA: [i]*sigh*[/i][p/] Yeah...[p/] She was a horrible person.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: [i]*叹气*[/i][p/]是啊……[p/]她这个人真的很糟糕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d3fc5e\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"VALENTINA: [i]*sigh*[/i][p/] Yeah...[p/] She was a horrible person.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cc9892049ba919a7",
     "original": "Valentina: She was really terrible to everyone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 她对谁都很不好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0babc37\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"Valentina: She was really terrible to everyone.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::47bb105775558a05",
     "original": "TYRION: Did that include the academy staff?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 也包括对学院的员工们？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d4b37e\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"TYRION: Did that include the academy staff?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bdeb482a37b82858",
     "original": "VALENTINA: She always treated us like her personal servants.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 她老是把我们当她的仆人使唤。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05af398\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"VALENTINA: She always treated us like her personal servants.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d162ab3a2e3ad3a8",
     "original": "VALENTINA: Sometimes she’d make messes on purpose,[p/] just so she could order us to clean it up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 有时候她故意搞破坏，[p/]只为了能命令我们打扫干净。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0077b95\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"VALENTINA: Sometimes she’d make messes on purpose,[p/] just so she could order us to clean it up.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7ffa6279323c02de",
     "original": "Valentina: I thought the kids from the noble houses were bad,[p/] but she was something else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我觉得贵族的小孩们就很坏了，[p/]但她完全是另一个等级的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:038ea5f\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"Valentina: I thought the kids from the noble houses were bad,[p/] but she was something else.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c074c8dd9fbea9a2",
     "original": "Valentina: She acted like she owned the place,[p/] but she wasn't even from a noble family.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 她就像自己拥有这里一样胡作非为，[p/]但她甚至都不是贵族出身。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:057f9ed\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"Valentina: She acted like she owned the place,[p/] but she wasn't even from a noble family.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::58301d0423fbd4db",
     "original": "Valentina: The only reason why she had [i]any[/i] power was because of her friends on the school board. [h=\"I just hope|we can still keep our jobs...\" e=\"sf\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 她仅仅是因为自己在学院董事会有朋友才拥有[i]这样[/i]的权力。 [h=\"我只希望|我们还能保住饭碗……\" e=\"sf\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0418b36\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"Valentina: The only reason why she had [i]any[/i] power was because of her friends on the school board. [h=\\\"I just hope|we can still keep our jobs...\\\" e=\\\"sf\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb3f89c14089b4e7",
     "original": "Interesting...[p/] Why would she be worried about that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "有意思……[p/]她为何担心这个？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ad0c2c\",\n  \"node\": \"ValCathTalk\",\n  \"text\": \"Interesting...[p/] Why would she be worried about that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::626431d1d91cbe9a",
     "original": "Valentina: Scaled Lord, he's got a thing!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 鳞主在上，他有个不妙的东西！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0af00df\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: Scaled Lord, he's got a thing!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1c944afb521419a4",
     "original": "Tyrion: I-[p/][s/]It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这、[p]这是个律师符石。[p/]它证明我持证律师的身份。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0492ff7\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Tyrion: I-[p/][s/]It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::14972bab78c4923e",
     "original": "Valentina: \"Pictures\"?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: “照片”？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:036ad8c\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: \\\"Pictures\\\"?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::75f5b4c2ad580359",
     "original": "Valentina: I do [i]not[/i] consent to having my picture taken.[p/] You are [i]legally[/i] not allowed to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我[i]不[/i]同意拍照。[p/]按照[i]法律[/i]你是不被允许这么做的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00ecdc3\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: I do [i]not[/i] consent to having my picture taken.[p/] You are [i]legally[/i] not allowed to.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5fb7209d2b11f127",
     "original": "Tyrion: I-[p/][s/]I wasn't planning to...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我、[p/][s/]我没有这个打算……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0716bda\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Tyrion: I-[p/][s/]I wasn't planning to...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9d099a3b29baa350",
     "original": "Celeste: Tyrion,[p/] just put it away.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂，[p/]把那个放回去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08de56d\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Celeste: Tyrion,[p/] just put it away.\"\n}"
   },
   {
@@ -26847,463 +26847,463 @@
   {
     "key": "C2 Dialogue.csv::translation::9159c7e1693593e8",
     "original": "Valentina: So...[p/] Are you two like private investigators,[p/] or supermodels...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 所以……[p/]你们俩是私家侦探，[p/]还是什么超模……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0999f64\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: So...[p/] Are you two like private investigators,[p/] or supermodels...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::59678482d41242de",
     "original": "Tyrion: ...\"Supermodels\"?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……“超模”？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00fae51\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Tyrion: ...\\\"Supermodels\\\"?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e0c8c2d6c3f323e8",
     "original": "I'm not sure what gave her that idea,[p/] but it'd be best not to tell her that I planned on being Wallace's attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我不知道她为什么这么想，[p/]但最好还是不要告诉她我打算担任华莱士的辩护律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:078f7ab\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"I'm not sure what gave her that idea,[p/] but it'd be best not to tell her that I planned on being Wallace's attorney.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ae66e8d4d9146e9c",
     "original": "Tyrion: Do you know Eris Illmater?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你知道厄莉斯·伊尔马特吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0025a18\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Tyrion: Do you know Eris Illmater?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fd504acf6628a401",
     "original": "Valentina: A-[p/]Ah,[p/][s/] she's even scarier than that necromancer!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 啊、[p/]啊，[p/][s/]她比那死灵法师更吓人！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d55aa0\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: A-[p/]Ah,[p/][s/] she's even scarier than that necromancer!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1e6934b2dc45db1d",
     "original": "Valentina: I've heard rumors about her, you know?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 你知道吗？我听说过好多有关她的传闻。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0165d33\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: I've heard rumors about her, you know?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1a63d5ccfb0cdd80",
     "original": "Valentina: People who start talking to her end up missing or [i]worse[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 和她聊过天的人最后都失踪了，或者[i]更惨[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01ddbec\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: People who start talking to her end up missing or [i]worse[/i].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::33c1882e4baf6a83",
     "original": "Valentina: I feel it every time I'm around her...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 每次在她附近的时候，我都觉得……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02703e9\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: I feel it every time I'm around her...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c480fd2e6e8e2cd6",
     "original": "Valentina: Something about her that fills me with dread...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 她身上有种东西让我无比地恐惧……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04df9a3\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: Something about her that fills me with dread...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4a8af107525be798",
     "original": "Tyrion: ...Have you actually spoken to her before?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你以前有和她说过话吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:099cb0b\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Tyrion: ...Have you actually spoken to her before?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6f70853ae2e511db",
     "original": "Tyrion: She's a nice person.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她人挺好的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0326c54\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Tyrion: She's a nice person.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::33275e2f4f3c5d64",
     "original": "Valentina: N-[p/]No, thanks...[p/] I'm good.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 没、[p/]没有过，谢谢你……[p/]我还是算了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0386b7d\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: N-[p/]No, thanks...[p/] I'm good.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8ef6d9309aae1d44",
     "original": "Tyrion: What can you tell me about the headmaster?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 请问校长是个什么样的人呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a9c32f\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Tyrion: What can you tell me about the headmaster?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::469f256a40dda845",
     "original": "Valentina: Oh.[p/] He's a really nice person.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 哦，[p/]他人真的很好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e2a0f\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: Oh.[p/] He's a really nice person.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a86cb05182ffcbf4",
     "original": "Valentina: We would have never gotten a job here if it weren't for him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 要不是他的话，我们绝无可能在这工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:064d515\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: We would have never gotten a job here if it weren't for him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::250bb02427a17c15",
     "original": "Tyrion: Really?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 真的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eaebf7\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Tyrion: Really?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::30a3e11be36c3359",
     "original": "Valentina: Yeah,[p/] he has connections with the local community center.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 真的，[p/]他与当地的社区中心有联系。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f039e9\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: Yeah,[p/] he has connections with the local community center.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17836caa363be337",
     "original": "Valentina: He hires people from the commonfolk there to work at the academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 他通过这种渠道来雇佣平民到学院工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04e5f33\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: He hires people from the commonfolk there to work at the academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1a0b0934d045c9b7",
     "original": "Tyrion: What can you tell me about this, Ms. Ianus?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 伊努斯女士，你对这个怎么看？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0739ed2\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Tyrion: What can you tell me about this, Ms. Ianus?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3c900e0bd0066856",
     "original": "Valentina: S-[p/]Sorry...[p/] I don't have much to say about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 抱、[p/]抱歉……[p/]我不知道说些什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0732823\",\n  \"node\": \"Kitchen_Present\",\n  \"text\": \"Valentina: S-[p/]Sorry...[p/] I don't have much to say about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::081da57fb6ca230f",
     "original": "CELESTE: Hello?[p/] Is anyone there?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 有人吗？[p/]有人在吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:063a140\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"CELESTE: Hello?[p/] Is anyone there?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::53de4acffbef7c2c",
     "original": "VALENTINA: Be right there!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 马上就来！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02b2cb6\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"VALENTINA: Be right there!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5371988198bbfe97",
     "original": "VALENTINA: Sorry,[p/] but the cafeteria is closed right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 非常抱歉，[p/]餐厅目前已经关闭了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:095c95d\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"VALENTINA: Sorry,[p/] but the cafeteria is closed right now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::07d736d24899248a",
     "original": "TYRION: Actually,[p/] we’re here to investigate what happened to Catherine Bellwether.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 实际上呢，[p/]我们是来调查凯瑟琳·贝尔维瑟的事情的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e6c915\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"TYRION: Actually,[p/] we’re here to investigate what happened to Catherine Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::09b6826b868642f3",
     "original": "TYRION: We heard that two members of the kitchen staff discovered the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我们听说两位厨房的员工发现了尸体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bc3d5a\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"TYRION: We heard that two members of the kitchen staff discovered the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7a79e44c16e5ddf5",
     "original": "Her posture tensed at the mention of Bellwether.",
-    "translation": "",
-    "stage": 0,
+    "translation": "提到贝尔维瑟的名字，她的姿态明显变得紧张。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082ca85\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"Her posture tensed at the mention of Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4f1999aa3549bdf1",
     "original": "Valentina: O-[p/][s/]Oh...[p/] That would be me...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 哦、[p/][s/]哦……[p/]那说的是我……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09a9271\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"Valentina: O-[p/][s/]Oh...[p/] That would be me...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1abe5864fe351369",
     "original": "Valentina: I'm Valentina.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我是瓦伦蒂娜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:006cc9a\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"Valentina: I'm Valentina.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::41e9e83d3120cc86",
     "original": "[i]She[/i] was the head chef of the kitchen?[p/] She was close to my age...",
-    "translation": "",
-    "stage": 0,
+    "translation": "[i]她[/i]就是这里的主厨？[p/]她跟我年龄差不多吧……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:091854f\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"[i]She[/i] was the head chef of the kitchen?[p/] She was close to my age...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34908a7d5a4d6712",
     "original": "I knew how picky nobles were,[p/] and I'd imagined that their children would be worse.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我是知道贵族们有多挑剔的，[p/]他们中的小孩子只会变本加厉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c11d5c\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"I knew how picky nobles were,[p/] and I'd imagined that their children would be worse.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6f68dffa2d19bd4c",
     "original": "If her cooking fit their standards,[p/] that was impressive in and of itself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果她的烹饪能满足那些人的需求，[p/]仅仅是这一条就足够令人震惊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b8621e\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"If her cooking fit their standards,[p/] that was impressive in and of itself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::52e7ccdde92bfc99",
     "original": "TYRION: How about your sister?[p/] Do you know where she is right now?[p/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你的妹妹呢？[p/]知道她在哪里吗？[p/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ff58dd\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"TYRION: How about your sister?[p/] Do you know where she is right now?[p/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ef3cf601a4ccd100",
     "original": "Tyrion: I'd like to get her statement, too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我也想听听她的说法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e5c93d\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"Tyrion: I'd like to get her statement, too.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7d111983ec7a4369",
     "original": "VALENTINA: O-[p/][s/]Oh...[p/] She’s somewhere else on campus right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 啊、[p/][s/]唔……[p/]她现在应该在学院的其他地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f11e61\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"VALENTINA: O-[p/][s/]Oh...[p/] She’s somewhere else on campus right now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3e8770b093cdbc82",
     "original": "VALENTINA: U-[p/][s/]Um...[p/] If you’re with those knights,[p/] we’ve already told them everything we know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 唔、[p/][s/]唔嗯……[p/]如果你和那些骑士们是一伙的，[p/]我们已经把知道的都告诉他们了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01b0e72\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"VALENTINA: U-[p/][s/]Um...[p/] If you’re with those knights,[p/] we’ve already told them everything we know.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c9bc05014beae974",
     "original": "TYRION: Actually,[p/] we’re investigating separately from them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 其实，[p/]我们和那些骑士不是一起的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:030f603\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"TYRION: Actually,[p/] we’re investigating separately from them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::89258f4279d3e752",
     "original": "TYRION: I wanted to ask you some questions about what you saw.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我想就你目击到的事问一些问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f39193\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"TYRION: I wanted to ask you some questions about what you saw.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::90a829c8b55a8d0e",
     "original": "VALENTINA: Sure... [h=\"I’m going to have to remember.|There were so many details.\" e=\"saf\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 好的…… [h=\"我得仔细回忆下。|细节太多了。\" e=\"saf\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0af13de\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"VALENTINA: Sure... [h=\\\"I’m going to have to remember.|There were so many details.\\\" e=\\\"saf\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::892044de0e18808c",
     "original": "What was that just now?",
-    "translation": "",
-    "stage": 0,
+    "translation": "刚才那是什么情况？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:007de6a\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"What was that just now?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9b0686517cc96eb6",
     "original": "Tyrion: Hello...?[p/] Is anyone there?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 有人吗……？[p/]这里有人吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07c948b\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"Tyrion: Hello...?[p/] Is anyone there?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3959d536b8a0a05e",
     "original": "Celeste: ...It looks like there's no one here right now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……看起来这里空无一人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:010c47a\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"Celeste: ...It looks like there's no one here right now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::621b08cfd4bc0247",
     "original": "Celeste: Maybe we should check somewhere else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 或许我们应该去调查其他地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b3c905\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"Celeste: Maybe we should check somewhere else.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8c1c7879942a5094",
     "original": "VALENTINA: [i]*sigh*[/i][p/] Those two are finally gone...",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: [i]*叹气*[/i][p/]那两个人终于走了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0987c30\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"VALENTINA: [i]*sigh*[/i][p/] Those two are finally gone...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06650ed44c45738d",
     "original": "VALENTINA: I can finally get some cleaning done.",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 总算能干点活了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0326c36\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"VALENTINA: I can finally get some cleaning done.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c7b6e4a78fc232c2",
     "original": "We approached the kitchen from afar,[p/] making sure that Valentina wouldn't spot us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我们保持离厨房有一点距离，[p/]确保瓦伦蒂娜看不到我们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c7a8aa\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"We approached the kitchen from afar,[p/] making sure that Valentina wouldn't spot us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::50d7e8a437876a2e",
     "original": "We were pretty far away,[p/] but Celeste had the eyes of a hawk.[p/] It must've been a skill she picked up from her days as a mercenary.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我们其实隔得挺远，[p/]但塞莱斯特的视力堪比猎鹰。[p/]这应该是她在佣兵生涯锻炼出来的技巧吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06fbb5e\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"We were pretty far away,[p/] but Celeste had the eyes of a hawk.[p/] It must've been a skill she picked up from her days as a mercenary.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1c7611aa5949d23b",
     "original": "TYRION: There she is, Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她出现了，塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0150c42\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"TYRION: There she is, Celeste.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fd6187db3e17e162",
     "original": "CELESTE: Right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 交给我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aeb36c\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"CELESTE: Right.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2e1e62f80fb5a971",
     "original": "TYRION: Just...[p/] don’t shout that incantation like you always do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 只是……[p/]别像平时一样把咒语大喊出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01f7468\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"TYRION: Just...[p/] don’t shout that incantation like you always do.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f6db483aabdd0d6e",
     "original": "CELESTE: I-[p/][s/]I know that!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我、[p/][s/]我当然知道！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02a9878\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"CELESTE: I-[p/][s/]I know that!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f2018a3cf1a809a4",
     "original": "CELESTE: [i]Reperio Arcanum[/i]...",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: [i]Reperio Arcanum[/i]……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0704dfa\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"CELESTE: [i]Reperio Arcanum[/i]...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b08251b0f717c781",
     "original": "CELESTE: What the...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 什么鬼……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:061bbce\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"CELESTE: What the...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a99211c9eca8965d",
     "original": "TYRION: What is it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 怎么了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0020236\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"TYRION: What is it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c02a3cb5341b2e06",
     "original": "CELESTE: There’s a trace of magic on her!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 她身上有个魔法痕迹！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b2bbf3\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"CELESTE: There’s a trace of magic on her!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e28e3ff7d684e552",
     "original": "TYRION: I knew it...[p/] Which school of magic is it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我就知道……[p/]是哪种法术？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f2af36\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"TYRION: I knew it...[p/] Which school of magic is it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ba922c38bfd578ef",
     "original": "CELESTE: I-[p/]It’s...[p/][s/] [b]necromancy[/b]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 是、[p/]是……[p/][s/][b]死灵术[/b]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0913a8c\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"CELESTE: I-[p/]It’s...[p/][s/] [b]necromancy[/b]!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe34fb7768208b27",
     "original": "CELESTE: There’s a trace of [b]necromancy[/b] on her!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 她身上有[b]死灵术[/b]魔法的痕迹！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:067308e\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"CELESTE: There’s a trace of [b]necromancy[/b] on her!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::715edc58f7c16267",
     "original": "CELESTE: Is she going to be okay?![p/][s/] What if the real killer cursed her or something?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 她还好吗？！[p/][s/]如果真凶对她下了诅咒什么的怎么办？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0170085\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"CELESTE: Is she going to be okay?![p/][s/] What if the real killer cursed her or something?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c62f8509154c4888",
     "original": "I still wasn't sure how this fit with everything,[p/] but if she was in danger,[p/] we were obligated to tell her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我还是不知道这个发现在整个案件中意味着什么，[p/]但她要是有危险的话，[p/]我们有义务告诉她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:097d9e2\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"I still wasn't sure how this fit with everything,[p/] but if she was in danger,[p/] we were obligated to tell her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::995ebdc3e2380a5d",
     "original": "TYRION: ...For now,[p/] let’s talk to her and see if she saw who cast that spell on her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……现在，[p/]我们得和她谈谈，看她是否知道谁对她施放了法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0319ee2\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"TYRION: ...For now,[p/] let’s talk to her and see if she saw who cast that spell on her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3baa959fd6a1c2f1",
     "original": "Tyrion: If all else fails,[p/] we can confront her with the evidence we have.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果行不通的话，[p/]就用我们现有的证据质问她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f14179\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"Tyrion: If all else fails,[p/] we can confront her with the evidence we have.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::66d21c9cb5185b40",
     "original": "VALENTINA: O-[p/][s/]Oh?![p/][s/] It’s you two again! [h=\"They’re back?!\" e=\"f\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 呃、[p/][s/]啊？！[p/][s/]你们两个又来了！ [h=\"他们回来了？！\" e=\"f\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dd13ff\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"VALENTINA: O-[p/][s/]Oh?![p/][s/] It’s you two again! [h=\\\"They’re back?!\\\" e=\\\"f\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d86b3f399d953cf0",
     "original": "Valentina: ... [h=\"Okay... Just relax.|I just need to repeat what I told them.\" e=\"f\"/]",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: …… [h=\"没事，放轻松。|我只要把刚刚告诉他们的重复一遍。\" e=\"f\"/]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:023ff6d\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"Valentina: ... [h=\\\"Okay... Just relax.|I just need to repeat what I told them.\\\" e=\\\"f\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a73adcd6a47811c1",
     "original": "Unfortunately for her,[p/] she had far more troubling matters to worry about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但她运气不好，[p/]她现在会有更多问题要操心了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aa6a52\",\n  \"node\": \"Kitchen_Check\",\n  \"text\": \"Unfortunately for her,[p/] she had far more troubling matters to worry about.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::137330b9337a49e1",
     "original": "VALENTINA: T-[p/][s/]This is crazy!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 这、[p/][s/]这实在是太扯了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03860d1\",\n  \"node\": \"ValDeduce\",\n  \"text\": \"VALENTINA: T-[p/][s/]This is crazy!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7e75437da6ca924c",
     "original": "VALENTINA: Why is there a trace of [b]necromancy[/b] on me?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "VALENTINA: 为什么我身上会有[b]死灵术[/b]魔法的痕迹？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:073b6b3\",\n  \"node\": \"ValDeduce\",\n  \"text\": \"VALENTINA: Why is there a trace of [b]necromancy[/b] on me?!\"\n}"
   },
   {
