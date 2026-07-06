@@ -4238,86 +4238,86 @@ line:023ff6d,Kitchen_Check,"Valentina: ... [h=""Okay... Just relax.|I just need 
 line:0aa6a52,Kitchen_Check,"Unfortunately for her,[p/] she had far more troubling matters to worry about.",但她运气不好，[p/]她现在会有更多问题要操心了。
 line:03860d1,ValDeduce,VALENTINA: T-[p/][s/]This is crazy!,VALENTINA: 这、[p/][s/]这实在是太扯了！
 line:073b6b3,ValDeduce,VALENTINA: Why is there a trace of [b]necromancy[/b] on me?!,VALENTINA: 为什么我身上会有[b]死灵术[/b]魔法的痕迹？！
-line:0cfdd85,ValDeduce,VALENTINA: Did that guy curse me?![p/][s/] Am I going to become a zombie?!,
-line:0bf43e5,ValDeduce,That was strange...[p/] She seemed genuinely worried.,
-line:05acda0,ValDeduce,Was she really unaware that a spell was cast on her?,
-line:0f37d28,ValDeduce,...No.[p/] She ran away when Celeste was going to scan the crime scene for magical traces.,
-line:0d8ab04,ValDeduce,"She knew that someone used magic on her,[p/] but she didn't know that the spell cast on her was [b]necromancy[/b].",
+line:0cfdd85,ValDeduce,VALENTINA: Did that guy curse me?![p/][s/] Am I going to become a zombie?!,VALENTINA: 是那家伙诅咒了我吗？！[p/][s/]我要变成僵尸了吗？！
+line:0bf43e5,ValDeduce,That was strange...[p/] She seemed genuinely worried.,奇怪……[p/]她看起来是真心地在忧虑。
+line:05acda0,ValDeduce,Was she really unaware that a spell was cast on her?,她真的没注意到自己有被施放法术？
+line:0f37d28,ValDeduce,...No.[p/] She ran away when Celeste was going to scan the crime scene for magical traces.,……肯定不是。[p/]她在塞莱斯特要进行魔法痕迹扫描时逃走了。
+line:0d8ab04,ValDeduce,"She knew that someone used magic on her,[p/] but she didn't know that the spell cast on her was [b]necromancy[/b].",她知道有人对她施放了法术，[p/]但她并不知道那是[b]死灵术[/b]。
 line:06263a9,ValDeduceb,0000,
 line:0afd83b,ValDeduceb,Fail,
-line:092b085,ValDeduceb,No...[p/] Valentina should have noticed someone casting a spell on her.,
-line:0635d26,ValDeduceb,She knows about the spell.[p/] She just didn’t know that it was [b]necromancy[/b].,
-line:01f206a,ValDeduceb,What kind of magic would cause her to think that?,
-line:04c81fc,ValDeduce2,"Tyrion: C-[p/]Calm down, Ms. Ianus...",
-line:06dbe43,ValDeduce2,Tyrion: Not all [b]necromancy[/b] spells relate to the undead.,
-line:0ebdf04,ValDeduce2,Tyrion: Healing spells are also from the school of [b]necromancy[/b].,
-line:0e75832,ValDeduce2,"VALENTINA: ""Healing spells""...? [h=""Oh!|It was from that time she healed that cut!"" e=""hf""/]",
-line:066ecd7,ValDeduce2,Someone healed a cut on her?[p/] Was that mage a student here?,
-line:050cf61,ValDeduce2,"VALENTINA: S-[p/][s/]Sorry,[p/][s/] I just remembered that there’s...[p/][s/] something else I have to do!",
-line:0969175,ValDeduce2,VALENTINA: I-[p/][s/]I’ll be right back!,
-line:09d9d0e,ValDeduce2,"Before we could say anything,[p/] she quickly walked out of the room.",
-line:0e3c706,ValDeduce2,"She seemed to really want to avoid talking about that mage,[p/] but why was that?",
-line:03e626e,ValDeduce2,CELESTE: H-[p/][s/]Hey![p/][s/] We're not done talking to you!,
-line:0285f3c,ValDeduce2,CELESTE: Do you want me to just catch her?[p/] I'm pretty sure she can't outrun me.,
-line:09fbb76,ValDeduce2,TYRION: The Inquisition is still patrolling the surrounding areas.,
-line:08c6104,ValDeduce2,Tyrion: They’d probably intervene if we started chasing one of the witnesses.,
-line:06d58eb,ValDeduce2,CELESTE: Ugh...[p/] But we weren’t able to learn anything...,
-line:0f0dde4,ValDeduce2,"TYRION: Actually,[p/] I [i]did[/i] learn one thing.",
-line:0e4baa8,ValDeduce2,Tyrion: She has a friend who cast a healing spell on her.,
-line:0df2597,ValDeduce2,Celeste: Really?![p/][s/] How did you figure that out?!,
-line:0c2878c,ValDeduce2,Tyrion: ...Good deductive reasoning.,
-line:0bb6830,ValDeduce2,"Celeste: Well, healing magic is also a form of [b]necromancy[/b], right?",
-line:00e6cc8,ValDeduce2,Celeste: I guess that explains why there are magical traces on her.,
-line:01d3e58,ValDeduce2,Celeste: It's a good thing a necromancer isn't actually trying to kill her.,
+line:092b085,ValDeduceb,No...[p/] Valentina should have noticed someone casting a spell on her.,不对……[p/]瓦伦蒂娜应该能注意到某人对她施法。
+line:0635d26,ValDeduceb,She knows about the spell.[p/] She just didn’t know that it was [b]necromancy[/b].,她知道那法术，[p/]她只是不知道那法术属于[b]死灵术[/b]。
+line:01f206a,ValDeduceb,What kind of magic would cause her to think that?,哪种法术会让她产生这种想法？
+line:04c81fc,ValDeduce2,"Tyrion: C-[p/]Calm down, Ms. Ianus...",Tyrion: 冷、[p/]冷静一下，伊努斯女士……
+line:06dbe43,ValDeduce2,Tyrion: Not all [b]necromancy[/b] spells relate to the undead.,Tyrion: 不是所有的[b]死灵术[/b]都与不死人有关。
+line:0ebdf04,ValDeduce2,Tyrion: Healing spells are also from the school of [b]necromancy[/b].,Tyrion: 治愈法术同样属于[b]死灵术[/b]的范畴。
+line:0e75832,ValDeduce2,"VALENTINA: ""Healing spells""...? [h=""Oh!|It was from that time she healed that cut!"" e=""hf""/]","VALENTINA: “治愈法术”……？ [h=""啊！|就是上次她帮我治疗割伤的时候！"" e=""hf""/]"
+line:066ecd7,ValDeduce2,Someone healed a cut on her?[p/] Was that mage a student here?,有人给她治疗了割伤？[p/]那个法师是这里的学生吗？
+line:050cf61,ValDeduce2,"VALENTINA: S-[p/][s/]Sorry,[p/][s/] I just remembered that there’s...[p/][s/] something else I have to do!",VALENTINA: 抱、[p/][s/]抱歉，[p/][s/]我……[p/][s/]我突然想起来有急事！
+line:0969175,ValDeduce2,VALENTINA: I-[p/][s/]I’ll be right back!,VALENTINA: 我、[p/][s/]我马上就回来！
+line:09d9d0e,ValDeduce2,"Before we could say anything,[p/] she quickly walked out of the room.",我们来不及说什么，[p/]她已经快步走出厨房了。
+line:0e3c706,ValDeduce2,"She seemed to really want to avoid talking about that mage,[p/] but why was that?",看起来她极力避免提到那位法师，[p/]但为什么呢？
+line:03e626e,ValDeduce2,CELESTE: H-[p/][s/]Hey![p/][s/] We're not done talking to you!,CELESTE: 嘿、[p/]嘿！[p/][s/]我们还没问完呢！
+line:0285f3c,ValDeduce2,CELESTE: Do you want me to just catch her?[p/] I'm pretty sure she can't outrun me.,CELESTE: 你要我现在抓住她吗？[p/]我很确定她跑不过我。
+line:09fbb76,ValDeduce2,TYRION: The Inquisition is still patrolling the surrounding areas.,TYRION: 裁判所还在周围巡视呢。
+line:08c6104,ValDeduce2,Tyrion: They’d probably intervene if we started chasing one of the witnesses.,Tyrion: 如果看见我们骚扰证人，他们一定会插手的。
+line:06d58eb,ValDeduce2,CELESTE: Ugh...[p/] But we weren’t able to learn anything...,CELESTE: 呃…….[p/]但我们还什么都不知道……
+line:0f0dde4,ValDeduce2,"TYRION: Actually,[p/] I [i]did[/i] learn one thing.",TYRION: 其实，[p/]我了解到了一件事。
+line:0e4baa8,ValDeduce2,Tyrion: She has a friend who cast a healing spell on her.,Tyrion: 她有个曾对她用过治疗法术的朋友。
+line:0df2597,ValDeduce2,Celeste: Really?![p/][s/] How did you figure that out?!,Celeste: 真的吗？！[p/][s/]你是怎么知道的？！
+line:0c2878c,ValDeduce2,Tyrion: ...Good deductive reasoning.,Tyrion: ……靠优秀的演绎推理能力。
+line:0bb6830,ValDeduce2,"Celeste: Well, healing magic is also a form of [b]necromancy[/b], right?",Celeste: 总之，治愈魔法也是[b]死灵术[/b]的一种，对吗？
+line:00e6cc8,ValDeduce2,Celeste: I guess that explains why there are magical traces on her.,Celeste: 我想这样确实能解释她身上的魔法痕迹。
+line:01d3e58,ValDeduce2,Celeste: It's a good thing a necromancer isn't actually trying to kill her.,Celeste: 死灵法师并不打算杀死她，是件好事。
 line:0375a8d,ValDeduce2,...Wait a minute.,……等一下。
 line:0a1558f,ValDeduce2b,000,
 line:0ded5e7,ValDeduce2b,Fail,
-line:0603083,ValDeduce2b,No...[p/] Valentina had traces of [b]necromancy[/b] on her.,
-line:0cfcad8,ValDeduce2b,"That made her think she'd been secretly attacked,[p/] but someone had just healed her.",
-line:07cd0d2,ValDeduce2b,I'd considered that possibility until now...,
+line:0603083,ValDeduce2b,No...[p/] Valentina had traces of [b]necromancy[/b] on her.,不对……[p/]瓦伦蒂娜身上有[b]死灵术[/b]的痕迹。
+line:0cfcad8,ValDeduce2b,"That made her think she'd been secretly attacked,[p/] but someone had just healed her.",这让她觉得自己遭到暗算，[p/]但还有人不久前给她提供了治疗。
+line:07cd0d2,ValDeduce2b,I'd considered that possibility until now...,直到现在，我才考虑到了这种可能性……
 line:04925a5,ValDeduce3,TYRION: That’s it!,TYRION: 就是这个！
-line:06ab187,ValDeduce3,CELESTE: What...?,
-line:09f9e8d,ValDeduce3,"TYRION: This whole time,[p/][s/] we’ve been wondering why there were traces of [b]necromancy[/b] on the body!",
-line:002e3b8,ValDeduce3,TYRION: It wasn't because someone [i]attacked[/i] Bellwether with a [b]necromancy[/b] spell.,
-line:05ffeb1,ValDeduce3,TYRION: It was because someone used a [b]necromancy[/b] spell to try to [i]heal[/i] her!,
-line:02ddd66,ValDeduce3,CELESTE: Oh...[p/] I get it.[p/] It doesn’t matter what type of [b]necromancy[/b] spell someone uses.,
-line:0481023,ValDeduce3,CELESTE: Traces from the same school of magic look exactly the same to me.,
-line:0f538f7,ValDeduce3,TYRION: It’s not just that.[p/] The body clearly bled at some point.,
+line:06ab187,ValDeduce3,CELESTE: What...?,CELESTE: 怎么了……？
+line:09f9e8d,ValDeduce3,"TYRION: This whole time,[p/][s/] we’ve been wondering why there were traces of [b]necromancy[/b] on the body!",TYRION: 一直以来，[p/][s/]我们都在疑惑尸体上为什么有[b]死灵术[/b]的痕迹！
+line:002e3b8,ValDeduce3,TYRION: It wasn't because someone [i]attacked[/i] Bellwether with a [b]necromancy[/b] spell.,TYRION: 这并非因为某人通过[b]死灵术[/b][i]攻击[/i]了贝尔维瑟。
+line:05ffeb1,ValDeduce3,TYRION: It was because someone used a [b]necromancy[/b] spell to try to [i]heal[/i] her!,TYRION: 而是某人尝试过用[b]死灵术[/b][i]治疗[/i]她！
+line:02ddd66,ValDeduce3,CELESTE: Oh...[p/] I get it.[p/] It doesn’t matter what type of [b]necromancy[/b] spell someone uses.,CELESTE: 哦……[p/]我明白了。[p/]与某人使用的[b]死灵术[/b]类型无关。
+line:0481023,ValDeduce3,CELESTE: Traces from the same school of magic look exactly the same to me.,CELESTE: 同一学派的法术造成的痕迹看起来是一样的。
+line:0f538f7,ValDeduce3,TYRION: It’s not just that.[p/] The body clearly bled at some point.,TYRION: 不仅如此。[p/]尸体肯定在之前是流血的。
 line:0a94242,ValDeduce3b,0000,
 line:0abfadd,ValDeduce3b,Fail,
-line:04a46b0,ValDeduce3b,No...[p/] There's no rule saying that healing spells require the target to be alive.,
-line:08a54a2,ValDeduce3b,"If a healing spell were used on a wounded person,[p/] what would happen?",
-line:08c449e,ValDeduce3c,TYRION: What would happen if someone used a healing spell on an injured corpse?,
-line:08d6df8,ValDeduce3c,Celeste: It would close all of the body's wounds!,
-line:00ccd43,ValDeduce3c,"Tyrion: In other words,[p/] it would remove any cuts or bruises!",
-line:05499ca,ValDeduce3c,Celeste: So [i]that's[/i] why they couldn't find any wounds on her!,
-line:0355445,ValDeduce3c,"CELESTE: Well,[p/] interrogating Valentina may have been a dead end,[p/] but at least it helped you figure that out.",
-line:0a77e49,ValDeduce3c,TYRION: ...I’m not so sure that was a dead end.,
-line:01f886f,ValDeduce3c,CELESTE: What makes you say that?,
-line:0ce6c9b,ValDeduce3c,TYRION: Why would she go to so much trouble to hide those traces on her?,
-line:086243d,ValDeduce3c,TYRION: It’s too coincidental.[p/] The wounds on the body were healed by an unknown person.,
-line:0e7cd1f,ValDeduce3c,TYRION: And the person who [i]found[/i] the body is hiding the identity of a healing spell cast on her.,
-line:0124f9e,ValDeduce3c,TYRION: What if they're the same person?,
-line:0833e11,ValDeduce3c,Tyrion: ...I doubt she'll give us the opportunity to find out for sure.,
-line:0ed50ae,ValDeduce3c,"Celeste: Yeah,[p/] she's definitely onto us.",
-line:0d74854,ValDeduce4,"We'd done everything we could for now,[p/] and we had plenty of evidence to poke holes in the prosecution’s case.",
-line:054f05d,ValDeduce4,"And if that didn’t work,[p/] we'd just have to drag Valentina onto the stand and pull the truth out of her.",
-line:001e212,ValDeduce4,"She clearly knew more than she was letting on,[p/] and she wouldn't be able to run in a courtroom.",
-line:015276e,ValDeduce4,"Valentina: I'm telling you![p/][s/] That girl used magic to ""[i]scan[/i]"" me!",
-line:0cc68b3,ValDeduce4,Valerie: Calm down...[p/] We don't even know who they are.,
-line:00d091d,ValDeduce4,"Valentina: Didn't you see them, Val?![p/][s/] Those two were unreasonably attractive!",
-line:08727af,ValDeduce4,Valerie: ...Okay?[p/] But what does that mean?,
-line:09721ff,ValDeduce4,Valentina: They have to be nobles or [i]something[/i]!,
-line:0d3fe8f,ValDeduce4,Valentina: Commoners don't look that good!,
-line:04d6bcf,ValDeduce4,"Valerie: Tina,[p/] calm down...",
-line:032eb87,ValDeduce4,Valentina:  What if they find out what you did?!,
-line:0442879,ValDeduce4,Valerie: They can't prove anything.[p/] The Inquisition already has our alibi.,
-line:03b7eb6,ValDeduce4,Jan: Alibi?,
-line:0c8608b,ValDeduce4,Valentina: W-[p/][s/]What?!,
-line:071de10,ValDeduce4,"Valentina: Oh,[p/] it's just you, Jan.",
-line:04450e1,ValDeduce4,Jan: What are you two talking about?,
-line:0781ff4,ValDeduce4,Valentina: W-[p/][s/]We were just talking about those two investigators!,
-line:0479ba2,ValDeduce4,"Valentina: They're so weird, right?![p/][s/] Like why are they so attractive?!",
+line:04a46b0,ValDeduce3b,No...[p/] There's no rule saying that healing spells require the target to be alive.,不对……[p/]并没有治愈魔法能担保目标活下来的法则。
+line:08a54a2,ValDeduce3b,"If a healing spell were used on a wounded person,[p/] what would happen?",如果对受伤的人施放治愈魔法，[p/]会怎么样？
+line:08c449e,ValDeduce3c,TYRION: What would happen if someone used a healing spell on an injured corpse?,TYRION: 如果有人对有创口的尸体施放治愈法术，会发生什么？
+line:08d6df8,ValDeduce3c,Celeste: It would close all of the body's wounds!,Celeste: 所有的伤口都会愈合起来！
+line:00ccd43,ValDeduce3c,"Tyrion: In other words,[p/] it would remove any cuts or bruises!",Tyrion: 换句话说，[p/]这会移除尸体上所有的割伤与淤青！
+line:05499ca,ValDeduce3c,Celeste: So [i]that's[/i] why they couldn't find any wounds on her!,Celeste: [i]所以[/i]他们才无法在尸体上找到任何创口！
+line:0355445,ValDeduce3c,"CELESTE: Well,[p/] interrogating Valentina may have been a dead end,[p/] but at least it helped you figure that out.",CELESTE: 总之，[p/]审问瓦伦蒂娜可能是条死路……[p/]但至少让你理清了这个问题。
+line:0a77e49,ValDeduce3c,TYRION: ...I’m not so sure that was a dead end.,TYRION: ……我还不确定那边是不是死胡同。
+line:01f886f,ValDeduce3c,CELESTE: What makes you say that?,CELESTE: 是什么让你这么觉得呢？
+line:0ce6c9b,ValDeduce3c,TYRION: Why would she go to so much trouble to hide those traces on her?,TYRION: 她为什么要费尽心思地隐藏自己身上的痕迹呢？
+line:086243d,ValDeduce3c,TYRION: It’s too coincidental.[p/] The wounds on the body were healed by an unknown person.,TYRION: 这未免也太巧了。[p/]尸体上的伤痕也被某个人所治愈。
+line:0e7cd1f,ValDeduce3c,TYRION: And the person who [i]found[/i] the body is hiding the identity of a healing spell cast on her.,TYRION: 而[i]发现[/i]尸体的人在隐瞒自己有接受某个人的治愈法术。
+line:0124f9e,ValDeduce3c,TYRION: What if they're the same person?,TYRION: 如果这两个施法者是一个人呢？
+line:0833e11,ValDeduce3c,Tyrion: ...I doubt she'll give us the opportunity to find out for sure.,Tyrion: ……但我怀疑她不会给我们弄清楚的机会。
+line:0ed50ae,ValDeduce3c,"Celeste: Yeah,[p/] she's definitely onto us.",Celeste: 是啊，[p/]她对我们显然很戒备。
+line:0d74854,ValDeduce4,"We'd done everything we could for now,[p/] and we had plenty of evidence to poke holes in the prosecution’s case.",我们已经做了目前能做的一切了，[p/]并且拥有充足的证据去质疑检方的立论。
+line:054f05d,ValDeduce4,"And if that didn’t work,[p/] we'd just have to drag Valentina onto the stand and pull the truth out of her.",如果那些证据还不够的话，[p/]我们就得把瓦伦蒂娜拖上证人席，从她口中挖出真相。
+line:001e212,ValDeduce4,"She clearly knew more than she was letting on,[p/] and she wouldn't be able to run in a courtroom.",她显然知道的远比已透露的多，[p/]而在法庭中她无处可逃。
+line:015276e,ValDeduce4,"Valentina: I'm telling you![p/][s/] That girl used magic to ""[i]scan[/i]"" me!",Valentina: 我告诉你了！[p/][s/]那女孩用魔法“[i]扫描[/i]”我！
+line:0cc68b3,ValDeduce4,Valerie: Calm down...[p/] We don't even know who they are.,Valerie: 冷静点……[p/]我们甚至都不知道他们是谁。
+line:00d091d,ValDeduce4,"Valentina: Didn't you see them, Val?![p/][s/] Those two were unreasonably attractive!",Valentina: 你没看到他们吗，瓦尔？！[p/][s/]那两个人吸引眼球得不讲道理啊！
+line:08727af,ValDeduce4,Valerie: ...Okay?[p/] But what does that mean?,Valerie: ……这样啊？[p/]这是什么意思呢？
+line:09721ff,ValDeduce4,Valentina: They have to be nobles or [i]something[/i]!,Valentina: 他们肯定是贵族还是[i]什么大人物[/i]！
+line:0d3fe8f,ValDeduce4,Valentina: Commoners don't look that good!,Valentina: 平民才没有那么好看哪！
+line:04d6bcf,ValDeduce4,"Valerie: Tina,[p/] calm down...",Valerie: 蒂娜，[p/]冷静点……
+line:032eb87,ValDeduce4,Valentina:  What if they find out what you did?!,Valentina:  他们要是发现你做了什么该怎么办？！
+line:0442879,ValDeduce4,Valerie: They can't prove anything.[p/] The Inquisition already has our alibi.,Valerie: 他们什么也做不了。[p/]裁判所已经证实了我们的不在场证明。
+line:03b7eb6,ValDeduce4,Jan: Alibi?,Jan: 不在场证明？
+line:0c8608b,ValDeduce4,Valentina: W-[p/][s/]What?!,Valentina: 怎、p/][s/]怎样？！
+line:071de10,ValDeduce4,"Valentina: Oh,[p/] it's just you, Jan.",Valentina: 哦，[p/]是你啊，简。
+line:04450e1,ValDeduce4,Jan: What are you two talking about?,Jan:你们俩说什么呢？
+line:0781ff4,ValDeduce4,Valentina: W-[p/][s/]We were just talking about those two investigators!,Valentina: 我、[p/][s/]我们只是在谈到那两个调查员！
+line:0479ba2,ValDeduce4,"Valentina: They're so weird, right?![p/][s/] Like why are they so attractive?!",Valentina: 他们太奇怪了，对吧？！[p/][s/]为什么他们那么有吸引力呢？！
 line:038bfca,ValDeduce4,Valerie: ...Why do you keep mentioning that?,
 line:094dee7,ValDeduce4,Jan: Investigators?,
 line:03832ea,ValDeduce4,"Jan: Oh, you mean that blond kid and the girl with the sword?",

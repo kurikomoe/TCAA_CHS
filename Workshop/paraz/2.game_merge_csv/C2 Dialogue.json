@@ -23408,175 +23408,175 @@
   {
     "key": "C2 Dialogue.csv::translation::b9e8077b5cbbf320",
     "original": "VALENTINA: Did that guy curse me?![p/][s/] Am I going to become a zombie?!",
-    "translation": "",
+    "translation": "VALENTINA: 是那家伙诅咒了我吗？！[p/][s/]我要变成僵尸了吗？！",
     "context": "{\n  \"id\": \"line:0cfdd85\",\n  \"node\": \"ValDeduce\",\n  \"text\": \"VALENTINA: Did that guy curse me?![p/][s/] Am I going to become a zombie?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f4ee30f3dd534692",
     "original": "That was strange...[p/] She seemed genuinely worried.",
-    "translation": "",
+    "translation": "奇怪……[p/]她看起来是真心地在忧虑。",
     "context": "{\n  \"id\": \"line:0bf43e5\",\n  \"node\": \"ValDeduce\",\n  \"text\": \"That was strange...[p/] She seemed genuinely worried.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f538ba6e8e8fb970",
     "original": "Was she really unaware that a spell was cast on her?",
-    "translation": "",
+    "translation": "她真的没注意到自己有被施放法术？",
     "context": "{\n  \"id\": \"line:05acda0\",\n  \"node\": \"ValDeduce\",\n  \"text\": \"Was she really unaware that a spell was cast on her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e3c21c603483ec74",
     "original": "...No.[p/] She ran away when Celeste was going to scan the crime scene for magical traces.",
-    "translation": "",
+    "translation": "……肯定不是。[p/]她在塞莱斯特要进行魔法痕迹扫描时逃走了。",
     "context": "{\n  \"id\": \"line:0f37d28\",\n  \"node\": \"ValDeduce\",\n  \"text\": \"...No.[p/] She ran away when Celeste was going to scan the crime scene for magical traces.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a49a4ceb93311da5",
     "original": "She knew that someone used magic on her,[p/] but she didn't know that the spell cast on her was [b]necromancy[/b].",
-    "translation": "",
+    "translation": "她知道有人对她施放了法术，[p/]但她并不知道那是[b]死灵术[/b]。",
     "context": "{\n  \"id\": \"line:0d8ab04\",\n  \"node\": \"ValDeduce\",\n  \"text\": \"She knew that someone used magic on her,[p/] but she didn't know that the spell cast on her was [b]necromancy[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::685037bf346b90fb",
     "original": "No...[p/] Valentina should have noticed someone casting a spell on her.",
-    "translation": "",
+    "translation": "不对……[p/]瓦伦蒂娜应该能注意到某人对她施法。",
     "context": "{\n  \"id\": \"line:092b085\",\n  \"node\": \"ValDeduceb\",\n  \"text\": \"No...[p/] Valentina should have noticed someone casting a spell on her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9fa7880f18bed0c1",
     "original": "She knows about the spell.[p/] She just didn’t know that it was [b]necromancy[/b].",
-    "translation": "",
+    "translation": "她知道那法术，[p/]她只是不知道那法术属于[b]死灵术[/b]。",
     "context": "{\n  \"id\": \"line:0635d26\",\n  \"node\": \"ValDeduceb\",\n  \"text\": \"She knows about the spell.[p/] She just didn’t know that it was [b]necromancy[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ed65578272f6abf3",
     "original": "What kind of magic would cause her to think that?",
-    "translation": "",
+    "translation": "哪种法术会让她产生这种想法？",
     "context": "{\n  \"id\": \"line:01f206a\",\n  \"node\": \"ValDeduceb\",\n  \"text\": \"What kind of magic would cause her to think that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4272376b337a9a3d",
     "original": "Tyrion: C-[p/]Calm down, Ms. Ianus...",
-    "translation": "",
+    "translation": "Tyrion: 冷、[p/]冷静一下，伊努斯女士……",
     "context": "{\n  \"id\": \"line:04c81fc\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Tyrion: C-[p/]Calm down, Ms. Ianus...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::83b6cc9047fb338d",
     "original": "Tyrion: Not all [b]necromancy[/b] spells relate to the undead.",
-    "translation": "",
+    "translation": "Tyrion: 不是所有的[b]死灵术[/b]都与不死人有关。",
     "context": "{\n  \"id\": \"line:06dbe43\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Tyrion: Not all [b]necromancy[/b] spells relate to the undead.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::acb9f6f35e446467",
     "original": "Tyrion: Healing spells are also from the school of [b]necromancy[/b].",
-    "translation": "",
+    "translation": "Tyrion: 治愈法术同样属于[b]死灵术[/b]的范畴。",
     "context": "{\n  \"id\": \"line:0ebdf04\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Tyrion: Healing spells are also from the school of [b]necromancy[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c0f6f65ecc3e0893",
     "original": "VALENTINA: \"Healing spells\"...? [h=\"Oh!|It was from that time she healed that cut!\" e=\"hf\"/]",
-    "translation": "",
+    "translation": "VALENTINA: “治愈法术”……？ [h=\"啊！|就是上次她帮我治疗割伤的时候！\" e=\"hf\"/]",
     "context": "{\n  \"id\": \"line:0e75832\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"VALENTINA: \\\"Healing spells\\\"...? [h=\\\"Oh!|It was from that time she healed that cut!\\\" e=\\\"hf\\\"/]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c1a05e50c919ec30",
     "original": "Someone healed a cut on her?[p/] Was that mage a student here?",
-    "translation": "",
+    "translation": "有人给她治疗了割伤？[p/]那个法师是这里的学生吗？",
     "context": "{\n  \"id\": \"line:066ecd7\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Someone healed a cut on her?[p/] Was that mage a student here?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d3ac70868fcd3e3e",
     "original": "VALENTINA: S-[p/][s/]Sorry,[p/][s/] I just remembered that there’s...[p/][s/] something else I have to do!",
-    "translation": "",
+    "translation": "VALENTINA: 抱、[p/][s/]抱歉，[p/][s/]我……[p/][s/]我突然想起来有急事！",
     "context": "{\n  \"id\": \"line:050cf61\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"VALENTINA: S-[p/][s/]Sorry,[p/][s/] I just remembered that there’s...[p/][s/] something else I have to do!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cfd9bb667ac652ae",
     "original": "VALENTINA: I-[p/][s/]I’ll be right back!",
-    "translation": "",
+    "translation": "VALENTINA: 我、[p/][s/]我马上就回来！",
     "context": "{\n  \"id\": \"line:0969175\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"VALENTINA: I-[p/][s/]I’ll be right back!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cde5ae33fc877a80",
     "original": "Before we could say anything,[p/] she quickly walked out of the room.",
-    "translation": "",
+    "translation": "我们来不及说什么，[p/]她已经快步走出厨房了。",
     "context": "{\n  \"id\": \"line:09d9d0e\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Before we could say anything,[p/] she quickly walked out of the room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9cb1fca6153095ba",
     "original": "She seemed to really want to avoid talking about that mage,[p/] but why was that?",
-    "translation": "",
+    "translation": "看起来她极力避免提到那位法师，[p/]但为什么呢？",
     "context": "{\n  \"id\": \"line:0e3c706\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"She seemed to really want to avoid talking about that mage,[p/] but why was that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5a4d4e1b1924e40f",
     "original": "CELESTE: H-[p/][s/]Hey![p/][s/] We're not done talking to you!",
-    "translation": "",
+    "translation": "CELESTE: 嘿、[p/]嘿！[p/][s/]我们还没问完呢！",
     "context": "{\n  \"id\": \"line:03e626e\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"CELESTE: H-[p/][s/]Hey![p/][s/] We're not done talking to you!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a0c01480744ccea2",
     "original": "CELESTE: Do you want me to just catch her?[p/] I'm pretty sure she can't outrun me.",
-    "translation": "",
+    "translation": "CELESTE: 你要我现在抓住她吗？[p/]我很确定她跑不过我。",
     "context": "{\n  \"id\": \"line:0285f3c\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"CELESTE: Do you want me to just catch her?[p/] I'm pretty sure she can't outrun me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::33c30ed77ea8aa7a",
     "original": "TYRION: The Inquisition is still patrolling the surrounding areas.",
-    "translation": "",
+    "translation": "TYRION: 裁判所还在周围巡视呢。",
     "context": "{\n  \"id\": \"line:09fbb76\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"TYRION: The Inquisition is still patrolling the surrounding areas.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4787cc893dc8e0bd",
     "original": "Tyrion: They’d probably intervene if we started chasing one of the witnesses.",
-    "translation": "",
+    "translation": "Tyrion: 如果看见我们骚扰证人，他们一定会插手的。",
     "context": "{\n  \"id\": \"line:08c6104\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Tyrion: They’d probably intervene if we started chasing one of the witnesses.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1d3f28f55c039ae5",
     "original": "CELESTE: Ugh...[p/] But we weren’t able to learn anything...",
-    "translation": "",
+    "translation": "CELESTE: 呃…….[p/]但我们还什么都不知道……",
     "context": "{\n  \"id\": \"line:06d58eb\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"CELESTE: Ugh...[p/] But we weren’t able to learn anything...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ccb7642989d2ba6d",
     "original": "TYRION: Actually,[p/] I [i]did[/i] learn one thing.",
-    "translation": "",
+    "translation": "TYRION: 其实，[p/]我了解到了一件事。",
     "context": "{\n  \"id\": \"line:0f0dde4\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"TYRION: Actually,[p/] I [i]did[/i] learn one thing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5bdf19545639fa6f",
     "original": "Tyrion: She has a friend who cast a healing spell on her.",
-    "translation": "",
+    "translation": "Tyrion: 她有个曾对她用过治疗法术的朋友。",
     "context": "{\n  \"id\": \"line:0e4baa8\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Tyrion: She has a friend who cast a healing spell on her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3adfd6a1214afb62",
     "original": "Celeste: Really?![p/][s/] How did you figure that out?!",
-    "translation": "",
+    "translation": "Celeste: 真的吗？！[p/][s/]你是怎么知道的？！",
     "context": "{\n  \"id\": \"line:0df2597\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Celeste: Really?![p/][s/] How did you figure that out?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d5b49474301ee3e6",
     "original": "Tyrion: ...Good deductive reasoning.",
-    "translation": "",
+    "translation": "Tyrion: ……靠优秀的演绎推理能力。",
     "context": "{\n  \"id\": \"line:0c2878c\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Tyrion: ...Good deductive reasoning.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e9b9cc9126c84d15",
     "original": "Celeste: Well, healing magic is also a form of [b]necromancy[/b], right?",
-    "translation": "",
+    "translation": "Celeste: 总之，治愈魔法也是[b]死灵术[/b]的一种，对吗？",
     "context": "{\n  \"id\": \"line:0bb6830\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Celeste: Well, healing magic is also a form of [b]necromancy[/b], right?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c5a1d5ca33bdf222",
     "original": "Celeste: I guess that explains why there are magical traces on her.",
-    "translation": "",
+    "translation": "Celeste: 我想这样确实能解释她身上的魔法痕迹。",
     "context": "{\n  \"id\": \"line:00e6cc8\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Celeste: I guess that explains why there are magical traces on her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e19a859134dc314b",
     "original": "Celeste: It's a good thing a necromancer isn't actually trying to kill her.",
-    "translation": "",
+    "translation": "Celeste: 死灵法师并不打算杀死她，是件好事。",
     "context": "{\n  \"id\": \"line:01d3e58\",\n  \"node\": \"ValDeduce2\",\n  \"text\": \"Celeste: It's a good thing a necromancer isn't actually trying to kill her.\"\n}"
   },
   {
@@ -23588,259 +23588,259 @@
   {
     "key": "C2 Dialogue.csv::translation::8f1a290ad4bfdc79",
     "original": "No...[p/] Valentina had traces of [b]necromancy[/b] on her.",
-    "translation": "",
+    "translation": "不对……[p/]瓦伦蒂娜身上有[b]死灵术[/b]的痕迹。",
     "context": "{\n  \"id\": \"line:0603083\",\n  \"node\": \"ValDeduce2b\",\n  \"text\": \"No...[p/] Valentina had traces of [b]necromancy[/b] on her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a26dc174c915c24f",
     "original": "That made her think she'd been secretly attacked,[p/] but someone had just healed her.",
-    "translation": "",
+    "translation": "这让她觉得自己遭到暗算，[p/]但还有人不久前给她提供了治疗。",
     "context": "{\n  \"id\": \"line:0cfcad8\",\n  \"node\": \"ValDeduce2b\",\n  \"text\": \"That made her think she'd been secretly attacked,[p/] but someone had just healed her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::22f81ef885676039",
     "original": "I'd considered that possibility until now...",
-    "translation": "",
+    "translation": "直到现在，我才考虑到了这种可能性……",
     "context": "{\n  \"id\": \"line:07cd0d2\",\n  \"node\": \"ValDeduce2b\",\n  \"text\": \"I'd considered that possibility until now...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0e1367cd05af20c4",
     "original": "CELESTE: What...?",
-    "translation": "",
+    "translation": "CELESTE: 怎么了……？",
     "context": "{\n  \"id\": \"line:06ab187\",\n  \"node\": \"ValDeduce3\",\n  \"text\": \"CELESTE: What...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8102d282388ac62d",
     "original": "TYRION: This whole time,[p/][s/] we’ve been wondering why there were traces of [b]necromancy[/b] on the body!",
-    "translation": "",
+    "translation": "TYRION: 一直以来，[p/][s/]我们都在疑惑尸体上为什么有[b]死灵术[/b]的痕迹！",
     "context": "{\n  \"id\": \"line:09f9e8d\",\n  \"node\": \"ValDeduce3\",\n  \"text\": \"TYRION: This whole time,[p/][s/] we’ve been wondering why there were traces of [b]necromancy[/b] on the body!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::94215c6d5cbcaea5",
     "original": "TYRION: It wasn't because someone [i]attacked[/i] Bellwether with a [b]necromancy[/b] spell.",
-    "translation": "",
+    "translation": "TYRION: 这并非因为某人通过[b]死灵术[/b][i]攻击[/i]了贝尔维瑟。",
     "context": "{\n  \"id\": \"line:002e3b8\",\n  \"node\": \"ValDeduce3\",\n  \"text\": \"TYRION: It wasn't because someone [i]attacked[/i] Bellwether with a [b]necromancy[/b] spell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f313e8387669d05f",
     "original": "TYRION: It was because someone used a [b]necromancy[/b] spell to try to [i]heal[/i] her!",
-    "translation": "",
+    "translation": "TYRION: 而是某人尝试过用[b]死灵术[/b][i]治疗[/i]她！",
     "context": "{\n  \"id\": \"line:05ffeb1\",\n  \"node\": \"ValDeduce3\",\n  \"text\": \"TYRION: It was because someone used a [b]necromancy[/b] spell to try to [i]heal[/i] her!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::28821b10790c51c0",
     "original": "CELESTE: Oh...[p/] I get it.[p/] It doesn’t matter what type of [b]necromancy[/b] spell someone uses.",
-    "translation": "",
+    "translation": "CELESTE: 哦……[p/]我明白了。[p/]与某人使用的[b]死灵术[/b]类型无关。",
     "context": "{\n  \"id\": \"line:02ddd66\",\n  \"node\": \"ValDeduce3\",\n  \"text\": \"CELESTE: Oh...[p/] I get it.[p/] It doesn’t matter what type of [b]necromancy[/b] spell someone uses.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::440682c59426a0a8",
     "original": "CELESTE: Traces from the same school of magic look exactly the same to me.",
-    "translation": "",
+    "translation": "CELESTE: 同一学派的法术造成的痕迹看起来是一样的。",
     "context": "{\n  \"id\": \"line:0481023\",\n  \"node\": \"ValDeduce3\",\n  \"text\": \"CELESTE: Traces from the same school of magic look exactly the same to me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c0fbccee610008ea",
     "original": "TYRION: It’s not just that.[p/] The body clearly bled at some point.",
-    "translation": "",
+    "translation": "TYRION: 不仅如此。[p/]尸体肯定在之前是流血的。",
     "context": "{\n  \"id\": \"line:0f538f7\",\n  \"node\": \"ValDeduce3\",\n  \"text\": \"TYRION: It’s not just that.[p/] The body clearly bled at some point.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9194fa57c536a570",
     "original": "No...[p/] There's no rule saying that healing spells require the target to be alive.",
-    "translation": "",
+    "translation": "不对……[p/]并没有治愈魔法能担保目标活下来的法则。",
     "context": "{\n  \"id\": \"line:04a46b0\",\n  \"node\": \"ValDeduce3b\",\n  \"text\": \"No...[p/] There's no rule saying that healing spells require the target to be alive.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::767c63c6aa5b48f9",
     "original": "If a healing spell were used on a wounded person,[p/] what would happen?",
-    "translation": "",
+    "translation": "如果对受伤的人施放治愈魔法，[p/]会怎么样？",
     "context": "{\n  \"id\": \"line:08a54a2\",\n  \"node\": \"ValDeduce3b\",\n  \"text\": \"If a healing spell were used on a wounded person,[p/] what would happen?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1103088ef3945df9",
     "original": "TYRION: What would happen if someone used a healing spell on an injured corpse?",
-    "translation": "",
+    "translation": "TYRION: 如果有人对有创口的尸体施放治愈法术，会发生什么？",
     "context": "{\n  \"id\": \"line:08c449e\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"TYRION: What would happen if someone used a healing spell on an injured corpse?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e5c165479a9a30bd",
     "original": "Celeste: It would close all of the body's wounds!",
-    "translation": "",
+    "translation": "Celeste: 所有的伤口都会愈合起来！",
     "context": "{\n  \"id\": \"line:08d6df8\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"Celeste: It would close all of the body's wounds!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7aa8d157e6aac085",
     "original": "Tyrion: In other words,[p/] it would remove any cuts or bruises!",
-    "translation": "",
+    "translation": "Tyrion: 换句话说，[p/]这会移除尸体上所有的割伤与淤青！",
     "context": "{\n  \"id\": \"line:00ccd43\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"Tyrion: In other words,[p/] it would remove any cuts or bruises!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2001de02d601ad61",
     "original": "Celeste: So [i]that's[/i] why they couldn't find any wounds on her!",
-    "translation": "",
+    "translation": "Celeste: [i]所以[/i]他们才无法在尸体上找到任何创口！",
     "context": "{\n  \"id\": \"line:05499ca\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"Celeste: So [i]that's[/i] why they couldn't find any wounds on her!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::612ca2e90f4b8fd4",
     "original": "CELESTE: Well,[p/] interrogating Valentina may have been a dead end,[p/] but at least it helped you figure that out.",
-    "translation": "",
+    "translation": "CELESTE: 总之，[p/]审问瓦伦蒂娜可能是条死路……[p/]但至少让你理清了这个问题。",
     "context": "{\n  \"id\": \"line:0355445\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"CELESTE: Well,[p/] interrogating Valentina may have been a dead end,[p/] but at least it helped you figure that out.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::58b2ccb25bd4a011",
     "original": "TYRION: ...I’m not so sure that was a dead end.",
-    "translation": "",
+    "translation": "TYRION: ……我还不确定那边是不是死胡同。",
     "context": "{\n  \"id\": \"line:0a77e49\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"TYRION: ...I’m not so sure that was a dead end.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ca4ee0069839a1d1",
     "original": "CELESTE: What makes you say that?",
-    "translation": "",
+    "translation": "CELESTE: 是什么让你这么觉得呢？",
     "context": "{\n  \"id\": \"line:01f886f\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"CELESTE: What makes you say that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34d4962ca960e96e",
     "original": "TYRION: Why would she go to so much trouble to hide those traces on her?",
-    "translation": "",
+    "translation": "TYRION: 她为什么要费尽心思地隐藏自己身上的痕迹呢？",
     "context": "{\n  \"id\": \"line:0ce6c9b\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"TYRION: Why would she go to so much trouble to hide those traces on her?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d003a6138d77e189",
     "original": "TYRION: It’s too coincidental.[p/] The wounds on the body were healed by an unknown person.",
-    "translation": "",
+    "translation": "TYRION: 这未免也太巧了。[p/]尸体上的伤痕也被某个人所治愈。",
     "context": "{\n  \"id\": \"line:086243d\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"TYRION: It’s too coincidental.[p/] The wounds on the body were healed by an unknown person.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fc7176ba447d45f3",
     "original": "TYRION: And the person who [i]found[/i] the body is hiding the identity of a healing spell cast on her.",
-    "translation": "",
+    "translation": "TYRION: 而[i]发现[/i]尸体的人在隐瞒自己有接受某个人的治愈法术。",
     "context": "{\n  \"id\": \"line:0e7cd1f\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"TYRION: And the person who [i]found[/i] the body is hiding the identity of a healing spell cast on her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2bfc6a95d5fa803c",
     "original": "TYRION: What if they're the same person?",
-    "translation": "",
+    "translation": "TYRION: 如果这两个施法者是一个人呢？",
     "context": "{\n  \"id\": \"line:0124f9e\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"TYRION: What if they're the same person?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb0750f66f958b42",
     "original": "Tyrion: ...I doubt she'll give us the opportunity to find out for sure.",
-    "translation": "",
+    "translation": "Tyrion: ……但我怀疑她不会给我们弄清楚的机会。",
     "context": "{\n  \"id\": \"line:0833e11\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"Tyrion: ...I doubt she'll give us the opportunity to find out for sure.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8c0d83e1129cc0d0",
     "original": "Celeste: Yeah,[p/] she's definitely onto us.",
-    "translation": "",
+    "translation": "Celeste: 是啊，[p/]她对我们显然很戒备。",
     "context": "{\n  \"id\": \"line:0ed50ae\",\n  \"node\": \"ValDeduce3c\",\n  \"text\": \"Celeste: Yeah,[p/] she's definitely onto us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a555b5c2e8053837",
     "original": "We'd done everything we could for now,[p/] and we had plenty of evidence to poke holes in the prosecution’s case.",
-    "translation": "",
+    "translation": "我们已经做了目前能做的一切了，[p/]并且拥有充足的证据去质疑检方的立论。",
     "context": "{\n  \"id\": \"line:0d74854\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"We'd done everything we could for now,[p/] and we had plenty of evidence to poke holes in the prosecution’s case.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4c109efb4bc2823b",
     "original": "And if that didn’t work,[p/] we'd just have to drag Valentina onto the stand and pull the truth out of her.",
-    "translation": "",
+    "translation": "如果那些证据还不够的话，[p/]我们就得把瓦伦蒂娜拖上证人席，从她口中挖出真相。",
     "context": "{\n  \"id\": \"line:054f05d\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"And if that didn’t work,[p/] we'd just have to drag Valentina onto the stand and pull the truth out of her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb912c3ea67b4695",
     "original": "She clearly knew more than she was letting on,[p/] and she wouldn't be able to run in a courtroom.",
-    "translation": "",
+    "translation": "她显然知道的远比已透露的多，[p/]而在法庭中她无处可逃。",
     "context": "{\n  \"id\": \"line:001e212\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"She clearly knew more than she was letting on,[p/] and she wouldn't be able to run in a courtroom.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0c983bd0025e51f3",
     "original": "Valentina: I'm telling you![p/][s/] That girl used magic to \"[i]scan[/i]\" me!",
-    "translation": "",
+    "translation": "Valentina: 我告诉你了！[p/][s/]那女孩用魔法“[i]扫描[/i]”我！",
     "context": "{\n  \"id\": \"line:015276e\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valentina: I'm telling you![p/][s/] That girl used magic to \\\"[i]scan[/i]\\\" me!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::896ca3a94abce3df",
     "original": "Valerie: Calm down...[p/] We don't even know who they are.",
-    "translation": "",
+    "translation": "Valerie: 冷静点……[p/]我们甚至都不知道他们是谁。",
     "context": "{\n  \"id\": \"line:0cc68b3\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valerie: Calm down...[p/] We don't even know who they are.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ac3527494408037b",
     "original": "Valentina: Didn't you see them, Val?![p/][s/] Those two were unreasonably attractive!",
-    "translation": "",
+    "translation": "Valentina: 你没看到他们吗，瓦尔？！[p/][s/]那两个人吸引眼球得不讲道理啊！",
     "context": "{\n  \"id\": \"line:00d091d\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valentina: Didn't you see them, Val?![p/][s/] Those two were unreasonably attractive!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5d77bd4027e05f01",
     "original": "Valerie: ...Okay?[p/] But what does that mean?",
-    "translation": "",
+    "translation": "Valerie: ……这样啊？[p/]这是什么意思呢？",
     "context": "{\n  \"id\": \"line:08727af\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valerie: ...Okay?[p/] But what does that mean?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dea2969e858150f2",
     "original": "Valentina: They have to be nobles or [i]something[/i]!",
-    "translation": "",
+    "translation": "Valentina: 他们肯定是贵族还是[i]什么大人物[/i]！",
     "context": "{\n  \"id\": \"line:09721ff\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valentina: They have to be nobles or [i]something[/i]!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::381413a43cf9b49f",
     "original": "Valentina: Commoners don't look that good!",
-    "translation": "",
+    "translation": "Valentina: 平民才没有那么好看哪！",
     "context": "{\n  \"id\": \"line:0d3fe8f\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valentina: Commoners don't look that good!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eee0d8db1c3bac18",
     "original": "Valerie: Tina,[p/] calm down...",
-    "translation": "",
+    "translation": "Valerie: 蒂娜，[p/]冷静点……",
     "context": "{\n  \"id\": \"line:04d6bcf\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valerie: Tina,[p/] calm down...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::227cc0ab455954f5",
     "original": "Valentina:  What if they find out what you did?!",
-    "translation": "",
+    "translation": "Valentina:  他们要是发现你做了什么该怎么办？！",
     "context": "{\n  \"id\": \"line:032eb87\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valentina:  What if they find out what you did?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8ec8af9872fa76ce",
     "original": "Valerie: They can't prove anything.[p/] The Inquisition already has our alibi.",
-    "translation": "",
+    "translation": "Valerie: 他们什么也做不了。[p/]裁判所已经证实了我们的不在场证明。",
     "context": "{\n  \"id\": \"line:0442879\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valerie: They can't prove anything.[p/] The Inquisition already has our alibi.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4ec2db94d40f5a7b",
     "original": "Jan: Alibi?",
-    "translation": "",
+    "translation": "Jan: 不在场证明？",
     "context": "{\n  \"id\": \"line:03b7eb6\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Jan: Alibi?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::252e71f33158dc77",
     "original": "Valentina: W-[p/][s/]What?!",
-    "translation": "",
+    "translation": "Valentina: 怎、p/][s/]怎样？！",
     "context": "{\n  \"id\": \"line:0c8608b\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valentina: W-[p/][s/]What?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ab380b34e8f3b8db",
     "original": "Valentina: Oh,[p/] it's just you, Jan.",
-    "translation": "",
+    "translation": "Valentina: 哦，[p/]是你啊，简。",
     "context": "{\n  \"id\": \"line:071de10\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valentina: Oh,[p/] it's just you, Jan.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::aeb3607e9b389aab",
     "original": "Jan: What are you two talking about?",
-    "translation": "",
+    "translation": "Jan:你们俩说什么呢？",
     "context": "{\n  \"id\": \"line:04450e1\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Jan: What are you two talking about?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bd54d02120f551c8",
     "original": "Valentina: W-[p/][s/]We were just talking about those two investigators!",
-    "translation": "",
+    "translation": "Valentina: 我、[p/][s/]我们只是在谈到那两个调查员！",
     "context": "{\n  \"id\": \"line:0781ff4\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valentina: W-[p/][s/]We were just talking about those two investigators!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9c030823c5aafba1",
     "original": "Valentina: They're so weird, right?![p/][s/] Like why are they so attractive?!",
-    "translation": "",
+    "translation": "Valentina: 他们太奇怪了，对吧？！[p/][s/]为什么他们那么有吸引力呢？！",
     "context": "{\n  \"id\": \"line:0479ba2\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valentina: They're so weird, right?![p/][s/] Like why are they so attractive?!\"\n}"
   },
   {
