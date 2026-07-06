@@ -27820,337 +27820,337 @@
   {
     "key": "C2 Dialogue.csv::translation::e50365e2e7c7d3ee",
     "original": "Valerie: ...Why do you keep mentioning that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: ……你怎么一直再说这个？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:038bfca\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valerie: ...Why do you keep mentioning that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::937cfe31d3217c20",
     "original": "Jan: Investigators?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 调查员？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:094dee7\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Jan: Investigators?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5ff96053574258c",
     "original": "Jan: Oh, you mean that blond kid and the girl with the sword?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 哦，你是说那个金发的男孩和戴着剑的女孩？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03832ea\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Jan: Oh, you mean that blond kid and the girl with the sword?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::102b48ce7048b893",
     "original": "Valerie: They talked to you, didn't they?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 他们也和你谈了话，是吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f2392\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Valerie: They talked to you, didn't they?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b843389c97e171b3",
     "original": "Jan: Yeah,[p/] they asked me a bunch of questions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 对啊，[p/]问了我好多问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:080fecf\",\n  \"node\": \"ValDeduce4\",\n  \"text\": \"Jan: Yeah,[p/] they asked me a bunch of questions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c1405e1efa51aa9f",
     "original": "Jan: I think they're investigating Bellwether's murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我觉得他们是在调查贝尔维瑟的谋杀案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0107114\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: I think they're investigating Bellwether's murder.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d2e8b909246842e2",
     "original": "Valentina: ...W-[p/][s/]What did you tell them?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: ……你、[p/][s/]你跟他们说了什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e2c0c2\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valentina: ...W-[p/][s/]What did you tell them?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::22930129a67dd1f6",
     "original": "Jan: Oh, not much.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 呃，没说什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06c0149\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: Oh, not much.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::15105e775c6b3ea5",
     "original": "Jan: I saw Bellwether a bit before you two found the body.[p/] So they wanted to know if I saw anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 你们发现尸体前不久我也看到了贝尔维瑟。[p/]所以他们想知道我是不是看到了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:037579d\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: I saw Bellwether a bit before you two found the body.[p/] So they wanted to know if I saw anything.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::926e897e66c670d8",
     "original": "Valentina: [i]Did[/i] you see anything?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 你[i]有[/i]看到什么吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:040a813\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valentina: [i]Did[/i] you see anything?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::39539aa07b864886",
     "original": "Jan: No idea...[p/] I just told them about how she shoved me before you two discovered the body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 没什么吧……[p/]我刚告诉他们，你们俩发现尸体前，她推了我一把。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0015e3c\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: No idea...[p/] I just told them about how she shoved me before you two discovered the body.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::498dd2843724ea33",
     "original": "Jan: After that,[p/] the guy just kept going on and on about \"getting to the truth\" and \"finding the other suspects\".",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 之后，[p/]那家伙就一直在说什么“找出真相”，还有“寻找其他嫌疑人”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6ac95\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: After that,[p/] the guy just kept going on and on about \\\"getting to the truth\\\" and \\\"finding the other suspects\\\".\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2abf3a762ac0eed7",
     "original": "Valentina: Scaled Lord,[p/] I think I'm going to be sick......",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 鳞甲领主啊，[p/]我感觉要吐了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0615886\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valentina: Scaled Lord,[p/] I think I'm going to be sick......\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d6f3ff6d0d6b0db3",
     "original": "Jan: He seemed really interested when I told them Bellwether was going to fire us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 我告诉他们贝尔维瑟想炒掉我们的时候，他看起来还挺感兴趣的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05861e8\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: He seemed really interested when I told them Bellwether was going to fire us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06d34f494a2a8c44",
     "original": "Valentina: What?![p/][s/] Why would you tell them about that?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 什么？！[p/][s/]你干嘛要告诉他们这个啊？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c607c\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valentina: What?![p/][s/] Why would you tell them about that?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6cece941bb0d1df0",
     "original": "Jan: O-[p/][s/]Oh...[p/] It's not as if it makes any difference,[p/] right?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 呃、[p/][s/]噢……[p/]这没什么影响吧，[p/]是不？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0159309\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: O-[p/][s/]Oh...[p/] It's not as if it makes any difference,[p/] right?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe49d6d19358b71a",
     "original": "Jan: With Bellwether gone,[p/] I'm pretty sure we'll see a few more paychecks before they fire us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 贝尔维瑟一死，[p/]我敢肯定在他们炒我们的鱿鱼前还能领几笔薪水呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:088b65c\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: With Bellwether gone,[p/] I'm pretty sure we'll see a few more paychecks before they fire us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5ed78b4d4ef4cfd8",
     "original": "Valentina cursed under her breath.",
-    "translation": "",
-    "stage": 0,
+    "translation": "瓦伦蒂娜暗自咒骂几声。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d8ed08\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valentina cursed under her breath.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::acf7a6276e2fee11",
     "original": "Valentina: Damn it all...[p/] That's probably what [i]they're[/i] thinking too!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 该死……[p/][i]那帮人[/i]肯定也是这么想的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0462e10\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valentina: Damn it all...[p/] That's probably what [i]they're[/i] thinking too!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0541035e87c47ddc",
     "original": "Jan: Are you okay?[p/] You don't look so good.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 你还好吗？[p/]脸色很差哦。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e01188\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: Are you okay?[p/] You don't look so good.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d5f29ea09e7cc729",
     "original": "Valentina: Just go away, Jan![p/][s/] Don't you have work to do?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 走开啦，简！[p/][s/] 你没活可干了吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dcd98e\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valentina: Just go away, Jan![p/][s/] Don't you have work to do?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9c58abf935b60c8d",
     "original": "Jan: Ugh...[p/] Don't remind me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 唉……[p/]别让我想起来啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09ef1c0\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: Ugh...[p/] Don't remind me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fcce3aeac1873557",
     "original": "Valerie: By the way, I made you lunch.[p/] It's on the front counter in the kitchen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 说到这里，我给你准备了午餐。[p/]就在厨房前面的柜台上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c31f01\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valerie: By the way, I made you lunch.[p/] It's on the front counter in the kitchen.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::98b7764be02ed378",
     "original": "Jan: Thanks...[p/] You're a lifesaver, Valerie.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Jan: 谢谢……[p/]救老命了，瓦莱丽。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f332a2\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Jan: Thanks...[p/] You're a lifesaver, Valerie.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::27766ce2d9f01825",
     "original": "Valentina: They have our motive, Val.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 他们现在有你的动机了，瓦尔。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b8460e\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valentina: They have our motive, Val.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6710b210e2308877",
     "original": "Valentina: They have our motive,[p/] and they're going to find out what we did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 他们找出与我们有关的动机，[p/]马上就会弄清楚我们的行动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0400229\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valentina: They have our motive,[p/] and they're going to find out what we did.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ed06b50196251494",
     "original": "Valerie: You don't know that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 你并不真的知道他们要那么做吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d9e1bb\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valerie: You don't know that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::aec4d7d206d49298",
     "original": "Valentina: Why did Jan have to go blabbing about Bellwether's plan to those two?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 简为什么要把贝尔维瑟的计划告诉那两个人啊？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0107151\",\n  \"node\": \"ValDeduce5\",\n  \"text\": \"Valentina: Why did Jan have to go blabbing about Bellwether's plan to those two?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a937677e7ea8061c",
     "original": "Valentina: And why do you keep making meals for him?![p/][s/] He doesn't even do anything!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 而且你干嘛老是给他准备饭？！[p/][s/]他啥都没干啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f9d58f\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valentina: And why do you keep making meals for him?![p/][s/] He doesn't even do anything!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3ea369e74befe869",
     "original": "Valentina: I'm just going to come out and say it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我就直说了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0adaa5e\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valentina: I'm just going to come out and say it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3c74625df1820f55",
     "original": "Valentina: I have to run a two-person kitchen every meal to feed these pampered kids!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我得靠这个两个人的厨房为那些被宠坏了的小鬼供给一日三餐！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08a1bba\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valentina: I have to run a two-person kitchen every meal to feed these pampered kids!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::43add38621430b88",
     "original": "Valentina: He just lazes around and complains about his job!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 他就只是每天到处偷懒，抱怨自己的工作！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00e0448\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valentina: He just lazes around and complains about his job!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e6c7080dac718967",
     "original": "Valerie: Tina, he's overworked.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 蒂娜，他的工作远超负荷。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a0317d\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valerie: Tina, he's overworked.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8e10cbf01f1c409a",
     "original": "Valentina: Like hell, he's overworked![p/][s/] Every time I see him,[p/] he's either napping or barely working!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 见鬼，他还超负荷！[p/][s/]我每次看到他，[p/]不是在打盹就是在磨洋工！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d98fd4\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valentina: Like hell, he's overworked![p/][s/] Every time I see him,[p/] he's either napping or barely working!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::944b1b20db02598a",
     "original": "Valerie: Have you been around the campus?[p/] Have you ever seen it dirty?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 你有到校园各处看看吗？[p/]你看过哪里脏了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ee5f29\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valerie: Have you been around the campus?[p/] Have you ever seen it dirty?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d53b23ccbd9678e6",
     "original": "Valentina: N-[p/][s/]No...[p/][s/] but—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 是、[p/][s/]是没有……[p/][s/]但是——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b51dc4\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valentina: N-[p/][s/]No...[p/][s/] but—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7f46918aec617c3f",
     "original": "Valerie: He's the only custodian on staff,[p/] and the school board won't let the headmaster hire more.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 他是在任的唯一一名管理人。[p/]学院董事会却不批准校长多招募几个。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a824c1\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valerie: He's the only custodian on staff,[p/] and the school board won't let the headmaster hire more.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::71b1c5f59aa1d359",
     "original": "Valerie: He barely has enough time to sleep.[p/] Why do you think he's so tired all of the time?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 他根本没有充足的睡眠时间。[p/]要不然你觉得他为什么总是那么累？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d3f18d\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valerie: He barely has enough time to sleep.[p/] Why do you think he's so tired all of the time?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c4cd98b6caba9a20",
     "original": "Valentina: I-[p/][s/]I'm really sorry,[p/] I just—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我、[p/][s/]我道歉，[p/]我只是——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03266ab\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valentina: I-[p/][s/]I'm really sorry,[p/] I just—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b133e3b81dc77dec",
     "original": "Valentina: Are we really going to be okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我们真的会没事吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d5b17f\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valentina: Are we really going to be okay?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d4bb295cfb771b25",
     "original": "Valerie: Everything is going to be fine...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 一切都会好起来的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0467f9b\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valerie: Everything is going to be fine...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b5a9ea4431c1228c",
     "original": "Valerie: We just need to do our best and keep our stories straight.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 我们只需尽力而为，把故事讲好。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:095c3c2\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valerie: We just need to do our best and keep our stories straight.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c142f32d7baa5f8d",
     "original": "Valentina: Have you been able to get into the library lately?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 你最近能进入图书馆吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ec1349\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valentina: Have you been able to get into the library lately?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f72476d48fc1c854",
     "original": "Valerie: N-[p/][s/]No...[p/] The knights are patrolling around it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 不、[p/][s/]不行……[p/]骑士们围着那里巡逻。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0da899e\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valerie: N-[p/][s/]No...[p/] The knights are patrolling around it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e606222ffb946285",
     "original": "Valentina: I was really hoping we could get one last study session for you before they fire us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我真希望他们解雇我们之前能让你学完最后那一段。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:027c7fc\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valentina: I was really hoping we could get one last study session for you before they fire us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ae7dfa93578fa1e7",
     "original": "Valerie: Yeah...[p/] It's too bad.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valerie: 是啊……[p/]太可惜了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:025ebad\",\n  \"node\": \"ValDeduce6\",\n  \"text\": \"Valerie: Yeah...[p/] It's too bad.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::af1e9ac751250c4f",
     "original": "Valentina: L-[p/]Look...[p/]I [i]really[/i] don't know what you're talking about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 听、[p/]听着……[p/]我[i]确实[/i]不明白你们在说什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03faa2e\",\n  \"node\": \"ValArgument_Fail\",\n  \"text\": \"Valentina: L-[p/]Look...[p/]I [i]really[/i] don't know what you're talking about.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::759ea0e12e7350aa",
     "original": "Valentina: I didn't see anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Valentina: 我什么都没看到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:098f108\",\n  \"node\": \"ValArgument_Fail\",\n  \"text\": \"Valentina: I didn't see anything.\"\n}"
   },
   {
