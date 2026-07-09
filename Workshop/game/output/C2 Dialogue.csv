@@ -4483,94 +4483,94 @@ line:021eefa,Library_Examine,Aria: It wasn't long before the Constructs began sp
 line:00f8a4f,Library_Examine,"Celeste: Honestly,[p/] that's kind of funny.",Celeste: 老实说，[p/]挺搞笑的。
 line:09ccfec,Library_Examine,"Aria: It is,[p/] but this is a place of learning,[p/] not one of childish chicanery.",Aria: 确实如此，[p/]但此处终究是用于学习的地方，[p/]而不是用于幼稚的恶作剧。
 line:0601979,Library_Examine,Celeste: But why is Headmaster Redmond the only person allowed to set the voice lines?,Celeste: 但为什么雷德蒙校长是唯一一个能设定这些声音的人呢？
-line:084c529,Library_Examine,Aria: ...There were also rumors that several [i]faculty[/i] members were partaking in these pranks.,
-line:08c0300,Library_Examine,Celeste: That's also pretty funny.,
+line:084c529,Library_Examine,Aria: ...There were also rumors that several [i]faculty[/i] members were partaking in these pranks.,Aria: ……据说有些[i]教职员工[/i]也参与了这些恶作剧。
+line:08c0300,Library_Examine,Celeste: That's also pretty funny.,Celeste: 那也挺好笑的。
 line:0a8a3c7,Library_Examine,Player: Back,
 line:0b59f09,Library_Examine,Player: Books,
-line:0c40b27,Library_Examine,The library was full of books for educational purposes.,
-line:09396a8,Library_Examine,I'd spent all of yesterday morning combing through them for information about the Eye of Horus.,
+line:0c40b27,Library_Examine,The library was full of books for educational purposes.,图书馆里满是教科书。
+line:09396a8,Library_Examine,I'd spent all of yesterday morning combing through them for information about the Eye of Horus.,我昨天一整个上午都在埋在里面，搜寻荷鲁斯之眼的信息。
 line:0fac373,Library_Examine,Player: Holy Text,
 line:08fce5f,Library_Examine,It was a holy text of some sort.,某种神圣的经文。
-line:0786b54,Library_Examine,"The story I'd read about the ""Eye of Bahamut"" was in this book.",
+line:0786b54,Library_Examine,"The story I'd read about the ""Eye of Bahamut"" was in this book.",我在这本书里读到了那个“巴哈姆特之眼”的故事。
 line:0fd8095,Library_Examine,Player: Table,
-line:008b66b,Library_Examine,It was a table for students to sit at.,
-line:0e72023,Library_Examine,I was studying here with Celeste yesterday morning.,
+line:008b66b,Library_Examine,It was a table for students to sit at.,供学生坐下阅览的桌子。
+line:0e72023,Library_Examine,I was studying here with Celeste yesterday morning.,我昨天上午在这里与塞莱斯特一起做研究。
 line:0449823,Library_Examine,Player: Globe,
 line:0cfdc49,Library_Examine,Tyrion: It's a globe of the world.,Tyrion: 是个地球仪。
 line:049e34c,Library_Examine,Tyrion: It's amazing how many other nations there are aside from Wyverngarde.,Tyrion: 没想到除了维文加德以外还有如此多的国家。
 line:067cbaf,Library_Examine,Celeste: I've been to most of these places.,Celeste: 这上面的大多数地方我都去过。
 line:019ec8f,Library_Examine,"Celeste: You should come with me next time, Tyrion.",Celeste: 提利昂，有机会你应该和我一起去看看。
 line:0cc1f72,Library_Examine,That was a nice thought.,这想法不错。
-line:0163104,Library_Examine,Maybe I could travel with her when I was ready to take a break from this.,
+line:0163104,Library_Examine,Maybe I could travel with her when I was ready to take a break from this.,当我准备好从工作中抽身休息的时候，或许可以和她一同出去旅行。
 line:0d72286,Library_Examine,Player: Notice,
-line:03e3c9d,Library_Examine,There's some sort of notice taped to one of the shelves.,
-line:0871750,Library_Examine,"""Due to constant misuse of the Arcane Constructs' voice systems,[p/] voice lines can now only be set by Headmaster Redmond."".",
+line:03e3c9d,Library_Examine,There's some sort of notice taped to one of the shelves.,其中一个书架上贴着某种告示。
+line:0871750,Library_Examine,"""Due to constant misuse of the Arcane Constructs' voice systems,[p/] voice lines can now only be set by Headmaster Redmond."".",“鉴于奥术构造体声音控制系统的滥用情况，[p/]目前仅校长雷德蒙可更改构造体的相关语音设定。”
 line:093dff8,Library_Examine,Player: Back,
-line:00bb5f6,Library_Talk,Player: The Secret Witness (ARGUMENT),
-line:0645328,Library_Talk,Player: The Truth,
-line:089cdfe,Library_Talk,"ARIA: Just so we're clear,[p/] I wasn't acting to protect the nobility.",
-line:086f953,Library_Talk,ARIA: But I’ll admit that Miriam Frega [i]was[/i] the other witness that saw Bellwether that day.,
-line:0067e0f,Library_Talk,TYRION: I see...[p/] I had some suspicions but...,
-line:03954d6,Library_Talk,ARIA: There’s also another matter.,
+line:00bb5f6,Library_Talk,Player: The Secret Witness (ARGUMENT),Player: 神秘的目击者（辩论）
+line:0645328,Library_Talk,Player: The Truth,Player: 真相
+line:089cdfe,Library_Talk,"ARIA: Just so we're clear,[p/] I wasn't acting to protect the nobility.",ARIA: 我先把话说清楚，[p/]我并不是在保护贵族。
+line:086f953,Library_Talk,ARIA: But I’ll admit that Miriam Frega [i]was[/i] the other witness that saw Bellwether that day.,ARIA: 但我承认米莉亚姆·弗雷加[i]是[/i]当天另一位看见贝尔维瑟的目击者。
+line:0067e0f,Library_Talk,TYRION: I see...[p/] I had some suspicions but...,TYRION: 我明白了……[p/]我曾有过怀疑，但是……
+line:03954d6,Library_Talk,ARIA: There’s also another matter.,ARIA: 还有另一件事。
 line:0908cc5,Library_Talk,ARIA: ...,ARIA: ……
-line:05ed4ce,Library_Talk,Steelwind tensed once again.[p/] She was still hesitant.,
-line:0d308dc,Library_Talk,"ARIA: ...When I was investigating the body,[p/] I found this.",
-line:0eec260,Library_Talk,TYRION: What the...?,
-line:0e70601,Library_Talk,CELESTE: It looks like Miriam's been cheating.,
-line:0ea6ed7,Library_Talk,TYRION: But why would Bellwether have something like this?,
-line:03b7bc2,Library_Talk,"ARIA: From the way it’s arranged in this folder,[p/] I think it might have been blackmail.",
-line:0dfe84e,Library_Talk,ARIA: Miriam Frega is considered a prodigy in the practice of [b]conjuration[/b] magic.,
-line:0dfbec4,Library_Talk,"ARIA: She’s won a litany of awards,[p/] and she will most definitely graduate with honors.",
-line:0e1dbf9,Library_Talk,"ARIA: If these files were to reach the public,[p/] it would absolutely ruin her reputation.",
-line:0f013c0,Library_Talk,CELESTE: Do you think that the professor was trying to threaten her?,
-line:07bada9,Library_Talk,ARIA: It appears so.,
-line:0c02b78,Library_Talk,"ARIA: When I discovered this,[p/] several elements of the case were still unknown.",
-line:04c45fb,Library_Talk,ARIA: That's when I found [i]this[/i] in Wallace Nightgrave's locker.,
-line:037bcf1,Library_Talk,TYRION: This is...!,
-line:02a813c,Library_Talk,ARIA: It’s very likely that [i]this[/i] was the murder weapon.,
-line:09ad71a,Library_Talk,ARIA: This rapier is a valuable family heirloom for House Frega.,
-line:05a9c7e,Library_Talk,"ARIA: And a few weeks ago,[p/] Miriam reported that the rapier was stolen from her room.",
-line:04ccaf6,Library_Talk,CELESTE: But why was it found in Wallace’s locker...?,
-line:09e814e,Library_Talk,"TYRION: Not that I’m complaining,[p/] but why didn’t you PRESENT this in court?",
-line:06d52f2,Library_Talk,"ARIA: To be honest,[p/] I’d like to avoid involving House Frega by any means necessary.",
-line:095e1a7,Library_Talk,"CELESTE: I knew it![p/][s/] You’re just protecting her, aren’t you?!",
-line:055cf87,Library_Talk,ARIA: ...Ms. McCoy.[p/] Do you recall how Wyverngarde's justice system works?,
-line:0f9594b,Library_Talk,"ARIA: To acquit a defendant,[p/] you need to unequivocally prove that they didn’t commit the crime.",
-line:0c5ad65,Library_Talk,"ARIA: To do that,[p/] they either need a solid alibi-",
-line:021dcdb,Library_Talk,TYRION: Or we need to prove that someone [i]else[/i] committed the crime...,
-line:0fdadd8,Library_Talk,ARIA: What do you suppose will happen if you bring Miriam Frega onto the stand?,
-line:0f82307,Library_Talk,ARIA: House Frega won’t allow one of its members to be indicted in a court of law.,
-line:09cedd0,Library_Talk,"ARIA: They’ll plant and forge evidence to implicate your defendant,[p/] and they’ll use the Inquisition to do so.",
-line:0514be0,Library_Talk,"Aria: Even [i]I[/i] wouldn't be able to stop them,[p/] should it come to that.",
-line:03a3d29,Library_Talk,TYRION: So [i]that’s[/i] why you’ve been keeping them away from the investigation.,
-line:00c9d55,Library_Talk,CELESTE: Can’t [i]you[/i] do anything?,
-line:0f44563,Library_Talk,"CELESTE: I thought the Steelwinds were powerful, too.",
+line:05ed4ce,Library_Talk,Steelwind tensed once again.[p/] She was still hesitant.,斯蒂尔文德又紧张了起来，[p/]她还有所犹豫。
+line:0d308dc,Library_Talk,"ARIA: ...When I was investigating the body,[p/] I found this.",ARIA: ……我在调查尸体的时候，[p/]发现了这个。
+line:0eec260,Library_Talk,TYRION: What the...?,TYRION: 这是……？
+line:0e70601,Library_Talk,CELESTE: It looks like Miriam's been cheating.,CELESTE: 看起来米莉亚姆一直在考试中作弊。
+line:0ea6ed7,Library_Talk,TYRION: But why would Bellwether have something like this?,TYRION: 但为什么贝尔维瑟会有这种东西？
+line:03b7bc2,Library_Talk,"ARIA: From the way it’s arranged in this folder,[p/] I think it might have been blackmail.",ARIA: 从在文件夹里摆放的顺序来看，[p/]我初步判断这可能是勒索。
+line:0dfe84e,Library_Talk,ARIA: Miriam Frega is considered a prodigy in the practice of [b]conjuration[/b] magic.,ARIA: 米莉亚姆·弗雷加被视为[b]召唤术[/b]方面的天才。
+line:0dfbec4,Library_Talk,"ARIA: She’s won a litany of awards,[p/] and she will most definitely graduate with honors.",ARIA: 她赢得过一连串的奖项，[p/]也必然会以优异的成绩毕业。
+line:0e1dbf9,Library_Talk,"ARIA: If these files were to reach the public,[p/] it would absolutely ruin her reputation.",ARIA: 如果这些文件被公之于众，[p/]她绝对会声名扫地。
+line:0f013c0,Library_Talk,CELESTE: Do you think that the professor was trying to threaten her?,CELESTE: 你认为教授是想威胁她吗？
+line:07bada9,Library_Talk,ARIA: It appears so.,ARIA: 看起来是的。
+line:0c02b78,Library_Talk,"ARIA: When I discovered this,[p/] several elements of the case were still unknown.",ARIA: 我找到这个的时候，[p/]这案子的许多要素还不明确。
+line:04c45fb,Library_Talk,ARIA: That's when I found [i]this[/i] in Wallace Nightgrave's locker.,ARIA: 正巧我又在华莱士的储物柜里找到了[i]这个[/i]。
+line:037bcf1,Library_Talk,TYRION: This is...!,Tyrion: 这是……！
+line:02a813c,Library_Talk,ARIA: It’s very likely that [i]this[/i] was the murder weapon.,ARIA: [i]这[/i]很可能就是凶器。
+line:09ad71a,Library_Talk,ARIA: This rapier is a valuable family heirloom for House Frega.,ARIA: 这把刺剑是弗雷加一族的贵重传家宝。
+line:05a9c7e,Library_Talk,"ARIA: And a few weeks ago,[p/] Miriam reported that the rapier was stolen from her room.",ARIA: 而且几周前，[p/]米莉亚姆就有报案称这把刺剑被从她的房间里偷走了。
+line:04ccaf6,Library_Talk,CELESTE: But why was it found in Wallace’s locker...?,CELESTE: 但为什么是在华莱士的储物柜里找到的呢……？
+line:09e814e,Library_Talk,"TYRION: Not that I’m complaining,[p/] but why didn’t you PRESENT this in court?",TYRION: 我不是有意见，[p/]但你怎么不在法庭上出示这个证据呢？
+line:06d52f2,Library_Talk,"ARIA: To be honest,[p/] I’d like to avoid involving House Frega by any means necessary.",ARIA: 说实话，[p/]我想尽一切手段避免把弗雷加家牵扯进来。
+line:095e1a7,Library_Talk,"CELESTE: I knew it![p/][s/] You’re just protecting her, aren’t you?!",CELESTE: 我就知道！[p/][s/]你是在保护她对吧？！
+line:055cf87,Library_Talk,ARIA: ...Ms. McCoy.[p/] Do you recall how Wyverngarde's justice system works?,ARIA: ……麦考伊女士。[p/]你还记得维文加德的司法系统是怎么运作的吗？
+line:0f9594b,Library_Talk,"ARIA: To acquit a defendant,[p/] you need to unequivocally prove that they didn’t commit the crime.",ARIA: 要无罪释放一个被告，[p/]你需要明确证明他们并未实施犯罪。
+line:0c5ad65,Library_Talk,"ARIA: To do that,[p/] they either need a solid alibi-",ARIA: 要达成这一点，[p/]要么有充分的不在场证明——
+line:021dcdb,Library_Talk,TYRION: Or we need to prove that someone [i]else[/i] committed the crime...,TYRION: 要么就得证明是[i]其他人[/i]实施了犯罪……
+line:0fdadd8,Library_Talk,ARIA: What do you suppose will happen if you bring Miriam Frega onto the stand?,ARIA: 你觉得把米莉亚姆·弗雷加带到法庭上会是什么后果？
+line:0f82307,Library_Talk,ARIA: House Frega won’t allow one of its members to be indicted in a court of law.,ARIA: 弗雷加家肯定不会袖手旁观，在一旁看着自己的家族成员被法庭定罪。
+line:09cedd0,Library_Talk,"ARIA: They’ll plant and forge evidence to implicate your defendant,[p/] and they’ll use the Inquisition to do so.",ARIA: 他们会伪造证据来栽赃你的委托人，[p/]而且是驱使裁判所来完成。
+line:0514be0,Library_Talk,"Aria: Even [i]I[/i] wouldn't be able to stop them,[p/] should it come to that.",Aria: 如果到了那一步，[p/]即使是[i]我[/i]也无力阻止。
+line:03a3d29,Library_Talk,TYRION: So [i]that’s[/i] why you’ve been keeping them away from the investigation.,TYRION: 所以[i]这[/i]就是你一直尽力把他们排除在外的原因。
+line:00c9d55,Library_Talk,CELESTE: Can’t [i]you[/i] do anything?,CELESTE: [i]你[/i]就不能做点什么吗？！
+line:0f44563,Library_Talk,"CELESTE: I thought the Steelwinds were powerful, too.",CELESTE: 我还以为斯蒂尔文德家也很强大呢。
 line:0567988,Library_Talk,ARIA: ...,ARIA: ……
-line:0e7de8e,Library_Talk,ARIA: I don’t have the support of my House.,
-line:09eabc7,Library_Talk,"Aria: Right now,[p/] I'm just a prosecutor,[p/] nothing more.",
+line:0e7de8e,Library_Talk,ARIA: I don’t have the support of my House.,ARIA: 我得不到家族的支援。
+line:09eabc7,Library_Talk,"Aria: Right now,[p/] I'm just a prosecutor,[p/] nothing more.",Aria: 现在，[p/]我只是一个普通的检察官，[p/]仅此而已。
 line:035ad8e,Library_Talk,CELESTE: ...,Celeste: ……
-line:0f85dc2,Library_Talk,CELESTE: ...Steelwind.[p/] You [i]know[/i] that this isn’t fair for us.,
-line:05d9221,Library_Talk,CELESTE: Just do nothing.[p/][s/] Do nothing and let us win!,
-line:0e56d72,Library_Talk,TYRION: Celeste!,
-line:00e6789,Library_Talk,"Celeste: If we can't go after Miriam,[p/][s/] then you can at least help us save Wallace!",
-line:087e361,Library_Talk,ARIA: I’m [i]not[/i] going to do that.,
-line:03a2dca,Library_Talk,CELESTE: Why?![p/][s/] What if Miriam Frega is the real killer?!,
-line:0ea4379,Library_Talk,CELESTE: Her sword is the murder weapon [i]and[/i] Bellwether was trying to blackmail her!,
-line:0261d43,Library_Talk,ARIA: I seem to recall [i]another[/i] case where an innocent person’s sword was used to frame them.,
-line:05b74dc,Library_Talk,CELESTE: T-[p/][s/]That’s...!,
-line:07e1125,Library_Talk,"ARIA: As a prosecutor,[p/] it is [i]not[/i] my place to decide who’s guilty and who’s not.",
-line:03ad154,Library_Talk,"ARIA: I won’t engage in corruption,[p/] even if it’s to counter corruption from another noble house.",
-line:05c2307,Library_Talk,ARIA: ...I’m sorry.,
-line:0e134b9,Library_Talk,TYRION: ...Do you know where Miriam is right now?,
-line:0c97c0e,Library_Talk,ARIA: ...Did you not hear what I just said?,
-line:02f317f,Library_Talk,ARIA: You can’t let her think that there’s even the [i]slightest[/i] possibility you’ll indict her.,
-line:03a2e5d,Library_Talk,ARIA: She’ll bring the entire wrath of House Frega down on you.[p/] I won't be able to protect you if that happens.,
-line:067fcc0,Library_Talk,"TYRION: I don't need your protection,[p/] and I can’t do anything for Wallace unless I know everything that happened.",
-line:0cc01e4,Library_Talk,TYRION: Frega has the last piece I need to put everything together.,
+line:0f85dc2,Library_Talk,CELESTE: ...Steelwind.[p/] You [i]know[/i] that this isn’t fair for us.,CELESTE: ……斯蒂尔文德。[p/]你[i]知道[/i]这对我们不公平。
+line:05d9221,Library_Talk,CELESTE: Just do nothing.[p/][s/] Do nothing and let us win!,CELESTE: 停手吧！[p/][s/]让我们胜诉就好了！
+line:0e56d72,Library_Talk,TYRION: Celeste!,TYRION: 塞莱斯特！
+line:00e6789,Library_Talk,"Celeste: If we can't go after Miriam,[p/][s/] then you can at least help us save Wallace!",Celeste: 就算我们不能追查米莉亚姆，[p/][s/]你也至少能帮我们救华莱士一命！
+line:087e361,Library_Talk,ARIA: I’m [i]not[/i] going to do that.,ARIA: 我[i]不会[/i]那样做的。
+line:03a2dca,Library_Talk,CELESTE: Why?![p/][s/] What if Miriam Frega is the real killer?!,CELESTE: 为什么？！[p/][s/]如果米莉亚姆·弗雷加是真凶怎么办？！
+line:0ea4379,Library_Talk,CELESTE: Her sword is the murder weapon [i]and[/i] Bellwether was trying to blackmail her!,CELESTE: 她那把剑是凶器，贝尔维瑟[i]还[/i]曾试图敲诈她！
+line:0261d43,Library_Talk,ARIA: I seem to recall [i]another[/i] case where an innocent person’s sword was used to frame them.,ARIA: 我似乎记得有[i]一起[/i]无辜被告的剑被真凶利用的案件。
+line:05b74dc,Library_Talk,CELESTE: T-[p/][s/]That’s...!,CELESTE: 那、[p/][s/]那是……！
+line:07e1125,Library_Talk,"ARIA: As a prosecutor,[p/] it is [i]not[/i] my place to decide who’s guilty and who’s not.",ARIA: 作为一名检察官，[p/]我[i]无权[/i]决定一个人有罪与否。
+line:03ad154,Library_Talk,"ARIA: I won’t engage in corruption,[p/] even if it’s to counter corruption from another noble house.",ARIA: 我不会做以权谋私的事……[p/]即便是为了对抗腐败的贵族家庭。
+line:05c2307,Library_Talk,ARIA: ...I’m sorry.,ARIA: ……我很抱歉。
+line:0e134b9,Library_Talk,TYRION: ...Do you know where Miriam is right now?,TYRION: ……你知道米莉亚姆现在在哪吗？
+line:0c97c0e,Library_Talk,ARIA: ...Did you not hear what I just said?,ARIA: ……你没听到我刚才说的话吗？
+line:02f317f,Library_Talk,ARIA: You can’t let her think that there’s even the [i]slightest[/i] possibility you’ll indict her.,ARIA: 你不能让她意识到有[i]一丁点[/]i你会起诉她的可能性。
+line:03a2e5d,Library_Talk,ARIA: She’ll bring the entire wrath of House Frega down on you.[p/] I won't be able to protect you if that happens.,ARIA: 她会给你身上引来整个弗雷加家的怒火。[p/]如果真的变成那样，我没有办法保护你。
+line:067fcc0,Library_Talk,"TYRION: I don't need your protection,[p/] and I can’t do anything for Wallace unless I know everything that happened.",TYRION: 我不需要你的保护，[p/]而且除非我知晓一切经过，我也无法为华莱士做任何事情。
+line:0cc01e4,Library_Talk,TYRION: Frega has the last piece I need to put everything together.,TYRION: 弗雷加她有我需要的最后一片拼图。
 line:0faab1e,Library_Talk,ARIA: ...,ARIA: ……
-line:0090546,Library_Talk,"ARIA: [i]*sigh*[/i][p/] Well, I suppose I don’t have much of a choice, do I?",
-line:0d9af91,Library_Talk,"ARIA: ...Her dormitory is room 107.[p/] I imagine that she’ll be there,[p/] considering that classes are suspended.",
-line:02914fa,Library_Talk,"TYRION: Thank you, Steelwind.",
+line:0090546,Library_Talk,"ARIA: [i]*sigh*[/i][p/] Well, I suppose I don’t have much of a choice, do I?",Aria: [i]*叹气*[/i][p/]好吧， 看起来我没有选择了，对吗？
+line:0d9af91,Library_Talk,"ARIA: ...Her dormitory is room 107.[p/] I imagine that she’ll be there,[p/] considering that classes are suspended.",ARIA: ……她住在 107 号宿舍。[p/]学院所有的课都暂停了，[p/]她应该会在那里。
+line:02914fa,Library_Talk,"TYRION: Thank you, Steelwind.",TYRION: 谢谢你，斯蒂尔文德。
 line:0c52925,Library_Talk,"ARIA: If I don’t tell you,[p/] I’m sure you’ll probably just find out using some other means...",
 line:0ecc0fe,Library_Talk,"ARIA: But please, Mr. Cuthbert,[p/] exercise caution.",
 line:04358bb,Library_Talk,Player: Any Leads?,
@@ -4579,59 +4579,59 @@ line:08e72e4,Library_Talk,"ARIA: Unfortunately,[p/] I haven’t.",
 line:0a79ecf,Library_Talk,"ARIA: From the witness’ testimonies,[p/] we have a rough idea of the route Bellwether took.",
 line:0e3766b,Library_Talk,ARIA: But none of the rooms we’ve checked have any sign of a struggle.,
 line:0876845,Library_Talk,CELESTE: Why are you so sure that a struggle happened?,
-line:069b1f0,Library_Talk,ARIA: I'm mainly basing that off of the Ianus sisters’ testimonies.,
-line:064676d,Library_Talk,"ARIA: Valerie,[p/] in particular,[p/] noticed that the bleeding came from a wound in her chest.",
-line:0991129,Library_Talk,"ARIA: Regrettably,[p/] the body’s wounds were mended.",
-line:0f4d3ae,Library_Talk,"ARIA: So, we can’t determine what kind of weapon the murderer used.",
-line:0a27958,Library_Talk,Player: The Other Witness,
-line:0fd0a5c,Library_Talk,"TYRION: During the trial,[p/] you mentioned that another witness saw Bellwether walking around yesterday.",
-line:0675d83,Library_Talk,"TYRION: Who is this person,[p/] and why haven't they been called to testify?",
-line:09019c5,Library_Talk,"ARIA: ...I’m sorry,[p/] but I can’t tell you that.",
-line:0e56f91,Library_Talk,Steelwind's posture tightened.[p/] Something was making her uneasy.,
-line:05bb3dc,Library_Talk,Tyrion: ...You've been pretty transparent with your investigation so far.,
-line:06b8c0e,Library_Talk,ARIA: I have no obligation to justify myself to you.,
-line:0d33c07,Library_Talk,ARIA: Nor do I have an obligation to help the opposition.,
-line:06a3888,Library_Talk,TYRION: Didn’t we have a deal?[p/] Hiding information doesn’t exactly seem fair to us.,
-line:0a3cbb6,Library_Talk,ARIA: I believe I’ve given you plenty of information already.,
-line:0c2dc83,Library_Talk,"ARIA: ...So regardless of what I said before,[p/] the answer is still “no”. [h=""Her family is dangerous."" e=""f""/]",
-line:09bffff,Library_Talk,The Eye of Horus caught a stray thought from her.,
-line:0bbb916,Library_Talk,“[i]Her[/i] family is dangerous”?[p/] What did she mean by that?,
-line:087cfd2,Library_Talk,TYRION: Is there something about this witness’s family that you’re worried about?,
+line:069b1f0,Library_Talk,ARIA: I'm mainly basing that off of the Ianus sisters’ testimonies.,ARIA: 这我主要是根据伊努斯姐妹的证言推断的。
+line:064676d,Library_Talk,"ARIA: Valerie,[p/] in particular,[p/] noticed that the bleeding came from a wound in her chest.",ARIA: 特别是瓦莱丽，[p/]她注意到教授胸口的创伤失血严重。
+line:0991129,Library_Talk,"ARIA: Regrettably,[p/] the body’s wounds were mended.",ARIA: 遗憾的是，[p/]尸体的伤口已经被治愈。
+line:0f4d3ae,Library_Talk,"ARIA: So, we can’t determine what kind of weapon the murderer used.",ARIA: 因此，我们无法判定凶手使用何种武器行凶。
+line:0a27958,Library_Talk,Player: The Other Witness,Player: 其他目击证人
+line:0fd0a5c,Library_Talk,"TYRION: During the trial,[p/] you mentioned that another witness saw Bellwether walking around yesterday.",TYRION: 在庭审中，[p/]你有提到另一个目击者在昨天看到贝尔维瑟四处走动。
+line:0675d83,Library_Talk,"TYRION: Who is this person,[p/] and why haven't they been called to testify?",TYRION: 那个人是谁，[p/]为什么没有被要求出庭作证？
+line:09019c5,Library_Talk,"ARIA: ...I’m sorry,[p/] but I can’t tell you that.",ARIA: ……抱歉，[p/]我不能告诉你是谁。
+line:0e56f91,Library_Talk,Steelwind's posture tightened.[p/] Something was making her uneasy.,斯蒂尔文德的身体绷紧了。[p/]有什么让她感到不自在。
+line:05bb3dc,Library_Talk,Tyrion: ...You've been pretty transparent with your investigation so far.,Tyrion: ……目前为止你的调查结果都愿意和我们分享。
+line:06b8c0e,Library_Talk,ARIA: I have no obligation to justify myself to you.,ARIA: 我没有向你解释的义务。
+line:0d33c07,Library_Talk,ARIA: Nor do I have an obligation to help the opposition.,ARIA: 我也没有帮助对手的职责。
+line:06a3888,Library_Talk,TYRION: Didn’t we have a deal?[p/] Hiding information doesn’t exactly seem fair to us.,TYRION: 我们不是约定交易了吗？[p/]隐瞒情报对我们不公平。
+line:0a3cbb6,Library_Talk,ARIA: I believe I’ve given you plenty of information already.,ARIA: 我觉得我已经告诉你很多情报了。
+line:0c2dc83,Library_Talk,"ARIA: ...So regardless of what I said before,[p/] the answer is still “no”. [h=""Her family is dangerous."" e=""f""/]","ARIA: ……所以说无论我之前说了什么，[p/]我的回答仍是“不行”。 [h=""她的家族太危险了。"" e=""f""/]"
+line:09bffff,Library_Talk,The Eye of Horus caught a stray thought from her.,荷鲁斯之眼捕捉到了她脑海中飘过的一个念头。
+line:0bbb916,Library_Talk,“[i]Her[/i] family is dangerous”?[p/] What did she mean by that?,“[i]她[/i]的家族太危险了”？[p/]这是什么意思？
+line:087cfd2,Library_Talk,TYRION: Is there something about this witness’s family that you’re worried about?,TYRION: 你是在顾虑这个证人的家族势力吗？
 line:00b0ba9,Library_Talk,ARIA: ...!,ARIA: ……!
-line:0d26ef8,Library_Talk,"ARIA: ... [h=""No...|This could be a feint."" /]",
-line:08c48a3,Library_Talk,"ARIA: I’m sorry,[p/] but you’ll have to try harder than that if you want to bluff me.",
-line:08a77a3,Library_Talk,Why would she go to such lengths to hide one witness's identity?,
-line:0ed336f,Library_Talk,She was perfectly fine with revealing elements of the investigation yesterday.,
-line:095a681,Library_Talk,Maybe I needed to try looking somewhere else.,
+line:0d26ef8,Library_Talk,"ARIA: ... [h=""No...|This could be a feint."" /]","ARIA: …… [h=""不对……|这句话应该是试探。"" /]"
+line:08c48a3,Library_Talk,"ARIA: I’m sorry,[p/] but you’ll have to try harder than that if you want to bluff me.",ARIA: 抱歉，[p/]但想对我虚张声势的话你还得再努把力。
+line:08a77a3,Library_Talk,Why would she go to such lengths to hide one witness's identity?,为什么她要如此费尽心思来隐瞒证人的身份呢？
+line:0ed336f,Library_Talk,She was perfectly fine with revealing elements of the investigation yesterday.,她昨天完全不介意透露调查的内容。
+line:095a681,Library_Talk,Maybe I needed to try looking somewhere else.,或许我需要尝试看看其他地方。
 line:05bfdfd,Library_Talk,Player: BACK,
-line:0cf48c7,Library_Check,"ARIA: Oh.[p/] It’s you, Mr. Cuthbert.",
-line:09868fb,Library_Check,TYRION: Steelwind?[p/] What are you doing here?,
-line:0f8ac74,Library_Check,"I once again came across Steelwind.[p/] Like yesterday,[p/] she was the only one in the room.",
-line:0cb0ecd,Library_Check,But was she seriously carrying out the investigation alone here?,
-line:044e8e3,Library_Check,"Searching the classroom was one thing,[p/] but searching this entire library seemed a little ridiculous.",
-line:0abbae6,Library_Check,"ARIA: After what happened at the trial yesterday,[p/] I decided it would be best to start my investigation here.",
-line:042a4a9,Library_Check,Wallace [i]was[/i] in the library for the entire morning.,
-line:042a6d7,Library_Check,"If she was insistent that he did it,[p/] this would probably be the best place.",
-line:0d40c97,Library_Check,"ARIA: Actually,[p/] since I have you here,[p/] have you seen Eris Illmater anywhere?",
-line:0145f35,Library_Check,ARIA: It’s my understanding that you're both acquainted with each other.,
-line:0d669e7,Library_Check,TYRION: Eris?[p/] What do you want with her?,
-line:0c311de,Library_Check,"ARIA: It’s not for anything serious, mind you.",
-line:0ec610b,Library_Check,ARIA: It’s just that oaf of a commander lost her [b]Spell Compendium[/b].,
-line:02702b6,Library_Check,ARIA: Now we need her to produce another one for our records.,
-line:0322723,Library_Check,"ARIA: If you see her,[p/] please let her know that we’d like to speak to her.",
-line:0d2d0d9,Library_Check,"TYRION: We saw her earlier in the cemetery nearby,[p/] but I have no idea where she is now.",
-line:0d7e2fa,Library_Check,"ARIA: Ugh...[p/] Once again,[p/] I have to compensate for that idiot’s mistakes...",
-line:0e69253,Library_Check,"TYRION: ...Anyways,[p/] I was wondering if I could ask you some questions about the case.",
-line:09ef742,Library_Check,ARIA: ...Very well.[p/] I suppose I still need to honor our deal from earlier.,
-line:09d7938,IanusScene,Tyrion: We should have enough information now.,
-line:0067389,IanusScene,Tyrion: Let's have a talk with the prosecutor.,
-line:0bedc72,IanusScene,Valerie: Please just tell me what's wrong![p/][s/] Are you mad at me?!,
-line:0215d6f,IanusScene,"Valentina: I'm not mad, okay?![p/][s/] Can we just get to work?!",
-line:029e47a,IanusScene,The twins' voices rang out from the kitchen.[p/] They sounded like they were in an argument.,
-line:0a758bc,IanusScene,Tyrion: Do you think they're okay?,
-line:0874166,IanusScene,Celeste: It sounds private.[p/] We shouldn't get involved.,
-line:006a312,IanusScene,Tyrion: I guess you're right.,
-line:09c9326,IanusScene,I slowly closed the door to the library and kept my mind on the investigation.,
+line:0cf48c7,Library_Check,"ARIA: Oh.[p/] It’s you, Mr. Cuthbert.",ARIA: 哦，[p/]是你，卡斯伯特先生。
+line:09868fb,Library_Check,TYRION: Steelwind?[p/] What are you doing here?,TYRION: 斯蒂尔文德？[p/]你在这儿干嘛？
+line:0f8ac74,Library_Check,"I once again came across Steelwind.[p/] Like yesterday,[p/] she was the only one in the room.",我又一次遇见了斯蒂尔文德。[p/]与昨天一样，[p/]她是一个人在房间里。
+line:0cb0ecd,Library_Check,But was she seriously carrying out the investigation alone here?,她真的要独自完成这里的调查吗？
+line:044e8e3,Library_Check,"Searching the classroom was one thing,[p/] but searching this entire library seemed a little ridiculous.",调查教室是一回事，[p/]但独自调查整座图书馆就太没道理了。
+line:0abbae6,Library_Check,"ARIA: After what happened at the trial yesterday,[p/] I decided it would be best to start my investigation here.",ARIA: 鉴于昨天庭审发生的事，[p/]我决定最好自己来进行调查。
+line:042a4a9,Library_Check,Wallace [i]was[/i] in the library for the entire morning.,华莱士整个上午都[i]在[/i]图书馆。
+line:042a6d7,Library_Check,"If she was insistent that he did it,[p/] this would probably be the best place.",倘若她坚持是华莱士作案，[p/]这里确实是最合理的现场。
+line:0d40c97,Library_Check,"ARIA: Actually,[p/] since I have you here,[p/] have you seen Eris Illmater anywhere?",ARIA: 话说回来，[p/] 既然你们来了，[p/]我想问问你们见到过厄莉斯·伊尔马特吗？
+line:0145f35,Library_Check,ARIA: It’s my understanding that you're both acquainted with each other.,ARIA: 据我所知你们都和她互相认识。
+line:0d669e7,Library_Check,TYRION: Eris?[p/] What do you want with her?,TYRION: 厄莉斯？[p/]你找她有什么事吗？
+line:0c311de,Library_Check,"ARIA: It’s not for anything serious, mind you.",ARIA: 倒也不是什么大事。
+line:0ec610b,Library_Check,ARIA: It’s just that oaf of a commander lost her [b]Spell Compendium[/b].,ARIA: 只是那个大傻蛋指挥官把她的[b]法术汇编[/b]弄丢了。
+line:02702b6,Library_Check,ARIA: Now we need her to produce another one for our records.,ARIA: 为了调查取证，我们需要她重新绑定一个。
+line:0322723,Library_Check,"ARIA: If you see her,[p/] please let her know that we’d like to speak to her.",ARIA: 你要是看见她的话，[p/]麻烦转告她，我们正在找她。
+line:0d2d0d9,Library_Check,"TYRION: We saw her earlier in the cemetery nearby,[p/] but I have no idea where she is now.",TYRION: 我们刚才在墓地附近看到她了，[p/]但我不知道她现在去哪了。
+line:0d7e2fa,Library_Check,"ARIA: Ugh...[p/] Once again,[p/] I have to compensate for that idiot’s mistakes...",ARIA: 唉……[p/]又来了，[p/]我又得收拾那个蠢货的烂摊子……
+line:0e69253,Library_Check,"TYRION: ...Anyways,[p/] I was wondering if I could ask you some questions about the case.",TYRION: ……说到这里，[p/]我能不能问你些关于案件的事？
+line:09ef742,Library_Check,ARIA: ...Very well.[p/] I suppose I still need to honor our deal from earlier.,ARIA: ……好吧，我想我得好好履行之前的约定。
+line:09d7938,IanusScene,Tyrion: We should have enough information now.,Tyrion: 我们应该已经得到了足够的信息。
+line:0067389,IanusScene,Tyrion: Let's have a talk with the prosecutor.,Tyrion: 去和检察官谈一谈吧。
+line:0bedc72,IanusScene,Valerie: Please just tell me what's wrong![p/][s/] Are you mad at me?!,Valerie: 请告诉我到底哪里做错了！![p/][s/]你是对我生气吗？！
+line:0215d6f,IanusScene,"Valentina: I'm not mad, okay?![p/][s/] Can we just get to work?!",Valentina: 我并没有生气，好吗？！[p/][s/]我们能不能开始干活了？！
+line:029e47a,IanusScene,The twins' voices rang out from the kitchen.[p/] They sounded like they were in an argument.,那对双胞胎的声音从厨房里传来。[p/]听起来她们在争吵。
+line:0a758bc,IanusScene,Tyrion: Do you think they're okay?,Tyrion: 你觉得她们还好吗？
+line:0874166,IanusScene,Celeste: It sounds private.[p/] We shouldn't get involved.,Celeste: 听起来是比较私密的问题，[p/]我们还是别掺和了。
+line:006a312,IanusScene,Tyrion: I guess you're right.,Tyrion: 我觉得你是对的。
+line:09c9326,IanusScene,I slowly closed the door to the library and kept my mind on the investigation.,我缓缓关上图书馆的大门，继续思考自己的调查情况。
 line:0110773,IanusScene2,Valentina: Fine.[p/][s/] You want to know what I think?,
 line:0fb1fa2,IanusScene2,Valentina: You don't get to say that you hate magic.,
 line:0df3a4c,IanusScene2,Valerie: Look at how many problems it's causing for us.,
