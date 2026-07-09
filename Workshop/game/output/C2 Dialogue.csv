@@ -4370,119 +4370,119 @@ line:027c7fc,ValDeduce6,Valentina: I was really hoping we could get one last stu
 line:025ebad,ValDeduce6,Valerie: Yeah...[p/] It's too bad.,Valerie: 是啊……[p/]太可惜了。
 line:03faa2e,ValArgument_Fail,Valentina: L-[p/]Look...[p/]I [i]really[/i] don't know what you're talking about.,Valentina: 听、[p/]听着……[p/]我[i]确实[/i]不明白你们在说什么。
 line:098f108,ValArgument_Fail,Valentina: I didn't see anything.,Valentina: 我什么都没看到。
-line:0fe22d0,ValArgument_Fail,I would have to do a better job of ARGUING against her points.,
-line:0980e6c,Val_Argument,Valentina clearly knew more than she was letting on.,
-line:06ac213,Val_Argument,"She found the body alongside her sister,[p/] and she reacted strangely when I mentioned someone may have used magic on the body.",
-line:099ce0a,Val_Argument,What was she hiding?,
-line:0d1bfe6,Val_Argument,Yes,
-line:0450047,Val_Argument,No,
-line:076dd84,Val_Argument,"TYRION: Ms. Ianus.[p/] From the very beginning,[p/] I’ve felt like you’ve been hiding something from us.",
-line:040fca6,Val_Argument,TYRION: There's something that you’re not telling us about.,
-line:0368f58,Val_Argument,VALENTINA: W-[p/][s/]What are you talking about?!,
-line:0d24f71,Val_Argument,"VALENTINA: I’ve told you and the knights everything I know.[p/][s/] I’ve got nothing to hide! [h=""My testimony was fine..."" e=""af"" /]",
+line:0fe22d0,ValArgument_Fail,I would have to do a better job of ARGUING against her points.,我得在<size=1.5em>辩论</size>中做得更好来驳倒她的说法。
+line:0980e6c,Val_Argument,Valentina clearly knew more than she was letting on.,瓦伦蒂娜实际所知肯定比她说出来的更多。
+line:06ac213,Val_Argument,"She found the body alongside her sister,[p/] and she reacted strangely when I mentioned someone may have used magic on the body.",她和妹妹一起发现了尸体，[p/]而且在我提起可能有人对尸体用过魔法之后，表现得很反常。
+line:099ce0a,Val_Argument,What was she hiding?,她到底在隐瞒什么呢？
+line:0d1bfe6,Val_Argument,Yes,是
+line:0450047,Val_Argument,No,否
+line:076dd84,Val_Argument,"TYRION: Ms. Ianus.[p/] From the very beginning,[p/] I’ve felt like you’ve been hiding something from us.",TYRION: 伊努斯女士。[p/]从最开始，[p/]我就感觉你对我们隐瞒了什么。
+line:040fca6,Val_Argument,TYRION: There's something that you’re not telling us about.,TYRION: 你有什么事没告诉我们。
+line:0368f58,Val_Argument,VALENTINA: W-[p/][s/]What are you talking about?!,VALENTINA: 你、[p/][s/]你在瞎说什么？！
+line:0d24f71,Val_Argument,"VALENTINA: I’ve told you and the knights everything I know.[p/][s/] I’ve got nothing to hide! [h=""My testimony was fine..."" e=""af"" /]","VALENTINA: 我已经把知道的都告诉你和那些骑士了。[p/][s/]我没有隐瞒任何事！ [h=""我的证言应该是没有问题的……"" e=""af"" /]"
 line:0722bba,Val_Argument2,Logic,
 line:05839df,Val_Argument2,Intuition,
 line:092fdb5,Val_Argument2,Empathy,
-line:0774282,Val_Argument2,"Tyrion: Ms. Ianus,[p/] it’s clear to anyone how nervous you are.",
-line:0e8a84c,Val_Argument2,Tyrion: I can practically [i]see[/i] the fear you’re emanating right now.,
-line:0c12708,Val_Argument2,Valentina: U-[p/][s/]Um...,
-line:07ed214,Val_Argument2Fail,TYRION: Ms. Ianus.[p/][s/] What you’re saying and what you’re thinking are clearly different!,
-line:02e0152,Val_Argument2Fail,VALENTINA: ...What does that even mean?,
-line:0607544,Val_Argument2Fail,"TYRION: ...O[p/][s/]-Oh,[p/][s/] w-[p/][s/]well-",
-line:0e0919a,Val_Argument2Fail,"VALENTINA: I don’t really know what you’re talking about,[p/] b-[p/][s/]but I’m telling the truth.",
-line:004fb7a,Val_Argument2Fail,I needed to use the Eye of Horus to look at her thoughts and emotions.,
-line:054bd12,Val_Argument2Fail,"After I identified what exactly was inconsistent with the claim,[p/] I would need to choose the correct approach.",
-line:0adaadc,Val_Argument3,TYRION: It's clear that you're hiding something from us.[p/] Just tell us the truth.,
-line:07c7224,Val_Argument3,VALENTINA: Let’s say I [i]were[/i] hiding something.,
-line:0c94040,Val_Argument3,"VALENTINA: Which I’m [i]not[/i],[p/][s/] by the way!",
-line:07c9f66,Val_Argument3,VALENTINA: Why should I tell you anything?![p/][s/] You're not even with those knights!,
-line:05d6ee0,Val_Argument4,"Threaten [c=""You’ve already given your statement to the Inquisition. If the truth comes out, what do you think they’ll do when they realize you lied to them?""/]",
-line:0daf414,Val_Argument4,"Appeal [c=""My client is innocent. By withholding your testimony, you’re condemning him to a wrongful conviction.""/]",
-line:053eedf,Val_Argument4,TYRION: My client is innocent.,
-line:0ff581d,Val_Argument4,"TYRION: By withholding your testimony,[p/] you’re condemning him to a wrongful conviction.",
-line:0e8a954,Val_Argument4,"VALENTINA: Y-[p/][s/]Yeah![p/][s/] So, what?!",
-line:0d3e9e2,Val_Argument4,VALENTINA: Why should I care about what happens to that necromancer?!,
-line:09f738f,Val_Argument4,She clearly didn't empathize with Wallace's situation.,
-line:014b956,Val_Argument4,"Rationalize [c=""You have nothing to lose by telling us what happened. I know that you’re not the murderer, and I’ll make sure you’re protected.""/]",
-line:08bf8ea,Val_Argument4,TYRION: You have nothing to lose by telling us what happened.,
-line:075f5dc,Val_Argument4,"TYRION: I know that you’re not the murderer,[p/] and I’ll make sure that you’re protected.",
-line:0356f6a,Val_Argument4,"VALENTINA: You [i]say[/i] that,[p/] but what reason do I have to trust you?!",
-line:03fc1ca,Val_Argument4,VALENTINA: I barely even know you two!,
-line:01c9f43,Val_Argument4,She [i]was[/i] right.[p/] She had very little reason to trust us.,
-line:0701d7d,Val_Argument5,TYRION: You’ve already given your statements to the Inquisition.,
-line:031473d,Val_Argument5,"TYRION: If the truth comes out,[p/] what do you think they’ll do when they realize you lied to them?",
-line:092f4e7,Val_Argument5,"TYRION: So,[p/] who are you protecting, Ms. Ianus?",
-line:0bae1a5,Val_Argument5,"VALENTINA: Y-[p/][s/]You talk a big game,[p/] but I bet you can’t actually [i]prove[/i] anything,[p/][s/] can you?!",
-line:0601739,Val_Argument5,VALENTINA: You keep trying to say that I’m lying to protect someone.,
-line:0ee3baf,Val_Argument5,"VALENTINA: I don’t even [i]know[/i] any mages,[p/] and I definitely didn’t see anyone use magic on the body!",
+line:0774282,Val_Argument2,"Tyrion: Ms. Ianus,[p/] it’s clear to anyone how nervous you are.",Tyrion: 伊努斯女士，[p/]你也太紧张了，大家一眼就能看出来。
+line:0e8a84c,Val_Argument2,Tyrion: I can practically [i]see[/i] the fear you’re emanating right now.,Tyrion: 我几乎都能[i]看[/i]到你那快溢出来的恐惧。
+line:0c12708,Val_Argument2,Valentina: U-[p/][s/]Um...,Valentina: 唔、[p/][s/]唔……
+line:07ed214,Val_Argument2Fail,TYRION: Ms. Ianus.[p/][s/] What you’re saying and what you’re thinking are clearly different!,TYRION: 伊努斯女士。[p/][s/]你的陈述与你心里想的截然不同！
+line:02e0152,Val_Argument2Fail,VALENTINA: ...What does that even mean?,VALENTINA: ……你这是在说什么呢？
+line:0607544,Val_Argument2Fail,"TYRION: ...O[p/][s/]-Oh,[p/][s/] w-[p/][s/]well-",TYRION: ……啊、[p/][s/]哦，[p/][s/]呃、[p/][s/]欸——
+line:0e0919a,Val_Argument2Fail,"VALENTINA: I don’t really know what you’re talking about,[p/] b-[p/][s/]but I’m telling the truth.",VALENTINA: 我不知道你在说什么，[p/]但、[p/][s/]但我所说的都是实话。
+line:004fb7a,Val_Argument2Fail,I needed to use the Eye of Horus to look at her thoughts and emotions.,我需要好好用荷鲁斯之眼察看她的想法与情感。
+line:054bd12,Val_Argument2Fail,"After I identified what exactly was inconsistent with the claim,[p/] I would need to choose the correct approach.",在我找到哪一处与她的言语不符合后，[p/]我还需要选择正确的表达方式。
+line:0adaadc,Val_Argument3,TYRION: It's clear that you're hiding something from us.[p/] Just tell us the truth.,TYRION: 显然你对我们隐瞒了什么。[p/]请向我们告知真相。
+line:07c7224,Val_Argument3,VALENTINA: Let’s say I [i]were[/i] hiding something.,VALENTINA: 那就假设我[i]有在[/i]i隐瞒什么。
+line:0c94040,Val_Argument3,"VALENTINA: Which I’m [i]not[/i],[p/][s/] by the way!",VALENTINA: 顺便强调一下，我[i]没有[/i]隐瞒任何事！
+line:07c9f66,Val_Argument3,VALENTINA: Why should I tell you anything?![p/][s/] You're not even with those knights!,VALENTINA: 我为什么应该把一切告诉你们？[p/][s/]你们甚至都不是裁判所的骑士！
+line:05d6ee0,Val_Argument4,"Threaten [c=""You’ve already given your statement to the Inquisition. If the truth comes out, what do you think they’ll do when they realize you lied to them?""/]","Threaten [c=""你已经向裁判所提供了证言。如果真相与你所述的不同，你觉得裁判所会怎么处置说谎话的你？""/]"
+line:0daf414,Val_Argument4,"Appeal [c=""My client is innocent. By withholding your testimony, you’re condemning him to a wrongful conviction.""/]","Appeal [c=""我的委托人是无辜的。基于你现有的证言，你这是在让他被误判有罪。""/]"
+line:053eedf,Val_Argument4,TYRION: My client is innocent.,TYRION: 我的委托人是无辜的。
+line:0ff581d,Val_Argument4,"TYRION: By withholding your testimony,[p/] you’re condemning him to a wrongful conviction.",TYRION: 基于你现有的证言，[p/]你这是在让他被误判有罪。
+line:0e8a954,Val_Argument4,"VALENTINA: Y-[p/][s/]Yeah![p/][s/] So, what?!",VALENTINA: 对、[p/][s/]对啊！[p/][s/]那又怎样？！
+line:0d3e9e2,Val_Argument4,VALENTINA: Why should I care about what happens to that necromancer?!,VALENTINA: 为什么我要关心那个死灵法师的下场？！
+line:09f738f,Val_Argument4,She clearly didn't empathize with Wallace's situation.,显然她并不同情华莱士的处境。
+line:014b956,Val_Argument4,"Rationalize [c=""You have nothing to lose by telling us what happened. I know that you’re not the murderer, and I’ll make sure you’re protected.""/]","Rationalize [c=""告诉我们真相不会害了你。我知道你不是凶手，而且我会保证你的安全。""/]"
+line:08bf8ea,Val_Argument4,TYRION: You have nothing to lose by telling us what happened.,TYRION: 告诉我们真相不会害了你。
+line:075f5dc,Val_Argument4,"TYRION: I know that you’re not the murderer,[p/] and I’ll make sure that you’re protected.",TYRION: 我知道你不是凶手，[p/]而且我会保证你的安全。
+line:0356f6a,Val_Argument4,"VALENTINA: You [i]say[/i] that,[p/] but what reason do I have to trust you?!",VALENTINA: 你[i]说[/i]得倒好，[p/]但我又有什么理由相信你？！
+line:03fc1ca,Val_Argument4,VALENTINA: I barely even know you two!,VALENTINA: 我基本上都不认识你们两个！
+line:01c9f43,Val_Argument4,She [i]was[/i] right.[p/] She had very little reason to trust us.,她[i]是[/i]对的。[p/]她几乎没有相信我们的理由。
+line:0701d7d,Val_Argument5,TYRION: You’ve already given your statements to the Inquisition.,TYRION: 你已经向裁判所提供了证词。
+line:031473d,Val_Argument5,"TYRION: If the truth comes out,[p/] what do you think they’ll do when they realize you lied to them?",TYRION: 如果真相与你所述的不同，[p/]你觉得裁判所会怎么处置说谎话的你？
+line:092f4e7,Val_Argument5,"TYRION: So,[p/] who are you protecting, Ms. Ianus?",TYRION: 那么，[p/]你究竟是在包庇谁，伊努斯女士？
+line:0bae1a5,Val_Argument5,"VALENTINA: Y-[p/][s/]You talk a big game,[p/] but I bet you can’t actually [i]prove[/i] anything,[p/][s/] can you?!",VALENTINA: 你、[p/][s/]你满嘴大话，[p/]但我打赌你什么都[i]证明[/i]不了，[p/][s/]是不是？！
+line:0601739,Val_Argument5,VALENTINA: You keep trying to say that I’m lying to protect someone.,VALENTINA: 你一直在说，我用谎话包庇了某个人。
+line:0ee3baf,Val_Argument5,"VALENTINA: I don’t even [i]know[/i] any mages,[p/] and I definitely didn’t see anyone use magic on the body!",VALENTINA: 我都没有[i]熟识[/i]的法师，[p/]而且我也绝对没有看到谁在尸体上施放了魔法！
 line:07d779f,Val_Argument6,ValTrace,
-line:0b381e5,Val_Argument6,"TYRION: You can’t hide the truth from us, Ms. Ianus.",
-line:01e8140,Val_Argument6,"VALENTINA: W-[p/][s/]What...? [h=""How do they know?!"" e=""f""/]",
-line:0f4a9ad,Val_Argument6,TYRION: You said that you’ve never even [i]seen[/i] a [b]necromancy[/b] spell before.,
-line:02aec40,Val_Argument6,"TYRION: If that were true,[p/][s/] why is there a trace of [b]necromancy[/b] [i]on[/i] you?!",
-line:05bb78a,Val_Argument6,VALENTINA: What?![p/][s/] There’s a trace a [b]necromancy[/b] [i]on[/i] me?!,
-line:0f9c6aa,Val_Argument6,...What?[p/] She seemed to be genuinely surprised about that...,
-line:0c57668,Val_Argument6,Was she unaware that a spell was cast on her?,
-line:05f1893,Val_Argument6,"No...[p/] If she didn’t know,[p/] she wouldn’t have avoided Celeste back then.",
-line:093f58d,Val_Argument6,There had to be an explanation for that...,
+line:0b381e5,Val_Argument6,"TYRION: You can’t hide the truth from us, Ms. Ianus.",TYRION: 伊努斯女士，你无法在我们面前隐藏真相。
+line:01e8140,Val_Argument6,"VALENTINA: W-[p/][s/]What...? [h=""How do they know?!"" e=""f""/]","VALENTINA: 怎、[p/][s/]怎么……？ [h=""他们怎么知道的？！"" e=""f""/]"
+line:0f4a9ad,Val_Argument6,TYRION: You said that you’ve never even [i]seen[/i] a [b]necromancy[/b] spell before.,TYRION: 你刚提到你从未见过任何[b]死灵术[/b]法术。
+line:02aec40,Val_Argument6,"TYRION: If that were true,[p/][s/] why is there a trace of [b]necromancy[/b] [i]on[/i] you?!",TYRION: 如果是这样，[p/][s/]为什么你的[i]身上[/i]又有[b]死灵术[/b]的痕迹？！
+line:05bb78a,Val_Argument6,VALENTINA: What?![p/][s/] There’s a trace a [b]necromancy[/b] [i]on[/i] me?!,VALENTINA: 什么？！[p/][s/]我[i]身上[/i]有[b]死灵术[/b]的痕迹？！
+line:0f9c6aa,Val_Argument6,...What?[p/] She seemed to be genuinely surprised about that...,……怎么了？[p/]她看起来是真的对此看到震惊……
+line:0c57668,Val_Argument6,Was she unaware that a spell was cast on her?,她难道没注意到自己有被施放法术？
+line:05f1893,Val_Argument6,"No...[p/] If she didn’t know,[p/] she wouldn’t have avoided Celeste back then.",不对……[p/]如果她一点都不知道，[p/]那之前就不会躲着塞莱斯特。
+line:093f58d,Val_Argument6,There had to be an explanation for that...,肯定有个理由能说明这点……
 line:0a965bd,Val_Argument6,Default,
-line:0ea638f,Val_Argument6,Tyrion: Ms. Ianus.[p/] You [i]know[/i] someone capable of casting magic.,
-line:0ee4fee,Val_Argument6,Tyrion: And [i]this[/i] proves it!,
-line:0d08dc9,Val_Argument6,Valentina: That doesn't prove anything!,
-line:0552080,Val_Argument6,Valentina: You're bluffing!,
-line:0e79167,Val_Argument6,That wasn't the right piece of evidence to PRESENT.,
-line:09be96f,Val_Argument6,I had definitive proof that she knows a mage.[p/] I needed to show it to her.,
+line:0ea638f,Val_Argument6,Tyrion: Ms. Ianus.[p/] You [i]know[/i] someone capable of casting magic.,Tyrion: 伊努斯女士，[p/]你[i]知道[/i]某人能够施展魔法。
+line:0ee4fee,Val_Argument6,Tyrion: And [i]this[/i] proves it!,Tyrion: [i]这[/i]就是证据！
+line:0d08dc9,Val_Argument6,Valentina: That doesn't prove anything!,Valentina: 那证明不了任何事！
+line:0552080,Val_Argument6,Valentina: You're bluffing!,Valentina: 你只是在虚张声势！
+line:0e79167,Val_Argument6,That wasn't the right piece of evidence to PRESENT.,该 <size=1.5em>出示</size> 的不是这一证据。
+line:09be96f,Val_Argument6,I had definitive proof that she knows a mage.[p/] I needed to show it to her.,我有确凿的证据来证明她认识一位法师。[p/]我只需对她出示就行了。
 line:0ed0dc6,Library_Examine,Player: Books,
-line:037373b,Library_Examine,Tyrion: The library is full of books for educational purposes.,
-line:0e9a61d,Library_Examine,Celeste: And books for recreational purposes.,
-line:09e41d8,Library_Examine,Celeste: You know...[p/] I never got to [i]finish[/i] that book.,
-line:0b8c650,Library_Examine,Celeste: Since we're here—,
-line:07e445e,Library_Examine,"Tyrion: No.[p/] Absolutely, not.",
-line:0eb4998,Library_Examine,Celeste: Come on!,
-line:072b270,Library_Examine,"Celeste: Back me up, Aria!",
-line:08bb79e,Library_Examine,Aria: I'm afraid I must agree with Mr. Cuthbert.,
-line:03f104a,Library_Examine,Aria: You tend to get very immersed in those books...,
-line:011620f,Library_Examine,"Celeste: Oh, that's rich coming from you.[p/] I bet you're sneaking peeks at it too.",
-line:0f057c6,Library_Examine,Aria: Nonsense.[p/] I would never do such a thing.,
-line:0af4a5d,Library_Examine,Aria: ...I already have my own copy.,
-line:0720693,Library_Examine,Celeste: What?![p/] And you're not sharing it?!,
-line:099db6d,Library_Examine,Aria: ...You're very demanding sometimes.,
-line:04d93a2,Library_Examine,Tyrion: Tell me about it.,
-line:08e3675,Library_Examine,Celeste: Come on![p/][s/] [i]Please[/i]?,
-line:04bc8a0,Library_Examine,Celeste: You can even recommend some of [i]your[/i] favorite books to me.,
-line:0c91d80,Library_Examine,"Aria: O-[p/][s/]Oh... [h=""I mostly read teen romance,|but I can't let [i]her[/i] know that."" e=""hf""/]",
-line:03eed9f,Library_Examine,...I guess we all had different tastes.,
+line:037373b,Library_Examine,Tyrion: The library is full of books for educational purposes.,Tyrion: 图书馆里大多都是教科书。
+line:0e9a61d,Library_Examine,Celeste: And books for recreational purposes.,Celeste: 也有娱乐类的书籍。
+line:09e41d8,Library_Examine,Celeste: You know...[p/] I never got to [i]finish[/i] that book.,Celeste: 你懂的……[p/]我一直没机会[i]看完[/i]那本书。
+line:0b8c650,Library_Examine,Celeste: Since we're here—,Celeste: 既然我们到了这里——
+line:07e445e,Library_Examine,"Tyrion: No.[p/] Absolutely, not.",Tyrion: 不行。[p/]绝对不行。
+line:0eb4998,Library_Examine,Celeste: Come on!,Celeste: 拜托啦！
+line:072b270,Library_Examine,"Celeste: Back me up, Aria!",Celeste: 支援我，阿莉亚！
+line:08bb79e,Library_Examine,Aria: I'm afraid I must agree with Mr. Cuthbert.,Aria: 恐怕我只好同意卡斯伯特先生。
+line:03f104a,Library_Examine,Aria: You tend to get very immersed in those books...,Aria: 你往往会沉浸在那些书本中……
+line:011620f,Library_Examine,"Celeste: Oh, that's rich coming from you.[p/] I bet you're sneaking peeks at it too.",Celeste: 哦，你说这话就有意思了。[p/]我打赌你也偷偷看了几眼。
+line:0f057c6,Library_Examine,Aria: Nonsense.[p/] I would never do such a thing.,Aria: 无稽之谈。[p/]我从不这么做。
+line:0af4a5d,Library_Examine,Aria: ...I already have my own copy.,Aria: ……我本来就拥有一套。
+line:0720693,Library_Examine,Celeste: What?![p/] And you're not sharing it?!,Celeste: 这样啊？！[p/]你就这么吃独食？！
+line:099db6d,Library_Examine,Aria: ...You're very demanding sometimes.,Aria: ……你有时候还挺不客气的。
+line:04d93a2,Library_Examine,Tyrion: Tell me about it.,Tyrion: 那详细说说呗。
+line:08e3675,Library_Examine,Celeste: Come on![p/][s/] [i]Please[/i]?,Celeste: 来吧！[p/][s/][i]请啦[/i]？
+line:04bc8a0,Library_Examine,Celeste: You can even recommend some of [i]your[/i] favorite books to me.,Celeste: 你还可以跟我推荐一下[i]你[/i]最爱的书啊。
+line:0c91d80,Library_Examine,"Aria: O-[p/][s/]Oh... [h=""I mostly read teen romance,|but I can't let [i]her[/i] know that."" e=""hf""/]","Aria: 呃、[p/][s/]嗯…… [h=""我读的最多的是青春浪漫小说，|但这可不能让[i]她[/i]知道了。"" e=""hf""/]"
+line:03eed9f,Library_Examine,...I guess we all had different tastes.,……我想我们的喜好都不太一样。
 line:0e64a66,Library_Examine,Player: Holy Text,
-line:029029f,Library_Examine,Tyrion: It's a holy text from the Church of Bahamut.,
-line:0a3a093,Library_Examine,Tyrion: I read some of these with Eris earlier.,
-line:0eee2aa,Library_Examine,Celeste: I've been meaning to ask.[p/] Do you guys worship dragons in Wyverngarde?,
-line:00e7379,Library_Examine,"Tyrion: I've never really been the religious type,[p/] but I've seen some devout worshippers in the capital.",
-line:0405afc,Library_Examine,Aria: It's the most prominent religion here.,
-line:080c3c8,Library_Examine,Aria: The Scaled Lord Rathallion is said to be the source of all arcane magic.,
-line:0e2932c,Library_Examine,Aria: It's no wonder that he's such a large part of our culture.,
-line:08b924d,Library_Examine,"Yet,[p/] worship of the celestial gods is forbidden...",
-line:0471f7b,Library_Examine,I would need to find a way to learn more about them.,
+line:029029f,Library_Examine,Tyrion: It's a holy text from the Church of Bahamut.,Tyrion: 源于巴哈姆特教会的圣言。
+line:0a3a093,Library_Examine,Tyrion: I read some of these with Eris earlier.,Tyrion: 早些时候我和厄莉斯一起读了一些。
+line:0eee2aa,Library_Examine,Celeste: I've been meaning to ask.[p/] Do you guys worship dragons in Wyverngarde?,Celeste: 我一直想问来着。[p/]维文加德的人崇拜古龙吗？
+line:00e7379,Library_Examine,"Tyrion: I've never really been the religious type,[p/] but I've seen some devout worshippers in the capital.",Tyrion: 我向来不怎么信教，[p/]但在首都见过一些虔诚的信徒。
+line:0405afc,Library_Examine,Aria: It's the most prominent religion here.,Aria: 古龙教是这个国家最主流的信仰。
+line:080c3c8,Library_Examine,Aria: The Scaled Lord Rathallion is said to be the source of all arcane magic.,Aria: 鳞甲领主拉萨利昂据说是一切奥术魔法之源。
+line:0e2932c,Library_Examine,Aria: It's no wonder that he's such a large part of our culture.,Aria: 也难怪他是我们文化的重要组成部分。
+line:08b924d,Library_Examine,"Yet,[p/] worship of the celestial gods is forbidden...",不过，[p/]关于天界神祇们的信仰就被严格禁止了……
+line:0471f7b,Library_Examine,I would need to find a way to learn more about them.,我得找个办法增进对祂们的了解。
 line:06f3400,Library_Examine,Player: Table,
-line:0c77ec3,Library_Examine,Tyrion: There are tables for students to sit at while they study.,
-line:0888c16,Library_Examine,Celeste: Ugh...[p/] I don't think I could handle studying here day after day.,
+line:0c77ec3,Library_Examine,Tyrion: There are tables for students to sit at while they study.,Tyrion: 有许多供学生们学习用的桌子。
+line:0888c16,Library_Examine,Celeste: Ugh...[p/] I don't think I could handle studying here day after day.,Celeste: 呃啊……[p/]我肯定没法在这日复一日的学习。
 line:0955dcd,Library_Examine,Player: Globe,
 line:0a5e720,Library_Examine,Tyrion: It's a globe of the world.,Tyrion: 是个地球仪。
 line:083aa69,Library_Examine,Tyrion: It's amazing how many other nations there are aside from Wyverngarde.,Tyrion: 没想到除了维文加德以外还有如此多的国家。
 line:076711c,Library_Examine,Celeste: I've been to most of these places.,Celeste: 这上面的大多数地方我都去过。
 line:04ff9d7,Library_Examine,"Celeste: You should come with me next time, Tyrion.",Celeste: 提利昂，有机会你应该和我一起去看看。
-line:0c4b14f,Library_Examine,Aria: ...Isn't traveling through the border heavily restricted?,
+line:0c4b14f,Library_Examine,Aria: ...Isn't traveling through the border heavily restricted?,Aria: ……我国不是严格限制穿越边境吗？
 line:0353d87,Library_Examine,Celeste: O-[p/]Oh...[p/] Uh...,Celeste: 啊、[p/]哦……[p/]呜……
-line:03337a8,Library_Examine,Aria: Don't worry.[p/] I won't report you.,
-line:081f73d,Library_Examine,Aria: ...I can't exactly [i]blame[/i] you for wanting to leave.,
+line:03337a8,Library_Examine,Aria: Don't worry.[p/] I won't report you.,Aria: 别紧张。[p/]我不会举报你的。
+line:081f73d,Library_Examine,Aria: ...I can't exactly [i]blame[/i] you for wanting to leave.,Aria: ……就算你一心想离开我也不会[i]责怪[/i]你。
 line:09f34a1,Library_Examine,Player: Notice,
-line:01ca73f,Library_Examine,"Tyrion: ""Due to constant misuse of the Arcane Constructs' voice systems,[p/] voice lines can now only be set by Headmaster Redmond."".",
-line:0e8649a,Library_Examine,Celeste: Is [i]that[/i] why I can't make the Constructs say what I want?,
-line:0d51ea2,Library_Examine,Aria: The Constructs speak using Professor Bellwether's voice.,
-line:0afce36,Library_Examine,"Aria: Unfortunately,[p/] that was an [i]open[/i] invitation to many of the students.",
-line:021eefa,Library_Examine,Aria: It wasn't long before the Constructs began speaking several obscenities using her voice.,
-line:00f8a4f,Library_Examine,"Celeste: Honestly,[p/] that's kind of funny.",
-line:09ccfec,Library_Examine,"Aria: It is,[p/] but this is a place of learning,[p/] not one of childish chicanery.",
-line:0601979,Library_Examine,Celeste: But why is Headmaster Redmond the only person allowed to set the voice lines?,
+line:01ca73f,Library_Examine,"Tyrion: ""Due to constant misuse of the Arcane Constructs' voice systems,[p/] voice lines can now only be set by Headmaster Redmond."".",Tyrion: “鉴于奥术构造体声音控制系统的滥用情况，[p/]目前仅校长雷德蒙可更改构造体的相关语音设定。”
+line:0e8649a,Library_Examine,Celeste: Is [i]that[/i] why I can't make the Constructs say what I want?,Celeste: [i]那[/i]就是我没法让构造体说我想要的内容的原因吗？
+line:0d51ea2,Library_Examine,Aria: The Constructs speak using Professor Bellwether's voice.,Aria: 构造体使用贝尔维瑟教授的声音说话。
+line:0afce36,Library_Examine,"Aria: Unfortunately,[p/] that was an [i]open[/i] invitation to many of the students.",Aria: 不幸的是，[p/]这对很多学生来说是[i]公开[/i]的邀请。
+line:021eefa,Library_Examine,Aria: It wasn't long before the Constructs began speaking several obscenities using her voice.,Aria: 许多学生命令构造体用教授的声音说些伤风败俗的话。
+line:00f8a4f,Library_Examine,"Celeste: Honestly,[p/] that's kind of funny.",Celeste: 老实说，[p/]挺搞笑的。
+line:09ccfec,Library_Examine,"Aria: It is,[p/] but this is a place of learning,[p/] not one of childish chicanery.",Aria: 确实如此，[p/]但此处终究是用于学习的地方，[p/]而不是用于幼稚的恶作剧。
+line:0601979,Library_Examine,Celeste: But why is Headmaster Redmond the only person allowed to set the voice lines?,Celeste: 但为什么雷德蒙校长是唯一一个能设定这些声音的人呢？
 line:084c529,Library_Examine,Aria: ...There were also rumors that several [i]faculty[/i] members were partaking in these pranks.,
 line:08c0300,Library_Examine,Celeste: That's also pretty funny.,
 line:0a8a3c7,Library_Examine,Player: Back,
@@ -4692,8 +4692,8 @@ line:046b9fa,AriaArgument_Fail,Aria: I'm under no obligation to share those deta
 line:03b54fb,AriaArgument_Fail,Damn it...[p/] She still wasn't budging...,
 line:028f7d1,Aria_Argument,"Steelwind was paranoid,[p/] and for whatever reason,[p/] it was due to the involvement of Miriam Frega.",
 line:00b3d5e,Aria_Argument,"If I could convince her to reveal why she’s being so secretive,[p/] she might give me more information.",
-line:0434b3c,Aria_Argument,Yes,
-line:0c2c43b,Aria_Argument,No,
+line:0434b3c,Aria_Argument,Yes,是
+line:0c2c43b,Aria_Argument,No,否
 line:0ed95d4,Aria_Argument,"Tyrion: You’ve been behaving strangely, Steelwind.",
 line:09fe915,Aria_Argument,Tyrion: Even the knights of the Inquisition have noticed.,
 line:0a154e7,Aria_Argument,Tyrion: Just tell me the truth.[p/] Why are you being so paranoid?,
