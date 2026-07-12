@@ -26306,97 +26306,97 @@
   {
     "key": "C2 Dialogue.csv::translation::a078814d96f13cfc",
     "original": "I opened the locker with Wallace’s ID number.",
-    "translation": "",
+    "translation": "我打开挂着华莱士名牌的那个储物柜。",
     "context": "{\n  \"id\": \"line:02cc7ee\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"I opened the locker with Wallace’s ID number.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::91e279e0585cbdaa",
     "original": "Inside,[p/] I found a bottle of fragrant liquid and something that looks like a makeup kit.",
-    "translation": "",
+    "translation": "在里面，[p/]我找到了一瓶香气扑鼻的液体，还有一个看着像化妆包的东西。",
     "context": "{\n  \"id\": \"line:0aca0fc\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"Inside,[p/] I found a bottle of fragrant liquid and something that looks like a makeup kit.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a319b9eac4c66690",
     "original": "CELESTE: Huh...[p/] Why does Wallace have this stuff?",
-    "translation": "",
+    "translation": "CELESTE: 嗯……[p/]为什么华莱士有这些东西啊？",
     "context": "{\n  \"id\": \"line:0b60584\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"CELESTE: Huh...[p/] Why does Wallace have this stuff?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::183f48d6b5da4c9a",
     "original": "It [i]did[/i] seem strange,[p/] but it wasn't my place to judge.",
-    "translation": "",
+    "translation": "[i]确实[/i]挺奇怪的，[p/]但这不该由我来评判。",
     "context": "{\n  \"id\": \"line:0d774b5\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"It [i]did[/i] seem strange,[p/] but it wasn't my place to judge.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b1101fe9fcbce0a9",
     "original": "I should take a look through the other lockers.",
-    "translation": "",
+    "translation": "我该调查一下其他的储物柜。",
     "context": "{\n  \"id\": \"line:0b5a3bc\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"I should take a look through the other lockers.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::62d173ac5acf3e76",
     "original": "Miriam Frega",
-    "translation": "",
+    "translation": "米莉亚姆·弗雷加",
     "context": "{\n  \"id\": \"line:02579a8\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"Miriam Frega\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::82c78ca52efdc2c7",
     "original": "I opened the locker with Miriam Frega’s ID number.",
-    "translation": "",
+    "translation": "我打开挂着米莉亚姆·弗雷加名牌的那个储物柜。",
     "context": "{\n  \"id\": \"line:0860b61\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"I opened the locker with Miriam Frega’s ID number.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::01d24443b101a2d9",
     "original": "Inside,[p/] I found several stacks of worn-out textbooks and notebooks.",
-    "translation": "",
+    "translation": "在里面，[p/]我找到了几叠破旧的教材和笔记本。",
     "context": "{\n  \"id\": \"line:0d87de8\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"Inside,[p/] I found several stacks of worn-out textbooks and notebooks.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::78637b6b92161b1b",
     "original": "TYRION: Wait a minute...[p/] These notebooks all have Wallace’s name on them.",
-    "translation": "",
+    "translation": "TYRION: 等等……[p/]这些笔记本上都写着华莱士的名字。",
     "context": "{\n  \"id\": \"line:05148f3\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"TYRION: Wait a minute...[p/] These notebooks all have Wallace’s name on them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea6d220cc441644c",
     "original": "I opened the notebook and quickly scanned through its pages.",
-    "translation": "",
+    "translation": "我打开其中一本笔记，快速翻了几页。",
     "context": "{\n  \"id\": \"line:0d828d0\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"I opened the notebook and quickly scanned through its pages.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::314cb07a1ad7cf19",
     "original": "It appeared to be notes on the art of [b]necromancy[/b].",
-    "translation": "",
+    "translation": "看起来都是[b]死灵术[/b]的笔记。",
     "context": "{\n  \"id\": \"line:040657f\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"It appeared to be notes on the art of [b]necromancy[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::220a5d34d350d1a2",
     "original": "TYRION: These are Wallace’s notebooks.",
-    "translation": "",
+    "translation": "TYRION: 这些是华莱士的笔记本。",
     "context": "{\n  \"id\": \"line:0d731ad\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"TYRION: These are Wallace’s notebooks.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::adc32fd2f4a70789",
     "original": "CELESTE: But why are they in Miriam Frega’s locker?",
-    "translation": "",
+    "translation": "CELESTE: 但为什么在米莉亚姆·弗雷加的储物柜里？",
     "context": "{\n  \"id\": \"line:059368d\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"CELESTE: But why are they in Miriam Frega’s locker?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fac39d2f5b68834e",
     "original": "CELESTE: Did she steal his things?",
-    "translation": "",
+    "translation": "CELESTE: 她偷走了华莱士的东西？",
     "context": "{\n  \"id\": \"line:050469e\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"CELESTE: Did she steal his things?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2360ed8eeaaa8b21",
     "original": "What was going on here?",
-    "translation": "",
+    "translation": "这里是怎么回事？",
     "context": "{\n  \"id\": \"line:0d0901b\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"What was going on here?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bc6363868631544a",
     "original": "I began taking all of the textbooks and notebooks,[p/] one after another.",
-    "translation": "",
+    "translation": "我拿起一本又一本教材和笔记。",
     "context": "{\n  \"id\": \"line:01cedf4\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"I began taking all of the textbooks and notebooks,[p/] one after another.\"\n}"
   },
   {
