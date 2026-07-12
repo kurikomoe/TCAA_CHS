@@ -30802,827 +30802,827 @@
   {
     "key": "C2 Dialogue.csv::translation::58004885827c0e40",
     "original": "The locker was really cramped,[p/] but then I noticed a stain near the back of it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "储物柜相当狭窄，[p/]但我很快发现在靠近最里面的位置有一处污渍。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08ce108\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"The locker was really cramped,[p/] but then I noticed a stain near the back of it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6dc75cb2def11dc7",
     "original": "I quickly took everything out to get a better look at it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我马上把所有东西取出来，想仔细看看那里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09ea361\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"I quickly took everything out to get a better look at it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3dd3fca879c1c145",
     "original": "CELESTE: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 这是？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07521c8\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"CELESTE: What?!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::975db2abae395598",
     "original": "TYRION: I think this is dried blood...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我想这是已经干了的血迹……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e2ce16\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"TYRION: I think this is dried blood...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::54eacccd525bc13e",
     "original": "Tyrion: Wait...[p/] Celeste scan it for traces.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 慢着……[p/]扫描一下法术痕迹，塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04e993c\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"Tyrion: Wait...[p/] Celeste scan it for traces.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::93d593a5bfde36cc",
     "original": "Celeste: No,[p/] there aren't any traces on it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不，[p/]上面没有任何痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09adb95\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"Celeste: No,[p/] there aren't any traces on it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c11ed348cb608d4e",
     "original": "Jaiden von Sanctus",
-    "translation": "",
-    "stage": 0,
+    "translation": "杰登·冯·桑克图斯",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05ebe13\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"Jaiden von Sanctus\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::97c9137993fde4d7",
     "original": "I opened the locker with Jaiden von Sanctus’s ID number.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我打开挂着杰登·冯·桑克图斯名牌的那个储物柜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b09f2\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"I opened the locker with Jaiden von Sanctus’s ID number.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::874987a75129d059",
     "original": "Inside,[p/] I found several bottles of some kind of transparent lotion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在里面，[p/]我发现几瓶透明的乳液。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02d7206\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"Inside,[p/] I found several bottles of some kind of transparent lotion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::92108cd3e92d120d",
     "original": "TYRION: ...There’s nothing but lotion in here,[p/] and also a distinct smell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……里面除了这些乳液，什么都没有。[p/]还有一种独特的气味。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0abe1ad\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"TYRION: ...There’s nothing but lotion in here,[p/] and also a distinct smell.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8deca4de6b57adb8",
     "original": "CELESTE: Oh...",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 噢……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0137f9d\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"CELESTE: Oh...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb26f4fc14c3471a",
     "original": "TYRION: I wonder why a student would need this much lotion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我在想一个学生需要这么多乳液干嘛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a53865\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"TYRION: I wonder why a student would need this much lotion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04c3769dea12391c",
     "original": "I took one of the bottles to inspect it more closely.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我拿起一瓶，想仔细调查一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09474ae\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"I took one of the bottles to inspect it more closely.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d738ca5a7653c87d",
     "original": "CELESTE: W-[p/][s/]Wait, Tyrion![p/][s/] Don’t touch those with your hands!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 等、[p/][s/]等下啊，提利昂！[p/][s/]别直接用手碰！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03e055d\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"CELESTE: W-[p/][s/]Wait, Tyrion![p/][s/] Don’t touch those with your hands!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8edc869eaad88d1e",
     "original": "TYRION: From the label,[p/] it appears to be some kind of sanitizing liquid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 根据上面的标签，[p/]看着像是某种消毒液。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:044230b\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"TYRION: From the label,[p/] it appears to be some kind of sanitizing liquid.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::73486dba8d4464e1",
     "original": "TYRION: It’s a little strange,[p/] but it doesn’t seem to be related to the case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 有点奇怪……[p/]但看起来与案件无关。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ea7a76\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"TYRION: It’s a little strange,[p/] but it doesn’t seem to be related to the case.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bf1d9d0c2d094920",
     "original": "Warren Sibyl",
-    "translation": "",
-    "stage": 0,
+    "translation": "沃伦·希比尔",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0381524\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"Warren Sibyl\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e98bf69f002473fa",
     "original": "I opened the locker with Warren Sibyl’s ID number.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我打开挂着沃伦·希比尔名牌的那个储物柜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0beeb93\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"I opened the locker with Warren Sibyl’s ID number.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3e349f3946afb04f",
     "original": "Inside,[p/] I found some textbooks and a neatly stacked deck of tarot cards.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在里面，[p/]我发现几本教材和一沓叠放整齐的塔罗牌。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c5e787\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"Inside,[p/] I found some textbooks and a neatly stacked deck of tarot cards.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::372ad2aaee620b36",
     "original": "CELESTE: Oh.[p/] It’s like those cards that fortune tellers use.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 噢。[p/]这像是算命先生用的那种卡牌。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:053fa1f\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"CELESTE: Oh.[p/] It’s like those cards that fortune tellers use.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2f926f6605063003",
     "original": "TYRION: I wonder if this student studies [b]divination[/b] magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我在想这个学生是不是学习[b]占卜术[/b]的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:021a3e2\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"TYRION: I wonder if this student studies [b]divination[/b] magic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::849fb893df55c5fa",
     "original": "TYRION: But anyways,[p/] I don’t think this is related to the case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 不管怎么说，[p/]我不觉得这和案件有关。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a90e3\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"TYRION: But anyways,[p/] I don’t think this is related to the case.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9a596e4ae8932805",
     "original": "There were several lockers in this room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "房间里有许多储物柜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a2a2cc\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"There were several lockers in this room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1a8f39590657fe17",
     "original": "It'd be a waste of time to search through them all without any leads.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果只是没有针对性地一个个排查过去就是浪费时间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:040968f\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"It'd be a waste of time to search through them all without any leads.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fb8a4fd6a7be330a",
     "original": "I should speak with Commander White first.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我该先跟怀特指挥官谈一谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f09abb\",\n  \"node\": \"Lockers_Examine\",\n  \"text\": \"I should speak with Commander White first.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::abad31294c55db4a",
     "original": "Player: The Headmaster",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 校长",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03be4d3\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Player: The Headmaster\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ed06a52c813fd857",
     "original": "TYRION: What was the headmaster talking to you about?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 校长之前在和你说什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d63f98\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"TYRION: What was the headmaster talking to you about?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6ac33243c4766701",
     "original": "ORYM: He has some items stored in one of the faculty lockers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 他在某个教职工的储物柜里存放了一些道具。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:087ea65\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: He has some items stored in one of the faculty lockers.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe9d58b9617b98a4",
     "original": "ORYM: The problem is,[p/] Steelwind said no one gets in or out of this room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 问题是，[p/]斯蒂尔文德说过谁都不能进出这个房间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04fe126\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: The problem is,[p/] Steelwind said no one gets in or out of this room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2b4d73565cfb48bf",
     "original": "ORYM: ...Except for her and you two, I guess.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: ……不过你们俩除外。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f91158\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: ...Except for her and you two, I guess.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::592902b9e67bd99d",
     "original": "ORYM: She won’t even let the other knights in here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 她甚至都不让其他骑士进来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04978e9\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: She won’t even let the other knights in here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e4337ac84b6cadde",
     "original": "TYRION: Really?[p/] Is that normal?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 真的吗？[p/]这很常见吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09d31fb\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"TYRION: Really?[p/] Is that normal?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4fa51d6d48303a3a",
     "original": "ORYM: Nope,[p/] but things rarely are when she’s calling the shots.[p/] I just go with it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 并不。[p/]但她发号施令的时候少有常见状况。[p/]我就顺其自然好了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00ba7ac\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Nope,[p/] but things rarely are when she’s calling the shots.[p/] I just go with it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c02f1dd597653b92",
     "original": "Why would she give [i]me[/i] access to the crime scene if she wasn’t even letting the knights in?",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果她都不让骑士们进来，为什么要允许[i]我们[/i]进入犯罪现场呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:077e4dd\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Why would she give [i]me[/i] access to the crime scene if she wasn’t even letting the knights in?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::035272a68ddf069c",
     "original": "ORYM: I don’t know what her deal is,[p/] but she’s been acting strange lately.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 我不知道她在打什么算盘，[p/]但她最近的行动都很奇怪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0398687\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: I don’t know what her deal is,[p/] but she’s been acting strange lately.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::afa8b04fa3e83907",
     "original": "ORYM: She’s been really paranoid, that girl.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 那个女娃子，最近真的是疑神疑鬼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01deae9\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: She’s been really paranoid, that girl.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::be5e03c1a21958e2",
     "original": "ORYM: Frankly,[p/] I can't tell what’s going through her head.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 说实话，[p/]我不知道她脑子里在想什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0370586\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Frankly,[p/] I can't tell what’s going through her head.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dbf93d1f05988f9a",
     "original": "Player: Steelwind's Paranoia",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 疑神疑鬼的斯蒂尔文德",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:011c567\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Player: Steelwind's Paranoia\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a613f4e4ceaf3664",
     "original": "TYRION: You mentioned that the prosecutor has been paranoid lately.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你提到检察官最近“疑神疑鬼”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0574770\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"TYRION: You mentioned that the prosecutor has been paranoid lately.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d4a4555288c7f1ef",
     "original": "TYRION: Do you think it has something to do with this case?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你觉得会和这件案子有什么关系吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07c6ac3\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"TYRION: Do you think it has something to do with this case?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7c58cb731528486c",
     "original": "ORYM: Nah,[p/] it started way before that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 没吧，[p/]在这之前就开始了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08831b5\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Nah,[p/] it started way before that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f8f966a597b20485",
     "original": "ORYM: Lately,[p/] she’s been using the Inquisition to investigate a lot of non-magical homicides.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 最近这段时间，[p/]她使唤裁判所调查了很多与魔法无关的凶杀案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07997fa\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Lately,[p/] she’s been using the Inquisition to investigate a lot of non-magical homicides.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::216246e9303b573d",
     "original": "TYRION: What...?[p/] Wouldn’t it be easier to work with the relevant law enforcement for that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 什么……？[p/]让当地执法部门处理不是更方便吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0728bc3\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"TYRION: What...?[p/] Wouldn’t it be easier to work with the relevant law enforcement for that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ef405bb6f9a5620f",
     "original": "ORYM: I don’t know why,[p/] but she’s convinced that these cases have magic involved.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 我不知道为什么，[p/]但她确信那些案件有涉及魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0334583\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: I don’t know why,[p/] but she’s convinced that these cases have magic involved.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7ac7462a00238e3f",
     "original": "ORYM: But every time we scan one of those crime scenes,[p/] nothing turns up.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 每次我们都详细扫描了犯罪现场，[p/]却什么都没发现。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dae8f7\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: But every time we scan one of those crime scenes,[p/] nothing turns up.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b552fa3581a30f2d",
     "original": "ORYM: ...I got to say, though.[p/] If it weren’t for the scans,[p/] I might actually agree with her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: ……不过我还是得说一下，[p/]如果不是有扫描结果，[p/]我可能会赞同她。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:043b422\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: ...I got to say, though.[p/] If it weren’t for the scans,[p/] I might actually agree with her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::967d580d6596b9c3",
     "original": "TYRION: Why do you say that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 为什么这么说？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0026021\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"TYRION: Why do you say that?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::40b27b2203714e84",
     "original": "ORYM: Those homicides...[p/] I haven’t ever seen [i]anything[/i] like them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 那些凶杀案……[p/]我从没见过搞成[i]那个样子[/i]的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0930ea1\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Those homicides...[p/] I haven’t ever seen [i]anything[/i] like them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b112a7a6548543e6",
     "original": "ORYM: They’re probably some of the most screwed-up cases I’ve ever handled,[p/] and I've seen some things.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 它们可能是我处理过最为惨不忍睹的案件。[p/]我也确实是亲眼看见的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06ebc16\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: They’re probably some of the most screwed-up cases I’ve ever handled,[p/] and I've seen some things.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17fe58d43c22ff20",
     "original": "ORYM: For one of those cases,[p/] we had ourselves a disgruntled spouse.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 其中一例案件里，[p/]凶手是一个不满的配偶。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0183179\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: For one of those cases,[p/] we had ourselves a disgruntled spouse.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a665ce1052526002",
     "original": "ORYM: She found out that her man was going around town with a barkeep,[p/] if you catch my meaning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 她发现自己的男人和一个酒保混在一起，[p/]懂我意思吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:011a487\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: She found out that her man was going around town with a barkeep,[p/] if you catch my meaning.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5e03077090226064",
     "original": "Tyrion: Wait...[p/] What [i]do[/i] you mean?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 等下……[p/]你是[i]什么[/i]意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:057066c\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Tyrion: Wait...[p/] What [i]do[/i] you mean?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e2a7f6ae18668a36",
     "original": "Orym: They were making the beast with two backs.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 就是两个人干禽兽的勾当。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:038e6e9\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Orym: They were making the beast with two backs.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fefb9581b69baef7",
     "original": "Tyrion: What...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 什么东西……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07cff7e\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Tyrion: What...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8206b67d1fceb031",
     "original": "Orym: He was two-timing her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 那个男的偷腥嘛。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06a90e4\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Orym: He was two-timing her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::80760e6b34079c37",
     "original": "Tyrion: I don't know this lingo, Orym.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我听不懂你这个隐语，奥蒙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06e2c3e\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Tyrion: I don't know this lingo, Orym.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c9b3235213c6343d",
     "original": "Celeste: Oh my god![p/][s/] He was a married man having sex with another woman, Tyrion!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 天啦！[p/][s/]就是那个男的有家室，但他去和其他女人上床的意思，提利昂！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0abf670\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Celeste: Oh my god![p/][s/] He was a married man having sex with another woman, Tyrion!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::44da1d1ac332b874",
     "original": "Tyrion: Oh...![p/] Okay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 哦……！[p/]行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b52bd7\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Tyrion: Oh...![p/] Okay.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::05fefd381b0136c5",
     "original": "ORYM: [i]Anyways[/i],[p/] you know what the spouse does?[p/] She stalks the poor woman.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: [i]不管了[/i]。你知道凶手干了什么吗？[p/]她跟踪了那个可怜的女人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aa40d9\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: [i]Anyways[/i],[p/] you know what the spouse does?[p/] She stalks the poor woman.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8ab2c294ea5367eb",
     "original": "Orym: She started leaving threatening notes all around where she worked.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 她开始在那酒保工作的地方留下各种威胁字条。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:022d940\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Orym: She started leaving threatening notes all around where she worked.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::46aed56a3557a584",
     "original": "Orym: The barkeep told the City Watch all about what was happening.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 酒保向城市安保报案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:084ca5a\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Orym: The barkeep told the City Watch all about what was happening.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::99bf67b8474dd039",
     "original": "Orym: But no matter how much they staked out the tavern,[p/] they could never catch her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 但无论他们在酒馆里如何布置抓捕，[p/]始终没能抓到罪犯。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a587a0\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Orym: But no matter how much they staked out the tavern,[p/] they could never catch her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d7c19a724b822c05",
     "original": "Orym: Then one day,[p/] the barkeep arrived home.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 之后有一天，[p/]酒保工作结束后回家。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05c0087\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Orym: Then one day,[p/] the barkeep arrived home.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6739b971c5fbd600",
     "original": "Orym: Little did she know,[p/] the spouse was waiting there for her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 她不知道的是，[p/]原配就在她家等着。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01a6e44\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Orym: Little did she know,[p/] the spouse was waiting there for her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3e4821266dec77cd",
     "original": "Orym: The poor lady never had a chance.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 可怜的酒保毫无胜算。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05bbf7b\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Orym: The poor lady never had a chance.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::03b3f99442792a7b",
     "original": "ORYM: Then to tie the whole thing together,[p/] the spouse waits for her husband to get home.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 这件事的结尾是，[p/]犯人回家等待丈夫归来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d92e00\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Then to tie the whole thing together,[p/] the spouse waits for her husband to get home.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::794583c9343dafb5",
     "original": "Orym: She cooks him a big meat pie,[p/] using the barkeep's remains.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 她给他做了一顿肉饼……[p/]用酒保的尸体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:088cd02\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Orym: She cooks him a big meat pie,[p/] using the barkeep's remains.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::451cda5f6db5133e",
     "original": "Player: Possible Explanation",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 可能的解释",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c62080\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Player: Possible Explanation\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1969c598e1c454fd",
     "original": "CELESTE: Wow...[p/] That story is pretty...",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 哇哦……[p/]这故事可真……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a9c84\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"CELESTE: Wow...[p/] That story is pretty...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8262248b27cb26ed",
     "original": "ORYM: I know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 我知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cc8f8c\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: I know.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::534617e385dd9cb9",
     "original": "ORYM: Steelwind thinks someone’s developed a new type of magic that can control people’s minds.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 斯蒂尔文德坚信，某人研发出了某种能操控他人意识的魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0010f9d\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Steelwind thinks someone’s developed a new type of magic that can control people’s minds.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::94463df51255b605",
     "original": "ORYM: And these homicides were some kind of sick test run.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 这些谋杀只是某种恶心的测试。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ad262c\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: And these homicides were some kind of sick test run.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e9e42866878dc4e3",
     "original": "...Magic that can affect people’s minds?",
-    "translation": "",
-    "stage": 0,
+    "translation": "……能够影响人类心智的魔法？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06ea017\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"...Magic that can affect people’s minds?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::54217a2a4fd37945",
     "original": "Celeste: Wouldn't Mageblight make more sense?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 法师之疫不是更可行的解释吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d78f5b\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Celeste: Wouldn't Mageblight make more sense?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::664045686525f21e",
     "original": "Tyrion: Mageblight?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法师之疫？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:099722d\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Tyrion: Mageblight?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a223147ae3e9371",
     "original": "Celeste: When a mage overuses their magic,[p/] it can have pretty bad consequences on their mind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 如果一个法师过度使用法术，[p/]他的精神会受到严重影响。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:090f8e9\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Celeste: When a mage overuses their magic,[p/] it can have pretty bad consequences on their mind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e451d3926925ef52",
     "original": "Celeste: They temporarily lose grip of reality,[p/] and begin seeing things that aren't there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 他们会暂时失去对现实的感知，[p/]开始出现幻觉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0021614\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Celeste: They temporarily lose grip of reality,[p/] and begin seeing things that aren't there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::34d065cc06b7b6a3",
     "original": "Celeste: When a mage becomes like that,[p/] it almost never ends well.[p/] They basically become psychotic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 当一个法师变成那样，[p/]通常都不会有好结果。[p/]他们基本上都变得精神异常。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06f5d49\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Celeste: When a mage becomes like that,[p/] it almost never ends well.[p/] They basically become psychotic.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9917996373c1da18",
     "original": "Celeste: They enter a frenzy and begin firing spells randomly,[p/] which only makes it worse.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 他们会进入狂暴阶段，并开始随机释放法术，[p/]这只会让情况更糟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:065ad97\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Celeste: They enter a frenzy and begin firing spells randomly,[p/] which only makes it worse.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::18506805a337276c",
     "original": "Orym: I've seen my fair share of Mageblight cases,[p/] and [i]this[/i] wasn’t like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我见过不少法师之疫的案件，[p/]和[i]这一系列[/i]的案子不一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ace699\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Orym: I've seen my fair share of Mageblight cases,[p/] and [i]this[/i] wasn’t like that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::992c69d068908e64",
     "original": "ORYM: Not all of the perps were mages,[p/] and the ones that were,[p/] didn’t even use their spells.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 并非所有的犯人都是法师。[p/]就算犯人是法师，[p/]也没有在行凶时使用他们会用的法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03984b2\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Not all of the perps were mages,[p/] and the ones that were,[p/] didn’t even use their spells.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1bd80701b676cc21",
     "original": "ORYM: One thing was that each of the perps almost seemed to wake up after we arrested them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 不过有个共同点，我们逮捕的犯人都似乎是刚刚回复意识的样子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04330f6\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: One thing was that each of the perps almost seemed to wake up after we arrested them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::008b214f081a4dda",
     "original": "ORYM: All of them said things like [s/]“It wasn’t me!”[p/] or [s/]“I didn't have a choice!”.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 他们都会说诸如[s/]“那不是我！”[p/]或[s/]“我没得选！”这种话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0192e4e\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: All of them said things like [s/]“It wasn’t me!”[p/] or [s/]“I didn't have a choice!”.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b70fab4744df6e3e",
     "original": "TYRION: They \"didn't have a choice\"?[p/] What could that mean?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 他们“没得选”？[p/]这是何意？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:037afac\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"TYRION: They \\\"didn't have a choice\\\"?[p/] What could that mean?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::41735d404979ab1a",
     "original": "ORYM: I doubt it \"means\" anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 我不觉得这有什么特殊含义。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e76cd1\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: I doubt it \\\"means\\\" anything.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ff67f20ba5a505b0",
     "original": "ORYM: Sometimes people can’t face the things they’ve done.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 有时人们无法面对自己的所作所为。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f2727d\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Sometimes people can’t face the things they’ve done.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::054e06c0fd6b8678",
     "original": "ORYM: It’s easier to say that you had no control than to take responsibility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 比起担负责任，说自己当时失控要更轻松点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0644b11\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: It’s easier to say that you had no control than to take responsibility.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::602c6f057f0f44c1",
     "original": "Player: The Secret Witness",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 神秘的目击者",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08ea82d\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Player: The Secret Witness\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::30b0f2c00193b29c",
     "original": "I wondered if I could mislead the commander into revealing who the secret witness is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我想知道，能否误导指挥官，让他告诉我那个神秘的目击者身份。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00d53f8\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"I wondered if I could mislead the commander into revealing who the secret witness is.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::35c1709f89314c1d",
     "original": "TYRION: During the trial,[p/] Steelwind mentioned that someone other than Jan Hughes saw Bellwether walking around.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 在庭审中，[p/]斯蒂尔文德有提到不只是简·休斯，还有另一个目击者看到贝尔维瑟四处走动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cb5a48\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"TYRION: During the trial,[p/] Steelwind mentioned that someone other than Jan Hughes saw Bellwether walking around.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dadd501fc40379a1",
     "original": "TYRION: Have you seen them around lately?[p/] We wanted to speak with them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 你最近有看到他吗？[p/]我们想和他聊聊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:071f479\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"TYRION: Have you seen them around lately?[p/] We wanted to speak with them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::533d63d6b61dfab3",
     "original": "ORYM: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:081d9af\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: ...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2a8a8eb2e7810103",
     "original": "ORYM: Hah.[p/] Nice try, kid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 哈！[p/]想得美，小子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:067848e\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Hah.[p/] Nice try, kid.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f21c9ebfb0bee014",
     "original": "Well...[p/] It was worth a shot.",
-    "translation": "",
-    "stage": 0,
+    "translation": "好吧……[p/]至少试了试。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0346e2f\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Well...[p/] It was worth a shot.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c997d4451e4fe4d4",
     "original": "ORYM: Honestly,[p/] I couldn’t tell you if I wanted to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 说实话，[p/]就算我想，也没办法告诉你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f7a069\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: Honestly,[p/] I couldn’t tell you if I wanted to.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::40b2bf3939be07df",
     "original": "ORYM: I don’t think anyone other than Steelwind knows who this witness is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 我觉得除了斯蒂尔文德外没人知道那证人是谁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e2aa15\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: I don’t think anyone other than Steelwind knows who this witness is.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::742bf5f2e561b51a",
     "original": "ORYM: [i]I[/i] sure as hell don’t.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 反正[i]我[/i]是不知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01d9772\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"ORYM: [i]I[/i] sure as hell don’t.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2d19be4dcebe6dab",
     "original": "What?[p/] She was even hiding it from the Inquisition Commander?",
-    "translation": "",
-    "stage": 0,
+    "translation": "什么？[p/]她连裁判所的指挥官都要瞒？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0581d7e\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"What?[p/] She was even hiding it from the Inquisition Commander?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::848abfd708da24fb",
     "original": "Why was she being so secretive?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她为何这么遮遮掩掩的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d78607\",\n  \"node\": \"Lockers_Talk\",\n  \"text\": \"Why was she being so secretive?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::81cfcb308e2f8772",
     "original": "Orym: ...Kid,[p/] are you going to show me this thing every time we meet?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……小子，[p/]你是打算每次遇到都要跟我展示一下这个东西？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03c3fa0\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: ...Kid,[p/] are you going to show me this thing every time we meet?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5a0239ffd1a87871",
     "original": "Tyrion: ...It proves I'm an attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……它证明我是一名律师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:088721c\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: ...It proves I'm an attorney.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5454296592d12ce3",
     "original": "Orym: Yeah,[p/] I know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 是啊，[p/]我知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a22c8a\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Yeah,[p/] I know.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a60bcf444113cdad",
     "original": "Orym: Seriously,[p/] you're just like Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 说真的，[p/]你这样还挺像斯蒂尔文德的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01721db\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Seriously,[p/] you're just like Steelwind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::13ae9d4630a66731",
     "original": "Celeste: ...She does this, too?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……她也这么干吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0647e5b\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Celeste: ...She does this, too?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04956f95c9afb5a3",
     "original": "Orym: I didn't expect to see you two again so soon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 没想到这么快就又见到你们俩了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:061578d\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: I didn't expect to see you two again so soon.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::abf9f63896d59a83",
     "original": "Tyrion: Considering our careers,[p/] we'll probably be seeing a lot more of each other.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 由于工作原因，[p/]我们将来可能会经常碰面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e38d51\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: Considering our careers,[p/] we'll probably be seeing a lot more of each other.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d815fcd5153b6c12",
     "original": "Orym: ...Well, between you and Tymora,[p/] [i]you're[/i] a lot less insufferable to be around.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……至少，跟泰摩拉比起来，[p/][i]你[/i]没那么难以忍受。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d997fb\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: ...Well, between you and Tymora,[p/] [i]you're[/i] a lot less insufferable to be around.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::683631a6f6dcafee",
     "original": "Orym: I was surprised to see [i]you[/i] again, mage girl.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 没想到我跟[i]你[/i]又见面了，法师小姑娘。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04f7e40\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: I was surprised to see [i]you[/i] again, mage girl.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::096e028529ca44cd",
     "original": "Celeste: I have a name, you know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我有名字，懂？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fd5a3f\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Celeste: I have a name, you know.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::135f9a0d34111b5e",
     "original": "Orym: Yeah, yeah...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 是，是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e9548e\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Yeah, yeah...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::861700e3f9375c19",
     "original": "Orym: So, what are you doing around the kid [i]this[/i] time?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 所以呢，你[i]这次[/i]又是跟这小子一起干什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0419963\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: So, what are you doing around the kid [i]this[/i] time?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::015849f22c70b70f",
     "original": "Orym: Are you two...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 难不成你们两个……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08c5951\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Are you two...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::31f308ccf9db6a21",
     "original": "Celeste: I'm working as Tyrion's bodyguard now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我现在是提利昂的贴身护卫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02450da\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Celeste: I'm working as Tyrion's bodyguard now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f384bf96c9ffc048",
     "original": "Orym: Really?[p/] With [i]your[/i] record?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 真的假的？[p/]那么战果累累的[i]你[/i]？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0330173\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Really?[p/] With [i]your[/i] record?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::56b12f48aafdce32",
     "original": "Orym: I figured you'd be back in the Eastern Kingdoms after your acquittal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我还以为你无罪释放之后，会回到东方古国呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0694cfe\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: I figured you'd be back in the Eastern Kingdoms after your acquittal.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2fe3336c75bc8fdd",
     "original": "Celeste: No.[p/] I'm trying to keep my work in Wyverngarde for now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 没有。[p/]我目前正努力在维文加德站稳脚跟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:074e2ee\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Celeste: No.[p/] I'm trying to keep my work in Wyverngarde for now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::54a5fb2cb9d75957",
     "original": "Celeste: My mom's all alone after what happened...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 案发之后，家里就只剩我妈一个人了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fa24d4\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Celeste: My mom's all alone after what happened...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::21cb530e4d126441",
     "original": "Orym: ...Right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: ……也是。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b8cc88\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: ...Right.\"\n}"
   },
   {
@@ -31635,85 +31635,85 @@
   {
     "key": "C2 Dialogue.csv::translation::5bb8959ed9f19a2b",
     "original": "Orym: Man...[p/] Steelwind's really wound up today.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 老天啊……[p/]斯蒂尔文德今天神经兮兮的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05a9b13\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Man...[p/] Steelwind's really wound up today.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::181b14c8efd9e072",
     "original": "Orym: I don't know what her deal is...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不知道她葫芦里装的什么药……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07f35ee\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: I don't know what her deal is...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::993a13ec8e16c4df",
     "original": "Tyrion: Is she not normally like this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她平时不这样吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:045a19e\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: Is she not normally like this?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::381a279921958483",
     "original": "Orym: Not usually.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 她一般不这样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03a31e7\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Not usually.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::31ff6dd73181ba88",
     "original": "Orym: Or at least not [i]this[/i] much.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 至少没[i]今天[/]i这么夸张。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dfeef2\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Or at least not [i]this[/i] much.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8ef4f01f7a2cf9fc",
     "original": "Orym: By the way,[p/] have you two seen Eris Illmater around?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 话说，[p/]你们俩在这附近见到过厄莉斯·伊尔马特吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0736176\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: By the way,[p/] have you two seen Eris Illmater around?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::27ccb26ca34d310e",
     "original": "Tyrion: Right...[p/] Steelwind mentioned what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 说到这个……[p/]斯蒂尔文德提到过当时的情况。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a9f895\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: Right...[p/] Steelwind mentioned what happened.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::647b439775eb96bc",
     "original": "Orym: Yeah.[p/] She has really been on my case about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 嗯，[p/]她因为这事一直数落我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:097d741\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Yeah.[p/] She has really been on my case about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::82878f0800727de5",
     "original": "Orym: I can't believe I lost her [b]Compendium[/b]...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我自己都难以置信，我竟然会弄丢她的[b]法术汇编[/b]……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:063f29f\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: I can't believe I lost her [b]Compendium[/b]...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2d20c329a922edca",
     "original": "Orym: But I guess it's mostly my fault.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 但我想，这也只能怪我自己吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f1ff79\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: But I guess it's mostly my fault.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8d6475180417d2ab",
     "original": "Tyrion: We saw her at the cemetery earlier,[p/] but I have no idea where she is now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们刚才在墓地附近见过她一面，[p/]也不知道她现在上哪儿去了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fd4511\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: We saw her at the cemetery earlier,[p/] but I have no idea where she is now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e6975c1f9e7f6a06",
     "original": "Orym: Damn it...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 可恶……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0babed9\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Damn it...\"\n}"
   },
   {
@@ -31726,50 +31726,50 @@
   {
     "key": "C2 Dialogue.csv::translation::55c9a5cd0b2d0cc1",
     "original": "Orym: Look, kid...[p/] I know you always \"believe in your clients\" and all, but...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 听我说，小子……[p/]我知道你总爱搞“相信你的委托人”那一套，不过……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0208dd0\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Look, kid...[p/] I know you always \\\"believe in your clients\\\" and all, but...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3d08c25b29ceee61",
     "original": "Orym: I can't believe you're defending a [i]necromancer[/i] of all people.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我真不敢相信，这么多人挑谁不好，你偏挑个[i]死灵法师[/i]辩护……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082ee75\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: I can't believe you're defending a [i]necromancer[/i] of all people.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e14c08863c95b089",
     "original": "Orym: There [i]has[/i] to be a limit to that “compassion” of yours.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你“普渡众生”也要有个[i]限度[/]i吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a0c28\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: There [i]has[/i] to be a limit to that “compassion” of yours.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::24a114401fe1c90b",
     "original": "Tyrion: Wallace has his reasons for studying [b]necromancy[/b].[p/] I trust him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 华莱士研习[b]死灵术[/b]另有隐情。[p/]我相信他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:002f383\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: Wallace has his reasons for studying [b]necromancy[/b].[p/] I trust him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::11d5f92be27b65fa",
     "original": "Orym: Even though you just met him yesterday?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你和他不是昨天才刚认识吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ab1adb\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Even though you just met him yesterday?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea883251bbf6d759",
     "original": "Tyrion: I think that I'm a good judge of character.[p/] There's no way he killed Bellwether.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我觉得自己看人很准。[p/]贝尔维瑟不可能是他杀的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:033bbfd\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: I think that I'm a good judge of character.[p/] There's no way he killed Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5778268ef692e659",
     "original": "Orym: Whatever you say, kid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你说准就准吧，小子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05f441d\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Whatever you say, kid.\"\n}"
   },
   {
@@ -31782,36 +31782,36 @@
   {
     "key": "C2 Dialogue.csv::translation::ce950b45b8318faa",
     "original": "Tyrion: Was there really no way for you to breach the academy during the lockdown?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你们真的没办法在封锁生效时期强行突破进入学院吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0325b6e\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: Was there really no way for you to breach the academy during the lockdown?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::31e57d87a83d981b",
     "original": "Orym: Yeah.[p/] Those [b]abjuration[/b] barriers are top-notch.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 没办法。[p/]这些[b]防护术[/b]生成的护壁是一流的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06a2a4e\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Yeah.[p/] Those [b]abjuration[/b] barriers are top-notch.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f65fe6122f4c5fc7",
     "original": "Orym: They were paid for by the nobility, after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 毕竟这可是众贵族赞助的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04b19a1\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: They were paid for by the nobility, after all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7b7b4d32ad7523f1",
     "original": "Orym: I bet Lucio Steelwind could drop a meteor on it,[p/] and it wouldn't even make a dent.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我估计就算是卢西奥·斯蒂尔文德往上面丢一个陨石，[p/]它也不会破碎分毫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b60706\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: I bet Lucio Steelwind could drop a meteor on it,[p/] and it wouldn't even make a dent.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d0d96923618aac09",
     "original": "Celeste: I’m sorry...[p/] He could drop a [i]what[/i]?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 抱歉我没听清……[p/]他能丢个[i]什么[/i]？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05650c3\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Celeste: I’m sorry...[p/] He could drop a [i]what[/i]?!\"\n}"
   },
   {
@@ -31824,253 +31824,253 @@
   {
     "key": "C2 Dialogue.csv::translation::14b70da216666464",
     "original": "Orym: Ugh...[p/] Those twins really screwed me over with what they did.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 呃啊……[p/]那对双胞胎耍的小把戏可真把我整惨了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0251c0b\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Ugh...[p/] Those twins really screwed me over with what they did.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::520d96fc87e1d7cc",
     "original": "Orym: Steelwind's going to hold this over me for a while.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 斯蒂尔文德又要拿这件事数落我了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06e3909\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Steelwind's going to hold this over me for a while.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::86b836cacf4468ea",
     "original": "Tyrion: I can't exactly blame you for what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我也不能全怪你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08cd809\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: I can't exactly blame you for what happened.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f11f60ed07834af4",
     "original": "Tyrion: Twins are such a rare occurrence.[p/] I doubt even the Inquisition has dealt with that before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 双胞胎本就是罕见事件，[p/]我怀疑裁判所以前从未经手过类似的案件。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c0c24b\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: Twins are such a rare occurrence.[p/] I doubt even the Inquisition has dealt with that before.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::563194d3716f5492",
     "original": "Orym: Ugh...[p/] You always know just how to piss off the right people, kid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 呃啊……[p/]小子，你可真是会惹人不爽。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0492fe1\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Ugh...[p/] You always know just how to piss off the right people, kid.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b658a4af8a694f8f",
     "original": "Orym: We're [i]still[/i] trying to clean up the mess you made with House Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我们[i]还[/i]在处理你对皮尔斯家惹出来的乱子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0479177\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: We're [i]still[/i] trying to clean up the mess you made with House Pierce.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::45ef4a878b59f85e",
     "original": "Tyrion: What do you think about this, Commander White?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你对这个有什么看法？怀特指挥官。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:081689b\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Tyrion: What do you think about this, Commander White?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2745b8a51bb5caa2",
     "original": "Orym: Sorry, kid.[p/] I don't have much to say about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 不好意思，小子。[p/]对此我没什么要说的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02cc53a\",\n  \"node\": \"Lockers_Present\",\n  \"text\": \"Orym: Sorry, kid.[p/] I don't have much to say about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::740cf0429fdd7d38",
     "original": "We spent some time wandering through the academy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我们在学院内四处探查，花了不少时间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0663684\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"We spent some time wandering through the academy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a1105d56318b3fb1",
     "original": "That's when we overheard a conversation from a nearby room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "无意间听到附近的房间里传来对话。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c21d95\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"That's when we overheard a conversation from a nearby room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::55359e2d0cd3f02a",
     "original": "THEODORE: From what I understand,[p/] Ms. Steelwind has already moved the investigation elsewhere.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 据我所知，[p/]斯蒂尔文德女士已经去其他地方调查了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a4c1e4\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"THEODORE: From what I understand,[p/] Ms. Steelwind has already moved the investigation elsewhere.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::12b4622dccc8a315",
     "original": "THEODORE: How long must I wait before I can retrieve my things?",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 我还要等多久才能取回我的东西？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eb8ba0\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"THEODORE: How long must I wait before I can retrieve my things?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::17a57cb1732e5b4d",
     "original": "ORYM: Sorry, old-timer.[p/] Orders are orders.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 抱歉，老前辈。[p/]但命令就是命令。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00b5ac6\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"ORYM: Sorry, old-timer.[p/] Orders are orders.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1fa4958bbbd34548",
     "original": "ORYM: Nothing comes in or out till this case is over and done with.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 在此案结案之前，没有任何人能进出这里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ec0f7c\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"ORYM: Nothing comes in or out till this case is over and done with.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::37dd99703b0053e2",
     "original": "TYRION: Commander White?[p/] And the headmaster too?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 怀特指挥官？[p/]校长也在？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:086da89\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"TYRION: Commander White?[p/] And the headmaster too?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c3f9f3f23bf857f6",
     "original": "THEODORE: Oh...[p/] Hello, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 哦……[p/]你好，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:015578d\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"THEODORE: Oh...[p/] Hello, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::92216e72e200e1d7",
     "original": "ORYM: Hey, kid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 哟，小子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:003c30a\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"ORYM: Hey, kid.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4a6b65eaa8c62516",
     "original": "THEODORE: [i]*sigh*[/i][p/] In any case,[p/] there are other matters I must attend to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: *叹气* [p/]总之，[p/]我还有事要办。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b012fd\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"THEODORE: [i]*sigh*[/i][p/] In any case,[p/] there are other matters I must attend to.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::76e383efb1cd890b",
     "original": "THEODORE: Please inform me when I can reclaim my things.",
-    "translation": "",
-    "stage": 0,
+    "translation": "THEODORE: 能取回物品的时候请通知我。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05f40d5\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"THEODORE: Please inform me when I can reclaim my things.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::05582d1336de34b0",
     "original": "ORYM: Sure thing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 没问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:071ef6a\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"ORYM: Sure thing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7fe054e6786fb3f0",
     "original": "It looked like Commander White was standing guard in front of this locker room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看起来怀特指挥官在储物柜室前值守。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04f09f9\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"It looked like Commander White was standing guard in front of this locker room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2e8e3bf769b7dc3d",
     "original": "But it didn't look like he's conducting [i]any[/i] sort of investigation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但他看起来并没有在进行[i]任何[/i]调查。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:085108b\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"But it didn't look like he's conducting [i]any[/i] sort of investigation.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c76adedec33b6605",
     "original": "Was he here on Steelwind’s orders?",
-    "translation": "",
-    "stage": 0,
+    "translation": "他是受斯蒂尔文德的命令在此值守吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dffe1d\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"Was he here on Steelwind’s orders?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::96f42f0309ac1221",
     "original": "He might be able to tell us who this secret witness was.",
-    "translation": "",
-    "stage": 0,
+    "translation": "他或许能告诉我们那个神秘的目击者是谁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0253fc0\",\n  \"node\": \"Lockers_Check\",\n  \"text\": \"He might be able to tell us who this secret witness was.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::01506c845507da6d",
     "original": "It seemed like the commander didn't know who this secret witness was, either.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看起来指挥官也不知道那个神秘的目击者是谁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04cda80\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"It seemed like the commander didn't know who this secret witness was, either.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a8c73382a47398e1",
     "original": "CELESTE: Ugh...[p/] This isn’t getting us anywhere...",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 呃啊……[p/]毫无进展……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0db774f\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"CELESTE: Ugh...[p/] This isn’t getting us anywhere...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ec694e0292f31347",
     "original": "TYRION: Steelwind’s behavior [i]is[/i] strange, though.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 不过斯蒂尔文德的行为[i]确实[/i]很奇怪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ef1845\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"TYRION: Steelwind’s behavior [i]is[/i] strange, though.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::53b4a942153c1fc9",
     "original": "Perhaps we could try analyzing her behavior.",
-    "translation": "",
-    "stage": 0,
+    "translation": "或许我们可以尝试分析她的行动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:029e7eb\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"Perhaps we could try analyzing her behavior.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e9bb339a1aafc9da",
     "original": "If I did that,[p/] I might be able to figure out why she's acting so strangely.",
-    "translation": "",
-    "stage": 0,
+    "translation": "或许能分析出来她表现奇怪的原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0607754\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"If I did that,[p/] I might be able to figure out why she's acting so strangely.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ea6bcfaa575c8a0f",
     "original": "TYRION: Let's take a moment to work through this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我们来花点时间搞清楚这个问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a1ade\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"TYRION: Let's take a moment to work through this.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::43deea76873ac7a3",
     "original": "Tyrion: Steelwind’s behavior has been strange this time around.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 斯蒂尔文德这次的行动很是奇怪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:084dc8a\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"Tyrion: Steelwind’s behavior has been strange this time around.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f56e3e85def1cbd7",
     "original": "TYRION: She’s hiding elements of the case,[p/] even from the commander.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她在刻意隐瞒关于此案的一些细节，[p/]就连指挥官都瞒着。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0299e38\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"TYRION: She’s hiding elements of the case,[p/] even from the commander.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b1bd239786f4a780",
     "original": "TYRION: Anyone can tell that she doesn’t have much faith in him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 谁都能看出来她不太相信指挥官。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d71a96\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"TYRION: Anyone can tell that she doesn’t have much faith in him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1791984f3286e6f2",
     "original": "ORYM: I’m...[p/] standing right here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 我……[p/]可还站在这呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0313d2d\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"ORYM: I’m...[p/] standing right here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fc0834b64eb14b63",
     "original": "TYRION: But this is the first time I’ve seen her hide key details of a case from him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但我第一次见到她对指挥官隐瞒关键细节。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:079d1f9\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"TYRION: But this is the first time I’ve seen her hide key details of a case from him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6ff3f6fc0f7102b8",
     "original": "TYRION: There has to be a reason why she’s being so secretive.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她作风这么神秘，肯定有什么原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0718ef8\",\n  \"node\": \"LockerDeduce\",\n  \"text\": \"TYRION: There has to be a reason why she’s being so secretive.\"\n}"
   },
   {
@@ -32083,22 +32083,22 @@
   {
     "key": "C2 Dialogue.csv::translation::09be2a19d03e3565",
     "original": "No...[p/] Steelwind might have had a habit of micromanaging the Inquisition.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]斯蒂尔文德或许是有这个习惯，会事无巨细地处理裁判所的工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06411b8\",\n  \"node\": \"LockerDeduce2\",\n  \"text\": \"No...[p/] Steelwind might have had a habit of micromanaging the Inquisition.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b120092c3a3c8b4b",
     "original": "But she had [i]always[/i] delegated tasks to them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但她之前[i]总是[/i]会向他们安排工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05bd7ba\",\n  \"node\": \"LockerDeduce2\",\n  \"text\": \"But she had [i]always[/i] delegated tasks to them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b61079a0800bec69",
     "original": "This time is different.[p/] Something was stopping her from utilizing them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这次不一样。[p/]有什么东西让她弃用了裁判所。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0818ae8\",\n  \"node\": \"LockerDeduce2\",\n  \"text\": \"This time is different.[p/] Something was stopping her from utilizing them.\"\n}"
   },
   {
@@ -32111,127 +32111,127 @@
   {
     "key": "C2 Dialogue.csv::translation::701516cff64b5485",
     "original": "No...[p/] This academy was a large building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "并非如此……[p/]学院的规模很大。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cd8578\",\n  \"node\": \"LockerDeduce2\",\n  \"text\": \"No...[p/] This academy was a large building.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b345d47547c7ec0c",
     "original": "No matter how competent she was,[p/] she couldn't possibly carry out a search of this scale by herself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "任凭她再有本事，[p/]也不可能一个人完成这么大规模的搜查。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09d2688\",\n  \"node\": \"LockerDeduce2\",\n  \"text\": \"No matter how competent she was,[p/] she couldn't possibly carry out a search of this scale by herself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d0e912fb15ad0e0b",
     "original": "From a logical standpoint,[p/] it would make more sense for her to utilize the entirety of the Inquisition.",
-    "translation": "",
-    "stage": 0,
+    "translation": "按理来说，[p/]她应该动员整个裁判所帮忙搜查才对。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:090996d\",\n  \"node\": \"LockerDeduce2\",\n  \"text\": \"From a logical standpoint,[p/] it would make more sense for her to utilize the entirety of the Inquisition.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7b5b60af25e510d2",
     "original": "Tyrion: Her actions must be driven by paranoia.[p/] She’s been hoarding information about the case, after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她的行为受某种偏执影响，[p/]毕竟，她一直在隐瞒这个案件的信息。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05ecf88\",\n  \"node\": \"LockerDeduce3\",\n  \"text\": \"Tyrion: Her actions must be driven by paranoia.[p/] She’s been hoarding information about the case, after all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::93ffa3e44f35b760",
     "original": "Tyrion: There’s only one reason why she wouldn’t utilize the Inquisition like she usually does.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她不像往常那样召集裁判所的人搜查，只可能有一个理由。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05f0a25\",\n  \"node\": \"LockerDeduce3\",\n  \"text\": \"Tyrion: There’s only one reason why she wouldn’t utilize the Inquisition like she usually does.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4739f95833a72abd",
     "original": "Tyrion: It’s because she doesn’t trust them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那就是她不信任裁判所的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f2c7c\",\n  \"node\": \"LockerDeduce3\",\n  \"text\": \"Tyrion: It’s because she doesn’t trust them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::148ec7f0010f780e",
     "original": "ORYM: I hate to say it,[p/] but that doesn’t really surprise me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 我很不愿意承认，[p/]但我不意外。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:040f936\",\n  \"node\": \"LockerDeduce3\",\n  \"text\": \"ORYM: I hate to say it,[p/] but that doesn’t really surprise me.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5d3d564e65a664c8",
     "original": "ORYM: She’s always been standoffish with us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 她对我们永远没个好脸色。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f5838d\",\n  \"node\": \"LockerDeduce3\",\n  \"text\": \"ORYM: She’s always been standoffish with us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3247beffe38f85d3",
     "original": "TYRION: But there [i]is[/i] one exception.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但[i]有一个[/]i例外。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:075090d\",\n  \"node\": \"LockerDeduce3\",\n  \"text\": \"TYRION: But there [i]is[/i] one exception.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7ff2526294290d36",
     "original": "TYRION: There are individuals whom she’s trusted more than the Inquisition during this case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 这个案子里，比起裁判所，她有更信任的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00ef833\",\n  \"node\": \"LockerDeduce3\",\n  \"text\": \"TYRION: There are individuals whom she’s trusted more than the Inquisition during this case.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4dc0cfdae9cc097f",
     "original": "No...[p/] Steelwind had been personally investigating the crime herself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不是的……[p/]斯蒂尔文德一直在独自调查这起案件。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fe628d\",\n  \"node\": \"LockerDeduce4\",\n  \"text\": \"No...[p/] Steelwind had been personally investigating the crime herself.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0df149e8d5338cad",
     "original": "She wouldn't let anyone into the crime scene,[p/] not even the Inquisition.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她不允许任何人进入案发现场，[p/]甚至包括裁判所。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06931c3\",\n  \"node\": \"LockerDeduce4\",\n  \"text\": \"She wouldn't let anyone into the crime scene,[p/] not even the Inquisition.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::00e5d2c48e3b9cbd",
     "original": "But there [i]were[/i] individuals that she trusted enough to give full freedom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但[i]还是[/i]有人让她足够信任，允许他们自由调查。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02251b6\",\n  \"node\": \"LockerDeduce4\",\n  \"text\": \"But there [i]were[/i] individuals that she trusted enough to give full freedom.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::57e88b2677043630",
     "original": "TYRION: She's let [i]us[/i] investigate the crime scenes without any restrictions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她愿意让[i]我们[/i]随便调查犯罪现场，完全不设任何限制。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04b116d\",\n  \"node\": \"LockerDeduce5\",\n  \"text\": \"TYRION: She's let [i]us[/i] investigate the crime scenes without any restrictions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7335c4ed5b725b2b",
     "original": "CELESTE: ...Yeah,[p/] I didn't notice that until now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: ……是啊，[p/]但我之前都没注意到。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:043656d\",\n  \"node\": \"LockerDeduce5\",\n  \"text\": \"CELESTE: ...Yeah,[p/] I didn't notice that until now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c479fd3b52c4be40",
     "original": "CELESTE: Does she really trust us that much?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 她有那么信任我们吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bf1c27\",\n  \"node\": \"LockerDeduce5\",\n  \"text\": \"CELESTE: Does she really trust us that much?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dc284857bca136e8",
     "original": "TYRION: I don’t think personal trust is the reason.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我觉得，原因不在于她个人信不信得过我们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05780b0\",\n  \"node\": \"LockerDeduce5\",\n  \"text\": \"TYRION: I don’t think personal trust is the reason.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d673532336397a3f",
     "original": "TYRION: We don't usually interact with her,[p/] and she’s worked with the Inquisition on plenty of cases that we weren’t even involved in.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我们和她的交往并不算多，[p/]但她跟裁判所合作解决过不知多少起案子了。那些案子我们甚至都没参与过。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cc4de5\",\n  \"node\": \"LockerDeduce5\",\n  \"text\": \"TYRION: We don't usually interact with her,[p/] and she’s worked with the Inquisition on plenty of cases that we weren’t even involved in.\"\n}"
   },
   {
