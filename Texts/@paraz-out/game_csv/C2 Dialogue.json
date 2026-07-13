@@ -32517,36 +32517,36 @@
   {
     "key": "C2 Dialogue.csv::translation::f52b26654fb1607f",
     "original": "TYRION: Her behaviour changed [i]after[/i] investigating this room...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 她调查了这间屋子[i]之后[/i]就变得怪怪的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00b8f18\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"TYRION: Her behaviour changed [i]after[/i] investigating this room...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3afe177d90908dde",
     "original": "TYRION: That means that she found something here...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 那意味着她在这儿找到了什么……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02a841b\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"TYRION: That means that she found something here...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c4618dc9dd21d972",
     "original": "CELESTE: And that “something” must point to a family from the four pillars!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 那个“什么”一定指向四大支柱家族中的一个！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a103fa\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"CELESTE: And that “something” must point to a family from the four pillars!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3d5a3bb80ed2f303",
     "original": "The commander shifted slightly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "指挥官稍稍让开了一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0265a2d\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"The commander shifted slightly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b195ee07077c4c4f",
     "original": "ORYM: You know...[p/] Steelwind’s orders say [i]I[/i] can’t snoop around here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 你也知道……[p/]斯蒂尔文德的命令有提到[i]我[/i]不能搜索这里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08dab64\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"ORYM: You know...[p/] Steelwind’s orders say [i]I[/i] can’t snoop around here.\"\n}"
   },
   {
