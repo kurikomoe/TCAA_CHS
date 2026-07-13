@@ -29500,7 +29500,7 @@
   {
     "key": "C2 Dialogue.csv::translation::1d9cd3cdb54ff8e2",
     "original": "ARIA: ...So regardless of what I said before,[p/] the answer is still “no”. [h=\"Her family is dangerous.\" e=\"f\"/]",
-    "translation": "ARIA: ……所以说无论我之前说了什么，[p/]我的回答仍是“不行”。 [h=\"她的家族太危险了。\" e=\"f\"/]",
+    "translation": "ARIA: ……所以说无论我之前说了什么，[p/]我的回答仍是“不行”。 [h=\"她的家族太危险了。\" e=\"f\" /]",
     "stage": 1,
     "context": "{\n  \"id\": \"line:0c2dc83\",\n  \"node\": \"Library_Talk\",\n  \"text\": \"ARIA: ...So regardless of what I said before,[p/] the answer is still “no”. [h=\\\"Her family is dangerous.\\\" e=\\\"f\\\"/]\"\n}"
   },
@@ -32237,71 +32237,71 @@
   {
     "key": "C2 Dialogue.csv::translation::3b4e083aa6a6e186",
     "original": "No...[p/] There was a key difference between us and the Inquisition.",
-    "translation": "",
-    "stage": 0,
+    "translation": "并非如此……[p/]我们和裁判所之间只有一个关键区别的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07b23ac\",\n  \"node\": \"LockerDeduce6\",\n  \"text\": \"No...[p/] There was a key difference between us and the Inquisition.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fae97e06a4499da2",
     "original": "We didn't answer to anyone,[p/] and we weren't subject to corruption from the nobility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我们没有听命于谁，[p/]也不受贵族腐化的影响。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:014710a\",\n  \"node\": \"LockerDeduce6\",\n  \"text\": \"We didn't answer to anyone,[p/] and we weren't subject to corruption from the nobility.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d8511bb39e714e73",
     "original": "So why would that make Steelwind trust us this time around?",
-    "translation": "",
-    "stage": 0,
+    "translation": "那为什么斯蒂尔文德这次选择相信我们？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0da1d98\",\n  \"node\": \"LockerDeduce6\",\n  \"text\": \"So why would that make Steelwind trust us this time around?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c1067ba46ddfddff",
     "original": "Tyrion: Steelwind doesn’t know much about us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 斯蒂尔文德虽然对我们了解不多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0723d83\",\n  \"node\": \"LockerDeduce7\",\n  \"text\": \"Tyrion: Steelwind doesn’t know much about us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f04e057a54aef063",
     "original": "Tyrion: But she [i]does[/i] know that we aren’t prone to noble corruption.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但她[i]确实[/i]知道我们不会被腐败贵族影响。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0154b90\",\n  \"node\": \"LockerDeduce7\",\n  \"text\": \"Tyrion: But she [i]does[/i] know that we aren’t prone to noble corruption.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4e28d083bbfbce6d",
     "original": "CELESTE: Right...[p/] You [i]did[/i] just indict a noble last week.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 是哦……[p/]你上周[i]才[/i]让一个贵族被判有罪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e5e73f\",\n  \"node\": \"LockerDeduce7\",\n  \"text\": \"CELESTE: Right...[p/] You [i]did[/i] just indict a noble last week.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5c8544b3741f886f",
     "original": "TYRION: Meanwhile,[p/] the Inquisition usually bends to the nobility’s whims.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 与此同时，[p/]裁判所通常对贵族卑躬屈膝。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07b2126\",\n  \"node\": \"LockerDeduce7\",\n  \"text\": \"TYRION: Meanwhile,[p/] the Inquisition usually bends to the nobility’s whims.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::29abd29002108931",
     "original": "ORYM: Can’t argue with you there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 没法驳斥你啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04c0145\",\n  \"node\": \"LockerDeduce7\",\n  \"text\": \"ORYM: Can’t argue with you there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e2533f08738c830f",
     "original": "TYRION: Using my[p/] intuition,[p/] I could tell that she’s worried about the witness’s family.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 以我的[p/]直觉，[p/]她应该因证人的家庭背景而有所顾虑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:003691a\",\n  \"node\": \"LockerDeduce7\",\n  \"text\": \"TYRION: Using my[p/] intuition,[p/] I could tell that she’s worried about the witness’s family.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::679ddeaefccb311b",
     "original": "TYRION: And if she’s worried about corruption from the nobility,[p/] that can only mean one thing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 如果她在担心贵族可能导致的司法腐败，[p/]那就只能意味着一件事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f06482\",\n  \"node\": \"LockerDeduce7\",\n  \"text\": \"TYRION: And if she’s worried about corruption from the nobility,[p/] that can only mean one thing.\"\n}"
   },
   {
@@ -32314,204 +32314,204 @@
   {
     "key": "C2 Dialogue.csv::translation::596e4817a91eb445",
     "original": "No...[p/] We weren't controlled by the nobility.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不是这样……[p/]我们并不受贵族的控制。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:042d795\",\n  \"node\": \"LockerDeduce8\",\n  \"text\": \"No...[p/] We weren't controlled by the nobility.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::935e337c522fdb37",
     "original": "There was a reason why Steelwind was so wary of us knowing who this witness is.",
-    "translation": "",
-    "stage": 0,
+    "translation": "斯蒂尔文德如此警惕我们知晓证人身份一定有其理由。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:094a652\",\n  \"node\": \"LockerDeduce8\",\n  \"text\": \"There was a reason why Steelwind was so wary of us knowing who this witness is.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::99c2a51c5b16c21d",
     "original": "And if the witness’s family was powerful,[p/] that must mean...",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果说那个证人的家族实力强大，[p/]也就意味着……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0060ab2\",\n  \"node\": \"LockerDeduce8\",\n  \"text\": \"And if the witness’s family was powerful,[p/] that must mean...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f114977b7666191",
     "original": "Tyrion: The witness has to belong to a noble family.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 证人一定是个贵族。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07ca7c7\",\n  \"node\": \"LockerDeduce9\",\n  \"text\": \"Tyrion: The witness has to belong to a noble family.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9186484191524e5f",
     "original": "Tyrion: That’s why she’s so wary of interference.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这才是她如此警惕外界干扰的原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0900e20\",\n  \"node\": \"LockerDeduce9\",\n  \"text\": \"Tyrion: That’s why she’s so wary of interference.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cdb1d8cb47ce88dd",
     "original": "CELESTE: But [i]we’re[/i] obviously not going to do anything corrupt.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 但[i]我们[/i]很明显不会去做任何腐败的事情啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fabb6e\",\n  \"node\": \"LockerDeduce9\",\n  \"text\": \"CELESTE: But [i]we’re[/i] obviously not going to do anything corrupt.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bfe2c2069caabc16",
     "original": "CELESTE: Why is she hiding the witness's identity from us?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 为什么她对我们也要隐瞒证人的身份？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01f7e1d\",\n  \"node\": \"LockerDeduce9\",\n  \"text\": \"CELESTE: Why is she hiding the witness's identity from us?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bb337b5763b6280f",
     "original": "I remember that thought I saw through the Eye.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我想起自己通过荷鲁斯之眼读到的那条想法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0849751\",\n  \"node\": \"LockerDeduce9\",\n  \"text\": \"I remember that thought I saw through the Eye.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1c760af8134e2e0b",
     "original": "ARIA: ...So regardless of what I said before,[p/] the answer is still “no”. [h=\"Her family is dangerous.\" e=\"f\" /]",
-    "translation": "",
-    "stage": 0,
+    "translation": "ARIA: ……所以说无论我之前说了什么，[p/]我的回答仍是“不行”。 [h=\"她的家族太危险了。\" e=\"f\" /]",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00fd37c\",\n  \"node\": \"LockerDeduce9\",\n  \"text\": \"ARIA: ...So regardless of what I said before,[p/] the answer is still “no”. [h=\\\"Her family is dangerous.\\\" e=\\\"f\\\" /]\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::54627791f73881b8",
     "original": "TYRION: ...She’s worried about our safety.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: ……她是在担心我们的安危。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01aa605\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"TYRION: ...She’s worried about our safety.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e6509a0aad4b7756",
     "original": "ORYM: Yeah...[p/] I guess harassing a noble could put you in danger,[p/] but—",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 有道理……[p/]我也觉得骚扰贵族会威胁到你的生命安全。[p/]然而——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bc31f8\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"ORYM: Yeah...[p/] I guess harassing a noble could put you in danger,[p/] but—\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1d8c32252fc55a8b",
     "original": "TYRION: I’m the protégé of the “infamous Ruby Tymora”.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我是那个“臭名昭著的鲁比·泰摩拉”的徒弟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bf84db\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"TYRION: I’m the protégé of the “infamous Ruby Tymora”.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::719a90b96b93705f",
     "original": "CELESTE: Yeah,[p/] it’s not as if we weren’t already on the nobility’s bad side.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 对啊。[p/]我们已经站在贵族的对立面上了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07b6f6b\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"CELESTE: Yeah,[p/] it’s not as if we weren’t already on the nobility’s bad side.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2b2dfd0eab5f11ca",
     "original": "CELESTE: I’m sure House Pierce still has it out for us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我很确信，皮尔斯家的人还在对我们虎视眈眈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0085d35\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"CELESTE: I’m sure House Pierce still has it out for us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3b9ee77036753fd0",
     "original": "Celeste: They are definitely the ones sending those rogues into your house.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 一定是他们指使那些暴徒入侵你家里的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00d1e96\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"Celeste: They are definitely the ones sending those rogues into your house.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cdb00b75063bb2f3",
     "original": "Orym: What...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 什么……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03d9076\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"Orym: What...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d80d8dae7accb008",
     "original": "Celeste: Don't worry about it.[p/] I've got it under control.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 别担心。[p/]我已经控制住局面了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:020ac4b\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"Celeste: Don't worry about it.[p/] I've got it under control.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::08e6c92196dc56ff",
     "original": "TYRION: This can only mean that the family we’re dealing with is even more powerful than House Pierce.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 这只能意味着我们要应付的贵族比皮尔斯家还要强大。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09cbb93\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"TYRION: This can only mean that the family we’re dealing with is even more powerful than House Pierce.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a1b3af72a1c5edb2",
     "original": "TYRION: If the prosecutor is wary of them,[p/] they must be as powerful as the Steelwinds.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 如果检察官都在警惕他们的话，[p/]那一定是和斯蒂尔文德家一样强大的家族。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02a0a37\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"TYRION: If the prosecutor is wary of them,[p/] they must be as powerful as the Steelwinds.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1a047764edcbccf5",
     "original": "ORYM: Wait...[p/][s/] Don’t tell me you think we’re dealing with another one of the Four Pillars?",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 等下……[p/][s/]别告诉我我们是在和另一个四大支柱家族作对？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b207bb\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"ORYM: Wait...[p/][s/] Don’t tell me you think we’re dealing with another one of the Four Pillars?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::340d9b84cf3e6608",
     "original": "CELESTE: I have to ask about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 这我必须得问一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e169d2\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"CELESTE: I have to ask about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::46ffeac151dac7fc",
     "original": "Celeste: I always hear you and Ruby say it a lot,[p/] but who [i]are[/i] the “Four Pillars”?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste:我经常听到你和鲁比提到，[p/]但这个“四大支柱家族”到底[i]是[/i]谁？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05fe57c\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"Celeste: I always hear you and Ruby say it a lot,[p/] but who [i]are[/i] the “Four Pillars”?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06d0a8bb4f7d7193",
     "original": "TYRION: It’s a name people use for the four most powerful noble houses.[p/] They're led by the Dukes and Duchesses.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 是目前顶尖四大贵族的一个总称。[p/]他们受公爵们的领导。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01575c1\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"TYRION: It’s a name people use for the four most powerful noble houses.[p/] They're led by the Dukes and Duchesses.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3cb028494616904d",
     "original": "TYRION: House Frega,[p/] House von Sanctus,[p/] House Sibyl,[p/] and, of course, House Steelwind—[p/]the four of them stand at the top of Wyverngarde's hierarchy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 弗雷加、[p/]冯·桑克图斯、[p/]希比尔、[p/]当然还有斯蒂尔文德——[p/]他们四家位于整个维文加德等级体系的顶端。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0325ec3\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"TYRION: House Frega,[p/] House von Sanctus,[p/] House Sibyl,[p/] and, of course, House Steelwind—[p/]the four of them stand at the top of Wyverngarde's hierarchy.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a9469fd73380a23d",
     "original": "Celeste: So Steelwind [i]is[/i] one of them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 所以斯蒂尔文德[i]就是[/i]其中一员。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:084b1ef\",\n  \"node\": \"LockerDeduce10\",\n  \"text\": \"Celeste: So Steelwind [i]is[/i] one of them.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3f340155ae1f1501",
     "original": "ORYM: Hm...",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 嗯……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eccca2\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"ORYM: Hm...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b85cbe1dd9293764",
     "original": "ORYM: Steelwind's paranoia all started after she investigated this room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 斯蒂尔文德在调查完这个房间之后就开始神经兮兮的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b11f6\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"ORYM: Steelwind's paranoia all started after she investigated this room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5eb6d758ddc9a6b8",
     "original": "ORYM: We were at the crime scene,[p/] and she left to follow a lead...",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 我们当时都在案发现场，[p/]她却独自去调查一个线索……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a6267\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"ORYM: We were at the crime scene,[p/] and she left to follow a lead...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::47aaf6ea08dc42ea",
     "original": "ORYM: But an hour later,[p/] she came back to the lecture hall and basically booted everyone out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 但一小时后，[p/]她回到了讲堂，把我们都轰出去了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02907c8\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"ORYM: But an hour later,[p/] she came back to the lecture hall and basically booted everyone out.\"\n}"
   },
   {

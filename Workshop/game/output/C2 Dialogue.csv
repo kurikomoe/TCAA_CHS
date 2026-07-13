@@ -4593,7 +4593,7 @@ line:06b8c0e,Library_Talk,ARIA: I have no obligation to justify myself to you.,A
 line:0d33c07,Library_Talk,ARIA: Nor do I have an obligation to help the opposition.,ARIA: 我也没有帮助对手的职责。
 line:06a3888,Library_Talk,TYRION: Didn’t we have a deal?[p/] Hiding information doesn’t exactly seem fair to us.,TYRION: 我们不是约定交易了吗？[p/]隐瞒情报对我们不公平。
 line:0a3cbb6,Library_Talk,ARIA: I believe I’ve given you plenty of information already.,ARIA: 我觉得我已经告诉你很多情报了。
-line:0c2dc83,Library_Talk,"ARIA: ...So regardless of what I said before,[p/] the answer is still “no”. [h=""Her family is dangerous."" e=""f""/]","ARIA: ……所以说无论我之前说了什么，[p/]我的回答仍是“不行”。 [h=""她的家族太危险了。"" e=""f""/]"
+line:0c2dc83,Library_Talk,"ARIA: ...So regardless of what I said before,[p/] the answer is still “no”. [h=""Her family is dangerous."" e=""f""/]","ARIA: ……所以说无论我之前说了什么，[p/]我的回答仍是“不行”。 [h=""她的家族太危险了。"" e=""f"" /]"
 line:09bffff,Library_Talk,The Eye of Horus caught a stray thought from her.,荷鲁斯之眼捕捉到了她脑海中飘过的一个念头。
 line:0bbb916,Library_Talk,“[i]Her[/i] family is dangerous”?[p/] What did she mean by that?,“[i]她[/i]的家族太危险了”？[p/]这是什么意思？
 line:087cfd2,Library_Talk,TYRION: Is there something about this witness’s family that you’re worried about?,TYRION: 你是在顾虑这个证人的家族势力吗？
@@ -5020,48 +5020,48 @@ line:05780b0,LockerDeduce5,TYRION: I don’t think personal trust is the reason.
 line:0cc4de5,LockerDeduce5,"TYRION: We don't usually interact with her,[p/] and she’s worked with the Inquisition on plenty of cases that we weren’t even involved in.",TYRION: 我们和她的交往并不算多，[p/]但她跟裁判所合作解决过不知多少起案子了。那些案子我们甚至都没参与过。
 line:0ec1ba6,LockerDeduce6,0000,
 line:03d410b,LockerDeduce6,Fail,
-line:07b23ac,LockerDeduce6,No...[p/] There was a key difference between us and the Inquisition.,
-line:014710a,LockerDeduce6,"We didn't answer to anyone,[p/] and we weren't subject to corruption from the nobility.",
-line:0da1d98,LockerDeduce6,So why would that make Steelwind trust us this time around?,
-line:0723d83,LockerDeduce7,Tyrion: Steelwind doesn’t know much about us.,
-line:0154b90,LockerDeduce7,Tyrion: But she [i]does[/i] know that we aren’t prone to noble corruption.,
-line:0e5e73f,LockerDeduce7,CELESTE: Right...[p/] You [i]did[/i] just indict a noble last week.,
-line:07b2126,LockerDeduce7,"TYRION: Meanwhile,[p/] the Inquisition usually bends to the nobility’s whims.",
-line:04c0145,LockerDeduce7,ORYM: Can’t argue with you there.,
-line:003691a,LockerDeduce7,"TYRION: Using my[p/] intuition,[p/] I could tell that she’s worried about the witness’s family.",
-line:0f06482,LockerDeduce7,"TYRION: And if she’s worried about corruption from the nobility,[p/] that can only mean one thing.",
+line:07b23ac,LockerDeduce6,No...[p/] There was a key difference between us and the Inquisition.,并非如此……[p/]我们和裁判所之间只有一个关键区别的。
+line:014710a,LockerDeduce6,"We didn't answer to anyone,[p/] and we weren't subject to corruption from the nobility.",我们没有听命于谁，[p/]也不受贵族腐化的影响。
+line:0da1d98,LockerDeduce6,So why would that make Steelwind trust us this time around?,那为什么斯蒂尔文德这次选择相信我们？
+line:0723d83,LockerDeduce7,Tyrion: Steelwind doesn’t know much about us.,Tyrion: 斯蒂尔文德虽然对我们了解不多。
+line:0154b90,LockerDeduce7,Tyrion: But she [i]does[/i] know that we aren’t prone to noble corruption.,Tyrion: 但她[i]确实[/i]知道我们不会被腐败贵族影响。
+line:0e5e73f,LockerDeduce7,CELESTE: Right...[p/] You [i]did[/i] just indict a noble last week.,CELESTE: 是哦……[p/]你上周[i]才[/i]让一个贵族被判有罪。
+line:07b2126,LockerDeduce7,"TYRION: Meanwhile,[p/] the Inquisition usually bends to the nobility’s whims.",TYRION: 与此同时，[p/]裁判所通常对贵族卑躬屈膝。
+line:04c0145,LockerDeduce7,ORYM: Can’t argue with you there.,ORYM: 没法驳斥你啊。
+line:003691a,LockerDeduce7,"TYRION: Using my[p/] intuition,[p/] I could tell that she’s worried about the witness’s family.",TYRION: 以我的[p/]直觉，[p/]她应该因证人的家庭背景而有所顾虑。
+line:0f06482,LockerDeduce7,"TYRION: And if she’s worried about corruption from the nobility,[p/] that can only mean one thing.",TYRION: 如果她在担心贵族可能导致的司法腐败，[p/]那就只能意味着一件事。
 line:0d0b457,LockerDeduce8,000|020,
 line:0b78b12,LockerDeduce8,Fail,
-line:042d795,LockerDeduce8,No...[p/] We weren't controlled by the nobility.,
-line:094a652,LockerDeduce8,There was a reason why Steelwind was so wary of us knowing who this witness is.,
-line:0060ab2,LockerDeduce8,"And if the witness’s family was powerful,[p/] that must mean...",
-line:07ca7c7,LockerDeduce9,Tyrion: The witness has to belong to a noble family.,
-line:0900e20,LockerDeduce9,Tyrion: That’s why she’s so wary of interference.,
-line:0fabb6e,LockerDeduce9,CELESTE: But [i]we’re[/i] obviously not going to do anything corrupt.,
-line:01f7e1d,LockerDeduce9,CELESTE: Why is she hiding the witness's identity from us?,
-line:0849751,LockerDeduce9,I remember that thought I saw through the Eye.,
-line:00fd37c,LockerDeduce9,"ARIA: ...So regardless of what I said before,[p/] the answer is still “no”. [h=""Her family is dangerous."" e=""f"" /]",
-line:01aa605,LockerDeduce10,TYRION: ...She’s worried about our safety.,
-line:0bc31f8,LockerDeduce10,"ORYM: Yeah...[p/] I guess harassing a noble could put you in danger,[p/] but—",
-line:0bf84db,LockerDeduce10,TYRION: I’m the protégé of the “infamous Ruby Tymora”.,
-line:07b6f6b,LockerDeduce10,"CELESTE: Yeah,[p/] it’s not as if we weren’t already on the nobility’s bad side.",
-line:0085d35,LockerDeduce10,CELESTE: I’m sure House Pierce still has it out for us.,
-line:00d1e96,LockerDeduce10,Celeste: They are definitely the ones sending those rogues into your house.,
-line:03d9076,LockerDeduce10,Orym: What...?,
-line:020ac4b,LockerDeduce10,Celeste: Don't worry about it.[p/] I've got it under control.,
-line:09cbb93,LockerDeduce10,TYRION: This can only mean that the family we’re dealing with is even more powerful than House Pierce.,
-line:02a0a37,LockerDeduce10,"TYRION: If the prosecutor is wary of them,[p/] they must be as powerful as the Steelwinds.",
-line:0b207bb,LockerDeduce10,ORYM: Wait...[p/][s/] Don’t tell me you think we’re dealing with another one of the Four Pillars?,
-line:0e169d2,LockerDeduce10,CELESTE: I have to ask about that.,
-line:05fe57c,LockerDeduce10,"Celeste: I always hear you and Ruby say it a lot,[p/] but who [i]are[/i] the “Four Pillars”?",
-line:01575c1,LockerDeduce10,TYRION: It’s a name people use for the four most powerful noble houses.[p/] They're led by the Dukes and Duchesses.,
-line:0325ec3,LockerDeduce10,"TYRION: House Frega,[p/] House von Sanctus,[p/] House Sibyl,[p/] and, of course, House Steelwind—[p/]the four of them stand at the top of Wyverngarde's hierarchy.",
-line:084b1ef,LockerDeduce10,Celeste: So Steelwind [i]is[/i] one of them.,
-line:0eccca2,LockerDeduce11,ORYM: Hm...,
+line:042d795,LockerDeduce8,No...[p/] We weren't controlled by the nobility.,不是这样……[p/]我们并不受贵族的控制。
+line:094a652,LockerDeduce8,There was a reason why Steelwind was so wary of us knowing who this witness is.,斯蒂尔文德如此警惕我们知晓证人身份一定有其理由。
+line:0060ab2,LockerDeduce8,"And if the witness’s family was powerful,[p/] that must mean...",如果说那个证人的家族实力强大，[p/]也就意味着……
+line:07ca7c7,LockerDeduce9,Tyrion: The witness has to belong to a noble family.,Tyrion: 证人一定是个贵族。
+line:0900e20,LockerDeduce9,Tyrion: That’s why she’s so wary of interference.,Tyrion: 这才是她如此警惕外界干扰的原因。
+line:0fabb6e,LockerDeduce9,CELESTE: But [i]we’re[/i] obviously not going to do anything corrupt.,CELESTE: 但[i]我们[/i]很明显不会去做任何腐败的事情啊。
+line:01f7e1d,LockerDeduce9,CELESTE: Why is she hiding the witness's identity from us?,CELESTE: 为什么她对我们也要隐瞒证人的身份？
+line:0849751,LockerDeduce9,I remember that thought I saw through the Eye.,我想起自己通过荷鲁斯之眼读到的那条想法。
+line:00fd37c,LockerDeduce9,"ARIA: ...So regardless of what I said before,[p/] the answer is still “no”. [h=""Her family is dangerous."" e=""f"" /]","ARIA: ……所以说无论我之前说了什么，[p/]我的回答仍是“不行”。 [h=""她的家族太危险了。"" e=""f"" /]"
+line:01aa605,LockerDeduce10,TYRION: ...She’s worried about our safety.,TYRION: ……她是在担心我们的安危。
+line:0bc31f8,LockerDeduce10,"ORYM: Yeah...[p/] I guess harassing a noble could put you in danger,[p/] but—",ORYM: 有道理……[p/]我也觉得骚扰贵族会威胁到你的生命安全。[p/]然而——
+line:0bf84db,LockerDeduce10,TYRION: I’m the protégé of the “infamous Ruby Tymora”.,TYRION: 我是那个“臭名昭著的鲁比·泰摩拉”的徒弟。
+line:07b6f6b,LockerDeduce10,"CELESTE: Yeah,[p/] it’s not as if we weren’t already on the nobility’s bad side.",CELESTE: 对啊。[p/]我们已经站在贵族的对立面上了。
+line:0085d35,LockerDeduce10,CELESTE: I’m sure House Pierce still has it out for us.,CELESTE: 我很确信，皮尔斯家的人还在对我们虎视眈眈。
+line:00d1e96,LockerDeduce10,Celeste: They are definitely the ones sending those rogues into your house.,Celeste: 一定是他们指使那些暴徒入侵你家里的。
+line:03d9076,LockerDeduce10,Orym: What...?,Orym: 什么……？
+line:020ac4b,LockerDeduce10,Celeste: Don't worry about it.[p/] I've got it under control.,Celeste: 别担心。[p/]我已经控制住局面了。
+line:09cbb93,LockerDeduce10,TYRION: This can only mean that the family we’re dealing with is even more powerful than House Pierce.,TYRION: 这只能意味着我们要应付的贵族比皮尔斯家还要强大。
+line:02a0a37,LockerDeduce10,"TYRION: If the prosecutor is wary of them,[p/] they must be as powerful as the Steelwinds.",TYRION: 如果检察官都在警惕他们的话，[p/]那一定是和斯蒂尔文德家一样强大的家族。
+line:0b207bb,LockerDeduce10,ORYM: Wait...[p/][s/] Don’t tell me you think we’re dealing with another one of the Four Pillars?,ORYM: 等下……[p/][s/]别告诉我我们是在和另一个四大支柱家族作对？！
+line:0e169d2,LockerDeduce10,CELESTE: I have to ask about that.,CELESTE: 这我必须得问一下。
+line:05fe57c,LockerDeduce10,"Celeste: I always hear you and Ruby say it a lot,[p/] but who [i]are[/i] the “Four Pillars”?",Celeste:我经常听到你和鲁比提到，[p/]但这个“四大支柱家族”到底[i]是[/i]谁？
+line:01575c1,LockerDeduce10,TYRION: It’s a name people use for the four most powerful noble houses.[p/] They're led by the Dukes and Duchesses.,TYRION: 是目前顶尖四大贵族的一个总称。[p/]他们受公爵们的领导。
+line:0325ec3,LockerDeduce10,"TYRION: House Frega,[p/] House von Sanctus,[p/] House Sibyl,[p/] and, of course, House Steelwind—[p/]the four of them stand at the top of Wyverngarde's hierarchy.",TYRION: 弗雷加、[p/]冯·桑克图斯、[p/]希比尔、[p/]当然还有斯蒂尔文德——[p/]他们四家位于整个维文加德等级体系的顶端。
+line:084b1ef,LockerDeduce10,Celeste: So Steelwind [i]is[/i] one of them.,Celeste: 所以斯蒂尔文德[i]就是[/i]其中一员。
+line:0eccca2,LockerDeduce11,ORYM: Hm...,ORYM: 嗯……
 line:019e0ec,LockerDeduce11,TYRION: What is it?,TYRION: 怎么了？
-line:05b11f6,LockerDeduce11,ORYM: Steelwind's paranoia all started after she investigated this room.,
-line:07a6267,LockerDeduce11,"ORYM: We were at the crime scene,[p/] and she left to follow a lead...",
-line:02907c8,LockerDeduce11,"ORYM: But an hour later,[p/] she came back to the lecture hall and basically booted everyone out.",
+line:05b11f6,LockerDeduce11,ORYM: Steelwind's paranoia all started after she investigated this room.,ORYM: 斯蒂尔文德在调查完这个房间之后就开始神经兮兮的。
+line:07a6267,LockerDeduce11,"ORYM: We were at the crime scene,[p/] and she left to follow a lead...",ORYM: 我们当时都在案发现场，[p/]她却独自去调查一个线索……
+line:02907c8,LockerDeduce11,"ORYM: But an hour later,[p/] she came back to the lecture hall and basically booted everyone out.",ORYM: 但一小时后，[p/]她回到了讲堂，把我们都轰出去了。
 line:00b8f18,LockerDeduce11,TYRION: Her behaviour changed [i]after[/i] investigating this room...,
 line:02a841b,LockerDeduce11,TYRION: That means that she found something here...,
 line:0a103fa,LockerDeduce11,CELESTE: And that “something” must point to a family from the four pillars!,
