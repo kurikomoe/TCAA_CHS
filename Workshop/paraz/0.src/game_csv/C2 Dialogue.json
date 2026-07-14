@@ -32552,253 +32552,253 @@
   {
     "key": "C2 Dialogue.csv::translation::6a8a41055a27f753",
     "original": "ORYM: But you two,[p/] on the other hand...",
-    "translation": "",
-    "stage": 0,
+    "translation": "ORYM: 但你们俩，[p/]就另当别论……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04506ba\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"ORYM: But you two,[p/] on the other hand...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::212440ce603e7415",
     "original": "TYRION: Don’t worry.[p/] Just leave it to us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 别担心，[p/]交给我们吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c6bda6\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"TYRION: Don’t worry.[p/] Just leave it to us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::20b36578c8ff2063",
     "original": "Orym: I have some school records that say which locker belongs to which student.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 我这有学校记录，写明这些储物柜属于哪些学生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02f0e07\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"Orym: I have some school records that say which locker belongs to which student.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::78ff8664af5cd371",
     "original": "Orym: You can use it to tell whose locker you're looking at.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Orym: 你可以用这个来分辨要找的储物柜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05cc541\",\n  \"node\": \"LockerDeduce11\",\n  \"text\": \"Orym: You can use it to tell whose locker you're looking at.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::086ef88a4eb96145",
     "original": "CELESTE: We found...[p/] a few things.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 我们发现了……[p/]一些东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0accfc7\",\n  \"node\": \"AfterLockerDeduce\",\n  \"text\": \"CELESTE: We found...[p/] a few things.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::16b5d96d4660d461",
     "original": "CELESTE: But I can’t really make sense of any of it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 但我就是想不通。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0678454\",\n  \"node\": \"AfterLockerDeduce\",\n  \"text\": \"CELESTE: But I can’t really make sense of any of it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::09d38e4f35334c13",
     "original": "TYRION: We should look at this from the prosecutor’s perspective.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我们应该从检察官的角度来思考这件事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02d6d8e\",\n  \"node\": \"AfterLockerDeduce\",\n  \"text\": \"TYRION: We should look at this from the prosecutor’s perspective.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::24d5b18f26999d5d",
     "original": "TYRION: Steelwind found something in one of the lockers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 斯蒂尔文德在某个储物柜里找到了什么东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0607da7\",\n  \"node\": \"AfterLockerDeduce\",\n  \"text\": \"TYRION: Steelwind found something in one of the lockers.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::05bb591b63c3e33c",
     "original": "TYRION: And whatever that was,[p/] it made her extremely paranoid.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 无论那是什么，[p/]都导致她开始极度疑神疑鬼。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0583f11\",\n  \"node\": \"AfterLockerDeduce\",\n  \"text\": \"TYRION: And whatever that was,[p/] it made her extremely paranoid.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::43b1fc32a7e89ffc",
     "original": "No...[p/] We found some strange things in each of the lockers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不对……[p/]我们在这几个储物柜里都找了奇怪的东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00cee5b\",\n  \"node\": \"AfterLockerDeduce2\",\n  \"text\": \"No...[p/] We found some strange things in each of the lockers.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7d9ddd2031428c75",
     "original": "But there was something we found that was extremely suspicious,[p/] no matter how I looked at it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但有一处，[p/]不管怎么看都是格外可疑的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d8c8a9\",\n  \"node\": \"AfterLockerDeduce2\",\n  \"text\": \"But there was something we found that was extremely suspicious,[p/] no matter how I looked at it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::32533b123f2f7d2b",
     "original": "CELESTE: We found some insanely suspicious things in Frega’s locker.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 弗雷加的储物柜里的东西极其可疑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03d90af\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"CELESTE: We found some insanely suspicious things in Frega’s locker.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6720edc6cbbefee9",
     "original": "CELESTE: It had Wallace’s notebooks and even some blood.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 里面有华莱士的笔记本，甚至有些血迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02b54f9\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"CELESTE: It had Wallace’s notebooks and even some blood.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f02204dac250ac46",
     "original": "TYRION: But that blood is certainly strange.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但那血迹很奇怪。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:066ad87\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"TYRION: But that blood is certainly strange.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ef3425680e423119",
     "original": "Tyrion: It implies that something bloody was stored there.[p/] It could only be the murder weapon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 它说明有某个沾了鲜血的东西曾存放在此，[p/]也只可能是凶器本身。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c65a4a\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"Tyrion: It implies that something bloody was stored there.[p/] It could only be the murder weapon.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e539ca86e62f9252",
     "original": "CELESTE: Do you think someone stole it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 你是觉得有人把它偷走了吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01eac9b\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"CELESTE: Do you think someone stole it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::81f0341595708148",
     "original": "TYRION: No, actually.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 并不是。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d62140\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"TYRION: No, actually.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fafa7d5d9e65faf2",
     "original": "TYRION: I think it was Steelwind who took it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我认为是斯蒂尔文德把它拿走的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e2f218\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"TYRION: I think it was Steelwind who took it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b3f58c5617cdb100",
     "original": "CELESTE: Oh, right.[p/] Orym mentioned that she investigated this room.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 哦，对了。[p/]奥蒙提到过她调查了这个房间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07f3091\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"CELESTE: Oh, right.[p/] Orym mentioned that she investigated this room.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b02b1125afd88698",
     "original": "CELESTE: She must have taken the murder weapon as evidence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 她肯定要把凶器作为证据带走的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d3abef\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"CELESTE: She must have taken the murder weapon as evidence.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::652e264e6a35e852",
     "original": "TYRION: But with that said,[p/] there’s something else that’s strange about Miriam Frega’s locker.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但除此之外，[p/]米莉亚姆·弗雷加的储物柜还有其他奇怪的地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f7f5d7\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"TYRION: But with that said,[p/] there’s something else that’s strange about Miriam Frega’s locker.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e948c0e6d014f8fd",
     "original": "Tyrion: It had a [i]lot[/i] of Wallace’s possessions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 里面有[i]不少[/i]华莱士的私人物品。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a3417e\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"Tyrion: It had a [i]lot[/i] of Wallace’s possessions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2cb1f8d330975721",
     "original": "Tyrion: It’s possible that she really did steal these items from him,[p/] but it's more likely that this locker isn't actually hers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 有可能真是她从华莱士那里偷来的，[p/]但更可能是这储物柜就不是她的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e0da82\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"Tyrion: It’s possible that she really did steal these items from him,[p/] but it's more likely that this locker isn't actually hers.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5c164ea043a710eb",
     "original": "Tyrion: Remember what Wallace told us before?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 还记得华莱士之前和我们说的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c46c27\",\n  \"node\": \"AfterLockerDeduce3\",\n  \"text\": \"Tyrion: Remember what Wallace told us before?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::51c7074bfbcfb263",
     "original": "WALLACE: Sometimes the other students would steal the id number off my locker and switch it with another student's.",
-    "translation": "",
-    "stage": 0,
+    "translation": "WALLACE: 有时候其他学生会把我储物柜上的名牌偷走，然后和其他人的对调。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a34e9\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"WALLACE: Sometimes the other students would steal the id number off my locker and switch it with another student's.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dc182257249d845d",
     "original": "CELESTE: So, someone switched the nameplates?",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 所以说，是某人交换了名牌？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00f16ec\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"CELESTE: So, someone switched the nameplates?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6bc3814e70f0f27c",
     "original": "TYRION: This means that this [i]isn’t[/i] Miriam Frega’s locker.[p/] It’s Wallace’s.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 也就是说这[i]并非[/]i是米莉亚姆·弗雷加的储物柜，[p/]而是华莱士的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:091addc\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"TYRION: This means that this [i]isn’t[/i] Miriam Frega’s locker.[p/] It’s Wallace’s.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b846252a9dfa4543",
     "original": "CELESTE: But that would mean that the bloody object came from [i]Wallace’s[/i] locker!",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 但这就意味着那件染血的物体来自华莱士的储物柜！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01e80e1\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"CELESTE: But that would mean that the bloody object came from [i]Wallace’s[/i] locker!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f243dd6f818f41b1",
     "original": "TYRION: It appears so...",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 看来是的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03497f1\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"TYRION: It appears so...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ff3323b2c6155749",
     "original": "TYRION: But if that’s true,[p/] why didn't Steelwind present the bloody item during the trial?",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 但如果这是真的，[p/]为什么斯蒂尔文德不把那件染血的物品向法庭出示呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e20308\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"TYRION: But if that’s true,[p/] why didn't Steelwind present the bloody item during the trial?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7af1d6f3734f3de3",
     "original": "Tyrion: I [i]proved[/i] that Bellwether was wounded before Valerie healed her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我[i]证明[/]i了贝尔维瑟在瓦莱丽治疗她之前受了伤。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07f7332\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"Tyrion: I [i]proved[/i] that Bellwether was wounded before Valerie healed her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5f8eac46949cffd",
     "original": "Tyrion: Wouldn’t that have been the perfect time to present what she found?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那时候不是提交这份证据的完美时机吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f889bc\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"Tyrion: Wouldn’t that have been the perfect time to present what she found?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3a49f212cb6cbbeb",
     "original": "Tyrion: It was a bloody item found in the [i]defendant’s[/i] locker, after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 毕竟这可是在[i]被告的[/]i储物柜中找到的染血物品。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:059eea4\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"Tyrion: It was a bloody item found in the [i]defendant’s[/i] locker, after all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d9e39ce89163259f",
     "original": "CELESTE: Right...[p/] That [i]is[/i] weird.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 对哦……[p/]这[i]确实[/i]挺奇怪的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06dad8b\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"CELESTE: Right...[p/] That [i]is[/i] weird.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::83ce9184c435afa4",
     "original": "There was something more to this that I wasn’t seeing,[p/] but what?",
-    "translation": "",
-    "stage": 0,
+    "translation": "这件事背后还藏着什么玄机，[p/]但到底是是什么呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cd44f6\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"There was something more to this that I wasn’t seeing,[p/] but what?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::18b9d1e44ec65cec",
     "original": "TYRION: I think we’ll just have to ask Steelwind ourselves.",
-    "translation": "",
-    "stage": 0,
+    "translation": "TYRION: 我觉得我们得亲自找斯蒂尔文德谈谈了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00537f3\",\n  \"node\": \"AfterLockerDeduce4\",\n  \"text\": \"TYRION: I think we’ll just have to ask Steelwind ourselves.\"\n}"
   },
   {
@@ -32811,127 +32811,127 @@
   {
     "key": "C2 Dialogue.csv::translation::4afdeef735891b3f",
     "original": "Tyrion: It's a statue of some sort of scientist.[p/] There's some writing below it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 某位科学家的雕像。[p/]底下有几行文字。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03277ee\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: It's a statue of some sort of scientist.[p/] There's some writing below it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9e34ba835dca95a0",
     "original": "Tyrion: \"Gillian Kemnitz:[p/] the inventor of early artificery.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “Gillian Kemnitz，[p/]初期奥术能源的发明者。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b4f81a\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: \\\"Gillian Kemnitz:[p/] the inventor of early artificery.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::04f061ac32a952d8",
     "original": "Celeste: Artificery is really impressive, isn't it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 奥术能源真是了不起啊，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0da1fb1\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Celeste: Artificery is really impressive, isn't it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d8313e23b9dabde0",
     "original": "Celeste: It lets anyone use magic [i]without[/i] having noble blood.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 它让[i]没有[/i]贵族血脉的人也能使用魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06a1932\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Celeste: It lets anyone use magic [i]without[/i] having noble blood.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::716d5b2413094947",
     "original": "Although the expenses of owning artificery presented their own barrier...",
-    "translation": "",
-    "stage": 0,
+    "translation": "虽然说拥有奥术能源的花费本身就设置了门槛……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f5fe8a\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Although the expenses of owning artificery presented their own barrier...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ad6d4a1c3e091441",
     "original": "Celeste: This statue's kind of weird, though.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 不过这雕像本身感觉也有点奇怪就是了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00cf291\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Celeste: This statue's kind of weird, though.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::33b4e5e72b829995",
     "original": "Celeste: It kind of looks like he doesn't even want to be here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 看起来他并不想待在这里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082494c\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Celeste: It kind of looks like he doesn't even want to be here.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::68134815e5f3fd85",
     "original": "Tyrion: It's a painting of a man with some sort of creature on his arm.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一幅描绘了手臂上附着某种生物的男士的画。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fdb2ce\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: It's a painting of a man with some sort of creature on his arm.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a3848a4a12e6d357",
     "original": "Tyrion: \"Doctor Delbit Taphoros: a mage,[p/] historian,[p/] archeologist,[p/] anthropologist,[p/] and botanist.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “Delbit Taphoros 博士：一位法师，[p/]历史学家，[p/]考古学家，[p/]人类学家，[p/]以及植物学家。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a4e190\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: \\\"Doctor Delbit Taphoros: a mage,[p/] historian,[p/] archeologist,[p/] anthropologist,[p/] and botanist.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::930c0cef5abe6dfa",
     "original": "Tyrion: \"Best known for his work in studying the history of the ancient dragons.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “因其关于古龙历史的研究工作而广为人知。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06429d0\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: \\\"Best known for his work in studying the history of the ancient dragons.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4dcb3bf02acc61a7",
     "original": "Tyrion: \"Through his work,[p/] great leaps were made in the study and development of the school of [b]evocation[/b].\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “多亏他的努力，[p/]关于[b]塑能术[/b]的研究与发展得到巨大的飞跃。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:082575e\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: \\\"Through his work,[p/] great leaps were made in the study and development of the school of [b]evocation[/b].\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::26cd9b7888179bbd",
     "original": "Tyrion: \"On his arm is one of the last pseudodragons,[p/] which are now extinct.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “他手臂上的是最后几只伪龙之一，[p/]现在这一物种已经灭绝。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:070b639\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: \\\"On his arm is one of the last pseudodragons,[p/] which are now extinct.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dba4b4aa8f802456",
     "original": "Tyrion: It's a painting of a professor with some kind of magical tool.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 一幅描绘了教授与某种魔法工具的画。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00e7ad2\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: It's a painting of a professor with some kind of magical tool.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::95907c78d7c11fd8",
     "original": "Tyrion: There's some text under it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 下面写着什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0715acb\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: There's some text under it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::28186944a126da8d",
     "original": "Tyrion: \"Doctor Paul Vuorela:[p/] also known as the Archeologist of the North.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “Paul Vuorela 博士，[p/]别名北境考古学家。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cec7ce\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: \\\"Doctor Paul Vuorela:[p/] also known as the Archeologist of the North.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2d22919242d558fc",
     "original": "Tyrion: \"He spent many years studying and exploring the mountainous regions of Shardalon.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “多年来他专注于舍达隆山区的研究与探索工作。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08bcc89\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: \\\"He spent many years studying and exploring the mountainous regions of Shardalon.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8975970c947c5dee",
     "original": "Tyrion: \"And through his investigation,[p/] he came upon one of the many lairs of the Scaled Lord.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “通过调查，[p/]他偶然发现了鳞甲领主的众多巢穴之一。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07beabe\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: \\\"And through his investigation,[p/] he came upon one of the many lairs of the Scaled Lord.\\\"\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1ec2704b59095cb4",
     "original": "Tyrion: \"He was honored both by the Church [i]and[/i] the Wyverngarde Historical Society for this impressive discovery.\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “因这项令人赞叹的发现，他同时获得了教会[i]以及[/i]王国历史学会的奖励。”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e863a0\",\n  \"node\": \"SchoolFoyer1_Examine\",\n  \"text\": \"Tyrion: \\\"He was honored both by the Church [i]and[/i] the Wyverngarde Historical Society for this impressive discovery.\\\"\"\n}"
   },
   {

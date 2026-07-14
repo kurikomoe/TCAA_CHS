@@ -5068,66 +5068,66 @@ line:0a103fa,LockerDeduce11,CELESTE: And that “something” must point to a fa
 line:046d77a,LockerDeduce11,ORYM: ...,ORYM: ……
 line:0265a2d,LockerDeduce11,The commander shifted slightly.,指挥官稍稍让开了一点。
 line:08dab64,LockerDeduce11,ORYM: You know...[p/] Steelwind’s orders say [i]I[/i] can’t snoop around here.,ORYM: 你也知道……[p/]斯蒂尔文德的命令有提到[i]我[/i]不能搜索这里。
-line:04506ba,LockerDeduce11,"ORYM: But you two,[p/] on the other hand...",
-line:0c6bda6,LockerDeduce11,TYRION: Don’t worry.[p/] Just leave it to us.,
-line:02f0e07,LockerDeduce11,Orym: I have some school records that say which locker belongs to which student.,
-line:05cc541,LockerDeduce11,Orym: You can use it to tell whose locker you're looking at.,
-line:0accfc7,AfterLockerDeduce,CELESTE: We found...[p/] a few things.,
-line:0678454,AfterLockerDeduce,CELESTE: But I can’t really make sense of any of it.,
-line:02d6d8e,AfterLockerDeduce,TYRION: We should look at this from the prosecutor’s perspective.,
-line:0607da7,AfterLockerDeduce,TYRION: Steelwind found something in one of the lockers.,
-line:0583f11,AfterLockerDeduce,"TYRION: And whatever that was,[p/] it made her extremely paranoid.",
+line:04506ba,LockerDeduce11,"ORYM: But you two,[p/] on the other hand...",ORYM: 但你们俩，[p/]就另当别论……
+line:0c6bda6,LockerDeduce11,TYRION: Don’t worry.[p/] Just leave it to us.,TYRION: 别担心，[p/]交给我们吧。
+line:02f0e07,LockerDeduce11,Orym: I have some school records that say which locker belongs to which student.,Orym: 我这有学校记录，写明这些储物柜属于哪些学生。
+line:05cc541,LockerDeduce11,Orym: You can use it to tell whose locker you're looking at.,Orym: 你可以用这个来分辨要找的储物柜。
+line:0accfc7,AfterLockerDeduce,CELESTE: We found...[p/] a few things.,CELESTE: 我们发现了……[p/]一些东西。
+line:0678454,AfterLockerDeduce,CELESTE: But I can’t really make sense of any of it.,CELESTE: 但我就是想不通。
+line:02d6d8e,AfterLockerDeduce,TYRION: We should look at this from the prosecutor’s perspective.,TYRION: 我们应该从检察官的角度来思考这件事。
+line:0607da7,AfterLockerDeduce,TYRION: Steelwind found something in one of the lockers.,TYRION: 斯蒂尔文德在某个储物柜里找到了什么东西。
+line:0583f11,AfterLockerDeduce,"TYRION: And whatever that was,[p/] it made her extremely paranoid.",TYRION: 无论那是什么，[p/]都导致她开始极度疑神疑鬼。
 line:01a98bc,AfterLockerDeduce2,0,
 line:0f6ce17,AfterLockerDeduce2,Fail,
-line:00cee5b,AfterLockerDeduce2,No...[p/] We found some strange things in each of the lockers.,
-line:0d8c8a9,AfterLockerDeduce2,"But there was something we found that was extremely suspicious,[p/] no matter how I looked at it.",
-line:03d90af,AfterLockerDeduce3,CELESTE: We found some insanely suspicious things in Frega’s locker.,
-line:02b54f9,AfterLockerDeduce3,CELESTE: It had Wallace’s notebooks and even some blood.,
-line:066ad87,AfterLockerDeduce3,TYRION: But that blood is certainly strange.,
-line:0c65a4a,AfterLockerDeduce3,Tyrion: It implies that something bloody was stored there.[p/] It could only be the murder weapon.,
-line:01eac9b,AfterLockerDeduce3,CELESTE: Do you think someone stole it?,
-line:0d62140,AfterLockerDeduce3,"TYRION: No, actually.",
-line:0e2f218,AfterLockerDeduce3,TYRION: I think it was Steelwind who took it.,
-line:07f3091,AfterLockerDeduce3,"CELESTE: Oh, right.[p/] Orym mentioned that she investigated this room.",
-line:0d3abef,AfterLockerDeduce3,CELESTE: She must have taken the murder weapon as evidence.,
-line:0f7f5d7,AfterLockerDeduce3,"TYRION: But with that said,[p/] there’s something else that’s strange about Miriam Frega’s locker.",
-line:0a3417e,AfterLockerDeduce3,Tyrion: It had a [i]lot[/i] of Wallace’s possessions.,
-line:0e0da82,AfterLockerDeduce3,"Tyrion: It’s possible that she really did steal these items from him,[p/] but it's more likely that this locker isn't actually hers.",
-line:0c46c27,AfterLockerDeduce3,Tyrion: Remember what Wallace told us before?,
-line:00a34e9,AfterLockerDeduce4,WALLACE: Sometimes the other students would steal the id number off my locker and switch it with another student's.,
+line:00cee5b,AfterLockerDeduce2,No...[p/] We found some strange things in each of the lockers.,不对……[p/]我们在这几个储物柜里都找了奇怪的东西。
+line:0d8c8a9,AfterLockerDeduce2,"But there was something we found that was extremely suspicious,[p/] no matter how I looked at it.",但有一处，[p/]不管怎么看都是格外可疑的。
+line:03d90af,AfterLockerDeduce3,CELESTE: We found some insanely suspicious things in Frega’s locker.,CELESTE: 弗雷加的储物柜里的东西极其可疑。
+line:02b54f9,AfterLockerDeduce3,CELESTE: It had Wallace’s notebooks and even some blood.,CELESTE: 里面有华莱士的笔记本，甚至有些血迹。
+line:066ad87,AfterLockerDeduce3,TYRION: But that blood is certainly strange.,TYRION: 但那血迹很奇怪。
+line:0c65a4a,AfterLockerDeduce3,Tyrion: It implies that something bloody was stored there.[p/] It could only be the murder weapon.,Tyrion: 它说明有某个沾了鲜血的东西曾存放在此，[p/]也只可能是凶器本身。
+line:01eac9b,AfterLockerDeduce3,CELESTE: Do you think someone stole it?,CELESTE: 你是觉得有人把它偷走了吗？
+line:0d62140,AfterLockerDeduce3,"TYRION: No, actually.",TYRION: 并不是。
+line:0e2f218,AfterLockerDeduce3,TYRION: I think it was Steelwind who took it.,TYRION: 我认为是斯蒂尔文德把它拿走的。
+line:07f3091,AfterLockerDeduce3,"CELESTE: Oh, right.[p/] Orym mentioned that she investigated this room.",CELESTE: 哦，对了。[p/]奥蒙提到过她调查了这个房间。
+line:0d3abef,AfterLockerDeduce3,CELESTE: She must have taken the murder weapon as evidence.,CELESTE: 她肯定要把凶器作为证据带走的。
+line:0f7f5d7,AfterLockerDeduce3,"TYRION: But with that said,[p/] there’s something else that’s strange about Miriam Frega’s locker.",TYRION: 但除此之外，[p/]米莉亚姆·弗雷加的储物柜还有其他奇怪的地方。
+line:0a3417e,AfterLockerDeduce3,Tyrion: It had a [i]lot[/i] of Wallace’s possessions.,Tyrion: 里面有[i]不少[/i]华莱士的私人物品。
+line:0e0da82,AfterLockerDeduce3,"Tyrion: It’s possible that she really did steal these items from him,[p/] but it's more likely that this locker isn't actually hers.",Tyrion: 有可能真是她从华莱士那里偷来的，[p/]但更可能是这储物柜就不是她的。
+line:0c46c27,AfterLockerDeduce3,Tyrion: Remember what Wallace told us before?,Tyrion: 还记得华莱士之前和我们说的吗？
+line:00a34e9,AfterLockerDeduce4,WALLACE: Sometimes the other students would steal the id number off my locker and switch it with another student's.,WALLACE: 有时候其他学生会把我储物柜上的名牌偷走，然后和其他人的对调。
 line:0e6cbb4,AfterLockerDeduce4,WALLACE: They thought it was funny whenever that student got angry with me...,WALLACE: 他们以看另一个学生对我生气取乐……
-line:00f16ec,AfterLockerDeduce4,"CELESTE: So, someone switched the nameplates?",
-line:091addc,AfterLockerDeduce4,TYRION: This means that this [i]isn’t[/i] Miriam Frega’s locker.[p/] It’s Wallace’s.,
-line:01e80e1,AfterLockerDeduce4,CELESTE: But that would mean that the bloody object came from [i]Wallace’s[/i] locker!,
-line:03497f1,AfterLockerDeduce4,TYRION: It appears so...,
-line:0e20308,AfterLockerDeduce4,"TYRION: But if that’s true,[p/] why didn't Steelwind present the bloody item during the trial?",
-line:07f7332,AfterLockerDeduce4,Tyrion: I [i]proved[/i] that Bellwether was wounded before Valerie healed her.,
-line:0f889bc,AfterLockerDeduce4,Tyrion: Wouldn’t that have been the perfect time to present what she found?,
-line:059eea4,AfterLockerDeduce4,"Tyrion: It was a bloody item found in the [i]defendant’s[/i] locker, after all.",
-line:06dad8b,AfterLockerDeduce4,CELESTE: Right...[p/] That [i]is[/i] weird.,
-line:0cd44f6,AfterLockerDeduce4,"There was something more to this that I wasn’t seeing,[p/] but what?",
-line:00537f3,AfterLockerDeduce4,TYRION: I think we’ll just have to ask Steelwind ourselves.,
+line:00f16ec,AfterLockerDeduce4,"CELESTE: So, someone switched the nameplates?",CELESTE: 所以说，是某人交换了名牌？
+line:091addc,AfterLockerDeduce4,TYRION: This means that this [i]isn’t[/i] Miriam Frega’s locker.[p/] It’s Wallace’s.,TYRION: 也就是说这[i]并非[/]i是米莉亚姆·弗雷加的储物柜，[p/]而是华莱士的。
+line:01e80e1,AfterLockerDeduce4,CELESTE: But that would mean that the bloody object came from [i]Wallace’s[/i] locker!,CELESTE: 但这就意味着那件染血的物体来自华莱士的储物柜！
+line:03497f1,AfterLockerDeduce4,TYRION: It appears so...,TYRION: 看来是的……
+line:0e20308,AfterLockerDeduce4,"TYRION: But if that’s true,[p/] why didn't Steelwind present the bloody item during the trial?",TYRION: 但如果这是真的，[p/]为什么斯蒂尔文德不把那件染血的物品向法庭出示呢？
+line:07f7332,AfterLockerDeduce4,Tyrion: I [i]proved[/i] that Bellwether was wounded before Valerie healed her.,Tyrion: 我[i]证明[/]i了贝尔维瑟在瓦莱丽治疗她之前受了伤。
+line:0f889bc,AfterLockerDeduce4,Tyrion: Wouldn’t that have been the perfect time to present what she found?,Tyrion: 那时候不是提交这份证据的完美时机吗？
+line:059eea4,AfterLockerDeduce4,"Tyrion: It was a bloody item found in the [i]defendant’s[/i] locker, after all.",Tyrion: 毕竟这可是在[i]被告的[/]i储物柜中找到的染血物品。
+line:06dad8b,AfterLockerDeduce4,CELESTE: Right...[p/] That [i]is[/i] weird.,CELESTE: 对哦……[p/]这[i]确实[/i]挺奇怪的。
+line:0cd44f6,AfterLockerDeduce4,"There was something more to this that I wasn’t seeing,[p/] but what?",这件事背后还藏着什么玄机，[p/]但到底是是什么呢？
+line:00537f3,AfterLockerDeduce4,TYRION: I think we’ll just have to ask Steelwind ourselves.,TYRION: 我觉得我们得亲自找斯蒂尔文德谈谈了。
 line:079e57d,SchoolFoyer1_Examine,Player: Statue,
-line:03277ee,SchoolFoyer1_Examine,Tyrion: It's a statue of some sort of scientist.[p/] There's some writing below it.,
-line:0b4f81a,SchoolFoyer1_Examine,"Tyrion: ""Gillian Kemnitz:[p/] the inventor of early artificery.""",
-line:0da1fb1,SchoolFoyer1_Examine,"Celeste: Artificery is really impressive, isn't it?",
-line:06a1932,SchoolFoyer1_Examine,Celeste: It lets anyone use magic [i]without[/i] having noble blood.,
-line:0f5fe8a,SchoolFoyer1_Examine,Although the expenses of owning artificery presented their own barrier...,
-line:00cf291,SchoolFoyer1_Examine,"Celeste: This statue's kind of weird, though.",
-line:082494c,SchoolFoyer1_Examine,Celeste: It kind of looks like he doesn't even want to be here.,
+line:03277ee,SchoolFoyer1_Examine,Tyrion: It's a statue of some sort of scientist.[p/] There's some writing below it.,Tyrion: 某位科学家的雕像。[p/]底下有几行文字。
+line:0b4f81a,SchoolFoyer1_Examine,"Tyrion: ""Gillian Kemnitz:[p/] the inventor of early artificery.""",Tyrion: “Gillian Kemnitz，[p/]初期奥术能源的发明者。”
+line:0da1fb1,SchoolFoyer1_Examine,"Celeste: Artificery is really impressive, isn't it?",Celeste: 奥术能源真是了不起啊，对吧？
+line:06a1932,SchoolFoyer1_Examine,Celeste: It lets anyone use magic [i]without[/i] having noble blood.,Celeste: 它让[i]没有[/i]贵族血脉的人也能使用魔法。
+line:0f5fe8a,SchoolFoyer1_Examine,Although the expenses of owning artificery presented their own barrier...,虽然说拥有奥术能源的花费本身就设置了门槛……
+line:00cf291,SchoolFoyer1_Examine,"Celeste: This statue's kind of weird, though.",Celeste: 不过这雕像本身感觉也有点奇怪就是了。
+line:082494c,SchoolFoyer1_Examine,Celeste: It kind of looks like he doesn't even want to be here.,Celeste: 看起来他并不想待在这里。
 line:03cd1b7,SchoolFoyer1_Examine,Player: Painting 1,
-line:0fdb2ce,SchoolFoyer1_Examine,Tyrion: It's a painting of a man with some sort of creature on his arm.,
-line:0a4e190,SchoolFoyer1_Examine,"Tyrion: ""Doctor Delbit Taphoros: a mage,[p/] historian,[p/] archeologist,[p/] anthropologist,[p/] and botanist.""",
-line:06429d0,SchoolFoyer1_Examine,"Tyrion: ""Best known for his work in studying the history of the ancient dragons.""",
-line:082575e,SchoolFoyer1_Examine,"Tyrion: ""Through his work,[p/] great leaps were made in the study and development of the school of [b]evocation[/b].""",
-line:070b639,SchoolFoyer1_Examine,"Tyrion: ""On his arm is one of the last pseudodragons,[p/] which are now extinct.""",
+line:0fdb2ce,SchoolFoyer1_Examine,Tyrion: It's a painting of a man with some sort of creature on his arm.,Tyrion: 一幅描绘了手臂上附着某种生物的男士的画。
+line:0a4e190,SchoolFoyer1_Examine,"Tyrion: ""Doctor Delbit Taphoros: a mage,[p/] historian,[p/] archeologist,[p/] anthropologist,[p/] and botanist.""",Tyrion: “Delbit Taphoros 博士：一位法师，[p/]历史学家，[p/]考古学家，[p/]人类学家，[p/]以及植物学家。”
+line:06429d0,SchoolFoyer1_Examine,"Tyrion: ""Best known for his work in studying the history of the ancient dragons.""",Tyrion: “因其关于古龙历史的研究工作而广为人知。”
+line:082575e,SchoolFoyer1_Examine,"Tyrion: ""Through his work,[p/] great leaps were made in the study and development of the school of [b]evocation[/b].""",Tyrion: “多亏他的努力，[p/]关于[b]塑能术[/b]的研究与发展得到巨大的飞跃。”
+line:070b639,SchoolFoyer1_Examine,"Tyrion: ""On his arm is one of the last pseudodragons,[p/] which are now extinct.""",Tyrion: “他手臂上的是最后几只伪龙之一，[p/]现在这一物种已经灭绝。”
 line:0436814,SchoolFoyer1_Examine,Player: Painting 2,
-line:00e7ad2,SchoolFoyer1_Examine,Tyrion: It's a painting of a professor with some kind of magical tool.,
-line:0715acb,SchoolFoyer1_Examine,Tyrion: There's some text under it.,
-line:0cec7ce,SchoolFoyer1_Examine,"Tyrion: ""Doctor Paul Vuorela:[p/] also known as the Archeologist of the North.""",
-line:08bcc89,SchoolFoyer1_Examine,"Tyrion: ""He spent many years studying and exploring the mountainous regions of Shardalon.""",
-line:07beabe,SchoolFoyer1_Examine,"Tyrion: ""And through his investigation,[p/] he came upon one of the many lairs of the Scaled Lord.""",
-line:0e863a0,SchoolFoyer1_Examine,"Tyrion: ""He was honored both by the Church [i]and[/i] the Wyverngarde Historical Society for this impressive discovery.""",
+line:00e7ad2,SchoolFoyer1_Examine,Tyrion: It's a painting of a professor with some kind of magical tool.,Tyrion: 一幅描绘了教授与某种魔法工具的画。
+line:0715acb,SchoolFoyer1_Examine,Tyrion: There's some text under it.,Tyrion: 下面写着什么。
+line:0cec7ce,SchoolFoyer1_Examine,"Tyrion: ""Doctor Paul Vuorela:[p/] also known as the Archeologist of the North.""",Tyrion: “Paul Vuorela 博士，[p/]别名北境考古学家。”
+line:08bcc89,SchoolFoyer1_Examine,"Tyrion: ""He spent many years studying and exploring the mountainous regions of Shardalon.""",Tyrion: “多年来他专注于舍达隆山区的研究与探索工作。”
+line:07beabe,SchoolFoyer1_Examine,"Tyrion: ""And through his investigation,[p/] he came upon one of the many lairs of the Scaled Lord.""",Tyrion: “通过调查，[p/]他偶然发现了鳞甲领主的众多巢穴之一。”
+line:0e863a0,SchoolFoyer1_Examine,"Tyrion: ""He was honored both by the Church [i]and[/i] the Wyverngarde Historical Society for this impressive discovery.""",Tyrion: “因这项令人赞叹的发现，他同时获得了教会[i]以及[/i]王国历史学会的奖励。”
 line:05d4f6b,SchoolFoyer1_Examine,Player: Back,
 line:046a1d9,SchoolFoyer1_Talk,Player: The Investigation,
 line:05166ba,SchoolFoyer1_Talk,Celeste: I hope Wallace is okay...[p/] The Inquisition isn't exactly great at treating its prisoners well.,
