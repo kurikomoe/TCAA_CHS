@@ -32944,484 +32944,484 @@
   {
     "key": "C2 Dialogue.csv::translation::a1567aae315dea69",
     "original": "Celeste: I hope Wallace is okay...[p/] The Inquisition isn't exactly great at treating its prisoners well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我希望华莱士还好……[p/]裁判所对囚犯可真不怎么样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05166ba\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: I hope Wallace is okay...[p/] The Inquisition isn't exactly great at treating its prisoners well.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::72fecc1c144191b7",
     "original": "Even as an attorney,[p/] there was only so much I could do.",
-    "translation": "",
-    "stage": 0,
+    "translation": "即使是辩护律师，[p/]我能做的也只有这么多了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c69134\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Even as an attorney,[p/] there was only so much I could do.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::330c7e3195ad9725",
     "original": "Until I could acquit Wallace,[p/] he would be stuck in that dungeon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "除非让华莱士被判无罪，[p/]他都会被关在地牢里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fc17db\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Until I could acquit Wallace,[p/] he would be stuck in that dungeon.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0524196e1cbab352",
     "original": "Tyrion: ....Let's head to Lecture Hall 2-B.[p/] We need to figure out what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我们去 2-B 号讲堂吧。[p/]我们得弄清楚到底发生了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c23626\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: ....Let's head to Lecture Hall 2-B.[p/] We need to figure out what happened.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0ff3dad04d5da5eb",
     "original": "Celeste: ...Is Wallace really a necromancer?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……华莱士真的是个死灵法师吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02aeb52\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: ...Is Wallace really a necromancer?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fe18750ad01bcd2a",
     "original": "Tyrion: I'm not sure.[p/] He's nothing like the mad liches I've read about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我不敢确定。[p/]他并不想我读到的那些疯狂的巫妖。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0595577\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: I'm not sure.[p/] He's nothing like the mad liches I've read about.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5c569706549ab155",
     "original": "Celeste: Wait...[p/] Have actual liches appeared in Wyverngarde before?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 慢着……[p/]维文加德以前真的有出现过巫妖？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04506f3\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: Wait...[p/] Have actual liches appeared in Wyverngarde before?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::38faaf4afa284d2a",
     "original": "Tyrion: E-[p/][s/]Er...[p/] No,[p/] but...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 呃、[p/][s/]嗯……[p/]是没有啦，[p/]但是……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d16655\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: E-[p/][s/]Er...[p/] No,[p/] but...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::06f092847ab5e76b",
     "original": "Tyrion: ...They show up a lot in the [i]Wraithbound[/i] series.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……[i]《缚灵者》[/i]系列里还出现了挺多次的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f8fffc\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: ...They show up a lot in the [i]Wraithbound[/i] series.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0b4d82135fc86c5c",
     "original": "Celeste: Tyrion,[p/] that's a fantasy novel.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 提利昂，[p/]那只是幻想小说罢了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f91554\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: Tyrion,[p/] that's a fantasy novel.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::94d2b34e83ce0e6f",
     "original": "Tyrion: E-[p/][s/]Either way,[p/] I can't help but feel like Steelwind is hiding something from us.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 换、[p/][s/]换句话说，[p/]我总感觉斯蒂尔文德在跟我们隐瞒什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01974a7\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: E-[p/][s/]Either way,[p/] I can't help but feel like Steelwind is hiding something from us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::64ea8138eb563cfa",
     "original": "Celeste: Is that really so weird?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 真有那么奇怪吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05c3bc3\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: Is that really so weird?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e978f7dd613e684c",
     "original": "Celeste: We [i]did[/i] make a deal with her,[p/] but she's still going to fight us in the trial.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们[i]是有[/i]和她达成交易，[p/]但她还是要在法庭上与我们对抗啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b07a2a\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: We [i]did[/i] make a deal with her,[p/] but she's still going to fight us in the trial.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3ae0df9217550fbf",
     "original": "Celeste: Bellwether wasn't the greatest person, was she?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 贝尔维瑟真不是什么好人，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ca3877\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: Bellwether wasn't the greatest person, was she?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8e824c157f0a10fe",
     "original": "Tyrion: Even so,[p/] we can't stand by while a murderer runs loose.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 就算如此，[p/]我们还是不能放任真凶逃走。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f98c3d\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: Even so,[p/] we can't stand by while a murderer runs loose.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a17b69ef7dd92baa",
     "original": "Tyrion: If they get away with this,[p/] Wallace could be facing the gallows.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果他们逃脱制裁，[p/]华莱士可能会被判绞死。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08ddca4\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: If they get away with this,[p/] Wallace could be facing the gallows.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f8e138cb239d4292",
     "original": "Celeste: Yeah...[p/] I guess you're right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是啊……[p/]我想你是对的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ad42f3\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: Yeah...[p/] I guess you're right.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5fbf11741a5bff40",
     "original": "Celeste: I wonder if we could find Valentina again.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我想是不是可以再找到瓦伦蒂娜。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d3e7f1\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: I wonder if we could find Valentina again.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::22ced79974b07c9c",
     "original": "Tyrion: It'd be best not to scare her more than we already have.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们最好不要让她更害怕了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04222da\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: It'd be best not to scare her more than we already have.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7a1037b9cd44d11f",
     "original": "Tyrion: For now,[p/] let's focus on the other leads we have.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 现在，[p/]我们还是专注在其他线索上吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cd6331\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: For now,[p/] let's focus on the other leads we have.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bebae0fdfd2cc595",
     "original": "Celeste: Alright...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 好吧……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e918e6\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: Alright...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f2d3a44ea92b2594",
     "original": "Celeste: I can't believe Bellwether was going to fire [i]everyone[/i].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我不敢相信贝尔维瑟想要解雇[i]所有人[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06a355c\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: I can't believe Bellwether was going to fire [i]everyone[/i].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9eac39edb6395868",
     "original": "Celeste: Did she really hate the commoners here [i]that[/i] much?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 她真有[i]那么[/i]憎恨平民吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02d840c\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: Did she really hate the commoners here [i]that[/i] much?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::29f20ee36af52fd1",
     "original": "Tyrion: Some people take pleasure in cruelty,[p/] and having authority just makes that worse.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 有些人就是以残虐取乐，[p/]这些人一旦拥有权力就更加糟糕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09c2982\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: Some people take pleasure in cruelty,[p/] and having authority just makes that worse.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4a101313b8d1fa03",
     "original": "Celeste: I'm honestly glad she's gone.[p/] I hope the commoners here can relax now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我其实对她的死感到高兴。[p/]希望这里的平民们能变得轻松一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c3e1b7\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: I'm honestly glad she's gone.[p/] I hope the commoners here can relax now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6ad3ab67150fa756",
     "original": "Tyrion: I'm not so sure.[p/] I'm sure this kingdom has no shortage of Bellwethers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我不这么认为。[p/]这个王国可不缺贝尔维瑟那样的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09e9af3\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: I'm not so sure.[p/] I'm sure this kingdom has no shortage of Bellwethers.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8f6510f6f4225ff9",
     "original": "Celeste: I never knew that healing magic was considered [b]necromancy[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我从来都不知道治愈魔法也是一种[b]死灵术[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:070f85f\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: I never knew that healing magic was considered [b]necromancy[/b].\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::90784209a22f20cc",
     "original": "Tyrion: I guess I just have a lot to think about.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我想有很多事情需要再思考一下。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e1e101\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: I guess I just have a lot to think about.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a18990b9552a16d9",
     "original": "I grew up reading [i]Wraithbound[/i],[p/] but I never stopped to think about what kind of person Corrin Bloomveil was.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我读着[i]《缚灵者》[/i]长大，[p/]但我也一直在推测科林·花帷是个什么样的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0515a37\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"I grew up reading [i]Wraithbound[/i],[p/] but I never stopped to think about what kind of person Corrin Bloomveil was.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::78393f53c9baa87b",
     "original": "It was written nearly a century ago.[p/] Could Wallace be right about him...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "那些故事成书于快一个世纪以前，[p/]华莱士对他的说法可能是对的吗……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01cd453\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"It was written nearly a century ago.[p/] Could Wallace be right about him...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3879449263451cc7",
     "original": "Player: Next Lead",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 下一个线索",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c9612\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Player: Next Lead\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::905a48118078e7b4",
     "original": "Celeste: Where should we go next?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们接下来去哪儿？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ebd614\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Celeste: Where should we go next?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::231bd51aa2bd960c",
     "original": "Tyrion: The first thing we need to do is find out exactly what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 首先我们需要弄清楚到底发生了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:063915f\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: The first thing we need to do is find out exactly what happened.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::171291de1066ffe7",
     "original": "Tyrion: Ms. Tymora said that the body was found in Lecture Hall 2-B.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 泰摩拉女士说了，尸体是在 2-B 讲堂被找到的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0138e7c\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: Ms. Tymora said that the body was found in Lecture Hall 2-B.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2611d4a33bfc7fcc",
     "original": "Tyrion: Let's start our investigation there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们就从那里调查起吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06e0157\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: Let's start our investigation there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::25782c325b111a30",
     "original": "Tyrion: The headmaster supposedly had a meeting with Bellwether at noon.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 校长应该在正午和贝尔维瑟进行过会面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:033c864\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: The headmaster supposedly had a meeting with Bellwether at noon.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b534d06dbf8ebfbf",
     "original": "Tyrion: He might have been the last person to see her alive.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他可能是最后一个看到她还活着的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e2073e\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: He might have been the last person to see her alive.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fc7cccddcea01ed2",
     "original": "Tyrion: We should see if he knew where she was going after the meeting.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们得看看他是否知道会面后教授去了哪里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:028f3d5\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: We should see if he knew where she was going after the meeting.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::69cf7b90a72b5baa",
     "original": "Tyrion: Two members of the kitchen staff discovered the body.[p/] So we should talk to them next.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 两个厨房的员工发现了尸体，[p/]那么我们下一步就该和她们谈谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f7cac4\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: Two members of the kitchen staff discovered the body.[p/] So we should talk to them next.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8160ca7b4dd294d3",
     "original": "Tyrion: They might have seen something that we didn't find at the crime scene.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她们或许看到了我们在犯罪现场没发现的细节。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02c4c78\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: They might have seen something that we didn't find at the crime scene.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d23d31cb7f3abaa2",
     "original": "Tyrion: The academy is probably closed for the investigation,[p/] but we might still be able to find them in the kitchen.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 学院很可能因调查暂时关闭，[p/]但我们应该能在厨房找到她们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0abe194\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: The academy is probably closed for the investigation,[p/] but we might still be able to find them in the kitchen.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::97c66390b57debe6",
     "original": "Tyrion: I'm a little suspicious of Valentina,[p/] but I don't think chasing her will do us any favors.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我觉得瓦伦蒂娜有一点可疑。[p/]但我不觉得追查她能帮上我们什么忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06b147c\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: I'm a little suspicious of Valentina,[p/] but I don't think chasing her will do us any favors.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::87070a46a257b456",
     "original": "Tyrion: She mentioned something peculiar about Bellwether firing everyone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 她提到过一个奇怪的说法，贝尔维瑟要“解雇所有人”。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:068e2b6\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: She mentioned something peculiar about Bellwether firing everyone.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::305bf28ab6c31009",
     "original": "Tyrion: That rumor supposedly came from a custodian named \"Jan Hughes\".",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 而这个流言似乎来自一个叫“简·休斯”的管理人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0147a75\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: That rumor supposedly came from a custodian named \\\"Jan Hughes\\\".\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f04ef68313aba1d8",
     "original": "Tyrion: If we walk through the hallways,[p/] we might be able to find him and ask more about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们要是沿着走廊找过去，[p/]很可能遇到他，就能询问这些问题了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:092edea\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: If we walk through the hallways,[p/] we might be able to find him and ask more about that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb010f8635a9fe86",
     "original": "Tyrion: The Inquisition should be finished questioning Wallace by now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 裁判所现在应该结束了对华莱士的讯问。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:044425b\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: The Inquisition should be finished questioning Wallace by now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ebbbc19e8fb08369",
     "original": "Tyrion: If we MOVE to the Barracks,[p/] we might finally be able to speak with him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果我们向收容处 <size=1.5em>移动</size>，[p/]应该就能和他交谈了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:077ce8d\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: If we MOVE to the Barracks,[p/] we might finally be able to speak with him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fc77b36d09742cbf",
     "original": "Tyrion: Valentina has probably returned to the kitchen by now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 瓦伦蒂娜现在应该回到厨房了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:040eb2a\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: Valentina has probably returned to the kitchen by now.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b65ba8c7ca17e977",
     "original": "Tyrion: If we MOVE there,[p/] you should be able to scan her and see if she has any magical traces attached to her.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果我们向那里 <size=1.5em>移动</size>，[p/]你应该可以用[b]法术探测[/b]扫描她，看看她身上有没有什么魔法痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0de8995\",\n  \"node\": \"SchoolFoyer1_Talk\",\n  \"text\": \"Tyrion: If we MOVE there,[p/] you should be able to scan her and see if she has any magical traces attached to her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8cc0cc6eaaa96c6d",
     "original": "Celeste: Um...[p/] Okay.",
-    "translation": "",
-    "stage": 0,
+    "translation": "CELESTE: 唔……[p/]好的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08fec39\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: Um...[p/] Okay.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c536511e297e399f",
     "original": "Tyrion: It's my Attorney's Runestone, Celeste.[p/] It proves that I’m a certified attorney.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这是我的律师符石，塞莱斯特。[p/]它证明我持证律师的身份。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05d88f3\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: It's my Attorney's Runestone, Celeste.[p/] It proves that I’m a certified attorney.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4afd2e1fd8157109",
     "original": "Celeste: Yeah,[p/] you've shown this thing to me before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是啊，[p/]你之前有给我看过了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e7315e\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: Yeah,[p/] you've shown this thing to me before.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b9ca3eb36efc4751",
     "original": "Celeste: Yes,[p/] it's very cool, Tyrion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 对，[p/]它挺酷的，提利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05fee59\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: Yes,[p/] it's very cool, Tyrion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3f29313208cb7c10",
     "original": "Celeste: It's kind of fun seeing you work through everything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 看你做这些事情还挺有趣的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08c505f\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: It's kind of fun seeing you work through everything.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d13d7a9a75934041",
     "original": "Tyrion: Yeah...[p/] There is something satisfying about it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 对啊……[p/]完成这些工作让人有满足感。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e85d17\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: Yeah...[p/] There is something satisfying about it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::1cc4e97ad3c8d844",
     "original": "Celeste: I'm so glad I got this job.[p/] It's so much less stressful than being a mercenary.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我为得到现在的工作高兴。[p/]比起当佣兵压力小多了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bdd802\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: I'm so glad I got this job.[p/] It's so much less stressful than being a mercenary.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::3b542fdb92e25ed5",
     "original": "Tyrion: Really?[p/] You've had to stop people from breaking into my house every night.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 真的？[p/]你每晚都要阻止那些人闯进我家。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0463f7f\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: Really?[p/] You've had to stop people from breaking into my house every night.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d24dfc4b2c11cc5a",
     "original": "Celeste: Oh, that's nothing.[p/] When I was a mercenary,[p/] I had to fight hordes of people and monsters at once.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 嗐、不值一提。[p/]我当佣兵的时候，[p/]我得同时和成群的敌人与野兽交战。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0171efa\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: Oh, that's nothing.[p/] When I was a mercenary,[p/] I had to fight hordes of people and monsters at once.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2ec02ef763e1f9a0",
     "original": "Celeste: A few assassins are nothing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 几个刺客算不了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a7bb1c\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: A few assassins are nothing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d5aef07f24376fe1",
     "original": "The scariest part was that I wasn't sure if she was exaggerating.",
-    "translation": "",
-    "stage": 0,
+    "translation": "最令人害怕的是我无法确定她是否有夸大其词。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fca054\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"The scariest part was that I wasn't sure if she was exaggerating.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::76f3f86362a8e7d9",
     "original": "Celeste: I didn't expect Steelwind to be working this case, too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我没想到斯蒂尔文德也在处理这个案子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c4a415\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: I didn't expect Steelwind to be working this case, too.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::60267e4ac8f5985d",
     "original": "Tyrion: She appears to be prosecuting all of the cases brought forth by the Inquisition.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 好像所有裁判所移交的案件都由她负责起诉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:066a717\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: She appears to be prosecuting all of the cases brought forth by the Inquisition.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::802f41b7a6e14bc8",
     "original": "Tyrion: We'll probably be seeing a lot more of her in the future.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们将来可能还会多次见面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e5fdc0\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: We'll probably be seeing a lot more of her in the future.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::da1dd340751057bb",
     "original": "Celeste: Before,[p/] I thought she was prosecuting me because my dad was a revolutionary.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 之前那次，[p/]我还以为是因为我爸爸搞革命她才起诉的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01fdb4d\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: Before,[p/] I thought she was prosecuting me because my dad was a revolutionary.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::943525cd614e6f33",
     "original": "Celeste: But I guess she's a prosecutor full-time?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但看起来她是全职检察官咯？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0797a8f\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: But I guess she's a prosecutor full-time?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0726b5e48ddffe0f",
     "original": "Tyrion: I hope Eris is handling this well.[p/] Her friend was falsely accused of murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 希望厄莉斯能处理好情绪。[p/]她的朋友可是被误指认为凶手了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0192f04\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: I hope Eris is handling this well.[p/] Her friend was falsely accused of murder.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9ad2a7565dfefc60",
     "original": "Celeste: ...Really?[p/] She doesn't seem that bothered.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……真需要吗？[p/]她看起来不怎么担忧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d5986d\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: ...Really?[p/] She doesn't seem that bothered.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::01ca03326b445b6d",
     "original": "Tyrion: The people who show the least emotion tend to feel it most strongly.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那些感情不怎么外露的人往往对情绪的感受最强烈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bccc6d\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: The people who show the least emotion tend to feel it most strongly.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::687b5b24be563014",
     "original": "I knew that better than anyone.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我比任何人都清楚这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0be53c7\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"I knew that better than anyone.\"\n}"
   },
   {
@@ -33434,36 +33434,36 @@
   {
     "key": "C2 Dialogue.csv::translation::de5664c18bd89b63",
     "original": "Tyrion: And if they get away with this,[p/] Wallace could be facing the gallows.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果他们逃脱制裁，[p/]华莱士可能会被判绞死。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00bad08\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: And if they get away with this,[p/] Wallace could be facing the gallows.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6735786431cd39f9",
     "original": "Celeste: Jan looks like he's in a constant state of being tired.[p/] I feel kind of bad for him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 简这人看起来好像一直处于疲惫之中。[p/]我都有点替他难过。[p/] I feel kind of bad for him.",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a3bab\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: Jan looks like he's in a constant state of being tired.[p/] I feel kind of bad for him.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c0305f336ce37d8b",
     "original": "Tyrion: Are you sure he's not just lazy?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你不觉得他只是懒吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:003576c\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: Are you sure he's not just lazy?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5f5d5ef31f22678",
     "original": "Celeste: Don't be so quick to judge people, Tyrion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 别这么简单地给人下结论，提利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a95769\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: Don't be so quick to judge people, Tyrion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fd2c8183bddc91cd",
     "original": "Celeste: You never know what someone else is going through.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你永远没法知道其他人究竟经历了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:076938d\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: You never know what someone else is going through.\"\n}"
   },
   {
@@ -33476,85 +33476,85 @@
   {
     "key": "C2 Dialogue.csv::translation::b3086e989aabc43a",
     "original": "Celeste: The more we talk to them,[p/] the more suspicious the twins look.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 和她们交谈越多，[p/]那对双胞胎就感觉越是可疑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08e4d21\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: The more we talk to them,[p/] the more suspicious the twins look.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6cda686833211d2b",
     "original": "Tyrion: Yeah...[p/] They're definitely hiding something.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是的……[p/]她们肯定在隐瞒什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07c6000\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: Yeah...[p/] They're definitely hiding something.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::91dc40cd4a9f380f",
     "original": "I just had to wait for a better opportunity.[p/] The truth would show itself eventually.",
-    "translation": "",
-    "stage": 0,
+    "translation": "只是我还得等一个更好的机会。[p/]真相最终会自己显现的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a8153\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"I just had to wait for a better opportunity.[p/] The truth would show itself eventually.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eefc8750b2c76df3",
     "original": "Celeste: We really don't know that much about Wallace, do we?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我们真的没有很了解华莱士，是吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03573f5\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: We really don't know that much about Wallace, do we?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9fba68776112d606",
     "original": "Tyrion: We know that he has a solid alibi for the murder.[p/] There's no way that he killed Bellwether.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我们知道他有充分的不在场证明。[p/]他没可能杀得了贝尔维瑟。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:055b6df\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: We know that he has a solid alibi for the murder.[p/] There's no way that he killed Bellwether.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ec61adc6f0495b85",
     "original": "Celeste: You really believe in your clients, don't you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 你真的很信任自己的委托人，不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04096bd\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: You really believe in your clients, don't you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c27391a2e1f76d4d",
     "original": "Tyrion: Of course.[p/] How can I expect the courts to believe in his innocence if I don't?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那是当然。[p/]要是连我都不相信，法庭又如何确信他无罪呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:039f2c1\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: Of course.[p/] How can I expect the courts to believe in his innocence if I don't?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e369ea489015449c",
     "original": "Celeste: I'm glad you're confident,[p/] but what would you do if you found out your client was guilty?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 看到你这么自信是好啦，[p/]但要是你发现委托人是有罪的怎么办？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e60cf9\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: I'm glad you're confident,[p/] but what would you do if you found out your client was guilty?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bbae774cc447920b",
     "original": "Tyrion: I'd never take on a client like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我才不会接收那样的委托。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:094c299\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: I'd never take on a client like that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0c99e4dabbc8f5ba",
     "original": "The Eye of Horus was pretty good for vetting people.",
-    "translation": "",
-    "stage": 0,
+    "translation": "荷鲁斯之眼在核验人的好坏这方面还是非常有效的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c3595f\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"The Eye of Horus was pretty good for vetting people.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::d51a0bb0c65fe950",
     "original": "Celeste: But is that really...?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 但真的……？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06c4262\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: But is that really...?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b54b159ca9c8a6f7",
     "original": "Celeste: ...Nothing.[p/] I guess it's not really my place to say anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: ……没什么。[p/]或许不该由我来指指点点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ce49d5\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: ...Nothing.[p/] I guess it's not really my place to say anything.\"\n}"
   },
   {
@@ -33567,22 +33567,22 @@
   {
     "key": "C2 Dialogue.csv::translation::65669c20778d67ef",
     "original": "Tyrion: Spell Compendiums are really useful.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法术汇编还挺有用的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:091d0cd\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: Spell Compendiums are really useful.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::18ccfb19967db72a",
     "original": "Celeste: Yep![p/] They help us mages keep track of our spells.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是呀！[p/]它们能帮法师记录自己的法术内容。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0210fdc\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: Yep![p/] They help us mages keep track of our spells.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::984e4c5aae00f82a",
     "original": "They were also an indisputable piece of evidence in court.",
-    "translation": "",
-    "stage": 0,
+    "translation": "它们在法庭上也是无可辩驳的证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0650f06\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"They were also an indisputable piece of evidence in court.\"\n}"
   },
   {
@@ -33595,71 +33595,71 @@
   {
     "key": "C2 Dialogue.csv::translation::d0065146a8778016",
     "original": "Tyrion: I didn't know that you were learning to cast [b]Detect Magic[/b] this morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我还不知道早上你在学习使用[b]法术探测[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08d11c0\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: I didn't know that you were learning to cast [b]Detect Magic[/b] this morning.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b3bb80f6047eb47b",
     "original": "Celeste: Ruby asked me to.[p/] She doesn't really trust the Inquisition, after all.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是鲁比让我学的。[p/]毕竟她不怎么相信裁判所。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ba53cb\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: Ruby asked me to.[p/] She doesn't really trust the Inquisition, after all.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::03e720b7464551ec",
     "original": "I should probably thank her for that later.[p/] Being able to see magical traces would be instrumental in my future cases.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我晚些时候得感谢她。[p/]能看见魔法痕迹对未来的案件也很重要。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a0bc85\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"I should probably thank her for that later.[p/] Being able to see magical traces would be instrumental in my future cases.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::91ba21c2dc9dbcdc",
     "original": "Tyrion: What do you think about [i]this[/i], Celeste?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 塞莱斯特，你怎么看？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02ca78d\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Tyrion: What do you think about [i]this[/i], Celeste?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::dcd93b7e5e50228a",
     "original": "Celeste: Ah...[p/] Sorry, Tyrion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 啊……[p/]不好意思，提利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04eed2d\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: Ah...[p/] Sorry, Tyrion.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::521546a7e541f320",
     "original": "Celeste: I don't think I can help you with that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 这一点我帮不上忙。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:080a356\",\n  \"node\": \"SchoolFoyer1_Present\",\n  \"text\": \"Celeste: I don't think I can help you with that.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c9324e565987e0c2",
     "original": "A few hours had passed since Wallace was arrested.",
-    "translation": "",
-    "stage": 0,
+    "translation": "距离华莱士被捕已经过去几个小时了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bba714\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"A few hours had passed since Wallace was arrested.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::704969e618d91bdb",
     "original": "Celeste and I were with him during the lockdown,[p/] so the Inquisition took our statements.",
-    "translation": "",
-    "stage": 0,
+    "translation": "封锁解除之前，塞莱斯特与我都和他在一起，[p/]所以裁判所还找我们做了笔录。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ae77a0\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste and I were with him during the lockdown,[p/] so the Inquisition took our statements.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::2d3245c807f18130",
     "original": "But the more they questioned me,[p/] the more I could tell that they were looking for gaps in my testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但他们问得越多，[p/]我就越确信他们是要找出我的证词里的漏洞。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fc03d4\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"But the more they questioned me,[p/] the more I could tell that they were looking for gaps in my testimony.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::eb91051c4cb5b39a",
     "original": "We would need to do more if we wanted to establish an alibi for Wallace.",
-    "translation": "",
-    "stage": 0,
+    "translation": "如果想要证实华莱士的不在场证明，我们还得多努力一把。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:013c78e\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"We would need to do more if we wanted to establish an alibi for Wallace.\"\n}"
   },
   {
