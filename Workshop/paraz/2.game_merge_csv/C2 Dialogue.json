@@ -28856,355 +28856,355 @@
   {
     "key": "C2 Dialogue.csv::translation::4ac92fb3f36fed45",
     "original": "Celeste: [i]*sigh*[/i][p/] They definitely know how to waste a lot of time.",
-    "translation": "",
+    "translation": "Celeste: [i]*叹气*[/i][p/]他们可真清楚要怎么浪费大量的时间。",
     "context": "{\n  \"id\": \"line:0fe63b2\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: [i]*sigh*[/i][p/] They definitely know how to waste a lot of time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f266672576ab725",
     "original": "TYRION: They know who we are now.[p/] We'll have to expect more interference from them in the future.",
-    "translation": "",
+    "translation": "TYRION: 他们现在已经认识我们了。[p/]我们可以认为将来还会受到他们更多的阻拦。",
     "context": "{\n  \"id\": \"line:0860cc6\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"TYRION: They know who we are now.[p/] We'll have to expect more interference from them in the future.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4296d9d607e6f187",
     "original": "Celeste: Hey, Tyrion?",
-    "translation": "",
+    "translation": "Celeste: 嘿，提利昂？",
     "context": "{\n  \"id\": \"line:03656f3\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: Hey, Tyrion?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b34dd9a24f725343",
     "original": "Tyrion: Yeah?",
-    "translation": "",
+    "translation": "Tyrion: 怎么了？",
     "context": "{\n  \"id\": \"line:0ea4717\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: Yeah?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4071b44fe2f81b17",
     "original": "Celeste: Are you okay?[p/] I'm sorry for stopping you before.[p/] I know you were just worried about Ruby.",
-    "translation": "",
+    "translation": "Celeste: 你还好吗？[p/]抱歉那时候强行拦着你，[p/]我知道你是担心鲁比的安危。",
     "context": "{\n  \"id\": \"line:06b7c6d\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: Are you okay?[p/] I'm sorry for stopping you before.[p/] I know you were just worried about Ruby.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7e606889f6a87cd1",
     "original": "Tyrion: N-[p/][s/]No...[p/] You were completely right.[p/] I was just being emotional.",
-    "translation": "",
+    "translation": "Tyrion: 没、[p/][s/]没有……[p/]你做得很对。[p/]我当时太情绪化了。",
     "context": "{\n  \"id\": \"line:011c84f\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: N-[p/][s/]No...[p/] You were completely right.[p/] I was just being emotional.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f4d6523ae22b898d",
     "original": "Celeste: ...You really care about her, don't you?",
-    "translation": "",
+    "translation": "Celeste: ……你还真是在乎她呢。",
     "context": "{\n  \"id\": \"line:044069a\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: ...You really care about her, don't you?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6b9876df4ea30018",
     "original": "Tyrion: She's done a lot for me.[p/] If it weren't for her,[p/] I would've grown up on the streets.",
-    "translation": "",
+    "translation": "Tyrion: 她为我做了太多。[p/]没有她的话，[p/]我就只能从小在街头流浪了。",
     "context": "{\n  \"id\": \"line:09c29d3\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: She's done a lot for me.[p/] If it weren't for her,[p/] I would've grown up on the streets.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b4f0a22ce7b3a774",
     "original": "Celeste: Oh, really?",
-    "translation": "",
+    "translation": "Celeste: 哎，是这样吗？",
     "context": "{\n  \"id\": \"line:0d89846\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: Oh, really?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::76d0872672634c5e",
     "original": "Celeste: It's just...",
-    "translation": "",
+    "translation": "Celeste: 只是……",
     "context": "{\n  \"id\": \"line:09ba5ab\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: It's just...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a167a0b27b0a1242",
     "original": "Tyrion: ...What is it?",
-    "translation": "",
+    "translation": "Tyrion: ……怎么了呢？",
     "context": "{\n  \"id\": \"line:0d6bf74\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: ...What is it?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::425f0d3b10beac25",
     "original": "Celeste: Don't you think the way she treats you is a bit...[p/] cold sometimes?",
-    "translation": "",
+    "translation": "Celeste: 你不觉得她对待你的方式有时候……[p/]冷漠了点吗？",
     "context": "{\n  \"id\": \"line:029912e\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: Don't you think the way she treats you is a bit...[p/] cold sometimes?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::aedacf7bdbab7f25",
     "original": "Tyrion: It's only for my benefit.[p/] I need to be the best attorney I can be if I want to acquit my clients.",
-    "translation": "",
+    "translation": "Tyrion: 那只是为了我好。[p/]如果要让委托人洗脱冤罪，我作为律师就必须做到最好。",
     "context": "{\n  \"id\": \"line:0ff162f\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: It's only for my benefit.[p/] I need to be the best attorney I can be if I want to acquit my clients.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9f488b85021ea12c",
     "original": "Celeste: Still...[p/] She's your guardian, isn't she?[p/] She could be nicer to you.",
-    "translation": "",
+    "translation": "Celeste: 是这样啦……[p/]但她不也是你的监护人吗？[p/]她应该对你更和蔼一点的。",
     "context": "{\n  \"id\": \"line:0c70469\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: Still...[p/] She's your guardian, isn't she?[p/] She could be nicer to you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c32f03d53f5620d2",
     "original": "Tyrion: ...She's never been good at expressing emotions.",
-    "translation": "",
+    "translation": "Tyrion: ……她也从不怎么擅长表达情感。",
     "context": "{\n  \"id\": \"line:0da927d\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: ...She's never been good at expressing emotions.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::023473919bf49431",
     "original": "Tyrion: I think something may have happened in the past,[p/] but I've never tried to pry.",
-    "translation": "",
+    "translation": "Tyrion: 我认为过去可能发生了什么，[p/]但我也从没去探查过。",
     "context": "{\n  \"id\": \"line:03d6333\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: I think something may have happened in the past,[p/] but I've never tried to pry.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a9eb01e4818ec733",
     "original": "Tyrion: But I know for a fact that she cares for me.[p/] I've seen it many times.",
-    "translation": "",
+    "translation": "Tyrion: 但我知道她是关心我的。[p/]我亲眼见过很多次了。",
     "context": "{\n  \"id\": \"line:04f1abf\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: But I know for a fact that she cares for me.[p/] I've seen it many times.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::fbc73ab877d20d77",
     "original": "Celeste: Yeah,[p/] I guess my dad was the same in a way.",
-    "translation": "",
+    "translation": "Celeste: 是呀，[p/]我想我爸也是这么对待我的。",
     "context": "{\n  \"id\": \"line:07d8f95\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: Yeah,[p/] I guess my dad was the same in a way.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::28f65c7764c50d52",
     "original": "Celeste: I guess people show love in different ways.",
-    "translation": "",
+    "translation": "Celeste: 或许人们就是用不同的方式表达爱意。",
     "context": "{\n  \"id\": \"line:0292bcf\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: I guess people show love in different ways.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4cb59ee5c50032e7",
     "original": "Tyrion: I know you didn't get the best first impression of her,[p/] but I hope you can get along with her.",
-    "translation": "",
+    "translation": "Tyrion: 我知道你对她第一印象不太好，[p/]但我也希望你们之后能好好相处。",
     "context": "{\n  \"id\": \"line:09e4865\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: I know you didn't get the best first impression of her,[p/] but I hope you can get along with her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6e5852cb67d5d1f5",
     "original": "Celeste: [i]*sigh*[/i][p/] I'll try,[p/] but only because I really like this job.",
-    "translation": "",
+    "translation": "Celeste: [i]*叹气*[/i][p/]我会试试的，[p/]但只是因为我真的很喜欢现在这份工作。",
     "context": "{\n  \"id\": \"line:0f3354e\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: [i]*sigh*[/i][p/] I'll try,[p/] but only because I really like this job.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::6ec1d547c736a511",
     "original": "Celeste: Yeah![p/][s/] You're the best client I've ever had, Tyrion!",
-    "translation": "",
+    "translation": "Celeste: 是的！[p/][s/]你是我见过最棒的客户了，提利昂！",
     "context": "{\n  \"id\": \"line:0d2560d\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: Yeah![p/][s/] You're the best client I've ever had, Tyrion!\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f1d9c359a0719e48",
     "original": "Tyrion: ...I see.[p/] That's good to hear.",
-    "translation": "",
+    "translation": "Tyrion: ……好啊。[p/]听你这么说还挺开心的。",
     "context": "{\n  \"id\": \"line:0ed909b\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: ...I see.[p/] That's good to hear.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::efaa1353ebe129a9",
     "original": "She was probably just saying that.[p/] I'm sure she told every one of her clients the same thing.",
-    "translation": "",
+    "translation": "她大概是随口说说。[p/]我确信她对每个客户都是这么说的。",
     "context": "{\n  \"id\": \"line:0538269\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"She was probably just saying that.[p/] I'm sure she told every one of her clients the same thing.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b892d9574d968e1c",
     "original": "Tyrion: A-[p/][s/]Anyways,[p/] we should get to work.",
-    "translation": "",
+    "translation": "Tyrion: 总、[p/][s/]总之，[p/]我们该干活了。",
     "context": "{\n  \"id\": \"line:0a3e3ba\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Tyrion: A-[p/][s/]Anyways,[p/] we should get to work.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::c0eb3fe60fd594de",
     "original": "Celeste: Right.[p/] Ruby said that a bunch of knights were heading to Lecture Hall 2-B.",
-    "translation": "",
+    "translation": "Celeste: 没错。[p/]鲁比说过一大队骑士有前往 2-B 号讲堂。",
     "context": "{\n  \"id\": \"line:0e16b70\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: Right.[p/] Ruby said that a bunch of knights were heading to Lecture Hall 2-B.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5d808cb4640ac571",
     "original": "Celeste: That sounds like a good place to start.",
-    "translation": "",
+    "translation": "Celeste: 听上去是开启调查的好地方。",
     "context": "{\n  \"id\": \"line:0e686c7\",\n  \"node\": \"SchoolFoyer1_Check\",\n  \"text\": \"Celeste: That sounds like a good place to start.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::0f4fcc40b3c906af",
     "original": "Tyrion: ...Are you okay?",
-    "translation": "",
+    "translation": "Tyrion: ……你没事吧？",
     "context": "{\n  \"id\": \"line:08b7b21\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: ...Are you okay?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::875c26e26c4aef22",
     "original": "Celeste: Y-[p/][s/]Yeah...",
-    "translation": "",
+    "translation": "Celeste: 没、[p/][s/]没事……",
     "context": "{\n  \"id\": \"line:0ea0925\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Celeste: Y-[p/][s/]Yeah...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ec47d0907610dfa2",
     "original": "Tyrion: ...Are you still worried about Eris?",
-    "translation": "",
+    "translation": "Tyrion: ……你还在担心厄莉斯的事情吗？",
     "context": "{\n  \"id\": \"line:080fb0b\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: ...Are you still worried about Eris?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f6d8f1aff94fad9e",
     "original": "Celeste: I'm [i]really[/i] trying not to be scared of her.[p/] But I just can't help it.",
-    "translation": "",
+    "translation": "Celeste: 我[i]已经[/]i很努力不要害怕她了。[p/]但我还是忍不住。",
     "context": "{\n  \"id\": \"line:0c4f5ad\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Celeste: I'm [i]really[/i] trying not to be scared of her.[p/] But I just can't help it.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::642e3a9b8135f832",
     "original": "Celeste: And having to talk to her in the [i]cemetery[/i] isn't helping...",
-    "translation": "",
+    "translation": "Celeste: 而且和她在[i]墓园[/]i说话更吓人了……",
     "context": "{\n  \"id\": \"line:0e6359b\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Celeste: And having to talk to her in the [i]cemetery[/i] isn't helping...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b640dc3f4f53cca1",
     "original": "Tyrion: There's still a lot we don't know...",
-    "translation": "",
+    "translation": "Tyrion: 我们还有很多不清楚的事情……",
     "context": "{\n  \"id\": \"line:021d8ec\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: There's still a lot we don't know...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7d987e8cced742ed",
     "original": "Celeste: Yeah...",
-    "translation": "",
+    "translation": "Celeste: 对啊……",
     "context": "{\n  \"id\": \"line:097f2e1\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Celeste: Yeah...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::af1d91fbc62d558a",
     "original": "Celeste: We [i]know[/i] that Wallace didn't kill her,[p/] but did the true killer really murder her in the library?",
-    "translation": "",
+    "translation": "Celeste: 我们[i]知道[/i]华莱士没有杀她。[p/]但杀手真的是在图书馆杀掉她的吗？",
     "context": "{\n  \"id\": \"line:0f3542c\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Celeste: We [i]know[/i] that Wallace didn't kill her,[p/] but did the true killer really murder her in the library?\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::f5151a8a48a89f90",
     "original": "Right...[p/] You'll need to go there to find out more.",
-    "translation": "",
+    "translation": "是的……[p/]我需要弄清楚更多现场情况。",
     "context": "{\n  \"id\": \"line:026545f\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Right...[p/] You'll need to go there to find out more.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::65946aa66e0cb700",
     "original": "Celeste: I wonder why Steelwind isn't helping us this time.",
-    "translation": "",
+    "translation": "Celeste: 我在想斯蒂尔文德这次为什么不帮我们了。",
     "context": "{\n  \"id\": \"line:00f478d\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Celeste: I wonder why Steelwind isn't helping us this time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::aa7abef262bfed63",
     "original": "Tyrion: She had no problem giving us information before...",
-    "translation": "",
+    "translation": "Tyrion: 她以前在给我们情报的时候挺干脆的……",
     "context": "{\n  \"id\": \"line:021086b\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: She had no problem giving us information before...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::df5e5d13cb2aff62",
     "original": "Tyrion: Something must be different this time.",
-    "translation": "",
+    "translation": "Tyrion: 这次一定有些不同的背景。",
     "context": "{\n  \"id\": \"line:019f847\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: Something must be different this time.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4dbf113dfd768f5c",
     "original": "Celeste: ...I can't stop thinking about that story the commander told us.",
-    "translation": "",
+    "translation": "Celeste: ……我还是忍不住在想指挥官告诉我们的那个故事。",
     "context": "{\n  \"id\": \"line:0b4797a\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Celeste: ...I can't stop thinking about that story the commander told us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::b8689f93bdb31c27",
     "original": "Tyrion: I'm sure he's just exaggerating...",
-    "translation": "",
+    "translation": "Tyrion: 我确信他就是在夸大其词……",
     "context": "{\n  \"id\": \"line:01eae20\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: I'm sure he's just exaggerating...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::bd70dc6a72e91e39",
     "original": "Tyrion: There's no way someone could [i]really[/i] use magic to control people's minds.",
-    "translation": "",
+    "translation": "Tyrion: 不可能有人[i]真的[/]i能使用魔法操控别人。",
     "context": "{\n  \"id\": \"line:0c9fd11\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: There's no way someone could [i]really[/i] use magic to control people's minds.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::a254ca149a5f0d8b",
     "original": "Although...[p/] You clearly have an ability to [i]read[/i] people's minds.",
-    "translation": "",
+    "translation": "虽然吧……[p/]我确实有能力[i]阅读[/]i别人的想法。",
     "context": "{\n  \"id\": \"line:0ff4c68\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Although...[p/] You clearly have an ability to [i]read[/i] people's minds.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::675b125de208eaa9",
     "original": "So, it's not [i]too[/i] out there...",
-    "translation": "",
+    "translation": "所以这好像也没[i]那么[/]i夸张……",
     "context": "{\n  \"id\": \"line:0d78769\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"So, it's not [i]too[/i] out there...\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::871ecf8d77ce7080",
     "original": "Celeste: In a way,[p/] Steelwind was trying to protect us.",
-    "translation": "",
+    "translation": "Celeste: 从某种意义上来说，[p/]斯蒂尔文德是想要保护我们。",
     "context": "{\n  \"id\": \"line:065a323\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Celeste: In a way,[p/] Steelwind was trying to protect us.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7365fe601f98bf1d",
     "original": "Tyrion: ...I appreciate the gesture.[p/] But we need to talk with Miriam if we want to find out more.",
-    "translation": "",
+    "translation": "Tyrion: ……我感谢她的善意，[p/]但为了找出更多事实，我们需要和米莉亚姆交谈。",
     "context": "{\n  \"id\": \"line:0745ab0\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: ...I appreciate the gesture.[p/] But we need to talk with Miriam if we want to find out more.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::72f739afff12675e",
     "original": "Celeste: Just be careful.[p/] Dealing with a member of a Pillar Family could be dangerous for a [i]lot[/i] of reasons.",
-    "translation": "",
+    "translation": "Celeste: 就是要小心一点。[p/]与“四大支柱”家族的一员打交道，可能会有[i]很多[/i]危险。",
     "context": "{\n  \"id\": \"line:0434023\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Celeste: Just be careful.[p/] Dealing with a member of a Pillar Family could be dangerous for a [i]lot[/i] of reasons.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::9c2b3ae2fbcf576e",
     "original": "Tyrion: I don't think we've gotten all the information we need out of Eris.",
-    "translation": "",
+    "translation": "Tyrion: 我认为厄莉斯那里还有我们没获得的信息。",
     "context": "{\n  \"id\": \"line:0d2d804\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: I don't think we've gotten all the information we need out of Eris.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::ddd21e5f70c263bc",
     "original": "Tyrion: We should head back to the cemetery.",
-    "translation": "",
+    "translation": "Tyrion: 我们应该回到墓园。",
     "context": "{\n  \"id\": \"line:0757f28\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: We should head back to the cemetery.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::8540c257b95ae590",
     "original": "Tyrion: The prosecution believes that Wallace killed Bellwether in the Library.",
-    "translation": "",
+    "translation": "Tyrion: 检察官确信是华莱士在图书馆杀死了贝尔维瑟。",
     "context": "{\n  \"id\": \"line:00b2e64\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: The prosecution believes that Wallace killed Bellwether in the Library.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::e1fec3da490638ac",
     "original": "Tyrion: We didn't really investigate that room the first time around.",
-    "translation": "",
+    "translation": "Tyrion: 我们一开始没机会好好调查那个房间。",
     "context": "{\n  \"id\": \"line:09c8afa\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: We didn't really investigate that room the first time around.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::5c152cebff862759",
     "original": "Tyrion: We might be able to find some new leads there.",
-    "translation": "",
+    "translation": "Tyrion: 或许能在哪里发现新的线索。",
     "context": "{\n  \"id\": \"line:0e0a5cb\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: We might be able to find some new leads there.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4bf7284d0e4dc8dd",
     "original": "Tyrion: Steelwind isn't cooperating with us,[p/] but I don't think I have enough information to ARGUE with her.",
-    "translation": "",
+    "translation": "Tyrion: 斯蒂尔文德不愿合作，[p/]但我不认为现在有足够的信息 <size=1.5em>说服</size> 她。",
     "context": "{\n  \"id\": \"line:048c658\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: Steelwind isn't cooperating with us,[p/] but I don't think I have enough information to ARGUE with her.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::93c63693d4695f2c",
     "original": "Tyrion: We should head somewhere else in the meantime.",
-    "translation": "",
+    "translation": "Tyrion: 现在应该先去别的地方。",
     "context": "{\n  \"id\": \"line:096c4ad\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: We should head somewhere else in the meantime.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7764b4a2d98c4871",
     "original": "Tyrion: We found a decent amount of information with Commander White's help.",
-    "translation": "",
+    "translation": "Tyrion: 在怀特指挥官的帮助下，我们得到了数量可观的信息。",
     "context": "{\n  \"id\": \"line:0c798b2\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: We found a decent amount of information with Commander White's help.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::4c0afe1143a41409",
     "original": "Tyrion: I think we finally have enough information to ARGUE with Steelwind.",
-    "translation": "",
+    "translation": "Tyrion: 我们应该有足够的信息 <size=1.5em>说服</size> 斯蒂尔文德了。",
     "context": "{\n  \"id\": \"line:0305cde\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: I think we finally have enough information to ARGUE with Steelwind.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::7d8619baba23baed",
     "original": "...You just hope she'll finally be receptive to you.",
-    "translation": "",
+    "translation": "……只能希望她最后会愿意敞开心扉。",
     "context": "{\n  \"id\": \"line:05d7fd2\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"...You just hope she'll finally be receptive to you.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::cc86b9caf7b49d7f",
     "original": "Tyrion: Steelwind finally told us about Miriam Frega.[p/] And we even know where her dorm room is.",
-    "translation": "",
+    "translation": "Tyrion: 斯蒂尔文德终于告诉我们米莉亚姆·弗雷加的事了。[p/]我们现在也知道她的宿舍在哪里。",
     "context": "{\n  \"id\": \"line:0c7164a\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: Steelwind finally told us about Miriam Frega.[p/] And we even know where her dorm room is.\"\n}"
   },
   {
     "key": "C2 Dialogue.csv::translation::52071ca7de02e2cc",
     "original": "Tyrion: We should head there and TALK to her.",
-    "translation": "",
+    "translation": "Tyrion: 我们得赶过去与她 <size=1.5em>交谈</size> 。",
     "context": "{\n  \"id\": \"line:053a89c\",\n  \"node\": \"SchoolFoyer2_Talk\",\n  \"text\": \"Tyrion: We should head there and TALK to her.\"\n}"
   }
 ]
