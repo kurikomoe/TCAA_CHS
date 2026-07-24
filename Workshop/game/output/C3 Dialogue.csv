@@ -1,54 +1,54 @@
 id,node,text,translation
 line:0ecb64f,AurUpstairs_Examine,Player: Tavern,
-line:0a89623,AurUpstairs_Examine,"Tyrion: So...[p/] Is it just me,[p/] or does this hallway look similar to the one in your family's tavern?",
-line:03a2082,AurUpstairs_Examine,"Celeste: Well,[p/] most taverns use the same architecture.[p/] So, I don't think it's [i]that[/i] strange.",
-line:0e0cece,AurUpstairs_Examine,"Tyrion: No,[p/] but it looks [i]exactly[/i] like the McCoy Tavern.[p/] It's uncanny.",
-line:0b8b991,AurUpstairs_Examine,Tyrion: It's as if whoever made this tavern decided to just reuse the same design.,
-line:0a57052,AurUpstairs_Examine,"Celeste: Hey,[p/] making unique designs is difficult, Tyrion.[p/] [i]And[/i] it costs money.",
-line:05bc693,AurUpstairs_Examine,Celeste: Do you really think developers should be spending resources on a location that you'll only see once?,
-line:0573b35,AurUpstairs_Examine,Tyrion: I don't know...[p/] It just seems kind of lazy.,
-line:019e442,AurUpstairs_Examine,"Celeste: Well, if it bothers you so much,[p/][s/] why don't [i]you[/i] pay for the assets required to make a new one?",
-line:07d3ff9,AurUpstairs_Examine,I decided to drop the matter.,
+line:0a89623,AurUpstairs_Examine,"Tyrion: So...[p/] Is it just me,[p/] or does this hallway look similar to the one in your family's tavern?",Tyrion: 所以……[p/]是我眼花吗，[p/]还是说这条走廊跟你家酒馆里的那条很像？
+line:03a2082,AurUpstairs_Examine,"Celeste: Well,[p/] most taverns use the same architecture.[p/] So, I don't think it's [i]that[/i] strange.",Celeste: 嗯，[p/]大部分酒馆的建筑风格都差不多，[p/]所以我觉得这没有[i]那么[/]i奇怪。
+line:0e0cece,AurUpstairs_Examine,"Tyrion: No,[p/] but it looks [i]exactly[/i] like the McCoy Tavern.[p/] It's uncanny.",Tyrion: 不，[p/]但这跟麦考伊酒馆看起来[i]一模一样[/]i。[p/]有点不可思议了。
+line:0b8b991,AurUpstairs_Examine,Tyrion: It's as if whoever made this tavern decided to just reuse the same design.,Tyrion: 就好像建这酒馆的人直接套用了同样的设计。
+line:0a57052,AurUpstairs_Examine,"Celeste: Hey,[p/] making unique designs is difficult, Tyrion.[p/] [i]And[/i] it costs money.",Celeste: 喂，[p/]做出独特设计很困难的，提利昂，[p/][i]而且[/]i得花钱。
+line:05bc693,AurUpstairs_Examine,Celeste: Do you really think developers should be spending resources on a location that you'll only see once?,Celeste: 你真觉得开发人员应该把资源花在一个只会来一次的地方吗？
+line:0573b35,AurUpstairs_Examine,Tyrion: I don't know...[p/] It just seems kind of lazy.,Tyrion: 我不知道……[p/]这样看起来有点懒。
+line:019e442,AurUpstairs_Examine,"Celeste: Well, if it bothers you so much,[p/][s/] why don't [i]you[/i] pay for the assets required to make a new one?",Celeste: 要是你这么在意，[p/][s/]那[i]你[/]i出钱做新的不就行了？
+line:07d3ff9,AurUpstairs_Examine,I decided to drop the matter.,我决定不管这件事了。
 line:0d93d07,AurUpstairs_Examine,Player: End Door,
-line:0350852,AurUpstairs_Examine,"Tyrion: Is this your room, Aster?",
-line:0b3a7ec,AurUpstairs_Examine,"Aster: Yes,[p/] it's quite cozy.",
-line:023938a,AurUpstairs_Examine,Aster: I'm very pleased with how much personality the craftsmanship has.,
-line:0543601,AurUpstairs_Examine,Aster: It's nothing like any of the resorts I've stayed at.[p/] It's far more rustic.,
-line:0cc5c51,AurUpstairs_Examine,Tyrion: Hm...,
+line:0350852,AurUpstairs_Examine,"Tyrion: Is this your room, Aster?",Tyrion: 这是你的房间吗，阿斯特？
+line:0b3a7ec,AurUpstairs_Examine,"Aster: Yes,[p/] it's quite cozy.",Aster: 对啊，[p/]里面挺舒适的。
+line:023938a,AurUpstairs_Examine,Aster: I'm very pleased with how much personality the craftsmanship has.,Aster: 我对其展现的个性与工匠精神非常满意。
+line:0543601,AurUpstairs_Examine,Aster: It's nothing like any of the resorts I've stayed at.[p/] It's far more rustic.,Aster: 它并不像我待过的任何一座度假酒店，[p/]而是更具乡村风格。
+line:0cc5c51,AurUpstairs_Examine,Tyrion: Hm...,Tyrion: 嗯……
 line:07bc84d,AurUpstairs_Examine,Player: Back,
-line:0722c17,AurUpstairs_Talk,Player: Aster de Wyverngarde,
-line:091d365,AurUpstairs_Talk,"Tyrion: So, Your Highness—",
-line:0186355,AurUpstairs_Talk,"Aster: Please, there's no need for that.[p/] Just call me ""Aster"".",
-line:05a9316,AurUpstairs_Talk,"He couldn't be serious, could he?",
-line:0173120,AurUpstairs_Talk,"After I got a good look at him,[p/] he looked sincere—[p/]a little [i]too[/i] sincere.",
-line:00b7be2,AurUpstairs_Talk,"He carried himself with the poise of a royal,[p/] but there was also a warm kindness and humility in his eyes.",
-line:0b9c749,AurUpstairs_Talk,"He sounded too good to be true,[p/] but maybe I was just too jaded by the other aristocrats I'd met.",
-line:049aaa1,AurUpstairs_Talk,"Tyrion: What is the Crown Prince doing in a tavern like this, anyway?",
-line:0413320,AurUpstairs_Talk,"Aster: Ah,[p/] the Kingsguard were being far too overbearing.",
-line:04f2c89,AurUpstairs_Talk,"Aster: They were insistent that I return to the capital,[p/] but I'd been planning this trip to Aurinax for days.",
-line:05c8f7e,AurUpstairs_Talk,Aster: I found an opportunity to sneak away from them and hired a guide to show me around the city.,
-line:05ebbad,AurUpstairs_Talk,Tyrion: Are you talking about Noah Morrison?,
-line:0deeaae,AurUpstairs_Talk,"Aster: Ah, yes.[p/] Mr. Morrison.",
-line:0c38899,AurUpstairs_Talk,Aster: He told me quite a lot about the industrial complexities of Aurinax[p/] and even more about the workers' unions.,
-line:052e1fc,AurUpstairs_Talk,Celeste: ...Is it really okay for you to disappear like that?,
-line:060d0dd,AurUpstairs_Talk,Celeste: The Kingsguard are probably freaking out over losing track of you.,
-line:00e8396,AurUpstairs_Talk,"Aster: Ah,[p/] they worry far too much.[p/] I can take care of myself.",
-line:0dd46c2,AurUpstairs_Talk,"Aster: I may not look it,[p/] but I'm one of the most powerful mages in this kingdom.",
-line:056b645,AurUpstairs_Talk,"Tyrion: That sounds awfully cocky,[p/] don't you think?",
-line:09d66e7,AurUpstairs_Talk,Aster: Hm...[p/] You think so?,
-line:084d455,AurUpstairs_Talk,There was so much optimism behind those eyes.[p/] How sheltered was this guy?,
-line:0bba11f,AurUpstairs_Talk,Player: What did you see?,
-line:09dcfd0,AurUpstairs_Talk,"Tyrion: Anyways,[p/] Mr. Morrison told us you were present when the accident occurred.",
-line:010c5c0,AurUpstairs_Talk,"Aster: Ah, it was quite dreadful what happened.",
-line:0d9acd5,AurUpstairs_Talk,Tyrion: We only have one witness who actually saw Justin fall into that vat.,
-line:0b8f3c2,AurUpstairs_Talk,Tyrion: I was wondering if you saw anything she didn't.,
-line:0f83f2f,AurUpstairs_Talk,"Aster: I didn't see much, I'm afraid.[p/] It all happened very quickly.",
-line:031f15c,AurUpstairs_Talk,"Aster: If he weren't yelling at that animal,[p/] I might not have even noticed him.",
-line:06782a7,AurUpstairs_Talk,"Tyrion: ...There was an animal up on the catwalk, too?",
-line:02cfdde,AurUpstairs_Talk,"Aster: It looked to be some kind of hairless rodent,[p/] but it was abnormally large.",
-line:02532ce,AurUpstairs_Talk,Aster: I think he may have been trying to catch it.[p/] He even grabbed it at one point.,
-line:0428eac,AurUpstairs_Talk,Tyrion: ...Was he facing towards Dracogen's office when he was yelling at this rodent?,
-line:0fb3c61,AurUpstairs_Talk,Aster: I think so.[p/] Noah pointed out the office window earlier.[p/] It allowed Stefanic to oversee the refinery.,
+line:0722c17,AurUpstairs_Talk,Player: Aster de Wyverngarde,Player: 阿斯特·维文加德
+line:091d365,AurUpstairs_Talk,"Tyrion: So, Your Highness—",Tyrion: 那么，王子殿下——
+line:0186355,AurUpstairs_Talk,"Aster: Please, there's no need for that.[p/] Just call me ""Aster"".",Aster: 别这样，没有必要。[p/]叫我“阿斯特”就好了。
+line:05a9316,AurUpstairs_Talk,"He couldn't be serious, could he?",他不是认真的吧？
+line:0173120,AurUpstairs_Talk,"After I got a good look at him,[p/] he looked sincere—[p/]a little [i]too[/i] sincere.",我看了他一眼，[p/]他看起来十分真诚——[p/]甚至有点真诚[i]过头[/i]了。
+line:00b7be2,AurUpstairs_Talk,"He carried himself with the poise of a royal,[p/] but there was also a warm kindness and humility in his eyes.",他举手投足之间自有一股王室风范，[p/]但他眼神中也流露出温暖的善意与谦逊。
+line:0b9c749,AurUpstairs_Talk,"He sounded too good to be true,[p/] but maybe I was just too jaded by the other aristocrats I'd met.",他听起来好得让人难以置信，[p/]但也许我只是对遇到的其他贵族感到厌倦了。
+line:049aaa1,AurUpstairs_Talk,"Tyrion: What is the Crown Prince doing in a tavern like this, anyway?",Tyrion: 但您身为王储，在这样的酒馆里是为什么呢？
+line:0413320,AurUpstairs_Talk,"Aster: Ah,[p/] the Kingsguard were being far too overbearing.",Aster: 啊，[p/]国王卫队有点太担心我了。
+line:04f2c89,AurUpstairs_Talk,"Aster: They were insistent that I return to the capital,[p/] but I'd been planning this trip to Aurinax for days.",Aster: 他们坚持要我返回首都，[p/]但我早早就计划好了来欧奥耐克斯的这次旅行。
+line:05c8f7e,AurUpstairs_Talk,Aster: I found an opportunity to sneak away from them and hired a guide to show me around the city.,Aster: 我找到了一个从他们那里溜出来的机会，然后雇佣了一位向导为我导览全城。
+line:05ebbad,AurUpstairs_Talk,Tyrion: Are you talking about Noah Morrison?,Tyrion: 您说的是诺亚·莫里森？
+line:0deeaae,AurUpstairs_Talk,"Aster: Ah, yes.[p/] Mr. Morrison.",Aster: 啊，是的。[p/]就是莫里森先生。
+line:0c38899,AurUpstairs_Talk,Aster: He told me quite a lot about the industrial complexities of Aurinax[p/] and even more about the workers' unions.,Aster: 他向我介绍了欧奥耐克斯工业发展的复杂处境，[p/]还有关于工会的事情。
+line:052e1fc,AurUpstairs_Talk,Celeste: ...Is it really okay for you to disappear like that?,Celeste: ……你就这么消失不见，真的没问题？
+line:060d0dd,AurUpstairs_Talk,Celeste: The Kingsguard are probably freaking out over losing track of you.,Celeste: 国王卫队找不到你的行踪，多半已经抓狂了。
+line:00e8396,AurUpstairs_Talk,"Aster: Ah,[p/] they worry far too much.[p/] I can take care of myself.",Aster: 啊，[p/]他们就是太操心了。[p/]我能照顾好自己的。
+line:0dd46c2,AurUpstairs_Talk,"Aster: I may not look it,[p/] but I'm one of the most powerful mages in this kingdom.",Aster: 虽然看不太出来，[p/]我其实也是王国最强大的法师之一。
+line:056b645,AurUpstairs_Talk,"Tyrion: That sounds awfully cocky,[p/] don't you think?",Tyrion: 这说法听起来还有点自大，[p/]您不这么认为吗？
+line:09d66e7,AurUpstairs_Talk,Aster: Hm...[p/] You think so?,Aster: 嗯……[p/]你是这么想的？
+line:084d455,AurUpstairs_Talk,There was so much optimism behind those eyes.[p/] How sheltered was this guy?,他的眼神中充满了自信。[p/]这家伙真是被保护得太周全了吧？
+line:0bba11f,AurUpstairs_Talk,Player: What did you see?,Player: 你看到了什么？
+line:09dcfd0,AurUpstairs_Talk,"Tyrion: Anyways,[p/] Mr. Morrison told us you were present when the accident occurred.",Tyrion: 总而言之，[p/]莫里森先生提到，那起事故发生时您在现场。
+line:010c5c0,AurUpstairs_Talk,"Aster: Ah, it was quite dreadful what happened.",Aster: 啊，那件事情太可怕了。
+line:0d9acd5,AurUpstairs_Talk,Tyrion: We only have one witness who actually saw Justin fall into that vat.,Tyrion: 我们之前只知道一位目击到贾斯汀落入精炼容器的证人。
+line:0b8f3c2,AurUpstairs_Talk,Tyrion: I was wondering if you saw anything she didn't.,Tyrion: 我想知道您是否有见到她没看到的内容。
+line:0f83f2f,AurUpstairs_Talk,"Aster: I didn't see much, I'm afraid.[p/] It all happened very quickly.",Aster: 但恐怕我也没看得很清楚。[p/]发生得太快了。
+line:031f15c,AurUpstairs_Talk,"Aster: If he weren't yelling at that animal,[p/] I might not have even noticed him.",Aster: 要不是他向那个动物吼叫，[p/]我可能都不会注意到他。
+line:06782a7,AurUpstairs_Talk,"Tyrion: ...There was an animal up on the catwalk, too?",Tyrion: ……也就是说，当时步道上有一只动物？
+line:02cfdde,AurUpstairs_Talk,"Aster: It looked to be some kind of hairless rodent,[p/] but it was abnormally large.",Aster: 看着像某种无毛的老鼠，[p/]但体型大得不寻常。
+line:02532ce,AurUpstairs_Talk,Aster: I think he may have been trying to catch it.[p/] He even grabbed it at one point.,Aster: 我认为他当时是想抓住它，[p/]而且在某个瞬间甚至碰到它了。
+line:0428eac,AurUpstairs_Talk,Tyrion: ...Was he facing towards Dracogen's office when he was yelling at this rodent?,Tyrion: 他向那只“老鼠”吼叫的时候是面对着德拉科根的办公室吗？
+line:0fb3c61,AurUpstairs_Talk,Aster: I think so.[p/] Noah pointed out the office window earlier.[p/] It allowed Stefanic to oversee the refinery.,Aster: 我想是的。[p/]诺亚早些时候有向我介绍过那间办公室。[p/]斯蒂芬尼克可以在那里俯瞰整座精炼厂的运行情况。
 line:0b49491,AurUpstairs_Talk,Tyrion: Did you see anyone else up on the catwalk?,
 line:0eb53bb,AurUpstairs_Talk,"Aster: No,[p/] my view of the catwalk was limited by my position.",
 line:03542e5,AurUpstairs_Talk,"Ugh...[p/] This whole time,[p/] I thought Justin had been yelling at the Phantom,[p/] but it turned out he was just yelling at a rat.",
@@ -96,21 +96,21 @@ line:0441aae,AurUpstairs_Talk,Aster: Not many do.[p/] Even the most heartless mo
 line:0478c07,AurUpstairs_Talk,"Aster: I was surprised when he took the stand at the trial yesterday,[p/] but I'm sure it's just another plot to undermine the other pillar families.",
 line:0118eac,AurUpstairs_Talk,"Aster: I had really hoped my arranged marriage to Lady Steelwind would sate his thirst for power,[p/] but it seems to have just made it worse.",
 line:0e12d4d,AurUpstairs_Talk,Celeste: Wait...[p/] What did you just say?,
-line:07dfa2f,AurUpstairs_Talk,"Aster: Ah,[p/] of course.[p/] I suppose most outside of the nobility wouldn't be aware of it.",
-line:03e87ce,AurUpstairs_Talk,Aster: My father and the Grand General have arranged for me to marry Lady Steelwind.,
-line:0ab9652,AurUpstairs_Talk,Celeste: What?![p/][s/] She never told me she was engaged to the [i]Crown Prince[/i].,
-line:0934b32,AurUpstairs_Talk,Aster: I wouldn't blame her.[p/] She's not exactly pleased with our arrangement.,
-line:087d988,AurUpstairs_Talk,Aster: That woman despises me.,
-line:0dee606,AurUpstairs_Talk,Tyrion: ...What?,
-line:0450ef0,AurUpstairs_Talk,Aster: Our marriage is purely political—[p/]a way to unify the royal family with the upper brass of the military.,
-line:0cc46f7,AurUpstairs_Talk,"Aster: I admire her desire to bring prosperity to the commonfolk,[p/] but I unfortunately seem to represent everything she hates about this kingdom.",
-line:0bda098,AurUpstairs_Talk,"Aster: She can't even stand speaking to me.[p/] Every time I'm around her,[p/] she can barely contain her contempt.",
-line:034c8c3,AurUpstairs_Talk,Celeste: Oh no...,
-line:0413f50,AurUpstairs_Talk,Aster: But I've made my peace with that.[p/] She's always cared more about her duty than anything else.,
-line:033a7b2,AurUpstairs_Talk,"Aster: When I take the throne,[p/] I will build her a compassionate kingdom that she can take pride in.",
-line:034b132,AurUpstairs_Talk,"...I really wanted to believe him,[p/] but I knew better than to trust empty promises like that.",
-line:07747d1,AurUpstairs_Talk,I guess only time would tell what kind of ruler he would be.,
-line:089dd8d,AurUpstairs_Talk,Player: The Stolen Item,
+line:07dfa2f,AurUpstairs_Talk,"Aster: Ah,[p/] of course.[p/] I suppose most outside of the nobility wouldn't be aware of it.",Aster: 啊，[p/]当然了。[p/]我想除了贵族们，外面绝大多数人还没有注意到。
+line:03e87ce,AurUpstairs_Talk,Aster: My father and the Grand General have arranged for me to marry Lady Steelwind.,Aster: 父王和大将军安排了我和斯蒂尔文德女士的婚约。
+line:0ab9652,AurUpstairs_Talk,Celeste: What?![p/][s/] She never told me she was engaged to the [i]Crown Prince[/i].,Celeste: 真的？！[p/][s/]她可从来没跟我说过，她有和[i]王储殿下[/i]订婚啊。
+line:0934b32,AurUpstairs_Talk,Aster: I wouldn't blame her.[p/] She's not exactly pleased with our arrangement.,Aster: 我不会因此责怪她。[p/]实际上她一点都不因我们的婚约感到喜悦。
+line:087d988,AurUpstairs_Talk,Aster: That woman despises me.,Aster: 那位女士轻蔑于我。
+line:0dee606,AurUpstairs_Talk,Tyrion: ...What?,Tyrion: ……怎么会？
+line:0450ef0,AurUpstairs_Talk,Aster: Our marriage is purely political—[p/]a way to unify the royal family with the upper brass of the military.,Aster: 我们纯粹是政治联姻——[p/]是将王室与军方高层结成同盟的手段。
+line:0cc46f7,AurUpstairs_Talk,"Aster: I admire her desire to bring prosperity to the commonfolk,[p/] but I unfortunately seem to represent everything she hates about this kingdom.",Aster: 我尊敬她为平民带去繁荣发展的愿望，[p/]但不幸的是，我恰恰代表着她在这个王国憎恨的一切。
+line:0bda098,AurUpstairs_Talk,"Aster: She can't even stand speaking to me.[p/] Every time I'm around her,[p/] she can barely contain her contempt.",Aster: 她甚至无法忍受与我交谈。[p/]每当我出现在她附近，[p/]她几乎无法保持镇定。
+line:034c8c3,AurUpstairs_Talk,Celeste: Oh no...,Celeste: 不是吧……
+line:0413f50,AurUpstairs_Talk,Aster: But I've made my peace with that.[p/] She's always cared more about her duty than anything else.,Aster: 但我能平和地看待这个问题。[p/]她总是将自身的职责看得比什么都重要。
+line:033a7b2,AurUpstairs_Talk,"Aster: When I take the throne,[p/] I will build her a compassionate kingdom that she can take pride in.",Aster: 到我继承王位的时候，[p/]我将为她建设一个能让她为之骄傲的仁爱国家。
+line:034b132,AurUpstairs_Talk,"...I really wanted to believe him,[p/] but I knew better than to trust empty promises like that.",……我真的很想相信他。[p/]但我知道这样的空头承诺是最不能相信的。
+line:07747d1,AurUpstairs_Talk,I guess only time would tell what kind of ruler he would be.,我想，只有时间能证明他会实行怎样的统治。
+line:089dd8d,AurUpstairs_Talk,Player: The Stolen Item,Player: 被盗的货物
 line:0f8834c,AurUpstairs_Talk,Player: BACK,
 line:0b4fc33,AsterConvStoleItem,"Tyrion: Aster, I've been hearing an awful lot about how the serial robber stole that item from your ship.",
 line:063512e,AsterConvStoleItem,"Aster: Ah, that.[p/] The Kingsguard have been scrambling around trying to find it.",
@@ -161,18 +161,18 @@ line:0012b3a,AurUpstairs_Present,Celeste: ...I don't want to talk about it.,
 line:0ba5f3b,AurUpstairs_Present,I decided to drop the subject.,
 line:0b45cc8,AurUpstairs_Present,Player: Aria,
 line:0c25879,AurUpstairs_Present,"Aster: Ah,[p/] Lady Steelwind.[p/] I'm glad to see my fiancée is growing into her role.",
-line:094c7c3,AurUpstairs_Present,Celeste: What?![p/][s/] She never told me she was engaged to the [i]Crown Prince[/i].,
-line:03d98ca,AurUpstairs_Present,Aster: I wouldn't blame her.[p/] She's not exactly pleased with our arrangement.,
-line:094f83e,AurUpstairs_Present,Aster: That woman despises me.,
-line:09704a4,AurUpstairs_Present,Tyrion: ...What?,
-line:0b528a9,AurUpstairs_Present,Aster: Our marriage is purely political—[p/]a way to unify the royal family with the upper brass of the military.,
-line:01c43b2,AurUpstairs_Present,"Aster: I admire her desire to bring prosperity to the commonfolk,[p/] but I unfortunately seem to represent everything she hates about this kingdom.",
-line:0661f6b,AurUpstairs_Present,"Aster: She can't even stand speaking to me.[p/] Every time I'm around her,[p/] she can barely contain her contempt.",
-line:0d6f575,AurUpstairs_Present,Celeste: Oh no...,
-line:0e13659,AurUpstairs_Present,Aster: But I've made my peace with that.[p/] She's always cared more about her duty than anything else.,
-line:0104460,AurUpstairs_Present,"Aster: When I take the throne,[p/] I will build her a compassionate kingdom that she can take pride in.",
-line:0fdc7e6,AurUpstairs_Present,"...I really wanted to believe him,[p/] but I knew better than to trust empty promises like that.",
-line:0a3edf1,AurUpstairs_Present,I guess only time would tell what kind of ruler he would be.,
+line:094c7c3,AurUpstairs_Present,Celeste: What?![p/][s/] She never told me she was engaged to the [i]Crown Prince[/i].,Celeste: 真的？！[p/][s/]她可从来没跟我说过，她有和[i]王储殿下[/i]订婚啊。
+line:03d98ca,AurUpstairs_Present,Aster: I wouldn't blame her.[p/] She's not exactly pleased with our arrangement.,Aster: 我不会因此责怪她。[p/]实际上她一点都不因我们的婚约感到喜悦。
+line:094f83e,AurUpstairs_Present,Aster: That woman despises me.,Aster: 那位女士轻蔑于我。
+line:09704a4,AurUpstairs_Present,Tyrion: ...What?,Tyrion: ……怎么会？
+line:0b528a9,AurUpstairs_Present,Aster: Our marriage is purely political—[p/]a way to unify the royal family with the upper brass of the military.,Aster: 我们纯粹是政治联姻——[p/]是将王室与军方高层结成同盟的手段。
+line:01c43b2,AurUpstairs_Present,"Aster: I admire her desire to bring prosperity to the commonfolk,[p/] but I unfortunately seem to represent everything she hates about this kingdom.",Aster: 我尊敬她为平民带去繁荣发展的愿望，[p/]但不幸的是，我恰恰代表着她在这个王国憎恨的一切。
+line:0661f6b,AurUpstairs_Present,"Aster: She can't even stand speaking to me.[p/] Every time I'm around her,[p/] she can barely contain her contempt.",Aster: 她甚至无法忍受与我交谈。[p/]每当我出现在她附近，[p/]她几乎无法保持镇定。
+line:0d6f575,AurUpstairs_Present,Celeste: Oh no...,Celeste: 不是吧……
+line:0e13659,AurUpstairs_Present,Aster: But I've made my peace with that.[p/] She's always cared more about her duty than anything else.,Aster: 但我能平和地看待这个问题。[p/]她总是将自身的职责看得比什么都重要。
+line:0104460,AurUpstairs_Present,"Aster: When I take the throne,[p/] I will build her a compassionate kingdom that she can take pride in.",Aster: 到我继承王位的时候，[p/]我将为她建设一个能让她为之骄傲的仁爱国家。
+line:0fdc7e6,AurUpstairs_Present,"...I really wanted to believe him,[p/] but I knew better than to trust empty promises like that.",……我真的很想相信他。[p/]但我知道这样的空头承诺是最不能相信的。
+line:0a3edf1,AurUpstairs_Present,I guess only time would tell what kind of ruler he would be.,我想，只有时间能证明他会实行怎样的统治。
 line:03e1667,AurUpstairs_Present,Player: Ruby,
 line:08c5c2c,AurUpstairs_Present,Aster: Is Ruby Tymora here as well?,
 line:0bcc7fc,AurUpstairs_Present,Aster: I was wondering if you could put in a good word for me.[p/] I've been wanting her autograph.,
@@ -284,7 +284,7 @@ line:055bd0d,Cafe1_Examine,"There was a shelf full of drinks,[p/] mugs,[p/] and 
 line:0111792,Cafe1_Examine,It must've been where Rika's employees prepared coffee to be served.,
 line:0170967,Cafe1_Examine,Player: Back,
 line:0aca0d7,Cafe1_Talk,Player: The Court Case,
-line:000be57,Cafe1_Talk,Player: What did you see?,
+line:000be57,Cafe1_Talk,Player: What did you see?,Player: 你看到了什么？
 line:0c81419,Cafe1_Talk,"Tyrion: Alright,[p/] let's get to work.",
 line:04ae440,Cafe1_Talk,Tyrion: You said that you saw someone cast a spell that pushed Justin into the vats.,
 line:0df3f67,Cafe1_Talk,Tyrion: Can you tell me exactly what you saw?[p/] I need every detail you can remember.,
@@ -418,7 +418,7 @@ line:087fe21,Cafe1_Present,Celeste: ...?,
 line:0b42035,Cafe1_Present,Player: Justin|Autopsy,
 line:0cdf457,Cafe1_Present,Tyrion: I'm really sorry about what happened to Justin.,
 line:003b795,Cafe1_Present,"Mosourika: It just seems so unfair.[p/] He just got his freedom back a few months ago. [h=""Something happened to him|when he was locked up..."" e=""""/]",
-line:001e578,Cafe1_Present,Tyrion: ...What?,
+line:001e578,Cafe1_Present,Tyrion: ...What?,Tyrion: ……怎么会？
 line:03e2621,Cafe1_Present,"Tyrion: Rika,[p/] was Justin convicted of a crime?",
 line:0880d2d,Cafe1_Present,Mosourika: S-[p/][s/]Sorry.[p/] Forget I said that.,
 line:0bc1bb2,Cafe1_Present,"Tyrion: If he has a criminal history,[p/] that may point to who may have done this.",
@@ -1037,7 +1037,7 @@ line:02cb2bd,Courtroom1,"Tyrion: I understand your reservations,[p/] but there's
 line:0f30877,Courtroom1,Tyrion: They're just here to watch the trial.,
 line:0d3d339,Courtroom1,"Stefanic: I really appreciate you coming to testify, Ms. Tudor.",
 line:0d44371,Courtroom1,Stefanic: I can imagine it's difficult for you to return here again.,
-line:031916f,Courtroom1,Tyrion: ...What?,
+line:031916f,Courtroom1,Tyrion: ...What?,Tyrion: ……怎么会？
 line:006bdf6,Courtroom1,Stefanic: ...,
 line:0f9a9b6,Courtroom1,Stefanic: My apologies.[p/] Perhaps I've said too much.,
 line:04e0c3c,Courtroom1,Mosourika: [i]*sigh*[/i][p/] Let's just get this over with...,
@@ -1206,7 +1206,7 @@ line:04a6bfb,RikaObj,Tyrion: My witness is certain that she saw a spell destroy 
 line:0806414,RikaObj,AriaC: Your witness is a business associate of the defendant![p/][s/] She clearly has every reason to lie in her testimony!,
 line:0922825,RikaObj,"Tyrion: So are you baselessly accusing my witness of perjury, Steelwind?!",
 line:0202b7f,RikaObj,AriaC: I am.[p/] It's not as if this is her first time breaking the law.,
-line:03a9818,RikaObj,Tyrion: ...What?,
+line:03a9818,RikaObj,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0a6e40c,RikaObj,Mosourika: U-[p/][s/]Uh...,
 line:0c07328,RikaObj2,"AriaC: Ms. Tudor,[p/] I understand that you run a café in the food district.",
 line:07769cf,RikaObj2,AriaC: This café would not exist without the generous patronage of the defendant.,
@@ -1603,7 +1603,7 @@ line:008d2e2,LucioObj,Tyrion: Lucio Steelwind![p/][s/] I think you know the indi
 line:0a2d3de,LucioObj,Tyrion: You [i]know[/i] that they weren't guilty of treason!,
 line:01222f7,LucioObj,Lucio: That's correct.,
 line:07d39cc,LucioObj,Tyrion: I—,
-line:035ea11,LucioObj,Tyrion: ...What?,
+line:035ea11,LucioObj,Tyrion: ...What?,Tyrion: ……怎么会？
 line:07507a9,LucioObj,AriaC: What?!,
 line:095cca5,LucioObj2,AriaC: Fa—[p/][s/] [i]Grand General[/i]!,
 line:0eb8f40,LucioObj2,AriaC: Are you [i]admitting[/i] that you arrested these individuals with the knowledge that the charges were false?!,
@@ -1624,7 +1624,7 @@ line:0f7fd42,LucioObj2,JUDGE: Court is adjourned.,
 line:0bbe648,AfterCourtOne,Lucio: ...,
 line:030fbb0,AfterCourtOne,Celeste: ...,
 line:032897a,AfterCourtOne,Lucio: So...?[p/] Out with it.,
-line:047a260,AfterCourtOne,Tyrion: ...What?,
+line:047a260,AfterCourtOne,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0e0983f,AfterCourtOne,Lucio: You look like you want to say something.,
 line:02c5d58,AfterCourtOne,Tyrion: ...,
 line:0b57e7d,AfterCourtOne,"Tyrion: If I didn't know any better,[p/] I would think that you tried to help us back there.",
@@ -1749,7 +1749,7 @@ line:0b7c35c,StartInves2c,Celeste: ...,
 line:07fd1cf,StartInves2c,Aster: I'm—,
 line:00fd336,StartInves2c,Aster: —your biggest fan!,
 line:061085a,StartInves2c,Tyrion: ...,
-line:0667e7f,StartInves2c,Tyrion: ...What?,
+line:0667e7f,StartInves2c,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0ff282b,StartInves2c,Aster: I can't believe it![p/][s/] The [i]infamous[/i] Tyrion Cuthbert is standing right in front of my tavern room!,
 line:0098215,StartInves2c,Celeste: ...What?,
 line:0104f87,StartInves2c,"Aster: I've read [i]all[/i] about your feats, Mr. Cuthbert.",
@@ -2439,7 +2439,7 @@ line:089de7d,LloydCornered9,The duke's eyes nervously shot around the courtroom.
 line:086cba4,LloydCornered9,"Every eye was on him.[p/] He could have denied everything,[p/] but his nervous indignation had betrayed what he'd done.",
 line:0d6e527,LloydCornered9,AriaC: ...,
 line:0187438,LloydCornered9,"AriaC: ...There's no evidence, Mr. Cuthbert.",
-line:0d51d78,LloydCornered9,Tyrion: ...What?,
+line:0d51d78,LloydCornered9,Tyrion: ...What?,Tyrion: ……怎么会？
 line:07aa3c2,LloydCornered9,AriaC: There's no evidence that actually proves he was involved with this.,
 line:053474d,LloydCornered9,"AriaC: You only have the ring,[p/] and that won't be concrete enough.",
 line:0eab990,LloydCornered9,Lloyd: ...!,
@@ -2670,7 +2670,7 @@ line:0e64b16,LloydConfrontEnd2,"Lloyd: This isn't over, Lucio![p/][s/] This is [
 line:0dbab83,LloydConfrontEnd2,"The Duke of Commerce left in a huff,[p/] grumbling to himself.",
 line:0de1668,LloydConfrontEnd2,"I narrowed my eyes at the Grand General.[p/] For the first time,[p/] he wasn't surrounded by his knights.",
 line:03b06c5,LloydConfrontEnd2,Lucio: ...He was speaking about [b]Familial Bond[/b].,
-line:0aeb98f,LloydConfrontEnd2,Tyrion: ...What?,
+line:0aeb98f,LloydConfrontEnd2,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0df2b64,LloydConfrontEnd2,Lucio: Whatever animal you spoke with was Lloyd von Sanctus's familiar.,
 line:0d84b3f,LloydConfrontEnd2,So [i]that's[/i] how he was speaking with Violetta![p/] It was just an arcane spell.,
 line:07e45f0,LloydConfrontEnd2,But that just raised another question...,
@@ -2696,7 +2696,7 @@ line:027b485,LloydConfrontEnd3,Lucio: Perhaps.[p/] Perhaps not.,
 line:02bec42,LloydConfrontEnd3,Tyrion: So what?[p/][s/] Are you going to have me executed for treason?,
 line:07efdc2,LloydConfrontEnd3,"Tyrion: Considering what's been happening lately,[p/] I doubt that would be a good look for you.",
 line:0a2c0bc,LloydConfrontEnd3,Lucio: Just the opposite.[p/] You are now going to be [i]my[/i] agent.,
-line:0f3bd6f,LloydConfrontEnd3,Tyrion: ...What?,
+line:0f3bd6f,LloydConfrontEnd3,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0a6df3f,LloydConfrontEnd3,Lucio: There will come a day when I will require your skills and abilities.,
 line:0fe49f2,LloydConfrontEnd3,Lucio: The Eye of Radiance is too powerful a weapon for me to squander.[p/] I imagine it will be of great use to me.,
 line:01d02a0,LloydConfrontEnd3,Tyrion: ...And if I refuse?,
@@ -2769,7 +2769,7 @@ line:07e74fb,RikaNTyr2,Mosourika: So many people could have gotten hurt.,
 line:038632e,RikaNTyr2,Mosourika: I live pretty close to the industrial district.[p/] [i]I[/i] could have been caught in that explosion.,
 line:011b091,RikaNTyr2,Tyrion: I can't imagine what would've happened if Justin had never decided to rebel against von Sanctus.,
 line:05d2315,RikaNTyr2,Mosourika: ...Did he really do that though?,
-line:0497886,RikaNTyr2,Tyrion: ...What?,
+line:0497886,RikaNTyr2,Tyrion: ...What?,Tyrion: ……怎么会？
 line:024998f,RikaNTyr2,Mosourika: Do you really think he was rebelling against the Duke?,
 line:0b43f8c,RikaNTyr2,Mosourika: Maybe he just decided to teleport on that catwalk instead of the office.,
 line:0f61fd6,RikaNTyr2,Tyrion: I thought you believed in him more than anyone else.,
@@ -3461,7 +3461,7 @@ line:0f6f11d,Harbor2_Talk,Cat: I needed to make sure he completed his task.,
 line:0d38358,Harbor2_Talk,"Tyrion: ...How did you know what his ""task"" was?",
 line:0607c77,Harbor2_Talk,Cat: Because I gave it to him.,
 line:0685490,Harbor2_Talk,Tyrion: ...,
-line:050cce6,Harbor2_Talk,Tyrion: ...What?,
+line:050cce6,Harbor2_Talk,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0ace2cd,Harbor2_Talk,Cat: I gave him the task to rob those documents from Stefanic Dracogen.,
 line:0e24b35,Harbor2_Talk,Tyrion: ...B-[p/][s/]but—[p/][s/] I—[p/][s/] WHAT?!,
 line:0157e8b,Harbor2_Talk,I just incoherently stammered for a while before clapping my hands together to stop myself.,
@@ -3490,7 +3490,7 @@ line:0cebf26,Harbor2_Talk,"Cat: After he was disposed of,[p/] I had to complete 
 line:0d13104,Harbor2_Talk,"Cat: Luckily,[p/] the boy already unlocked—",
 line:0464888,Harbor2_Talk,Cat: ...,
 line:0f64ddb,Harbor2_Talk,"Cat: Sorry, I have to take this.",
-line:01fce13,Harbor2_Talk,Tyrion: ...What?,
+line:01fce13,Harbor2_Talk,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0fff8b0,Harbor2_Talk,"She didn't respond.[p/] She simply looked up at the sky, distracted.",
 line:09491c2,Harbor2_Talk,Player: BACK,
 line:0f26d9f,Harbor2_Present,Player: Runestone,
@@ -3690,7 +3690,7 @@ line:033dfbc,CatDeduce5,"I knew it...[p/] She may not have been able to lie,[p/]
 line:0c764de,CatDeduce5,"Tyrion: But someone trained you, didn't they?[p/] You knew what the objective was.",
 line:09c80fd,CatDeduce5,"Cat: ""Trained""?[p/] I'm insulted.[p/] I was [i]debriefed[/i].",
 line:06433b1,CatDeduce5,"Cat: It's quite strange, really.[p/] He spoke to me in the same way that you are now.",
-line:012d50e,CatDeduce5,Tyrion: ...What?,
+line:012d50e,CatDeduce5,Tyrion: ...What?,Tyrion: ……怎么会？
 line:010a5ef,CatDeduce5,"Cat: In any case,[p/] it seems I must be going now.[p/] He seems quite anxious about you.",
 line:0be2dbb,CatDeduce5,Tyrion: Wait![p/][s/] Stop!,
 line:0687831,CatDeduce5,"I tried to grab her,[p/] but she gracefully leapt over me.",
@@ -3719,7 +3719,7 @@ line:07d0c7d,Inves2End,"Aria: Unlike spells cast by a mage,[p/] artificery can't
 line:0d3c9aa,Inves2End,"Aria: Usually,[p/] devices with multiple spells will have some kind of switch or multiple buttons.",
 line:0f69965,Inves2End,Tyrion: What about our Runestones?[p/] They project a visual interface for us to use.,
 line:05c62a5,Inves2End,"Aria: Yes,[p] but a system as sophisticated as that wouldn't fit in a ring like this.",
-line:0959678,Inves2End,Tyrion: Hm...,
+line:0959678,Inves2End,Tyrion: Hm...,Tyrion: 嗯……
 line:019095a,Inves2End,"Either way,[p/] Justin must have been using the ring to teleport away from his crimes.",
 line:0e36eae,Inves2End,But what was the function of the second spell?,
 line:07ee8f8,Inves2End,Tyrion: Do you know what target the summoning spell is linked to?,
@@ -4243,7 +4243,7 @@ line:0ddeb2f,Manor1_Check,"One of the voices was distinctly Lloyd's.[p/] I'd rec
 line:0f9d3ba,Manor1_Check,"Nobleman: Wait, here.[p/] I need to...[p/] [i]inform[/i] the Duke of your arrival.",
 line:0e0feaa,Manor1_Check,He entered the room while we waited outside.,
 line:0014f13,Manor1_Check,Celeste: ...So do you want to tell me what [i]that[/i] was about?,
-line:0e85eaf,Manor1_Check,Tyrion: ...What?,
+line:0e85eaf,Manor1_Check,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0a7148f,Manor1_Check,Celeste: You were trying to sic me on those two like some kind of dog.,
 line:0a06062,Manor1_Check,Celeste: I'm not some goon you can use to threaten people like that.,
 line:060dc4a,Manor1_Check,Tyrion: O-[p/][s/]Oh...[p/] I'm sorry.[p/] I was just—,
@@ -4261,7 +4261,7 @@ line:0c94f12,Manor1_Check,Tyrion: Let's just focus on the investigation for now.
 line:092781d,Manor1_Check,Celeste: ...Okay.,
 line:04b85d2,Manor1_Check,"As we entered the nearby room,[p/] we came upon Lloyd von Sanctus speaking with another unfamiliar individual.",
 line:03ee923,Manor1_Check,Lloyd: [i]*sigh*[/i][p/] I just knew you meeting the Crown Prince was a disaster waiting to happen.,
-line:01d49e6,Manor1_Check,Tyrion: ...What?,
+line:01d49e6,Manor1_Check,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0afdc89,Manor1_Check,"Lloyd: I heard about what happened.[p/] Crown Prince Aster let you in, didn't he?",
 line:08dbef0,Manor1_Check,Tyrion: ...,
 line:010b59b,Manor1_Check,Tyrion: That man was the Crown Prince?!,
@@ -4361,7 +4361,7 @@ line:0624a37,RikaArgue6,Mosourika: I-[p/][s/]I—,
 line:08eaab8,RikaArgue6,"Tyrion: I know you're just trying to do the right thing,[p/] but whoever the Phantom is,[p/] their actions could have unimaginable consequences for the city.",
 line:0f80263,RikaArgue6,Mosourika: ...,
 line:02fd1e6,RikaArgue6,Mosourika: How can I trust you?,
-line:0ed585a,RikaArgue6,Tyrion: ...What?,
+line:0ed585a,RikaArgue6,Tyrion: ...What?,Tyrion: ……怎么会？
 line:06306a8,RikaArgue6,Mosourika: How can I trust you?!,
 line:08b6a8a,RikaArgue6,Mosourika: You just disappeared into the forest after the execution![p/][s/] I thought you were dead!,
 line:07f16c7,RikaArgue6,"Mosourika: And then ten years later you show up in the paper,[p/] working for some shady lawyer!",
@@ -4442,7 +4442,7 @@ line:0fa0c92,TyrHouse_Talk,Tyrion: Do you know what he was doing here?,
 line:0982b12,TyrHouse_Talk,"Wyatt: I don't know, man.[p/] I don't ask nothing! [h=""I guess he was back|to being the Mistweaver Phantom."" /]",
 line:0d746f9,TyrHouse_Talk,Tyrion: ...Is there [i]anything[/i] you can tell me?,
 line:04d77eb,TyrHouse_Talk,Wyatt: I don't know![p/][s/] I guess it was kind of weird that he'd always leave the house but never enter it!,
-line:0b1e025,TyrHouse_Talk,Tyrion: ...What?,
+line:0b1e025,TyrHouse_Talk,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0bfd110,TyrHouse_Talk,Wyatt: Gavin said the same thing the other day!,
 line:087ebe5,TyrHouse_Talk,"Wyatt: We always saw him leave through the front door,[p/] but we never saw him enter it!",
 line:05332d9,TyrHouse_Talk,...Was Justin sneaking past them?[p/] But why would he only do that when he [i]entered[/i] the house?,
@@ -4600,9 +4600,9 @@ line:09de481,WyattFinished2,Tyrion: Okay...[p/] And what did this cat look like?
 line:0fdec88,WyattFinished2,Wyatt: It didn't have any hair.[p/] It kind of looked like a piece of raw meat.,
 line:09292c0,WyattFinished2,Did he seriously expect me to believe he saw a hairless cat casting magic?[p/] It was completely—,
 line:01bedde,WyattFinished2,...,
-line:0b5b1b5,WyattFinished2,"Aster: If he weren't yelling at that animal,[p/] I might not have even noticed him.",
-line:0c44962,WyattFinished2,"Tyrion: ...There was an animal up on the catwalk, too?",
-line:0187832,WyattFinished2,"Aster: It looked to be some kind of hairless rodent,[p/] but it was abnormally large.",
+line:0b5b1b5,WyattFinished2,"Aster: If he weren't yelling at that animal,[p/] I might not have even noticed him.",Aster: 要不是他向那个动物吼叫，[p/]我可能都不会注意到他。
+line:0c44962,WyattFinished2,"Tyrion: ...There was an animal up on the catwalk, too?",Tyrion: ……也就是说，当时步道上有一只动物？
+line:0187832,WyattFinished2,"Aster: It looked to be some kind of hairless rodent,[p/] but it was abnormally large.",Aster: 看着像某种无毛的老鼠，[p/]但体型大得不寻常。
 line:0de5b90,WyattFinished2,Aster: He was probably shooing it away.,
 line:032b559,WyattFinished3,That cat was at the refinery when Justin died...,
 line:0dce785,WyattFinished3,That [i]magic[/i] cat was at the scene of the murder.,
@@ -4754,7 +4754,7 @@ line:09a60c4,Square1_Present,Player: Tyrion,
 line:0c4c617,Square1_Present,Celeste: ...Are you okay?,
 line:0968420,Square1_Present,Tyrion: Yes?[p/] Why wouldn't I be?,
 line:09d37bd,Square1_Present,Celeste: It's just that—[p/] Um—,
-line:05cff11,Square1_Present,Tyrion: ...What?,
+line:05cff11,Square1_Present,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0f96571,Square1_Present,Celeste: I-[p/][s/]It's nothing.[p/] Just forget I said anything.,
 line:03760c7,Square1_Present,Player: Celeste,
 line:0fce536,Square1_Present,Tyrion: We've had so many cases together.[p/] I can't believe I've only been practicing law for a month.,

@@ -188,7 +188,7 @@
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::c3ee3c86344c1d4c",
     "original": "Two leather straps form to create what looks to be a pet collar. One piece is engraved with the letters \"VI\" and was dropped by Justin before he fell into the vat. The other piece is engraved with \"ETTA\" and was found lodged in the dented metal container in my house.",
-    "translation": "",
+    "translation": "两条皮带拼在一起像是宠物项圈的样子。刻有字母“VI”的一半在贾斯汀坠入容器前被落下，刻有“ETTA”的另一半被发现时卡在我家那个箱子的一处凹痕中。",
     "context": "{\n  \"reference name\": \"Strap2\",\n  \"display name\": \"Pet Collar\",\n  \"description\": \"Two leather straps form to create what looks to be a pet collar. One piece is engraved with the letters \\\"VI\\\" and was dropped by Justin before he fell into the vat. The other piece is engraved with \\\"ETTA\\\" and was found lodged in the dented metal container in my house.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"Strap2\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -200,31 +200,31 @@
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::b2c616d2e3c10f8a",
     "original": "This leather strap was lodged in one of the dented crevices of the box. It has \"ETTA\" engraved at the end of it.",
-    "translation": "",
+    "translation": "这条表带卡在了箱子的一处凹痕里。其一端刻有“ETTA”的字样。",
     "context": "{\n  \"reference name\": \"EttaStrap\",\n  \"display name\": \"Leather Strap\",\n  \"description\": \"This leather strap was lodged in one of the dented crevices of the box. It has \\\"ETTA\\\" engraved at the end of it.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::9c12d24369ccc663",
     "original": "Justin's Ring",
-    "translation": "",
+    "translation": "贾斯汀的指环",
     "context": "{\n  \"reference name\": \"Ring\",\n  \"display name\": \"Justin's Ring\",\n  \"description\": \"Justin was wearing this ring at the time of death. It somehow wasn't dissolved by the molten aetherite in the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::0a0e8296082f7e36",
     "original": "Justin was wearing this ring at the time of death. It somehow wasn't dissolved by the molten aetherite in the vat.",
-    "translation": "",
+    "translation": "贾斯汀死时带着这个指环。不知为何，它没有在熔融以太矿的容器中被溶解。",
     "context": "{\n  \"reference name\": \"Ring\",\n  \"display name\": \"Justin's Ring\",\n  \"description\": \"Justin was wearing this ring at the time of death. It somehow wasn't dissolved by the molten aetherite in the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DISPLAY NAME TRANSLATION::7e23f8446c818582",
     "original": "Mosourika's Testimony",
-    "translation": "",
+    "translation": "莫苏里卡的证词",
     "context": "{\n  \"reference name\": \"RikaTest\",\n  \"display name\": \"Mosourika's Testimony\",\n  \"description\": \"Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. She saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"RikaTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::ac7f907a8c2140e2",
     "original": "Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. She saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.",
-    "translation": "",
+    "translation": "莫苏里卡·都铎本要给贾斯汀·维耶送早饭，但她在装货区找不到他。她在寻找贾斯汀的时候看到他在精炼厂架空步道上。她看到某种棱镜形状的物体变大并击中了贾斯汀，推测是某种法术。该法术击毁了步道的栏杆，将贾斯汀推入了精炼容器中。",
     "context": "{\n  \"reference name\": \"RikaTest\",\n  \"display name\": \"Mosourika's Testimony\",\n  \"description\": \"Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. She saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"RikaTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   },
   {
@@ -242,7 +242,7 @@
   {
     "key": "C3 Clues.csv::DESCRIPTION TRANSLATION::e6e4b1cce10ddcb7",
     "original": "Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. Aster de Wyverngarde was also there at the time and saw Justin yelling at a hairless animal. \n\nThey both saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.",
-    "translation": "",
+    "translation": "莫苏里卡·都铎本要给贾斯汀·维耶送早饭，但她在装货区找不到他。她在寻找贾斯汀的时候看到他在精炼厂架空步道上。阿斯特·维文加德当时也在场，看到贾斯汀向某个无毛的动物大声吼叫。\n\n他们都看到了某种棱镜形状的物体变大并击中了贾斯汀，推测是某种法术。该法术击毁了步道的栏杆，将贾斯汀推入了精炼容器中。",
     "context": "{\n  \"reference name\": \"RikaTest2\",\n  \"display name\": \"Witness Testimony\",\n  \"description\": \"Mosourika Tudor was delivering Justin's breakfast to him, but she couldn't find him in the freight area. She went looking for him and spotted him on the catwalk within the refinery. Aster de Wyverngarde was also there at the time and saw Justin yelling at a hairless animal. \\n\\nThey both saw Justin get blasted with some sort of spell that took the shape of an expanding prism. This spell destroyed the guardrail of the catwalk and pushed Justin into the vat.\",\n  \"type\": \"\",\n  \"school\": \"\",\n  \"incantation\": \"\",\n  \"gesture\": \"\",\n  \"duration\": \"\",\n  \"concentration\": \"\",\n  \"series\": \"RikaTest\",\n  \"tag\": \"\",\n  \"token position\": \"\",\n  \"battle map size\": \"\"\n}"
   }
 ]

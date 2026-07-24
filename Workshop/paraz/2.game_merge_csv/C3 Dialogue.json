@@ -8,55 +8,55 @@
   {
     "key": "C3 Dialogue.csv::translation::9054e0c4a7a0ae8e",
     "original": "Tyrion: So...[p/] Is it just me,[p/] or does this hallway look similar to the one in your family's tavern?",
-    "translation": "",
+    "translation": "Tyrion: 所以……[p/]是我眼花吗，[p/]还是说这条走廊跟你家酒馆里的那条很像？",
     "context": "{\n  \"id\": \"line:0a89623\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Tyrion: So...[p/] Is it just me,[p/] or does this hallway look similar to the one in your family's tavern?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::29eba3d5f11d076c",
     "original": "Celeste: Well,[p/] most taverns use the same architecture.[p/] So, I don't think it's [i]that[/i] strange.",
-    "translation": "",
+    "translation": "Celeste: 嗯，[p/]大部分酒馆的建筑风格都差不多，[p/]所以我觉得这没有[i]那么[/]i奇怪。",
     "context": "{\n  \"id\": \"line:03a2082\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Celeste: Well,[p/] most taverns use the same architecture.[p/] So, I don't think it's [i]that[/i] strange.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b12380408fe9e63a",
     "original": "Tyrion: No,[p/] but it looks [i]exactly[/i] like the McCoy Tavern.[p/] It's uncanny.",
-    "translation": "",
+    "translation": "Tyrion: 不，[p/]但这跟麦考伊酒馆看起来[i]一模一样[/]i。[p/]有点不可思议了。",
     "context": "{\n  \"id\": \"line:0e0cece\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Tyrion: No,[p/] but it looks [i]exactly[/i] like the McCoy Tavern.[p/] It's uncanny.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b694649708d50808",
     "original": "Tyrion: It's as if whoever made this tavern decided to just reuse the same design.",
-    "translation": "",
+    "translation": "Tyrion: 就好像建这酒馆的人直接套用了同样的设计。",
     "context": "{\n  \"id\": \"line:0b8b991\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Tyrion: It's as if whoever made this tavern decided to just reuse the same design.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9fb9e40538948ddf",
     "original": "Celeste: Hey,[p/] making unique designs is difficult, Tyrion.[p/] [i]And[/i] it costs money.",
-    "translation": "",
+    "translation": "Celeste: 喂，[p/]做出独特设计很困难的，提利昂，[p/][i]而且[/]i得花钱。",
     "context": "{\n  \"id\": \"line:0a57052\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Celeste: Hey,[p/] making unique designs is difficult, Tyrion.[p/] [i]And[/i] it costs money.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::50e736aea7c46460",
     "original": "Celeste: Do you really think developers should be spending resources on a location that you'll only see once?",
-    "translation": "",
+    "translation": "Celeste: 你真觉得开发人员应该把资源花在一个只会来一次的地方吗？",
     "context": "{\n  \"id\": \"line:05bc693\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Celeste: Do you really think developers should be spending resources on a location that you'll only see once?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ee3b1658b6a97f60",
     "original": "Tyrion: I don't know...[p/] It just seems kind of lazy.",
-    "translation": "",
+    "translation": "Tyrion: 我不知道……[p/]这样看起来有点懒。",
     "context": "{\n  \"id\": \"line:0573b35\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Tyrion: I don't know...[p/] It just seems kind of lazy.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::281fb8f28e2aa4d7",
     "original": "Celeste: Well, if it bothers you so much,[p/][s/] why don't [i]you[/i] pay for the assets required to make a new one?",
-    "translation": "",
+    "translation": "Celeste: 要是你这么在意，[p/][s/]那[i]你[/]i出钱做新的不就行了？",
     "context": "{\n  \"id\": \"line:019e442\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Celeste: Well, if it bothers you so much,[p/][s/] why don't [i]you[/i] pay for the assets required to make a new one?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d92b84dc1f9470d3",
     "original": "I decided to drop the matter.",
-    "translation": "",
+    "translation": "我决定不管这件事了。",
     "context": "{\n  \"id\": \"line:07d3ff9\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"I decided to drop the matter.\"\n}"
   },
   {
@@ -68,31 +68,31 @@
   {
     "key": "C3 Dialogue.csv::translation::0b6d07464ae4fc8f",
     "original": "Tyrion: Is this your room, Aster?",
-    "translation": "",
+    "translation": "Tyrion: 这是你的房间吗，阿斯特？",
     "context": "{\n  \"id\": \"line:0350852\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Tyrion: Is this your room, Aster?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4f403104a9b1c77f",
     "original": "Aster: Yes,[p/] it's quite cozy.",
-    "translation": "",
+    "translation": "Aster: 对啊，[p/]里面挺舒适的。",
     "context": "{\n  \"id\": \"line:0b3a7ec\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Aster: Yes,[p/] it's quite cozy.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::524abbd4d1387308",
     "original": "Aster: I'm very pleased with how much personality the craftsmanship has.",
-    "translation": "",
+    "translation": "Aster: 我对其展现的个性与工匠精神非常满意。",
     "context": "{\n  \"id\": \"line:023938a\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Aster: I'm very pleased with how much personality the craftsmanship has.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::24df03f752984271",
     "original": "Aster: It's nothing like any of the resorts I've stayed at.[p/] It's far more rustic.",
-    "translation": "",
+    "translation": "Aster: 它并不像我待过的任何一座度假酒店，[p/]而是更具乡村风格。",
     "context": "{\n  \"id\": \"line:0543601\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Aster: It's nothing like any of the resorts I've stayed at.[p/] It's far more rustic.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::efd11ac2afd276e6",
     "original": "Tyrion: Hm...",
-    "translation": "",
+    "translation": "Tyrion: 嗯……",
     "context": "{\n  \"id\": \"line:0cc5c51\",\n  \"node\": \"AurUpstairs_Examine\",\n  \"text\": \"Tyrion: Hm...\"\n}"
   },
   {
@@ -104,199 +104,199 @@
   {
     "key": "C3 Dialogue.csv::translation::3158b234378b970a",
     "original": "Player: Aster de Wyverngarde",
-    "translation": "",
+    "translation": "Player: 阿斯特·维文加德",
     "context": "{\n  \"id\": \"line:0722c17\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Player: Aster de Wyverngarde\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0a5bea59d80d1ce3",
     "original": "Tyrion: So, Your Highness—",
-    "translation": "",
+    "translation": "Tyrion: 那么，王子殿下——",
     "context": "{\n  \"id\": \"line:091d365\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: So, Your Highness—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::173d609800da88bb",
     "original": "Aster: Please, there's no need for that.[p/] Just call me \"Aster\".",
-    "translation": "",
+    "translation": "Aster: 别这样，没有必要。[p/]叫我“阿斯特”就好了。",
     "context": "{\n  \"id\": \"line:0186355\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: Please, there's no need for that.[p/] Just call me \\\"Aster\\\".\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3625415e4accbf13",
     "original": "He couldn't be serious, could he?",
-    "translation": "",
+    "translation": "他不是认真的吧？",
     "context": "{\n  \"id\": \"line:05a9316\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"He couldn't be serious, could he?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::53984f5c0fa57b44",
     "original": "After I got a good look at him,[p/] he looked sincere—[p/]a little [i]too[/i] sincere.",
-    "translation": "",
+    "translation": "我看了他一眼，[p/]他看起来十分真诚——[p/]甚至有点真诚[i]过头[/i]了。",
     "context": "{\n  \"id\": \"line:0173120\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"After I got a good look at him,[p/] he looked sincere—[p/]a little [i]too[/i] sincere.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::12a831146c7a7d87",
     "original": "He carried himself with the poise of a royal,[p/] but there was also a warm kindness and humility in his eyes.",
-    "translation": "",
+    "translation": "他举手投足之间自有一股王室风范，[p/]但他眼神中也流露出温暖的善意与谦逊。",
     "context": "{\n  \"id\": \"line:00b7be2\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"He carried himself with the poise of a royal,[p/] but there was also a warm kindness and humility in his eyes.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a2a55b526470b892",
     "original": "He sounded too good to be true,[p/] but maybe I was just too jaded by the other aristocrats I'd met.",
-    "translation": "",
+    "translation": "他听起来好得让人难以置信，[p/]但也许我只是对遇到的其他贵族感到厌倦了。",
     "context": "{\n  \"id\": \"line:0b9c749\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"He sounded too good to be true,[p/] but maybe I was just too jaded by the other aristocrats I'd met.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b8ce7b04326d4e20",
     "original": "Tyrion: What is the Crown Prince doing in a tavern like this, anyway?",
-    "translation": "",
+    "translation": "Tyrion: 但您身为王储，在这样的酒馆里是为什么呢？",
     "context": "{\n  \"id\": \"line:049aaa1\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: What is the Crown Prince doing in a tavern like this, anyway?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9728d06f556885a7",
     "original": "Aster: Ah,[p/] the Kingsguard were being far too overbearing.",
-    "translation": "",
+    "translation": "Aster: 啊，[p/]国王卫队有点太担心我了。",
     "context": "{\n  \"id\": \"line:0413320\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: Ah,[p/] the Kingsguard were being far too overbearing.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::973da4608cc8f7e0",
     "original": "Aster: They were insistent that I return to the capital,[p/] but I'd been planning this trip to Aurinax for days.",
-    "translation": "",
+    "translation": "Aster: 他们坚持要我返回首都，[p/]但我早早就计划好了来欧奥耐克斯的这次旅行。",
     "context": "{\n  \"id\": \"line:04f2c89\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: They were insistent that I return to the capital,[p/] but I'd been planning this trip to Aurinax for days.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5add212be29d5590",
     "original": "Aster: I found an opportunity to sneak away from them and hired a guide to show me around the city.",
-    "translation": "",
+    "translation": "Aster: 我找到了一个从他们那里溜出来的机会，然后雇佣了一位向导为我导览全城。",
     "context": "{\n  \"id\": \"line:05c8f7e\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: I found an opportunity to sneak away from them and hired a guide to show me around the city.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8999b709a4f14ea2",
     "original": "Tyrion: Are you talking about Noah Morrison?",
-    "translation": "",
+    "translation": "Tyrion: 您说的是诺亚·莫里森？",
     "context": "{\n  \"id\": \"line:05ebbad\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: Are you talking about Noah Morrison?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::24c92018d8c41c6c",
     "original": "Aster: Ah, yes.[p/] Mr. Morrison.",
-    "translation": "",
+    "translation": "Aster: 啊，是的。[p/]就是莫里森先生。",
     "context": "{\n  \"id\": \"line:0deeaae\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: Ah, yes.[p/] Mr. Morrison.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4d79fc2e27137a1d",
     "original": "Aster: He told me quite a lot about the industrial complexities of Aurinax[p/] and even more about the workers' unions.",
-    "translation": "",
+    "translation": "Aster: 他向我介绍了欧奥耐克斯工业发展的复杂处境，[p/]还有关于工会的事情。",
     "context": "{\n  \"id\": \"line:0c38899\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: He told me quite a lot about the industrial complexities of Aurinax[p/] and even more about the workers' unions.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::42b9855c114c11f8",
     "original": "Celeste: ...Is it really okay for you to disappear like that?",
-    "translation": "",
+    "translation": "Celeste: ……你就这么消失不见，真的没问题？",
     "context": "{\n  \"id\": \"line:052e1fc\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Celeste: ...Is it really okay for you to disappear like that?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ccb440f49baab98d",
     "original": "Celeste: The Kingsguard are probably freaking out over losing track of you.",
-    "translation": "",
+    "translation": "Celeste: 国王卫队找不到你的行踪，多半已经抓狂了。",
     "context": "{\n  \"id\": \"line:060d0dd\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Celeste: The Kingsguard are probably freaking out over losing track of you.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::70d7e16eae94c9aa",
     "original": "Aster: Ah,[p/] they worry far too much.[p/] I can take care of myself.",
-    "translation": "",
+    "translation": "Aster: 啊，[p/]他们就是太操心了。[p/]我能照顾好自己的。",
     "context": "{\n  \"id\": \"line:00e8396\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: Ah,[p/] they worry far too much.[p/] I can take care of myself.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::991d481aae71d0be",
     "original": "Aster: I may not look it,[p/] but I'm one of the most powerful mages in this kingdom.",
-    "translation": "",
+    "translation": "Aster: 虽然看不太出来，[p/]我其实也是王国最强大的法师之一。",
     "context": "{\n  \"id\": \"line:0dd46c2\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: I may not look it,[p/] but I'm one of the most powerful mages in this kingdom.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8b1b078a3af3505f",
     "original": "Tyrion: That sounds awfully cocky,[p/] don't you think?",
-    "translation": "",
+    "translation": "Tyrion: 这说法听起来还有点自大，[p/]您不这么认为吗？",
     "context": "{\n  \"id\": \"line:056b645\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: That sounds awfully cocky,[p/] don't you think?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5314db5238b22ed0",
     "original": "Aster: Hm...[p/] You think so?",
-    "translation": "",
+    "translation": "Aster: 嗯……[p/]你是这么想的？",
     "context": "{\n  \"id\": \"line:09d66e7\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: Hm...[p/] You think so?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ac23ace6ed69c06a",
     "original": "There was so much optimism behind those eyes.[p/] How sheltered was this guy?",
-    "translation": "",
+    "translation": "他的眼神中充满了自信。[p/]这家伙真是被保护得太周全了吧？",
     "context": "{\n  \"id\": \"line:084d455\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"There was so much optimism behind those eyes.[p/] How sheltered was this guy?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0a1496505a0a4e07",
     "original": "Player: What did you see?",
-    "translation": "",
+    "translation": "Player: 你看到了什么？",
     "context": "{\n  \"id\": \"line:0bba11f\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Player: What did you see?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::49b7466ceed722ca",
     "original": "Tyrion: Anyways,[p/] Mr. Morrison told us you were present when the accident occurred.",
-    "translation": "",
+    "translation": "Tyrion: 总而言之，[p/]莫里森先生提到，那起事故发生时您在现场。",
     "context": "{\n  \"id\": \"line:09dcfd0\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: Anyways,[p/] Mr. Morrison told us you were present when the accident occurred.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::172e4dd41404b2eb",
     "original": "Aster: Ah, it was quite dreadful what happened.",
-    "translation": "",
+    "translation": "Aster: 啊，那件事情太可怕了。",
     "context": "{\n  \"id\": \"line:010c5c0\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: Ah, it was quite dreadful what happened.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::de8ffd0e1a43e8d6",
     "original": "Tyrion: We only have one witness who actually saw Justin fall into that vat.",
-    "translation": "",
+    "translation": "Tyrion: 我们之前只知道一位目击到贾斯汀落入精炼容器的证人。",
     "context": "{\n  \"id\": \"line:0d9acd5\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: We only have one witness who actually saw Justin fall into that vat.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b65708204ba859e2",
     "original": "Tyrion: I was wondering if you saw anything she didn't.",
-    "translation": "",
+    "translation": "Tyrion: 我想知道您是否有见到她没看到的内容。",
     "context": "{\n  \"id\": \"line:0b8f3c2\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: I was wondering if you saw anything she didn't.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::276275a83a56f1ff",
     "original": "Aster: I didn't see much, I'm afraid.[p/] It all happened very quickly.",
-    "translation": "",
+    "translation": "Aster: 但恐怕我也没看得很清楚。[p/]发生得太快了。",
     "context": "{\n  \"id\": \"line:0f83f2f\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: I didn't see much, I'm afraid.[p/] It all happened very quickly.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5f1c126b756a694b",
     "original": "Aster: If he weren't yelling at that animal,[p/] I might not have even noticed him.",
-    "translation": "",
+    "translation": "Aster: 要不是他向那个动物吼叫，[p/]我可能都不会注意到他。",
     "context": "{\n  \"id\": \"line:031f15c\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: If he weren't yelling at that animal,[p/] I might not have even noticed him.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::29c6ffd994aa7872",
     "original": "Tyrion: ...There was an animal up on the catwalk, too?",
-    "translation": "",
+    "translation": "Tyrion: ……也就是说，当时步道上有一只动物？",
     "context": "{\n  \"id\": \"line:06782a7\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: ...There was an animal up on the catwalk, too?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::440577d20ed7c6c3",
     "original": "Aster: It looked to be some kind of hairless rodent,[p/] but it was abnormally large.",
-    "translation": "",
+    "translation": "Aster: 看着像某种无毛的老鼠，[p/]但体型大得不寻常。",
     "context": "{\n  \"id\": \"line:02cfdde\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: It looked to be some kind of hairless rodent,[p/] but it was abnormally large.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::607f1c3836e3bbe6",
     "original": "Aster: I think he may have been trying to catch it.[p/] He even grabbed it at one point.",
-    "translation": "",
+    "translation": "Aster: 我认为他当时是想抓住它，[p/]而且在某个瞬间甚至碰到它了。",
     "context": "{\n  \"id\": \"line:02532ce\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: I think he may have been trying to catch it.[p/] He even grabbed it at one point.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c21a7e0aca6452a2",
     "original": "Tyrion: ...Was he facing towards Dracogen's office when he was yelling at this rodent?",
-    "translation": "",
+    "translation": "Tyrion: 他向那只“老鼠”吼叫的时候是面对着德拉科根的办公室吗？",
     "context": "{\n  \"id\": \"line:0428eac\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: ...Was he facing towards Dracogen's office when he was yelling at this rodent?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::75253ab257668f91",
     "original": "Aster: I think so.[p/] Noah pointed out the office window earlier.[p/] It allowed Stefanic to oversee the refinery.",
-    "translation": "",
+    "translation": "Aster: 我想是的。[p/]诺亚早些时候有向我介绍过那间办公室。[p/]斯蒂芬尼克可以在那里俯瞰整座精炼厂的运行情况。",
     "context": "{\n  \"id\": \"line:0fb3c61\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: I think so.[p/] Noah pointed out the office window earlier.[p/] It allowed Stefanic to oversee the refinery.\"\n}"
   },
   {
@@ -584,91 +584,91 @@
   {
     "key": "C3 Dialogue.csv::translation::30337401c110dc4a",
     "original": "Aster: Ah,[p/] of course.[p/] I suppose most outside of the nobility wouldn't be aware of it.",
-    "translation": "",
+    "translation": "Aster: 啊，[p/]当然了。[p/]我想除了贵族们，外面绝大多数人还没有注意到。",
     "context": "{\n  \"id\": \"line:07dfa2f\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: Ah,[p/] of course.[p/] I suppose most outside of the nobility wouldn't be aware of it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8e0bc929c8e14502",
     "original": "Aster: My father and the Grand General have arranged for me to marry Lady Steelwind.",
-    "translation": "",
+    "translation": "Aster: 父王和大将军安排了我和斯蒂尔文德女士的婚约。",
     "context": "{\n  \"id\": \"line:03e87ce\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: My father and the Grand General have arranged for me to marry Lady Steelwind.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::50d72c38a090000f",
     "original": "Celeste: What?![p/][s/] She never told me she was engaged to the [i]Crown Prince[/i].",
-    "translation": "",
+    "translation": "Celeste: 真的？！[p/][s/]她可从来没跟我说过，她有和[i]王储殿下[/i]订婚啊。",
     "context": "{\n  \"id\": \"line:0ab9652\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Celeste: What?![p/][s/] She never told me she was engaged to the [i]Crown Prince[/i].\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c5b7173f79945500",
     "original": "Aster: I wouldn't blame her.[p/] She's not exactly pleased with our arrangement.",
-    "translation": "",
+    "translation": "Aster: 我不会因此责怪她。[p/]实际上她一点都不因我们的婚约感到喜悦。",
     "context": "{\n  \"id\": \"line:0934b32\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: I wouldn't blame her.[p/] She's not exactly pleased with our arrangement.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cf17e19af5797f96",
     "original": "Aster: That woman despises me.",
-    "translation": "",
+    "translation": "Aster: 那位女士轻蔑于我。",
     "context": "{\n  \"id\": \"line:087d988\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: That woman despises me.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4cae3568001ae6db",
     "original": "Tyrion: ...What?",
-    "translation": "",
+    "translation": "Tyrion: ……怎么会？",
     "context": "{\n  \"id\": \"line:0dee606\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: ...What?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bf6698ea0272dcbc",
     "original": "Aster: Our marriage is purely political—[p/]a way to unify the royal family with the upper brass of the military.",
-    "translation": "",
+    "translation": "Aster: 我们纯粹是政治联姻——[p/]是将王室与军方高层结成同盟的手段。",
     "context": "{\n  \"id\": \"line:0450ef0\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: Our marriage is purely political—[p/]a way to unify the royal family with the upper brass of the military.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c2201d79b1e61438",
     "original": "Aster: I admire her desire to bring prosperity to the commonfolk,[p/] but I unfortunately seem to represent everything she hates about this kingdom.",
-    "translation": "",
+    "translation": "Aster: 我尊敬她为平民带去繁荣发展的愿望，[p/]但不幸的是，我恰恰代表着她在这个王国憎恨的一切。",
     "context": "{\n  \"id\": \"line:0cc46f7\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: I admire her desire to bring prosperity to the commonfolk,[p/] but I unfortunately seem to represent everything she hates about this kingdom.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b098318f8e586b72",
     "original": "Aster: She can't even stand speaking to me.[p/] Every time I'm around her,[p/] she can barely contain her contempt.",
-    "translation": "",
+    "translation": "Aster: 她甚至无法忍受与我交谈。[p/]每当我出现在她附近，[p/]她几乎无法保持镇定。",
     "context": "{\n  \"id\": \"line:0bda098\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: She can't even stand speaking to me.[p/] Every time I'm around her,[p/] she can barely contain her contempt.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::aa343a6d74326b63",
     "original": "Celeste: Oh no...",
-    "translation": "",
+    "translation": "Celeste: 不是吧……",
     "context": "{\n  \"id\": \"line:034c8c3\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Celeste: Oh no...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8747bb5210db62b0",
     "original": "Aster: But I've made my peace with that.[p/] She's always cared more about her duty than anything else.",
-    "translation": "",
+    "translation": "Aster: 但我能平和地看待这个问题。[p/]她总是将自身的职责看得比什么都重要。",
     "context": "{\n  \"id\": \"line:0413f50\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: But I've made my peace with that.[p/] She's always cared more about her duty than anything else.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::09f225f2dd2e4a22",
     "original": "Aster: When I take the throne,[p/] I will build her a compassionate kingdom that she can take pride in.",
-    "translation": "",
+    "translation": "Aster: 到我继承王位的时候，[p/]我将为她建设一个能让她为之骄傲的仁爱国家。",
     "context": "{\n  \"id\": \"line:033a7b2\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: When I take the throne,[p/] I will build her a compassionate kingdom that she can take pride in.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::50ef204677bce782",
     "original": "...I really wanted to believe him,[p/] but I knew better than to trust empty promises like that.",
-    "translation": "",
+    "translation": "……我真的很想相信他。[p/]但我知道这样的空头承诺是最不能相信的。",
     "context": "{\n  \"id\": \"line:034b132\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"...I really wanted to believe him,[p/] but I knew better than to trust empty promises like that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f0d002dd1adc406a",
     "original": "I guess only time would tell what kind of ruler he would be.",
-    "translation": "",
+    "translation": "我想，只有时间能证明他会实行怎样的统治。",
     "context": "{\n  \"id\": \"line:07747d1\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"I guess only time would tell what kind of ruler he would be.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::643f64a9e81b1c14",
     "original": "Player: The Stolen Item",
-    "translation": "",
+    "translation": "Player: 被盗的货物",
     "context": "{\n  \"id\": \"line:089dd8d\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Player: The Stolen Item\"\n}"
   },
   {
