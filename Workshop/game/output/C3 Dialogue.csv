@@ -117,40 +117,40 @@ line:063512e,AsterConvStoleItem,"Aster: Ah, that.[p/] The Kingsguard have been s
 line:02c4a0e,AsterConvStoleItem,Tyrion: Would you be able to tell me what they stole?,Tyrion: 你能否告诉我吗，被偷走的是什么呢？
 line:0e53641,AsterConvStoleItem,Aster: Hm...[p/] I don't know.,Aster: 嗯……[p/]我并不知道。
 line:095003b,AsterConvStoleItem,Tyrion: I've been having a lot of trouble pinning down what the thief was after.,Tyrion: 我很难确定小偷到底在找什么。
-line:010a375,AsterConvStoleItem,"Tyrion: If they infiltrated your ship,[p/] they were taking a gigantic risk.[p/] They wouldn't have done that without a good reason.",
-line:0e18282,AsterConvStoleItem,Aster: ...,
-line:068bbf3,AsterConvStoleItem,Aster: They stole several high-capacity arcane crystals attuned to the school of [b]evocation[/b].,
-line:0aeabdf,AsterConvStoleItem,"Tyrion: Arcane crystals are pretty common, aren't they?[p/][s/] They're what draw and provide power to artificery devices.",
-line:04c3834,AsterConvStoleItem,Aster: The problem is that they're attuned to [b]evocation[/b]:[p/] the most raw and destructive school of magic.,
-line:03e8b34,AsterConvStoleItem,"Aster: Artificery that uses [b]evocation[/b] is heavily supervised by the kingdom,[p/] and most devices that use them are extremely weak.",
-line:043e3b6,AsterConvStoleItem,Aster: Those crystals were a shipment addressed to Von Sanctus Industries.[p/] They were meant to be received at port and used to construct weapons for use by the military.,
-line:011e7bc,AsterConvStoleItem,Tyrion: Are these crystals really that valuable?,
-line:00943cf,AsterConvStoleItem,"Aster: They have a large capacity to channel [b]evocation[/b] magic.[p/] They're extremely potent at unleashing energy,",
-line:0727049,AsterConvStoleItem,"Aster: In the wrong hands,[p/] they could produce an explosion with the power to level an entire block of this city.",
-line:0ac778c,AsterConvStoleItem,"Tyrion: ...And there have been mass reports of insurrection here, too.",
-line:0f60ee7,AsterConvStoleItem,"Whether those reports were true or not,[p/] my teeth clenched at the thought of what someone might do with those crystals.",
-line:09fb8f3,AsterConvStoleItem,It was even worse to think about what the Grand General might do to stop that from happening.,
+line:010a375,AsterConvStoleItem,"Tyrion: If they infiltrated your ship,[p/] they were taking a gigantic risk.[p/] They wouldn't have done that without a good reason.",Tyrion: 他们潜入你的船，[p/]可以说是冒着巨大的风险。[p/]没有充分理由的话他们不会这么做的。
+line:0e18282,AsterConvStoleItem,Aster: ...,Aster: ……
+line:068bbf3,AsterConvStoleItem,Aster: They stole several high-capacity arcane crystals attuned to the school of [b]evocation[/b].,Aster: 他们偷走的是一些已充满[b]塑能术[b]魔力的高容量奥术水晶。
+line:0aeabdf,AsterConvStoleItem,"Tyrion: Arcane crystals are pretty common, aren't they?[p/][s/] They're what draw and provide power to artificery devices.",Tyrion: 但奥术水晶不是很常见的吗？[p/][s/]毕竟奥术能源装置都要靠它们供给魔力。
+line:04c3834,AsterConvStoleItem,Aster: The problem is that they're attuned to [b]evocation[/b]:[p/] the most raw and destructive school of magic.,Aster: 问题是这一批已经充满了[b]塑能术[/b]的魔力，[p/]而那正是法术学派中最为粗暴、破坏力最大的一种。
+line:03e8b34,AsterConvStoleItem,"Aster: Artificery that uses [b]evocation[/b] is heavily supervised by the kingdom,[p/] and most devices that use them are extremely weak.",Aster: 在王国，使用[b]塑能术[/b]的奥术装置受到重度管控，[p/]而使用这类法术的装置也都相当脆弱。
+line:043e3b6,AsterConvStoleItem,Aster: Those crystals were a shipment addressed to Von Sanctus Industries.[p/] They were meant to be received at port and used to construct weapons for use by the military.,Aster: 这些水晶是预定发往冯·桑克图斯实业的货物。[p/]它们原定在港口被接收，用于组装军队配备的武器。
+line:011e7bc,AsterConvStoleItem,Tyrion: Are these crystals really that valuable?,Tyrion: 那批水晶这么重要吗？
+line:00943cf,AsterConvStoleItem,"Aster: They have a large capacity to channel [b]evocation[/b] magic.[p/] They're extremely potent at unleashing energy,",Aster: 它们已经储存了巨量的[b]塑能术[/b]魔力，[p/]而且可以非常高效地释放。
+line:0727049,AsterConvStoleItem,"Aster: In the wrong hands,[p/] they could produce an explosion with the power to level an entire block of this city.",Aster: 一旦操作不当，[p/]它们就能造成一次足以将一整个城区夷为平地的爆炸。
+line:0ac778c,AsterConvStoleItem,"Tyrion: ...And there have been mass reports of insurrection here, too.",Tyrion: ……而且这里也出现了大量叛乱活动的报告。
+line:0f60ee7,AsterConvStoleItem,"Whether those reports were true or not,[p/] my teeth clenched at the thought of what someone might do with those crystals.",无论那些报告是真是假，[p/] 一想到有人可能会用那些水晶做些什么，我便不自觉地牙关紧咬。
+line:09fb8f3,AsterConvStoleItem,It was even worse to think about what the Grand General might do to stop that from happening.,而一想到大将军可能会采取什么措施来阻止这种情况发生，就更让人感到不安。
 line:0e0432d,AurUpstairs_Present,Player: Runestone,
-line:0d4b4e4,AurUpstairs_Present,Aster: That's—!,
-line:0dc3f99,AurUpstairs_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It's—,
-line:04edcc7,AurUpstairs_Present,Aster: It's proof that you're a certified attorney!,
-line:08c5bb9,AurUpstairs_Present,Aster: I've never seen one of these up close before!,
-line:04b13b4,AurUpstairs_Present,Celeste: Really?[p/] I thought the Crown Prince would be the first person to have a Runestone like this.,
-line:0d4f1e1,AurUpstairs_Present,"Aster: I have a Runestone,[p/][s/] but it's not an [i]Attorney's[/i] Runestone!",
-line:0973855,AurUpstairs_Present,Tyrion: Finally![p/][s/] Someone that understands the difference!,
-line:06cb584,AurUpstairs_Present,Celeste: ...,
+line:0d4b4e4,AurUpstairs_Present,Aster: That's—!,Aster: 那就是——！
+line:0dc3f99,AurUpstairs_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It's—,Tyrion: 这是个律师符石。[p/]它——
+line:04edcc7,AurUpstairs_Present,Aster: It's proof that you're a certified attorney!,Aster: 它证明你是一位持证律师！
+line:08c5bb9,AurUpstairs_Present,Aster: I've never seen one of these up close before!,Aster: 我还从没这么近地看过这个东西！
+line:04b13b4,AurUpstairs_Present,Celeste: Really?[p/] I thought the Crown Prince would be the first person to have a Runestone like this.,Celeste: 真的？[p/]我还以为王储殿下应该是最优先拥有这种符石的呢。
+line:0d4f1e1,AurUpstairs_Present,"Aster: I have a Runestone,[p/][s/] but it's not an [i]Attorney's[/i] Runestone!",Aster: 我确实拥有符石，[p/][s/]但那可不是[i]律师专属[/i]的符石！
+line:0973855,AurUpstairs_Present,Tyrion: Finally![p/][s/] Someone that understands the difference!,Tyrion: 终于啊！[p/][s/]终于有人明白其间的差异了！
+line:06cb584,AurUpstairs_Present,Celeste: ...,Celeste: ……
 line:0a36c1a,AurUpstairs_Present,Player: Tyrion,
-line:0dc5fc6,AurUpstairs_Present,Aster: I can't believe I'm meeting Tyrion Cuthbert!,
-line:0f1e3e3,AurUpstairs_Present,"Tyrion: I appreciate the admiration,[p/] but I don't see what's so special about me.",
-line:0243aef,AurUpstairs_Present,"Aster: Well, I've been an admirer of Ruby Tymora for a while,[p/] but your story is far more inspiring!",
-line:09079c1,AurUpstairs_Present,"Aster: ...You rose above the tragedy that befell your mother,[p/] and became a force against the nobility.",
-line:02fbe77,AurUpstairs_Present,Tyrion: ...How do you know about that?,
-line:0248a61,AurUpstairs_Present,"Aster: I read about your story in the paper—[p/]a grieving child,[p/] who walked into the woods in despair.",
-line:038b3f5,AurUpstairs_Present,Aster: That story made quite an impression on me.,
-line:0e0c980,AurUpstairs_Present,"Aster: When I saw the story of Ms. McCoy's trial,[p/] I recognized you immediately.",
-line:01b41f9,AurUpstairs_Present,Aster: I'm so glad that you survived.,
-line:02c586a,AurUpstairs_Present,Tyrion: ...,
-line:04c2d11,AurUpstairs_Present,Celeste: ...?,
+line:0dc5fc6,AurUpstairs_Present,Aster: I can't believe I'm meeting Tyrion Cuthbert!,Aster: 难以置信，我竟然与那位提利昂·卡斯伯特会面了！
+line:0f1e3e3,AurUpstairs_Present,"Tyrion: I appreciate the admiration,[p/] but I don't see what's so special about me.",Tyrion: 我感激你的喜爱，[p/]但我不知道自己有什么特别的。
+line:0243aef,AurUpstairs_Present,"Aster: Well, I've been an admirer of Ruby Tymora for a while,[p/] but your story is far more inspiring!",Aster: 这个嘛，我有段时间曾是鲁比·泰摩拉的粉丝，[p/]但你的故事可是更加的振奋人心！
+line:09079c1,AurUpstairs_Present,"Aster: ...You rose above the tragedy that befell your mother,[p/] and became a force against the nobility.",Aster: ……你从母亲遭遇的不幸悲剧中振作起来，[p/]成长为反对贵族的力量。
+line:02fbe77,AurUpstairs_Present,Tyrion: ...How do you know about that?,Tyrion: ……你怎么知道这个的？
+line:0248a61,AurUpstairs_Present,"Aster: I read about your story in the paper—[p/]a grieving child,[p/] who walked into the woods in despair.",Aster: 我在报纸上读到了你的故事——[p/]一个身怀悲痛的孩子，[p/]走入森林然后就此消失。
+line:038b3f5,AurUpstairs_Present,Aster: That story made quite an impression on me.,Aster: 那个故事给我造成了很深的印象。
+line:0e0c980,AurUpstairs_Present,"Aster: When I saw the story of Ms. McCoy's trial,[p/] I recognized you immediately.",Aster: 而当我读到麦考伊女士的庭审报道时，[p/]我马上就认出了你。
+line:01b41f9,AurUpstairs_Present,Aster: I'm so glad that you survived.,Aster: 你能存活下来，我太高兴了。
+line:02c586a,AurUpstairs_Present,Tyrion: ...,Tyrion: ……
+line:04c2d11,AurUpstairs_Present,Celeste: ...?,Celeste: ……？
 line:06d56b9,AurUpstairs_Present,Player: Celeste,
 line:05d054c,AurUpstairs_Present,Aster: I never imagined that I'd meet the Crimson Demon of the Eastern Kingdoms.,
 line:042da5f,AurUpstairs_Present,"Celeste: Okay,[p/] how the hell did you find out about that nickname?",
@@ -414,7 +414,7 @@ line:0425e37,Cafe1_Present,Tyrion: I can make sure no one else ever loses their 
 line:0a950d0,Cafe1_Present,Mosourika: Oh...[p/] That's good...,
 line:091b03e,Cafe1_Present,Tyrion: ...What's wrong?,
 line:07bba7b,Cafe1_Present,"Mosourika: N-[p/][s/]No...[p/] It's nothing. [h=""Is he doing this|because of his mom?"" e=""sf""/]",
-line:087fe21,Cafe1_Present,Celeste: ...?,
+line:087fe21,Cafe1_Present,Celeste: ...?,Celeste: ……？
 line:0b42035,Cafe1_Present,Player: Justin|Autopsy,
 line:0cdf457,Cafe1_Present,Tyrion: I'm really sorry about what happened to Justin.,
 line:003b795,Cafe1_Present,"Mosourika: It just seems so unfair.[p/] He just got his freedom back a few months ago. [h=""Something happened to him|when he was locked up..."" e=""""/]",
@@ -462,7 +462,7 @@ line:0db92c5,Cafe2_Talk,Player: The Truth,
 line:09e6748,Cafe2_Talk,Player: The Mistweaving Phantom,
 line:0c00ddf,Cafe2_Talk,"Tyrion: Wait,[p/] but from your story it sounds like—",
 line:0e36e82,Cafe2_Talk,Mosourika: I think Justin is—[p/][i]was[/i][p/] the thief that everyone's talking about.,
-line:01acb13,Cafe2_Talk,Tyrion: ...,
+line:01acb13,Cafe2_Talk,Tyrion: ...,Tyrion: ……
 line:08504ea,Cafe2_Talk,"Mosourika: I told you, didn't I?[p/] The thief who broke into Mr. Dracogen's office didn't attack Justin.",
 line:0311c88,Cafe2_Talk,Mosourika: He [i]was[/i] Justin.,
 line:040fa99,Cafe2_Talk,"Tyrion: ...But then,[p/] who attacked him?",
@@ -483,7 +483,7 @@ line:0245df2,Cafe2_Talk,Mosourika: He had his job at the refinery.[p/] He didn't
 line:031eafb,Cafe2_Talk,Mosourika: ...But I guess he just couldn't help himself.,
 line:029f9ad,Cafe2_Talk,Tyrion: You were just trying to help him.,
 line:073ab77,Cafe2_Talk,Mosourika: ...And now he's dead.,
-line:0675bda,Cafe2_Talk,Tyrion: ...,
+line:0675bda,Cafe2_Talk,Tyrion: ...,Tyrion: ……
 line:03f639c,Cafe2_Talk,Player: False Reports,
 line:0e1b8ce,Cafe2_Talk,"Celeste: But if Justin was the serial robber,[p/] why was he robbing the union offices?",
 line:02ab613,Cafe2_Talk,Tyrion: ...!,
@@ -509,7 +509,7 @@ line:06741a0,Cafe2_Talk,I looked at my bodyguard.[p/] I wasn't too worried.,
 line:0a60e8b,Cafe2_Talk,Player: BACK,
 line:0185ba0,Rika2TrialConv,Tyrion: I'm sorry about what happened during the trial.[p/] I didn't know Steelwind would pull your record like that.,
 line:038400e,Rika2TrialConv,Mosourika: [i]*sigh*[/i][p/] I came to help you and Mr. Dracogen.[p/] I would have done it again if I had to.,
-line:0e9bfcb,Rika2TrialConv,Tyrion: ...,
+line:0e9bfcb,Rika2TrialConv,Tyrion: ...,Tyrion: ……
 line:01354c8,Rika2TrialConv,Tyrion: I'm really sorry about this.,
 line:0f24b24,Rika2TrialConv,"Tyrion: I know it's really none of my business,[p/] but I need to know this for the case.",
 line:0ba02da,Rika2TrialConv,Tyrion: Was what Steelwind said about you true?,
@@ -528,7 +528,7 @@ line:0e73495,Rika2TruthConv,Mosourika: ...,
 line:03b1e67,Rika2TruthConv,Mosourika: Stories started spreading around after you went missing.,
 line:05fd3de,Rika2TruthConv,Mosourika: People heard about how a single mother was executed while the City Watch forced her child to watch.,
 line:03acc3b,Rika2TruthConv,Celeste: ...What?!,
-line:0ab977f,Rika2TruthConv,Tyrion: ...,
+line:0ab977f,Rika2TruthConv,Tyrion: ...,Tyrion: ……
 line:03652b1,Rika2TruthConv,"Mosourika: Things already weren't great here,[p/] but I think that was the tipping point.",
 line:0309f30,Rika2TruthConv,"Mosourika: No one trusted the City Watch after that,[p/] and the crime in the city slowly got worse and worse.",
 line:03d141c,Rika2TruthConv,"Mosourika: Merchants were constantly getting robbed and attacked.[p/] One by one,[p/] they started pulling out of the city.",
@@ -628,14 +628,14 @@ line:0f70a3b,Cafe2_Check,Mosourika: ...Sure.,
 line:0168d12,Cafe2_Check,"Tyrion: Thanks for being honest with me, Rika.",
 line:0000eff,Cafe2_Check,Mosourika: ...,
 line:0c18090,Cafe2_Check,"Mosourika: Just don't push yourself too hard, okay?",
-line:01e49e4,Cafe2_Check,Celeste: ...,
+line:01e49e4,Cafe2_Check,Celeste: ...,Celeste: ……
 line:0cf1f05,Cafe2_Check,"Celeste: Hey, is what she said true?[p/] Did the City Watch really—",
 line:0f3115d,Cafe2_Check,Celeste: ...Did all of that really happen to you?,
 line:0a19cd6,Cafe2_Check,Tyrion: ...Yeah.,
-line:015fb74,Cafe2_Check,Celeste: ...,
+line:015fb74,Cafe2_Check,Celeste: ...,Celeste: ……
 line:016483e,Cafe2_Check,Celeste: I know I've been really pushy lately.,
 line:065f22a,Cafe2_Check,Tyrion: N-[p/][s/]No...![p/] You've been nothing but kind and patient with me.,
-line:0520e7b,Cafe2_Check,Tyrion: ...,
+line:0520e7b,Cafe2_Check,Tyrion: ...,Tyrion: ……
 line:0de64c8,Cafe2_Check,Tyrion: ...I'm really sorry I snapped at you yesterday.,
 line:0fdd813,Cafe2_Check,Tyrion: You were looking out for me.[p/] You didn't deserve that.,
 line:0ceef5b,Cafe2_Check,Celeste: I've just never seen you like this before.[p/] I've been really worried.,
@@ -697,7 +697,7 @@ line:011b101,CafeIntro_Talk,Mosourika: I should have known it was the Lightsworn
 line:0e1562e,CafeIntro_Talk,"Tyrion: ...""U-[p/]Upstart commoner""?",
 line:02e37ce,CafeIntro_Talk,"Celeste: ""Lightsworn Monarch""?",
 line:06953b6,CafeIntro_Talk,"Mosourika: ...Hey,[p/] do you still do that thing when you play?",
-line:0a5b23a,CafeIntro_Talk,Tyrion: ...,
+line:0a5b23a,CafeIntro_Talk,Tyrion: ...,Tyrion: ……
 line:0d32a11,CafeIntro_Talk,Tyrion: ...No.,
 line:0da82e6,CafeIntro_Talk,"Celeste: What ""thing""?",
 line:01239d7,CafeIntro_Talk,Tyrion: Nothing...[p/] She's not talking about anything.,
@@ -714,14 +714,14 @@ line:0614ca6,CafeIntro_Talk,"Mosourika: You need to feed it, Tyrion—[p/]lest y
 line:063a737,CafeIntro_Talk,"Celeste: Do it, Tyrion!",
 line:081539c,CafeIntro_Talk,"Mosourika: Yeah![p/][s/] Do it, Tyrion!",
 line:04fc78e,CafeIntro_Talk,"The two of them began chanting,[p/] drawing the attention of the other patrons in the café.",
-line:038f798,CafeIntro_Talk,Tyrion: ...,
+line:038f798,CafeIntro_Talk,Tyrion: ...,Tyrion: ……
 line:06e1ef3,CafeIntro_Talk,I took in a deep breath.,
 line:01f9d89,CafeIntro_Talk,Tyrion: Those who stand in the shadows![p/][s/] Those who fear the light of divinity!,
 line:00c96a0,CafeIntro_Talk,"Tyrion: Your imperials will fall,[p/] and your armies will perish!",
 line:006821c,CafeIntro_Talk,Tyrion: Kneel and cower before the divine gaze of the Eye of Horus!,
 line:0d28fa1,CafeIntro_Talk,Tyrion: I am Tyrion Cuthbert: [p/][s/]Emperor of Light and the sworn enemy of Darkness itself!,
 line:08946c6,CafeIntro_Talk,Mosourika: ...,
-line:0ecfced,CafeIntro_Talk,Celeste: ...,
+line:0ecfced,CafeIntro_Talk,Celeste: ...,Celeste: ……
 line:0094d69,CafeIntro_Talk,Celeste: Pffft...,
 line:099d2b3,CafeIntro_Talk,Mosourika: [i]*snicker*[/i],
 line:0b87874,CafeIntro_Talk,They were trying really hard to contain their laughter.,
@@ -795,7 +795,7 @@ line:0f9af49,CafeIntro_Present,Player: Default,
 line:0db41a9,CafeIntro_Present,"Tyrion: What do you think about this, Rika?",
 line:0d64031,CafeIntro_Present,Mosourika: Hmph...[p/] Something like that speaks for itself!,
 line:02fa1f0,CafeIntro_Present,"In other words,[p/] she had nothing to say about it.",
-line:09e6344,AfterCafe,Tyrion: ...,
+line:09e6344,AfterCafe,Tyrion: ...,Tyrion: ……
 line:0589b9c,AfterCafe,"Tyrion: Well…[p/] It's been nice catching up with you, Rika.",
 line:00ca43f,AfterCafe,"Tyrion: ...But, I think it's time for us to get going.",
 line:0473047,AfterCafe,Celeste: What?![p/][s/] But we just got here!,
@@ -812,7 +812,7 @@ line:0138ae0,AfterCafe,Mosourika: You'd better.,
 line:0d0cc31,AfterCafe,Mosourika: Don't just disappear like last time.,
 line:09ca0f2,AfterCafe2,We left the café and made our way to the local merchant's guild to rent a carriage.,
 line:0b4d80f,AfterCafe2,The city streets seemed a bit more crowded than before.[p/] There must have been some kind of event going on.,
-line:05dc8ef,AfterCafe2,Celeste: ...,
+line:05dc8ef,AfterCafe2,Celeste: ...,Celeste: ……
 line:0f72fc0,AfterCafe2,"Celeste: Hey,[p/] Tyrion?",
 line:0c6455f,AfterCafe2,Tyrion: ...Yeah?,
 line:052b825,AfterCafe2,Celeste: Um...,
@@ -881,7 +881,7 @@ line:01397a2,AfterCafe5,"Tyrion: Well, [i]I'm[/i] not some super-warrior who can
 line:0edf601,AfterCafe5,"Celeste: Tyrion, relax.[p/] They said they're just investigating something.",
 line:022227d,AfterCafe5,"Celeste: There are no riots going on here,[p/] and we're in the heart of the Duke of Commerce's territory.",
 line:01e1372,AfterCafe5,Celeste: Do you seriously think von Sanctus would let another Pillar Family march onto his land and kill his people?,
-line:08607cc,AfterCafe5,Tyrion: ...,
+line:08607cc,AfterCafe5,Tyrion: ...,Tyrion: ……
 line:04724da,AfterCafe5,"She had a point,[p/] but this uneasiness wasn't going away.",
 line:046a6c7,AfterCafe5,Celeste: It'll be fine.[p/] Let's just find a place to stay the night and wait for all of this to blow over.,
 line:08be8a1,AfterCafe6,We walked to a nearby tavern and found it absolutely crowded with patrons.,
@@ -1003,7 +1003,7 @@ line:067121a,AfterCafe10,"Tyrion: Oh, Rika...[p/] I'm so sorry.",
 line:0b0b73b,AfterCafe10,Tyrion: If there's anything I can do—,
 line:0a7889b,AfterCafe10,Mosourika: The Duke is blaming the Dracogen Trading Company!,
 line:0e062d5,AfterCafe10,Mosourika: He's trying to charge the owner with criminal negligence!,
-line:03b1e42,AfterCafe10,Tyrion: ...,
+line:03b1e42,AfterCafe10,Tyrion: ...,Tyrion: ……
 line:0b62782,AfterCafe10,"As the lord of this region,[p/] it was House von Sanctus's responsibility to carry out the law.",
 line:00a5207,AfterCafe10,But the Duke was obviously just taking this opportunity to attack one of his rivals.,
 line:0c31536,AfterCafe10,"Mosourika: Tyrion...[p/] You're a famous lawyer, right?",
@@ -1022,7 +1022,7 @@ line:020f948,AfterCafe11,I took a deep breath.[p/] Even [i]she[/i] didn't seem t
 line:02245ad,AfterCafe11,Tyrion: Do you know what kind of spell it was?,
 line:0605424,AfterCafe11,Mosourika: I-[p/][s/]I don't know![p/][s/] But it was powerful enough to break everything around it!,
 line:0b70d85,AfterCafe11,That definitely sounded too distinct.[p/] She must have seen [i]something[/i].,
-line:0597c5e,AfterCafe11,Tyrion: ...,
+line:0597c5e,AfterCafe11,Tyrion: ...,Tyrion: ……
 line:064a0e0,AfterCafe11,Tyrion: ...Okay.[p/] I'll head to the refinery and see what I can do.,
 line:055b8d3=,AfterCafe11,Mosourika: Really?,
 line:09b8c73,AfterCafe11,Tyrion: But don't get your hopes up.[p/] I don't have a lot of information to work with.,
@@ -1114,7 +1114,7 @@ line:017450a,Cross_Rika,"AriaC: That is purely speculation on your part, Mr. Cut
 line:0509d28,Cross_Rika,"AriaC: At the very least,[p/] you'd need a witness to even entertain that theory.",
 line:0b2c144,Cross_Rika,AriaC: And the current witness didn't see who the victim was talking to.,
 line:0515584,Cross_Rika,"Judge: I'm compelled to agree, Ms. Steelwind.",
-line:0875492,Cross_Rika,Tyrion: ...,
+line:0875492,Cross_Rika,Tyrion: ...,Tyrion: ……
 line:0a8489d,Cross_Rika,Mosourika: That's when I saw a flash of magical light.[p/] Justin got blasted with a spell.,
 line:09fe0a7,Cross_Rika,Tyrion: Have you been able to figure out what kind of spell he got hit with?,
 line:0884d72,Cross_Rika,"Mosourika: No...[p/] I've been thinking,[p/] but I've never seen a spell like that.",
@@ -1127,7 +1127,7 @@ line:0116f72,Cross_Rika,AriaC: We have records that show that the guardrail was 
 line:0c626a4,Cross_Rika,Tyrion: My client's contractors assured him that the damage wasn't severe.,
 line:01316b5,Cross_Rika,"AriaC: Yet, the guardrail broke apart anyway.",
 line:013b1c0,Cross_Rika,"AriaC: If you want to posit that a spell broke the guardrail,[p/] you'll have to prove it.",
-line:0df204f,Cross_Rika,Tyrion: ...,
+line:0df204f,Cross_Rika,Tyrion: ...,Tyrion: ……
 line:02563d9,Cross_Rika,"Mosourika: It ripped apart the guardrail he was leaning on, and he fell into that vat of chemicals.",
 line:0d9c678,Cross_Rika,"Mosourika: A magical expanding prism ripped apart the guardrail he was leaning on, and he fell into that vat of chemicals.",
 line:02b6f83,Cross_Rika,"Mosourika: It ripped apart the guardrail he was leaning on.[p/] After that,[p/] he tried to catch himself on it and fell into that vat of chemicals.",
@@ -1242,14 +1242,14 @@ line:052b666,RikaObj3,...,
 line:0441017,RikaObj3,No...[p/] There could be any number of explanations for what was happening.,
 line:0e6687b,RikaObj3,Urban myths tended to be distorted by the public.,
 line:0bb28f0,RikaObj3,It's possible people have just been calling this thief the Mistweaving Phantom because of the similarities between the robberies.,
-line:00ee151,RikaObj3,Tyrion: ...,
+line:00ee151,RikaObj3,Tyrion: ...,Tyrion: ……
 line:0f8b4fd,RikaObj3,Tyrion: The defense has no further questions for the witness.[p/] She is dismissed.,
 line:03cdba3,RikaObj3,Mosourika: ...,
 line:047c9ea,RikaObj3,AriaC: Hmph...[p/] I'd thought you were more objective than that.,
 line:0aaa809,RikaObj3,Tyrion: I don't care what she's done in the past.,
 line:0dd5e97,RikaObj3,"Tyrion: I know my friend,[p/] and I know she's not a murderer.",
 line:0f46e02,RikaObj3,AriaC: Clearly.[p/] What happened that morning was the result of simple negligence.,
-line:0572167,RikaObj3,Tyrion: ...,
+line:0572167,RikaObj3,Tyrion: ...,Tyrion: ……
 line:09d24e1,RikaObj3,"AriaC: Your Honor.[p/] For our next witness,[p/] the prosecution would like to call Orym White to the stand.",
 line:0ee0a03,RikaObj3,"Judge: Very well.[p/] Bailiff,[p/] please call the Inquisition Commander to the stand.",
 line:0004ad1,OrymTest,"AriaC: Commander, as I'm sure you've heard,[p/] Mr. Cuthbert is trying to connect the accident to the robberies of the Mistweaving Phantom.",
@@ -1369,7 +1369,7 @@ line:02b155b,OrymObj2,"AriaC: As I've said,[p/] I have several reports from many
 line:0add738,OrymObj2,"AriaC: They came from multiple, diverse sources,[p/] and they all paint a very vivid picture of aggression between your client and the unions.",
 line:0f39d40,OrymObj2,"AriaC: Furthermore,[p/] they are far less biased than Stefanic Dracogen or Noah Morrison.",
 line:07765ef,OrymObj2,"She had a point,[p/] and I couldn't claim the reports were false without any proof.",
-line:01e4d7c,OrymObj2,Tyrion: ...,
+line:01e4d7c,OrymObj2,Tyrion: ...,Tyrion: ……
 line:060a08a,OrymObj2,"Tyrion: If you want to implicate Mr. Morrison,[p/] I think it's only fair that he be allowed to defend himself.",
 line:00096c9,OrymObj2,AriaC: Fine.[p/] Let him testify.,
 line:0be52e1,OrymObj2,AriaC: But it will be his word against dozens.,
@@ -1484,7 +1484,7 @@ line:0982aaa,NoahObj2,AriaC: ...,
 line:04334fa,NoahObj2,AriaC: Lloyd von Sanctus gave you this information.,
 line:054eebe,NoahObj2,"Tyrion: That's right, Steelwind.",
 line:0ddb495,NoahObj2,AriaC: Lloyd von Sanctus:[p/] the plaintiff of this trial.,
-line:0414b60,NoahObj2,Tyrion: ...,
+line:0414b60,NoahObj2,Tyrion: ...,Tyrion: ……
 line:0906b3b,NoahObj2,Tyrion: ...Uh—,
 line:028d5d1,NoahObj2,AriaC: Lloyd von Sanctus:[p/] the man who would have every reason to have you fail.,
 line:03e6a57,NoahObj2,Celeste: ...Tyrion?,
@@ -1622,11 +1622,11 @@ line:01a66bf,LucioObj2,Lucio: Make it the next day.,
 line:08f918b,LucioObj2,JUDGE: Court proceedings will resume [i]Wednesday[/i] morning!,
 line:0f7fd42,LucioObj2,JUDGE: Court is adjourned.,
 line:0bbe648,AfterCourtOne,Lucio: ...,
-line:030fbb0,AfterCourtOne,Celeste: ...,
+line:030fbb0,AfterCourtOne,Celeste: ...,Celeste: ……
 line:032897a,AfterCourtOne,Lucio: So...?[p/] Out with it.,
 line:047a260,AfterCourtOne,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0e0983f,AfterCourtOne,Lucio: You look like you want to say something.,
-line:02c5d58,AfterCourtOne,Tyrion: ...,
+line:02c5d58,AfterCourtOne,Tyrion: ...,Tyrion: ……
 line:0b57e7d,AfterCourtOne,"Tyrion: If I didn't know any better,[p/] I would think that you tried to help us back there.",
 line:04ea1d3,AfterCourtOne,Tyrion: I can't imagine you care all that much about workers' rights or my client.,
 line:005bab5,AfterCourtOne,Lucio: ...I have my reasons.,
@@ -1638,7 +1638,7 @@ line:0149b3f,AfterCourtOne,Lucio: But most importantly...,
 line:09c5632,AfterCourtOne,Lucio: I want to know who they are working for.,
 line:0af7426,AfterCourtOne,Tyrion: ...Are you trying to insinuate that it isn't you?,
 line:096d1ef,AfterCourtOne,Lucio: Is that what you think?,
-line:079ca28,AfterCourtOne,Tyrion: ...,
+line:079ca28,AfterCourtOne,Tyrion: ...,Tyrion: ……
 line:0b7463e,AfterCourtOne,"Honestly,[p/] I didn't know [i]what[/i] to think at this point.",
 line:0d282dd,AfterCourtOne2,Lucio: You always seem to arrive at the truth when no one else will.,
 line:0432ca9,AfterCourtOne2,"Lucio: I've read the court transcripts from your past cases,[p/] so I already had some suspicions.",
@@ -1648,13 +1648,13 @@ line:0cccb2c,AfterCourtOne2,Tyrion: ...!,
 line:0f211b8,AfterCourtOne2,I tensed for a moment.[p/] Why did he phrase it like that?,
 line:0d07b37,AfterCourtOne2,His thoughts were so easy to read during his testimony...[p/] Was this some kind of test?,
 line:0aa467d,AfterCourtOne2,"Tyrion: ...Well,[p/] I'm sure someone like you would have a great use for an eye like mine.",
-line:01cb7ab,AfterCourtOne2,Tyrion: ...,
+line:01cb7ab,AfterCourtOne2,Tyrion: ...,Tyrion: ……
 line:0b01744,AfterCourtOne2,Tyrion: I am [i]so[/i] sorry...[p/][s/] I did not mean it like—,
 line:0940acd,AfterCourtOne2,Lucio: I understood what you meant.,
 line:077ceeb,AfterCourtOne2,Lucio: Well?[p/] Get to work then.[p/] I'll be waiting for your results.,
 line:049010b,AfterCourtOne2,"Tyrion: ...I don't take orders from you, Grand General.",
 line:0ba76f3,AfterCourtOne2,Lucio: Yet you will still do what I have asked.[p/] It's in your nature.,
-line:010d5a0,AfterCourtOne2,Tyrion: ...,
+line:010d5a0,AfterCourtOne2,Tyrion: ...,Tyrion: ……
 line:0e6ed96,AfterCourtOne2,"I exhaled heavily.[p/] The more this mystery unravelled,[p/] the more uncertain I became of everything.",
 line:0e12747,AfterCourtOne2,I really wished Ms. Tymora was here to help me.[p/] I could feel a migraine coming on.,
 line:04ab052,AfterCourtOne2,"Celeste: Hey, are you okay?",
@@ -1672,9 +1672,9 @@ line:03df0a5,AfterCourtOne2,Tyrion: Celeste.[p/] It's fine.,
 line:08d1aa8,AfterCourtOne2,Celeste: It's not.[p/] You're going to work yourself—,
 line:0864bf1,AfterCourtOne3,Tyrion: Would you just stay out of my way?!,
 line:0f79aaf,AfterCourtOne3,"Once again,[p/] my voice came out louder than I'd meant for it to.",
-line:0f7f760,AfterCourtOne3,Celeste: ...,
+line:0f7f760,AfterCourtOne3,Celeste: ...,Celeste: ……
 line:0632080,AfterCourtOne3,Celeste: Fine.[p/] Whatever.[p/] Do what you want.,
-line:0bd0ead,AfterCourtOne3,Tyrion: ...,
+line:0bd0ead,AfterCourtOne3,Tyrion: ...,Tyrion: ……
 line:0b4d098,AfterCourtOne3,It was all because I returned to Aurinax...[p/] It was just dredging up emotions that needed to stay buried.,
 line:0c184d7,AfterCourtOne3,That was all the more reason to get through this trial as soon as possible.,
 line:0ddbbb9,AfterCourtOne3,...,
@@ -1708,7 +1708,7 @@ line:029cb52,NightAfterTrial1,Ruby: I—,
 line:09c701d,NightAfterTrial1,Ruby: ...,
 line:07fd78a,NightAfterTrial1,"Ruby: Look, just—[p/] Just come inside.",
 line:0e5e08a,NightAfterTrial1,Ruby: We need to get you something to eat.[p/] Then we can get you cleaned up.,
-line:0fd6846,NightAfterTrial1,Tyrion: ...,
+line:0fd6846,NightAfterTrial1,Tyrion: ...,Tyrion: ……
 line:05c0507,NightAfterTrial1,The boy said nothing as he clutched the final message that his mother had left him.,
 line:02568bf,NightAfterTrial1,It was the last comforting memory I'd ever have of her.,
 line:0036b8e,NightAfterTrial1,...It was something that I'd never experience again.,
@@ -1734,7 +1734,7 @@ line:0ddbe80,StartInves2b,Celeste: ...Do you think one of them is involved in al
 line:0f5044e,StartInves2b,Tyrion: I think so...[p/] But I don't know why she wouldn't speak up about it if it was related to the case.,
 line:0f8a333,StartInves2b,Tyrion: We'll probably have to talk to her next.,
 line:075fdeb,StartInves2b,"Tyrion: After all,[p/] I doubt it will be easy to get an audience with—",
-line:049f3e8,StartInves2b,Tyrion: ...,
+line:049f3e8,StartInves2b,Tyrion: ...,Tyrion: ……
 line:0f42d43,StartInves2b,Aster: ...!,
 line:015c102,StartInves2b,"As we exited our room,[p/] we suddenly came face to face with the Crown Prince.",
 line:00929d0,StartInves2b,"We all stood there, stunned.[p/] What was he doing staying at a tavern for commoners?",
@@ -1745,10 +1745,10 @@ line:0e16f23,StartInves2b,Tyrion: Y-[p/][s/]You know who I am?,
 line:0dcf42c,StartInves2b,That wasn't usually a good sign.,
 line:047cb9a,StartInves2c,Aster: I do...[p/] I know you [i]very[/i] well.,
 line:00844ea,StartInves2c,Aster: Tyrion Cuthbert:[p/] the protégé of the infamous Ruby Tymora.,
-line:0b7c35c,StartInves2c,Celeste: ...,
+line:0b7c35c,StartInves2c,Celeste: ...,Celeste: ……
 line:07fd1cf,StartInves2c,Aster: I'm—,
 line:00fd336,StartInves2c,Aster: —your biggest fan!,
-line:061085a,StartInves2c,Tyrion: ...,
+line:061085a,StartInves2c,Tyrion: ...,Tyrion: ……
 line:0667e7f,StartInves2c,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0ff282b,StartInves2c,Aster: I can't believe it![p/][s/] The [i]infamous[/i] Tyrion Cuthbert is standing right in front of my tavern room!,
 line:0098215,StartInves2c,Celeste: ...What?,
@@ -1844,7 +1844,7 @@ line:0238b1a,Courtroom2d,"Lucio: Justin Waye had been committing a string of rob
 line:0bb5676,Courtroom2d,Lucio: Waye was working with insurrectionists who provided him with an advanced magical ring.[p/] He used that ring during his robberies.,
 line:005189d,Courtroom2d,Lucio: One of the ring's functions allowed him to teleport himself.[p/] The other allowed him to summon an item to him.,
 line:0f63f57,Courtroom2d,Lucio: Waye had taken the stolen energy cells and placed a bomb within them.[p/] He was going to summon it into the refinery and detonate it.,
-line:07a0fcb,LucioTestAfter,Tyrion: ...,
+line:07a0fcb,LucioTestAfter,Tyrion: ...,Tyrion: ……
 line:0a6b296,LucioTestAfter,Tyrion: What?!,
 line:065995b,LucioTestAfter,Celeste: There was a [i]bomb[/i] inside that thing?!,
 line:0a7efa7,LucioTestAfter,"AriaC: F-[p/][s/]Father![p/][s/] By the Scaled Lord,[p/] [i]why[/i] would you say that?!",
@@ -2117,7 +2117,7 @@ line:0e7d7c7,LloydTest,"Lloyd: My City Watch has been hard at work apprehending 
 line:0f29e4d,LloydTest,"Lloyd: They've been growing in number,[p/] however.[p/] No doubt because these ""unions"" have been feeding the people's discontent.",
 line:0074df9,LloydTest,"Lloyd: From what I understand,[p/] they were even planning to plant a bomb in the refinery.[p/] Thank the Scaled Lord nobody was hurt.",
 line:014e3a7,LloydTest,"Lloyd: Tensions have been getting worse and worse,[p/] and the Steelwinds have only been feeding the flames.",
-line:0078511,LloydTest,Tyrion: ...,
+line:0078511,LloydTest,Tyrion: ...,Tyrion: ……
 line:0b45543,LloydTest,"Celeste: Well,[p/] he's obviously wrong![p/] We [i]know[/i] that someone is trying to frame the unions.",
 line:01bc0f3,LloydTest,"Tyrion: Yeah,[p/] but we don't have any hard evidence to prove it yet.",
 line:06143b2,LloydTest,"Tyrion: Until we can do that,[p/] it's our word against his.",
@@ -2240,7 +2240,7 @@ line:003499a,CrossLloyd2,"Judge: I must agree with Lord von Sanctus, Mr. Cuthber
 line:0c07fb7,CrossLloyd2,Judge: I don't see any reason to entertain this—,
 line:091c05a,CrossLloyd2,"AriaC: If Mr. Cuthbert wants to waste the court's time with this line of question,[p/] I believe we should let him.",
 line:0e79bb3,CrossLloyd2,AriaC: Let him get it out of his system.,
-line:00255fc,CrossLloyd2,Tyrion: ...,
+line:00255fc,CrossLloyd2,Tyrion: ...,Tyrion: ……
 line:0298dd6,CrossLloyd2,Something was strange about the tone of her voice.,
 line:0cf7172,CrossLloyd2,It was like she was overplaying how she usually spoke during our trials.,
 line:0622256,CrossLloyd2,...Was she covering for me?,
@@ -2526,7 +2526,7 @@ line:0c802ec,LloydEye,There was nothing there for me to use.,
 line:047f3ea,LloydAfterEye,No...[p/] He'd accounted for everything!,
 line:0414d58,LloydAfterEye,Lloyd: You can ruminate all you want.[p/] There's nothing you can do.,
 line:0714706,LloydAfterEye,"Lloyd: Face it, boy.[p/] You've [i]lost[/i].",
-line:01f5307,LloydAfterEye,Tyrion: ...,
+line:01f5307,LloydAfterEye,Tyrion: ...,Tyrion: ……
 line:0ef16d6,LloydAfterEye,AriaC: ...,
 line:0435d59,LloydAfterEye,"I wasn't naïve enough to think that I'd be able to win every case,[p/] but I never imagined that I'd lose one as important as this.",
 line:061353d,LloydAfterEye,...,
@@ -2603,7 +2603,7 @@ line:0b1ca11,LloydAfterEye7,Tyrion: I've seen how much Aurinax has changed becau
 line:08045ea,LloydAfterEye7,Lloyd: All you've [i]seen[/i] is our society take one small step closer to anarchy.,
 line:0948ab9,LloydAfterEye7,Lloyd: Hmph...[p/] No matter.[p/] He's just one man.,
 line:059987a,LloydAfterEye7,Lloyd: It won't be long before he's forgotten.,
-line:0c4b13f,end,Tyrion: ...,
+line:0c4b13f,end,Tyrion: ...,Tyrion: ……
 line:059a814,end,"I exhaled deeply,[p/] the weight of this trial finally off my shoulders.",
 line:054ea20,end,"Out of every case I've defended,[p/] this was easily the most stressful one.",
 line:04b0359,end,But I didn't know if I could consider this a victory.,
@@ -2688,7 +2688,7 @@ line:0728fdf,LloydConfrontEnd3,Lucio: You possess the Eye of Radiance:[p/] the a
 line:033d84a,LloydConfrontEnd3,I eyed him warily...[p/] He seemed to know more about the Eye of Horus than [i]I[/i] did.,
 line:09e8009,LloydConfrontEnd3,"Lucio: Like I said before,[p/] I've read the transcripts of your past cases.",
 line:0cd072d,LloydConfrontEnd3,Lucio: And what you did to me during the first session all but proved it.,
-line:000df92,LloydConfrontEnd3,Tyrion: ...,
+line:000df92,LloydConfrontEnd3,Tyrion: ...,Tyrion: ……
 line:0b5a4a5,LloydConfrontEnd3,"The Theocracy of Lumina was the nation west of us,[p/] and Wyverngarde's most hated enemy.",
 line:006bf6e,LloydConfrontEnd3,I didn't know much about them.[p/] Any written information about them was heavily controlled by the kingdom.,
 line:0be3ca0,LloydConfrontEnd3,"Tyrion: ...I'm not an agent of the Theocracy, Lucio.",
@@ -2701,7 +2701,7 @@ line:0a6df3f,LloydConfrontEnd3,Lucio: There will come a day when I will require 
 line:0fe49f2,LloydConfrontEnd3,Lucio: The Eye of Radiance is too powerful a weapon for me to squander.[p/] I imagine it will be of great use to me.,
 line:01d02a0,LloydConfrontEnd3,Tyrion: ...And if I refuse?,
 line:0d400db,LloydConfrontEnd3,Lucio: Then I will treat you just like any other foreign agent.,
-line:0b9f304,LloydConfrontEnd3,Tyrion: ...,
+line:0b9f304,LloydConfrontEnd3,Tyrion: ...,Tyrion: ……
 line:0d02574,LloydConfrontEnd3,Lucio: Be ready.[p/] I imagine the day I call upon you will come sooner rather than later.,
 line:0b528bd,LloydConfrontEnd3,Celeste rushed over to me as soon as the Grand General left.,
 line:0e81852,LloydConfrontEnd4,Celeste: ...Are you okay?!,
@@ -2758,7 +2758,7 @@ line:081de79,RikaNTyr,Mosourika: I don't want us scrambling around like last wee
 line:0babcf2,RikaNTyr,Mosourika: ...Tyrion!,
 line:0df2713,RikaNTyr2,Mosourika: Everyone's talking about what happened!,
 line:0a7b3b1,RikaNTyr2,Mosourika: It seems the Duke of Commerce was no match for the Lightsworn Monarch!,
-line:080e165,RikaNTyr2,Tyrion: ...,
+line:080e165,RikaNTyr2,Tyrion: ...,Tyrion: ……
 line:0f79b63,RikaNTyr2,Mosourika: ...What's that look for?,
 line:0b4e90d,RikaNTyr2,"Mosourika: You [i]did[/i] win, didn't you?",
 line:0041313,RikaNTyr2,Tyrion: It's a bit more complicated than that...,
@@ -2801,7 +2801,7 @@ line:0ce76c9,RikaNTyr3c,I didn't think I could ever forget what he had planned f
 line:07cbbfc,RikaNTyr3c,"But I wasn't alone anymore.[p/] I had Ms. Tymora,[p/] I had Celeste,[p/] and I had my friends in Aurinax.",
 line:07aa3b4,RikaNTyr3c,I didn't need to carry all of this by myself.,
 line:0f33725,RikaNTyr3c,And in that moment—[p/]thinking back to the night Celeste comforted me—[p/]I realized something.,
-line:0087235,RikaNTyr3c,Tyrion: ...,
+line:0087235,RikaNTyr3c,Tyrion: ...,Tyrion: ……
 line:0c10383,RikaNTyr3c,Tyrion: I think I have feelings for her.,
 line:096c236,RikaNTyr3c,Mosourika: ...What?,
 line:03fdcb3,RikaNTyr3c,"I stood up from my seat,[p/] my eyes wide in terror.[p/] The migraine returned with a vengeance.",
@@ -3217,13 +3217,13 @@ line:0d3594f,DracDeduce6,Stefanic: The Duke's manor is in the upper district wes
 line:0a14c63,DracDeduce6,Stefanic: ...But I'd be careful if I were you.[p/] The duke of a Pillar Family is not someone to be trifled with.,
 line:0cba951,DracDeduce6,Tyrion: That's never stopped me before.,
 line:034d7a9,DracDeduce6,Stefanic: Ha![p/] Clearly.,
-line:00fbd9e,DracDeduce6,Celeste: ...,
+line:00fbd9e,DracDeduce6,Celeste: ...,Celeste: ……
 line:0d7ed4e,Harbor1_Examine,Player: Houses,
 line:0761b8f,Harbor1_Examine,Tyrion: A row of houses line the edge of the harbor.,
 line:04d20ee,Harbor1_Examine,"Tyrion: When I was a kid,[p/] I always dreamed of saving up enough gold to buy my own house on the harbourfront...",
 line:0e71947,Harbor1_Examine,"Celeste: Well, you have a job as an attorney now.[p/] You can always move back here.",
 line:02e21ce,Harbor1_Examine,"Tyrion: No...[p/] If possible,[p/] I never want to return to this city again.",
-line:0a38519,Harbor1_Examine,Celeste: ...,
+line:0a38519,Harbor1_Examine,Celeste: ...,Celeste: ……
 line:08e74a9,Harbor1_Examine,Player: Ship,
 line:0089239,Harbor1_Examine,Tyrion: It's a modest ship.[p/] It's probably used by local businesses to transport goods by sea.,
 line:00a0770,Harbor1_Examine,Celeste: I can't help but feel nostalgic seeing these ships.,
@@ -3258,7 +3258,7 @@ line:07066f7,Harbor1_Talk,"Celeste: Well, that definitely can't be for anything 
 line:0d27992,Harbor1_Talk,Tyrion: But that implies that the Phantom is stealing more than just valuables.,
 line:0165060,Harbor1_Talk,Tyrion: What are they trying to accomplish?,
 line:0ce0dab,Harbor1_Talk,Player: The Robber's Profile,
-line:0d8a940,Harbor1_Talk,Tyrion: ...,
+line:0d8a940,Harbor1_Talk,Tyrion: ...,Tyrion: ……
 line:02efc21,Harbor1_Talk,"What was going on?[p/] The more I learned about the Mistweaving Phantom,[p/] the more their motives became unclear.",
 line:09ad98d,Harbor1_Talk,"Tyrion: Mr. Morrison,[p/] Steelwind told us that several ships were robbed in port.[p/] Do you know which ones?",
 line:01ec630,Harbor1_Talk,"Noah: Ah,[p/] give me a second.[p/] I've been making some notes on the shipping reports right here.",
@@ -3314,7 +3314,7 @@ line:041d905,NoahNoahConv,It sounded like he was clumsily stumbling around his w
 line:0a16ca3,NoahNoahConv,"Noah: You're probably all settled down in the capital,[p/] but I hear there are some support groups that—",
 line:014c620,NoahNoahConv,"Tyrion: I'm okay.[p/] Thank you, Mr. Morrison.",
 line:0678073,NoahNoahConv,"Noah: R-[p/][s/]Right, of course.",
-line:065503d,NoahNoahConv,Celeste: ...,
+line:065503d,NoahNoahConv,Celeste: ...,Celeste: ……
 line:0e87426,NoahUnionConv,Tyrion: I heard that you're leading one of the workers' unions in Aurinax.,
 line:012e37a,NoahUnionConv,"Noah: Ah,[p/] so you heard about that.",
 line:04ab41d,NoahUnionConv,"Noah: I didn't trust it at first,[p/] but Dracogen's idea really took off.",
@@ -3426,7 +3426,7 @@ line:034ea35,Harbor1_Check,I drew in a sharp breath.[p/] The guilt over how I'd 
 line:02b2520,Harbor1_Check,Tyrion: ...I'm sorry I never kept in touch.,
 line:07084e0,Harbor1_Check,Noah: ...I'm just glad that you're safe.,
 line:03ad903,Harbor1_Check,Noah: Some of the lads were sure you'd died in the woods.,
-line:0589038,Harbor1_Check,Celeste: ...,
+line:0589038,Harbor1_Check,Celeste: ...,Celeste: ……
 line:075722e,Harbor1_Check,Noah: Color us surprised when we saw you in the newspaper taking on some noble in the countryside.,
 line:0e1d51c,Harbor1_Check,"Tyrion: ...Actually,[p/] since I have you here,[p/] I'm investigating the death of Justin Waye.",
 line:022ab2b,Harbor1_Check,"Noah: Oh, you heard about that.[p/] It's a terrible thing that happened to him.",
@@ -3460,7 +3460,7 @@ line:05821f7,Harbor2_Talk,Cat: I was keeping watch over that boy.,
 line:0f6f11d,Harbor2_Talk,Cat: I needed to make sure he completed his task.,
 line:0d38358,Harbor2_Talk,"Tyrion: ...How did you know what his ""task"" was?",
 line:0607c77,Harbor2_Talk,Cat: Because I gave it to him.,
-line:0685490,Harbor2_Talk,Tyrion: ...,
+line:0685490,Harbor2_Talk,Tyrion: ...,Tyrion: ……
 line:050cce6,Harbor2_Talk,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0ace2cd,Harbor2_Talk,Cat: I gave him the task to rob those documents from Stefanic Dracogen.,
 line:0e24b35,Harbor2_Talk,Tyrion: ...B-[p/][s/]but—[p/][s/] I—[p/][s/] WHAT?!,
@@ -3530,7 +3530,7 @@ line:0d2e627,Harbor2_Present,Player: Phantom|Justin|Autopsy,
 line:087848a,Harbor2_Present,Cat: That boy—[p/]his actions perplexed me to the very end.,
 line:064e626,Harbor2_Present,Cat: He was quite the thief.[p/] I might even say he was more dextrous than [i]me[/i].,
 line:088eeb6,Harbor2_Present,Cat: It's a shame he couldn't follow such simple instructions.,
-line:02423fb,Harbor2_Present,Tyrion: ...,
+line:02423fb,Harbor2_Present,Tyrion: ...,Tyrion: ……
 line:02c3ccc,Harbor2_Present,Player: HousePic,
 line:00c46d2,Harbor2_Present,"Cat: Ah,[p/] it seems you've found my liar.",
 line:023cbc1,Harbor2_Present,Tyrion: ...That's technically [i]my[/i] house.,
@@ -3587,7 +3587,7 @@ line:0963ee8,Chess2,"Celeste: Anyways,[p/] we should celebrate!",
 line:0d18d31,Chess2,"Celeste: He was a pushover,[p/] but you just beat a [i]duke[/i]!",
 line:06c02cd,Chess2,Tyrion: ...Do you want to head to that restaurant in Ratholme?,
 line:072bdaf,Chess2,Celeste: What are you talking about?[p/] There are plenty of places here we haven't tried before.,
-line:07967e8,Chess2,Tyrion: ...,
+line:07967e8,Chess2,Tyrion: ...,Tyrion: ……
 line:01c8bd2,Chess2,I only returned to Aurinax for the chance to finally defeat the head of a Pillar Family.,
 line:0d5f1ee,Chess2,"I really wanted to leave,[p/] especially before anyone in town recognized me.",
 line:0fd8dda,Chess2,Celeste: Do you remember that café we passed on the way to the tournament grounds?,
@@ -3622,7 +3622,7 @@ line:030cd44,CafeIntro2,"Mosourika: Let me bring you some of our best dishes,[p/
 line:0cc56b2,CafeIntro2,Tyrion: N-[p/][s/]No.[p/] We couldn't possibly—,
 line:086e410,CafeIntro2,Mosourika: Don't be like that.,
 line:03c99fe,CafeIntro2,"Mosourika: It's been years since I've seen you,[p/] and you [i]know[/i] how good my cooking is.",
-line:0d2da64,CafeIntro2,Tyrion: ...,
+line:0d2da64,CafeIntro2,Tyrion: ...,Tyrion: ……
 line:02875d4,CafeIntro2,"Tyrion: Okay,[p/] but only for a little bit.",
 line:00048ed,CafeIntro2,"Tyrion: Also,[p/] a bit of a warning,[p/] Celeste is kind of a glutton.[p/] Her stomach is basically bottomless.",
 line:0a1136b,CafeIntro2,Celeste: Hey!,
@@ -3631,7 +3631,7 @@ line:00d5bfa,CafeIntro2,Rika set a table for the three of us before calling over
 line:021d68a,CafeIntro2,"I ordered the Eggs Benedict,[p/] and Rika ordered the French toast.",
 line:0d2e2c3,CafeIntro2,"...Celeste ordered the omelette,[p/] ham skillet,[p/] shaved steak,[p/] breakfast wrap.[p/] a stack of pancakes,[p/] a stack of waffles,[p/] a chocolate crepe—",
 line:0e612a7,CafeIntro2,"—and the avocado toast,[p/] because she wanted something light.",
-line:0469fdc,CafeIntro2,Tyrion: ...,
+line:0469fdc,CafeIntro2,Tyrion: ...,Tyrion: ……
 line:0ac7fb9,CafeIntro2,"Tyrion: I am so sorry, Rika.[p/] I'll pay for her food.",
 line:0ec6a7d,CafeIntro2,Mosourika: H-[p/][s/]Ha![p/][s/] This is nothing!,
 line:0cf1d25,CafeIntro2,Mosourika: My café has dealt with far greater foes than this!,
@@ -3678,7 +3678,7 @@ line:084c185,CatDeduce4,"No...[p/] Something like that should have still left tr
 line:03fbb2b,CatDeduce4,I would need to know exactly what kind of magic the ring could cast.,
 line:0f30fe6,CatDeduce4,Only the Inquisition had access to mages who could analyze it.,
 line:01903a6,CatDeduce4,"I would be showing my hand to Steelwind,[p/] but I didn't have a choice if I wanted to use this in court.",
-line:0e60cda,CatDeduce4,Tyrion: ...,
+line:0e60cda,CatDeduce4,Tyrion: ...,Tyrion: ……
 line:05a0e59,CatDeduce5,"Tyrion: Thank you for answering my questions, Queen,[p/] but I have one last question.",
 line:062c11d,CatDeduce5,Tyrion: ...Who are you [i]really[/i] working for?,
 line:08f3946,CatDeduce5,Cat: ...What are you on about?,
@@ -3727,7 +3727,7 @@ line:054415e,Inves2End,"Orym: No idea.[p/] It wasn't physically damaged,[p/] but
 line:06c135c,Inves2End,"Orym: It's been fading since the accident, too.[p/] We're lucky we could even identify the spells at all.",
 line:0c071f5,Inves2End,"Orym: If the kid had figured this out a day later,[p/] it might've been too late.",
 line:0fdd3c8,Inves2End2,Aria: ...Which raises the question as to [i]how[/i] you figured this out.,
-line:0a82776,Inves2End2,Tyrion: ...,
+line:0a82776,Inves2End2,Tyrion: ...,Tyrion: ……
 line:07f0610,Inves2End2,"Aria: Mr. Cuthbert,[p/] it was [i]my[/i] resources that allowed you to analyze the ring in the first place.",
 line:0543dfd,Inves2End2,Aria: I believe I deserve to know why.,
 line:0025085,Inves2End2,"Tyrion: ...Fair point,[p/] but I'll only tell you on one condition.",
@@ -3749,7 +3749,7 @@ line:0015299,Inves2End3,The prosecutor raised an eyebrow at all of us.[p/] She p
 line:07b0e85,Inves2End3,Aria: ...What are you all looking at?,
 line:0d4975c,Inves2End3,She slowly turned her head before completely whipping around at the sight of the Crown Prince.,
 line:084dfa9,Inves2End3,"Aria: Y-[p/][s/]Y[p/][s/]-Y[p/][s/]-Y[p/][s/]-Your Highness?! [h=""Why is he here?!"" e=""hf""/]",
-line:055b43a,Inves2End3,Celeste: ...?,
+line:055b43a,Inves2End3,Celeste: ...?,Celeste: ……？
 line:05cb9dc,Inves2End3,...What?,
 line:046d140,Inves2End3,"Aster: The last thing I want to do do is disturb you during your work,[p/] but I wanted to see you.",
 line:0902c65,Inves2End3,Aria: Oh?![p/][s/] Okay!,
@@ -3820,7 +3820,7 @@ line:022f7c8,Inves2End5,Celeste: Don't apologize.[p/] You've been running yourse
 line:018a170,Inves2End6,Tyrion: I guess it [i]is[/i] getting late.,
 line:0149737,Inves2End6,Tyrion: Let's head back to the room for now.,
 line:0525e8a,Inves2End6,Tyrion: I can work through everything we've learned there.,
-line:0fb0439,Inves2End6,Celeste: ...,
+line:0fb0439,Inves2End6,Celeste: ...,Celeste: ……
 line:00181a4,Inves2End6b,We arrived back at the tavern room.[p/] The lobby was still packed with people waiting for the blockade to end.,
 line:090f400,Inves2End6b,"Despite myself,[p/] the soft mattress of the bed was just too appealing.",
 line:0444013,Inves2End6b,I could probably work through all of this while lying down.,
@@ -3900,7 +3900,7 @@ line:0da5a64,LastNightmare4,I quickly tried to bring up my sleeve to wipe them a
 line:0096529,LastNightmare4,...But I realized that Celeste was firmly gripping my hand.,
 line:01c9f21,LastNightmare4,Tyrion: W-[p/]Wha—?[p/] Why are you—?,
 line:030f787,LastNightmare4,Celeste: A-[p/][s/]Ah![p/] S-[p/][s/]Sorry!,
-line:0ad28b9,LastNightmare4,Tyrion: ...,
+line:0ad28b9,LastNightmare4,Tyrion: ...,Tyrion: ……
 line:0ce6730,LastNightmare4,Celeste: Um...[p/] You were kind of...[p/] shouting in your sleep.,
 line:0cf768e,LastNightmare4,Celeste: You seemed to calm down whenever I held your hand.,
 line:05839c3,LastNightmare4,Celeste: So...[p/] I've been...[p/] doing that.,
@@ -3909,15 +3909,15 @@ line:0ae9da8,LastNightmare4,"Celeste: ...Tyrion, are you okay?",
 line:05fb3ab,LastNightmare4,"Celeste: I know you're not,[p/] but—",
 line:0a83949,LastNightmare4,Tyrion: ...It's fine.,
 line:06f7421,LastNightmare4,Celeste: It's [i]not[/i] fine!,
-line:0dd3427,LastNightmare4,Celeste: ...,
+line:0dd3427,LastNightmare4,Celeste: ...,Celeste: ……
 line:0f22163,LastNightmare4,Celeste: ...Does it have something to do with what happened to your mom?,
 line:091def3,LastNightmare4,"Celeste: For the last two nights,[p/] you've been calling out for her in your sleep.",
-line:06c41ef,LastNightmare4,Tyrion: ...,
+line:06c41ef,LastNightmare4,Tyrion: ...,Tyrion: ……
 line:0bbc37c,LastNightmare4,Celeste: Please.[p/] Just talk to me.,
 line:0c11912,LastNightmare5,I didn't have many people in my life after I left Aurinax.,
 line:0a06724,LastNightmare5,"I only had Ms. Tymora,[p/] and my mother's death had always weighed heavily on her, too.",
 line:0b50b78,LastNightmare5,But Celeste had been there since I started my career.,
-line:0c04a12,LastNightmare5,Tyrion: ...,
+line:0c04a12,LastNightmare5,Tyrion: ...,Tyrion: ……
 line:0c50153,LastNightmare5,Tyrion: ...It all happened a long time ago.,
 line:0644593,LastNightmare5,Tyrion: I lived here together with my mother in that old house.,
 line:09f0843,LastNightmare5,Tyrion: She was a merchant...[p/] and a mage.,
@@ -3928,7 +3928,7 @@ line:09e15c7,LastNightmare5,Tyrion: And they found traces of magic at the crime 
 line:03578a5,LastNightmare5,Celeste: They thought that your mom did it...,
 line:077e180,LastNightmare5,Tyrion: Ms. Tymora was my mom's attorney at the time.,
 line:03bd89b,LastNightmare5,"Tyrion: She did everything she could,[p/] but they couldn't find the real killer.",
-line:0e60ba8,LastNightmare5,Celeste: ...,
+line:0e60ba8,LastNightmare5,Celeste: ...,Celeste: ……
 line:083fd9a,LastNightmare5,"Tyrion: I tried to stop her execution,[p/] b-[p/][s/]but...",
 line:0c86eae,LastNightmare5,My voice started breaking.,
 line:0ce9748,LastNightmare5,Celeste: Tyrion...,
@@ -3936,7 +3936,7 @@ line:0969200,LastNightmare5,"Tyrion: ...I'm sorry, Celeste.",
 line:0682ec5,LastNightmare5,Celeste: ...What?,
 line:0704d50,LastNightmare6,Tyrion: I was saving people from being killed like my mother was.[p/] I thought I'd finally moved on.,
 line:053bdc4,LastNightmare6,Tyrion: But I'm back in Aurinax...[p/] And these feelings are just as fresh in my mind as they were back then.,
-line:04e85cf,LastNightmare6,Celeste: ...,
+line:04e85cf,LastNightmare6,Celeste: ...,Celeste: ……
 line:04fd28b,LastNightmare6,Celeste: What was she like?,
 line:0ea9953,LastNightmare6,Tyrion: What?,
 line:0ac810d,LastNightmare6,Celeste: What was your mom like?,
@@ -3951,7 +3951,7 @@ line:0ad2ae3,LastNightmare6,Tyrion: Tarot readings are funny like that.[p/] You 
 line:0bbac55,LastNightmare6,"Tyrion: Sometimes she'd do them for me, too.[p/] I always had something on my mind back then—[p/]stupid kid stuff.",
 line:017ace2,LastNightmare6,Tyrion: But she always knew just what to say to make me feel better.,
 line:083991b,LastNightmare6,It wasn't until years afterwards that I realized she had the Eye of Horus too.,
-line:01a1052,LastNightmare6,Tyrion: ...,
+line:01a1052,LastNightmare6,Tyrion: ...,Tyrion: ……
 line:04463d5,LastNightmare6,Tyrion: I think she always felt bad that she was working all the time.,
 line:0b8598e,LastNightmare6,"Tyrion: On her days off,[p/] she'd always take me out with her.",
 line:091ef44,LastNightmare6,Tyrion: We'd eat at restaurants.[p/] We'd play chess by the docks.[p/] She's the one who taught me how to play.,
@@ -3978,16 +3978,16 @@ line:0671b15,LastNightmare7b,Celeste: I'll just rest my eyes a bit...,
 line:06c2791,LastNightmare7b,"For the first time since I arrived in Aurinax,[p/] I'd finally received a good night's rest.",
 line:01ca56d,LastNightmare7b,I woke up the next morning feeling well-rested—[p/]almost too much in a way.,
 line:0f8e74e,LastNightmare7b,The pillows and blankets felt like warm clouds embracing me.[p/] I didn't want to leave.,
-line:01d50a5,LastNightmare7b,Tyrion: ...,
+line:01d50a5,LastNightmare7b,Tyrion: ...,Tyrion: ……
 line:005a575,LastNightmare7b,Tyrion: Celeste?[p/] Are you there?,
 line:0c78eb5,LastNightmare7b,My hand felt warm.,
-line:0cab69c,LastNightmare7b,Tyrion: ...,
+line:0cab69c,LastNightmare7b,Tyrion: ...,Tyrion: ……
 line:0802c46,LastNightmare7b,I could feel my heart stop.,
 line:0ce5ec6,LastNightmare8,Tyrion: ...C-[p/]Celeste?,
 line:000647e,LastNightmare8,Celeste: Ugggggggh...[p/] What do you want?,
 line:0ae5e5b,LastNightmare8,Her eyes slowly opened.,
 line:08a3373,LastNightmare8,"Through half-lidded eyes,[p/] she scanned her surroundings.",
-line:0de3871,LastNightmare8,Celeste: ...,
+line:0de3871,LastNightmare8,Celeste: ...,Celeste: ……
 line:0d63f81,LastNightmare8,Celeste: ...!,
 line:0b8610a,LastNightmare8,We both immediately jumped out of bed.,
 line:00df245,LastNightmare8,Celeste: U-[p/][s/]Um...[p/][s/] So—,
@@ -3995,8 +3995,8 @@ line:07f41f7,LastNightmare8,"Celeste: Y-[p/][s/]You're okay now, right?",
 line:095ae8f,LastNightmare8,Celeste: ...You seem to be doing better.,
 line:04d149d,LastNightmare8,Tyrion: Y-Yeah...[p/][s/] Thank you for last night.,
 line:075c4e5,LastNightmare8,The words stumbled out of my mouth before I realized how poorly I'd phrased that.,
-line:0d94f6e,LastNightmare8,Tyrion: ...,
-line:070b311,LastNightmare8,Celeste: ...,
+line:0d94f6e,LastNightmare8,Tyrion: ...,Tyrion: ……
+line:070b311,LastNightmare8,Celeste: ...,Celeste: ……
 line:0ed207e,LastNightmare8,I just cleared my throat.,
 line:07aeee9,LastNightmare8,Tyrion: W-[p/][s/]We should get ready for the trial.,
 line:0bf57f6,LastNightmare8,Celeste: Yep![p/][s/] The trial![p/][s/] Let's go do that!,
@@ -4059,7 +4059,7 @@ line:0800ede,Manor1_Talk,Tyrion: Systems that protect the aristocracy and grind 
 line:03c031d,Manor1_Talk,Coraline: There must be stability...[p/] Even if it causes discomfort.,
 line:0ce9f96,Manor1_Talk,"Coraline: The chaos of the universe may seem cruel,[p/] but it's fair.",
 line:0eee7fe,Manor1_Talk,Coraline: The system wouldn't be this way if it didn't work.,
-line:0f32c2f,Manor1_Talk,Tyrion: ...,
+line:0f32c2f,Manor1_Talk,Tyrion: ...,Tyrion: ……
 line:04ed5d1,Manor1_Talk,Player: The False Reports,
 line:0bbc372,Manor1_Talk,"Tyrion: Since you two care about the ""system"" so much,[p/] you should know that someone's abusing it.",
 line:089282d,Manor1_Talk,Lloyd: ...Is that so?,
@@ -4175,7 +4175,7 @@ line:097a8f6,Manor1_Present,Coraline: ...That's a grave accusation.[p/] Do you h
 line:05debd1,Manor1_Present,"Tyrion: I-[p/][s/]I don't,[p/][s/] but—!",
 line:0d6e9ed,Manor1_Present,Coraline: Wouldn't it be simpler to say that those representatives are voting in disagreement with you?,
 line:0bedb38,Manor1_Present,Coraline: You do not speak for the commoners.[p/] The only voice I trust is that of the House of Lords.,
-line:009d5b7,Manor1_Present,Tyrion: ...,
+line:009d5b7,Manor1_Present,Tyrion: ...,Tyrion: ……
 line:0142a0d,Manor1_Present,Player: Autopsy|Justin,
 line:0cf064e,Manor1_Present,Tyrion: Did you know the victim in the accident?,
 line:06b0a54,Manor1_Present,Lloyd: ...No.[p/] Why would I?[p/] He was just a factory worker.,
@@ -4250,11 +4250,11 @@ line:060dc4a,Manor1_Check,Tyrion: O-[p/][s/]Oh...[p/] I'm sorry.[p/] I was just�
 line:0b56a0f,Manor1_Check,Celeste: You're usually way more level-headed than that.,
 line:07cef4f,Manor1_Check,Celeste: ...You've been acting differently since we got here.,
 line:0a6fe4e,Manor1_Check,Celeste: Tyrion...[p/] Did something happen here?,
-line:02388d3,Manor1_Check,Tyrion: ...,
+line:02388d3,Manor1_Check,Tyrion: ...,Tyrion: ……
 line:0715ee3,Manor1_Check,Tyrion: I'm sorry for barking orders at you like that.[p/] I just—,
 line:007a3e2,Manor1_Check,"Tyrion: I grew up here,[p/] and I really don't like what's happening.",
 line:0c3a94e,Manor1_Check,"Tyrion: Things are so much better now,[p/] and I don't want whatever's happening to ruin that for everyone.",
-line:00e1111,Manor1_Check,Celeste: ...,
+line:00e1111,Manor1_Check,Celeste: ...,Celeste: ……
 line:0f10313,Manor1_Check,"Celeste: Okay, I get it.[p/] Just don't do that again, okay?",
 line:06b4f71,Manor1_Check,Celeste: And if you ever need to talk to someone—,
 line:0c94f12,Manor1_Check,Tyrion: Let's just focus on the investigation for now.,
@@ -4263,7 +4263,7 @@ line:04b85d2,Manor1_Check,"As we entered the nearby room,[p/] we came upon Lloyd
 line:03ee923,Manor1_Check,Lloyd: [i]*sigh*[/i][p/] I just knew you meeting the Crown Prince was a disaster waiting to happen.,
 line:01d49e6,Manor1_Check,Tyrion: ...What?,Tyrion: ……怎么会？
 line:0afdc89,Manor1_Check,"Lloyd: I heard about what happened.[p/] Crown Prince Aster let you in, didn't he?",
-line:08dbef0,Manor1_Check,Tyrion: ...,
+line:08dbef0,Manor1_Check,Tyrion: ...,Tyrion: ……
 line:010b59b,Manor1_Check,Tyrion: That man was the Crown Prince?!,
 line:0ebb1af,Manor1_Check,I [i]knew[/i] I'd recognized that name somewhere.[p/] This is what I got for not reading the paper more regularly.,
 line:08725d7,Manor1_Check,Tyrion: Ugh...[p/] Okay.[p/] One thing at a time.,
@@ -4278,7 +4278,7 @@ line:00a644b,Manor1_Check,"Lloyd: I'll answer your questions,[p/] if only to sho
 line:0e00e35,Manor1_Check,Lloyd: Maybe you can convince your client to accept the futility of his situation.,
 line:0a94b63,Manor1_Check,"Tyrion: Thank you, Ms.—[p/] Um...",
 line:05a0d83,Manor1_Check,"Coraline: I am Coraline Sibyl:[p/] head of House Sibyl,[p/] and Wyverngarde's Duchess of Law.",
-line:0ddae37,Manor1_Check,Tyrion: ...,
+line:0ddae37,Manor1_Check,Tyrion: ...,Tyrion: ……
 line:092d3ac,Manor1_Check,"Celeste: Oh, boy.",
 line:07efc20,Manor1_Check,Lloyd: Grand General Steelwind is involved in this somehow.[p/] I'm sure of it.,
 line:077f93b,Manor1_Check,Coraline: ...,
@@ -4378,7 +4378,7 @@ line:08ba7e5,RikaArgue7,Tyrion: Please don't make my job harder than it is to me
 line:0473703,RikaArgue7,Mosourika: How do I know you're not lying to me?!,
 line:0b97383,RikaArgue7,Mosourika: You've changed a lot...[p/] So have I.,
 line:03cffe4,RikaArgue7,Mosourika: I barely even know you.[p/] I can't trust you with this.,
-line:0d6fefe,RikaArgue7,Tyrion: ...,
+line:0d6fefe,RikaArgue7,Tyrion: ...,Tyrion: ……
 line:0f39f4e,RikaArgue8,Tyrion: I'm sorry.[p/] There's nothing I can say to make up for that.,
 line:00b7915,RikaArgue8,"Tyrion: I know I've changed a lot,[p/] but believe me when I say that I want to save you and this city.",
 line:078489f,RikaArgue8,Mosourika: ...,
@@ -4488,7 +4488,7 @@ line:0bbba0e,TyrHouse_Present,Player: Wyatt,
 line:006e91d,TyrHouse_Present,Tyrion: ...What do you and Gavin [i]do[/i] here exactly?,
 line:0c581d1,TyrHouse_Present,"Wyatt: We just hang around here, you know?",
 line:0fd6761,TyrHouse_Present,"Wyatt: It's nice and quiet,[p/] and I don't think anyone else knows about this place.",
-line:0e90225,TyrHouse_Present,Tyrion: ...,
+line:0e90225,TyrHouse_Present,Tyrion: ...,Tyrion: ……
 line:0d2bc12,TyrHouse_Present,I had to temper myself.[p/] [i]I[/i] was the one who left this house behind.,
 line:0271650,TyrHouse_Present,"For all they knew,[p/] the residents had abandoned it.",
 line:0b960f6,TyrHouse_Present,Player: Autopsy|Justin|Phantom,
@@ -4535,7 +4535,7 @@ line:09e27e1,TyrHouse_Check,Celeste: U-[p/]Um...[p/] Okay.[p/] Let's [i]all[/i] 
 line:0fef7dc,TyrHouse_Check,"Gavin: Stay out of this, you little shit!",
 line:033a038,TyrHouse_Check,...That comment sobered my rage immediately.,
 line:02ddf6d,TyrHouse_Check,I just stepped away from the inevitable bloodbath.,
-line:047a5ab,TyrHouse_Check,Celeste: ...,
+line:047a5ab,TyrHouse_Check,Celeste: ...,Celeste: ……
 line:06fd855,TyrHouse_Check,Celeste: ...Excuse me?,
 line:0c3939e,TyrHouse_Check,Gavin: What?![p/][s/] You got cotton in your ears or something?!,
 line:0832f2c,TyrHouse_Check,"Celeste: Yes, actually.",
@@ -4594,7 +4594,7 @@ line:0af92b6,WyattFinished,"Wyatt: Alright, fine![p/][s/] I saw the magic cat, o
 line:0832729,WyattFinished2,"Tyrion: ...What ""magic cat""?!",
 line:02fe83a,WyattFinished2,"Wyatt: I saw it walk into the house last week![p/][s/] It looked [i]gross[/i],[p/] so I peeked in to see what it was doing!",
 line:064f124,WyattFinished2,"Wyatt: And I saw it![p/][s/] I saw that cat put something in that box using magic! [h=""That stuff was crazy!|I still don't believe it!"" e=""f""/]",
-line:0581e1c,WyattFinished2,Tyrion: ...,
+line:0581e1c,WyattFinished2,Tyrion: ...,Tyrion: ……
 line:00623c9,WyattFinished2,And [i]there[/i] was the migraine.,
 line:09de481,WyattFinished2,Tyrion: Okay...[p/] And what did this cat look like?,
 line:0fdec88,WyattFinished2,Wyatt: It didn't have any hair.[p/] It kind of looked like a piece of raw meat.,
@@ -4623,7 +4623,7 @@ line:0b3d0d7,WyattFinished4,"The lock was broken,[p/] but the metal was so bent 
 line:04d136c,WyattFinished4,I spotted something lodged in one of the metal crevices of the chest.,
 line:0fb8a55,WyattFinished4,"Tyrion: ...Celeste,[p/] please scan the room for magical traces.[p/] Focus on the metal box.",
 line:0b79e3e,WyattFinished4,Celeste: ...Okay.,
-line:01b8c3d,WyattFinished4,Celeste: ...,
+line:01b8c3d,WyattFinished4,Celeste: ...,Celeste: ……
 line:0972bf3,WyattFinished4,"Celeste: Oh, wow!",
 line:0747447,WyattFinished4,Celeste: There's traces of [b]conjuration[b/] all over this metal chest.,
 line:020b69c,WyattFinished4,Tyrion: Cool.[p/] Cool.,
@@ -4647,7 +4647,7 @@ line:078b693,WyattFinished5,Celeste: There you go.[p/] Just breathe in that ocea
 line:04669fe,WyattFinished5,I just muttered something incoherent in response.,
 line:008eb61,WyattFinished5,...But I admitted that the air was nice here.[p/] It brought me back to happier memories.,
 line:0b09e2f,WyattFinished6,I closed my eyes and took in a deep breath.,
-line:0d77172,WyattFinished6,Celeste: ...,
+line:0d77172,WyattFinished6,Celeste: ...,Celeste: ……
 line:07802d9,WyattFinished6,Celeste: Oh my god...,
 line:0ca2c24,WyattFinished6,...,
 line:0b0c701,WyattFinished6,It was probably nothing.,
@@ -4663,7 +4663,7 @@ line:0be4112,WyattFinished7,"Cat: [i]MROW[/i]! [h=""Back, you brute!|Away with y
 line:0bc30e9,WyattFinished7,"Celeste: Oh my goodness,[p/] look at this tiny little angel!",
 line:02f6a11,WyattFinished7,"Cat: [i]Mrow[/i]? [h=""This one recognizes|royalty when she sees it."" /]",
 line:0bac480,WyattFinished7,"Cat: [i]Meow[/i]... [h=""I'll allow it|this time..."" e=""h""/]",
-line:052204d,WyattFinished7,Tyrion: ...,
+line:052204d,WyattFinished7,Tyrion: ...,Tyrion: ……
 line:0742f6d,WyattFinished7,"Tyrion: ...Hey, Celeste.[p/] She looks like a stray.",
 line:0db75b4,WyattFinished7,Tyrion: She might let you pet her if you give her some food.,
 line:047ce74,WyattFinished7,"Cat: [i]Mrow[/i]... [h=""I am not a [i]stray[/i].|I am merely independent.""/]",
@@ -4675,7 +4675,7 @@ line:0ce127e,WyattFinished7,"Celeste: I'll be right back![p/][s/] Don't scare he
 line:06bdc53,WyattFinished7,Tyrion: ...Of course.,
 line:0b16601,WyattFinished7,I slowly watched her as she skipped towards the fish market.,
 line:07edf9b,WyattFinished7,I waited long enough to make sure that she was out of earshot.,
-line:02e9af4,WyattFinished7,Tyrion: ...,
+line:02e9af4,WyattFinished7,Tyrion: ...,Tyrion: ……
 line:0c48277,WyattFinished7,"Tyrion: [j]Alright, you little bastard![/j][p/][s/] [j]What did you do to Justin Waye?![/j]",
 line:03ee7aa,WyattFinished7,"Cat: [i]MROW[/i]! [h=""What's this then?!"" e=""a""/]",
 line:0d5223e,WyattFinished7,Cat: ...That voice.[p/] I've only met one other person who could talk with me like this.,
@@ -4690,7 +4690,7 @@ line:0cd807b,WyattFinished8,That question definitely drew some looks from the pe
 line:08016f7,WyattFinished8,"Cat: I have been known by many names,[p/] but [i]you[/i] may call me ""Queen"", peasant.",
 line:02f5fe2,WyattFinished8,"Cat: As for ""your house"",[p/] you'll need to be more specific.",
 line:0cb5b86,WyattFinished8,Cat: I break into a lot of people's houses.,
-line:0605b35,WyattFinished8,Tyrion: ...,
+line:0605b35,WyattFinished8,Tyrion: ...,Tyrion: ……
 line:05209db,WyattFinished8,"I was tired and frustrated,[p/] but this had to be a blessing in disguise.",
 line:0401aac,WyattFinished8,The Eye of Horus only saw truthful thoughts.[p/] Animals couldn't lie to me.,
 line:0c46fb1,WyattFinished8,"And despite how articulate they could sound,[p/] they were still simple in comparison to humans.",
@@ -4730,7 +4730,7 @@ line:08df7d2,Square1_Talk,Player: Next Lead,
 line:0a76ca2,Square1_Talk,Celeste: Where should we go next?,
 line:00f19bc,Square1_Talk,Tyrion: Rika's friend died in the refinery.,
 line:0795871,Square1_Talk,Tyrion: We should head there first and talk to whoever investigated the accident.,
-line:0cae6fc,Square1_Talk,Tyrion: ...,
+line:0cae6fc,Square1_Talk,Tyrion: ...,Tyrion: ……
 line:0df9ae5,Square1_Talk,Celeste: Tyrion...?,
 line:03a6084,Square1_Talk,Tyrion: S-[p/][s/]Sorry...,
 line:06a2df4,Square1_Talk,"Tyrion: Steelwind said there were tensions between Dracogen and the workers' unions,[p/] and the union head is supposedly the old harbormaster.",
@@ -4801,7 +4801,7 @@ line:039aacf,Square1_Present,Celeste: Um...,
 line:0b9c7e5,Square1_Present,"Celeste: ""Energy"".",
 line:0bfac9a,Square1_Present,"Tyrion: ...""Energy""?",
 line:0ff34c6,Square1_Present,"Celeste: ...Okay,[p/] what starts with a ""t""?",
-line:06ca462,Square1_Present,Celeste: ...,
+line:06ca462,Square1_Present,Celeste: ...,Celeste: ……
 line:09b603d,Square1_Present,Celeste: Tyrion!,
 line:0b72048,Square1_Present,Tyrion: Hi.,
 line:0013c5e,Square1_Present,"Celeste: ""Energy""...[p/] ""Tyrion""...[p/] ""Tyrion""...",
@@ -4871,20 +4871,20 @@ line:058ce55,Square1_Present,Player: Back,
 line:0bdd8f7,Square1_Present,Player: Default,
 line:0857dc3,Square1_Present,"Tyrion: What do you think about [i]this[/i], Celeste?",
 line:0e2848e,Square1_Present,"Celeste: Sorry, Tyrion.[p/] I don't think I can help you with that.",
-line:0985ee2,Square2_Examine,Celeste: ...,
+line:0985ee2,Square2_Examine,Celeste: ...,Celeste: ……
 line:06f538b,Square2_Examine,She didn't seem keen on talking at the moment.,
 line:023fda4,Square2_Talk,Player: The Investigation,
-line:07f958e,Square2_Talk,Celeste: ...,
+line:07f958e,Square2_Talk,Celeste: ...,Celeste: ……
 line:0ed0582,Square2_Talk,She didn't seem keen on talking at the moment.,
 line:0585eab,Square2_Talk,Celeste: ...You don't have to push yourself so hard.,
 line:08324f7,Square2_Talk,"Tyrion: ...I need to.[p/] I can't afford to fall apart,[p/] especially not now.",
 line:096319f,Square2_Talk,"Celeste: ...Okay,[p/] but there's no shame in taking a break.",
 line:0d42b4f,Square2_Talk,Player: Next Lead,
-line:06962dd,Square2_Talk,Celeste: ...,
+line:06962dd,Square2_Talk,Celeste: ...,Celeste: ……
 line:00361ae,Square2_Talk,She didn't seem keen on talking at the moment.,
 line:00500e1,Square2_Talk,Celeste: Where should we go next?,
 line:0e2b443,Square2_Talk,Tyrion: We should head to that house and see if we can find Justin's friends.,
-line:001e409,Square2_Talk,Tyrion: ...,
+line:001e409,Square2_Talk,Tyrion: ...,Tyrion: ……
 line:0044163,Square2_Talk,Celeste: ...You okay?,
 line:03bbf62,Square2_Talk,Tyrion: Yeah...[p/] Let's go.,
 line:071762c,Square2_Talk,Celeste: ...You look tired.[p/],
@@ -4893,5 +4893,5 @@ line:084c5a1,Square2_Talk,"I questioned her motives,[p/] but she wasn't wrong.",
 line:099d640,Square2_Talk,Player: BACK,
 line:0e818e7,Square2_Present,Player: Back,
 line:0d1e605,Square2_Present,Player: Default,
-line:0c38240,Square2_Present,Celeste: ...,
+line:0c38240,Square2_Present,Celeste: ...,Celeste: ……
 line:093947b,Square2_Present,She didn't seem keen on talking at the moment.,

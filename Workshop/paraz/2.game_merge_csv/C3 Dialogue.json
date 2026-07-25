@@ -710,79 +710,79 @@
   {
     "key": "C3 Dialogue.csv::translation::f8c155f2e8745f97",
     "original": "Tyrion: If they infiltrated your ship,[p/] they were taking a gigantic risk.[p/] They wouldn't have done that without a good reason.",
-    "translation": "",
+    "translation": "Tyrion: 他们潜入你的船，[p/]可以说是冒着巨大的风险。[p/]没有充分理由的话他们不会这么做的。",
     "context": "{\n  \"id\": \"line:010a375\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Tyrion: If they infiltrated your ship,[p/] they were taking a gigantic risk.[p/] They wouldn't have done that without a good reason.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9429de0a722afedf",
     "original": "Aster: ...",
-    "translation": "",
+    "translation": "Aster: ……",
     "context": "{\n  \"id\": \"line:0e18282\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Aster: ...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8a0d642b81c780a4",
     "original": "Aster: They stole several high-capacity arcane crystals attuned to the school of [b]evocation[/b].",
-    "translation": "",
+    "translation": "Aster: 他们偷走的是一些已充满[b]塑能术[b]魔力的高容量奥术水晶。",
     "context": "{\n  \"id\": \"line:068bbf3\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Aster: They stole several high-capacity arcane crystals attuned to the school of [b]evocation[/b].\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b5e640157fc62afb",
     "original": "Tyrion: Arcane crystals are pretty common, aren't they?[p/][s/] They're what draw and provide power to artificery devices.",
-    "translation": "",
+    "translation": "Tyrion: 但奥术水晶不是很常见的吗？[p/][s/]毕竟奥术能源装置都要靠它们供给魔力。",
     "context": "{\n  \"id\": \"line:0aeabdf\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Tyrion: Arcane crystals are pretty common, aren't they?[p/][s/] They're what draw and provide power to artificery devices.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fbd76b9100e076ca",
     "original": "Aster: The problem is that they're attuned to [b]evocation[/b]:[p/] the most raw and destructive school of magic.",
-    "translation": "",
+    "translation": "Aster: 问题是这一批已经充满了[b]塑能术[/b]的魔力，[p/]而那正是法术学派中最为粗暴、破坏力最大的一种。",
     "context": "{\n  \"id\": \"line:04c3834\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Aster: The problem is that they're attuned to [b]evocation[/b]:[p/] the most raw and destructive school of magic.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::af605a9d47261fca",
     "original": "Aster: Artificery that uses [b]evocation[/b] is heavily supervised by the kingdom,[p/] and most devices that use them are extremely weak.",
-    "translation": "",
+    "translation": "Aster: 在王国，使用[b]塑能术[/b]的奥术装置受到重度管控，[p/]而使用这类法术的装置也都相当脆弱。",
     "context": "{\n  \"id\": \"line:03e8b34\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Aster: Artificery that uses [b]evocation[/b] is heavily supervised by the kingdom,[p/] and most devices that use them are extremely weak.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::29923bf5a233ae14",
     "original": "Aster: Those crystals were a shipment addressed to Von Sanctus Industries.[p/] They were meant to be received at port and used to construct weapons for use by the military.",
-    "translation": "",
+    "translation": "Aster: 这些水晶是预定发往冯·桑克图斯实业的货物。[p/]它们原定在港口被接收，用于组装军队配备的武器。",
     "context": "{\n  \"id\": \"line:043e3b6\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Aster: Those crystals were a shipment addressed to Von Sanctus Industries.[p/] They were meant to be received at port and used to construct weapons for use by the military.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::55e80e3d38387739",
     "original": "Tyrion: Are these crystals really that valuable?",
-    "translation": "",
+    "translation": "Tyrion: 那批水晶这么重要吗？",
     "context": "{\n  \"id\": \"line:011e7bc\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Tyrion: Are these crystals really that valuable?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::efb006768ffe3cf2",
     "original": "Aster: They have a large capacity to channel [b]evocation[/b] magic.[p/] They're extremely potent at unleashing energy,",
-    "translation": "",
+    "translation": "Aster: 它们已经储存了巨量的[b]塑能术[/b]魔力，[p/]而且可以非常高效地释放。",
     "context": "{\n  \"id\": \"line:00943cf\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Aster: They have a large capacity to channel [b]evocation[/b] magic.[p/] They're extremely potent at unleashing energy,\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e8f693f33c3389b7",
     "original": "Aster: In the wrong hands,[p/] they could produce an explosion with the power to level an entire block of this city.",
-    "translation": "",
+    "translation": "Aster: 一旦操作不当，[p/]它们就能造成一次足以将一整个城区夷为平地的爆炸。",
     "context": "{\n  \"id\": \"line:0727049\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Aster: In the wrong hands,[p/] they could produce an explosion with the power to level an entire block of this city.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c0041d9b257eefdf",
     "original": "Tyrion: ...And there have been mass reports of insurrection here, too.",
-    "translation": "",
+    "translation": "Tyrion: ……而且这里也出现了大量叛乱活动的报告。",
     "context": "{\n  \"id\": \"line:0ac778c\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Tyrion: ...And there have been mass reports of insurrection here, too.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2400b423181b8be0",
     "original": "Whether those reports were true or not,[p/] my teeth clenched at the thought of what someone might do with those crystals.",
-    "translation": "",
+    "translation": "无论那些报告是真是假，[p/] 一想到有人可能会用那些水晶做些什么，我便不自觉地牙关紧咬。",
     "context": "{\n  \"id\": \"line:0f60ee7\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"Whether those reports were true or not,[p/] my teeth clenched at the thought of what someone might do with those crystals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d80b31b8d7cd61ad",
     "original": "It was even worse to think about what the Grand General might do to stop that from happening.",
-    "translation": "",
+    "translation": "而一想到大将军可能会采取什么措施来阻止这种情况发生，就更让人感到不安。",
     "context": "{\n  \"id\": \"line:09fb8f3\",\n  \"node\": \"AsterConvStoleItem\",\n  \"text\": \"It was even worse to think about what the Grand General might do to stop that from happening.\"\n}"
   },
   {
@@ -794,49 +794,49 @@
   {
     "key": "C3 Dialogue.csv::translation::d259e0fd6498d4a8",
     "original": "Aster: That's—!",
-    "translation": "",
+    "translation": "Aster: 那就是——！",
     "context": "{\n  \"id\": \"line:0d4b4e4\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: That's—!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::dd9eacc44cbecb6c",
     "original": "Tyrion: It’s an Attorney’s Runestone.[p/] It's—",
-    "translation": "",
+    "translation": "Tyrion: 这是个律师符石。[p/]它——",
     "context": "{\n  \"id\": \"line:0dc3f99\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: It’s an Attorney’s Runestone.[p/] It's—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e843848405623b63",
     "original": "Aster: It's proof that you're a certified attorney!",
-    "translation": "",
+    "translation": "Aster: 它证明你是一位持证律师！",
     "context": "{\n  \"id\": \"line:04edcc7\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: It's proof that you're a certified attorney!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5440926756b4373d",
     "original": "Aster: I've never seen one of these up close before!",
-    "translation": "",
+    "translation": "Aster: 我还从没这么近地看过这个东西！",
     "context": "{\n  \"id\": \"line:08c5bb9\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I've never seen one of these up close before!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e8b9fd116626264e",
     "original": "Celeste: Really?[p/] I thought the Crown Prince would be the first person to have a Runestone like this.",
-    "translation": "",
+    "translation": "Celeste: 真的？[p/]我还以为王储殿下应该是最优先拥有这种符石的呢。",
     "context": "{\n  \"id\": \"line:04b13b4\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Celeste: Really?[p/] I thought the Crown Prince would be the first person to have a Runestone like this.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7943112371af7d8a",
     "original": "Aster: I have a Runestone,[p/][s/] but it's not an [i]Attorney's[/i] Runestone!",
-    "translation": "",
+    "translation": "Aster: 我确实拥有符石，[p/][s/]但那可不是[i]律师专属[/i]的符石！",
     "context": "{\n  \"id\": \"line:0d4f1e1\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I have a Runestone,[p/][s/] but it's not an [i]Attorney's[/i] Runestone!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d8335176b2190816",
     "original": "Tyrion: Finally![p/][s/] Someone that understands the difference!",
-    "translation": "",
+    "translation": "Tyrion: 终于啊！[p/][s/]终于有人明白其间的差异了！",
     "context": "{\n  \"id\": \"line:0973855\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: Finally![p/][s/] Someone that understands the difference!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::23dc21bd8b9a0dbd",
     "original": "Celeste: ...",
-    "translation": "",
+    "translation": "Celeste: ……",
     "context": "{\n  \"id\": \"line:06cb584\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Celeste: ...\"\n}"
   },
   {
@@ -848,67 +848,67 @@
   {
     "key": "C3 Dialogue.csv::translation::1bb6c1028d19ac6b",
     "original": "Aster: I can't believe I'm meeting Tyrion Cuthbert!",
-    "translation": "",
+    "translation": "Aster: 难以置信，我竟然与那位提利昂·卡斯伯特会面了！",
     "context": "{\n  \"id\": \"line:0dc5fc6\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I can't believe I'm meeting Tyrion Cuthbert!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cac3a06ed55f60f6",
     "original": "Tyrion: I appreciate the admiration,[p/] but I don't see what's so special about me.",
-    "translation": "",
+    "translation": "Tyrion: 我感激你的喜爱，[p/]但我不知道自己有什么特别的。",
     "context": "{\n  \"id\": \"line:0f1e3e3\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: I appreciate the admiration,[p/] but I don't see what's so special about me.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::aed5012923854604",
     "original": "Aster: Well, I've been an admirer of Ruby Tymora for a while,[p/] but your story is far more inspiring!",
-    "translation": "",
+    "translation": "Aster: 这个嘛，我有段时间曾是鲁比·泰摩拉的粉丝，[p/]但你的故事可是更加的振奋人心！",
     "context": "{\n  \"id\": \"line:0243aef\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: Well, I've been an admirer of Ruby Tymora for a while,[p/] but your story is far more inspiring!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::324c76e7384348dc",
     "original": "Aster: ...You rose above the tragedy that befell your mother,[p/] and became a force against the nobility.",
-    "translation": "",
+    "translation": "Aster: ……你从母亲遭遇的不幸悲剧中振作起来，[p/]成长为反对贵族的力量。",
     "context": "{\n  \"id\": \"line:09079c1\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: ...You rose above the tragedy that befell your mother,[p/] and became a force against the nobility.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fdbdbf2555246fb5",
     "original": "Tyrion: ...How do you know about that?",
-    "translation": "",
+    "translation": "Tyrion: ……你怎么知道这个的？",
     "context": "{\n  \"id\": \"line:02fbe77\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: ...How do you know about that?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::74a616f6e103f743",
     "original": "Aster: I read about your story in the paper—[p/]a grieving child,[p/] who walked into the woods in despair.",
-    "translation": "",
+    "translation": "Aster: 我在报纸上读到了你的故事——[p/]一个身怀悲痛的孩子，[p/]走入森林然后就此消失。",
     "context": "{\n  \"id\": \"line:0248a61\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I read about your story in the paper—[p/]a grieving child,[p/] who walked into the woods in despair.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::950962c9e9868572",
     "original": "Aster: That story made quite an impression on me.",
-    "translation": "",
+    "translation": "Aster: 那个故事给我造成了很深的印象。",
     "context": "{\n  \"id\": \"line:038b3f5\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: That story made quite an impression on me.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::23e9581b98d4e467",
     "original": "Aster: When I saw the story of Ms. McCoy's trial,[p/] I recognized you immediately.",
-    "translation": "",
+    "translation": "Aster: 而当我读到麦考伊女士的庭审报道时，[p/]我马上就认出了你。",
     "context": "{\n  \"id\": \"line:0e0c980\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: When I saw the story of Ms. McCoy's trial,[p/] I recognized you immediately.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d465de1c951183e8",
     "original": "Aster: I'm so glad that you survived.",
-    "translation": "",
+    "translation": "Aster: 你能存活下来，我太高兴了。",
     "context": "{\n  \"id\": \"line:01b41f9\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I'm so glad that you survived.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b985b614a70e2b9e",
     "original": "Tyrion: ...",
-    "translation": "",
+    "translation": "Tyrion: ……",
     "context": "{\n  \"id\": \"line:02c586a\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: ...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fc2a727b10adda2a",
     "original": "Celeste: ...?",
-    "translation": "",
+    "translation": "Celeste: ……？",
     "context": "{\n  \"id\": \"line:04c2d11\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Celeste: ...?\"\n}"
   },
   {
