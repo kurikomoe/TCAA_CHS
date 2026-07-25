@@ -352,71 +352,71 @@
   {
     "key": "C3 Dialogue.csv::translation::e3040555add84758",
     "original": "Tyrion: Did you see anyone else up on the catwalk?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 您当时看到步道上还有其他人吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b49491\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: Did you see anyone else up on the catwalk?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d0b1b46279b09a9f",
     "original": "Aster: No,[p/] my view of the catwalk was limited by my position.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 看不到。[p/]从我的位置只能看到步道的一部分。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eb53bb\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: No,[p/] my view of the catwalk was limited by my position.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6ac35fdb5f9d4153",
     "original": "Ugh...[p/] This whole time,[p/] I thought Justin had been yelling at the Phantom,[p/] but it turned out he was just yelling at a rat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "唉……[p/]我一直以为，[p/]贾斯汀是在向那个“魅影”吼叫。[p/]但结果只是一只老鼠。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03542e5\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Ugh...[p/] This whole time,[p/] I thought Justin had been yelling at the Phantom,[p/] but it turned out he was just yelling at a rat.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1f3f83b9591b9751",
     "original": "It seemed that the only person who spotted the thief that day was Justin.",
-    "translation": "",
-    "stage": 0,
+    "translation": "看起来当天唯一目击到窃贼的人就只有贾斯汀了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03b4547\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"It seemed that the only person who spotted the thief that day was Justin.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::16a38c9344694129",
     "original": "Player: The Accident",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 事故",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b59773\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Player: The Accident\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f33fdd01cc1c3edf",
     "original": "Tyrion: Did you see the moment that Justin fell in?[p/] Was he pushed off the catwalk by a spell?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 您当时有看到贾斯汀掉下去的瞬间吗？[p/]他是被某个法术推下步道的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d5852e\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Tyrion: Did you see the moment that Justin fell in?[p/] Was he pushed off the catwalk by a spell?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::dea37097d2bd612c",
     "original": "Aster: I'm not quite sure,[p/] but I definitely saw something magical.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 我并不确定，[p/]但我肯定看到了某种法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09d1a40\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: I'm not quite sure,[p/] but I definitely saw something magical.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b558d28b1928ca1a",
     "original": "Aster: There was a flash of magical light centered on his position.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 正在他所在的位置发出了一道魔力的闪光。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0805939\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: There was a flash of magical light centered on his position.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7db7cb2f6d4b7f46",
     "original": "Aster: The magical energy took the shape of a prism before blowing apart the guardrail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 那魔力在吹飞护栏前呈现棱镜一样的形状。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:097242c\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: The magical energy took the shape of a prism before blowing apart the guardrail.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e1682d7f571f3699",
     "original": "Aster: Justin lost his balance afterward and fell into the vat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 贾斯汀失去了平衡，然后掉进了容器。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0778670\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: Justin lost his balance afterward and fell into the vat.\"\n}"
   },
   {
