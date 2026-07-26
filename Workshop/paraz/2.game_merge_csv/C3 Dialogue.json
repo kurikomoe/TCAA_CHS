@@ -920,43 +920,43 @@
   {
     "key": "C3 Dialogue.csv::translation::fa296d7960d100eb",
     "original": "Aster: I never imagined that I'd meet the Crimson Demon of the Eastern Kingdoms.",
-    "translation": "",
+    "translation": "Aster: 我从未想象过自己会遇见东方古国的那位“绯红恶魔”啊。",
     "context": "{\n  \"id\": \"line:05d054c\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I never imagined that I'd meet the Crimson Demon of the Eastern Kingdoms.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bd8a3f809403e6ac",
     "original": "Celeste: Okay,[p/] how the hell did you find out about that nickname?",
-    "translation": "",
+    "translation": "Celeste: 好啦，[p/]你到底怎么知道那个该死的绰号的？",
     "context": "{\n  \"id\": \"line:042da5f\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Celeste: Okay,[p/] how the hell did you find out about that nickname?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::49d87b333c1650d9",
     "original": "Aster: O-[p/][s/]Oh,[p/] uh—",
-    "translation": "",
+    "translation": "Aster: 呃、[p/][s/]哦，[p/]这个——",
     "context": "{\n  \"id\": \"line:0e49f52\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: O-[p/][s/]Oh,[p/] uh—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bcc70befb5504157",
     "original": "Aster: My position as the Crown Prince makes me privy to stories like that.",
-    "translation": "",
+    "translation": "Aster: 作为王储，我是有权知晓这类情报的。",
     "context": "{\n  \"id\": \"line:03ba154\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: My position as the Crown Prince makes me privy to stories like that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::28000921f1dffedb",
     "original": "Tyrion: ...What is the \"Crimson Demon\", anyways?",
-    "translation": "",
+    "translation": "Tyrion: 说到底，“绯红恶魔”到底是个什么东西？",
     "context": "{\n  \"id\": \"line:0a05ad1\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: ...What is the \\\"Crimson Demon\\\", anyways?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ebade9619b44cce5",
     "original": "Celeste: ...I don't want to talk about it.",
-    "translation": "",
+    "translation": "Celeste: ……我才不想谈论这个。",
     "context": "{\n  \"id\": \"line:0012b3a\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Celeste: ...I don't want to talk about it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3eac83c52a881f67",
     "original": "I decided to drop the subject.",
-    "translation": "",
+    "translation": "我决定中止这个话题。",
     "context": "{\n  \"id\": \"line:0ba5f3b\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"I decided to drop the subject.\"\n}"
   },
   {
@@ -968,7 +968,7 @@
   {
     "key": "C3 Dialogue.csv::translation::bd49b5a2544bf0e6",
     "original": "Aster: Ah,[p/] Lady Steelwind.[p/] I'm glad to see my fiancée is growing into her role.",
-    "translation": "",
+    "translation": "Aster: 啊，[p/]斯蒂尔文德女士。[p/]看到自己的未婚妻正逐渐适应她的事业，我很欣慰。",
     "context": "{\n  \"id\": \"line:0c25879\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: Ah,[p/] Lady Steelwind.[p/] I'm glad to see my fiancée is growing into her role.\"\n}"
   },
   {
@@ -980,31 +980,31 @@
   {
     "key": "C3 Dialogue.csv::translation::60450f96227de9f0",
     "original": "Aster: Is Ruby Tymora here as well?",
-    "translation": "",
+    "translation": "Aster: 鲁比·泰摩拉是不是也在这里呢？",
     "context": "{\n  \"id\": \"line:08c5c2c\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: Is Ruby Tymora here as well?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::afcb46939041e4b3",
     "original": "Aster: I was wondering if you could put in a good word for me.[p/] I've been wanting her autograph.",
-    "translation": "",
+    "translation": "Aster: 我在想你们能否为我说点好话。[p/]我一直想要她的签名。",
     "context": "{\n  \"id\": \"line:0bcc7fc\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I was wondering if you could put in a good word for me.[p/] I've been wanting her autograph.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4c31f694db531c23",
     "original": "Tyrion: [i]You're[/i] the Crown Prince.[p/] Couldn't you just ask her yourself?",
-    "translation": "",
+    "translation": "Tyrion: [i]你可是[/i]王储殿下啊。[p/]就不能直接问她本人要吗？",
     "context": "{\n  \"id\": \"line:027fd44\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: [i]You're[/i] the Crown Prince.[p/] Couldn't you just ask her yourself?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::48f24576a898fcfa",
     "original": "Aster: I-[p/][s/]I've tried,[p/] but the last time I saw her,[p/] she had very[p/] [i]strong[/i] words for me.",
-    "translation": "",
+    "translation": "Aster: 我、[p/][s/]我其实有试过。[p/]但我上次遇到她的时候，[p/]她对我的言辞十分[p/][i]强硬[/i]。",
     "context": "{\n  \"id\": \"line:0ae1172\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I-[p/][s/]I've tried,[p/] but the last time I saw her,[p/] she had very[p/] [i]strong[/i] words for me.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2d847b606d7c76ba",
     "original": "That [i]did[/i] make sense.[p/] She had more animosity towards the aristocracy than [i]I[/i] did.",
-    "translation": "",
+    "translation": "那[i]倒是[/i]很有可能。[p/]她对贵族的敌意更胜于[i]我[/i]。",
     "context": "{\n  \"id\": \"line:014253f\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"That [i]did[/i] make sense.[p/] She had more animosity towards the aristocracy than [i]I[/i] did.\"\n}"
   },
   {
@@ -1016,43 +1016,43 @@
   {
     "key": "C3 Dialogue.csv::translation::7ad679f24a50aa06",
     "original": "Aster: I heard about your chess match with the Duke of Commerce.",
-    "translation": "",
+    "translation": "Aster: 我听说你和商业公爵的那场棋赛了。",
     "context": "{\n  \"id\": \"line:0d08fda\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I heard about your chess match with the Duke of Commerce.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::34dc9d046f7174f3",
     "original": "Aster: I wish I could have seen it myself!",
-    "translation": "",
+    "translation": "Aster: 真希望自己能亲眼观赛啊！",
     "context": "{\n  \"id\": \"line:091a6c9\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I wish I could have seen it myself!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ac98ca480404a3ea",
     "original": "Tyrion: There wasn't much to see.[p/] For all his arrogance,[p/] The Duke was a pushover.",
-    "translation": "",
+    "translation": "Tyrion: 没什么好看的。[p/]尽管公爵相当傲慢，[p/]但他太好对付了。",
     "context": "{\n  \"id\": \"line:0913593\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: There wasn't much to see.[p/] For all his arrogance,[p/] The Duke was a pushover.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bf7491fbde1b30f2",
     "original": "Aster: [i]*sigh*[/i][p/] That just makes me regret it more.[p/] I would've loved to see that weasel put in his place.",
-    "translation": "",
+    "translation": "Aster: [i]*叹气*[/i][p/]这可让我更为后悔了。[p/]我是很想要看那个鼠辈自取其辱的模样。",
     "context": "{\n  \"id\": \"line:0c9b67d\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: [i]*sigh*[/i][p/] That just makes me regret it more.[p/] I would've loved to see that weasel put in his place.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ab83abe69cf5bfbe",
     "original": "Tyrion: ...Isn't he one of the kingdom's dukes?[p/] I'd thought you two would be more amicable.",
-    "translation": "",
+    "translation": "Tyrion: ……他不是王国下的一位公爵吗？[p/]我还以为你们两位会更和睦一点。",
     "context": "{\n  \"id\": \"line:0538be1\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: ...Isn't he one of the kingdom's dukes?[p/] I'd thought you two would be more amicable.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::171f1940959b01c8",
     "original": "Aster: No one knows more about the oppression of the Four Pillars than I do.",
-    "translation": "",
+    "translation": "Aster: 没有人比我更清楚四大支柱家族造成了多少压迫。",
     "context": "{\n  \"id\": \"line:072ec73\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: No one knows more about the oppression of the Four Pillars than I do.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::52e282098784499e",
     "original": "...What?",
-    "translation": "",
+    "translation": "……什么？",
     "context": "{\n  \"id\": \"line:077af97\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"...What?\"\n}"
   },
   {
@@ -1064,43 +1064,43 @@
   {
     "key": "C3 Dialogue.csv::translation::200cb9d6f10ecc06",
     "original": "Aster: [i]*sigh*[/i][p/] Coraline Sibyl:[p/] the Minister of Justice.",
-    "translation": "",
+    "translation": "Aster: [i]*叹气*[/i][p/]卡洛琳·希比尔：[p/]我们的司法部长。",
     "context": "{\n  \"id\": \"line:06a3d74\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: [i]*sigh*[/i][p/] Coraline Sibyl:[p/] the Minister of Justice.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6b6b0c43e9eb91fc",
     "original": "Tyrion: ...It doesn't sound like you have a high opinion of her.",
-    "translation": "",
+    "translation": "Tyrion: ……听起来你对她的评价不怎么高啊。",
     "context": "{\n  \"id\": \"line:050ba65\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: ...It doesn't sound like you have a high opinion of her.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f580058dc4fe8ac8",
     "original": "Aster: She's the most powerful of the Four Pillar Lords,[p/] but she's also the most apathetic.",
-    "translation": "",
+    "translation": "Aster: 她明明是四大支柱家族里最有实力的一位，[p/]但也是最冷漠的那个。",
     "context": "{\n  \"id\": \"line:0aab8e3\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: She's the most powerful of the Four Pillar Lords,[p/] but she's also the most apathetic.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::334b0963282dacb4",
     "original": "Aster: Our system of governance is broken.[p/] She has the power to change it,[p/] yet she and her House of Lords do nothing.",
-    "translation": "",
+    "translation": "Aster: 我们的统治机制已然失效了。[p/]她明明有力量改变这点，[p/]但她和她的贵族议院却什么都不做。",
     "context": "{\n  \"id\": \"line:0d3c6a7\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: Our system of governance is broken.[p/] She has the power to change it,[p/] yet she and her House of Lords do nothing.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0ff82c44c01970a3",
     "original": "Tyrion: ...If you care so much,[p/] [i]you[/i] have the ability to change it.",
-    "translation": "",
+    "translation": "Tyrion: ……你如果这么担忧，[p/]那[i]你[/i]同样有能力去改变啊。",
     "context": "{\n  \"id\": \"line:0dcd91a\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: ...If you care so much,[p/] [i]you[/i] have the ability to change it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7a0c9c00f1e94f6f",
     "original": "Tyrion: You're a part of the royal family, for crying out loud.",
-    "translation": "",
+    "translation": "Tyrion: 老天，你毕竟是王室成员啊。",
     "context": "{\n  \"id\": \"line:0b858bb\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: You're a part of the royal family, for crying out loud.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fcb8a61bb9ccef6c",
     "original": "Aster: One [i]would[/i] think that, wouldn't they?",
-    "translation": "",
+    "translation": "Aster: 人们[i]大概[/i]都是这么想的，对吧？",
     "context": "{\n  \"id\": \"line:0e113a0\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: One [i]would[/i] think that, wouldn't they?\"\n}"
   },
   {
@@ -1112,49 +1112,49 @@
   {
     "key": "C3 Dialogue.csv::translation::6a77190f294221ab",
     "original": "Aster: ...I would appreciate it if you didn't speak of the Grand General unless necessary.",
-    "translation": "",
+    "translation": "Aster: ……如果没有必要，请你不要提起大将军，我会为此感激的。",
     "context": "{\n  \"id\": \"line:0b44b18\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: ...I would appreciate it if you didn't speak of the Grand General unless necessary.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ba76d2ac154b825c",
     "original": "Tyrion: ...I take it you don't care for him?",
-    "translation": "",
+    "translation": "Tyrion: ……我还以为你没那么在乎他？",
     "context": "{\n  \"id\": \"line:08f42b0\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: ...I take it you don't care for him?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::93fc3c0f3ad745be",
     "original": "Aster: ...How could I?[p/] My heart aches for the innocent people he's slaughtered.",
-    "translation": "",
+    "translation": "Aster: ……怎么可能呢？[p/]他屠戮那些无辜的民众，让我十分心痛。",
     "context": "{\n  \"id\": \"line:0f9751d\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: ...How could I?[p/] My heart aches for the innocent people he's slaughtered.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::80f61546650cb807",
     "original": "Aster: All because of these supposed \"insurrections\".",
-    "translation": "",
+    "translation": "Aster: 而那些人只因他假定的“叛乱”就惨遭杀害。",
     "context": "{\n  \"id\": \"line:07a95cd\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: All because of these supposed \\\"insurrections\\\".\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ba261c2f1f8f0dc6",
     "original": "Tyrion: ...If you really feel that strongly about it,[p/] why hasn't the royal family done anything to stop him?",
-    "translation": "",
+    "translation": "Tyrion: ……如果你对此有这么强烈的反应，[p/]王室为什么不做些什么来组织他？",
     "context": "{\n  \"id\": \"line:00846ae\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: ...If you really feel that strongly about it,[p/] why hasn't the royal family done anything to stop him?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7c7ae9358a57bbcc",
     "original": "Aster: House Steelwind controls the only military force equipped to maintain order in Wyverngarde.",
-    "translation": "",
+    "translation": "Aster: 斯蒂尔文德家控制着唯一一支能够维持维文加德王国秩序的军队。",
     "context": "{\n  \"id\": \"line:0d29489\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: House Steelwind controls the only military force equipped to maintain order in Wyverngarde.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5ce8764eb3eec5a1",
     "original": "Aster: I can't say more,[p/] but their mages are also the only thing standing between us and war with the other kingdoms.",
-    "translation": "",
+    "translation": "Aster: 虽然不能多说，[p/]不过他们的法师是我们面对其他国家时仅有的保障。",
     "context": "{\n  \"id\": \"line:009d40a\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I can't say more,[p/] but their mages are also the only thing standing between us and war with the other kingdoms.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::24882b461750a549",
     "original": "Aster: They are our greatest asset,[p/] while also being our greatest failure.",
-    "translation": "",
+    "translation": "Aster: 他们既是王国最重要的财富，[p/]也是我们最大的失败。",
     "context": "{\n  \"id\": \"line:03a0ba0\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: They are our greatest asset,[p/] while also being our greatest failure.\"\n}"
   },
   {
@@ -1166,37 +1166,37 @@
   {
     "key": "C3 Dialogue.csv::translation::f68c9d8079a9c806",
     "original": "Tyrion: I've read a lot of stories about the Crown Prince in the paper,[p/] but they never mention you by name.",
-    "translation": "",
+    "translation": "Tyrion: 我从报纸上读到了大量关于王储殿下的报道，[p/]但上面从不用名字来称呼你。",
     "context": "{\n  \"id\": \"line:04e652b\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: I've read a lot of stories about the Crown Prince in the paper,[p/] but they never mention you by name.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::23a3e9f6dfa47fa3",
     "original": "Aster: ...That's intentional.[p/] I prefer not to have my name associated with my title.",
-    "translation": "",
+    "translation": "Aster: ……那是有意为之。[p/]我希望不要让自己的名字和头衔联系在一起。",
     "context": "{\n  \"id\": \"line:0c968c8\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: ...That's intentional.[p/] I prefer not to have my name associated with my title.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ef0ef53023e6f515",
     "original": "Celeste: You've done a lot of charity work for the less fortunate, haven't you?",
-    "translation": "",
+    "translation": "Celeste: 你不是有向贫困人群做了很多慈善工作吗？",
     "context": "{\n  \"id\": \"line:01eeee4\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Celeste: You've done a lot of charity work for the less fortunate, haven't you?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c6653d56de156c0f",
     "original": "Aster: Yes,[p/] we've hosted so [i]many[/i] fundraisers for them.",
-    "translation": "",
+    "translation": "Aster: 是的。[p/]我们为这些人组织了[i]很多[/i]筹款会。",
     "context": "{\n  \"id\": \"line:0b67e32\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: Yes,[p/] we've hosted so [i]many[/i] fundraisers for them.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5a63d6193812c502",
     "original": "Tyrion: ...You're not a fan of fundraisers.",
-    "translation": "",
+    "translation": "Tyrion: ……但你并不热爱筹款活动。",
     "context": "{\n  \"id\": \"line:027d756\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: ...You're not a fan of fundraisers.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d6945c43ba79283b",
     "original": "Aster: I'm not a fan of aristocrats who think they can alleviate their guilt by giving me their spare gold.",
-    "translation": "",
+    "translation": "Aster: 我并不喜欢那些认为向我捐出有余的财物就能减轻自己罪愆的贵族。",
     "context": "{\n  \"id\": \"line:013a40f\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I'm not a fan of aristocrats who think they can alleviate their guilt by giving me their spare gold.\"\n}"
   },
   {
@@ -1208,49 +1208,49 @@
   {
     "key": "C3 Dialogue.csv::translation::2436ca0047e1bca2",
     "original": "Aster: Hm...[p/] I'm sad to say that tensions such as these are rampant throughout the kingdom.",
-    "translation": "",
+    "translation": "Aster: 嗯……[p/]很遗憾的是，这种冲突在王国各地都十分普遍。",
     "context": "{\n  \"id\": \"line:0ed05fb\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: Hm...[p/] I'm sad to say that tensions such as these are rampant throughout the kingdom.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::820a886febe48a90",
     "original": "Aster: It's just the same conflict between the commoners and the aristocrats that I've always seen.",
-    "translation": "",
+    "translation": "Aster: 这与我们常见的平民与贵族的冲突是一样的。",
     "context": "{\n  \"id\": \"line:0cd01e0\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: It's just the same conflict between the commoners and the aristocrats that I've always seen.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8a806aab70eb6ca7",
     "original": "Tyrion: Dracogen isn't exactly an aristocrat.[p/] He's just a merchant.",
-    "translation": "",
+    "translation": "Tyrion: 德拉科根并不是贵族。[p/]他只是商人。",
     "context": "{\n  \"id\": \"line:0e3ccee\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: Dracogen isn't exactly an aristocrat.[p/] He's just a merchant.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::145d7cd22819f62c",
     "original": "Aster: In the eyes of the commonfolk,[p/] there's very little difference.[p/] He has wealth and power,[p/] while they do not.",
-    "translation": "",
+    "translation": "Aster: 在平民们的眼中，[p/]两者并没有太大区别。[p/]他拥有财富与权力，[p/]而平民没有。",
     "context": "{\n  \"id\": \"line:030b1b0\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: In the eyes of the commonfolk,[p/] there's very little difference.[p/] He has wealth and power,[p/] while they do not.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5d7bca1936380a1d",
     "original": "Tyrion: But I think he [i]is[/i] trying to help them.[p/] I'm fairly certain these \"tensions\" are just fabricated stories.",
-    "translation": "",
+    "translation": "Tyrion: 但我认为他[i]确实[/i]试图帮助平民。[p/]我比较确定，所谓的“冲突”只是编造的故事。",
     "context": "{\n  \"id\": \"line:0039230\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: But I think he [i]is[/i] trying to help them.[p/] I'm fairly certain these \\\"tensions\\\" are just fabricated stories.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0006998b47e0873b",
     "original": "Aster: ...Is that so?",
-    "translation": "",
+    "translation": "Aster: ……真的是这样吗？",
     "context": "{\n  \"id\": \"line:073e24d\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: ...Is that so?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5bd01bfe471db25d",
     "original": "Aster: Even so,[p/] I think the damage is already done.",
-    "translation": "",
+    "translation": "Aster: 即便如此，[p/]我认为也实际上造成了伤害。",
     "context": "{\n  \"id\": \"line:0416c5d\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: Even so,[p/] I think the damage is already done.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::aa156bfb27194c8d",
     "original": "Aster: I can only hope Mr. Dracogen's intentions are as noble as you claim they are.",
-    "translation": "",
+    "translation": "Aster: 我只能期望德拉科根的意图如你宣称的一般高尚。",
     "context": "{\n  \"id\": \"line:0241830\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I can only hope Mr. Dracogen's intentions are as noble as you claim they are.\"\n}"
   },
   {
@@ -1268,43 +1268,43 @@
   {
     "key": "C3 Dialogue.csv::translation::aeb02f3df1785cd8",
     "original": "Aster: ...I can certainly sympathize with the insurrectionists' displeasure with the kingdom.",
-    "translation": "",
+    "translation": "Aster: ……我当然能理解起义群众对王国的不满。",
     "context": "{\n  \"id\": \"line:0fbe1f6\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: ...I can certainly sympathize with the insurrectionists' displeasure with the kingdom.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d284f517ed96a14a",
     "original": "Aster: With what the Grand General has been doing in the countryside,[p/] this was inevitable.",
-    "translation": "",
+    "translation": "Aster: 考虑到大将军在乡村的行径，[p/]这种反应本就无可避免。",
     "context": "{\n  \"id\": \"line:0863b0f\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: With what the Grand General has been doing in the countryside,[p/] this was inevitable.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::984e1bbbcfa18ed6",
     "original": "Tyrion: ...If you sympathize with them so much,[p/] why hasn't anything been done?",
-    "translation": "",
+    "translation": "Tyrion: ……你如果这么同情他们，[p/]为何什么都不做？",
     "context": "{\n  \"id\": \"line:0367d75\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: ...If you sympathize with them so much,[p/] why hasn't anything been done?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d37aca746fb3f56b",
     "original": "Aster: I won't blame you for saying that,[p/] but there's only so much I can do.",
-    "translation": "",
+    "translation": "Aster: 我不责怪你的言语，[p/]但我也只能做这么多了。",
     "context": "{\n  \"id\": \"line:03c7db9\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I won't blame you for saying that,[p/] but there's only so much I can do.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5c29a0f7c46e7323",
     "original": "Aster: I hate to say it,[p/] but the royal family has a lot less influence than you'd think,[p/] especially when it comes to the Four Pillars.",
-    "translation": "",
+    "translation": "Aster: 虽然不愿这么说，[p/]但王室的影响力远比你想得要小，[p/]特别是与四大支柱家族相比。",
     "context": "{\n  \"id\": \"line:020eecc\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: I hate to say it,[p/] but the royal family has a lot less influence than you'd think,[p/] especially when it comes to the Four Pillars.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fa4c71d55c67ef9f",
     "original": "Aster: My family holds the crown,[p/] but the dukes and duchesses hold everything else.",
-    "translation": "",
+    "translation": "Aster: 我的家族持有王冠，[p/]但公爵们持有其他的一切。",
     "context": "{\n  \"id\": \"line:0eb9535\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: My family holds the crown,[p/] but the dukes and duchesses hold everything else.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::11fad74f80fa0756",
     "original": "...Was that really true?",
-    "translation": "",
+    "translation": "……真的是这样吗？",
     "context": "{\n  \"id\": \"line:05d02c7\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"...Was that really true?\"\n}"
   },
   {
