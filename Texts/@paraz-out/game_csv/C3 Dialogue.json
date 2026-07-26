@@ -1535,36 +1535,36 @@
   {
     "key": "C3 Dialogue.csv::translation::307f3485894c5bc4",
     "original": "Aster: A mysterious, magical explosion pushed Mr. Waye off that catwalk...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 一个神秘的魔法爆炸将维耶先生从步道上推了下去……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0087ce4\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: A mysterious, magical explosion pushed Mr. Waye off that catwalk...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::89ea6909c4b415ea",
     "original": "Tyrion: There aren't any magical traces there either.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 也没有残留任何魔法痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:098ba94\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: There aren't any magical traces there either.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2e7f8336fb74977b",
     "original": "Aster: It's quite the mystery, isn't it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 这挺神秘的，不是吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b49c55\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: It's quite the mystery, isn't it?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8ff2dd3f2a949817",
     "original": "Aster: Although,[p/] I have no doubts that you'll be able to solve it, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 即便如此，[p/]我毫不怀疑你能够解明这个问题，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0998f71\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: Although,[p/] I have no doubts that you'll be able to solve it, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::208cbe2e9f415a8c",
     "original": "Hopefully,[p/] I could live up to his expectations.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但愿如此吧，[p/]我不能辜负他的期望。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e516ac\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Hopefully,[p/] I could live up to his expectations.\"\n}"
   },
   {
@@ -1577,50 +1577,50 @@
   {
     "key": "C3 Dialogue.csv::translation::6df4c031882a5e46",
     "original": "Tyrion: Aster, what can you tell me about this?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 阿斯特，关于这个你能告诉我什么吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05729f2\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Tyrion: Aster, what can you tell me about this?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::915ce81dd52bf28f",
     "original": "Aster: My apologies...[p/] I don't think I can help you with that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 容我致歉……[p/]我不认为能在这个问题上帮到你。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ada272\",\n  \"node\": \"AurUpstairs_Present\",\n  \"text\": \"Aster: My apologies...[p/] I don't think I can help you with that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fc37d5ed440bb8e2",
     "original": "Tyrion: Okay, I think that answers all of my questions.[p/] Thank you, Aster.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 好的，我想这已经解答了我所有的问题。[p/]谢谢你，阿斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00526b6\",\n  \"node\": \"AurUpstairs_Check\",\n  \"text\": \"Tyrion: Okay, I think that answers all of my questions.[p/] Thank you, Aster.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2d0419c8633d86da",
     "original": "Aster: Of course![p/][s/] I'm just happy to help.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Aster: 没问题！[p/][s/]能帮上你我很高兴。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a983ab\",\n  \"node\": \"AurUpstairs_Check\",\n  \"text\": \"Aster: Of course![p/][s/] I'm just happy to help.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::40c934533fb40d3f",
     "original": "I was hoping that the Crown Prince had spotted the thief,[p/] but all he saw was some hairless rodent.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我本希望王储殿下有看到那个窃贼，[p/]但他只看到了某种无毛的鼠类。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:058c0b3\",\n  \"node\": \"AurUpstairs_Check\",\n  \"text\": \"I was hoping that the Crown Prince had spotted the thief,[p/] but all he saw was some hairless rodent.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b87d211aee8f92d1",
     "original": "I would just need to look into my other leads and hope that would lead somewhere.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我现在得查看一下其他线索，并希望它们能够通过它们取得进展。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e2e707\",\n  \"node\": \"AurUpstairs_Check\",\n  \"text\": \"I would just need to look into my other leads and hope that would lead somewhere.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::42e82823a71b5a54",
     "original": "Either way,[p/] it was time to MOVE somewhere else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "无论是哪一条，[p/]都到了向其他地方<size=1.5em>移动</size>的时候了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:042661e\",\n  \"node\": \"AurUpstairs_Check\",\n  \"text\": \"Either way,[p/] it was time to MOVE somewhere else.\"\n}"
   },
   {
@@ -1633,85 +1633,85 @@
   {
     "key": "C3 Dialogue.csv::translation::e40f04e910ee5003",
     "original": "Tyrion: It's some kind of tarot card.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这是某种塔罗牌。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b86f84\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Tyrion: It's some kind of tarot card.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1f0f2f497a6e1010",
     "original": "Mosourika: A customer must have accidentally left it here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 应该是某个顾客不经意留在这的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e6c0ac\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: A customer must have accidentally left it here.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9af39c670afcbd67",
     "original": "Tyrion: \"The Magician...\"",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: “魔术师……”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00fd739\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Tyrion: \\\"The Magician...\\\"\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f9f33172461e3b19",
     "original": "Mosourika: The Magician is associated with the power of transformation and manifestation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 魔术师与转变和显现的力量相关联。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d48bcd\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: The Magician is associated with the power of transformation and manifestation.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::75c427dcfc113124",
     "original": "Mosourika: And it's in its upright position,[p/] which is associated with the resourcefulness to harness one's inner potential.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 如果是正位的话，[p/]意味着一个人的内在具有发展的潜力。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b061f0\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: And it's in its upright position,[p/] which is associated with the resourcefulness to harness one's inner potential.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3c6df5db759a3a82",
     "original": "Mosourika: It often symbolizes a person who possesses great skill,[p/] creativity,[p/] and mastery over their craft.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 这张牌通常代表技艺精湛、[p/]创造力出色的人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04405d2\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: It often symbolizes a person who possesses great skill,[p/] creativity,[p/] and mastery over their craft.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a5a6f1a61758001c",
     "original": "Tyrion: …I never knew you knew about these things.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion:  ……没想到你还懂塔罗牌。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04068ca\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Tyrion: …I never knew you knew about these things.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::09025c93e688cc4d",
     "original": "Mosourika: Ha![p/][s/] Of course, I do!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 哈！[p/][s/]我当然懂！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04dd653\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: Ha![p/][s/] Of course, I do!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fd3ade55ad389ec4",
     "original": "Mosourika: The power of the magician is the power to shape reality through the power of will!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 魔术师的力量是通过意志力来改变现实事物！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d55ced\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: The power of the magician is the power to shape reality through the power of will!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6e2169c8278b08bc",
     "original": "Mosourika: Doesn't [i]that[/i] remind you of someone?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 你不觉得<u>这点</u>让你想到某人吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03d1cbc\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: Doesn't [i]that[/i] remind you of someone?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::22a761d163d3f241",
     "original": "Tyrion: No...[p/] Not really.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 没……[p/]没想到谁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0856835\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Tyrion: No...[p/] Not really.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ef09266009ba68af",
     "original": "Mosourika: Hey!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 嘿！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d6b292\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: Hey!\"\n}"
   },
   {
@@ -1724,57 +1724,57 @@
   {
     "key": "C3 Dialogue.csv::translation::f8edd722196d4520",
     "original": "Tyrion: There are some barrels stacked in the corner here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 角落里有些木桶叠在一起。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0038e2a\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Tyrion: There are some barrels stacked in the corner here.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c891fea9e13e5851",
     "original": "Celeste: I wonder what's inside.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我很好奇里面是什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0df9651\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Celeste: I wonder what's inside.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a6d0ef345ea873a3",
     "original": "Celeste: Wait...[p/] Rika.[p/] You wouldn't happen to have Lotus Juice, do you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 等等……[p/]里卡，[p/]你该不会有莲之水吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02d765f\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Celeste: Wait...[p/] Rika.[p/] You wouldn't happen to have Lotus Juice, do you?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7a5e796b1ccdd42b",
     "original": "Mosourika: \"Lotus Juice\"? [p/] What's that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: “莲之水”？[p/]那是什么东西？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ddd393\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: \\\"Lotus Juice\\\"? [p/] What's that?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2667804d652af16c",
     "original": "Celeste: [i]*sigh*[/i][p/] Never mind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: [i]*叹气*[/i][p/]当我没说。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c1ec1d\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Celeste: [i]*sigh*[/i][p/] Never mind.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6f559df460a6541e",
     "original": "Tyrion: What happened to the Lotus Juice that you \"received\" from Miriam?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你从米莉亚姆那“收到”的莲之水怎么样了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:071ba09\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Tyrion: What happened to the Lotus Juice that you \\\"received\\\" from Miriam?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fb7c0e47b4c75494",
     "original": "Celeste: I drank all of it…",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我全部喝掉了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01f5a72\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Celeste: I drank all of it…\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8f30878a5f320433",
     "original": "Already...?[p/] She'd only had it for a month.",
-    "translation": "",
-    "stage": 0,
+    "translation": "就喝完了……？[p/]她上个月才获赠的啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07ae97b\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Already...?[p/] She'd only had it for a month.\"\n}"
   },
   {
@@ -1787,29 +1787,29 @@
   {
     "key": "C3 Dialogue.csv::translation::868ab0c9553370d3",
     "original": "Tyrion: This table looks [i]really[/i] well-made.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这张桌子做得<u>很</u>不错。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0537689\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Tyrion: This table looks [i]really[/i] well-made.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bf187bbec24b0fc9",
     "original": "Mosourika: You like it?[p/] I commissioned a local carpenter to have my tables custom-made.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 你喜欢它吗？[p/]我从当地的一个木匠那里订制了这张桌子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e7eb33\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: You like it?[p/] I commissioned a local carpenter to have my tables custom-made.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3f0e1a0a55047612",
     "original": "Celeste: It was probably worth it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 还是物有所值的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e5d19c\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Celeste: It was probably worth it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d1e53d47d6001df3",
     "original": "Celeste: They fit with the rustic vibe you've got going on here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 它们与这里质朴的氛围很搭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a8def2\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Celeste: They fit with the rustic vibe you've got going on here.\"\n}"
   },
   {
@@ -1822,15 +1822,15 @@
   {
     "key": "C3 Dialogue.csv::translation::75b6f0e198c47f63",
     "original": "Rika seemed to have decorated the entire café with several plants and flowers.",
-    "translation": "",
-    "stage": 0,
+    "translation": "里卡在咖啡馆里各处都装饰了花花草草。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c63fdb\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Rika seemed to have decorated the entire café with several plants and flowers.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bc4aa5b2089e4b4b",
     "original": "The green added a fresh and earthy look to the restaurant.",
-    "translation": "",
-    "stage": 0,
+    "translation": "绿意为这家餐厅增加了清新而质朴的氛围。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03c45a6\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"The green added a fresh and earthy look to the restaurant.\"\n}"
   },
   {
@@ -1843,29 +1843,29 @@
   {
     "key": "C3 Dialogue.csv::translation::db0d4bc9d0c17e45",
     "original": "There were artificery lights hanging from the ceiling.",
-    "translation": "",
-    "stage": 0,
+    "translation": "天花板上吊下奥术能源驱动的灯具。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e4b85d\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"There were artificery lights hanging from the ceiling.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::20c2edb1a42194f3",
     "original": "Tyrion: Your business must be doing pretty well if you can afford artificery like this.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 能用得起这样的奥术灯，你的生意看来挺不错的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09ff770\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Tyrion: Your business must be doing pretty well if you can afford artificery like this.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d7552e096a125009",
     "original": "Mosourika: That's just one of the benefits I get from working with the Dracogen Trading Company.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 这只是我和德拉科根贸易公司合作的好处之一。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b97bd8\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: That's just one of the benefits I get from working with the Dracogen Trading Company.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::45a48cd6a9fa078a",
     "original": "Mosourika: Most of the merchants connect to the artificery ley line.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 绝大多数商人都接上了奥术地脉。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04924ba\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"Mosourika: Most of the merchants connect to the artificery ley line.\"\n}"
   },
   {
@@ -1878,288 +1878,288 @@
   {
     "key": "C3 Dialogue.csv::translation::997366aba22a60af",
     "original": "There was a shelf full of drinks,[p/] mugs,[p/] and sugar behind the restaurant counter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "在餐厅柜台后面有一个架子，上面放满了饮料、[p/]杯子、[p/]奶油[p/]和糖。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:055bd0d\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"There was a shelf full of drinks,[p/] mugs,[p/] and sugar behind the restaurant counter.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::07fb7548c7e00386",
     "original": "It must've been where Rika's employees prepared coffee to be served.",
-    "translation": "",
-    "stage": 0,
+    "translation": "这里一定是里卡的员工准备咖啡的地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0111792\",\n  \"node\": \"Cafe1_Examine\",\n  \"text\": \"It must've been where Rika's employees prepared coffee to be served.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::acdeaa47d520c108",
     "original": "Player: The Court Case",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 庭审的情况",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aca0d7\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Player: The Court Case\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4f27352977d3f2e9",
     "original": "Tyrion: Alright,[p/] let's get to work.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 好吧， [p/]该谈正事了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c81419\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: Alright,[p/] let's get to work.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::878cd8d15ba86169",
     "original": "Tyrion: You said that you saw someone cast a spell that pushed Justin into the vats.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你有说过，你看到了有人施放法术，把贾斯汀推进了精炼容器中。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04ae440\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: You said that you saw someone cast a spell that pushed Justin into the vats.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fdfb5c8175a6354d",
     "original": "Tyrion: Can you tell me exactly what you saw?[p/] I need every detail you can remember.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 能告诉我你到底看到了什么吗？[p/]我需要你能记起来的每一个细节。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0df3f67\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: Can you tell me exactly what you saw?[p/] I need every detail you can remember.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ccc051c350b1de15",
     "original": "Mosourika: It was kind of hard to see.[p/] I was on the ground level,[p/] and he was up on the catwalk.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 其实很难看得清楚，[p/]毕竟我是站在地上，[p/]而他是在高高的步道上。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05c72b5\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: It was kind of hard to see.[p/] I was on the ground level,[p/] and he was up on the catwalk.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::300f68183ff747c7",
     "original": "Mosourika: I think I saw him yelling at someone from up there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我应该有看到他在上面向某个人大吼大叫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05fae76\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: I think I saw him yelling at someone from up there.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::54a2191bb86eb7c7",
     "original": "Mosourika: ...That's when I saw a flash of light.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……就在那时我看到一道闪光。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02748be\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: ...That's when I saw a flash of light.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::06c9faa8e30b3add",
     "original": "Mosourika: There was a short burst of magical energy that ripped the guardrail apart.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 当时有一股魔力短暂爆发，将护栏撕碎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00439c3\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: There was a short burst of magical energy that ripped the guardrail apart.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2dbf741237d88502",
     "original": "Mosourika: Justin happened to be standing right next to the top of a nearby vat.[p/] He fell right into it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 贾斯汀刚好就站在一尊精炼容器的上空附近。[p/]他就那么掉落进去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0539bc7\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: Justin happened to be standing right next to the top of a nearby vat.[p/] He fell right into it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::afa551a12f236c50",
     "original": "Mosourika: I told one of the workers what I saw,[p/] and they went to try to pull him out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我向一名工人告诉了看到的情况，[p/]他们赶过去想将他救出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ce0c20\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: I told one of the workers what I saw,[p/] and they went to try to pull him out.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6f750ac03ecc76ea",
     "original": "Mosourika: But I guess it was too late.[p/] Those chemicals must have been really toxic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 但我想已经太晚了。[p/]那里面的化学物质肯定毒性很强。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d7b056\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: But I guess it was too late.[p/] Those chemicals must have been really toxic.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f4273c728531df52",
     "original": "They weren't just toxic.[p/] They were strong enough to completely melt down his body.",
-    "translation": "",
-    "stage": 0,
+    "translation": "不只是有毒。[p/]它强力到足以融化他的躯体。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cbb017\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"They weren't just toxic.[p/] They were strong enough to completely melt down his body.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7d34ebc0df7e7e80",
     "original": "Mosourika: ...There's actually something else.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……还有一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:096d496\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: ...There's actually something else.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5e94fcc011968aea",
     "original": "Mosourika: I saw Justin drop something from his hands before he fell into that vat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我看到贾斯汀掉下去前，他把什么东西从手里丢了出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0712cfe\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: I saw Justin drop something from his hands before he fell into that vat.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6c45c2fe91cef1a3",
     "original": "Mosourika: After they pulled him out,[p/] I tried looking for it and cast [b]Detect Magic[/b].",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 工人们将他的遗体打捞出来后，[p/]我为了寻找那个东西施放了[b]法术探测[/b]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0230bab\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: After they pulled him out,[p/] I tried looking for it and cast [b]Detect Magic[/b].\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6e41fefc969a02fb",
     "original": "Mosourika: That's when I found [i]this[/i] on the ground below the walkway.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 然后我就在步道下方的地面发现了[i]这个[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c22cda\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: That's when I found [i]this[/i] on the ground below the walkway.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a8b0a6aade872b90",
     "original": "Tyrion: A leather strap?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是一条皮带？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07ac27b\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: A leather strap?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1a2a76b3f428dc60",
     "original": "I looked at the strap more closely.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我仔细观察那条皮带。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0934a22\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"I looked at the strap more closely.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::59f98abeac534260",
     "original": "It had a buckle on it,[p/] but nothing to connect it with.",
-    "translation": "",
-    "stage": 0,
+    "translation": "上面有个搭扣，[p/]但并没有连接什么东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:027ec06\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"It had a buckle on it,[p/] but nothing to connect it with.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e337ac33757207de",
     "original": ":The numerals: \"VI\",[p/] were engraved on it.[p/] I was really confused as to what the purpose of this was.",
-    "translation": "",
-    "stage": 0,
+    "translation": ":上面刻有“VI”的字样。[p/]我对这个东西的用法感到非常疑惑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eeba31\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \":The numerals: \\\"VI\\\",[p/] were engraved on it.[p/] I was really confused as to what the purpose of this was.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::eaecdcf7bc78b0ac",
     "original": "Mosourika: I saw a blue glow when I looked at it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我看到这个东西的时候上面有一层蓝光。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00782fd\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: I saw a blue glow when I looked at it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::93a54bb4e05a3d2d",
     "original": "Celeste: It was cyan?[p/] That's the color of [b]conjuration[b/] traces.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是青色吗？[p/]那是[b]召唤术[b/]的痕迹啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0979d94\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Celeste: It was cyan?[p/] That's the color of [b]conjuration[b/] traces.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5f05970f6e9573f3",
     "original": "Mosourika: I tried to give it to the investigators,[p/] but they didn't think it was important.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我有试过将它提交调查，[p/]但他们认为这个东西不重要。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07a28ef\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: I tried to give it to the investigators,[p/] but they didn't think it was important.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9d3b6c8e721b9151",
     "original": "I guess that made sense.[p/] They were considering this an accident,[p/] not a murder.",
-    "translation": "",
-    "stage": 0,
+    "translation": "也有道理。[p/]他们大概只认为这起案件是个意外，[p/]而非谋杀案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01190ac\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"I guess that made sense.[p/] They were considering this an accident,[p/] not a murder.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::dde737ae14b0cda2",
     "original": "Player: Why were you there?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Player: 你为什么在场？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05ac868\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Player: Why were you there?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8608f6203d79725d",
     "original": "Tyrion: Why [i]were[/i] you at the refinery anyway?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 话说回来，你为什么[i]在[/i]精炼厂呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:058645e\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: Why [i]were[/i] you at the refinery anyway?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d10f1be0c798a56e",
     "original": "Tyrion: You don't work there, do you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你又不在那里工作，对吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e570c5\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: You don't work there, do you?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3d3aeddbbcded638",
     "original": "Mosourika: ...I was delivering Justin's breakfast.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……我是去给贾斯汀送早餐的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01d36b9\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: ...I was delivering Justin's breakfast.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7f1caddcbee6db35",
     "original": "Mosourika: He always skips it.[p/] It really annoys me,[p/] so I started bringing some of my pastries over every morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 他老是不吃早餐。[p/]我因此很生气，[p/]所以开始每天早上带点自己家的糕点过去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03a7440\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: He always skips it.[p/] It really annoys me,[p/] so I started bringing some of my pastries over every morning.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c015f1c26b96097d",
     "original": "Celeste: What?[p/] Breakfast is the most important meal of the day!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 怎么能这样？[p/]早餐可是一日里最重要的那一餐啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:085803a\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Celeste: What?[p/] Breakfast is the most important meal of the day!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::aaa3ddf1d91528f6",
     "original": "Tyrion: ...So important that you ate it multiple times yesterday.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……重要到你昨天吃了好几顿。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:089d944\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: ...So important that you ate it multiple times yesterday.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::78fc1353a29e3f23",
     "original": "Celeste: I have a high metabolism, okay?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我的代谢量很大，好吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c5ecd\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Celeste: I have a high metabolism, okay?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f2fc0edec1006089",
     "original": "Tyrion: ...Anyways,[p/] isn't it kind of dangerous to let a civilian walk around a factory like that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……扯远了，[p/]但让一个普通人在工厂里随意走动不是有点危险吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c6ca2c\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: ...Anyways,[p/] isn't it kind of dangerous to let a civilian walk around a factory like that?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3ab310e6d47a0437",
     "original": "Mosourika: Ha![p/][s/] I am no ordinary civilian!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 哈！[p/][s/]我才不是什么普通人！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0154b46\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: Ha![p/][s/] I am no ordinary civilian!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d3bc190923b41181",
     "original": "Mosourika: No one there would dare to bar my visit to the refinery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 没有人敢禁止我访问精炼厂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:070fbb1\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: No one there would dare to bar my visit to the refinery.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9a86e14bd78161dd",
     "original": "Tyrion: ...Which means that you don't usually visit the Refinery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……也就是说你平常并不会到精炼厂去。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0574658\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: ...Which means that you don't usually visit the Refinery.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::62a0f4f34cf93557",
     "original": "Mosourika: ...Yeah,[p/] I usually just meet Justin in the freight area.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……是的，[p/]我平常是在货运区和贾斯汀碰头。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:030053a\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: ...Yeah,[p/] I usually just meet Justin in the freight area.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f60fe631c27a2064",
     "original": "Mosourika: But he didn't show up that day,[p/] so I got worried and went looking around.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 但那天他不在，[p/]所以我有点担心，到处去找他。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05e6da1\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: But he didn't show up that day,[p/] so I got worried and went looking around.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7662eba07e887f14",
     "original": "Mosourika: The people who work there recognized me and let me in.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 在那里的工人认出了我，让我进去了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f703d4\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: The people who work there recognized me and let me in.\"\n}"
   },
   {

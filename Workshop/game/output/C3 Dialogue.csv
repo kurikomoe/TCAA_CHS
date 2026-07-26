@@ -230,99 +230,99 @@ line:020eecc,AurUpstairs_Present,"Aster: I hate to say it,[p/] but the royal fam
 line:0eb9535,AurUpstairs_Present,"Aster: My family holds the crown,[p/] but the dukes and duchesses hold everything else.",Aster: 我的家族持有王冠，[p/]但公爵们持有其他的一切。
 line:05d02c7,AurUpstairs_Present,...Was that really true?,……真的是这样吗？
 line:044c429,AurUpstairs_Present,Player: RikaTest2,
-line:0087ce4,AurUpstairs_Present,"Aster: A mysterious, magical explosion pushed Mr. Waye off that catwalk...",
-line:098ba94,AurUpstairs_Present,Tyrion: There aren't any magical traces there either.,
-line:0b49c55,AurUpstairs_Present,"Aster: It's quite the mystery, isn't it?",
-line:0998f71,AurUpstairs_Present,"Aster: Although,[p/] I have no doubts that you'll be able to solve it, Mr. Cuthbert.",
-line:0e516ac,AurUpstairs_Present,"Hopefully,[p/] I could live up to his expectations.",
+line:0087ce4,AurUpstairs_Present,"Aster: A mysterious, magical explosion pushed Mr. Waye off that catwalk...",Aster: 一个神秘的魔法爆炸将维耶先生从步道上推了下去……
+line:098ba94,AurUpstairs_Present,Tyrion: There aren't any magical traces there either.,Tyrion: 也没有残留任何魔法痕迹。
+line:0b49c55,AurUpstairs_Present,"Aster: It's quite the mystery, isn't it?",Aster: 这挺神秘的，不是吗？
+line:0998f71,AurUpstairs_Present,"Aster: Although,[p/] I have no doubts that you'll be able to solve it, Mr. Cuthbert.",Aster: 即便如此，[p/]我毫不怀疑你能够解明这个问题，卡斯伯特先生。
+line:0e516ac,AurUpstairs_Present,"Hopefully,[p/] I could live up to his expectations.",但愿如此吧，[p/]我不能辜负他的期望。
 line:0fdfb51,AurUpstairs_Present,Player: Back,
 line:087d2be,AurUpstairs_Present,Player: Default,
-line:05729f2,AurUpstairs_Present,"Tyrion: Aster, what can you tell me about this?",
-line:0ada272,AurUpstairs_Present,Aster: My apologies...[p/] I don't think I can help you with that.,
-line:00526b6,AurUpstairs_Check,"Tyrion: Okay, I think that answers all of my questions.[p/] Thank you, Aster.",
-line:0a983ab,AurUpstairs_Check,Aster: Of course![p/][s/] I'm just happy to help.,
-line:058c0b3,AurUpstairs_Check,"I was hoping that the Crown Prince had spotted the thief,[p/] but all he saw was some hairless rodent.",
-line:0e2e707,AurUpstairs_Check,I would just need to look into my other leads and hope that would lead somewhere.,
-line:042661e,AurUpstairs_Check,"Either way,[p/] it was time to MOVE somewhere else.",
+line:05729f2,AurUpstairs_Present,"Tyrion: Aster, what can you tell me about this?",Tyrion: 阿斯特，关于这个你能告诉我什么吗？
+line:0ada272,AurUpstairs_Present,Aster: My apologies...[p/] I don't think I can help you with that.,Aster: 容我致歉……[p/]我不认为能在这个问题上帮到你。
+line:00526b6,AurUpstairs_Check,"Tyrion: Okay, I think that answers all of my questions.[p/] Thank you, Aster.",Tyrion: 好的，我想这已经解答了我所有的问题。[p/]谢谢你，阿斯特。
+line:0a983ab,AurUpstairs_Check,Aster: Of course![p/][s/] I'm just happy to help.,Aster: 没问题！[p/][s/]能帮上你我很高兴。
+line:058c0b3,AurUpstairs_Check,"I was hoping that the Crown Prince had spotted the thief,[p/] but all he saw was some hairless rodent.",我本希望王储殿下有看到那个窃贼，[p/]但他只看到了某种无毛的鼠类。
+line:0e2e707,AurUpstairs_Check,I would just need to look into my other leads and hope that would lead somewhere.,我现在得查看一下其他线索，并希望它们能够通过它们取得进展。
+line:042661e,AurUpstairs_Check,"Either way,[p/] it was time to MOVE somewhere else.",无论是哪一条，[p/]都到了向其他地方<size=1.5em>移动</size>的时候了。
 line:03d1655,Cafe1_Examine,Player: Card,
-line:0b86f84,Cafe1_Examine,Tyrion: It's some kind of tarot card.,
-line:0e6c0ac,Cafe1_Examine,Mosourika: A customer must have accidentally left it here.,
-line:00fd739,Cafe1_Examine,"Tyrion: ""The Magician...""",
-line:0d48bcd,Cafe1_Examine,Mosourika: The Magician is associated with the power of transformation and manifestation.,
-line:0b061f0,Cafe1_Examine,"Mosourika: And it's in its upright position,[p/] which is associated with the resourcefulness to harness one's inner potential.",
-line:04405d2,Cafe1_Examine,"Mosourika: It often symbolizes a person who possesses great skill,[p/] creativity,[p/] and mastery over their craft.",
-line:04068ca,Cafe1_Examine,Tyrion: …I never knew you knew about these things.,
-line:04dd653,Cafe1_Examine,"Mosourika: Ha![p/][s/] Of course, I do!",
-line:0d55ced,Cafe1_Examine,Mosourika: The power of the magician is the power to shape reality through the power of will!,
-line:03d1cbc,Cafe1_Examine,Mosourika: Doesn't [i]that[/i] remind you of someone?,
-line:0856835,Cafe1_Examine,Tyrion: No...[p/] Not really.,
-line:0d6b292,Cafe1_Examine,Mosourika: Hey!,
+line:0b86f84,Cafe1_Examine,Tyrion: It's some kind of tarot card.,Tyrion: 这是某种塔罗牌。
+line:0e6c0ac,Cafe1_Examine,Mosourika: A customer must have accidentally left it here.,Mosourika: 应该是某个顾客不经意留在这的。
+line:00fd739,Cafe1_Examine,"Tyrion: ""The Magician...""",Tyrion: “魔术师……”
+line:0d48bcd,Cafe1_Examine,Mosourika: The Magician is associated with the power of transformation and manifestation.,Mosourika: 魔术师与转变和显现的力量相关联。
+line:0b061f0,Cafe1_Examine,"Mosourika: And it's in its upright position,[p/] which is associated with the resourcefulness to harness one's inner potential.",Mosourika: 如果是正位的话，[p/]意味着一个人的内在具有发展的潜力。
+line:04405d2,Cafe1_Examine,"Mosourika: It often symbolizes a person who possesses great skill,[p/] creativity,[p/] and mastery over their craft.",Mosourika: 这张牌通常代表技艺精湛、[p/]创造力出色的人。
+line:04068ca,Cafe1_Examine,Tyrion: …I never knew you knew about these things.,Tyrion:  ……没想到你还懂塔罗牌。
+line:04dd653,Cafe1_Examine,"Mosourika: Ha![p/][s/] Of course, I do!",Mosourika: 哈！[p/][s/]我当然懂！
+line:0d55ced,Cafe1_Examine,Mosourika: The power of the magician is the power to shape reality through the power of will!,Mosourika: 魔术师的力量是通过意志力来改变现实事物！
+line:03d1cbc,Cafe1_Examine,Mosourika: Doesn't [i]that[/i] remind you of someone?,Mosourika: 你不觉得<u>这点</u>让你想到某人吗？
+line:0856835,Cafe1_Examine,Tyrion: No...[p/] Not really.,Tyrion: 没……[p/]没想到谁。
+line:0d6b292,Cafe1_Examine,Mosourika: Hey!,Mosourika: 嘿！
 line:08398fb,Cafe1_Examine,Player: Barrels,
-line:0038e2a,Cafe1_Examine,Tyrion: There are some barrels stacked in the corner here.,
-line:0df9651,Cafe1_Examine,Celeste: I wonder what's inside.,
-line:02d765f,Cafe1_Examine,"Celeste: Wait...[p/] Rika.[p/] You wouldn't happen to have Lotus Juice, do you?",
-line:0ddd393,Cafe1_Examine,"Mosourika: ""Lotus Juice""? [p/] What's that?",
-line:0c1ec1d,Cafe1_Examine,Celeste: [i]*sigh*[/i][p/] Never mind.,
-line:071ba09,Cafe1_Examine,"Tyrion: What happened to the Lotus Juice that you ""received"" from Miriam?",
-line:01f5a72,Cafe1_Examine,Celeste: I drank all of it…,
-line:07ae97b,Cafe1_Examine,Already...?[p/] She'd only had it for a month.,
+line:0038e2a,Cafe1_Examine,Tyrion: There are some barrels stacked in the corner here.,Tyrion: 角落里有些木桶叠在一起。
+line:0df9651,Cafe1_Examine,Celeste: I wonder what's inside.,Celeste: 我很好奇里面是什么。
+line:02d765f,Cafe1_Examine,"Celeste: Wait...[p/] Rika.[p/] You wouldn't happen to have Lotus Juice, do you?",Celeste: 等等……[p/]里卡，[p/]你该不会有莲之水吧？
+line:0ddd393,Cafe1_Examine,"Mosourika: ""Lotus Juice""? [p/] What's that?",Mosourika: “莲之水”？[p/]那是什么东西？
+line:0c1ec1d,Cafe1_Examine,Celeste: [i]*sigh*[/i][p/] Never mind.,Celeste: [i]*叹气*[/i][p/]当我没说。
+line:071ba09,Cafe1_Examine,"Tyrion: What happened to the Lotus Juice that you ""received"" from Miriam?",Tyrion: 你从米莉亚姆那“收到”的莲之水怎么样了？
+line:01f5a72,Cafe1_Examine,Celeste: I drank all of it…,Celeste: 我全部喝掉了……
+line:07ae97b,Cafe1_Examine,Already...?[p/] She'd only had it for a month.,就喝完了……？[p/]她上个月才获赠的啊。
 line:03dad09,Cafe1_Examine,Player: Table,
-line:0537689,Cafe1_Examine,Tyrion: This table looks [i]really[/i] well-made.,
-line:0e7eb33,Cafe1_Examine,Mosourika: You like it?[p/] I commissioned a local carpenter to have my tables custom-made.,
-line:0e5d19c,Cafe1_Examine,Celeste: It was probably worth it.,
-line:0a8def2,Cafe1_Examine,Celeste: They fit with the rustic vibe you've got going on here.,
+line:0537689,Cafe1_Examine,Tyrion: This table looks [i]really[/i] well-made.,Tyrion: 这张桌子做得<u>很</u>不错。
+line:0e7eb33,Cafe1_Examine,Mosourika: You like it?[p/] I commissioned a local carpenter to have my tables custom-made.,Mosourika: 你喜欢它吗？[p/]我从当地的一个木匠那里订制了这张桌子。
+line:0e5d19c,Cafe1_Examine,Celeste: It was probably worth it.,Celeste: 还是物有所值的。
+line:0a8def2,Cafe1_Examine,Celeste: They fit with the rustic vibe you've got going on here.,Celeste: 它们与这里质朴的氛围很搭。
 line:0ac683d,Cafe1_Examine,Player: Plant,
-line:0c63fdb,Cafe1_Examine,Rika seemed to have decorated the entire café with several plants and flowers.,
-line:03c45a6,Cafe1_Examine,The green added a fresh and earthy look to the restaurant.,
+line:0c63fdb,Cafe1_Examine,Rika seemed to have decorated the entire café with several plants and flowers.,里卡在咖啡馆里各处都装饰了花花草草。
+line:03c45a6,Cafe1_Examine,The green added a fresh and earthy look to the restaurant.,绿意为这家餐厅增加了清新而质朴的氛围。
 line:07a9484,Cafe1_Examine,Player: Lantern,
-line:0e4b85d,Cafe1_Examine,There were artificery lights hanging from the ceiling.,
-line:09ff770,Cafe1_Examine,Tyrion: Your business must be doing pretty well if you can afford artificery like this.,
-line:0b97bd8,Cafe1_Examine,Mosourika: That's just one of the benefits I get from working with the Dracogen Trading Company.,
-line:04924ba,Cafe1_Examine,Mosourika: Most of the merchants connect to the artificery ley line.,
+line:0e4b85d,Cafe1_Examine,There were artificery lights hanging from the ceiling.,天花板上吊下奥术能源驱动的灯具。
+line:09ff770,Cafe1_Examine,Tyrion: Your business must be doing pretty well if you can afford artificery like this.,Tyrion: 能用得起这样的奥术灯，你的生意看来挺不错的。
+line:0b97bd8,Cafe1_Examine,Mosourika: That's just one of the benefits I get from working with the Dracogen Trading Company.,Mosourika: 这只是我和德拉科根贸易公司合作的好处之一。
+line:04924ba,Cafe1_Examine,Mosourika: Most of the merchants connect to the artificery ley line.,Mosourika: 绝大多数商人都接上了奥术地脉。
 line:07e0df0,Cafe1_Examine,Player: Shelf,
-line:055bd0d,Cafe1_Examine,"There was a shelf full of drinks,[p/] mugs,[p/] and sugar behind the restaurant counter.",
-line:0111792,Cafe1_Examine,It must've been where Rika's employees prepared coffee to be served.,
+line:055bd0d,Cafe1_Examine,"There was a shelf full of drinks,[p/] mugs,[p/] and sugar behind the restaurant counter.",在餐厅柜台后面有一个架子，上面放满了饮料、[p/]杯子、[p/]奶油[p/]和糖。
+line:0111792,Cafe1_Examine,It must've been where Rika's employees prepared coffee to be served.,这里一定是里卡的员工准备咖啡的地方。
 line:0170967,Cafe1_Examine,Player: Back,
-line:0aca0d7,Cafe1_Talk,Player: The Court Case,
+line:0aca0d7,Cafe1_Talk,Player: The Court Case,Player: 庭审的情况
 line:000be57,Cafe1_Talk,Player: What did you see?,Player: 你看到了什么？
-line:0c81419,Cafe1_Talk,"Tyrion: Alright,[p/] let's get to work.",
-line:04ae440,Cafe1_Talk,Tyrion: You said that you saw someone cast a spell that pushed Justin into the vats.,
-line:0df3f67,Cafe1_Talk,Tyrion: Can you tell me exactly what you saw?[p/] I need every detail you can remember.,
-line:05c72b5,Cafe1_Talk,"Mosourika: It was kind of hard to see.[p/] I was on the ground level,[p/] and he was up on the catwalk.",
-line:05fae76,Cafe1_Talk,Mosourika: I think I saw him yelling at someone from up there.,
-line:02748be,Cafe1_Talk,Mosourika: ...That's when I saw a flash of light.,
-line:00439c3,Cafe1_Talk,Mosourika: There was a short burst of magical energy that ripped the guardrail apart.,
-line:0539bc7,Cafe1_Talk,Mosourika: Justin happened to be standing right next to the top of a nearby vat.[p/] He fell right into it.,
-line:0ce0c20,Cafe1_Talk,"Mosourika: I told one of the workers what I saw,[p/] and they went to try to pull him out.",
-line:0d7b056,Cafe1_Talk,Mosourika: But I guess it was too late.[p/] Those chemicals must have been really toxic.,
-line:0cbb017,Cafe1_Talk,They weren't just toxic.[p/] They were strong enough to completely melt down his body.,
-line:096d496,Cafe1_Talk,Mosourika: ...There's actually something else.,
-line:0712cfe,Cafe1_Talk,Mosourika: I saw Justin drop something from his hands before he fell into that vat.,
-line:0230bab,Cafe1_Talk,"Mosourika: After they pulled him out,[p/] I tried looking for it and cast [b]Detect Magic[/b].",
-line:0c22cda,Cafe1_Talk,Mosourika: That's when I found [i]this[/i] on the ground below the walkway.,
-line:07ac27b,Cafe1_Talk,Tyrion: A leather strap?,
-line:0934a22,Cafe1_Talk,I looked at the strap more closely.,
-line:027ec06,Cafe1_Talk,"It had a buckle on it,[p/] but nothing to connect it with.",
-line:0eeba31,Cafe1_Talk,":The numerals: ""VI"",[p/] were engraved on it.[p/] I was really confused as to what the purpose of this was.",
-line:00782fd,Cafe1_Talk,Mosourika: I saw a blue glow when I looked at it.,
-line:0979d94,Cafe1_Talk,Celeste: It was cyan?[p/] That's the color of [b]conjuration[b/] traces.,
-line:07a28ef,Cafe1_Talk,"Mosourika: I tried to give it to the investigators,[p/] but they didn't think it was important.",
-line:01190ac,Cafe1_Talk,"I guess that made sense.[p/] They were considering this an accident,[p/] not a murder.",
-line:05ac868,Cafe1_Talk,Player: Why were you there?,
-line:058645e,Cafe1_Talk,Tyrion: Why [i]were[/i] you at the refinery anyway?,
-line:0e570c5,Cafe1_Talk,"Tyrion: You don't work there, do you?",
-line:01d36b9,Cafe1_Talk,Mosourika: ...I was delivering Justin's breakfast.,
-line:03a7440,Cafe1_Talk,"Mosourika: He always skips it.[p/] It really annoys me,[p/] so I started bringing some of my pastries over every morning.",
-line:085803a,Cafe1_Talk,Celeste: What?[p/] Breakfast is the most important meal of the day!,
-line:089d944,Cafe1_Talk,Tyrion: ...So important that you ate it multiple times yesterday.,
-line:01c5ecd,Cafe1_Talk,"Celeste: I have a high metabolism, okay?",
-line:0c6ca2c,Cafe1_Talk,"Tyrion: ...Anyways,[p/] isn't it kind of dangerous to let a civilian walk around a factory like that?",
-line:0154b46,Cafe1_Talk,Mosourika: Ha![p/][s/] I am no ordinary civilian!,
-line:070fbb1,Cafe1_Talk,Mosourika: No one there would dare to bar my visit to the refinery.,
-line:0574658,Cafe1_Talk,Tyrion: ...Which means that you don't usually visit the Refinery.,
-line:030053a,Cafe1_Talk,"Mosourika: ...Yeah,[p/] I usually just meet Justin in the freight area.",
-line:05e6da1,Cafe1_Talk,"Mosourika: But he didn't show up that day,[p/] so I got worried and went looking around.",
-line:0f703d4,Cafe1_Talk,Mosourika: The people who work there recognized me and let me in.,
+line:0c81419,Cafe1_Talk,"Tyrion: Alright,[p/] let's get to work.",Tyrion: 好吧， [p/]该谈正事了。
+line:04ae440,Cafe1_Talk,Tyrion: You said that you saw someone cast a spell that pushed Justin into the vats.,Tyrion: 你有说过，你看到了有人施放法术，把贾斯汀推进了精炼容器中。
+line:0df3f67,Cafe1_Talk,Tyrion: Can you tell me exactly what you saw?[p/] I need every detail you can remember.,Tyrion: 能告诉我你到底看到了什么吗？[p/]我需要你能记起来的每一个细节。
+line:05c72b5,Cafe1_Talk,"Mosourika: It was kind of hard to see.[p/] I was on the ground level,[p/] and he was up on the catwalk.",Mosourika: 其实很难看得清楚，[p/]毕竟我是站在地上，[p/]而他是在高高的步道上。
+line:05fae76,Cafe1_Talk,Mosourika: I think I saw him yelling at someone from up there.,Mosourika: 我应该有看到他在上面向某个人大吼大叫。
+line:02748be,Cafe1_Talk,Mosourika: ...That's when I saw a flash of light.,Mosourika: ……就在那时我看到一道闪光。
+line:00439c3,Cafe1_Talk,Mosourika: There was a short burst of magical energy that ripped the guardrail apart.,Mosourika: 当时有一股魔力短暂爆发，将护栏撕碎。
+line:0539bc7,Cafe1_Talk,Mosourika: Justin happened to be standing right next to the top of a nearby vat.[p/] He fell right into it.,Mosourika: 贾斯汀刚好就站在一尊精炼容器的上空附近。[p/]他就那么掉落进去。
+line:0ce0c20,Cafe1_Talk,"Mosourika: I told one of the workers what I saw,[p/] and they went to try to pull him out.",Mosourika: 我向一名工人告诉了看到的情况，[p/]他们赶过去想将他救出来。
+line:0d7b056,Cafe1_Talk,Mosourika: But I guess it was too late.[p/] Those chemicals must have been really toxic.,Mosourika: 但我想已经太晚了。[p/]那里面的化学物质肯定毒性很强。
+line:0cbb017,Cafe1_Talk,They weren't just toxic.[p/] They were strong enough to completely melt down his body.,不只是有毒。[p/]它强力到足以融化他的躯体。
+line:096d496,Cafe1_Talk,Mosourika: ...There's actually something else.,Mosourika: ……还有一点。
+line:0712cfe,Cafe1_Talk,Mosourika: I saw Justin drop something from his hands before he fell into that vat.,Mosourika: 我看到贾斯汀掉下去前，他把什么东西从手里丢了出来。
+line:0230bab,Cafe1_Talk,"Mosourika: After they pulled him out,[p/] I tried looking for it and cast [b]Detect Magic[/b].",Mosourika: 工人们将他的遗体打捞出来后，[p/]我为了寻找那个东西施放了[b]法术探测[/b]。
+line:0c22cda,Cafe1_Talk,Mosourika: That's when I found [i]this[/i] on the ground below the walkway.,Mosourika: 然后我就在步道下方的地面发现了[i]这个[/i]。
+line:07ac27b,Cafe1_Talk,Tyrion: A leather strap?,Tyrion: 是一条皮带？
+line:0934a22,Cafe1_Talk,I looked at the strap more closely.,我仔细观察那条皮带。
+line:027ec06,Cafe1_Talk,"It had a buckle on it,[p/] but nothing to connect it with.",上面有个搭扣，[p/]但并没有连接什么东西。
+line:0eeba31,Cafe1_Talk,":The numerals: ""VI"",[p/] were engraved on it.[p/] I was really confused as to what the purpose of this was.",:上面刻有“VI”的字样。[p/]我对这个东西的用法感到非常疑惑。
+line:00782fd,Cafe1_Talk,Mosourika: I saw a blue glow when I looked at it.,Mosourika: 我看到这个东西的时候上面有一层蓝光。
+line:0979d94,Cafe1_Talk,Celeste: It was cyan?[p/] That's the color of [b]conjuration[b/] traces.,Celeste: 是青色吗？[p/]那是[b]召唤术[b/]的痕迹啊。
+line:07a28ef,Cafe1_Talk,"Mosourika: I tried to give it to the investigators,[p/] but they didn't think it was important.",Mosourika: 我有试过将它提交调查，[p/]但他们认为这个东西不重要。
+line:01190ac,Cafe1_Talk,"I guess that made sense.[p/] They were considering this an accident,[p/] not a murder.",也有道理。[p/]他们大概只认为这起案件是个意外，[p/]而非谋杀案。
+line:05ac868,Cafe1_Talk,Player: Why were you there?,Player: 你为什么在场？
+line:058645e,Cafe1_Talk,Tyrion: Why [i]were[/i] you at the refinery anyway?,Tyrion: 话说回来，你为什么[i]在[/i]精炼厂呢？
+line:0e570c5,Cafe1_Talk,"Tyrion: You don't work there, do you?",Tyrion: 你又不在那里工作，对吧？
+line:01d36b9,Cafe1_Talk,Mosourika: ...I was delivering Justin's breakfast.,Mosourika: ……我是去给贾斯汀送早餐的。
+line:03a7440,Cafe1_Talk,"Mosourika: He always skips it.[p/] It really annoys me,[p/] so I started bringing some of my pastries over every morning.",Mosourika: 他老是不吃早餐。[p/]我因此很生气，[p/]所以开始每天早上带点自己家的糕点过去。
+line:085803a,Cafe1_Talk,Celeste: What?[p/] Breakfast is the most important meal of the day!,Celeste: 怎么能这样？[p/]早餐可是一日里最重要的那一餐啊！
+line:089d944,Cafe1_Talk,Tyrion: ...So important that you ate it multiple times yesterday.,Tyrion: ……重要到你昨天吃了好几顿。
+line:01c5ecd,Cafe1_Talk,"Celeste: I have a high metabolism, okay?",Celeste: 我的代谢量很大，好吧？
+line:0c6ca2c,Cafe1_Talk,"Tyrion: ...Anyways,[p/] isn't it kind of dangerous to let a civilian walk around a factory like that?",Tyrion: ……扯远了，[p/]但让一个普通人在工厂里随意走动不是有点危险吗？
+line:0154b46,Cafe1_Talk,Mosourika: Ha![p/][s/] I am no ordinary civilian!,Mosourika: 哈！[p/][s/]我才不是什么普通人！
+line:070fbb1,Cafe1_Talk,Mosourika: No one there would dare to bar my visit to the refinery.,Mosourika: 没有人敢禁止我访问精炼厂。
+line:0574658,Cafe1_Talk,Tyrion: ...Which means that you don't usually visit the Refinery.,Tyrion: ……也就是说你平常并不会到精炼厂去。
+line:030053a,Cafe1_Talk,"Mosourika: ...Yeah,[p/] I usually just meet Justin in the freight area.",Mosourika: ……是的，[p/]我平常是在货运区和贾斯汀碰头。
+line:05e6da1,Cafe1_Talk,"Mosourika: But he didn't show up that day,[p/] so I got worried and went looking around.",Mosourika: 但那天他不在，[p/]所以我有点担心，到处去找他。
+line:0f703d4,Cafe1_Talk,Mosourika: The people who work there recognized me and let me in.,Mosourika: 在那里的工人认出了我，让我进去了。
 line:0883cbc,Cafe1_Talk,Mosourika: ...That's when I saw him fall into the vat.,
 line:0be88dd,Cafe1_Talk,Player: The Spell,
 line:0a4a52f,Cafe1_Talk,Tyrion: Did you recognize the spell Justin was hit with?,
@@ -4222,7 +4222,7 @@ line:07fbad2,Manor1_Check,Aster: ...Is there a problem?,
 line:0043805,Manor1_Check,"Nobleman: N-[p/][s/]No...[p/] Of course, not.",
 line:0c10ce0,Manor1_Check,"Nobleman: Please come in, Mr. Cuthbert.",
 line:0aa9a77,Manor1_Check,Tyrion: Um...[p/] Thank you!,
-line:0426c32,Manor1_Check,Aster: Of course![p/][s/] I'm just happy to help.,
+line:0426c32,Manor1_Check,Aster: Of course![p/][s/] I'm just happy to help.,Aster: 没问题！[p/][s/]能帮上你我很高兴。
 line:084c2c6,Manor1_Check,"Aster: Know that I'm wishing you luck in the upcoming trial, Mr. Cuthbert.",
 line:033340f,Manor1_Check,Tyrion: R-[p/][s/]Right...,
 line:0dfd86b,Manor1_Check,"Without another word,[p/] the mysterious man started to walk away from the manor.",
