@@ -57,7 +57,7 @@ line:0b59773,AurUpstairs_Talk,Player: The Accident,Player: 事故
 line:0d5852e,AurUpstairs_Talk,Tyrion: Did you see the moment that Justin fell in?[p/] Was he pushed off the catwalk by a spell?,Tyrion: 你当时有看到贾斯汀掉下去的瞬间吗？[p/]他是被某个法术推下步道的？
 line:09d1a40,AurUpstairs_Talk,"Aster: I'm not quite sure,[p/] but I definitely saw something magical.",Aster: 我并不确定，[p/]但我肯定看到了某种魔法的效应。
 line:0805939,AurUpstairs_Talk,Aster: There was a flash of magical light centered on his position.,Aster: 正在他所在的位置发出了一道魔力的闪光。
-line:097242c,AurUpstairs_Talk,Aster: The magical energy took the shape of a prism before blowing apart the guardrail.,Aster: 那魔力在吹飞护栏前呈现棱镜一样的形状。
+line:097242c,AurUpstairs_Talk,Aster: The magical energy took the shape of a prism before blowing apart the guardrail.,Aster: 那魔力在吹飞护栏前呈现棱柱一样的形状。
 line:0778670,AurUpstairs_Talk,Aster: Justin lost his balance afterward and fell into the vat.,Aster: 贾斯汀失去了平衡，然后掉进了容器。
 line:05643c9,AurUpstairs_Talk,Tyrion: Did you see what the spell looked like?[p/] Do you think you could identify it for us?,Tyrion: 你有看到那个法术具体是什么样子吗？[p/]能否辨认出具体是哪一种？
 line:0ff3714,AurUpstairs_Talk,Aster: The problem is that I'm almost sure that it [i]wasn't[/i] a spell.,Aster: 问题是，我几乎可以肯定，那[i]并非[/i]法术。
@@ -323,35 +323,35 @@ line:0574658,Cafe1_Talk,Tyrion: ...Which means that you don't usually visit the 
 line:030053a,Cafe1_Talk,"Mosourika: ...Yeah,[p/] I usually just meet Justin in the freight area.",Mosourika: ……是的，[p/]我平常是在货运区和贾斯汀碰头。
 line:05e6da1,Cafe1_Talk,"Mosourika: But he didn't show up that day,[p/] so I got worried and went looking around.",Mosourika: 但那天他不在，[p/]所以我有点担心，到处去找他。
 line:0f703d4,Cafe1_Talk,Mosourika: The people who work there recognized me and let me in.,Mosourika: 在那里的工人认出了我，让我进去了。
-line:0883cbc,Cafe1_Talk,Mosourika: ...That's when I saw him fall into the vat.,
+line:0883cbc,Cafe1_Talk,Mosourika: ...That's when I saw him fall into the vat.,Mosourika: ……然后我就目睹了他坠入容器的那一幕。
 line:0be88dd,Cafe1_Talk,Player: The Spell,
-line:0a4a52f,Cafe1_Talk,Tyrion: Did you recognize the spell Justin was hit with?,
-line:058cc76,Cafe1_Talk,"Mosourika: I [i]am[/i] a mage,[p/] but I've never seen a spell like that before.",
-line:0f833ba,Cafe1_Talk,"Mosourika: It happened instantly,[p/] and it didn't look like an explosion or anything.",
-line:0649550,Cafe1_Talk,Mosourika: It kind of looked more like...[p/] an expanding prism.,
-line:0aee46d,Cafe1_Talk,Celeste: ...A prism?,
-line:04de3c6,Cafe1_Talk,Tyrion: Does that match with any spells that [i]you're[/i] familiar with?,
-line:02eca72,Cafe1_Talk,"Celeste: I specialize in [b]transmutation[/b] spells,[p/] but any of the spells I know that could create a cube wouldn't expand instantly like that.",
-line:096702c,Cafe1_Talk,Tyrion: The problem is that the Inquisition didn't find [i]any[/i] traces of magic on the walkway...,
-line:086f7df,Cafe1_Talk,Tyrion: It couldn't have been an [b]evocation[/b] spell or a [b]transmutation[/b] spell.,
-line:0034b75,Cafe1_Talk,Celeste: I actually wanted to ask you about that.[p/] Why would an explosive [b]evocation[/b] spell leave traces of magic?,
-line:0c272ea,Cafe1_Talk,Celeste: Magical traces are only left on the objects they are targeting.[p/] Something like a [b]fireball[/b] spell isn't technically targeting anything.,
-line:0e92b8b,Cafe1_Talk,"Tyrion: That's correct,[p/] but every [b]evocation[/b] spell produces some kind of residue.",
-line:0284f35,Cafe1_Talk,"Tyrion: In the case of [b]fireball[/b],[p/] its magical traces would be left on whatever it had burned or melted.",
-line:0a51dd9,Cafe1_Talk,"Tyrion: If someone used an [b]evocation[/b] spell powerful enough to rip the guardrail apart,[p/] they would've found traces of [b]evocation[/b] there.",
-line:06920c3,Cafe1_Talk,"Mosourika: Wow,[p/] I never knew how technical these things were.",
-line:04deb2a,Cafe1_Talk,"Tyrion: We're lucky they are.[p/] Otherwise,[p/] I'd have a lot less evidence to work with.",
-line:0395393,Cafe1_Talk,"Mosourika: ...If what you're saying is true,[p/] was I wrong about what I saw?",
-line:08476ff,Cafe1_Talk,Tyrion: I wouldn't say that.,
-line:0040e56,Cafe1_Talk,Tyrion: I've been doing this long enough to know that there's always an explanation for oddities like this.,
+line:0a4a52f,Cafe1_Talk,Tyrion: Did you recognize the spell Justin was hit with?,Tyrion: 你有认出击中贾斯汀的法术是什么吗？
+line:058cc76,Cafe1_Talk,"Mosourika: I [i]am[/i] a mage,[p/] but I've never seen a spell like that before.",Mosourika: 我[i]虽然是[/i]法师，[p/]但也从没见过那样的法术。
+line:0f833ba,Cafe1_Talk,"Mosourika: It happened instantly,[p/] and it didn't look like an explosion or anything.",Mosourika: 它是瞬间发动的，[p/]看起来并不像爆炸或者类似的什么东西。
+line:0649550,Cafe1_Talk,Mosourika: It kind of looked more like...[p/] an expanding prism.,Mosourika: 它看起来更像是……[p/]一个迅速长大的棱柱。
+line:0aee46d,Cafe1_Talk,Celeste: ...A prism?,Celeste: ……棱柱？
+line:04de3c6,Cafe1_Talk,Tyrion: Does that match with any spells that [i]you're[/i] familiar with?,Tyrion: 那有与[i]你[/i]熟悉的法术吻合吗？
+line:02eca72,Cafe1_Talk,"Celeste: I specialize in [b]transmutation[/b] spells,[p/] but any of the spells I know that could create a cube wouldn't expand instantly like that.",Celeste: 我是专精于[b]形变术[/b]的，[p/]但我知道的所有能够创造一个立方体的法术都不会像那样急速膨胀。
+line:096702c,Cafe1_Talk,Tyrion: The problem is that the Inquisition didn't find [i]any[/i] traces of magic on the walkway...,Tyrion: 而且归根结底，问题就是裁判所没有在步道上发现[i]任何[/i]法术痕迹……
+line:086f7df,Cafe1_Talk,Tyrion: It couldn't have been an [b]evocation[/b] spell or a [b]transmutation[/b] spell.,Tyrion: 那既不可能是[b]塑能术[/b] ，也不可能是[b]形变术[/b]。
+line:0034b75,Cafe1_Talk,Celeste: I actually wanted to ask you about that.[p/] Why would an explosive [b]evocation[/b] spell leave traces of magic?,Celeste: 我正好想问你这个。[p/]为什么[b]塑能术[/b]造成爆炸的时候也会留下法术痕迹？
+line:0c272ea,Cafe1_Talk,Celeste: Magical traces are only left on the objects they are targeting.[p/] Something like a [b]fireball[/b] spell isn't technically targeting anything.,Celeste: 法术痕迹只留存在法术的施放对象上。[p/]像[b]火球术[/b]那样的法术实际上不需要任何目标就能施放。
+line:0e92b8b,Cafe1_Talk,"Tyrion: That's correct,[p/] but every [b]evocation[/b] spell produces some kind of residue.",Tyrion: 你说的没错，[p/]但所有[b]塑能术[/b]都会产生一些残留物。
+line:0284f35,Cafe1_Talk,"Tyrion: In the case of [b]fireball[/b],[p/] its magical traces would be left on whatever it had burned or melted.",Tyrion: 以[b]火球术[/b]为例，[p/]它的痕迹会留在法术灼烧或者熔化的东西上。
+line:0a51dd9,Cafe1_Talk,"Tyrion: If someone used an [b]evocation[/b] spell powerful enough to rip the guardrail apart,[p/] they would've found traces of [b]evocation[/b] there.",Tyrion: 如果有人用了足够强劲的[b]塑能术[/b]破坏了护栏，[p/]那个位置就会发现[b]塑能术[/b]的痕迹。
+line:06920c3,Cafe1_Talk,"Mosourika: Wow,[p/] I never knew how technical these things were.",Mosourika: 哇哦，[p/]我还从不知道这里面有这么多门道呢。
+line:04deb2a,Cafe1_Talk,"Tyrion: We're lucky they are.[p/] Otherwise,[p/] I'd have a lot less evidence to work with.",Tyrion: 我们还是挺走运的。[p/]否则，[p/]我就没有那么多证据用以参考了。
+line:0395393,Cafe1_Talk,"Mosourika: ...If what you're saying is true,[p/] was I wrong about what I saw?",Mosourika: ……如果你说的是真的，[p/]那是我看错了吗？
+line:08476ff,Cafe1_Talk,Tyrion: I wouldn't say that.,Tyrion: 我不这么认为。
+line:0040e56,Cafe1_Talk,Tyrion: I've been doing this long enough to know that there's always an explanation for oddities like this.,Tyrion: 我做这行的时间也不短了，知道像这样奇异的现象总是有解释的。
 line:07a3db1,Cafe1_Talk,Player: BACK,
-line:00a1205,Rika1RuneConv,Mosourika: A gem with strange carvings?[p/] Is it cursed?,
-line:0c9c582,Rika1RuneConv,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,
-line:0ce1b8d,Rika1RuneConv,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes.,
-line:04432dc,Rika1RuneConv,Mosourika: ...Really?,
-line:0bb5189,Rika1RuneConv,Mosourika: Do you know where I can get one of those?,
-line:004e5ea,Rika1RuneConv,Tyrion: You have to be an attorney to have one.,
-line:0818950,Rika1RuneConv,Celeste: Tyrion...[p/] People use Runestones for things other than practicing law.,
+line:00a1205,Rika1RuneConv,Mosourika: A gem with strange carvings?[p/] Is it cursed?,Mosourika: 一块刻着奇异纹路的宝石？[p/]上面附有诅咒吗？
+line:0c9c582,Rika1RuneConv,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,Tyrion: 这是个律师符石。[p/]它证明我持证律师的身份。
+line:0ce1b8d,Rika1RuneConv,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes.,Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和案发现场的照片。
+line:04432dc,Rika1RuneConv,Mosourika: ...Really?,Mosourika: ……真的吗？
+line:0bb5189,Rika1RuneConv,Mosourika: Do you know where I can get one of those?,Mosourika: 你知道我在哪里能得到吗？
+line:004e5ea,Rika1RuneConv,Tyrion: You have to be an attorney to have one.,Tyrion: 你得成为律师才能拥有它。
+line:0818950,Rika1RuneConv,Celeste: Tyrion...[p/] People use Runestones for things other than practicing law.,Celeste: 提利昂……[p/]大家可以用符石做很多无关法律的事情。
 line:000314c,Rika1TyrConv,Mosourika: I'm sorry I had to drag you into this.[p/] I didn't know who else to turn to.,
 line:0cbc552,Rika1TyrConv,Tyrion: Don't worry about it.[p/] You've saved me more times than I can count.,
 line:092279f,Rika1TyrConv,Mosourika: Wait...[p/] When did I save you?,
@@ -765,12 +765,12 @@ line:0471ccc,RikaTyrConv,Tyrion: I'm not happy about indicting him.,
 line:0b03b3a,RikaTyrConv,Mosourika: Oh...,
 line:057bcb7,CafeIntro_Present,Player: Runestone,
 line:0c9f7e9,CafeIntro_Present,Mosourika: A gem with a strange carvings?[p/] Is it cursed?,
-line:04d3ec7,CafeIntro_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,
-line:08bdde4,CafeIntro_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes.,
+line:04d3ec7,CafeIntro_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,Tyrion: 这是个律师符石。[p/]它证明我持证律师的身份。
+line:08bdde4,CafeIntro_Present,Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes.,Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和案发现场的照片。
 line:0365378,CafeIntro_Present,Mosourika: ...,
 line:03778c9,CafeIntro_Present,Mosourika: I want one.,
 line:02c6a5a,CafeIntro_Present,Tyrion: You have to be an attorney to receive one.,
-line:0b3a916,CafeIntro_Present,Celeste: Tyrion...[p/] People use Runestones for things other than practicing law.,
+line:0b3a916,CafeIntro_Present,Celeste: Tyrion...[p/] People use Runestones for things other than practicing law.,Celeste: 提利昂……[p/]大家可以用符石做很多无关法律的事情。
 line:0455b5f,CafeIntro_Present,Player: Celeste,
 line:02d5fde,CafeIntro_Present,Player: Tyrion,
 line:0533282,CafeIntro_Present,Player: Mosourika,
@@ -1159,7 +1159,7 @@ line:03d8e4b,PressRika,What did the spell look like?,
 line:05d02b9,PressRika,Tyrion: What did this spell look like?[p/] Any detail might help us identify it.,
 line:05d3846,PressRika,Mosourika: I don't know.[p/] I only saw it for a second.,
 line:0881821,PressRika,Mosourika: It didn't look like an explosion or anything.,
-line:0952acf,PressRika,Mosourika: It kind of looked more like...[p/] an expanding prism.,
+line:0952acf,PressRika,Mosourika: It kind of looked more like...[p/] an expanding prism.,Mosourika: 它看起来更像是……[p/]一个迅速长大的棱柱。
 line:09fcde3,PressRika,AriaC: A prism?,
 line:01c4d53,PressRika,"Mosourika: Yeah, it had really sharp edges like a cube.",
 line:091a009,PressRika,Mosourika: But it was wider than it was tall.,
@@ -4449,7 +4449,7 @@ line:05332d9,TyrHouse_Talk,...Was Justin sneaking past them?[p/] But why would h
 line:031f730,TyrHouse_Talk,Player: BACK,
 line:0443fb1,TyrHouse_Present,Player: Runestone,
 line:00efb18,TyrHouse_Present,Wyatt: ...What's this?,
-line:0844897,TyrHouse_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,
+line:0844897,TyrHouse_Present,Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.,Tyrion: 这是个律师符石。[p/]它证明我持证律师的身份。
 line:01f5b1c,TyrHouse_Present,"Wyatt: Oh,[p/] you're like one of those criminal lawyers.",
 line:0840157,TyrHouse_Present,"Wyatt: W-[p/][s/]Well,[p/] I didn't see nothing, man.",
 line:0f52593,TyrHouse_Present,Wyatt: But I'll take the stand if the Eyetaker needs me to.,

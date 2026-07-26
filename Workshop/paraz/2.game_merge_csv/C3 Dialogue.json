@@ -350,7 +350,7 @@
   {
     "key": "C3 Dialogue.csv::translation::7db7cb2f6d4b7f46",
     "original": "Aster: The magical energy took the shape of a prism before blowing apart the guardrail.",
-    "translation": "Aster: 那魔力在吹飞护栏前呈现棱镜一样的形状。",
+    "translation": "Aster: 那魔力在吹飞护栏前呈现棱柱一样的形状。",
     "context": "{\n  \"id\": \"line:097242c\",\n  \"node\": \"AurUpstairs_Talk\",\n  \"text\": \"Aster: The magical energy took the shape of a prism before blowing apart the guardrail.\"\n}"
   },
   {
@@ -1856,7 +1856,7 @@
   {
     "key": "C3 Dialogue.csv::translation::abcd00f6a2578b22",
     "original": "Mosourika: ...That's when I saw him fall into the vat.",
-    "translation": "",
+    "translation": "Mosourika: ……然后我就目睹了他坠入容器的那一幕。",
     "context": "{\n  \"id\": \"line:0883cbc\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: ...That's when I saw him fall into the vat.\"\n}"
   },
   {
@@ -1868,157 +1868,157 @@
   {
     "key": "C3 Dialogue.csv::translation::5b66115c23fdd84e",
     "original": "Tyrion: Did you recognize the spell Justin was hit with?",
-    "translation": "",
+    "translation": "Tyrion: 你有认出击中贾斯汀的法术是什么吗？",
     "context": "{\n  \"id\": \"line:0a4a52f\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: Did you recognize the spell Justin was hit with?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f0324d773366a8c9",
     "original": "Mosourika: I [i]am[/i] a mage,[p/] but I've never seen a spell like that before.",
-    "translation": "",
+    "translation": "Mosourika: 我[i]虽然是[/i]法师，[p/]但也从没见过那样的法术。",
     "context": "{\n  \"id\": \"line:058cc76\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: I [i]am[/i] a mage,[p/] but I've never seen a spell like that before.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4c9d973cac1f350f",
     "original": "Mosourika: It happened instantly,[p/] and it didn't look like an explosion or anything.",
-    "translation": "",
+    "translation": "Mosourika: 它是瞬间发动的，[p/]看起来并不像爆炸或者类似的什么东西。",
     "context": "{\n  \"id\": \"line:0f833ba\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: It happened instantly,[p/] and it didn't look like an explosion or anything.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ccb9b26914c6a802",
     "original": "Mosourika: It kind of looked more like...[p/] an expanding prism.",
-    "translation": "",
+    "translation": "Mosourika: 它看起来更像是……[p/]一个迅速长大的棱柱。",
     "context": "{\n  \"id\": \"line:0649550\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: It kind of looked more like...[p/] an expanding prism.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::329d2e0457c1a1fc",
     "original": "Celeste: ...A prism?",
-    "translation": "",
+    "translation": "Celeste: ……棱柱？",
     "context": "{\n  \"id\": \"line:0aee46d\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Celeste: ...A prism?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::32d94f33761d5130",
     "original": "Tyrion: Does that match with any spells that [i]you're[/i] familiar with?",
-    "translation": "",
+    "translation": "Tyrion: 那有与[i]你[/i]熟悉的法术吻合吗？",
     "context": "{\n  \"id\": \"line:04de3c6\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: Does that match with any spells that [i]you're[/i] familiar with?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5aeb9c27b34a6ea6",
     "original": "Celeste: I specialize in [b]transmutation[/b] spells,[p/] but any of the spells I know that could create a cube wouldn't expand instantly like that.",
-    "translation": "",
+    "translation": "Celeste: 我是专精于[b]形变术[/b]的，[p/]但我知道的所有能够创造一个立方体的法术都不会像那样急速膨胀。",
     "context": "{\n  \"id\": \"line:02eca72\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Celeste: I specialize in [b]transmutation[/b] spells,[p/] but any of the spells I know that could create a cube wouldn't expand instantly like that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::04eb77008c4791f1",
     "original": "Tyrion: The problem is that the Inquisition didn't find [i]any[/i] traces of magic on the walkway...",
-    "translation": "",
+    "translation": "Tyrion: 而且归根结底，问题就是裁判所没有在步道上发现[i]任何[/i]法术痕迹……",
     "context": "{\n  \"id\": \"line:096702c\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: The problem is that the Inquisition didn't find [i]any[/i] traces of magic on the walkway...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::dfdee33ec142665f",
     "original": "Tyrion: It couldn't have been an [b]evocation[/b] spell or a [b]transmutation[/b] spell.",
-    "translation": "",
+    "translation": "Tyrion: 那既不可能是[b]塑能术[/b] ，也不可能是[b]形变术[/b]。",
     "context": "{\n  \"id\": \"line:086f7df\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: It couldn't have been an [b]evocation[/b] spell or a [b]transmutation[/b] spell.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ad4936a867c9e31b",
     "original": "Celeste: I actually wanted to ask you about that.[p/] Why would an explosive [b]evocation[/b] spell leave traces of magic?",
-    "translation": "",
+    "translation": "Celeste: 我正好想问你这个。[p/]为什么[b]塑能术[/b]造成爆炸的时候也会留下法术痕迹？",
     "context": "{\n  \"id\": \"line:0034b75\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Celeste: I actually wanted to ask you about that.[p/] Why would an explosive [b]evocation[/b] spell leave traces of magic?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2993d40cbdbb31e7",
     "original": "Celeste: Magical traces are only left on the objects they are targeting.[p/] Something like a [b]fireball[/b] spell isn't technically targeting anything.",
-    "translation": "",
+    "translation": "Celeste: 法术痕迹只留存在法术的施放对象上。[p/]像[b]火球术[/b]那样的法术实际上不需要任何目标就能施放。",
     "context": "{\n  \"id\": \"line:0c272ea\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Celeste: Magical traces are only left on the objects they are targeting.[p/] Something like a [b]fireball[/b] spell isn't technically targeting anything.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1a5af8f1924a022d",
     "original": "Tyrion: That's correct,[p/] but every [b]evocation[/b] spell produces some kind of residue.",
-    "translation": "",
+    "translation": "Tyrion: 你说的没错，[p/]但所有[b]塑能术[/b]都会产生一些残留物。",
     "context": "{\n  \"id\": \"line:0e92b8b\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: That's correct,[p/] but every [b]evocation[/b] spell produces some kind of residue.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::51ceffea960523c1",
     "original": "Tyrion: In the case of [b]fireball[/b],[p/] its magical traces would be left on whatever it had burned or melted.",
-    "translation": "",
+    "translation": "Tyrion: 以[b]火球术[/b]为例，[p/]它的痕迹会留在法术灼烧或者熔化的东西上。",
     "context": "{\n  \"id\": \"line:0284f35\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: In the case of [b]fireball[/b],[p/] its magical traces would be left on whatever it had burned or melted.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ef922f2c7f8dbee6",
     "original": "Tyrion: If someone used an [b]evocation[/b] spell powerful enough to rip the guardrail apart,[p/] they would've found traces of [b]evocation[/b] there.",
-    "translation": "",
+    "translation": "Tyrion: 如果有人用了足够强劲的[b]塑能术[/b]破坏了护栏，[p/]那个位置就会发现[b]塑能术[/b]的痕迹。",
     "context": "{\n  \"id\": \"line:0a51dd9\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: If someone used an [b]evocation[/b] spell powerful enough to rip the guardrail apart,[p/] they would've found traces of [b]evocation[/b] there.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f1ae7d6f9b7a5f4f",
     "original": "Mosourika: Wow,[p/] I never knew how technical these things were.",
-    "translation": "",
+    "translation": "Mosourika: 哇哦，[p/]我还从不知道这里面有这么多门道呢。",
     "context": "{\n  \"id\": \"line:06920c3\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: Wow,[p/] I never knew how technical these things were.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::498ee45d2c92765b",
     "original": "Tyrion: We're lucky they are.[p/] Otherwise,[p/] I'd have a lot less evidence to work with.",
-    "translation": "",
+    "translation": "Tyrion: 我们还是挺走运的。[p/]否则，[p/]我就没有那么多证据用以参考了。",
     "context": "{\n  \"id\": \"line:04deb2a\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: We're lucky they are.[p/] Otherwise,[p/] I'd have a lot less evidence to work with.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b481588373b73f4b",
     "original": "Mosourika: ...If what you're saying is true,[p/] was I wrong about what I saw?",
-    "translation": "",
+    "translation": "Mosourika: ……如果你说的是真的，[p/]那是我看错了吗？",
     "context": "{\n  \"id\": \"line:0395393\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Mosourika: ...If what you're saying is true,[p/] was I wrong about what I saw?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::79aa82b2a9687b8a",
     "original": "Tyrion: I wouldn't say that.",
-    "translation": "",
+    "translation": "Tyrion: 我不这么认为。",
     "context": "{\n  \"id\": \"line:08476ff\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: I wouldn't say that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::349970ffff4e3101",
     "original": "Tyrion: I've been doing this long enough to know that there's always an explanation for oddities like this.",
-    "translation": "",
+    "translation": "Tyrion: 我做这行的时间也不短了，知道像这样奇异的现象总是有解释的。",
     "context": "{\n  \"id\": \"line:0040e56\",\n  \"node\": \"Cafe1_Talk\",\n  \"text\": \"Tyrion: I've been doing this long enough to know that there's always an explanation for oddities like this.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::63b707020cf3cc13",
     "original": "Mosourika: A gem with strange carvings?[p/] Is it cursed?",
-    "translation": "",
+    "translation": "Mosourika: 一块刻着奇异纹路的宝石？[p/]上面附有诅咒吗？",
     "context": "{\n  \"id\": \"line:00a1205\",\n  \"node\": \"Rika1RuneConv\",\n  \"text\": \"Mosourika: A gem with strange carvings?[p/] Is it cursed?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2db7edfa26043f5c",
     "original": "Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.",
-    "translation": "",
+    "translation": "Tyrion: 这是个律师符石。[p/]它证明我持证律师的身份。",
     "context": "{\n  \"id\": \"line:0c9c582\",\n  \"node\": \"Rika1RuneConv\",\n  \"text\": \"Tyrion: It’s an Attorney’s Runestone.[p/] It proves that I’m a certified attorney.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bae4fa313c42a40f",
     "original": "Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes.",
-    "translation": "",
+    "translation": "Tyrion: 这个里面适配了奥术能源，[p/][s/]我就能用它拍下证据和案发现场的照片。",
     "context": "{\n  \"id\": \"line:0ce1b8d\",\n  \"node\": \"Rika1RuneConv\",\n  \"text\": \"Tyrion: It’s fitted with artificery.[p/][s/] I can use it to take pictures of evidence and crime scenes.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cbf07c24204a33e2",
     "original": "Mosourika: ...Really?",
-    "translation": "",
+    "translation": "Mosourika: ……真的吗？",
     "context": "{\n  \"id\": \"line:04432dc\",\n  \"node\": \"Rika1RuneConv\",\n  \"text\": \"Mosourika: ...Really?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::abd67ae9532d123c",
     "original": "Mosourika: Do you know where I can get one of those?",
-    "translation": "",
+    "translation": "Mosourika: 你知道我在哪里能得到吗？",
     "context": "{\n  \"id\": \"line:0bb5189\",\n  \"node\": \"Rika1RuneConv\",\n  \"text\": \"Mosourika: Do you know where I can get one of those?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6c401fe7a849b297",
     "original": "Tyrion: You have to be an attorney to have one.",
-    "translation": "",
+    "translation": "Tyrion: 你得成为律师才能拥有它。",
     "context": "{\n  \"id\": \"line:004e5ea\",\n  \"node\": \"Rika1RuneConv\",\n  \"text\": \"Tyrion: You have to be an attorney to have one.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5d8727751fd31904",
     "original": "Celeste: Tyrion...[p/] People use Runestones for things other than practicing law.",
-    "translation": "",
+    "translation": "Celeste: 提利昂……[p/]大家可以用符石做很多无关法律的事情。",
     "context": "{\n  \"id\": \"line:0818950\",\n  \"node\": \"Rika1RuneConv\",\n  \"text\": \"Celeste: Tyrion...[p/] People use Runestones for things other than practicing law.\"\n}"
   },
   {
