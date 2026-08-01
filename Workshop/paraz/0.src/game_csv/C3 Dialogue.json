@@ -3516,92 +3516,92 @@
   {
     "key": "C3 Dialogue.csv::translation::7d3f7f8dc3fa0c43",
     "original": "Mosourika: A lot of people turned to crime to survive.[p/] So a bunch of us at the orphanage decided we might as well ride the wave.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 许多人为了谋生只能走上犯罪道路，[p/]而我们这一帮子孤儿院的同道也决定顺应潮流。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c1678b\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: A lot of people turned to crime to survive.[p/] So a bunch of us at the orphanage decided we might as well ride the wave.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2d6b8bfa482eca87",
     "original": "Tyrion: You started robbing von Sanctus's ships.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你们就开始抢劫冯·桑克图斯家的货船。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f82561\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Tyrion: You started robbing von Sanctus's ships.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::74ec7851fc68781d",
     "original": "Mosourika: Honestly,[p/] it was all Justin.[p/] I was just the distraction.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 老实说，[p/]基本上是贾斯汀干的。[p/]我只是进行干扰。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07cd122\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: Honestly,[p/] it was all Justin.[p/] I was just the distraction.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fee6701efc2d2c0f",
     "original": "Mosourika: With some help from the other orphans,[p/] I'd use my [b]evocation[/b] magic and put on an act to spook the guards.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 在其他孤儿的帮助下，[p/]我使用[b]塑能术[/b]惊扰守卫。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:066827f\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: With some help from the other orphans,[p/] I'd use my [b]evocation[/b] magic and put on an act to spook the guards.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::95de0ffe6d36033a",
     "original": "Mosourika: While they were chasing us around,[p/] Justin would slip onto the merchant ships to take what we needed.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 当他们追击我们的时候，[p/]贾斯汀就会潜入船舱，取走我们需要的东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d821fb\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: While they were chasing us around,[p/] Justin would slip onto the merchant ships to take what we needed.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cfb4befd078aa7ae",
     "original": "Mosourika: At first,[p/] we only took the food and clothes we needed to survive.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 起初，[p/]我们只拿走生存需要的衣食。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03baa42\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: At first,[p/] we only took the food and clothes we needed to survive.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ef70d46da7694905",
     "original": "Mosourika: But we realized we could actually make a lot of gold by stealing von Sanctus's goods and selling them on the black market.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 后来我们意识到可以偷走冯·桑克图斯的货物，在黑市上出手来赚很多钱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0125a72\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: But we realized we could actually make a lot of gold by stealing von Sanctus's goods and selling them on the black market.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::681f5890fdb53003",
     "original": "Mosourika: Justin had a real talent for breaking into the more guarded ships.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 贾斯汀在潜入那些被看守的货船方面颇具天赋。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:005c011\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: Justin had a real talent for breaking into the more guarded ships.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6ab13483d815a4fd",
     "original": "Mosourika: He'd learned a lot about artificery from some of the books we stole,[p/] and he learned how to bypass von Sanctus's security.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 他在我们偷来的书籍里学会了很多奥术装置的事情，[p/]也学会了如何绕过冯·桑克图斯的安保系统。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0251dae\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: He'd learned a lot about artificery from some of the books we stole,[p/] and he learned how to bypass von Sanctus's security.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8e14098433515f94",
     "original": "Mosourika: He'd slip in and out of the ships without being seen or triggering any alarms.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 他出入船只，却能避免触发任何警报或者监视。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:056a6d1\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: He'd slip in and out of the ships without being seen or triggering any alarms.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4184fdda6bc9dda6",
     "original": "Mosourika: They called him the Mistweaving Phantom.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 于是他才被称之为“织雾魅影”",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07aae68\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: They called him the Mistweaving Phantom.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e04337e43e8dc254",
     "original": "Tyrion: ...Did [i]they[/i] call him that or just you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……是[i]他们[/i]这么称呼他，还是你？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d41ea5\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Tyrion: ...Did [i]they[/i] call him that or just you?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6aa986a92285350d",
     "original": "Mosourika: Hey,[p/] the titles I come up with are catchy.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 嘿，[p/]我创作的那些头衔是很受欢迎的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a46cc2\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: Hey,[p/] the titles I come up with are catchy.\"\n}"
   },
   {
