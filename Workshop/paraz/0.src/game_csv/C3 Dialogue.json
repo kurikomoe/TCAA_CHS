@@ -2361,218 +2361,218 @@
   {
     "key": "C3 Dialogue.csv::translation::b85fe77baa71dfa6",
     "original": "Mosourika: I'm sorry I had to drag you into this.[p/] I didn't know who else to turn to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 真对不起，把你卷进这个烂摊子。[p/]我真不知道该找谁帮忙了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:000314c\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: I'm sorry I had to drag you into this.[p/] I didn't know who else to turn to.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8895aba7bcda7232",
     "original": "Tyrion: Don't worry about it.[p/] You've saved me more times than I can count.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 别担心这个。[p/]你拯救我的次数都数不清了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cbc552\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Tyrion: Don't worry about it.[p/] You've saved me more times than I can count.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::580a3a2830e58589",
     "original": "Mosourika: Wait...[p/] When did I save you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 等等啊……[p/]我什么时候救过你了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:092279f\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: Wait...[p/] When did I save you?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::77dc42168cc48518",
     "original": "Tyrion: ...Did you forget?[p/] It's how we met.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你不记得了吗？[p/]我们就是那时候相遇的啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c54d9\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Tyrion: ...Did you forget?[p/] It's how we met.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0dd4ca34b50a7906",
     "original": "Celeste: What happened?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 发生什么了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09c464e\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Celeste: What happened?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ed4a92c2496fad6a",
     "original": "Tyrion: I was always getting harassed by some of the older kids by the harbor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我那时经常被港口那些大一点的孩子骚扰。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09faf49\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Tyrion: I was always getting harassed by some of the older kids by the harbor.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a5c2b1a7b4843862",
     "original": "Tyrion: One day,[p/] they tried to steal the allowance my mother gave me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 有一天，[p/]他们想把母亲给我的零花钱偷走。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0303153\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Tyrion: One day,[p/] they tried to steal the allowance my mother gave me.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b8ca24c82202515b",
     "original": "Tyrion: You stepped in and stopped them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那时候你介入进来阻止了他们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:062ddce\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Tyrion: You stepped in and stopped them.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::68be02731319370f",
     "original": "Mosourika: Ah,[p/] I remember those cretins now.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 啊，[p/]我记起那些白痴了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03ed11d\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: Ah,[p/] I remember those cretins now.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1dd2a0aa3d5403c7",
     "original": "Mosourika: They had no choice but to flee from the weight of my majesty.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 他们除了从本大人的重压下逃走之外，别无选择。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:081f535\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: They had no choice but to flee from the weight of my majesty.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9035c150ecd539f6",
     "original": "Tyrion: She basically knew how to scream in the most alarming way.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 其实就是她知道怎么用尖叫让人惊恐万分。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0acfb5c\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Tyrion: She basically knew how to scream in the most alarming way.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::17dc0b8a3f27ebe3",
     "original": "Tyrion: It sounded like something between a rabid fox and a screeching baby.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那声音听起来像是发狂的狐狸或者惊啼的婴儿。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0abe3fb\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Tyrion: It sounded like something between a rabid fox and a screeching baby.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::77bebb6bd5a81fca",
     "original": "Mosourika: A-[p/][s/]Ah, yes.[p/] My battle cry alone was enough to end battles before they started.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 呃、[p/][s/]嗯，没错。[p/]吾之战吼足以令战争在开始前就终结。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a8097\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: A-[p/][s/]Ah, yes.[p/] My battle cry alone was enough to end battles before they started.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::213b62ccc4155267",
     "original": "Mosourika: ...It drew the attention of law enforcement.[p/] They thought a monster had broken into the city.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: .……那声音吸引了安保的注意。[p/]他们还以为是怪物闯入城市里了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b6a652\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: ...It drew the attention of law enforcement.[p/] They thought a monster had broken into the city.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cd3dbc60f8dd368f",
     "original": "Tyrion: I think that's when I became your \"apprentice\".[p/] We'd always go on adventures together through the city.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 自那以后，我就成了你的“徒弟”。[p/]后来我们经常一同穿越整座城市探险。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:086c68c\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Tyrion: I think that's when I became your \\\"apprentice\\\".[p/] We'd always go on adventures together through the city.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c8c68ebaa8c5ea7b",
     "original": "Mosourika: Yes,[p/] and look how much you've grown![p/] I'm glad I put you on the path to greatness!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 是啊，[p/]看看如今你都成长成什么样了！[p/]真高兴本人将你引上这条伟大的道路！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b37c61\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: Yes,[p/] and look how much you've grown![p/] I'm glad I put you on the path to greatness!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7dbf04d9126dd2ee",
     "original": "Mosourika: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08234c4\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: ...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f19c4cd55cdcab46",
     "original": "Mosourika: ...I really miss those days.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……我真的很怀念那些日子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c76659\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: ...I really miss those days.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a6c4ab58c1c9efde",
     "original": "Tyrion: ...Me too.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我也是。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0333341\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Tyrion: ...Me too.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::28f32037b88a9fc4",
     "original": "Mosourika: ...After all this is over,[p/] let's go on another adventure.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……把这一切处理好后，[p/]我们来一场新的冒险吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09e7af6\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: ...After all this is over,[p/] let's go on another adventure.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3b77976564d28b8f",
     "original": "Mosourika: You should come with us, Celeste.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 你该加入我们一起，塞莱斯特。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0702d6c\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Mosourika: You should come with us, Celeste.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bc9fcdeda418aee6",
     "original": "Celeste: Yeah![p/][s/] I'm always up for an adventure!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 好啊！[p/][s/]我总是乐意冒险的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:007daee\",\n  \"node\": \"Rika1TyrConv\",\n  \"text\": \"Celeste: Yeah![p/][s/] I'm always up for an adventure!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::451ba9d300686fe4",
     "original": "Mosourika: Celeste,[p/] I love your sword!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 塞莱斯特，[p/]你这把剑真不错啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0095b2e\",\n  \"node\": \"Rika1CelConv\",\n  \"text\": \"Mosourika: Celeste,[p/] I love your sword!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3c909d7c0a8c5b2a",
     "original": "Mosourika: Is that [i]bone[/i]?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 是[i]骨头[/i]做的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6b1a7\",\n  \"node\": \"Rika1CelConv\",\n  \"text\": \"Mosourika: Is that [i]bone[/i]?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3f7fec21af29ba22",
     "original": "Celeste: Yeah![p/][s/] How did you know?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 对啊！[p/][s/]你怎么知道的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d9f6a2\",\n  \"node\": \"Rika1CelConv\",\n  \"text\": \"Celeste: Yeah![p/][s/] How did you know?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::944499bb5cb00dd6",
     "original": "Mosourika: I could tell by the texture.[p/] I've held some really exotic blades being sold by some of the travelling merchants here.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我是从纹理上看出来的。[p/]我又从旅行商人那里得到一些奇特的异国制刀。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f2f57d\",\n  \"node\": \"Rika1CelConv\",\n  \"text\": \"Mosourika: I could tell by the texture.[p/] I've held some really exotic blades being sold by some of the travelling merchants here.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::131acb4d665ae141",
     "original": "Celeste: Yeah,[p/] it was carved from the bones of a Purple Worm.[p/] It's unbreakable.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 是的，[p/]这把剑是用紫色蠕虫的骨骼打造的。[p/]可以说是坚不可摧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00dff0a\",\n  \"node\": \"Rika1CelConv\",\n  \"text\": \"Celeste: Yeah,[p/] it was carved from the bones of a Purple Worm.[p/] It's unbreakable.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d92833743c27bed4",
     "original": "Mosourika: ...I want one.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……我也想要一把。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b476d8\",\n  \"node\": \"Rika1CelConv\",\n  \"text\": \"Mosourika: ...I want one.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5d6a03cf578c340d",
     "original": "Celeste: I'm sure you can find your own sword from those travelling merchants.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 我相信你能再旅行商人手上找到属于自己的那把剑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dadfad\",\n  \"node\": \"Rika1CelConv\",\n  \"text\": \"Celeste: I'm sure you can find your own sword from those travelling merchants.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e2a8f8909db5b6af",
     "original": "Mosourika: ...I said I [i]held[/i] those blades.[p/] Affording them is another matter.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……我刚说了，我是[i]持有[/i]这种刀剑的。[p/]不过买下它们就是另一回事了……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08ab0e8\",\n  \"node\": \"Rika1CelConv\",\n  \"text\": \"Mosourika: ...I said I [i]held[/i] those blades.[p/] Affording them is another matter.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4ada5f253ee4a983",
     "original": "Mosourika: ...How [i]was[/i] living with Ruby Tymora?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 与鲁比·泰摩拉一起生活是[i]什么[/i]感觉？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b400dd\",\n  \"node\": \"Rika1RubyConv\",\n  \"text\": \"Mosourika: ...How [i]was[/i] living with Ruby Tymora?\"\n}"
   },
   {
