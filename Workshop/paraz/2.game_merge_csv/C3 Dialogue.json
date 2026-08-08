@@ -3092,67 +3092,67 @@
   {
     "key": "C3 Dialogue.csv::translation::e458bb4433ee37a7",
     "original": "Mosourika: Do you remember that name I came up with when we were kids?",
-    "translation": "",
+    "translation": "Mosourika: 记得小时候我想出来的那个台词吗？",
     "context": "{\n  \"id\": \"line:01641eb\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: Do you remember that name I came up with when we were kids?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8a09d35e44c17b9c",
     "original": "Tyrion: ...Yeah,[p/] I remember.",
-    "translation": "",
+    "translation": "Tyrion: ……是啊，[p/]我还记得。",
     "context": "{\n  \"id\": \"line:0ed717c\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Tyrion: ...Yeah,[p/] I remember.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::434551a674d1c129",
     "original": "Mosourika: \"Naught can remain concealed from the Eye of Horus.\"",
-    "translation": "",
+    "translation": "Mosourika: “荷鲁斯之眼底，万物无所遁形。”",
     "context": "{\n  \"id\": \"line:067cd05\",\n  \"node\": \"Rika2TruthConv\",\n  \"text\": \"Mosourika: \\\"Naught can remain concealed from the Eye of Horus.\\\"\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ff18e3198ba4ab91",
     "original": "Mosourika: You really know how to command a presence in the courtroom.",
-    "translation": "",
+    "translation": "Mosourika: 你其实很懂得如何在法庭上展现存在感。",
     "context": "{\n  \"id\": \"line:0d8da03\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: You really know how to command a presence in the courtroom.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ebd2751b411a04c8",
     "original": "Tyrion: I kind of have to if I want to get anywhere.",
-    "translation": "",
+    "translation": "Tyrion: 为了达成目的，我也不得不那么做。",
     "context": "{\n  \"id\": \"line:04d5944\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: I kind of have to if I want to get anywhere.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5d20d3471922c7ef",
     "original": "Tyrion: Each session starts with the entire room convinced that the defendant is guilty.",
-    "translation": "",
+    "translation": "Tyrion: 每一次的庭审都是在所有人都认为被告有罪的前提下开始的。",
     "context": "{\n  \"id\": \"line:05b09c7\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: Each session starts with the entire room convinced that the defendant is guilty.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8c0fc983905faec1",
     "original": "Mosourika: I'm glad there are people out there who will do what it takes to deliver justice.",
-    "translation": "",
+    "translation": "Mosourika: 而我非常高兴，终究有人愿意为伸张正义竭尽全力。",
     "context": "{\n  \"id\": \"line:0381857\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: I'm glad there are people out there who will do what it takes to deliver justice.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c2bfa2598b98af1c",
     "original": "Mosourika: I think you and Mr. Dracogen have something in common there.",
-    "translation": "",
+    "translation": "Mosourika: 在这个方面，我想你和德拉科根先生有相通之处。",
     "context": "{\n  \"id\": \"line:05140cb\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: I think you and Mr. Dracogen have something in common there.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bc1996d90ac8da8e",
     "original": "Tyrion: Do you know anything about the Duke of Commerce?",
-    "translation": "",
+    "translation": "Tyrion: 能说说那个商业公爵的事情吗？",
     "context": "{\n  \"id\": \"line:0463aad\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: Do you know anything about the Duke of Commerce?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5ead8558e29ab89d",
     "original": "Mosourika: Not anything outside of the papers.[p/] We've never even met.",
-    "translation": "",
+    "translation": "Mosourika: 除了报纸上的那些内容我也不知道更多了。[p/]我们都没见过面。",
     "context": "{\n  \"id\": \"line:0dd8f64\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: Not anything outside of the papers.[p/] We've never even met.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::48c78d184326ce67",
     "original": "Mosourika: All I know is that I'm paying him a [i]lot[/i] of taxes.",
-    "translation": "",
+    "translation": "Mosourika: 我只知道自己给他交了[i]好多[/i]税。",
     "context": "{\n  \"id\": \"line:08ca88f\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: All I know is that I'm paying him a [i]lot[/i] of taxes.\"\n}"
   },
   {
@@ -3164,37 +3164,37 @@
   {
     "key": "C3 Dialogue.csv::translation::41f248b9cf3dbed6",
     "original": "Mosourika: I hope Noah is okay...",
-    "translation": "",
+    "translation": "Mosourika: 希望诺亚老伯没事……",
     "context": "{\n  \"id\": \"line:0e2b597\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: I hope Noah is okay...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6ce2204ea2fd46e9",
     "original": "Tyrion: Yeah,[p/] those knights were a little rough with him.",
-    "translation": "",
+    "translation": "Tyrion: 我也是，[p/]那些骑士对他有点粗鲁。",
     "context": "{\n  \"id\": \"line:0b53708\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: Yeah,[p/] those knights were a little rough with him.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d9388ed3e8581bfb",
     "original": "Tyrion: Is he okay?",
-    "translation": "",
+    "translation": "Tyrion: 他还好吧？",
     "context": "{\n  \"id\": \"line:026fae0\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: Is he okay?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5bc34fa1c92cea8f",
     "original": "Mosourika: Yeah,[p/] he's just a little shaken up.",
-    "translation": "",
+    "translation": "Mosourika: 还好，[p/]只是有点受惊吓。",
     "context": "{\n  \"id\": \"line:05fc999\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: Yeah,[p/] he's just a little shaken up.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::31879cf0b7a39c8b",
     "original": "Mosourika: ...He's been trying to get the Kingsguard to reveal where his friends were taken.",
-    "translation": "",
+    "translation": "Mosourika: ……他一直想要让国王卫队坦白他那些朋友被带到哪里去了。",
     "context": "{\n  \"id\": \"line:0ab14c1\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: ...He's been trying to get the Kingsguard to reveal where his friends were taken.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6c7e69c5332497cd",
     "original": "Tyrion: Right...[p/] I suppose Lucio Steelwind is the [i]last[/i] person I'd trust with my friends' lives.",
-    "translation": "",
+    "translation": "Tyrion: 对啊……[p/]我想卢西奥·斯蒂尔文德大概是[i]最不可以[/i]把朋友的性命交在他手上的那个人。",
     "context": "{\n  \"id\": \"line:09deed0\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: Right...[p/] I suppose Lucio Steelwind is the [i]last[/i] person I'd trust with my friends' lives.\"\n}"
   },
   {
@@ -3206,49 +3206,49 @@
   {
     "key": "C3 Dialogue.csv::translation::e9e3957fc7bf2998",
     "original": "Mosourika: I really owe a lot to Mr. Dracogen.",
-    "translation": "",
+    "translation": "Mosourika: 我亏欠德拉科根先生许多。",
     "context": "{\n  \"id\": \"line:04cecba\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: I really owe a lot to Mr. Dracogen.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d17d762e57ea389f",
     "original": "Tyrion: He invested in you despite your brushes with the law.",
-    "translation": "",
+    "translation": "Tyrion: 虽然你一度触犯法律，但他还是愿意投资你的事业。",
     "context": "{\n  \"id\": \"line:06d7f52\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: He invested in you despite your brushes with the law.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f6732487ee4e7ac9",
     "original": "Tyrion: He must have a lot of faith in you.",
-    "translation": "",
+    "translation": "Tyrion: 他一定对你有所信任。",
     "context": "{\n  \"id\": \"line:013b978\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: He must have a lot of faith in you.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::06abb0642aeecc6b",
     "original": "Mosourika: ...You think so?",
-    "translation": "",
+    "translation": "Mosourika: ……你是这么认为吗？",
     "context": "{\n  \"id\": \"line:003ea13\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: ...You think so?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6837da1c3a043304",
     "original": "Celeste: Well, your cooking [i]is[/i] amazing.",
-    "translation": "",
+    "translation": "Celeste: 这个嘛，你的厨艺[i]相当[/i]精湛。",
     "context": "{\n  \"id\": \"line:06c28df\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Celeste: Well, your cooking [i]is[/i] amazing.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9804aa9563c0f026",
     "original": "Celeste: I [i]love[/i] your breakfast wraps!",
-    "translation": "",
+    "translation": "Celeste: 我[i]爱[/i]你的早餐卷饼！",
     "context": "{\n  \"id\": \"line:0134d6a\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Celeste: I [i]love[/i] your breakfast wraps!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::274b23c3b84ee563",
     "original": "Mosourika: Yeah,[p/] I'm really proud of how those turned out.",
-    "translation": "",
+    "translation": "Mosourika: 也是，[p/]我对现在的成果也相当自豪。",
     "context": "{\n  \"id\": \"line:089ecae\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: Yeah,[p/] I'm really proud of how those turned out.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3cd46fb327d4adf3",
     "original": "Mosourika: ...I really hope he gets out of this.",
-    "translation": "",
+    "translation": "Mosourika: ……真希望他能挺过这道难关。",
     "context": "{\n  \"id\": \"line:0dbbf9e\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: ...I really hope he gets out of this.\"\n}"
   },
   {
@@ -3260,79 +3260,79 @@
   {
     "key": "C3 Dialogue.csv::translation::d687e7c37eeff3e6",
     "original": "Mosourika: ...He's really gone, isn't he?",
-    "translation": "",
+    "translation": "Mosourika: 他真的就这么逝去了……是不是？",
     "context": "{\n  \"id\": \"line:096b1a4\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: ...He's really gone, isn't he?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8a941498eb7471fc",
     "original": "Tyrion: ...Sorry,[p/] I shouldn't have—",
-    "translation": "",
+    "translation": "Tyrion: ……真对不起，[p/]我不应该——",
     "context": "{\n  \"id\": \"line:04991f2\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: ...Sorry,[p/] I shouldn't have—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3236b2c4b0835826",
     "original": "Mosourika: It's okay.[p/] I know you're doing your best to help Mr. Dracogen.",
-    "translation": "",
+    "translation": "Mosourika: 没事的。[p/]我知道你只是为了救助德拉科根先生尽力而为。",
     "context": "{\n  \"id\": \"line:04d5abf\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: It's okay.[p/] I know you're doing your best to help Mr. Dracogen.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::03d05dcf497765be",
     "original": "Mosourika: It's just hard to accept, you know?",
-    "translation": "",
+    "translation": "Mosourika: 但这确实仍然难以接受，你知道的吧？",
     "context": "{\n  \"id\": \"line:043ca79\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: It's just hard to accept, you know?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::beda907d3b8048d6",
     "original": "Mosourika: A part of me wishes this really was all an accident.",
-    "translation": "",
+    "translation": "Mosourika: 我内心的一角希望那真的只是一起意外。",
     "context": "{\n  \"id\": \"line:0ce4a37\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: A part of me wishes this really was all an accident.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5e0dd0106ecfeda1",
     "original": "Mosourika: But someone attacked,[p/] and I don't even know why.",
-    "translation": "",
+    "translation": "Mosourika: 但肯定有人实施了攻击，[p/]但我却根本不知道为什么。",
     "context": "{\n  \"id\": \"line:0f304b2\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: But someone attacked,[p/] and I don't even know why.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2dcd89f639ebc050",
     "original": "Tyrion: I can't believe [i]Justin[/i] was the Phantom this entire time.",
-    "translation": "",
+    "translation": "Tyrion: 我想不到一直以来[i]贾斯汀[/i]就是那个“魅影”。",
     "context": "{\n  \"id\": \"line:0894f33\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: I can't believe [i]Justin[/i] was the Phantom this entire time.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c2095c98617e6b1b",
     "original": "Mosourika: ...Which means he also robbed Mr. Dracogen.",
-    "translation": "",
+    "translation": "Mosourika: ……也就是说他还偷了德拉科根先生的东西。",
     "context": "{\n  \"id\": \"line:0a6e495\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: ...Which means he also robbed Mr. Dracogen.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::308f7a17fe27ac1e",
     "original": "Tyrion: I'm sorry, Rika...",
-    "translation": "",
+    "translation": "Tyrion: 抱歉，里卡……",
     "context": "{\n  \"id\": \"line:0dc64d5\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: I'm sorry, Rika...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::080f2300524269bb",
     "original": "Mosourika: It's for the best...[p/] I think I've been trying so hard to ignore the truth,[p/] but it was sitting right in front of me.",
-    "translation": "",
+    "translation": "Mosourika: 这样也是最好的……[p/]我一直以来都努力不去直视真相，[p/]但它就摆在我的眼前。",
     "context": "{\n  \"id\": \"line:04cddba\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: It's for the best...[p/] I think I've been trying so hard to ignore the truth,[p/] but it was sitting right in front of me.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7cde6f42597e35a1",
     "original": "Mosourika: It feels like there's a small weight off my shoulders at least.",
-    "translation": "",
+    "translation": "Mosourika: 承认下来，感觉自己的肩头反而稍微轻松了一点。",
     "context": "{\n  \"id\": \"line:0abfec1\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: It feels like there's a small weight off my shoulders at least.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b4ea52443eb49a06",
     "original": "She knew [i]something[/i] about the Mistweaving Phantom,[p/] but she obviously wasn't keen on sharing.",
-    "translation": "",
+    "translation": "她知道“织雾魅影”的[i]一些内情[/i]，[p/]但她并不乐于表露出来。",
     "context": "{\n  \"id\": \"line:034cb0d\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"She knew [i]something[/i] about the Mistweaving Phantom,[p/] but she obviously wasn't keen on sharing.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cffddad0f435fac1",
     "original": "I'd need to persuade her in an ARGUMENT if I wanted to get anywhere.",
-    "translation": "",
+    "translation": "我要想取得进展，就需要在<size=1.5em>辩论</size>中说服她。",
     "context": "{\n  \"id\": \"line:0791782\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"I'd need to persuade her in an ARGUMENT if I wanted to get anywhere.\"\n}"
   },
   {
@@ -3344,61 +3344,61 @@
   {
     "key": "C3 Dialogue.csv::translation::8b1c6fceb701fa5d",
     "original": "Tyrion: Thanks for telling me about what happened, Rika.",
-    "translation": "",
+    "translation": "Tyrion: 里卡，谢谢你告诉我这些发生的事情。",
     "context": "{\n  \"id\": \"line:073f13a\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: Thanks for telling me about what happened, Rika.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1c25696361f74404",
     "original": "Tyrion: I know that must've been difficult.",
-    "translation": "",
+    "translation": "Tyrion: 我知道你肯定很难过。",
     "context": "{\n  \"id\": \"line:0c5775f\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: I know that must've been difficult.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5aec6a8be093b18d",
     "original": "Mosourika: Yeah,[p/] I really [i]do[/i] hope it helps.",
-    "translation": "",
+    "translation": "Mosourika: 是的，[p/]我[i]真的[/i]很希望能帮得上忙。",
     "context": "{\n  \"id\": \"line:0ad23c5\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: Yeah,[p/] I really [i]do[/i] hope it helps.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4f159b41bcf110d1",
     "original": "Mosourika: It would've been nice if you told us you were safe in Ratholme.",
-    "translation": "",
+    "translation": "Mosourika: 如果你能告诉我们，你已经在瑞思霍姆安顿下来，那会好很多的。",
     "context": "{\n  \"id\": \"line:06b2d2a\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: It would've been nice if you told us you were safe in Ratholme.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::aacceeb7b06696ef",
     "original": "Tyrion: ...Sorry.[p/] I was too focused on getting revenge on the nobility.",
-    "translation": "",
+    "translation": "Tyrion: ……对不起。[p/]我当时太过于专注在向贵族复仇了。",
     "context": "{\n  \"id\": \"line:04f82ab\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: ...Sorry.[p/] I was too focused on getting revenge on the nobility.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e1a8af4698e64d82",
     "original": "Tyrion: And after a while,[p/] it just felt like too much time had passed.",
-    "translation": "",
+    "translation": "Tyrion: 在那之后，[p/]感觉好像已经过去了太久。",
     "context": "{\n  \"id\": \"line:074db1d\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Tyrion: And after a while,[p/] it just felt like too much time had passed.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0da2cb780c6987b4",
     "original": "Mosourika: Yeah, well.",
-    "translation": "",
+    "translation": "Mosourika: 是啊，但都没关系啦。",
     "context": "{\n  \"id\": \"line:01b1bbf\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: Yeah, well.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::00f291fe35d706dd",
     "original": "Mosourika: You're here now.[p/] We should make the most of it.",
-    "translation": "",
+    "translation": "Mosourika: 你现在不就回来这里了吗。[p/]我们该好好珍惜这一点。",
     "context": "{\n  \"id\": \"line:0d01b2c\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: You're here now.[p/] We should make the most of it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0aed70c8d3ea39ff",
     "original": "Mosourika: ...I'm holding you two to that adventure after all this is over.",
-    "translation": "",
+    "translation": "Mosourika: ……等这件事有了结果，我得把你们拖去那场冒险。",
     "context": "{\n  \"id\": \"line:0c5208b\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: ...I'm holding you two to that adventure after all this is over.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e0384062253426dc",
     "original": "Mosourika: Sorry,[p/] I can't say much about that.",
-    "translation": "",
+    "translation": "Mosourika: 对不起，[p/]对此我不能再多说了。",
     "context": "{\n  \"id\": \"line:0c7541d\",\n  \"node\": \"Cafe2_Present\",\n  \"text\": \"Mosourika: Sorry,[p/] I can't say much about that.\"\n}"
   },
   {
