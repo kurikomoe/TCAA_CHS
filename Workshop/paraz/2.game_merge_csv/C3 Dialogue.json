@@ -3404,229 +3404,229 @@
   {
     "key": "C3 Dialogue.csv::translation::39372299ec96ddd9",
     "original": "I arrived at Rika's café and found it completely empty.[p/] The entrance was locked too.",
-    "translation": "",
+    "translation": "我抵达了里卡的咖啡馆，[p/]但店门已经上了锁。",
     "context": "{\n  \"id\": \"line:0c4acae\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"I arrived at Rika's café and found it completely empty.[p/] The entrance was locked too.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::619d41704ddba545",
     "original": "There was a note on the door.",
-    "translation": "",
+    "translation": "门上挂着一张字条。",
     "context": "{\n  \"id\": \"line:0068ed5\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"There was a note on the door.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::050315213e7df602",
     "original": "\"I am on a hunt to slay a fearsome demon! The café will be open later today unless I am tragically slain in my quest! >_<\"",
-    "translation": "",
+    "translation": "“吾正在狩猎一些骇人的恶魔！咖啡馆将在今日稍晚恢复营业，除非本大人在任务中悲惨落败了！ >_<”",
     "context": "{\n  \"id\": \"line:0957195\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"\\\"I am on a hunt to slay a fearsome demon! The café will be open later today unless I am tragically slain in my quest! >_<\\\"\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9ecf764805c7e283",
     "original": "...It sounded like I would need to return later.",
-    "translation": "",
+    "translation": "……看起来我得稍晚点回来。",
     "context": "{\n  \"id\": \"line:0fca8ba\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"...It sounded like I would need to return later.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0016672525bb2308",
     "original": "I stepped through the doors of the café and found it completely empty.",
-    "translation": "",
+    "translation": "我穿过咖啡店大门，但里面没有顾客。",
     "context": "{\n  \"id\": \"line:09034a5\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"I stepped through the doors of the café and found it completely empty.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7b1dd0004a11c984",
     "original": "Rika was sitting near the kitchen,[p/] somberly looking out the window.",
-    "translation": "",
+    "translation": "里卡就坐在厨房边上，[p/]神情忧愁得看向窗外。",
     "context": "{\n  \"id\": \"line:048de15\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Rika was sitting near the kitchen,[p/] somberly looking out the window.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3a6e83d59c1607bd",
     "original": "Tyrion: ...Hi, Rika.",
-    "translation": "",
+    "translation": "Tyrion: ……你好啊，里卡。",
     "context": "{\n  \"id\": \"line:0e522e2\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: ...Hi, Rika.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cf4215c5f2d1853f",
     "original": "Mosourika: Oh...[p/] Hey, Tyrion.",
-    "translation": "",
+    "translation": "Mosourika: 啊……[p/]嘿，提利昂。",
     "context": "{\n  \"id\": \"line:0efb0e5\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Mosourika: Oh...[p/] Hey, Tyrion.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f943e68796b7a9cd",
     "original": "Tyrion: What?[p/] No grand declarations from the Dark Lord of Aurinax?",
-    "translation": "",
+    "translation": "Tyrion: 怎么了？[p/]欧奥耐克斯的暗黑领主没有什么壮大的宣言吗？",
     "context": "{\n  \"id\": \"line:050fcf0\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: What?[p/] No grand declarations from the Dark Lord of Aurinax?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8c2fe7724fd41e29",
     "original": "Mosourika: ...I'm not really in the mood for that today.",
-    "translation": "",
+    "translation": "Mosourika: ……我今天没有那个心情。",
     "context": "{\n  \"id\": \"line:0e14c2a\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Mosourika: ...I'm not really in the mood for that today.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::82bfe1ae222c3f9c",
     "original": "I scratched my head and scanned the empty restaurant.[p/] I never knew what to say in these situations.",
-    "translation": "",
+    "translation": "我挠了挠头，环视空荡荡的餐厅。[p/]我真不知道这种情景下该说什么。",
     "context": "{\n  \"id\": \"line:0636826\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"I scratched my head and scanned the empty restaurant.[p/] I never knew what to say in these situations.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::08ef7597d59e72a5",
     "original": "Tyrion: Can we talk?[p/] I still need help with the case.",
-    "translation": "",
+    "translation": "Tyrion: 能谈一谈吗？[p/]我仍然需要一点帮助来打赢官司。",
     "context": "{\n  \"id\": \"line:021c58d\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: Can we talk?[p/] I still need help with the case.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a19cf803cdc4b66b",
     "original": "Mosourika: ...Sure.",
-    "translation": "",
+    "translation": "Mosourika: ……好的。",
     "context": "{\n  \"id\": \"line:0f70a3b\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Mosourika: ...Sure.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b7d3f84e9f1e7a1e",
     "original": "Tyrion: Thanks for being honest with me, Rika.",
-    "translation": "",
+    "translation": "Tyrion: 里卡，谢谢你对我直言不讳。",
     "context": "{\n  \"id\": \"line:0168d12\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: Thanks for being honest with me, Rika.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::aac8c0a27b445d18",
     "original": "Mosourika: Just don't push yourself too hard, okay?",
-    "translation": "",
+    "translation": "Mosourika: 别太勉强自己，好吗？",
     "context": "{\n  \"id\": \"line:0c18090\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Mosourika: Just don't push yourself too hard, okay?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d300bf18cd9e7e0a",
     "original": "Celeste: Hey, is what she said true?[p/] Did the City Watch really—",
-    "translation": "",
+    "translation": "Celeste: 嘿，她说的是真的？[p/]城市安保真的——",
     "context": "{\n  \"id\": \"line:0cf1f05\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Celeste: Hey, is what she said true?[p/] Did the City Watch really—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bfb18199fe77732e",
     "original": "Celeste: ...Did all of that really happen to you?",
-    "translation": "",
+    "translation": "Celeste: ……你真的经历了那些事情？",
     "context": "{\n  \"id\": \"line:0f3115d\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Celeste: ...Did all of that really happen to you?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5653e80f9a350ff8",
     "original": "Tyrion: ...Yeah.",
-    "translation": "",
+    "translation": "Tyrion: ……是的。",
     "context": "{\n  \"id\": \"line:0a19cd6\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: ...Yeah.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::76c651f8c644245e",
     "original": "Celeste: I know I've been really pushy lately.",
-    "translation": "",
+    "translation": "Celeste: 我知道最近我可能有点急躁。",
     "context": "{\n  \"id\": \"line:016483e\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Celeste: I know I've been really pushy lately.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a687202446b21cf7",
     "original": "Tyrion: N-[p/][s/]No...![p/] You've been nothing but kind and patient with me.",
-    "translation": "",
+    "translation": "Tyrion: 没、[p/][s/]没有啊……！[p/]你对我一直都很温柔耐心的。",
     "context": "{\n  \"id\": \"line:065f22a\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: N-[p/][s/]No...![p/] You've been nothing but kind and patient with me.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::20b320610f2c3094",
     "original": "Tyrion: ...I'm really sorry I snapped at you yesterday.",
-    "translation": "",
+    "translation": "Tyrion: ……昨天对你发脾气，我才是真的很对不起。",
     "context": "{\n  \"id\": \"line:0de64c8\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: ...I'm really sorry I snapped at you yesterday.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e910cb1fa834b5ed",
     "original": "Tyrion: You were looking out for me.[p/] You didn't deserve that.",
-    "translation": "",
+    "translation": "Tyrion: 你是在照顾我的情绪。[p/]不应该受到那样的对待。",
     "context": "{\n  \"id\": \"line:0fdd813\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: You were looking out for me.[p/] You didn't deserve that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::182b422578fe336b",
     "original": "Celeste: I've just never seen you like this before.[p/] I've been really worried.",
-    "translation": "",
+    "translation": "Celeste: 之前从来没看到过你像那个样子。[p/]我真的好担心。",
     "context": "{\n  \"id\": \"line:0ceef5b\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Celeste: I've just never seen you like this before.[p/] I've been really worried.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::335648cea6963751",
     "original": "Tyrion: ...I really thought I moved past all of this,[p/] but it's like everything that happened is replaying in my head.",
-    "translation": "",
+    "translation": "Tyrion: ……我原以为自己早就对过去的经历释怀了，[p/]但一回到这里，那些发生过的所有事情就在我的脑海里不停回放。",
     "context": "{\n  \"id\": \"line:0b32e77\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: ...I really thought I moved past all of this,[p/] but it's like everything that happened is replaying in my head.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4883d0f07bf9ba14",
     "original": "Celeste: Do you want to talk about it?",
-    "translation": "",
+    "translation": "Celeste: 你愿意跟我说说那些事情吗？",
     "context": "{\n  \"id\": \"line:022e986\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Celeste: Do you want to talk about it?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d9f5a7515bdd72a1",
     "original": "Tyrion: ...I think I just want to focus on the case.",
-    "translation": "",
+    "translation": "Tyrion: ……我想我们还是集中在案件上吧。",
     "context": "{\n  \"id\": \"line:09f198d\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: ...I think I just want to focus on the case.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::de96d0fe52ee3e76",
     "original": "Celeste: Tyrion, you're [i]not[/i] okay.",
-    "translation": "",
+    "translation": "Celeste: 提利昂，你状态[i]并不[/i]好。",
     "context": "{\n  \"id\": \"line:0fc3f84\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Celeste: Tyrion, you're [i]not[/i] okay.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7faa11665055572a",
     "original": "Tyrion: I know,[p/] but I have a job to do.[p/] I can't afford to fall apart now.",
-    "translation": "",
+    "translation": "Tyrion: 我明白，[p/]但我还有该做的工作。[p/]我现在是不会就这么崩溃的。",
     "context": "{\n  \"id\": \"line:00d808b\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: I know,[p/] but I have a job to do.[p/] I can't afford to fall apart now.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cbe521e67be08184",
     "original": "Tyrion: We can talk about everything once this is all over.[p/] I can handle this until then.",
-    "translation": "",
+    "translation": "Tyrion: 等这个案子结束了， 我们可以好好聊一聊。[p/]我能撑到那个时候的。",
     "context": "{\n  \"id\": \"line:0648445\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: We can talk about everything once this is all over.[p/] I can handle this until then.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d0efde198c69302e",
     "original": "Celeste: [i]*sigh*[/i][p/] Okay.",
-    "translation": "",
+    "translation": "Celeste: [i]*叹气*[/i][p/]那行。",
     "context": "{\n  \"id\": \"line:0df9077\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Celeste: [i]*sigh*[/i][p/] Okay.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b6a500e0d0d024c0",
     "original": "Celeste: But I'm always here if you need to talk.",
-    "translation": "",
+    "translation": "Celeste: 但只要你需要说出来的时候，我一直都会在的。",
     "context": "{\n  \"id\": \"line:017b826\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Celeste: But I'm always here if you need to talk.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::dd85111ca2e560c6",
     "original": "Tyrion: Thanks...",
-    "translation": "",
+    "translation": "Tyrion: 谢谢你……",
     "context": "{\n  \"id\": \"line:0464ee5\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: Thanks...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e35ce38d79181f27",
     "original": "Tyrion: ...I'm really glad I get to work with you.[p/] These cases wouldn't be nearly as bearable if you weren't here with me.",
-    "translation": "",
+    "translation": "Tyrion: ……能同你一起工作，我真的很高兴。[p/]如果没有你的陪伴，这些案件简直让人难以忍受。",
     "context": "{\n  \"id\": \"line:0168d2c\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: ...I'm really glad I get to work with you.[p/] These cases wouldn't be nearly as bearable if you weren't here with me.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1c401b011347351b",
     "original": "Celeste: ...Of course!",
-    "translation": "",
+    "translation": "Celeste: ……那是当然！",
     "context": "{\n  \"id\": \"line:0f8c6d9\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Celeste: ...Of course!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c05c496ea6245dd7",
     "original": "Celeste: I love doing this job with you.[p/] I really hope you know that.",
-    "translation": "",
+    "translation": "Celeste: 我很喜欢这份与你一起的工作。[p/]我希望你知道这一点。",
     "context": "{\n  \"id\": \"line:0a49668\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Celeste: I love doing this job with you.[p/] I really hope you know that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::02a861376c3b44f8",
     "original": "For the first time in the last few days,[p/] I cracked a smile.",
-    "translation": "",
+    "translation": "几天以来，[p/]我第一次露出微笑。",
     "context": "{\n  \"id\": \"line:030396c\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"For the first time in the last few days,[p/] I cracked a smile.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e63a03fe46ad5fd7",
     "original": "Tyrion: Okay, let's get going.",
-    "translation": "",
+    "translation": "Tyrion: 好啊，我们出发吧。",
     "context": "{\n  \"id\": \"line:08c8db1\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"Tyrion: Okay, let's get going.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::72ca276ddf6718b7",
     "original": "...It was time to MOVE to the old abandoned house.",
-    "translation": "",
+    "translation": "……是时候<size=1.5em>移动</size>到那栋废弃的旧屋了。",
     "context": "{\n  \"id\": \"line:0844054\",\n  \"node\": \"Cafe2_Check\",\n  \"text\": \"...It was time to MOVE to the old abandoned house.\"\n}"
   },
   {
@@ -3650,85 +3650,85 @@
   {
     "key": "C3 Dialogue.csv::translation::38a03f8900ba12c3",
     "original": "Tyrion: ...Are you the owner of this café, Rika?",
-    "translation": "",
+    "translation": "Tyrion: ……里卡，你是这间咖啡馆的店主吗？",
     "context": "{\n  \"id\": \"line:0a6d6a6\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: ...Are you the owner of this café, Rika?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7e6b21e87be32eb8",
     "original": "Tyrion: You always dreamed of opening one up when we were kids.",
-    "translation": "",
+    "translation": "Tyrion: 我们还小的时候，你就一直有个开咖啡店的梦想。",
     "context": "{\n  \"id\": \"line:07a502b\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: You always dreamed of opening one up when we were kids.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::75635da723473ec8",
     "original": "Mosourika: The source of my strength is the everlasting financial support of the Dracogen Trading Company.",
-    "translation": "",
+    "translation": "Mosourika: 吾力量的源泉正是德拉科根贸易公司永恒的资金支持。",
     "context": "{\n  \"id\": \"line:0fbcf89\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: The source of my strength is the everlasting financial support of the Dracogen Trading Company.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::da990922508f70eb",
     "original": "Mosourika: Its owner was rendered powerless when he tried confections.[p/] He had no choice but to fund my war path.",
-    "translation": "",
+    "translation": "Mosourika: 当它的主人尝试进军甜点业时，他发现自己的弱小无力。[p/]他别无选择，只能追随吾的脚步。",
     "context": "{\n  \"id\": \"line:0832e17\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: Its owner was rendered powerless when he tried confections.[p/] He had no choice but to fund my war path.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b4182bb63f1a473d",
     "original": "Celeste: \"Dracogen Trading Company\"?[p/] I don't think I've heard of them.",
-    "translation": "",
+    "translation": "Celeste: “德拉科根贸易公司”？[p/]我还从没听说过他们。",
     "context": "{\n  \"id\": \"line:0b158a9\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: \\\"Dracogen Trading Company\\\"?[p/] I don't think I've heard of them.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8aeafb2a3ed2dd8a",
     "original": "Mosourika: They're pretty small.[p/] They're only operating in Aurinax right now.",
-    "translation": "",
+    "translation": "Mosourika: 他们还是个小公司，[p/]而且现在只在欧奥耐克斯运营。",
     "context": "{\n  \"id\": \"line:0ae646f\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: They're pretty small.[p/] They're only operating in Aurinax right now.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0d04be216a8254fe",
     "original": "Mosourika: But I hear that they're planning to expand their operations throughout Wyverngarde.",
-    "translation": "",
+    "translation": "Mosourika: 不过我听说他们准备将经营范围拓展到维文加德全境。",
     "context": "{\n  \"id\": \"line:0a09caa\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: But I hear that they're planning to expand their operations throughout Wyverngarde.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5c29dcd37ab9595e",
     "original": "Tyrion: I'm surprised the Duke of Commerce is letting that slide.",
-    "translation": "",
+    "translation": "Tyrion: 那个商业公爵竟然对其视而不见，我还挺惊讶的。",
     "context": "{\n  \"id\": \"line:043631a\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: I'm surprised the Duke of Commerce is letting that slide.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7d7b63c1e711c86c",
     "original": "Celeste: Isn't he the guy you beat in the chess tournament this morning?",
-    "translation": "",
+    "translation": "Celeste: 你说的不就是上午你在棋赛打败的那个家伙吗？",
     "context": "{\n  \"id\": \"line:01e43f2\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: Isn't he the guy you beat in the chess tournament this morning?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a798eb7f43267912",
     "original": "Mosourika: Wait...[p/][s/] That was you?!",
-    "translation": "",
+    "translation": "Mosourika: 什么……[p/][s/]是你打败的？！",
     "context": "{\n  \"id\": \"line:0925c91\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: Wait...[p/][s/] That was you?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::384abe5edc0fe7e6",
     "original": "Tyrion: House von Sanctus is one of the Four Pillar families.[p/] They manage mercantile operations throughout Wyverngarde.",
-    "translation": "",
+    "translation": "Tyrion: 冯·桑克图斯家是四大支柱家族之一。[p/]他们负责管理整个维文加德王国的商贸运营。",
     "context": "{\n  \"id\": \"line:079eeba\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: House von Sanctus is one of the Four Pillar families.[p/] They manage mercantile operations throughout Wyverngarde.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d9f25cd92c4b0228",
     "original": "Celeste: So House Steelwind controls the military,[p/] and House von Sanctus controls the businesses.",
-    "translation": "",
+    "translation": "Celeste: 所以说斯蒂尔文德家掌管军事，[p/]冯·桑克图斯家掌管商业。",
     "context": "{\n  \"id\": \"line:031f46a\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: So House Steelwind controls the military,[p/] and House von Sanctus controls the businesses.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3ecf95b124f75386",
     "original": "Tyrion: House Frega controls the banking houses and the exchange of currency.",
-    "translation": "",
+    "translation": "Tyrion: 弗雷加家掌管着银行业与汇率。",
     "context": "{\n  \"id\": \"line:0ccc75f\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: House Frega controls the banking houses and the exchange of currency.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f16c8ffd53975d1a",
     "original": "Tyrion: ...And House Sibyl controls the judicial and legislative branches of our kingdom.",
-    "translation": "",
+    "translation": "Tyrion: ……而希比尔家掌控着王国的立法与司法机构。",
     "context": "{\n  \"id\": \"line:0b1e362\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: ...And House Sibyl controls the judicial and legislative branches of our kingdom.\"\n}"
   },
   {
@@ -3740,103 +3740,103 @@
   {
     "key": "C3 Dialogue.csv::translation::2cdba006181e0a72",
     "original": "Tyrion: Is it just me,[p/] or does the city look a lot cleaner than before?",
-    "translation": "",
+    "translation": "Tyrion: 这座城市看起来比以前更整洁了，[p/]还是说这只是我的个人感受？",
     "context": "{\n  \"id\": \"line:055e79b\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: Is it just me,[p/] or does the city look a lot cleaner than before?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6329e7f6260c1420",
     "original": "Mosourika: Oh, right.[p/] You left [i]before[/i] all those new merchants appeared.",
-    "translation": "",
+    "translation": "Mosourika: 噢，对哦。[p/]你在那些新的商人到来[i]之前[/i]就离开了。",
     "context": "{\n  \"id\": \"line:0bd4147\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: Oh, right.[p/] You left [i]before[/i] all those new merchants appeared.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6c4db175b545a0e1",
     "original": "Tyrion: \"New merchants\"?[p/] Did they come from a merchants' guild?",
-    "translation": "",
+    "translation": "Tyrion: “新的商人”？[p/]他们从商人公会来的吗？",
     "context": "{\n  \"id\": \"line:01779c3\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: \\\"New merchants\\\"?[p/] Did they come from a merchants' guild?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5dded2cc8883fb8f",
     "original": "Mosourika: Not exactly.[p/] The Dracogen Trading Company was one of the first merchants that came.",
-    "translation": "",
+    "translation": "Mosourika: 并非如此。[p/]德拉科根贸易公司是最先到来的。",
     "context": "{\n  \"id\": \"line:0fed4ec\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: Not exactly.[p/] The Dracogen Trading Company was one of the first merchants that came.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::88878049a2fd7c41",
     "original": "Mosourika: They bought some of the Arcane Manufacturies a few years ago.",
-    "translation": "",
+    "translation": "Mosourika: 几年前他们购置了一批奥术工坊。",
     "context": "{\n  \"id\": \"line:0b9c019\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: They bought some of the Arcane Manufacturies a few years ago.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0247e35d7827c298",
     "original": "Mosourika: They transformed it into the heart of artificery production within Aurinax.",
-    "translation": "",
+    "translation": "Mosourika: 然后将其改建为了整个欧奥耐克斯的奥术能源供给核心。",
     "context": "{\n  \"id\": \"line:0aaf364\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: They transformed it into the heart of artificery production within Aurinax.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::abb3f2f483c438b6",
     "original": "Mosourika: Other merchants felt the way of the wind and followed them here.",
-    "translation": "",
+    "translation": "Mosourika: 其他商人嗅到了机会，纷纷追随他们来到这里。",
     "context": "{\n  \"id\": \"line:025830a\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: Other merchants felt the way of the wind and followed them here.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a0d7d6012b4511bf",
     "original": "Celeste: Being based in a port city would definitely give them an edge.",
-    "translation": "",
+    "translation": "Celeste: 在港口城市设立基地肯定有优势。",
     "context": "{\n  \"id\": \"line:02a889c\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: Being based in a port city would definitely give them an edge.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c4424d8fdf2ef09e",
     "original": "Celeste: And Aurinax is one of the few trading hubs that sends and receives exports from the other kingdoms.",
-    "translation": "",
+    "translation": "Celeste: 而且欧奥耐克斯是少有的几座与其他国家有货物来往的贸易港之一。",
     "context": "{\n  \"id\": \"line:0c2d7f0\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: And Aurinax is one of the few trading hubs that sends and receives exports from the other kingdoms.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0a501c2303152d0b",
     "original": "I just looked at her, surprised.",
-    "translation": "",
+    "translation": "我有些惊讶地看着她。",
     "context": "{\n  \"id\": \"line:0150f24\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"I just looked at her, surprised.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6ab9d0d4b94406fd",
     "original": "Celeste: ...Hey,[p/] I'm a businesswoman.[p/] I [i]know[/i] about economics.",
-    "translation": "",
+    "translation": "Celeste: ……嘿，[p/]我可是个商务人士。[p/]我[i]懂[/i]经济。",
     "context": "{\n  \"id\": \"line:091bb1f\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: ...Hey,[p/] I'm a businesswoman.[p/] I [i]know[/i] about economics.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::35b908dbca02fcd5",
     "original": "Mosourika: Their presence lit a flame in the city's economy.",
-    "translation": "",
+    "translation": "Mosourika: 他们的出现为城市的经济引擎点上了火。",
     "context": "{\n  \"id\": \"line:0a1cdcf\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: Their presence lit a flame in the city's economy.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::14b134917b4eddf7",
     "original": "Mosourika: They aren't owned by the nobility,[p/] [i]and[/i] they pay their employees a lot more than von Sanctus does.",
-    "translation": "",
+    "translation": "Mosourika: 他们并非隶属于贵族，[p/][i]而且[/i]他们还为旗下雇员提供比冯·桑克图斯家多得多的酬劳。",
     "context": "{\n  \"id\": \"line:09a1a8e\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: They aren't owned by the nobility,[p/] [i]and[/i] they pay their employees a lot more than von Sanctus does.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8466c9d27863f6d5",
     "original": "Mosourika: It's really opened a lot more opportunities for the people here.",
-    "translation": "",
+    "translation": "Mosourika: 这真的为本地居民带来了许多新机会。",
     "context": "{\n  \"id\": \"line:070d378\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: It's really opened a lot more opportunities for the people here.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5cd1fd796943cac7",
     "original": "Celeste: I doubt the Duke appreciates the competition, though...",
-    "translation": "",
+    "translation": "Celeste: 不过，我想那个商业公爵不会欢迎这种竞争吧……",
     "context": "{\n  \"id\": \"line:094fd2b\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: I doubt the Duke appreciates the competition, though...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::67fe4ee5b4f90bab",
     "original": "Mosourika: They're even talking about forming employee-run unions.",
-    "translation": "",
+    "translation": "Mosourika: 他们甚至谈论起组建由雇员独立运营的工会。",
     "context": "{\n  \"id\": \"line:0a55fa3\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: They're even talking about forming employee-run unions.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a33dc3a94663ee3b",
     "original": "Celeste: Oh...[p/] the Duke definitely won't appreciate [i]that[/i].",
-    "translation": "",
+    "translation": "Celeste: 哎呀……[p/]公爵绝对不会喜欢[i]这个[/i]。",
     "context": "{\n  \"id\": \"line:070a150\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: Oh...[p/] the Duke definitely won't appreciate [i]that[/i].\"\n}"
   },
   {
@@ -3848,109 +3848,109 @@
   {
     "key": "C3 Dialogue.csv::translation::98391bcbed7d104c",
     "original": "Mosourika: So...[p/] You still play chess?",
-    "translation": "",
+    "translation": "Mosourika: 所以……[p/]你还下棋吗？",
     "context": "{\n  \"id\": \"line:0144eea\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: So...[p/] You still play chess?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::57f28cfa233ee95e",
     "original": "Tyrion: Yeah,[p/] I'm nationally ranked too.",
-    "translation": "",
+    "translation": "Tyrion: 是，[p/]我在国内榜上有名。",
     "context": "{\n  \"id\": \"line:0f842e6\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: Yeah,[p/] I'm nationally ranked too.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f235271e7d63cf96",
     "original": "Mosourika: I heard that some \"upstart commoner\" defeated von Sanctus at a tournament this morning.",
-    "translation": "",
+    "translation": "Mosourika: 我听说某位“平民新星”在今早的比赛中击败了冯·桑克图斯。",
     "context": "{\n  \"id\": \"line:081ef58\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: I heard that some \\\"upstart commoner\\\" defeated von Sanctus at a tournament this morning.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::92cb5708b6052d23",
     "original": "Mosourika: I should have known it was the Lightsworn Monarch.",
-    "translation": "",
+    "translation": "Mosourika: 我当时就该知道那就是“光道君主”本人。",
     "context": "{\n  \"id\": \"line:011b101\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: I should have known it was the Lightsworn Monarch.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ab5060988c0edbb7",
     "original": "Tyrion: ...\"U-[p/]Upstart commoner\"?",
-    "translation": "",
+    "translation": "Tyrion: ……“平、[p/]平民新星”？",
     "context": "{\n  \"id\": \"line:0e1562e\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: ...\\\"U-[p/]Upstart commoner\\\"?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::635c7998c5b76c93",
     "original": "Celeste: \"Lightsworn Monarch\"?",
-    "translation": "",
+    "translation": "Celeste: “光道君主”？",
     "context": "{\n  \"id\": \"line:02e37ce\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: \\\"Lightsworn Monarch\\\"?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::86783757287a139c",
     "original": "Mosourika: ...Hey,[p/] do you still do that thing when you play?",
-    "translation": "",
+    "translation": "Mosourika: ……嘿，[p/]你下棋时还会那么做吗？",
     "context": "{\n  \"id\": \"line:06953b6\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: ...Hey,[p/] do you still do that thing when you play?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::894453dab3bc3a9a",
     "original": "Tyrion: ...No.",
-    "translation": "",
+    "translation": "Tyrion: ……才不会。",
     "context": "{\n  \"id\": \"line:0d32a11\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: ...No.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e66e040b08fcd826",
     "original": "Celeste: What \"thing\"?",
-    "translation": "",
+    "translation": "Celeste: 做“什么”？",
     "context": "{\n  \"id\": \"line:0da82e6\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: What \\\"thing\\\"?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8eabc4a07eb191ad",
     "original": "Tyrion: Nothing...[p/] She's not talking about anything.",
-    "translation": "",
+    "translation": "Tyrion: 没什么……[p/]她没特指任何事。",
     "context": "{\n  \"id\": \"line:01239d7\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: Nothing...[p/] She's not talking about anything.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9f7cc454c9bf3cd0",
     "original": "Mosourika: Wait...[p/] You're [i]actually[/i] embarrassed about it?",
-    "translation": "",
+    "translation": "Mosourika: 等等……[p/]你[i]其实[/i]会因此感到害羞？",
     "context": "{\n  \"id\": \"line:0b64ab2\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: Wait...[p/] You're [i]actually[/i] embarrassed about it?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9a79a0bf52cee3ff",
     "original": "Mosourika: When we were kids,[p/] you did it even more than [i]I[/i] did!",
-    "translation": "",
+    "translation": "Mosourika: 我们小时候，[p/]你这么干的时间可比[i]我[/]i还多！",
     "context": "{\n  \"id\": \"line:05a9947\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: When we were kids,[p/] you did it even more than [i]I[/i] did!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::36288e8263d62aa9",
     "original": "Celeste: What?![p/][s/] What did he use to do?!",
-    "translation": "",
+    "translation": "Celeste: 什么？！[p/][s/]他以前都干什么？！",
     "context": "{\n  \"id\": \"line:0b778f5\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: What?![p/][s/] What did he use to do?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a32664441cf3ab81",
     "original": "Mosourika: Why don't you show her, Tyrion?",
-    "translation": "",
+    "translation": "Mosourika: 让她看看呗，提利昂？",
     "context": "{\n  \"id\": \"line:0c2970d\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Mosourika: Why don't you show her, Tyrion?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7ed1a41832e5a861",
     "original": "Tyrion: I refuse.",
-    "translation": "",
+    "translation": "Tyrion: 我拒绝。",
     "context": "{\n  \"id\": \"line:0e6caf5\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: I refuse.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e84cd3dc8f5a5519",
     "original": "Celeste: Come on![p/][s/] Show us, Tyrion!",
-    "translation": "",
+    "translation": "Celeste: 拜托！[p/][s/]给我们看看嘛，提利昂！",
     "context": "{\n  \"id\": \"line:08b5366\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Celeste: Come on![p/][s/] Show us, Tyrion!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8682cca99b3cad87",
     "original": "Player: The \"Thing\"",
-    "translation": "",
+    "translation": "Player: “那个东西”",
     "context": "{\n  \"id\": \"line:08c2654\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Player: The \\\"Thing\\\"\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::80eb3591823610f8",
     "original": "Tyrion: I think I'm a little too old for this...",
-    "translation": "",
+    "translation": "Tyrion: 我都这么大了……",
     "context": "{\n  \"id\": \"line:040feac\",\n  \"node\": \"CafeIntro_Talk\",\n  \"text\": \"Tyrion: I think I'm a little too old for this...\"\n}"
   },
   {
