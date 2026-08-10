@@ -5480,577 +5480,577 @@
   {
     "key": "C3 Dialogue.csv::translation::7d761f6ce8741426",
     "original": "I really didn't like where this was going...",
-    "translation": "",
+    "translation": "这个走向真的很讨厌……",
     "context": "{\n  \"id\": \"line:0b6a761\",\n  \"node\": \"AfterCafe9\",\n  \"text\": \"I really didn't like where this was going...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::53e60547e4a12f72",
     "original": "Celeste: [i]*sigh*[/i][p/] Do you want to head to the Café again?",
-    "translation": "",
+    "translation": "Celeste: [i]*叹气*[/i][p/]你觉得我们再去一趟那个咖啡馆怎么样？",
     "context": "{\n  \"id\": \"line:0dd6396\",\n  \"node\": \"AfterCafe9\",\n  \"text\": \"Celeste: [i]*sigh*[/i][p/] Do you want to head to the Café again?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::73d0f41d6d2cba7f",
     "original": "Tyrion: Yeah...[p/] We'll just have to wait this out.",
-    "translation": "",
+    "translation": "Tyrion: 行啊……[p/]我们也只能等了。",
     "context": "{\n  \"id\": \"line:02b3965\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Tyrion: Yeah...[p/] We'll just have to wait this out.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fd8bd613224da019",
     "original": "...And just as we turned around,[p/] we saw Rika running towards us from a block away.",
-    "translation": "",
+    "translation": "……我们转过身来，[p/]看到远在一个街区外的里卡正冲着我们跑过来。",
     "context": "{\n  \"id\": \"line:087723f\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"...And just as we turned around,[p/] we saw Rika running towards us from a block away.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::34003bb6051996ee",
     "original": "Mosourika: T-[p/][s/]Tyrion!",
-    "translation": "",
+    "translation": "Mosourika: 提、[p/][s/]提利昂！",
     "context": "{\n  \"id\": \"line:075b632\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Mosourika: T-[p/][s/]Tyrion!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b6170cf3927985b5",
     "original": "She broke out into a sprint,[p/] nearly tripping over as she slipped on the wet city streets.",
-    "translation": "",
+    "translation": "她突然冲刺起来，[p/]在湿滑的街道上滑了一下，几乎摔倒。",
     "context": "{\n  \"id\": \"line:06229ae\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"She broke out into a sprint,[p/] nearly tripping over as she slipped on the wet city streets.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::21d5741abb0704c3",
     "original": "She looked exhausted,[p/] and her clothes were drenched.[p/] She'd been out in the rain for a while.",
-    "translation": "",
+    "translation": "她看起来相当劳累，[p/]衣服都湿透了，[p/]肯定已经在雨中待了很久。",
     "context": "{\n  \"id\": \"line:07bfc3d\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"She looked exhausted,[p/] and her clothes were drenched.[p/] She'd been out in the rain for a while.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ad2f6070a502634b",
     "original": "Mosourika: Tyrion![p/][s/] It's terrible!",
-    "translation": "",
+    "translation": "Mosourika: 提利昂！[p/][s/]大事不好了！",
     "context": "{\n  \"id\": \"line:02c2b13\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Mosourika: Tyrion![p/][s/] It's terrible!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::49802f4969e155b0",
     "original": "Mosourika: T-[p/][s/]There was an accident at the Arcane Refinery last night!",
-    "translation": "",
+    "translation": "Mosourika: 昨、[p/][s/]昨晚奥术精炼厂发生了一起事故！",
     "context": "{\n  \"id\": \"line:05e0b27\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Mosourika: T-[p/][s/]There was an accident at the Arcane Refinery last night!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1ebc197c13c43c8e",
     "original": "Mosourika: One of my friends who worked there...[p/] He fell into a vat of chemicals.",
-    "translation": "",
+    "translation": "Mosourika: 我的一个朋友在那儿工作……[p/]他掉进了装满化学品的容器里。",
     "context": "{\n  \"id\": \"line:0f53cba\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Mosourika: One of my friends who worked there...[p/] He fell into a vat of chemicals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4d168771de6e30fd",
     "original": "Mosourika: He's...[p/] dead.",
-    "translation": "",
+    "translation": "Mosourika: 他……[p/]死了。",
     "context": "{\n  \"id\": \"line:053d71d\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Mosourika: He's...[p/] dead.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::dc76f9058ba9a645",
     "original": "Tyrion: Oh, Rika...[p/] I'm so sorry.",
-    "translation": "",
+    "translation": "Tyrion: 噢，里卡……[p/]我很遗憾。",
     "context": "{\n  \"id\": \"line:067121a\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Tyrion: Oh, Rika...[p/] I'm so sorry.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4d54e2eaa85816c9",
     "original": "Tyrion: If there's anything I can do—",
-    "translation": "",
+    "translation": "Tyrion: 有什么我能帮忙的吗——",
     "context": "{\n  \"id\": \"line:0b0b73b\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Tyrion: If there's anything I can do—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::62cc08ff327e63e0",
     "original": "Mosourika: The Duke is blaming the Dracogen Trading Company!",
-    "translation": "",
+    "translation": "Mosourika: 公爵将其归咎于德拉科根贸易公司！",
     "context": "{\n  \"id\": \"line:0a7889b\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Mosourika: The Duke is blaming the Dracogen Trading Company!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::96341e887ed52442",
     "original": "Mosourika: He's trying to charge the owner with criminal negligence!",
-    "translation": "",
+    "translation": "Mosourika: 他试图指控公司的所有者犯有刑事过失罪！",
     "context": "{\n  \"id\": \"line:0e062d5\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Mosourika: He's trying to charge the owner with criminal negligence!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9fc6180c2547fd17",
     "original": "As the lord of this region,[p/] it was House von Sanctus's responsibility to carry out the law.",
-    "translation": "",
+    "translation": "作为本地区的领主，[p/]执行法律正是冯·桑克图斯家的责任。",
     "context": "{\n  \"id\": \"line:0b62782\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"As the lord of this region,[p/] it was House von Sanctus's responsibility to carry out the law.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f4d1ab6a708097c7",
     "original": "But the Duke was obviously just taking this opportunity to attack one of his rivals.",
-    "translation": "",
+    "translation": "但是公爵显然只是抓住机会攻讦竞争对手。",
     "context": "{\n  \"id\": \"line:00a5207\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"But the Duke was obviously just taking this opportunity to attack one of his rivals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::10de62bd83bdb7e5",
     "original": "Mosourika: Tyrion...[p/] You're a famous lawyer, right?",
-    "translation": "",
+    "translation": "Mosourika: 提利昂，[p/]你是个有名的律师，对吧？",
     "context": "{\n  \"id\": \"line:0c31536\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Mosourika: Tyrion...[p/] You're a famous lawyer, right?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7ff7dce1383ba09d",
     "original": "Mosourika: Can you help them?",
-    "translation": "",
+    "translation": "Mosourika: 你能帮帮他们吗？",
     "context": "{\n  \"id\": \"line:0726ff6\",\n  \"node\": \"AfterCafe10\",\n  \"text\": \"Mosourika: Can you help them?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::74127f5c627ba672",
     "original": "Tyrion: I...[p/] don't think I can.",
-    "translation": "",
+    "translation": "Tyrion: 我……[p/]不觉得我可以。",
     "context": "{\n  \"id\": \"line:0ff9dce\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Tyrion: I...[p/] don't think I can.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2a732020d7a2d82e",
     "original": "Mosourika: W-[p/][s/]What?![p/] B-[p/]But—",
-    "translation": "",
+    "translation": "Mosourika: 为、[p/][s/]为什么？！[p/]但、[p/]但是——",
     "context": "{\n  \"id\": \"line:095cbb5\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Mosourika: W-[p/][s/]What?![p/] B-[p/]But—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8d6543cc952b3ad1",
     "original": "Tyrion: Rika,[p/] I specialize in homicides,[p/] and most of my clients are [i]mages[/i] who've been charged with murder.",
-    "translation": "",
+    "translation": "Tyrion: 里卡，[p/]我专精凶杀案。[p/]我绝大部分客户都是被控谋杀罪的[i]法师[/i]。",
     "context": "{\n  \"id\": \"line:061c848\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Tyrion: Rika,[p/] I specialize in homicides,[p/] and most of my clients are [i]mages[/i] who've been charged with murder.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8602d39d4fd527c3",
     "original": "Tyrion: There isn't any magic involved in what happened.[p/] There isn't even a killer.",
-    "translation": "",
+    "translation": "Tyrion: 并没有什么法术在案件里产生影响，[p/]甚至没有特定的凶手。",
     "context": "{\n  \"id\": \"line:0c5a383\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Tyrion: There isn't any magic involved in what happened.[p/] There isn't even a killer.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::84ab2792d1a59c2c",
     "original": "Mosourika: T-[p/][s/]That's not true![p/][s/] I saw it happen!",
-    "translation": "",
+    "translation": "Mosourika: 不、[p/][s/]不是这样！[p/][s/]我看到了！",
     "context": "{\n  \"id\": \"line:0814c1e\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Mosourika: T-[p/][s/]That's not true![p/][s/] I saw it happen!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::aff10917938c7f2b",
     "original": "Mosourika: I didn't see who did it,[p/] but I saw someone cast a spell at him!",
-    "translation": "",
+    "translation": "Mosourika: 我没有看到是谁干的，[p/]但我看到有人向他施放了法术！",
     "context": "{\n  \"id\": \"line:0cd111f\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Mosourika: I didn't see who did it,[p/] but I saw someone cast a spell at him!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::10a2ffc0bf9167de",
     "original": "Mosourika: It pushed him into the vat!",
-    "translation": "",
+    "translation": "Mosourika: 他是被推到容器里的！",
     "context": "{\n  \"id\": \"line:03f3e16\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Mosourika: It pushed him into the vat!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::25352a32cff98512",
     "original": "Celeste: What?!",
-    "translation": "",
+    "translation": "Celeste: 你说什么？！",
     "context": "{\n  \"id\": \"line:04f4980\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Celeste: What?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::93df4a8e80a38b81",
     "original": "Tyrion: ...How sure are you of this?",
-    "translation": "",
+    "translation": "Tyrion: ……你对此有多确定？",
     "context": "{\n  \"id\": \"line:039229b\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Tyrion: ...How sure are you of this?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6e9f654d489bb75f",
     "original": "Mosourika: I-[p/][s/]I don't know...[p/] It all happened really fast.",
-    "translation": "",
+    "translation": "Mosourika: 我、[p/][s/]我也说不上来……[p/]发生得太快了。",
     "context": "{\n  \"id\": \"line:08a37ed\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Mosourika: I-[p/][s/]I don't know...[p/] It all happened really fast.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::24b3d57dffad829a",
     "original": "I took a deep breath.[p/] Even [i]she[/i] didn't seem that sure of what she saw.",
-    "translation": "",
+    "translation": "我深吸一口气。[p/]即使是[i]她[/i]都对自己的目击内容不太确定。",
     "context": "{\n  \"id\": \"line:020f948\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"I took a deep breath.[p/] Even [i]she[/i] didn't seem that sure of what she saw.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f801a8ac458d5a0c",
     "original": "Tyrion: Do you know what kind of spell it was?",
-    "translation": "",
+    "translation": "Tyrion: 你知道那是什么法术吗？",
     "context": "{\n  \"id\": \"line:02245ad\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Tyrion: Do you know what kind of spell it was?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d2cc65b5d2d45dc1",
     "original": "Mosourika: I-[p/][s/]I don't know![p/][s/] But it was powerful enough to break everything around it!",
-    "translation": "",
+    "translation": "Mosourika: 我、[p/][s/]我不知道！[p/][s/]但那个法术威力巨大，能把周围的东西都破坏了！",
     "context": "{\n  \"id\": \"line:0605424\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Mosourika: I-[p/][s/]I don't know![p/][s/] But it was powerful enough to break everything around it!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::661fa483eaa28f43",
     "original": "That definitely sounded too distinct.[p/] She must have seen [i]something[/i].",
-    "translation": "",
+    "translation": "这听起来就很特别了。[p/]她一定是看到了[i]什么[/i]。",
     "context": "{\n  \"id\": \"line:0b70d85\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"That definitely sounded too distinct.[p/] She must have seen [i]something[/i].\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::939978cf608c7e3b",
     "original": "Tyrion: ...Okay.[p/] I'll head to the refinery and see what I can do.",
-    "translation": "",
+    "translation": "Tyrion: ……那好。[p/]我这就去精炼厂看看能做些什么。",
     "context": "{\n  \"id\": \"line:064a0e0\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Tyrion: ...Okay.[p/] I'll head to the refinery and see what I can do.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5dbbc5b21063d41a",
     "original": "Mosourika: Really?",
-    "translation": "",
+    "translation": "Mosourika: 真的？",
     "context": "{\n  \"id\": \"line:055b8d3=\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Mosourika: Really?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b3dac7f5c4398e2b",
     "original": "Tyrion: But don't get your hopes up.[p/] I don't have a lot of information to work with.",
-    "translation": "",
+    "translation": "Tyrion: 也别抱太大希望。[p/]我还没多少可以着手的信息。",
     "context": "{\n  \"id\": \"line:09b8c73\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Tyrion: But don't get your hopes up.[p/] I don't have a lot of information to work with.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8a594494ec063713",
     "original": "Mosourika: That's fine![p/][s/] I'll let Dracogen know that you're on your way.",
-    "translation": "",
+    "translation": "Mosourika: 没关系！[p/][s/]我这就告诉德拉科根，你已经在去的路上了。",
     "context": "{\n  \"id\": \"line:0200874\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"Mosourika: That's fine![p/][s/] I'll let Dracogen know that you're on your way.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::07c2d9389e3409e6",
     "original": "...This week was just getting worse by the minute.",
-    "translation": "",
+    "translation": "……这一周真是每一刻都在变得更糟糕。",
     "context": "{\n  \"id\": \"line:0f96df4\",\n  \"node\": \"AfterCafe11\",\n  \"text\": \"...This week was just getting worse by the minute.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::45170ab7de61d26a",
     "original": "Tyrion: Rika, are you okay?",
-    "translation": "",
+    "translation": "Tyrion: 里卡，你没事吧？",
     "context": "{\n  \"id\": \"line:06595e2\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Tyrion: Rika, are you okay?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::53aacb1dcb2449ab",
     "original": "Mosourika: Ha![p/][s/] Do you even need to ask?!",
-    "translation": "",
+    "translation": "Mosourika: 哈！[p/][s/]这还要问吗？！",
     "context": "{\n  \"id\": \"line:0062621\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Mosourika: Ha![p/][s/] Do you even need to ask?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::51cb2cdce134fc21",
     "original": "Mosourika: Of course I'm not okay!",
-    "translation": "",
+    "translation": "Mosourika: 当然不是没事了！",
     "context": "{\n  \"id\": \"line:0a8a512\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Mosourika: Of course I'm not okay!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b6e975ad45d4cfa7",
     "original": "Mosourika: This place is crawling with knights and nobles!",
-    "translation": "",
+    "translation": "Mosourika: 这里到处都是骑士和贵族！",
     "context": "{\n  \"id\": \"line:022eb97\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Mosourika: This place is crawling with knights and nobles!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::920788c7489c1c78",
     "original": "Tyrion: I understand your reservations,[p/] but there's nothing to worry about.",
-    "translation": "",
+    "translation": "Tyrion: 我理解你的顾虑，[p/]但没什么需要担心的。",
     "context": "{\n  \"id\": \"line:02cb2bd\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Tyrion: I understand your reservations,[p/] but there's nothing to worry about.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::29fd7b3bca2ecf0c",
     "original": "Tyrion: They're just here to watch the trial.",
-    "translation": "",
+    "translation": "Tyrion: 他们只是来旁观庭审的。",
     "context": "{\n  \"id\": \"line:0f30877\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Tyrion: They're just here to watch the trial.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::39c7e14f17960810",
     "original": "Stefanic: I really appreciate you coming to testify, Ms. Tudor.",
-    "translation": "",
+    "translation": "Stefanic: 真的很感激你前来作证，都铎女士。",
     "context": "{\n  \"id\": \"line:0d3d339\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Stefanic: I really appreciate you coming to testify, Ms. Tudor.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8fd40bef8f1041c6",
     "original": "Stefanic: I can imagine it's difficult for you to return here again.",
-    "translation": "",
+    "translation": "Stefanic: 我想你回到这里，一定十分难过。",
     "context": "{\n  \"id\": \"line:0d44371\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Stefanic: I can imagine it's difficult for you to return here again.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::90e781d7f97f0941",
     "original": "Stefanic: ...",
-    "translation": "",
+    "translation": "Stefanic: ……",
     "context": "{\n  \"id\": \"line:006bdf6\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Stefanic: ...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::83a826e79fdc472b",
     "original": "Stefanic: My apologies.[p/] Perhaps I've said too much.",
-    "translation": "",
+    "translation": "Stefanic: 非常抱歉。[p/]我或许多嘴了。",
     "context": "{\n  \"id\": \"line:0f9a9b6\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Stefanic: My apologies.[p/] Perhaps I've said too much.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::801b797668809809",
     "original": "Mosourika: [i]*sigh*[/i][p/] Let's just get this over with...",
-    "translation": "",
+    "translation": "Mosourika: [i]*叹气*[/i][p/]我们还是赶紧把眼前的事情了结了吧……",
     "context": "{\n  \"id\": \"line:04e0c3c\",\n  \"node\": \"Courtroom1\",\n  \"text\": \"Mosourika: [i]*sigh*[/i][p/] Let's just get this over with...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a478109ccafc81fc",
     "original": "JUDGE: Court is now in session for the trial of Stefanic Dracogen.",
-    "translation": "",
+    "translation": "Judge: 法庭现在开庭，审理斯蒂芬尼克·德拉科根案。",
     "context": "{\n  \"id\": \"line:07bc1f5\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"JUDGE: Court is now in session for the trial of Stefanic Dracogen.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e5c9a612e24bbb8d",
     "original": "AriaC: The prosecution is ready, Your Honor.",
-    "translation": "",
+    "translation": "AriaC: 检方已准备就绪，法官阁下。",
     "context": "{\n  \"id\": \"line:0e5656f\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: The prosecution is ready, Your Honor.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b53e290fc88ed845",
     "original": "TYRION: The defense is also ready.",
-    "translation": "",
+    "translation": "Tyrion: 辩方也准备完毕。",
     "context": "{\n  \"id\": \"line:01a9b0e\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"TYRION: The defense is also ready.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e6517b12b85f7773",
     "original": "JUDGE: Very well.[p/] Prosecutor Steelwind,[p/] could you please list the charges?",
-    "translation": "",
+    "translation": "JUDGE: 很好。[p/]检察官斯蒂尔文德，[p/]能请你列出指控吗？",
     "context": "{\n  \"id\": \"line:0ea4992\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"JUDGE: Very well.[p/] Prosecutor Steelwind,[p/] could you please list the charges?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::50931533a36398cf",
     "original": "AriaC: Stefanic Dracogen is the owner of the Dracogen Trading Company,[p/] located in the city of Aurinax.",
-    "translation": "",
+    "translation": "AriaC: 斯蒂芬尼克·德拉科根系德拉科根贸易公司的所有人，[p/]公司位于欧奥耐克斯城内。",
     "context": "{\n  \"id\": \"line:0c9a742\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: Stefanic Dracogen is the owner of the Dracogen Trading Company,[p/] located in the city of Aurinax.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::007b3dbe8e0071c1",
     "original": "AriaC: His company has many business ventures in Aurinax and Ratholme,[p/] but his business is most known for the production of artificery devices.",
-    "translation": "",
+    "translation": "AriaC: 他的公司在欧奥耐克斯和瑞思霍姆都有多项商业投资，[p/]其中最为人所知的是奥术能源装置生产事业。",
     "context": "{\n  \"id\": \"line:09b0cb1\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: His company has many business ventures in Aurinax and Ratholme,[p/] but his business is most known for the production of artificery devices.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8b74ffeec23c41f4",
     "original": "Judge: Ah,[p/] I thought I recognized the name.",
-    "translation": "",
+    "translation": "Judge: 啊，[p/]我想起来这个名字了。",
     "context": "{\n  \"id\": \"line:03d9e88\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Judge: Ah,[p/] I thought I recognized the name.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c9b2eeb9cca266a9",
     "original": "Judge: I'm quite pleased with my Dracogen brand dishwasher.",
-    "translation": "",
+    "translation": "Judge: 我还挺喜欢德拉科根牌的洗碗机的。",
     "context": "{\n  \"id\": \"line:0881ba1\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Judge: I'm quite pleased with my Dracogen brand dishwasher.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::50d458063aeff7e0",
     "original": "AriaC: ...Be that as it may, Your Honor,[p/] Mr. Dracogen is charged with criminal negligence resulting in death.",
-    "translation": "",
+    "translation": "AriaC: ……尽管如此，法官阁下，[p/]德拉科根先生正被指控过失杀人。",
     "context": "{\n  \"id\": \"line:01ae32d\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: ...Be that as it may, Your Honor,[p/] Mr. Dracogen is charged with criminal negligence resulting in death.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3b75079af96f2633",
     "original": "AriaC: The accident occurred within the Aurinax Arcane Refinery owned by his company.",
-    "translation": "",
+    "translation": "AriaC: 这起事故发生在他公司名下的欧奥耐克斯奥术精炼厂内。",
     "context": "{\n  \"id\": \"line:0a3c8dc\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: The accident occurred within the Aurinax Arcane Refinery owned by his company.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bf11ac0ac661503d",
     "original": "AriaC: The victim: Justin Waye,[p/] leaned against a damaged guardrail,[p/] causing it to break.",
-    "translation": "",
+    "translation": "AriaC: 被害人贾斯汀·维耶，[p/]倚靠在受损的护栏上，[p/]致使其断裂。",
     "context": "{\n  \"id\": \"line:03afde5\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: The victim: Justin Waye,[p/] leaned against a damaged guardrail,[p/] causing it to break.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6c3d11d597021920",
     "original": "AriaC: As a result,[p/] he fell into a vat of volatile chemicals.",
-    "translation": "",
+    "translation": "AriaC: 结果就是，[p/]他坠入了装有烈性化学物质的容器里。",
     "context": "{\n  \"id\": \"line:0c535a5\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: As a result,[p/] he fell into a vat of volatile chemicals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::030071eac5483ab4",
     "original": "AriaC: Attempts were made to save him,[p/] but by the time they could neutralize the vat,[p/] he was already dead.",
-    "translation": "",
+    "translation": "AriaC: 尽管工人们有尝试救他，[p/]但还没来得及中和容器里的物质，[p/]他就已经死去了。",
     "context": "{\n  \"id\": \"line:001ffd6\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: Attempts were made to save him,[p/] but by the time they could neutralize the vat,[p/] he was already dead.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::87ee2c3bb9c2ef34",
     "original": "Judge: That's certainly a very gruesome way to go.",
-    "translation": "",
+    "translation": "Judge: 那确实是非常惨烈的死亡方式。",
     "context": "{\n  \"id\": \"line:0155ba5\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Judge: That's certainly a very gruesome way to go.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::115884fc3c6babf9",
     "original": "AriaC: The defendant displayed clear negligence in maintaining the refinery's facilities.",
-    "translation": "",
+    "translation": "AriaC: 被告在维持精炼厂设施功能完备方面存在明显的过失。",
     "context": "{\n  \"id\": \"line:035811b\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: The defendant displayed clear negligence in maintaining the refinery's facilities.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b22de2a99236dee6",
     "original": "AriaC: As such,[p/] the responsibility for Mr. Waye's death falls squarely on his shoulders.",
-    "translation": "",
+    "translation": "AriaC: 因此，[p/]维耶先生之死毫无疑问应由他承担责任。",
     "context": "{\n  \"id\": \"line:0601d03\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: As such,[p/] the responsibility for Mr. Waye's death falls squarely on his shoulders.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::565937b882264c5f",
     "original": "Tyrion: Your Honor.[p/] This case isn't nearly as mundane as the prosecution is making it out to be.",
-    "translation": "",
+    "translation": "Tyrion: 法官阁下。[p/]这个案件远不如检方宣称的那样平淡无奇。",
     "context": "{\n  \"id\": \"line:074b87d\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Tyrion: Your Honor.[p/] This case isn't nearly as mundane as the prosecution is making it out to be.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c2e31e7b893aef06",
     "original": "Tyrion: Justin Waye didn't fall into that vat because of a faulty guardrail.",
-    "translation": "",
+    "translation": "Tyrion: 贾斯汀·维耶并非是因为护栏失修而坠落的。",
     "context": "{\n  \"id\": \"line:054f9f8\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Tyrion: Justin Waye didn't fall into that vat because of a faulty guardrail.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7f9b43f0496c7209",
     "original": "Tyrion: He fell because he was pushed off the catwalk by an arcane spell!",
-    "translation": "",
+    "translation": "Tyrion: 他是被某种奥术魔法推下架空步道的！",
     "context": "{\n  \"id\": \"line:0a64e02\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Tyrion: He fell because he was pushed off the catwalk by an arcane spell!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3f53dc0e20af9ebe",
     "original": "Judge: Mr. Cuthbert,[p/] are you trying to say that the victim was murdered?!",
-    "translation": "",
+    "translation": "Judge: 卡斯伯特先生，[p/]你是想说被害人是遭到杀害的吗？！",
     "context": "{\n  \"id\": \"line:010dbcc\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Judge: Mr. Cuthbert,[p/] are you trying to say that the victim was murdered?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f2f217de5a6af3fb",
     "original": "AriaC: ...One of the witnesses claims that they saw a spell hit Mr. Waye before he fell into the vat.",
-    "translation": "",
+    "translation": "AriaC: ……有一位证人宣称她目击到维耶先生在坠落前遭到一道法术的攻击。",
     "context": "{\n  \"id\": \"line:038a0b2\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: ...One of the witnesses claims that they saw a spell hit Mr. Waye before he fell into the vat.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6b97501ca4d01197",
     "original": "AriaC: However,[p/] that testimony is completely contradicted by the lack of magic traces found anywhere near the catwalk.",
-    "translation": "",
+    "translation": "AriaC: 然而，[p/]她的证词与我们在步道周围未检测出任何法术痕迹的事实相矛盾。",
     "context": "{\n  \"id\": \"line:0e90592\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: However,[p/] that testimony is completely contradicted by the lack of magic traces found anywhere near the catwalk.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9b115e1d419e1946",
     "original": "Tyrion: If you're so confident, Steelwind,[p/] why don't we bring said witness onto the stand so she can testify herself?",
-    "translation": "",
+    "translation": "Tyrion: 既然你这么自信，斯蒂尔文德，[p/]那么我们为何不请这位证人亲自出庭作证呢？",
     "context": "{\n  \"id\": \"line:0f022f0\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"Tyrion: If you're so confident, Steelwind,[p/] why don't we bring said witness onto the stand so she can testify herself?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6f17dc033c262dd3",
     "original": "AriaC: ...Fine.[p/] Let's hear what she has to say.[p/] But I'm sure you know that even [i]she[/i] has no idea what she saw.",
-    "translation": "",
+    "translation": "AriaC: ……好。[p/]那我们一起听听她的说法。[p/]但我肯定，你也已经知道[i]她[/i]其实并不清楚自己看到了什么。",
     "context": "{\n  \"id\": \"line:0956652\",\n  \"node\": \"Courtroom1_1\",\n  \"text\": \"AriaC: ...Fine.[p/] Let's hear what she has to say.[p/] But I'm sure you know that even [i]she[/i] has no idea what she saw.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5c8ccff4487c9908",
     "original": "AriaC: Witness.[p/] Please state your name and occupation for the courtroom.",
-    "translation": "",
+    "translation": "AriaC: 证人，[p/]请向法庭告知你的姓名与职业。",
     "context": "{\n  \"id\": \"line:0776362\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: Witness.[p/] Please state your name and occupation for the courtroom.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::832ad0e8bac54423",
     "original": "She seemed to be okay,[p/] but she looked pretty nervous in the lobby.",
-    "translation": "",
+    "translation": "她看起来状态尚可，[p/]但刚刚在大厅里的时候看起来还挺紧张的。",
     "context": "{\n  \"id\": \"line:0d6825c\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"She seemed to be okay,[p/] but she looked pretty nervous in the lobby.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::11cef720c810ef18",
     "original": "I only hoped that this wouldn't be too much for her.",
-    "translation": "",
+    "translation": "我只能希望作证对她的负担不会太重。",
     "context": "{\n  \"id\": \"line:0aab088\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"I only hoped that this wouldn't be too much for her.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5a5af1d829547276",
     "original": "Mosourika: Fufufu...[p/] So you seek the title of the death-bringer songstress.",
-    "translation": "",
+    "translation": "Mosourika: 哼哼哼……[p/]你们现在来谋求“死亡颂歌者”的名号了。",
     "context": "{\n  \"id\": \"line:0cef6ce\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Mosourika: Fufufu...[p/] So you seek the title of the death-bringer songstress.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::639b92eaf14dc9b9",
     "original": "Scaled Lord...[p/][s/] Was she seriously going to do that [i]here[/i]?!",
-    "translation": "",
+    "translation": "鳞主在上啊……[p/][s/]她真的要在[i]这里[/i]演那一套吗？！",
     "context": "{\n  \"id\": \"line:072a1a9\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Scaled Lord...[p/][s/] Was she seriously going to do that [i]here[/i]?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8a773e738f904396",
     "original": "AriaC: ...What?",
-    "translation": "",
+    "translation": "AriaC: ……这是什么？",
     "context": "{\n  \"id\": \"line:0f04937\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: ...What?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1f52669d4d1e233e",
     "original": "Mosourika: I lie between life and death—[p/]heaven and hell.[p/] None are worthy of my name,[p/] so consider this a courtesy.",
-    "translation": "",
+    "translation": "Mosourika: 吾身横亘于生死之界，[p/]徘徊于天堂与地狱的夹缝。[p/]没有什么配得上成为我的名字，[p/]所以请将之视为礼节。",
     "context": "{\n  \"id\": \"line:03f9042\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Mosourika: I lie between life and death—[p/]heaven and hell.[p/] None are worthy of my name,[p/] so consider this a courtesy.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3ba47b5a6bf43226",
     "original": "Mosourika: I am Mosourika Tudor![p/][s/] Mage of [b]Evocation[/b] and the Ashen Lord of Aurinax!",
-    "translation": "",
+    "translation": "Mosourika: 吾即为莫苏里卡·都铎！[p/][s/][b]塑能术[/b]的大法师，欧奥耐克斯的灰烬之主！",
     "context": "{\n  \"id\": \"line:00e31c3\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Mosourika: I am Mosourika Tudor![p/][s/] Mage of [b]Evocation[/b] and the Ashen Lord of Aurinax!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::14970f7d4ae042e0",
     "original": "Judge: I wasn't aware that our kingdom had a title like that.",
-    "translation": "",
+    "translation": "Judge: 我还真不知道王国有这么个头衔。",
     "context": "{\n  \"id\": \"line:0ef3203\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Judge: I wasn't aware that our kingdom had a title like that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::303ecc025b7c96fc",
     "original": "Judge: The world has really changed a lot in recent years.",
-    "translation": "",
+    "translation": "Judge: 近几年世界变化可真是快啊。",
     "context": "{\n  \"id\": \"line:0be2be6\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Judge: The world has really changed a lot in recent years.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bbc13222a7095cc6",
     "original": "Tyrion: Y-[p/][s/]Your Honor...[p/] The witness is a business owner in Aurinax.[p/] She runs a café.",
-    "translation": "",
+    "translation": "Tyrion: 法、[p/][s/]法官阁下……[p/]证人是欧奥耐克斯的一名店主。[p/]她经营咖啡店。",
     "context": "{\n  \"id\": \"line:01e3c11\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Tyrion: Y-[p/][s/]Your Honor...[p/] The witness is a business owner in Aurinax.[p/] She runs a café.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cbd25fddba7c12ec",
     "original": "Judge: Why would the Ashen Lord of Aurinax run a café?",
-    "translation": "",
+    "translation": "Judge: 欧奥耐克斯的灰烬之主为什么要经营咖啡店呢？",
     "context": "{\n  \"id\": \"line:00f7fdb\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Judge: Why would the Ashen Lord of Aurinax run a café?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::14e5731769d1323e",
     "original": "Mosourika: Ah,[p/] I ask myself that same question every day.",
-    "translation": "",
+    "translation": "Mosourika: 啊，[p/]我每天也这么问自己。",
     "context": "{\n  \"id\": \"line:0c1f738\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Mosourika: Ah,[p/] I ask myself that same question every day.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::364f0c3f76d0c014",
     "original": "Tyrion: ...Rika, could you please not do this right now?",
-    "translation": "",
+    "translation": "Tyrion: ……里卡，至少现在能请你不要玩“这个”吗？",
     "context": "{\n  \"id\": \"line:003a473\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Tyrion: ...Rika, could you please not do this right now?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::017395f58aff5596",
     "original": "Mosourika: It helps me cope, okay?!",
-    "translation": "",
+    "translation": "Mosourika: 这能帮我处理压力，好吗？！",
     "context": "{\n  \"id\": \"line:01ef970\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Mosourika: It helps me cope, okay?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bd30e5c08e7bac3f",
     "original": "AriaC: [i]*ahem*[/i][p/] Ms. Tudor, can you please testify about what you saw at the refinery that morning?",
-    "translation": "",
+    "translation": "AriaC: [i]*清嗓子*[/i][p/]都铎女士，能请你就在那天早上于精炼厂目击的情况作证吗？",
     "context": "{\n  \"id\": \"line:068932f\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: [i]*ahem*[/i][p/] Ms. Tudor, can you please testify about what you saw at the refinery that morning?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9833ba35a6e77d9d",
     "original": "AriaC: And I think we could [i]all[/i] do without the verbal flourishes.",
-    "translation": "",
+    "translation": "AriaC: 而且我认为我们应该省去[i]所有[/i]的华丽辞藻。",
     "context": "{\n  \"id\": \"line:098c00a\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"AriaC: And I think we could [i]all[/i] do without the verbal flourishes.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bffb16cb00135f0c",
     "original": "Mosourika: Ugh...[p/] Fine.",
-    "translation": "",
+    "translation": "Mosourika: 呃……[p/]好。",
     "context": "{\n  \"id\": \"line:060b81f\",\n  \"node\": \"Courtroom1_2\",\n  \"text\": \"Mosourika: Ugh...[p/] Fine.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e89128789b9ebdfd",
     "original": "Mosourika: I was delivering food to Justin that morning,[p/] but I didn't see him anywhere in the freight area.",
-    "translation": "",
+    "translation": "Mosourika: 我早上去给贾斯汀送吃的，[p/]但货运区里哪儿都找不到他。",
     "context": "{\n  \"id\": \"line:0c1cd06\",\n  \"node\": \"RikaTest\",\n  \"text\": \"Mosourika: I was delivering food to Justin that morning,[p/] but I didn't see him anywhere in the freight area.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2c94b238fff4eae2",
     "original": "Mosourika: I went looking for him and spotted him on the catwalk.[p/] He looked like he was talking to someone.",
-    "translation": "",
+    "translation": "Mosourika: 我在找他的时候发现他在架空步道上，[p/]看起来在与某人说话。",
     "context": "{\n  \"id\": \"line:0cb283c\",\n  \"node\": \"RikaTest\",\n  \"text\": \"Mosourika: I went looking for him and spotted him on the catwalk.[p/] He looked like he was talking to someone.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c164a15098a964f9",
     "original": "Mosourika: That's when I saw a flash of magical light.[p/] Justin got blasted with a spell.",
-    "translation": "",
+    "translation": "Mosourika: 就在那时我看到一道魔法的闪光。[p/]贾斯汀被法术击中了。",
     "context": "{\n  \"id\": \"line:0e36f6c\",\n  \"node\": \"RikaTest\",\n  \"text\": \"Mosourika: That's when I saw a flash of magical light.[p/] Justin got blasted with a spell.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2b546a843bb7d6cc",
     "original": "Mosourika: It ripped apart the guardrail he was leaning on,[p/] and he fell into that vat of chemicals.",
-    "translation": "",
+    "translation": "Mosourika: 那法术撕掉了他靠着的护栏，[p/]然后他就掉进装有化学物质的那个容器里了。",
     "context": "{\n  \"id\": \"line:020ebc1\",\n  \"node\": \"RikaTest\",\n  \"text\": \"Mosourika: It ripped apart the guardrail he was leaning on,[p/] and he fell into that vat of chemicals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a67e687ad8c2986e",
     "original": "Mosourika: I told one of the workers what happened.[p/] They tried to save him,[p/] but I guess it was too late.",
-    "translation": "",
+    "translation": "Mosourika: 我赶紧告诉了工人们，[p/]他们有试着救他出来，[p/]但实在来不及。",
     "context": "{\n  \"id\": \"line:0175718\",\n  \"node\": \"RikaTest\",\n  \"text\": \"Mosourika: I told one of the workers what happened.[p/] They tried to save him,[p/] but I guess it was too late.\"\n}"
   },
   {
