@@ -7065,323 +7065,323 @@
   {
     "key": "C3 Dialogue.csv::translation::177571ddab8c1e82",
     "original": "AriaC: I'm sure Mr. Cuthbert has told you this, witness,[p/] but we didn't find any traces of magic near the catwalk.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 证人， 我相信卡斯伯特先生也有告诉你，[p/]我们在步道周围没有发现任何法术痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0bd875c\",\n  \"node\": \"RikaTest\",\n  \"text\": \"AriaC: I'm sure Mr. Cuthbert has told you this, witness,[p/] but we didn't find any traces of magic near the catwalk.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::42addef0107d6297",
     "original": "Mosourika: I [i]know[/i] what I saw![p/] Someone definitely used magic on him.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我[i]知道[/i]自己看见了什么！[p/]一定有人对他施放了魔法。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:073b636\",\n  \"node\": \"RikaTest\",\n  \"text\": \"Mosourika: I [i]know[/i] what I saw![p/] Someone definitely used magic on him.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::979ffa5c5eb270df",
     "original": "She seemed very sure of that.[p/] She definitely wasn't lying.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她看起来十分确信，[p/]也肯定没有说谎。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05f8af4\",\n  \"node\": \"RikaTest\",\n  \"text\": \"She seemed very sure of that.[p/] She definitely wasn't lying.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bb214e6747a087b8",
     "original": "But I still couldn't figure out why there weren't any traces of magic there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "但我还是想不明白为什么那里没有法术痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dc9777\",\n  \"node\": \"RikaTest\",\n  \"text\": \"But I still couldn't figure out why there weren't any traces of magic there.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f2f7fffe47d00b72",
     "original": "And there was something...[p/] [i]off[/i] about something she said,[p/] but I wasn't sure what.",
-    "translation": "",
-    "stage": 0,
+    "translation": "而且还有一点……[p/]与她的表述[i]有出入[/i]，[p/]只是我还不确定具体是哪里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0606ff3\",\n  \"node\": \"RikaTest\",\n  \"text\": \"And there was something...[p/] [i]off[/i] about something she said,[p/] but I wasn't sure what.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1862e1f48d717b5f",
     "original": "Judge: Mr. Cuthbert,[p/] you may begin your cross-examination.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡斯伯特先生，[p/]你可以开始交叉询问了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e8cde9\",\n  \"node\": \"RikaTest\",\n  \"text\": \"Judge: Mr. Cuthbert,[p/] you may begin your cross-examination.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8780cbcc54ba8aa9",
     "original": "Tyrion: Is he normally in the freight area when you make your deliveries?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你给他送早餐的时候，他通常都在货运区吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:092bc62\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: Is he normally in the freight area when you make your deliveries?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d0735c00dac0a66a",
     "original": "Mosourika: Yeah,[p/] but I guess he was doing something in the refinery.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 没错，[p/]不过我想他那天可能是在精炼厂有事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f5427f\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: Yeah,[p/] but I guess he was doing something in the refinery.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cdbf9666ed4d6f3c",
     "original": "Tyrion: According to Dracogen,[p/] the victim only worked in the freight department.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 根据德拉科根的说法，[p/]被害人只在货运区工作。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08534bb\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: According to Dracogen,[p/] the victim only worked in the freight department.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::33fd71a5f711ec27",
     "original": "Tyrion: He definitely wasn't doing his job when he was in the refinery building.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 因此他肯定不是出于工作才去精炼厂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:072e630\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: He definitely wasn't doing his job when he was in the refinery building.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9e413c1935fcebda",
     "original": "Tyrion: Do you have any idea why he was there?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你知道他为什么要去那里吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f324e5\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: Do you have any idea why he was there?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d79cd95e47b55aab",
     "original": "Mosourika: I-[p/][s/]I don't know.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我、[p/][s/]我不知道。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f05c29\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: I-[p/][s/]I don't know.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::154ebccab3d9dc20",
     "original": "Mosourika: He didn't talk much about what he did,[p/] so I just assumed he was [i]supposed[/i] to be there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 他很少谈及自己的工作，[p/]所以我当时还以为他出现在那里是[i]应该[/i]的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06ea7b9\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: He didn't talk much about what he did,[p/] so I just assumed he was [i]supposed[/i] to be there.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::241614a9b8dd82f6",
     "original": "Tyrion: Did you see who he was talking to?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你有看到他在和谁交谈吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a84184\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: Did you see who he was talking to?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6818edcb67def29d",
     "original": "Mosourika: No, they were too high up,[p/] and the catwalk was blocking them.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 没有，那里太高了，[p/]步道本身挡住了他们。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b37fa4\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: No, they were too high up,[p/] and the catwalk was blocking them.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2f6556683091f8fc",
     "original": "Mosourika: But he looked kind of angry.[p/] He also looked a little scared.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 但他看起来有些生气，[p/]好像还有一点点害怕。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fb6da2\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: But he looked kind of angry.[p/] He also looked a little scared.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::be00ac24412bebea",
     "original": "Tyrion: What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是这样？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b703e2\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: What?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a98f6b4e2454ccb9",
     "original": "Tyrion: Do you think he was talking to the thief?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那你认为他是在和那个窃贼交谈吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:012cdd2\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: Do you think he was talking to the thief?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3a95b9259e5fdbba",
     "original": "Tyrion: He might have spotted them robbing my client's office.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他可能目击到窃贼在我委托人的办公室实施盗窃。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0572fbe\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: He might have spotted them robbing my client's office.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4adfed4000b2856e",
     "original": "AriaC: That is purely speculation on your part, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 这纯粹是你的个人猜测，卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:017450a\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: That is purely speculation on your part, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::71202e0954912591",
     "original": "AriaC: At the very least,[p/] you'd need a witness to even entertain that theory.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 最起码，[p/]你需要目击证人来支持你的推论。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0509d28\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: At the very least,[p/] you'd need a witness to even entertain that theory.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7680ca69fa3d0f6d",
     "original": "AriaC: And the current witness didn't see who the victim was talking to.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 而证人没有看到被害人在和谁交谈。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b2c144\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: And the current witness didn't see who the victim was talking to.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5b4a1ae18f1bce39",
     "original": "Judge: I'm compelled to agree, Ms. Steelwind.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 我不得不赞同斯蒂尔文德女士。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0515584\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Judge: I'm compelled to agree, Ms. Steelwind.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::92ff22359cfa1745",
     "original": "Tyrion: Have you been able to figure out what kind of spell he got hit with?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你是否能分辨出他被什么法术击中了？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09fe0a7\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: Have you been able to figure out what kind of spell he got hit with?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4165f56944a0ccf1",
     "original": "Mosourika: No...[p/] I've been thinking,[p/] but I've never seen a spell like that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 不能……[p/]我一直在想这件事，[p/]但我从没见过那样的法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0884d72\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: No...[p/] I've been thinking,[p/] but I've never seen a spell like that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ae0e144f4c64e83e",
     "original": "Mosourika: My expertise is in [b]evocation[/b] magic,[p/] and that spell looked completely different from the spells I can cast.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我是[b]塑能术[/b]专精的，[p/]至少那种法术与我能施放的法术完全不一样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02e55ea\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: My expertise is in [b]evocation[/b] magic,[p/] and that spell looked completely different from the spells I can cast.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::08213e38d3916b8c",
     "original": "AriaC: May I remind the court that the Inquisition found no traces of [b]evocation[/b] magic at the scene of Mr. Waye's death?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我提醒出庭的各位，裁判所没有在维耶先生的死亡现场找到任何[b]塑能术[/b]的痕迹。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ca3e16\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: May I remind the court that the Inquisition found no traces of [b]evocation[/b] magic at the scene of Mr. Waye's death?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ac09de2bddddfb6e",
     "original": "AriaC: An [b]evocation[b/] couldn't have ripped that guardrail apart.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 不可能是[b]塑能术[b/]把那个护栏破坏掉的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093f3f5\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: An [b]evocation[b/] couldn't have ripped that guardrail apart.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4c05ef4daafa186d",
     "original": "Tyrion: Which can only a mean that a spell from a [i]different[/i] school of magic broke it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 也就意味着是[i]其他[/i]学派的法术造成了破坏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b5969a\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: Which can only a mean that a spell from a [i]different[/i] school of magic broke it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::def8e8cdaa08a1d8",
     "original": "AriaC: [i]Or[/i] the witness is simply grieving and doesn't remember what happened.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: [i]或者[/i]意味着证人只是因为悲伤，记不清发生的事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:093596f\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: [i]Or[/i] the witness is simply grieving and doesn't remember what happened.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e4653c4948822809",
     "original": "AriaC: We have records that show that the guardrail was damaged and in need of repair.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我们找到了一份记录，显示护栏在之前已经受损，需要维修。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0116f72\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: We have records that show that the guardrail was damaged and in need of repair.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c06f49dcf56d656c",
     "original": "Tyrion: My client's contractors assured him that the damage wasn't severe.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我的委托人得到供应商的承诺，那个损伤并不严重。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c626a4\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: My client's contractors assured him that the damage wasn't severe.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::abe101f75a6a71be",
     "original": "AriaC: Yet, the guardrail broke apart anyway.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 然而护栏最终还是断裂了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01316b5\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: Yet, the guardrail broke apart anyway.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7f19d7dcc0062809",
     "original": "AriaC: If you want to posit that a spell broke the guardrail,[p/] you'll have to prove it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 如果你要主张是某种法术破坏了护栏，[p/]你就需要证明它。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:013b1c0\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: If you want to posit that a spell broke the guardrail,[p/] you'll have to prove it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1c109872b709d3ef",
     "original": "Mosourika: It ripped apart the guardrail he was leaning on, and he fell into that vat of chemicals.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 那法术撕掉了他靠着的护栏，然后他就掉进装有化学物质的那个容器里了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02563d9\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: It ripped apart the guardrail he was leaning on, and he fell into that vat of chemicals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a2f01f2469c42daf",
     "original": "Mosourika: A magical expanding prism ripped apart the guardrail he was leaning on, and he fell into that vat of chemicals.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 一个棱柱状的魔力体迅速膨胀，撑裂了他倚靠的护栏，他才掉进了那个化学容器。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d9c678\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: A magical expanding prism ripped apart the guardrail he was leaning on, and he fell into that vat of chemicals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c7fcb7a8b8d94610",
     "original": "Mosourika: It ripped apart the guardrail he was leaning on.[p/] After that,[p/] he tried to catch himself on it and fell into that vat of chemicals.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 它撕裂了他倚靠的护栏。[p/]然后，[p/]他试图抓住护栏，却掉进装有化学物质的那个容器里了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02b6f83\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: It ripped apart the guardrail he was leaning on.[p/] After that,[p/] he tried to catch himself on it and fell into that vat of chemicals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::458141e931225f41",
     "original": "Mosourika: It violently and instantly ripped apart the guardrail he was leaning on.[p/] He fell into that vat of chemicals.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 它瞬间猛地一下撕裂了他倚靠的护栏。[p/]然后他就掉进装有化学物质的那个容器里了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:028f991\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: It violently and instantly ripped apart the guardrail he was leaning on.[p/] He fell into that vat of chemicals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0b6fcdda799be5d7",
     "original": "Tyrion: How did they try to save him?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 他们如何救助贾斯汀的？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04f1108\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: How did they try to save him?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::258f60481f2e5418",
     "original": "AriaC: The chemicals that the victim fell into were extremely volatile and corrosive.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 被害人坠入那个容器里的化学物质极度烈性且有腐蚀性。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0107f8d\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: The chemicals that the victim fell into were extremely volatile and corrosive.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b821eddb54c1fe1b",
     "original": "AriaC: They poured a neutralizing solution into the vat to keep it from eating away at any implement they used to fish him out.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 他们向容器里倒入中和剂，防止它溶化用于打捞的工具。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02e9d46\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: They poured a neutralizing solution into the vat to keep it from eating away at any implement they used to fish him out.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0caf725b61724f4f",
     "original": "AriaC: The downside of this process was that it took far too long before they could remove the victim.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 但这个中和反应耗时太长，来不及让他们救出被害人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f9eb76\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"AriaC: The downside of this process was that it took far too long before they could remove the victim.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::69aec9747a9bb948",
     "original": "Mosourika: ...I thought those chemicals were just toxic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……我以为那些化学物质只是有毒而已。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a8144\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: ...I thought those chemicals were just toxic.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::01d11bfdb4d68907",
     "original": "Mosourika: Are you telling me those dissolved him while he was still alive?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 你是要告诉我他是活生生被溶解的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b8769b\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Mosourika: Are you telling me those dissolved him while he was still alive?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1af14f5ede06b3d4",
     "original": "I winced.[p/] I really wanted to avoid letting her find out about that.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我眉头紧皱。[p/]我真的很想避免她知道这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00e4d62\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"I winced.[p/] I really wanted to avoid letting her find out about that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::357470343e2b877d",
     "original": "Judge: ...Perhaps, we should move on.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: ……或许，我们该讨论下一个问题了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cfba99\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Judge: ...Perhaps, we should move on.\"\n}"
   },
   {
@@ -7394,43 +7394,43 @@
   {
     "key": "C3 Dialogue.csv::translation::0d9075298f5d2e9f",
     "original": "Celeste: Her testimony is the best piece of evidence we have.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 她的证词对我们来说是最棒的证据。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00e1dee\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Celeste: Her testimony is the best piece of evidence we have.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::412cc4e39a7173e5",
     "original": "Celeste: Is it really a good idea to find a contradiction in it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 指出其中的破绽真的好吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c02759\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Celeste: Is it really a good idea to find a contradiction in it?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::539f93064e6239ff",
     "original": "Tyrion: Even [i]she[/i] doesn't know what happened,[p] and there's something nagging at me.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 即使是[i]她[/i]也不知道到底发生了什么，[p]而我心里总有一点不安。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a64252\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: Even [i]she[/i] doesn't know what happened,[p] and there's something nagging at me.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::288c182d4b698d75",
     "original": "Tyrion: If I can find it,[p/] it will put us one step closer to the truth.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果我们能找出那个问题，[p/]就能让我们更接近真相一步。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:023190d\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: If I can find it,[p/] it will put us one step closer to the truth.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d8e621b62d959fde",
     "original": "Celeste: If you say so...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 既然你这么说的话……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0acc9b0\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Celeste: If you say so...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4b901bda00dca63c",
     "original": "I would just need to look at the details she's testifying about and find out what doesn't fit.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我需要仔细查看她证词的细节，找出有问题的地方。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08b41f2\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"I would just need to look at the details she's testifying about and find out what doesn't fit.\"\n}"
   },
   {
@@ -7443,568 +7443,568 @@
   {
     "key": "C3 Dialogue.csv::translation::461e6669a2f4d80b",
     "original": "Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:040854c\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fad4d3177c3152fb",
     "original": "Tyrion: And this piece of evidence proves it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 而这件证据证明了这点！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0758ae2\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: And this piece of evidence proves it!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ceb079e913f47029",
     "original": "Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡斯伯特先生……我没看出来这两者有什么关系。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00a6eef\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Judge: I fail to see how that proves anything, Mr. Cuthbert...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::359051647512519a",
     "original": "Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c6ec94\",\n  \"node\": \"Cross_Rika\",\n  \"text\": \"Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2c88a4d7199751ba",
     "original": "Tyrion: I know this must be difficult for you,[p/] but can you remember any more details about the moment Justin fell?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我明白这会让你很难过，[p/]你能否回忆起贾斯汀坠落时更多的细节？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0baf6a5\",\n  \"node\": \"PressRika\",\n  \"text\": \"Tyrion: I know this must be difficult for you,[p/] but can you remember any more details about the moment Justin fell?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::465bece52924c0d7",
     "original": "Mosourika: I guess I'd need to know what details you want.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我想，你得告诉我你要知道的是哪方面的细节。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0def23b\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: I guess I'd need to know what details you want.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a0b5f8eee471c173",
     "original": "What did the spell look like?",
-    "translation": "",
-    "stage": 0,
+    "translation": "那个法术看起来是什么样子？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03d8e4b\",\n  \"node\": \"PressRika\",\n  \"text\": \"What did the spell look like?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::71d2bc9614cd00ff",
     "original": "Tyrion: What did this spell look like?[p/] Any detail might help us identify it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那个法术看起来是什么样子？[p/]任何细节都可能让我们确定它。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05d02b9\",\n  \"node\": \"PressRika\",\n  \"text\": \"Tyrion: What did this spell look like?[p/] Any detail might help us identify it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8f0e4fb9dac73fe7",
     "original": "Mosourika: I don't know.[p/] I only saw it for a second.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我也不太清楚。[p/]我只看到了一瞬间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05d3846\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: I don't know.[p/] I only saw it for a second.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::712a065d4e123899",
     "original": "Mosourika: It didn't look like an explosion or anything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 它看起来不像是爆炸之类的效应。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0881821\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: It didn't look like an explosion or anything.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4bb58b5361a457a0",
     "original": "AriaC: A prism?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 一个棱柱？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09fcde3\",\n  \"node\": \"PressRika\",\n  \"text\": \"AriaC: A prism?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::61a704711cfb1eea",
     "original": "Mosourika: Yeah, it had really sharp edges like a cube.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 对啊，它有尖锐的边角，向长方体那样。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01c4d53\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: Yeah, it had really sharp edges like a cube.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8aab30e643a37563",
     "original": "Mosourika: But it was wider than it was tall.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 但它的宽比高要长不少。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:091a009\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: But it was wider than it was tall.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::800482c5c564ca11",
     "original": "Tyrion: Witness, could you add this detail to your testimony?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 证人，你能将这个细节添加到证词中吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0390759\",\n  \"node\": \"PressRika\",\n  \"text\": \"Tyrion: Witness, could you add this detail to your testimony?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d938501bcbb128b2",
     "original": "Mosourika: Okay...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 好……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02bc03b\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: Okay...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d108fce0758af3ef",
     "original": "How did the spell affect Justin?",
-    "translation": "",
-    "stage": 0,
+    "translation": "法术对贾斯汀造成了什么影响？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ee4b78\",\n  \"node\": \"PressRika\",\n  \"text\": \"How did the spell affect Justin?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::88cae2dcc6aa303d",
     "original": "Tyrion: What did the spell do to Justin?[p/] How did it affect him?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法术对贾斯汀造成了什么影响？[p/]产生了什么样的效应？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c65208\",\n  \"node\": \"PressRika\",\n  \"text\": \"Tyrion: What did the spell do to Justin?[p/] How did it affect him?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::48d9fce08b916848",
     "original": "Mosourika: Um...[p/] After that flash of light,[p/] it looked like he lost his balance.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 嗯……[p/]那道闪光发生后，[p/]看起来他失去了平衡。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:063b03c\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: Um...[p/] After that flash of light,[p/] it looked like he lost his balance.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::79c27e8e2068e6b0",
     "original": "Mosourika: He tried to catch himself on the guardrail,[p/] but it was already broken apart.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 他想抓住护栏，[p/]但护栏已经断裂了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:040d5f7\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: He tried to catch himself on the guardrail,[p/] but it was already broken apart.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::61b57bd4f16b4a5b",
     "original": "Mosourika: He fell right into the vat of chemicals.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 然后他就落入了那个化学容器里。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:058b74b\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: He fell right into the vat of chemicals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e68273068de9a885",
     "original": "AriaC: ...",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: ……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ae5d27\",\n  \"node\": \"PressRika\",\n  \"text\": \"AriaC: ...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e5ce320edb00bff6",
     "original": "How did the spell affect the guardrail?",
-    "translation": "",
-    "stage": 0,
+    "translation": "法术对护栏造成了什么影响？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0200888\",\n  \"node\": \"PressRika\",\n  \"text\": \"How did the spell affect the guardrail?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c2ed8413938adbb0",
     "original": "Tyrion: What did the spell do to the guardrail?",
-    "translation": "",
-    "stage": 0,
+    "translation": "法术对护栏造成了什么影响？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fa837c\",\n  \"node\": \"PressRika\",\n  \"text\": \"Tyrion: What did the spell do to the guardrail?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b3747d7e65e25ead",
     "original": "Mosourika: Like I said,[p/] it ripped apart the guardrail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 我说过的，[p/]它撕开了护栏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:067886b\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: Like I said,[p/] it ripped apart the guardrail.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::64ca53eed38f7b5d",
     "original": "Tyrion: How did it do that, though?[p/] Did the spell slowly break it apart?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 具体是什么情况呢？[p/]它是将护栏渐渐撕开的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a778ac\",\n  \"node\": \"PressRika\",\n  \"text\": \"Tyrion: How did it do that, though?[p/] Did the spell slowly break it apart?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::24c492d709e411a2",
     "original": "Mosourika: No,[p/] it happened instantly.[p/] It was kind of like what happens when you pull a rubber band so hard that it snaps.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 不对，[p/]一下子就扯开了。[p/]有点像你用力拉橡皮筋拉断时的样子。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d33216\",\n  \"node\": \"PressRika\",\n  \"text\": \"Mosourika: No,[p/] it happened instantly.[p/] It was kind of like what happens when you pull a rubber band so hard that it snaps.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a3e778c80d29c22c",
     "original": "So the spell broke the guardrail instantly?[p/] It must have been some kind of instantaneous effect.",
-    "translation": "",
-    "stage": 0,
+    "translation": "那个法术一瞬间就把护栏撕裂了？[p/]也就是说法术的效应是即时生效的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06b2d20\",\n  \"node\": \"PressRika\",\n  \"text\": \"So the spell broke the guardrail instantly?[p/] It must have been some kind of instantaneous effect.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cff0822f41e09005",
     "original": "But we already knew that there weren't any traces of [b]evocation[/b] on the catwalk.[p/] So what kind of spell did the mage use?",
-    "translation": "",
-    "stage": 0,
+    "translation": "但我们都知道步道上没有[b]塑能术[/b]的痕迹。[p/]到底是用了什么法术呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a30d96\",\n  \"node\": \"PressRika\",\n  \"text\": \"But we already knew that there weren't any traces of [b]evocation[/b] on the catwalk.[p/] So what kind of spell did the mage use?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9af23438373e3b56",
     "original": "Tyrion: Rika, there's something off about your testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 里卡，你的证词里有个小问题。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00604ee\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: Rika, there's something off about your testimony.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::dfa24577bfbb19dc",
     "original": "Mosourika: Really?[p/] It's the same as what I told you before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 是吗？[p/]这跟我之前告诉你的一模一样啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e4de8c\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Mosourika: Really?[p/] It's the same as what I told you before.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c367a2aad1ec03dd",
     "original": "Tyrion: The mistake was mine.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 是我的疏忽。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0643b96\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: The mistake was mine.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7898b0048a48de09",
     "original": "Tyrion: I was so focused on trying to figure out [i]what[/i] that spell was and who cast it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我之前太拘泥于找出是[i]哪个[/i]法术，还有是谁施放。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0210093\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: I was so focused on trying to figure out [i]what[/i] that spell was and who cast it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::860986e237737073",
     "original": "Tyrion: I didn't even think about what it actually did to Justin.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我根本没考虑过它到底对贾斯汀做了什么。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0620cfd\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: I didn't even think about what it actually did to Justin.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7d868b5af90ff676",
     "original": "Tyrion: This whole time,[p/] we assumed that the spell pushed him into the vat.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 从一开始，[p/]我们就假定那个法术将他推进了容器。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0cf547a\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: This whole time,[p/] we assumed that the spell pushed him into the vat.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8161cabac0687f75",
     "original": "Tyrion: But how could it have pushed him into the vat if he only fell [i]after[/i] the guardrails had been ripped apart?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但如果他是在护栏断裂[i]之后[/i]才掉下去的，怎么会是那个法术推他下去的呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0701ecc\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: But how could it have pushed him into the vat if he only fell [i]after[/i] the guardrails had been ripped apart?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a67f5a4e9d1fd61a",
     "original": "Mosourika: What?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 什么意思？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d2f142\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Mosourika: What?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6b83382912f2e51b",
     "original": "Tyrion: Rika, you said that Justin fell because he tried to catch himself on the guardrail.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 里卡，你说了贾斯汀是因为想抓住护栏才掉下去的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d19a8d\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: Rika, you said that Justin fell because he tried to catch himself on the guardrail.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1e660329e68971d9",
     "original": "Tyrion: I thought the spell had pushed Justin while simultaneously ripping the guardrails apart.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我之前以为是那个法术在推动贾斯汀的同时压坏了护栏。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09cb32f\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: I thought the spell had pushed Justin while simultaneously ripping the guardrails apart.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ab83d96f548c6197",
     "original": "Tyrion: But it didn't push Justin at all!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但它根本就没对贾斯汀有什么影响！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c26922\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: But it didn't push Justin at all!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6e8dd53dd992fd48",
     "original": "Mosourika: I guess that makes sense,[p/] but does that really change anything?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 这也说得通，[p/]但有什么区别呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0234bcc\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Mosourika: I guess that makes sense,[p/] but does that really change anything?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6fc9625d592e4050",
     "original": "Tyrion: It does![p/][s/] Because it raises another question:",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 有啊！[p/][s/]这就造成另一个问题：",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06e7f7e\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: It does![p/][s/] Because it raises another question:\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::78dc1a9be7d6c767",
     "original": "Tyrion: If the spell produced enough force to rip the guardrails apart,[p/] why didn't it appear to affect Justin at all?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果这个法术强力到撕裂护栏，[p/]那为什么对贾斯汀没造成任何影响？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b36d46\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: If the spell produced enough force to rip the guardrails apart,[p/] why didn't it appear to affect Justin at all?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7313be86462987fa",
     "original": "AriaC: It didn't appear to affect the victim because there [i]was[/i] no spell.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 没有造成影响，那是[i]因为[/i]根本没有什么法术。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09acb80\",\n  \"node\": \"RikaObj\",\n  \"text\": \"AriaC: It didn't appear to affect the victim because there [i]was[/i] no spell.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::df40b0af9391518a",
     "original": "AriaC: Justin Waye broke the guardrail because it was faulty.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 贾斯汀·维耶只是因为护栏早已受损才破坏了它。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d51694\",\n  \"node\": \"RikaObj\",\n  \"text\": \"AriaC: Justin Waye broke the guardrail because it was faulty.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0d02a569486e39bf",
     "original": "Mosourika: No![p/][s/] I saw it!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 不对！[p/][s/]我都看到了！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:094671e\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Mosourika: No![p/][s/] I saw it!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::999276a43f5aaf09",
     "original": "Mosourika: He only fell in because the guardrail was already destroyed!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 他是因为那个护栏当时先被外力破坏，才掉下去的！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b7f6d9\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Mosourika: He only fell in because the guardrail was already destroyed!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a32070a3ed8c60fc",
     "original": "AriaC: Your Honor,[p/][s/] the defense brought this witness to testify,[p/] only to contradict it during their own cross-examination.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 法官阁下，[p/][s/]辩方申请这位证人出席作证，[p/]结果只在他自己的询问中找出了矛盾。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05cc705\",\n  \"node\": \"RikaObj\",\n  \"text\": \"AriaC: Your Honor,[p/][s/] the defense brought this witness to testify,[p/] only to contradict it during their own cross-examination.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f6c23cdad915ad83",
     "original": "AriaC: They [i]have[/i] no case.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 他们[i]没有[/i]任何推翻立证的结论。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0491973\",\n  \"node\": \"RikaObj\",\n  \"text\": \"AriaC: They [i]have[/i] no case.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8e0ed90ce3c4c919",
     "original": "Tyrion: My witness is certain that she saw a spell destroy the guardrail!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我的证人很确信有看到某个法术破坏了护栏！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a6bfb\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: My witness is certain that she saw a spell destroy the guardrail!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4c53c3a758c46ab4",
     "original": "AriaC: Your witness is a business associate of the defendant![p/][s/] She clearly has every reason to lie in her testimony!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你的证人与被告人有商业往来！[p/][s/]她显然有在证言里说谎的动机！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0806414\",\n  \"node\": \"RikaObj\",\n  \"text\": \"AriaC: Your witness is a business associate of the defendant![p/][s/] She clearly has every reason to lie in her testimony!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bedd3d21eee51f07",
     "original": "Tyrion: So are you baselessly accusing my witness of perjury, Steelwind?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那你是要毫无根据地指控我的证人伪证吗，斯蒂尔文德？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0922825\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Tyrion: So are you baselessly accusing my witness of perjury, Steelwind?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::73e1814e2d422331",
     "original": "AriaC: I am.[p/] It's not as if this is her first time breaking the law.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 没错。[p/]而且她也不是第一次违反法律了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0202b7f\",\n  \"node\": \"RikaObj\",\n  \"text\": \"AriaC: I am.[p/] It's not as if this is her first time breaking the law.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c2264ddeb4a12d5f",
     "original": "Mosourika: U-[p/][s/]Uh...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 呃、[p/][s/]呃……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a6e40c\",\n  \"node\": \"RikaObj\",\n  \"text\": \"Mosourika: U-[p/][s/]Uh...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3d478ea785c9d366",
     "original": "AriaC: Ms. Tudor,[p/] I understand that you run a café in the food district.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 都铎女士。[p/]我知道你在餐饮区有运营一家咖啡店。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c07328\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"AriaC: Ms. Tudor,[p/] I understand that you run a café in the food district.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fd64b59763425a4a",
     "original": "AriaC: This café would not exist without the generous patronage of the defendant.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 如果没有被告慷慨的赞助，这家店根本无法启动。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07769cf\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"AriaC: This café would not exist without the generous patronage of the defendant.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9d198c0d70397e4e",
     "original": "Mosourika: Yeah,[p/] but—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 没错，[p/]可是——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:096159f\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"Mosourika: Yeah,[p/] but—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4074ccfbc39aea3b",
     "original": "AriaC: You must feel quite indebted to him.[p/] After all,[p/] he saved you from the kind of life you lived before.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你一定认为自己亏欠他很多。[p/]毕竟，[p/]是他将你从之前的那种生活中拯救出来的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:089d0a2\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"AriaC: You must feel quite indebted to him.[p/] After all,[p/] he saved you from the kind of life you lived before.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e5c4fd425a7860f5",
     "original": "Tyrion: ...Rika, what is she talking about?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……里卡，她在说什么？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f20b25\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"Tyrion: ...Rika, what is she talking about?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::421af82b531239d6",
     "original": "AriaC: You truly didn't know, Mr. Cuthbert?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你真的不知道吗，卡斯伯特先生？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02eddc9\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"AriaC: You truly didn't know, Mr. Cuthbert?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3ed8250663f304fd",
     "original": "AriaC: Before your witness ran her café,[p/] she had another vocation.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 在你的证人经营咖啡馆之前，[p/]她有其他的谋生方式。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0175e16\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"AriaC: Before your witness ran her café,[p/] she had another vocation.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::908bdfebe915366e",
     "original": "AriaC: She survived by robbing the shipments coming into Aurinax Harbor.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 她依靠盗窃来到欧奥耐克斯港口的那些货船为生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0164864\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"AriaC: She survived by robbing the shipments coming into Aurinax Harbor.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7d57d868d7282900",
     "original": "Tyrion: Rika...[p/] T-[p/][s/]That's not true, is it?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 里卡……[p/]这、[p/][s/]这不是真的吧？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0acc17c\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"Tyrion: Rika...[p/] T-[p/][s/]That's not true, is it?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::415da30a1925d28b",
     "original": "Mosourika: ...So many things changed after you left, Tyrion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: ……你离开后很多事情都发生了变化，提利昂。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d4cbc3\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"Mosourika: ...So many things changed after you left, Tyrion.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ba303af04c03a272",
     "original": "AriaC: Several years ago,[p/] Ms. Tudor was a part of a band of thieves who would frequently rob shipments addressed to Von Sanctus Industries.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 几年以前，[p/]都铎女士曾是某个盗贼团的一员，他们经常劫掠冯·桑克图斯名下的货物。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00abfa7\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"AriaC: Several years ago,[p/] Ms. Tudor was a part of a band of thieves who would frequently rob shipments addressed to Von Sanctus Industries.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0269f2216c34ef32",
     "original": "AriaC: Her group was eventually arrested,[p/] and she only avoided a sentence to the dungeons by taking a plea deal.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 他们的团伙最终落网了，[p/]而她接受了认罪协议，从而避免入狱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08c3e7a\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"AriaC: Her group was eventually arrested,[p/] and she only avoided a sentence to the dungeons by taking a plea deal.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::36392ec3d84a9e45",
     "original": "Celeste: Oh my god...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Celeste: 天哪……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6fd8e\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"Celeste: Oh my god...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1b19ca094c3bfa79",
     "original": "Did she seriously do all of that in the years I was gone?",
-    "translation": "",
-    "stage": 0,
+    "translation": "她真的在我离开的这些年犯下这些罪行？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f3916f\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"Did she seriously do all of that in the years I was gone?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c6a06dc20590ecb4",
     "original": "I knew her.[p/] I grew up with her.[p/] Had things really changed that much?",
-    "translation": "",
-    "stage": 0,
+    "translation": "我很了解她。[p/]我与她一同长大。[p/]真的会发生这么大的变化吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06de4b4\",\n  \"node\": \"RikaObj2\",\n  \"text\": \"I knew her.[p/] I grew up with her.[p/] Had things really changed that much?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0ca2661c8ba4ea93",
     "original": "Tyrion: ...Even so,[p/] the defense still maintains trust in the witness's testimony.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……即便如此，[p/]辩方依然坚持相信证人的证词。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:011a9f7\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"Tyrion: ...Even so,[p/] the defense still maintains trust in the witness's testimony.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::56cbb5c07d0229a8",
     "original": "Tyrion: I believe the Mistweaving Phantom struck the refinery that morning.[p/] They attacked Justin Waye with magic.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我认为“织雾魅影”在那个早上闯入精炼厂，[p/]并且用法术攻击了贾斯汀·维耶。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:092f640\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"Tyrion: I believe the Mistweaving Phantom struck the refinery that morning.[p/] They attacked Justin Waye with magic.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::abb6c431ca3d9dd7",
     "original": "Mosourika: That's—!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 那是——！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ac8b0a\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"Mosourika: That's—!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::911d08614532774c",
     "original": "AriaC: Is that so?[p/] And how do you know that the [i]current witness[/i] isn't this Phantom?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 真的吗？[p/]你怎么就知道[i]这位证人[/i]不是你说的这个“魅影”呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b1890a\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"AriaC: Is that so?[p/] And how do you know that the [i]current witness[/i] isn't this Phantom?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c7e09ef4a17a3233",
     "original": "Mosourika: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Mosourika: 什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0471636\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"Mosourika: What?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::781d7b60a36f0274",
     "original": "AriaC: She was coincidentally present when the robbery occurred,[p/] [i]and[/i] she's a registered mage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 她正巧在盗窃发生时在场，[p/][i]并且[/i]是一名注册在案的法师。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ccbcea\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"AriaC: She was coincidentally present when the robbery occurred,[p/] [i]and[/i] she's a registered mage.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5d93229784f6f0c7",
     "original": "AriaC: Not to mention that her little gang all those years ago used that same name.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 更不用提她之前所在的团伙几年前正是使用的这个名号。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d26217\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"AriaC: Not to mention that her little gang all those years ago used that same name.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::72004b582fdaae77",
     "original": "Tyrion: ...What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……怎么会这样？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03ecaf8\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"Tyrion: ...What?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1c6e0331a9818fff",
     "original": "...I'd always thought that nickname sounded too much like something she'd come up with.",
-    "translation": "",
-    "stage": 0,
+    "translation": "……我就一直觉得那个诨号听起来太像她会想出来的东西了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b33646\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"...I'd always thought that nickname sounded too much like something she'd come up with.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d304e598a272d9b2",
     "original": "Was she seriously involved with them?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "她真的与此有牵连吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0464691\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"Was she seriously involved with them?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f60c6fe6eadd293a",
     "original": "AriaC: I thought you never backed down from a foe, Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 卡斯伯特先生，我还以为你从不在敌人面前退缩呢。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01d3391\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"AriaC: I thought you never backed down from a foe, Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6214577b4862e224",
     "original": "AriaC: You could make a great case for your client by indicting Ms. Tudor in the robberies and subsequently the victim's death.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你可以通过指控都铎女士实施盗窃，并致使受害人死亡来让你的委托人顺利脱罪啊。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:03e03d2\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"AriaC: You could make a great case for your client by indicting Ms. Tudor in the robberies and subsequently the victim's death.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1aa66732adefc895",
     "original": "AriaC: What will you do?",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你要怎么做呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:085a0da\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"AriaC: What will you do?\"\n}"
   },
   {

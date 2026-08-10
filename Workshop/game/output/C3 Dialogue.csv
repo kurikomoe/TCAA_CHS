@@ -1089,155 +1089,155 @@ line:0cb283c,RikaTest,Mosourika: I went looking for him and spotted him on the c
 line:0e36f6c,RikaTest,Mosourika: That's when I saw a flash of magical light.[p/] Justin got blasted with a spell.,Mosourika: 就在那时我看到一道魔法的闪光。[p/]贾斯汀被法术击中了。
 line:020ebc1,RikaTest,"Mosourika: It ripped apart the guardrail he was leaning on,[p/] and he fell into that vat of chemicals.",Mosourika: 那法术撕掉了他靠着的护栏，[p/]然后他就掉进装有化学物质的那个容器里了。
 line:0175718,RikaTest,"Mosourika: I told one of the workers what happened.[p/] They tried to save him,[p/] but I guess it was too late.",Mosourika: 我赶紧告诉了工人们，[p/]他们有试着救他出来，[p/]但实在来不及。
-line:0bd875c,RikaTest,"AriaC: I'm sure Mr. Cuthbert has told you this, witness,[p/] but we didn't find any traces of magic near the catwalk.",
-line:073b636,RikaTest,Mosourika: I [i]know[/i] what I saw![p/] Someone definitely used magic on him.,
-line:05f8af4,RikaTest,She seemed very sure of that.[p/] She definitely wasn't lying.,
-line:0dc9777,RikaTest,But I still couldn't figure out why there weren't any traces of magic there.,
-line:0606ff3,RikaTest,"And there was something...[p/] [i]off[/i] about something she said,[p/] but I wasn't sure what.",
-line:0e8cde9,RikaTest,"Judge: Mr. Cuthbert,[p/] you may begin your cross-examination.",
+line:0bd875c,RikaTest,"AriaC: I'm sure Mr. Cuthbert has told you this, witness,[p/] but we didn't find any traces of magic near the catwalk.",AriaC: 证人， 我相信卡斯伯特先生也有告诉你，[p/]我们在步道周围没有发现任何法术痕迹。
+line:073b636,RikaTest,Mosourika: I [i]know[/i] what I saw![p/] Someone definitely used magic on him.,Mosourika: 我[i]知道[/i]自己看见了什么！[p/]一定有人对他施放了魔法。
+line:05f8af4,RikaTest,She seemed very sure of that.[p/] She definitely wasn't lying.,她看起来十分确信，[p/]也肯定没有说谎。
+line:0dc9777,RikaTest,But I still couldn't figure out why there weren't any traces of magic there.,但我还是想不明白为什么那里没有法术痕迹。
+line:0606ff3,RikaTest,"And there was something...[p/] [i]off[/i] about something she said,[p/] but I wasn't sure what.",而且还有一点……[p/]与她的表述[i]有出入[/i]，[p/]只是我还不确定具体是哪里。
+line:0e8cde9,RikaTest,"Judge: Mr. Cuthbert,[p/] you may begin your cross-examination.",Judge: 卡斯伯特先生，[p/]你可以开始交叉询问了。
 line:0156b8a,Cross_Rika,"Mosourika: I was delivering food to Justin that morning,[p/] but I didn't see him anywhere in the freight area.",Mosourika: 我早上去给贾斯汀送吃的，[p/]但货运区里哪儿都找不到他。
-line:092bc62,Cross_Rika,Tyrion: Is he normally in the freight area when you make your deliveries?,
-line:0f5427f,Cross_Rika,"Mosourika: Yeah,[p/] but I guess he was doing something in the refinery.",
-line:08534bb,Cross_Rika,"Tyrion: According to Dracogen,[p/] the victim only worked in the freight department.",
-line:072e630,Cross_Rika,Tyrion: He definitely wasn't doing his job when he was in the refinery building.,
-line:0f324e5,Cross_Rika,Tyrion: Do you have any idea why he was there?,
-line:0f05c29,Cross_Rika,Mosourika: I-[p/][s/]I don't know.,
-line:06ea7b9,Cross_Rika,"Mosourika: He didn't talk much about what he did,[p/] so I just assumed he was [i]supposed[/i] to be there.",
+line:092bc62,Cross_Rika,Tyrion: Is he normally in the freight area when you make your deliveries?,Tyrion: 你给他送早餐的时候，他通常都在货运区吗？
+line:0f5427f,Cross_Rika,"Mosourika: Yeah,[p/] but I guess he was doing something in the refinery.",Mosourika: 没错，[p/]不过我想他那天可能是在精炼厂有事。
+line:08534bb,Cross_Rika,"Tyrion: According to Dracogen,[p/] the victim only worked in the freight department.",Tyrion: 根据德拉科根的说法，[p/]被害人只在货运区工作。
+line:072e630,Cross_Rika,Tyrion: He definitely wasn't doing his job when he was in the refinery building.,Tyrion: 因此他肯定不是出于工作才去精炼厂。
+line:0f324e5,Cross_Rika,Tyrion: Do you have any idea why he was there?,Tyrion: 你知道他为什么要去那里吗？
+line:0f05c29,Cross_Rika,Mosourika: I-[p/][s/]I don't know.,Mosourika: 我、[p/][s/]我不知道。
+line:06ea7b9,Cross_Rika,"Mosourika: He didn't talk much about what he did,[p/] so I just assumed he was [i]supposed[/i] to be there.",Mosourika: 他很少谈及自己的工作，[p/]所以我当时还以为他出现在那里是[i]应该[/i]的。
 line:04e3ec6,Cross_Rika,Mosourika: I went looking for him and spotted him on the catwalk.[p/] He looked like he was talking to someone.,Mosourika: 我在找他的时候发现他在架空步道上，[p/]看起来在与某人说话。
-line:0a84184,Cross_Rika,Tyrion: Did you see who he was talking to?,
-line:0b37fa4,Cross_Rika,"Mosourika: No, they were too high up,[p/] and the catwalk was blocking them.",
-line:0fb6da2,Cross_Rika,Mosourika: But he looked kind of angry.[p/] He also looked a little scared.,
-line:0b703e2,Cross_Rika,Tyrion: What?,
-line:012cdd2,Cross_Rika,Tyrion: Do you think he was talking to the thief?!,
-line:0572fbe,Cross_Rika,Tyrion: He might have spotted them robbing my client's office.,
-line:017450a,Cross_Rika,"AriaC: That is purely speculation on your part, Mr. Cuthbert.",
-line:0509d28,Cross_Rika,"AriaC: At the very least,[p/] you'd need a witness to even entertain that theory.",
-line:0b2c144,Cross_Rika,AriaC: And the current witness didn't see who the victim was talking to.,
-line:0515584,Cross_Rika,"Judge: I'm compelled to agree, Ms. Steelwind.",
+line:0a84184,Cross_Rika,Tyrion: Did you see who he was talking to?,Tyrion: 你有看到他在和谁交谈吗？
+line:0b37fa4,Cross_Rika,"Mosourika: No, they were too high up,[p/] and the catwalk was blocking them.",Mosourika: 没有，那里太高了，[p/]步道本身挡住了他们。
+line:0fb6da2,Cross_Rika,Mosourika: But he looked kind of angry.[p/] He also looked a little scared.,Mosourika: 但他看起来有些生气，[p/]好像还有一点点害怕。
+line:0b703e2,Cross_Rika,Tyrion: What?,Tyrion: 是这样？
+line:012cdd2,Cross_Rika,Tyrion: Do you think he was talking to the thief?!,Tyrion: 那你认为他是在和那个窃贼交谈吗？！
+line:0572fbe,Cross_Rika,Tyrion: He might have spotted them robbing my client's office.,Tyrion: 他可能目击到窃贼在我委托人的办公室实施盗窃。
+line:017450a,Cross_Rika,"AriaC: That is purely speculation on your part, Mr. Cuthbert.",AriaC: 这纯粹是你的个人猜测，卡斯伯特先生。
+line:0509d28,Cross_Rika,"AriaC: At the very least,[p/] you'd need a witness to even entertain that theory.",AriaC: 最起码，[p/]你需要目击证人来支持你的推论。
+line:0b2c144,Cross_Rika,AriaC: And the current witness didn't see who the victim was talking to.,AriaC: 而证人没有看到被害人在和谁交谈。
+line:0515584,Cross_Rika,"Judge: I'm compelled to agree, Ms. Steelwind.",Judge: 我不得不赞同斯蒂尔文德女士。
 line:0875492,Cross_Rika,Tyrion: ...,Tyrion: ……
 line:0a8489d,Cross_Rika,Mosourika: That's when I saw a flash of magical light.[p/] Justin got blasted with a spell.,Mosourika: 就在那时我看到一道魔法的闪光。[p/]贾斯汀被法术击中了。
-line:09fe0a7,Cross_Rika,Tyrion: Have you been able to figure out what kind of spell he got hit with?,
-line:0884d72,Cross_Rika,"Mosourika: No...[p/] I've been thinking,[p/] but I've never seen a spell like that.",
-line:02e55ea,Cross_Rika,"Mosourika: My expertise is in [b]evocation[/b] magic,[p/] and that spell looked completely different from the spells I can cast.",
-line:0ca3e16,Cross_Rika,AriaC: May I remind the court that the Inquisition found no traces of [b]evocation[/b] magic at the scene of Mr. Waye's death?,
-line:093f3f5,Cross_Rika,AriaC: An [b]evocation[b/] couldn't have ripped that guardrail apart.,
-line:0b5969a,Cross_Rika,Tyrion: Which can only a mean that a spell from a [i]different[/i] school of magic broke it.,
-line:093596f,Cross_Rika,AriaC: [i]Or[/i] the witness is simply grieving and doesn't remember what happened.,
-line:0116f72,Cross_Rika,AriaC: We have records that show that the guardrail was damaged and in need of repair.,
-line:0c626a4,Cross_Rika,Tyrion: My client's contractors assured him that the damage wasn't severe.,
-line:01316b5,Cross_Rika,"AriaC: Yet, the guardrail broke apart anyway.",
-line:013b1c0,Cross_Rika,"AriaC: If you want to posit that a spell broke the guardrail,[p/] you'll have to prove it.",
+line:09fe0a7,Cross_Rika,Tyrion: Have you been able to figure out what kind of spell he got hit with?,Tyrion: 你是否能分辨出他被什么法术击中了？
+line:0884d72,Cross_Rika,"Mosourika: No...[p/] I've been thinking,[p/] but I've never seen a spell like that.",Mosourika: 不能……[p/]我一直在想这件事，[p/]但我从没见过那样的法术。
+line:02e55ea,Cross_Rika,"Mosourika: My expertise is in [b]evocation[/b] magic,[p/] and that spell looked completely different from the spells I can cast.",Mosourika: 我是[b]塑能术[/b]专精的，[p/]至少那种法术与我能施放的法术完全不一样。
+line:0ca3e16,Cross_Rika,AriaC: May I remind the court that the Inquisition found no traces of [b]evocation[/b] magic at the scene of Mr. Waye's death?,AriaC: 我提醒出庭的各位，裁判所没有在维耶先生的死亡现场找到任何[b]塑能术[/b]的痕迹。
+line:093f3f5,Cross_Rika,AriaC: An [b]evocation[b/] couldn't have ripped that guardrail apart.,AriaC: 不可能是[b]塑能术[b/]把那个护栏破坏掉的。
+line:0b5969a,Cross_Rika,Tyrion: Which can only a mean that a spell from a [i]different[/i] school of magic broke it.,Tyrion: 也就意味着是[i]其他[/i]学派的法术造成了破坏。
+line:093596f,Cross_Rika,AriaC: [i]Or[/i] the witness is simply grieving and doesn't remember what happened.,AriaC: [i]或者[/i]意味着证人只是因为悲伤，记不清发生的事情。
+line:0116f72,Cross_Rika,AriaC: We have records that show that the guardrail was damaged and in need of repair.,AriaC: 我们找到了一份记录，显示护栏在之前已经受损，需要维修。
+line:0c626a4,Cross_Rika,Tyrion: My client's contractors assured him that the damage wasn't severe.,Tyrion: 我的委托人得到供应商的承诺，那个损伤并不严重。
+line:01316b5,Cross_Rika,"AriaC: Yet, the guardrail broke apart anyway.",AriaC: 然而护栏最终还是断裂了。
+line:013b1c0,Cross_Rika,"AriaC: If you want to posit that a spell broke the guardrail,[p/] you'll have to prove it.",AriaC: 如果你要主张是某种法术破坏了护栏，[p/]你就需要证明它。
 line:0df204f,Cross_Rika,Tyrion: ...,Tyrion: ……
-line:02563d9,Cross_Rika,"Mosourika: It ripped apart the guardrail he was leaning on, and he fell into that vat of chemicals.",
-line:0d9c678,Cross_Rika,"Mosourika: A magical expanding prism ripped apart the guardrail he was leaning on, and he fell into that vat of chemicals.",
-line:02b6f83,Cross_Rika,"Mosourika: It ripped apart the guardrail he was leaning on.[p/] After that,[p/] he tried to catch himself on it and fell into that vat of chemicals.",
-line:028f991,Cross_Rika,Mosourika: It violently and instantly ripped apart the guardrail he was leaning on.[p/] He fell into that vat of chemicals.,
+line:02563d9,Cross_Rika,"Mosourika: It ripped apart the guardrail he was leaning on, and he fell into that vat of chemicals.",Mosourika: 那法术撕掉了他靠着的护栏，然后他就掉进装有化学物质的那个容器里了。
+line:0d9c678,Cross_Rika,"Mosourika: A magical expanding prism ripped apart the guardrail he was leaning on, and he fell into that vat of chemicals.",Mosourika: 一个棱柱状的魔力体迅速膨胀，撑裂了他倚靠的护栏，他才掉进了那个化学容器。
+line:02b6f83,Cross_Rika,"Mosourika: It ripped apart the guardrail he was leaning on.[p/] After that,[p/] he tried to catch himself on it and fell into that vat of chemicals.",Mosourika: 它撕裂了他倚靠的护栏。[p/]然后，[p/]他试图抓住护栏，却掉进装有化学物质的那个容器里了。
+line:028f991,Cross_Rika,Mosourika: It violently and instantly ripped apart the guardrail he was leaning on.[p/] He fell into that vat of chemicals.,Mosourika: 它瞬间猛地一下撕裂了他倚靠的护栏。[p/]然后他就掉进装有化学物质的那个容器里了。
 line:08a4b1f,Cross_Rika,"Mosourika: I told one of the workers what happened.[p/] They tried to save him,[p/] but I guess it was too late.",Mosourika: 我赶紧告诉了工人们，[p/]他们有试着救他出来，[p/]但实在来不及。
-line:04f1108,Cross_Rika,Tyrion: How did they try to save him?,
-line:0107f8d,Cross_Rika,AriaC: The chemicals that the victim fell into were extremely volatile and corrosive.,
-line:02e9d46,Cross_Rika,AriaC: They poured a neutralizing solution into the vat to keep it from eating away at any implement they used to fish him out.,
-line:0f9eb76,Cross_Rika,AriaC: The downside of this process was that it took far too long before they could remove the victim.,
-line:04a8144,Cross_Rika,Mosourika: ...I thought those chemicals were just toxic.,
-line:0b8769b,Cross_Rika,Mosourika: Are you telling me those dissolved him while he was still alive?,
-line:00e4d62,Cross_Rika,I winced.[p/] I really wanted to avoid letting her find out about that.,
-line:0cfba99,Cross_Rika,"Judge: ...Perhaps, we should move on.",
+line:04f1108,Cross_Rika,Tyrion: How did they try to save him?,Tyrion: 他们如何救助贾斯汀的？
+line:0107f8d,Cross_Rika,AriaC: The chemicals that the victim fell into were extremely volatile and corrosive.,AriaC: 被害人坠入那个容器里的化学物质极度烈性且有腐蚀性。
+line:02e9d46,Cross_Rika,AriaC: They poured a neutralizing solution into the vat to keep it from eating away at any implement they used to fish him out.,AriaC: 他们向容器里倒入中和剂，防止它溶化用于打捞的工具。
+line:0f9eb76,Cross_Rika,AriaC: The downside of this process was that it took far too long before they could remove the victim.,AriaC: 但这个中和反应耗时太长，来不及让他们救出被害人。
+line:04a8144,Cross_Rika,Mosourika: ...I thought those chemicals were just toxic.,Mosourika: ……我以为那些化学物质只是有毒而已。
+line:0b8769b,Cross_Rika,Mosourika: Are you telling me those dissolved him while he was still alive?,Mosourika: 你是要告诉我他是活生生被溶解的吗？
+line:00e4d62,Cross_Rika,I winced.[p/] I really wanted to avoid letting her find out about that.,我眉头紧皱。[p/]我真的很想避免她知道这一点。
+line:0cfba99,Cross_Rika,"Judge: ...Perhaps, we should move on.",Judge: ……或许，我们该讨论下一个问题了。
 line:02c6b89,Cross_Rika,Player: Overflow,
-line:00e1dee,Cross_Rika,Celeste: Her testimony is the best piece of evidence we have.,
-line:0c02759,Cross_Rika,Celeste: Is it really a good idea to find a contradiction in it?,
-line:0a64252,Cross_Rika,"Tyrion: Even [i]she[/i] doesn't know what happened,[p] and there's something nagging at me.",
-line:023190d,Cross_Rika,"Tyrion: If I can find it,[p/] it will put us one step closer to the truth.",
-line:0acc9b0,Cross_Rika,Celeste: If you say so...,
-line:08b41f2,Cross_Rika,I would just need to look at the details she's testifying about and find out what doesn't fit.,
+line:00e1dee,Cross_Rika,Celeste: Her testimony is the best piece of evidence we have.,Celeste: 她的证词对我们来说是最棒的证据。
+line:0c02759,Cross_Rika,Celeste: Is it really a good idea to find a contradiction in it?,Celeste: 指出其中的破绽真的好吗？
+line:0a64252,Cross_Rika,"Tyrion: Even [i]she[/i] doesn't know what happened,[p] and there's something nagging at me.",Tyrion: 即使是[i]她[/i]也不知道到底发生了什么，[p]而我心里总有一点不安。
+line:023190d,Cross_Rika,"Tyrion: If I can find it,[p/] it will put us one step closer to the truth.",Tyrion: 如果我们能找出那个问题，[p/]就能让我们更接近真相一步。
+line:0acc9b0,Cross_Rika,Celeste: If you say so...,Celeste: 既然你这么说的话……
+line:08b41f2,Cross_Rika,I would just need to look at the details she's testifying about and find out what doesn't fit.,我需要仔细查看她证词的细节，找出有问题的地方。
 line:0d91b60,Cross_Rika,Player: Objection,
-line:040854c,Cross_Rika,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:0758ae2,Cross_Rika,Tyrion: And this piece of evidence proves it!,
-line:00a6eef,Cross_Rika,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:0c6ec94,Cross_Rika,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
-line:0baf6a5,PressRika,"Tyrion: I know this must be difficult for you,[p/] but can you remember any more details about the moment Justin fell?",
-line:0def23b,PressRika,Mosourika: I guess I'd need to know what details you want.,
-line:03d8e4b,PressRika,What did the spell look like?,
-line:05d02b9,PressRika,Tyrion: What did this spell look like?[p/] Any detail might help us identify it.,
-line:05d3846,PressRika,Mosourika: I don't know.[p/] I only saw it for a second.,
-line:0881821,PressRika,Mosourika: It didn't look like an explosion or anything.,
+line:040854c,Cross_Rika,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:0758ae2,Cross_Rika,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:00a6eef,Cross_Rika,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:0c6ec94,Cross_Rika,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
+line:0baf6a5,PressRika,"Tyrion: I know this must be difficult for you,[p/] but can you remember any more details about the moment Justin fell?",Tyrion: 我明白这会让你很难过，[p/]你能否回忆起贾斯汀坠落时更多的细节？
+line:0def23b,PressRika,Mosourika: I guess I'd need to know what details you want.,Mosourika: 我想，你得告诉我你要知道的是哪方面的细节。
+line:03d8e4b,PressRika,What did the spell look like?,那个法术看起来是什么样子？
+line:05d02b9,PressRika,Tyrion: What did this spell look like?[p/] Any detail might help us identify it.,Tyrion: 那个法术看起来是什么样子？[p/]任何细节都可能让我们确定它。
+line:05d3846,PressRika,Mosourika: I don't know.[p/] I only saw it for a second.,Mosourika: 我也不太清楚。[p/]我只看到了一瞬间。
+line:0881821,PressRika,Mosourika: It didn't look like an explosion or anything.,Mosourika: 它看起来不像是爆炸之类的效应。
 line:0952acf,PressRika,Mosourika: It kind of looked more like...[p/] an expanding prism.,Mosourika: 它看起来更像是……[p/]一个迅速长大的棱柱。
-line:09fcde3,PressRika,AriaC: A prism?,
-line:01c4d53,PressRika,"Mosourika: Yeah, it had really sharp edges like a cube.",
-line:091a009,PressRika,Mosourika: But it was wider than it was tall.,
-line:0390759,PressRika,"Tyrion: Witness, could you add this detail to your testimony?",
-line:02bc03b,PressRika,Mosourika: Okay...,
-line:0ee4b78,PressRika,How did the spell affect Justin?,
-line:0c65208,PressRika,Tyrion: What did the spell do to Justin?[p/] How did it affect him?,
-line:063b03c,PressRika,"Mosourika: Um...[p/] After that flash of light,[p/] it looked like he lost his balance.",
-line:040d5f7,PressRika,"Mosourika: He tried to catch himself on the guardrail,[p/] but it was already broken apart.",
-line:058b74b,PressRika,Mosourika: He fell right into the vat of chemicals.,
-line:0ae5d27,PressRika,AriaC: ...,
-line:0555f63,PressRika,"Tyrion: Witness, could you add this detail to your testimony?",
-line:0cfd6d7,PressRika,Mosourika: Okay...,
-line:0200888,PressRika,How did the spell affect the guardrail?,
-line:0fa837c,PressRika,Tyrion: What did the spell do to the guardrail?,
-line:067886b,PressRika,"Mosourika: Like I said,[p/] it ripped apart the guardrail.",
-line:0a778ac,PressRika,"Tyrion: How did it do that, though?[p/] Did the spell slowly break it apart?",
-line:0d33216,PressRika,"Mosourika: No,[p/] it happened instantly.[p/] It was kind of like what happens when you pull a rubber band so hard that it snaps.",
-line:06b2d20,PressRika,So the spell broke the guardrail instantly?[p/] It must have been some kind of instantaneous effect.,
-line:0a30d96,PressRika,But we already knew that there weren't any traces of [b]evocation[/b] on the catwalk.[p/] So what kind of spell did the mage use?,
-line:0664d05,PressRika,"Tyrion: Witness, could you add this detail to your testimony?",
-line:0886fcd,PressRika,Mosourika: Okay...,
-line:00604ee,RikaObj,"Tyrion: Rika, there's something off about your testimony.",
-line:0e4de8c,RikaObj,Mosourika: Really?[p/] It's the same as what I told you before.,
-line:0643b96,RikaObj,Tyrion: The mistake was mine.,
-line:0210093,RikaObj,Tyrion: I was so focused on trying to figure out [i]what[/i] that spell was and who cast it.,
-line:0620cfd,RikaObj,Tyrion: I didn't even think about what it actually did to Justin.,
-line:0cf547a,RikaObj,"Tyrion: This whole time,[p/] we assumed that the spell pushed him into the vat.",
-line:0701ecc,RikaObj,Tyrion: But how could it have pushed him into the vat if he only fell [i]after[/i] the guardrails had been ripped apart?,
-line:0d2f142,RikaObj,Mosourika: What?,
-line:0d19a8d,RikaObj,"Tyrion: Rika, you said that Justin fell because he tried to catch himself on the guardrail.",
-line:09cb32f,RikaObj,Tyrion: I thought the spell had pushed Justin while simultaneously ripping the guardrails apart.,
-line:0c26922,RikaObj,Tyrion: But it didn't push Justin at all!,
-line:0234bcc,RikaObj,"Mosourika: I guess that makes sense,[p/] but does that really change anything?",
-line:06e7f7e,RikaObj,Tyrion: It does![p/][s/] Because it raises another question:,
-line:0b36d46,RikaObj,"Tyrion: If the spell produced enough force to rip the guardrails apart,[p/] why didn't it appear to affect Justin at all?",
-line:09acb80,RikaObj,AriaC: It didn't appear to affect the victim because there [i]was[/i] no spell.,
-line:0d51694,RikaObj,AriaC: Justin Waye broke the guardrail because it was faulty.,
-line:094671e,RikaObj,Mosourika: No![p/][s/] I saw it!,
-line:0b7f6d9,RikaObj,Mosourika: He only fell in because the guardrail was already destroyed!,
-line:05cc705,RikaObj,"AriaC: Your Honor,[p/][s/] the defense brought this witness to testify,[p/] only to contradict it during their own cross-examination.",
-line:0491973,RikaObj,AriaC: They [i]have[/i] no case.,
-line:04a6bfb,RikaObj,Tyrion: My witness is certain that she saw a spell destroy the guardrail!,
-line:0806414,RikaObj,AriaC: Your witness is a business associate of the defendant![p/][s/] She clearly has every reason to lie in her testimony!,
-line:0922825,RikaObj,"Tyrion: So are you baselessly accusing my witness of perjury, Steelwind?!",
-line:0202b7f,RikaObj,AriaC: I am.[p/] It's not as if this is her first time breaking the law.,
+line:09fcde3,PressRika,AriaC: A prism?,AriaC: 一个棱柱？
+line:01c4d53,PressRika,"Mosourika: Yeah, it had really sharp edges like a cube.",Mosourika: 对啊，它有尖锐的边角，向长方体那样。
+line:091a009,PressRika,Mosourika: But it was wider than it was tall.,Mosourika: 但它的宽比高要长不少。
+line:0390759,PressRika,"Tyrion: Witness, could you add this detail to your testimony?",Tyrion: 证人，你能将这个细节添加到证词中吗？
+line:02bc03b,PressRika,Mosourika: Okay...,Mosourika: 好……
+line:0ee4b78,PressRika,How did the spell affect Justin?,法术对贾斯汀造成了什么影响？
+line:0c65208,PressRika,Tyrion: What did the spell do to Justin?[p/] How did it affect him?,Tyrion: 法术对贾斯汀造成了什么影响？[p/]产生了什么样的效应？
+line:063b03c,PressRika,"Mosourika: Um...[p/] After that flash of light,[p/] it looked like he lost his balance.",Mosourika: 嗯……[p/]那道闪光发生后，[p/]看起来他失去了平衡。
+line:040d5f7,PressRika,"Mosourika: He tried to catch himself on the guardrail,[p/] but it was already broken apart.",Mosourika: 他想抓住护栏，[p/]但护栏已经断裂了。
+line:058b74b,PressRika,Mosourika: He fell right into the vat of chemicals.,Mosourika: 然后他就落入了那个化学容器里。
+line:0ae5d27,PressRika,AriaC: ...,AriaC: ……
+line:0555f63,PressRika,"Tyrion: Witness, could you add this detail to your testimony?",Tyrion: 证人，你能将这个细节添加到证词中吗？
+line:0cfd6d7,PressRika,Mosourika: Okay...,Mosourika: 好……
+line:0200888,PressRika,How did the spell affect the guardrail?,法术对护栏造成了什么影响？
+line:0fa837c,PressRika,Tyrion: What did the spell do to the guardrail?,法术对护栏造成了什么影响？
+line:067886b,PressRika,"Mosourika: Like I said,[p/] it ripped apart the guardrail.",Mosourika: 我说过的，[p/]它撕开了护栏。
+line:0a778ac,PressRika,"Tyrion: How did it do that, though?[p/] Did the spell slowly break it apart?",Tyrion: 具体是什么情况呢？[p/]它是将护栏渐渐撕开的吗？
+line:0d33216,PressRika,"Mosourika: No,[p/] it happened instantly.[p/] It was kind of like what happens when you pull a rubber band so hard that it snaps.",Mosourika: 不对，[p/]一下子就扯开了。[p/]有点像你用力拉橡皮筋拉断时的样子。
+line:06b2d20,PressRika,So the spell broke the guardrail instantly?[p/] It must have been some kind of instantaneous effect.,那个法术一瞬间就把护栏撕裂了？[p/]也就是说法术的效应是即时生效的。
+line:0a30d96,PressRika,But we already knew that there weren't any traces of [b]evocation[/b] on the catwalk.[p/] So what kind of spell did the mage use?,但我们都知道步道上没有[b]塑能术[/b]的痕迹。[p/]到底是用了什么法术呢？
+line:0664d05,PressRika,"Tyrion: Witness, could you add this detail to your testimony?",Tyrion: 证人，你能将这个细节添加到证词中吗？
+line:0886fcd,PressRika,Mosourika: Okay...,Mosourika: 好……
+line:00604ee,RikaObj,"Tyrion: Rika, there's something off about your testimony.",Tyrion: 里卡，你的证词里有个小问题。
+line:0e4de8c,RikaObj,Mosourika: Really?[p/] It's the same as what I told you before.,Mosourika: 是吗？[p/]这跟我之前告诉你的一模一样啊。
+line:0643b96,RikaObj,Tyrion: The mistake was mine.,Tyrion: 是我的疏忽。
+line:0210093,RikaObj,Tyrion: I was so focused on trying to figure out [i]what[/i] that spell was and who cast it.,Tyrion: 我之前太拘泥于找出是[i]哪个[/i]法术，还有是谁施放。
+line:0620cfd,RikaObj,Tyrion: I didn't even think about what it actually did to Justin.,Tyrion: 我根本没考虑过它到底对贾斯汀做了什么。
+line:0cf547a,RikaObj,"Tyrion: This whole time,[p/] we assumed that the spell pushed him into the vat.",Tyrion: 从一开始，[p/]我们就假定那个法术将他推进了容器。
+line:0701ecc,RikaObj,Tyrion: But how could it have pushed him into the vat if he only fell [i]after[/i] the guardrails had been ripped apart?,Tyrion: 但如果他是在护栏断裂[i]之后[/i]才掉下去的，怎么会是那个法术推他下去的呢？
+line:0d2f142,RikaObj,Mosourika: What?,Mosourika: 什么意思？
+line:0d19a8d,RikaObj,"Tyrion: Rika, you said that Justin fell because he tried to catch himself on the guardrail.",Tyrion: 里卡，你说了贾斯汀是因为想抓住护栏才掉下去的。
+line:09cb32f,RikaObj,Tyrion: I thought the spell had pushed Justin while simultaneously ripping the guardrails apart.,Tyrion: 我之前以为是那个法术在推动贾斯汀的同时压坏了护栏。
+line:0c26922,RikaObj,Tyrion: But it didn't push Justin at all!,Tyrion: 但它根本就没对贾斯汀有什么影响！
+line:0234bcc,RikaObj,"Mosourika: I guess that makes sense,[p/] but does that really change anything?",Mosourika: 这也说得通，[p/]但有什么区别呢？
+line:06e7f7e,RikaObj,Tyrion: It does![p/][s/] Because it raises another question:,Tyrion: 有啊！[p/][s/]这就造成另一个问题：
+line:0b36d46,RikaObj,"Tyrion: If the spell produced enough force to rip the guardrails apart,[p/] why didn't it appear to affect Justin at all?",Tyrion: 如果这个法术强力到撕裂护栏，[p/]那为什么对贾斯汀没造成任何影响？
+line:09acb80,RikaObj,AriaC: It didn't appear to affect the victim because there [i]was[/i] no spell.,AriaC: 没有造成影响，那是[i]因为[/i]根本没有什么法术。
+line:0d51694,RikaObj,AriaC: Justin Waye broke the guardrail because it was faulty.,AriaC: 贾斯汀·维耶只是因为护栏早已受损才破坏了它。
+line:094671e,RikaObj,Mosourika: No![p/][s/] I saw it!,Mosourika: 不对！[p/][s/]我都看到了！
+line:0b7f6d9,RikaObj,Mosourika: He only fell in because the guardrail was already destroyed!,Mosourika: 他是因为那个护栏当时先被外力破坏，才掉下去的！
+line:05cc705,RikaObj,"AriaC: Your Honor,[p/][s/] the defense brought this witness to testify,[p/] only to contradict it during their own cross-examination.",AriaC: 法官阁下，[p/][s/]辩方申请这位证人出席作证，[p/]结果只在他自己的询问中找出了矛盾。
+line:0491973,RikaObj,AriaC: They [i]have[/i] no case.,AriaC: 他们[i]没有[/i]任何推翻立证的结论。
+line:04a6bfb,RikaObj,Tyrion: My witness is certain that she saw a spell destroy the guardrail!,Tyrion: 我的证人很确信有看到某个法术破坏了护栏！
+line:0806414,RikaObj,AriaC: Your witness is a business associate of the defendant![p/][s/] She clearly has every reason to lie in her testimony!,AriaC: 你的证人与被告人有商业往来！[p/][s/]她显然有在证言里说谎的动机！
+line:0922825,RikaObj,"Tyrion: So are you baselessly accusing my witness of perjury, Steelwind?!",Tyrion: 那你是要毫无根据地指控我的证人伪证吗，斯蒂尔文德？！
+line:0202b7f,RikaObj,AriaC: I am.[p/] It's not as if this is her first time breaking the law.,AriaC: 没错。[p/]而且她也不是第一次违反法律了。
 line:03a9818,RikaObj,Tyrion: ...What?,Tyrion: ……怎么会？
-line:0a6e40c,RikaObj,Mosourika: U-[p/][s/]Uh...,
-line:0c07328,RikaObj2,"AriaC: Ms. Tudor,[p/] I understand that you run a café in the food district.",
-line:07769cf,RikaObj2,AriaC: This café would not exist without the generous patronage of the defendant.,
-line:096159f,RikaObj2,"Mosourika: Yeah,[p/] but—",
-line:089d0a2,RikaObj2,"AriaC: You must feel quite indebted to him.[p/] After all,[p/] he saved you from the kind of life you lived before.",
-line:0f20b25,RikaObj2,"Tyrion: ...Rika, what is she talking about?",
+line:0a6e40c,RikaObj,Mosourika: U-[p/][s/]Uh...,Mosourika: 呃、[p/][s/]呃……
+line:0c07328,RikaObj2,"AriaC: Ms. Tudor,[p/] I understand that you run a café in the food district.",AriaC: 都铎女士。[p/]我知道你在餐饮区有运营一家咖啡店。
+line:07769cf,RikaObj2,AriaC: This café would not exist without the generous patronage of the defendant.,AriaC: 如果没有被告慷慨的赞助，这家店根本无法启动。
+line:096159f,RikaObj2,"Mosourika: Yeah,[p/] but—",Mosourika: 没错，[p/]可是——
+line:089d0a2,RikaObj2,"AriaC: You must feel quite indebted to him.[p/] After all,[p/] he saved you from the kind of life you lived before.",AriaC: 你一定认为自己亏欠他很多。[p/]毕竟，[p/]是他将你从之前的那种生活中拯救出来的。
+line:0f20b25,RikaObj2,"Tyrion: ...Rika, what is she talking about?",Tyrion: ……里卡，她在说什么？
 line:0e50a8b,RikaObj2,Mosourika: ...,Mosourika: ……
-line:02eddc9,RikaObj2,"AriaC: You truly didn't know, Mr. Cuthbert?",
-line:0175e16,RikaObj2,"AriaC: Before your witness ran her café,[p/] she had another vocation.",
-line:0164864,RikaObj2,AriaC: She survived by robbing the shipments coming into Aurinax Harbor.,
-line:0acc17c,RikaObj2,"Tyrion: Rika...[p/] T-[p/][s/]That's not true, is it?",
-line:0d4cbc3,RikaObj2,"Mosourika: ...So many things changed after you left, Tyrion.",
-line:00abfa7,RikaObj2,"AriaC: Several years ago,[p/] Ms. Tudor was a part of a band of thieves who would frequently rob shipments addressed to Von Sanctus Industries.",
-line:08c3e7a,RikaObj2,"AriaC: Her group was eventually arrested,[p/] and she only avoided a sentence to the dungeons by taking a plea deal.",
-line:0f6fd8e,RikaObj2,Celeste: Oh my god...,
-line:0f3916f,RikaObj2,Did she seriously do all of that in the years I was gone?,
-line:06de4b4,RikaObj2,I knew her.[p/] I grew up with her.[p/] Had things really changed that much?,
+line:02eddc9,RikaObj2,"AriaC: You truly didn't know, Mr. Cuthbert?",AriaC: 你真的不知道吗，卡斯伯特先生？
+line:0175e16,RikaObj2,"AriaC: Before your witness ran her café,[p/] she had another vocation.",AriaC: 在你的证人经营咖啡馆之前，[p/]她有其他的谋生方式。
+line:0164864,RikaObj2,AriaC: She survived by robbing the shipments coming into Aurinax Harbor.,AriaC: 她依靠盗窃来到欧奥耐克斯港口的那些货船为生。
+line:0acc17c,RikaObj2,"Tyrion: Rika...[p/] T-[p/][s/]That's not true, is it?",Tyrion: 里卡……[p/]这、[p/][s/]这不是真的吧？
+line:0d4cbc3,RikaObj2,"Mosourika: ...So many things changed after you left, Tyrion.",Mosourika: ……你离开后很多事情都发生了变化，提利昂。
+line:00abfa7,RikaObj2,"AriaC: Several years ago,[p/] Ms. Tudor was a part of a band of thieves who would frequently rob shipments addressed to Von Sanctus Industries.",AriaC: 几年以前，[p/]都铎女士曾是某个盗贼团的一员，他们经常劫掠冯·桑克图斯名下的货物。
+line:08c3e7a,RikaObj2,"AriaC: Her group was eventually arrested,[p/] and she only avoided a sentence to the dungeons by taking a plea deal.",AriaC: 他们的团伙最终落网了，[p/]而她接受了认罪协议，从而避免入狱。
+line:0f6fd8e,RikaObj2,Celeste: Oh my god...,Celeste: 天哪……
+line:0f3916f,RikaObj2,Did she seriously do all of that in the years I was gone?,她真的在我离开的这些年犯下这些罪行？
+line:06de4b4,RikaObj2,I knew her.[p/] I grew up with her.[p/] Had things really changed that much?,我很了解她。[p/]我与她一同长大。[p/]真的会发生这么大的变化吗？
 line:0871cbe,RikaObj2,...,……
-line:011a9f7,RikaObj3,"Tyrion: ...Even so,[p/] the defense still maintains trust in the witness's testimony.",
-line:092f640,RikaObj3,Tyrion: I believe the Mistweaving Phantom struck the refinery that morning.[p/] They attacked Justin Waye with magic.,
-line:0ac8b0a,RikaObj3,Mosourika: That's—!,
-line:0b1890a,RikaObj3,AriaC: Is that so?[p/] And how do you know that the [i]current witness[/i] isn't this Phantom?,
-line:0471636,RikaObj3,Mosourika: What?!,
-line:0ccbcea,RikaObj3,"AriaC: She was coincidentally present when the robbery occurred,[p/] [i]and[/i] she's a registered mage.",
-line:0d26217,RikaObj3,AriaC: Not to mention that her little gang all those years ago used that same name.,
-line:03ecaf8,RikaObj3,Tyrion: ...What?!,
-line:0b33646,RikaObj3,...I'd always thought that nickname sounded too much like something she'd come up with.,
-line:0464691,RikaObj3,Was she seriously involved with them?!,
-line:01d3391,RikaObj3,"AriaC: I thought you never backed down from a foe, Mr. Cuthbert.",
-line:03e03d2,RikaObj3,AriaC: You could make a great case for your client by indicting Ms. Tudor in the robberies and subsequently the victim's death.,
-line:085a0da,RikaObj3,AriaC: What will you do?,
+line:011a9f7,RikaObj3,"Tyrion: ...Even so,[p/] the defense still maintains trust in the witness's testimony.",Tyrion: ……即便如此，[p/]辩方依然坚持相信证人的证词。
+line:092f640,RikaObj3,Tyrion: I believe the Mistweaving Phantom struck the refinery that morning.[p/] They attacked Justin Waye with magic.,Tyrion: 我认为“织雾魅影”在那个早上闯入精炼厂，[p/]并且用法术攻击了贾斯汀·维耶。
+line:0ac8b0a,RikaObj3,Mosourika: That's—!,Mosourika: 那是——！
+line:0b1890a,RikaObj3,AriaC: Is that so?[p/] And how do you know that the [i]current witness[/i] isn't this Phantom?,AriaC: 真的吗？[p/]你怎么就知道[i]这位证人[/i]不是你说的这个“魅影”呢？
+line:0471636,RikaObj3,Mosourika: What?!,Mosourika: 什么？！
+line:0ccbcea,RikaObj3,"AriaC: She was coincidentally present when the robbery occurred,[p/] [i]and[/i] she's a registered mage.",AriaC: 她正巧在盗窃发生时在场，[p/][i]并且[/i]是一名注册在案的法师。
+line:0d26217,RikaObj3,AriaC: Not to mention that her little gang all those years ago used that same name.,AriaC: 更不用提她之前所在的团伙几年前正是使用的这个名号。
+line:03ecaf8,RikaObj3,Tyrion: ...What?!,Tyrion: ……怎么会这样？！
+line:0b33646,RikaObj3,...I'd always thought that nickname sounded too much like something she'd come up with.,……我就一直觉得那个诨号听起来太像她会想出来的东西了。
+line:0464691,RikaObj3,Was she seriously involved with them?!,她真的与此有牵连吗？！
+line:01d3391,RikaObj3,"AriaC: I thought you never backed down from a foe, Mr. Cuthbert.",AriaC: 卡斯伯特先生，我还以为你从不在敌人面前退缩呢。
+line:03e03d2,RikaObj3,AriaC: You could make a great case for your client by indicting Ms. Tudor in the robberies and subsequently the victim's death.,AriaC: 你可以通过指控都铎女士实施盗窃，并致使受害人死亡来让你的委托人顺利脱罪啊。
+line:085a0da,RikaObj3,AriaC: What will you do?,AriaC: 你要怎么做呢？
 line:052b666,RikaObj3,...,……
 line:0441017,RikaObj3,No...[p/] There could be any number of explanations for what was happening.,
 line:0e6687b,RikaObj3,Urban myths tended to be distorted by the public.,
@@ -1302,10 +1302,10 @@ line:04e0818,Cross_Orym,Tyrion: His argument is a little weak.[p/] I doubt the t
 line:079281b,Cross_Orym,Celeste: But he has a point.[p/] The serial robber never leaves any evidence.,
 line:0fcc440,Cross_Orym,Celeste: There's nothing to tie him to theft that morning.,
 line:06bd32a,Cross_Orym,Player: Objection,
-line:03e9a9d,Cross_Orym,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:0e2c3ca,Cross_Orym,Tyrion: And this piece of evidence proves it!,
-line:07dc723,Cross_Orym,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:00c7d57,Cross_Orym,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
+line:03e9a9d,Cross_Orym,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:0e2c3ca,Cross_Orym,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:07dc723,Cross_Orym,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:00c7d57,Cross_Orym,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
 line:093feed,Cross_OrymPress1,Tyrion: Are they really having that much trouble identifying the thief?,
 line:06f8f24,Cross_OrymPress1,"Orym: They're good at covering their tracks.[p/] They don't leave any evidence,[p/] and they never trip any alarms.",
 line:065504b,Cross_OrymPress1,"Orym: Half the time,[p/] it's like they're disappearing into thin air.",
@@ -1350,7 +1350,7 @@ line:0b5fe55,OrymObj,Tyrion: There's only one person with the skills to break in
 line:0d26501,OrymObj,Tyrion: And that's the [i]same[/i] thief who's been robbing those ships in the Aurinax Harbor!,
 line:0b8bbf8,OrymObj2,AriaC: And what possible motive would the Phantom have to steal these documents?,
 line:0df3d42,OrymObj2,Tyrion: That's simple![p/][s/] They wanted detailed information on my client's company and the workers' unions!,
-line:0826b65,OrymObj2,AriaC: ...,
+line:0826b65,OrymObj2,AriaC: ...,AriaC: ……
 line:02ada8d,OrymObj2,"AriaC: In all of your wild speculation,[p/] I think you haven't considered one possibility, Mr. Cuthbert.",
 line:0c618bf,OrymObj2,Tyrion: ...And what's that?,
 line:0820e1a,OrymObj2,AriaC: That the unions themselves were the ones who robbed your client.,
@@ -1395,7 +1395,7 @@ line:0f6a94e,NoahTest,"Tyrion: The serial thief, meanwhile,[p/] has been robbing
 line:03c941e,NoahTest,AriaC: ...That's assuming the witness's testimony is true.,
 line:0d6b714,NoahTest,Noah: Take a look at the crime reports!,
 line:09544ab,NoahTest,Noah: You'll see that a lot of the victims were members of the union!,
-line:03e87e8,NoahTest,AriaC: ...,
+line:03e87e8,NoahTest,AriaC: ...,AriaC: ……
 line:0ccd9d1,NoahTest,AriaC: I unfortunately don't have access to the reports for those.,
 line:0b67eaa,NoahTest,Tyrion: ...What are you talking about?[p/] You're a prosecutor.,
 line:0dd7fdb,NoahTest,Tyrion: Why wouldn't you have access to those reports?,
@@ -1432,7 +1432,7 @@ line:09cb2f5,Cross_Noah,Tyrion: How did you get such a sophisticated security sy
 line:042be1c,Cross_Noah,"Noah: Ah,[p/] it was a generous donation from some friends we have in the city banking house.",
 line:0c23a4d,Cross_Noah,AriaC: ...The banking house?,
 line:08f9049,Cross_Noah,Noah: I guess there are some folks there who believe in what we're doing.,
-line:0acfc08,Cross_Noah,AriaC: ...,
+line:0acfc08,Cross_Noah,AriaC: ...,AriaC: ……
 line:023bc7c,Cross_Noah,"AriaC: Regardless,[p/] that means [i]anyone[/i] could have broken into these houses.",
 line:01dd5ee,Cross_Noah,AriaC: It wouldn't require an expert that's as adept at committing robberies as the Phantom is.,
 line:0ff7e4f,Cross_Noah,Noah: Those poor blokes had everything stolen from them.[p/] They even had to skip town because of it.,
@@ -1447,7 +1447,7 @@ line:037dd60,Cross_Noah,Tyrion: I'm sorry that happened.[p/] I'm sure they were 
 line:0bad957,Cross_Noah,"Noah: It's a damned shame.[p/] They were good people,[p/] and they had families to feed.",
 line:01cb23f,Cross_Noah,"Noah: Aurinax has been going in such a good direction, too.[p/] Crime's been down,[p/] and employment's been up.",
 line:0d1cc91,Cross_Noah,Noah: I really wish we could've shared that with them.,
-line:080cdb0,Cross_Noah,AriaC: ...,
+line:080cdb0,Cross_Noah,AriaC: ...,AriaC: ……
 line:092ad0e,Cross_Noah,Player: Overflow,
 line:0befe60,Cross_Noah,"Celeste: I can understand robbing the nobility and even the merchant ships,[p/] but I can't believe they were robbing commoners too.",
 line:00172bb,Cross_Noah,"Tyrion: It's a little strange, honestly.[p/] If they were after valuables,[p/] why would they bother robbing them at all?",
@@ -1455,10 +1455,10 @@ line:031cf12,Cross_Noah,Tyrion: The house of an industrial worker wouldn't have 
 line:066ba77,Cross_Noah,Celeste: Maybe it was because it was easy?[p/] They probably wouldn't have any kind of magical security.,
 line:06e91b1,Cross_Noah,"Possibly,[p/] but that still felt strange to me.",
 line:0992448,Cross_Noah,Player: Objection,
-line:03c17c7,Cross_Noah,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:0ff18ef,Cross_Noah,Tyrion: And this piece of evidence proves it!,
-line:0bf459d,Cross_Noah,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:0c2d38f,Cross_Noah,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
+line:03c17c7,Cross_Noah,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:0ff18ef,Cross_Noah,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:0bf459d,Cross_Noah,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:0c2d38f,Cross_Noah,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
 line:014a57c,NoahObj,"I really didn't want to contradict Mr. Morrison,[p/] but this was the only piece I had left.",
 line:0bdd1f0,NoahObj,"There was nothing else that tied the robberies together,[p/] and I still didn't have a full idea of what the Phantom's motive was.",
 line:084ebdf,NoahObj,But I had to do this.[p/] It was the only way to find out what was really going on in my city.,
@@ -1480,7 +1480,7 @@ line:05912d2,NoahObj,Tyrion: They've been specifically targeting citizens who we
 line:08b6ac5,NoahObj,Tyrion: They're part of a larger plot that involves everyone in the city of Aurinax!,
 line:0e0e01d,NoahObj2,"AriaC: What are you even basing this off of, anyways?!",
 line:0bae8ad,NoahObj2,Tyrion: This testimony came directly from Lloyd von Sanctus:[p/] the Duke of Commerce and the ruling lord of Aurinax!,
-line:0982aaa,NoahObj2,AriaC: ...,
+line:0982aaa,NoahObj2,AriaC: ...,AriaC: ……
 line:04334fa,NoahObj2,AriaC: Lloyd von Sanctus gave you this information.,
 line:054eebe,NoahObj2,"Tyrion: That's right, Steelwind.",
 line:0ddb495,NoahObj2,AriaC: Lloyd von Sanctus:[p/] the plaintiff of this trial.,
@@ -1518,7 +1518,7 @@ line:07c7ad2,NoahObj4,Judge: ...,
 line:07a9cf6,NoahObj4,It looked like the judge ran through a thousand possible responses in his head before he simply swallowed his fear and stayed silent.,
 line:02ffd21,NoahObj4,AriaC: Father...[p/][s/] Why are you—?!,
 line:019b992,NoahObj4,"Lucio: Again with that?[p/][s/] I will not accept insubordination[p/]—even from you, Prosecutor.",
-line:07cbe99,NoahObj4,AriaC: ...,
+line:07cbe99,NoahObj4,AriaC: ...,AriaC: ……
 line:0a5d231,NoahObj4,"AriaC: ...Grand General Steelwind,[p/] why have you interrupted this trial?",
 line:0686d09,NoahObj4,Lucio: To give testimony that will substantiate the defense's claims.,
 line:03e99f0,NoahObj4,AriaC: ...What?!,
@@ -1563,7 +1563,7 @@ line:0d7ea06,CrossLucio,Lucio: And did these people make themselves known after 
 line:0626e0c,CrossLucio,AriaC: N-[p/][s/]No...[p/] But—,
 line:05b28a1,CrossLucio,"Lucio: These reports were made in-person,[p/] yet each time,[p/] the City Watch was unable to find the individual who made the report.",
 line:060935a,CrossLucio,"Lucio: Is [i]that[/i] normal, Prosecutor?",
-line:06779a3,CrossLucio,AriaC: ...,
+line:06779a3,CrossLucio,AriaC: ...,AriaC: ……
 line:04da3a9,CrossLucio,"Lucio: And after searching each scene,[p/] the City Watch found evidence of treason within their homes. [h=""The so-called evidence was poorly hidden,|if at all."" /]",
 line:0f5e650,CrossLucio,Tyrion: And that was conveniently discovered each and every time.,
 line:0e9e358,CrossLucio,"Lucio: Yes.[p/] Very easily,[p/] might I add.",
@@ -1725,10 +1725,10 @@ line:00c1885,StartInves2,Tyrion: He might have seen something that Rika missed.,
 line:010bad1,StartInves2,"I had no idea why the Crown Prince helped me back at Von Sanctus Manor,[p/] but he seemed more amicable to us than I'd have expected.",
 line:01042fb,StartInves2,But [i]finding[/i] him in this large city was another matter.[p/] I was sure he was hidden away somewhere.,
 line:0d1ebbd,StartInves2,Tyrion: There's also something else that Steelwind mentioned during the trial.,
-line:021881d,StartInves2,"AriaC: Several years ago,[p/] Ms. Tudor was a part of a band of thieves who would frequently rob shipments addressed to Von Sanctus Industries.",
-line:04f1070,StartInves2,"AriaC: Her group was eventually arrested,[p/] and she only avoided a sentence to the dungeons by taking a plea deal.",
-line:0129ca2,StartInves2,"AriaC: She was coincidentally present when the robbery occurred,[p/] [i]and[/i] she's a registered mage.",
-line:015498e,StartInves2,AriaC: Not to mention that her little gang all those years ago used that same name.,
+line:021881d,StartInves2,"AriaC: Several years ago,[p/] Ms. Tudor was a part of a band of thieves who would frequently rob shipments addressed to Von Sanctus Industries.",AriaC: 几年以前，[p/]都铎女士曾是某个盗贼团的一员，他们经常劫掠冯·桑克图斯名下的货物。
+line:04f1070,StartInves2,"AriaC: Her group was eventually arrested,[p/] and she only avoided a sentence to the dungeons by taking a plea deal.",AriaC: 他们的团伙最终落网了，[p/]而她接受了认罪协议，从而避免入狱。
+line:0129ca2,StartInves2,"AriaC: She was coincidentally present when the robbery occurred,[p/] [i]and[/i] she's a registered mage.",AriaC: 她正巧在盗窃发生时在场，[p/][i]并且[/i]是一名注册在案的法师。
+line:015498e,StartInves2,AriaC: Not to mention that her little gang all those years ago used that same name.,AriaC: 更不用提她之前所在的团伙几年前正是使用的这个名号。
 line:0209c91,StartInves2b,"Tyrion: Rika was supposedly a part of a band of thieves,[p/] and their thefts all those years ago seem to be similar to that of the Phantom.",
 line:0ddbe80,StartInves2b,Celeste: ...Do you think one of them is involved in all of this?,
 line:0f5044e,StartInves2b,Tyrion: I think so...[p/] But I don't know why she wouldn't speak up about it if it was related to the case.,
@@ -1809,7 +1809,7 @@ line:06b080c,Courtroom2b,"Tyrion: It malfunctioned in some way,[p/] causing an e
 line:0b0b150,Courtroom2b,Tyrion: [i]That[/i] energy is what broke apart the guardrail.,
 line:0295e51,Courtroom2b,Judge: ...Are you trying to say that the [i]victim[/i] was the culprit behind the most recent string of robberies?,
 line:0bfafa7,Courtroom2b,"Tyrion: Unfortunately, I am, Your Honor.",
-line:0a5b94c,Courtroom2b,AriaC: ...,
+line:0a5b94c,Courtroom2b,AriaC: ...,AriaC: ……
 line:0d05fe2,Courtroom2b,"AriaC: ...Is that it, Mr. Cuthbert?",
 line:04245ba,Courtroom2b,"Tyrion: What are you talking about, Steelwind?",
 line:05414ca,Courtroom2b,Tyrion: It's obvious that my client didn't have any hand in Justin's death.,
@@ -1832,7 +1832,7 @@ line:05f1118,Courtroom2c,"AriaC: As many of you know,[p/] the serial robber stol
 line:0a453df,Courtroom2c,"AriaC: We've since located the cargo,[p/] and what we found paints quite the picture of the victim's intentions that day.",
 line:02373d2,Courtroom2c,Judge: I-[p/][s/]I see...,
 line:02efbe0,Courtroom2c,Judge: Bailiff.[p/] Please escort the Grand General to the stand.,
-line:0ff6a24,Courtroom2d,AriaC: ...,
+line:0ff6a24,Courtroom2d,AriaC: ...,AriaC: ……
 line:0301d98,Courtroom2d,Lucio: ...,
 line:06d2d5e,Courtroom2d,"Tyrion: Okay, I guess [i]I'll[/i] just say it.",
 line:090d897,Courtroom2d,"Tyrion: Witness,[p/] please state your name and—",
@@ -1901,10 +1901,10 @@ line:0e9bcd5,CrossLucio2,Tyrion: Still...[p/] Lucio is making a lot of assumptio
 line:073f9dd,CrossLucio2,Celeste: Yeah...[p/] I guess he's the type of person to jump to conclusions.,
 line:0d8abca,CrossLucio2,Celeste: He could be wrong about a lot of things.,
 line:063d700,CrossLucio2,Player: Objection,
-line:041a228,CrossLucio2,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:0719421,CrossLucio2,Tyrion: And this piece of evidence proves it!,
-line:0303acf,CrossLucio2,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:0e9c85b,CrossLucio2,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
+line:041a228,CrossLucio2,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:0719421,CrossLucio2,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:0303acf,CrossLucio2,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:0e9c85b,CrossLucio2,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
 line:0393b32,Lucio2Press,Tyrion: Why are you so sure that he was planning to target the refinery?,
 line:0e72449,Lucio2Press,Tyrion: He could have been planning to rob my client and place the bomb somewhere else.,
 line:03fe633,Lucio2Press,AriaC: Arcane Refineries such as your client's create volatile yet controlled chemical reactions.,
@@ -1938,7 +1938,7 @@ line:09ca337,Lucio2Obj2,"If Justin had attempted to summon the bomb,[p/] why was
 line:070adc5,Lucio2Obj3,Tyrion: Because the summoning spell ultimately failed!,
 line:02f23cb,Lucio2Obj3,"Tyrion: He tried to summon that large chest on the catwalk,[p/] but there wasn't enough room!",
 line:0b62acd,Lucio2Obj3,"Tyrion: The spell failed,[p/] and the resulting spatial shunting damaged the chest and blew apart the guardrail!",
-line:0fb8b12,Lucio2Obj3,AriaC: ...,
+line:0fb8b12,Lucio2Obj3,AriaC: ...,AriaC: ……
 line:056e7e6,Lucio2Obj3,"AriaC: ...You've contradicted yourself, Mr. Cuthbert.",
 line:04d434f,Lucio2Obj3,Tyrion: And how's that?,
 line:0aa4483,Lucio2Obj3,AriaC: Your entire defense is based on the testimony of Mosourika Tudor.,
@@ -2129,7 +2129,7 @@ line:0651a90,CrossLloyd,Tyrion: Clearly.,
 line:06f8575,CrossLloyd,"Lloyd: I know someone like you can't appreciate what I do for the people,[p/] but I should be [i]commended[/i] for what I'm doing.",
 line:08e639f,CrossLloyd,"Lloyd: I've peacefully coordinated the arrests of countless dangerous individuals,[p/] and I've done so without any bloodshed.",
 line:06c84d3,CrossLloyd,Lloyd: That's more than I can say for some of the [i]other[/i] noble houses.,
-line:0018113,CrossLloyd,AriaC: ...,
+line:0018113,CrossLloyd,AriaC: ...,AriaC: ……
 line:070e65b,CrossLloyd,"He was obviously just stroking his ego,[p/] but I couldn't discount the fact that the Aurinax City Watch technically answered to him.",
 line:0717b90,CrossLloyd,That would've definitely made these frame jobs easier if he were involved.,
 line:0dc32cf,CrossLloyd,"Lloyd: They've been growing in number,[p/] however.[p/] No doubt because these ""unions"" have been feeding the people's discontent.",
@@ -2180,10 +2180,10 @@ line:07296fe,CrossLloyd,"Tyrion: It will be his word against theirs,[p/] and it'
 line:0ddf1b6,CrossLloyd,Celeste: He's bound to slip up eventually.,
 line:0887dbe,CrossLloyd,"Celeste: I bet if you keep him talking,[p/] you'll catch him in a lie.",
 line:02a4ce9,CrossLloyd,Player: Objection,
-line:0b6746a,CrossLloyd,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:0041a7b,CrossLloyd,Tyrion: And this piece of evidence proves it!,
-line:03d7755,CrossLloyd,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:061728a,CrossLloyd,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
+line:0b6746a,CrossLloyd,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:0041a7b,CrossLloyd,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:03d7755,CrossLloyd,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:061728a,CrossLloyd,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
 line:0bf3e76,LloydObj,"Tyrion: Von Sanctus,[p/] why [i]did[/i] you agree to testify today?",
 line:0e18290,LloydObj,"Lloyd: Why?[p/] You wished for me to testify on the state of insurrection in Aurinax, did you not?",
 line:0feb398,LloydObj,Lloyd: I was merely doing my civic duty.,
@@ -2295,10 +2295,10 @@ line:004f497,CrossLloyd2,"Tyrion: He's making a lot of good points,[p/] which me
 line:093f0b3,CrossLloyd2,"Tyrion: He would have ruined industry in Aurinax,[p/] [i]and[/i] he would've invited the Grand General into his territory.",
 line:067570e,CrossLloyd2,"Tyrion: He must've had a way to mitigate both of those hits to his power,[p/] and what he gained would have been worth that.",
 line:0948436,CrossLloyd2,Player: Objection,
-line:0efaf8a,CrossLloyd2,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,
-line:096d110,CrossLloyd2,Tyrion: And this piece of evidence proves it!,
-line:0096e6d,CrossLloyd2,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",
-line:0752cde,CrossLloyd2,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,
+line:0efaf8a,CrossLloyd2,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
+line:096d110,CrossLloyd2,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
+line:0096e6d,CrossLloyd2,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
+line:0752cde,CrossLloyd2,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
 line:0dd3fe5,LloydMonologue,Lloyd: House von Sanctus commands the entirety of our kingdom's industrial output.[p/] It directs the flow of trade throughout our kingdom.,
 line:0d8a905,LloydMonologue,"Lloyd: Every cog in the machinery of commerce—[p/]from the extraction of raw materials,[p/] to the construction of finished products—[p/]was my concern.",
 line:054c070,LloydMonologue,"Lloyd: Of course,[p/] one could not expect a workforce of commoners to operate as a perfect unit.",
@@ -2437,7 +2437,7 @@ line:0336df9,LloydCornered9,"Tyrion: And he had no idea that the person telling 
 line:0be92a9,LloydCornered9,Lloyd: ...,
 line:089de7d,LloydCornered9,The duke's eyes nervously shot around the courtroom.[p/] He looked like a cornered animal.,
 line:086cba4,LloydCornered9,"Every eye was on him.[p/] He could have denied everything,[p/] but his nervous indignation had betrayed what he'd done.",
-line:0d6e527,LloydCornered9,AriaC: ...,
+line:0d6e527,LloydCornered9,AriaC: ...,AriaC: ……
 line:0187438,LloydCornered9,"AriaC: ...There's no evidence, Mr. Cuthbert.",
 line:0d51d78,LloydCornered9,Tyrion: ...What?,Tyrion: ……怎么会？
 line:07aa3c2,LloydCornered9,AriaC: There's no evidence that actually proves he was involved with this.,
@@ -2527,16 +2527,16 @@ line:047f3ea,LloydAfterEye,No...[p/] He'd accounted for everything!,
 line:0414d58,LloydAfterEye,Lloyd: You can ruminate all you want.[p/] There's nothing you can do.,
 line:0714706,LloydAfterEye,"Lloyd: Face it, boy.[p/] You've [i]lost[/i].",
 line:01f5307,LloydAfterEye,Tyrion: ...,Tyrion: ……
-line:0ef16d6,LloydAfterEye,AriaC: ...,
+line:0ef16d6,LloydAfterEye,AriaC: ...,AriaC: ……
 line:0435d59,LloydAfterEye,"I wasn't naïve enough to think that I'd be able to win every case,[p/] but I never imagined that I'd lose one as important as this.",
 line:061353d,LloydAfterEye,...,……
 line:031f179,LloydAfterEye,"...Was I really going to lose, though?",
 line:033f57a,LloydAfterEye,Mosourika: The source of my power is the everlasting support of the Dracogen Trading Company.,
 line:0b6606c,LloydAfterEye,Mosourika: They're pretty small.[p/] They're only operating in Aurinax right now.,Mosourika: 他们还是个小公司，[p/]而且现在只在欧奥耐克斯运营。
 line:033e8e6,LloydAfterEye,Mosourika: But I hear that they're planning to expand their operations throughout Wyverngarde.,Mosourika: 不过我听说他们准备将经营范围拓展到维文加德全境。
-line:0195591,LloydAfterEye2,"AriaC: Ms. Tudor,[p/] I understand that you run a café in the food district.",
-line:03a3f00,LloydAfterEye2,AriaC: This café would not exist without the generous patronage of the defendant.,
-line:0ca4c09,LloydAfterEye2,"AriaC: You must feel quite indebted to him.[p/] After all,[p/] he saved you from the kind of life you lived before.",
+line:0195591,LloydAfterEye2,"AriaC: Ms. Tudor,[p/] I understand that you run a café in the food district.",AriaC: 都铎女士。[p/]我知道你在餐饮区有运营一家咖啡店。
+line:03a3f00,LloydAfterEye2,AriaC: This café would not exist without the generous patronage of the defendant.,AriaC: 如果没有被告慷慨的赞助，这家店根本无法启动。
+line:0ca4c09,LloydAfterEye2,"AriaC: You must feel quite indebted to him.[p/] After all,[p/] he saved you from the kind of life you lived before.",AriaC: 你一定认为自己亏欠他很多。[p/]毕竟，[p/]是他将你从之前的那种生活中拯救出来的。
 line:0f02315,LloydAfterEye2,"Noah: I didn't trust it at first,[p/] but Dracogen's idea really took off.",
 line:08398ff,LloydAfterEye2,Noah: Finally having a say in things has been great for the workers in the city.,
 line:083249f,LloydAfterEye2,Tyrion: Wait...[p/] The worker's unions were Stefanic Dracogen's idea?,
@@ -2683,7 +2683,7 @@ line:0806bb1,LloydConfrontEnd2,Tyrion: The Theocracy?[p/] Are you talking about 
 line:0bc2c03,LloydConfrontEnd2,Lucio: Don't play games with me.[p/] I'm no fool.,
 line:0c61362,LloydConfrontEnd2,Tyrion: I'm not![p/] I have no idea what you're talking about!,
 line:0c93f02,LloydConfrontEnd2,Lucio: Then why are you able to use Luminian magic?,
-line:01bd18f,LloydConfrontEnd3,Tyrion: ...What?!,
+line:01bd18f,LloydConfrontEnd3,Tyrion: ...What?!,Tyrion: ……怎么会这样？！
 line:0728fdf,LloydConfrontEnd3,Lucio: You possess the Eye of Radiance:[p/] the ability to read the minds of others.,
 line:033d84a,LloydConfrontEnd3,I eyed him warily...[p/] He seemed to know more about the Eye of Horus than [i]I[/i] did.,
 line:09e8009,LloydConfrontEnd3,"Lucio: Like I said before,[p/] I've read the transcripts of your past cases.",
@@ -3308,7 +3308,7 @@ line:0103839,NoahNoahConv,He was really trying to choose his next words carefull
 line:021c971,NoahNoahConv,"Tyrion: I'm okay.[p/] Apparently,[p/] everyone's seen as much in the papers lately.",
 line:04b1e3e,NoahNoahConv,"Noah: Right...[p/] I guess you're a defense attorney who saves mages. [h=""Is he doing this because of|what happened to his mum?"" e=""s""/]",
 line:028aa03,NoahNoahConv,Noah: ...,
-line:051c03d,NoahNoahConv,Tyrion: What?,
+line:051c03d,NoahNoahConv,Tyrion: What?,Tyrion: 是这样？
 line:0d9d9af,NoahNoahConv,"Noah: I know all that happened a long time ago,[p/] but it's okay if you're still not okay, okay?",
 line:041d905,NoahNoahConv,It sounded like he was clumsily stumbling around his words.,
 line:0a16ca3,NoahNoahConv,"Noah: You're probably all settled down in the capital,[p/] but I hear there are some support groups that—",
@@ -3938,7 +3938,7 @@ line:0704d50,LastNightmare6,Tyrion: I was saving people from being killed like m
 line:053bdc4,LastNightmare6,Tyrion: But I'm back in Aurinax...[p/] And these feelings are just as fresh in my mind as they were back then.,
 line:04e85cf,LastNightmare6,Celeste: ...,Celeste: ……
 line:04fd28b,LastNightmare6,Celeste: What was she like?,
-line:0ea9953,LastNightmare6,Tyrion: What?,
+line:0ea9953,LastNightmare6,Tyrion: What?,Tyrion: 是这样？
 line:0ac810d,LastNightmare6,Celeste: What was your mom like?,
 line:0fd2a7d,LastNightmare6,I thought for a moment.,
 line:032e0b1,LastNightmare6,Tyrion: She was amazing.[p/] She raised me by herself while working as a fortune teller.,
@@ -4648,7 +4648,7 @@ line:04669fe,WyattFinished5,I just muttered something incoherent in response.,
 line:008eb61,WyattFinished5,...But I admitted that the air was nice here.[p/] It brought me back to happier memories.,
 line:0b09e2f,WyattFinished6,I closed my eyes and took in a deep breath.,
 line:0d77172,WyattFinished6,Celeste: ...,Celeste: ……
-line:07802d9,WyattFinished6,Celeste: Oh my god...,
+line:07802d9,WyattFinished6,Celeste: Oh my god...,Celeste: 天哪……
 line:0ca2c24,WyattFinished6,...,……
 line:0b0c701,WyattFinished6,It was probably nothing.,
 line:0af5769,WyattFinished6,Celeste: It's [i]so[/i] cute![p/][s/] Hi there!,
