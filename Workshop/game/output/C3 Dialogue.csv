@@ -1256,104 +1256,104 @@ line:0004ad1,OrymTest,"AriaC: Commander, as I'm sure you've heard,[p/] Mr. Cuthb
 line:089a777,OrymTest,AriaC: Please testify about the City Watch's findings regarding the robberies.,AriaC: 请就城市安保就这些抢劫盗窃案件的调查结果进行作证。
 line:02bb85e,OrymTest,Orym: Sure...,Orym: 当然了……
 line:065c977,OrymTest,Orym: So this Phantom's been hitting a lot of places—[p/]mostly shipments coming into the harbor.,Orym: 结论是，这个所谓的“魅影”在许多地方都有作案——[p/]大多数是来到港口的货船。
-line:0558804,OrymTest,"Orym: Doesn't matter what kind of lock or security the place has,[p/] he can get in no problem.",Orym: 不论被抢劫的地方使用了什么样的锁或者安全系统，[p/]他都能毫无阻碍地进入。
+line:0558804,OrymTest,"Orym: Doesn't matter what kind of lock or security the place has,[p/] he can get in no problem.",Orym: 不论被抢劫的地方使用了什么样的锁或者安保设施，[p/]他都能毫无阻碍地进入。
 line:0dc8747,OrymTest,"Orym: He's made off with a bunch of loot,[p/] and the City Watch has been scratching their heads looking for him.",Orym: 他带着大量的赃物逃之夭夭，[p/]城市安保这边使尽浑身解数也没抓到他。
 line:0f94756,OrymTest,"Orym: I know you think the guy hit the refinery too,[p/] but it doesn't match with what we know about him.",Orym: 我知道你们认为这家伙也盯上了精炼厂，[p/]但这与我们对他的了解是不相符的。
 line:0807e2e,OrymTest,Orym: The guy only stole some documents and left the defendant's gold.[p/] This guy never does that.,Orym: 在精炼厂的这家伙只偷窃文档，但放着被告的钱一动不动。[p/]而那个“魅影”从不这么做。
 line:08d353e,OrymTest,The connection between the Mistweaving Phantom and Justin's death was already difficult to prove.,“织雾魅影”与贾斯汀之死的联系已经很难证明了。
-line:08e0d0e,OrymTest,"There was no evidence,[p/] but they [i]had[/i] to be related somehow.[p/] It would be too much of a coincidence otherwise.",
-line:0f55b02,OrymTest,How could I prove that?,
-line:0795cf2,OrymTest,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,
+line:08e0d0e,OrymTest,"There was no evidence,[p/] but they [i]had[/i] to be related somehow.[p/] It would be too much of a coincidence otherwise.",并没有任何证据，[p/]但两者[i]必定[/i]以某种方式关联。[p/]否则巧合就太多了。
+line:0f55b02,OrymTest,How could I prove that?,我能怎么证明呢？
+line:0795cf2,OrymTest,JUDGE: Mr. Cuthbert.[p/] You may begin your cross-examination.,Judge: 卡斯伯特先生，[p/]你可以开始交叉询问了。
 line:0aaace4,Cross_Orym,Orym: So this Phantom's been hitting a lot of places—[p/]mostly shipments coming into the harbor.,Orym: 结论是，这个所谓的“魅影”在许多地方都有作案——[p/]大多数是来到港口的货船。
-line:0c3b387,Cross_Orym,Tyrion: What is usually stolen?,
-line:04b05aa,Cross_Orym,"Orym: All kinds of things:[p/] goods,[p/] appliances,[p/] weapons,[p/] even some artificery devices.",
-line:03ed4de,Cross_Orym,Orym: Not to mention there's that—,
-line:09ec3f9,Cross_Orym,"AriaC: To amend the commander's testimony,[p/] there was a sensitive shipment stolen from a kingdom ship.",
-line:011aa38,Cross_Orym,"Judge: Is there any reason why you're being so vague, Ms. Steelwind?",
-line:0d95a44,Cross_Orym,AriaC: The gag order has come from the Grand General himself.[p/] The item in question is not relevant to this case.,
-line:090a78a,Cross_Orym,Judge: I-[p/][s/]I see.,
-line:05a0b15,Cross_Orym,"Orym: Doesn't matter what kind of lock or security the place has,[p/] he can get in no problem.",Orym: 不论被抢劫的地方使用了什么样的锁或者安全系统，[p/]他都能毫无阻碍地进入。
-line:090bbac,Cross_Orym,"Tyrion: Why are you referring to the Phantom as a ""he""?[p/] I thought the City Watch didn't know anything about them.",
-line:024572b,Cross_Orym,Orym: ...Are you seriously nitpicking me for that?,
-line:0d1158a,Cross_Orym,Tyrion: I just think it would be in the court's interest not to have assumptions taken as fact.,
-line:0e81c3d,Cross_Orym,"Orym: Scaled Lord,[p/] you kids these days and your pronouns.",
-line:0fadc72,Cross_Orym,"Orym: Look...[p/] Chances are,[p/] that this guy's a guy.[p/] The stats back me up on that.",
-line:0310911,Cross_Orym,"Celeste: Oh, yeah?[p/][s/] How many of your [i]men[/i] did it take to arrest me, Orym?",
-line:03f52d3,Cross_Orym,"AriaC: ...Celeste,[p/] while I appreciate your sentiment,[p/] I wouldn't brag about that here.",
-line:06701ee,Cross_Orym,"Orym: Fine![p/][s/] If it will get all of you off my back,[p/] I'll change my damned testimony!",
-line:0b597a9,Cross_Orym,"Orym: Doesn't matter what kind of lock or security the place has,[p/] [i]they[/i] can get in no problem.",
-line:0b81d07,Cross_Orym,"Celeste: See,[p/] was that so hard?",
-line:05a67a2,Cross_Orym,"Orym: Oh, bite me, mage girl.",
-line:0a9f154,Cross_Orym,"Tyrion: Anyways,[p/] how sophisticated were the locks and security on the places that were broken into?",
-line:0deb2e6,Cross_Orym,Orym: The places owned by the smaller merchants only had mundane locks.,
-line:0d21746,Cross_Orym,"Orym: Those are hard to pick,[p/] but not impossible for someone who knows what they're doing.",
-line:0b52381,Cross_Orym,Orym: But they've also been hitting the ships owned by nobles—[p/]not to mention that other ship I'm not allowed to discuss.,
-line:0877de7,Cross_Orym,Orym: They've got magical locks and security.[p/] Picking those would be like performing surgery.,
-line:0e07d19,Cross_Orym,Orym: That's not even mentioning all the armed guards they probably had to get past.,
-line:0c7ab8d,Cross_Orym,"Orym: Whoever they are,[p/] they're some kind of genius.",
-line:0617c8a,Cross_Orym,"Orym: He's made off with a bunch of loot, and the City Watch has been scratching their heads looking for him.",
-line:08c5983,Cross_Orym,"Orym: They made off with a bunch of loot, and the City Watch has been scratching their heads looking for them.",
+line:0c3b387,Cross_Orym,Tyrion: What is usually stolen?,Tyrion: 通常哪些东西被偷走？
+line:04b05aa,Cross_Orym,"Orym: All kinds of things:[p/] goods,[p/] appliances,[p/] weapons,[p/] even some artificery devices.",Orym: 什么都有：[p/]货物、[p/]设备、[p/]武器，[p/]甚至还有一些奥术能源装置。
+line:03ed4de,Cross_Orym,Orym: Not to mention there's that—,Orym: 更不要提还有——
+line:09ec3f9,Cross_Orym,"AriaC: To amend the commander's testimony,[p/] there was a sensitive shipment stolen from a kingdom ship.",AriaC: 修正一下指挥官的证词，[p/]王家的属船也有一些敏感的货物失窃。
+line:011aa38,Cross_Orym,"Judge: Is there any reason why you're being so vague, Ms. Steelwind?",Judge: 你的表述如此模糊，有特别的理由吗，斯蒂尔文德女士？
+line:0d95a44,Cross_Orym,AriaC: The gag order has come from the Grand General himself.[p/] The item in question is not relevant to this case.,AriaC: 禁言令是由大将军本人亲自下达的。[p/]您问及的货物内容与本次案件没有关系。
+line:090a78a,Cross_Orym,Judge: I-[p/][s/]I see.,Judge: 我、[p/][s/]我明白了。
+line:05a0b15,Cross_Orym,"Orym: Doesn't matter what kind of lock or security the place has,[p/] he can get in no problem.",Orym: 不论被抢劫的地方使用了什么样的锁或者安保设施，[p/]他都能毫无阻碍地进入。
+line:090bbac,Cross_Orym,"Tyrion: Why are you referring to the Phantom as a ""he""?[p/] I thought the City Watch didn't know anything about them.",Tyrion: 你为何使用“他”代指“魅影”？[p/]我还以为城市安保对他们一无所知呢。
+line:024572b,Cross_Orym,Orym: ...Are you seriously nitpicking me for that?,Orym: ……你真的就为这个吹毛求疵？
+line:0d1158a,Cross_Orym,Tyrion: I just think it would be in the court's interest not to have assumptions taken as fact.,Tyrion: 我只是认为，避免将推测认定为事实，是符合法庭的利益的。
+line:0e81c3d,Cross_Orym,"Orym: Scaled Lord,[p/] you kids these days and your pronouns.",Orym: 鳞甲领主啊，[p/]你们这些小子如今对一个代词这么在乎。
+line:0fadc72,Cross_Orym,"Orym: Look...[p/] Chances are,[p/] that this guy's a guy.[p/] The stats back me up on that.",Orym: 行吧……[p/]那家伙很有可能是男的。[p/]统计数据可以支持我的观点。
+line:0310911,Cross_Orym,"Celeste: Oh, yeah?[p/][s/] How many of your [i]men[/i] did it take to arrest me, Orym?",Celeste: 哦，是这样吗？[p/][s/]逮捕我的时候你们动用了多少[i]男人[/i]才成功啊，奥蒙？
+line:03f52d3,Cross_Orym,"AriaC: ...Celeste,[p/] while I appreciate your sentiment,[p/] I wouldn't brag about that here.",AriaC: ……塞拉斯特啊，[p/]虽然我欣赏你的观点，[p/]但如果是我就不会在这里吹嘘这个。
+line:06701ee,Cross_Orym,"Orym: Fine![p/][s/] If it will get all of you off my back,[p/] I'll change my damned testimony!",Orym: 够了！[p/][s/]如果这能让你们不再烦我，[p/]我就修正我的证词！
+line:0b597a9,Cross_Orym,"Orym: Doesn't matter what kind of lock or security the place has,[p/] [i]they[/i] can get in no problem.",Orym: 不论被抢劫的地方使用了什么样的锁或者安保设施，[p/][i]他或她[/i]都能毫无阻碍地进入。
+line:0b81d07,Cross_Orym,"Celeste: See,[p/] was that so hard?",Celeste: 是吧，[p/]这有什么难的？
+line:05a67a2,Cross_Orym,"Orym: Oh, bite me, mage girl.",Orym: 哦，有种咬我啊，你这个法师女孩。
+line:0a9f154,Cross_Orym,"Tyrion: Anyways,[p/] how sophisticated were the locks and security on the places that were broken into?",Tyrion: 不谈这个了，[p/]那些被闯入的场所，门锁和安保设施有多精密呢？
+line:0deb2e6,Cross_Orym,Orym: The places owned by the smaller merchants only had mundane locks.,Orym: 小商贩用的都是普通的锁。
+line:0d21746,Cross_Orym,"Orym: Those are hard to pick,[p/] but not impossible for someone who knows what they're doing.",Orym: 那些锁要撬开是有难度的，[p/]但对于熟练的盗贼来说也并非不可能。
+line:0b52381,Cross_Orym,Orym: But they've also been hitting the ships owned by nobles—[p/]not to mention that other ship I'm not allowed to discuss.,Orym: 但那家伙还能在贵族们拥有的船上作案——[p/]更不用说还有不准我提到的那艘船。
+line:0877de7,Cross_Orym,Orym: They've got magical locks and security.[p/] Picking those would be like performing surgery.,Orym: 那些船上的锁和安保系统是有魔法加持的。[p/]想撬开跟做手术差不多。
+line:0e07d19,Cross_Orym,Orym: That's not even mentioning all the armed guards they probably had to get past.,Orym: 更不用提还有武装的守卫会在巡逻时随时经过。
+line:0c7ab8d,Cross_Orym,"Orym: Whoever they are,[p/] they're some kind of genius.",Orym: 不论到底是谁做的，[p/]那家伙真可以说是个天才。
+line:0617c8a,Cross_Orym,"Orym: He's made off with a bunch of loot, and the City Watch has been scratching their heads looking for him.",Orym: 他带着大量的赃物逃之夭夭，城市安保这边使尽浑身解数也没抓到他。
+line:08c5983,Cross_Orym,"Orym: They made off with a bunch of loot, and the City Watch has been scratching their heads looking for them.",Orym: 那个人带着大量的赃物逃之夭夭，[p/]城市安保这边使尽浑身解数也没抓到。
 line:0d23838,Cross_Orym,"Orym: I know you think the guy hit the refinery too,[p/] but it doesn't match with what we know about him.",Orym: 我知道你们认为这家伙也盯上了精炼厂，[p/]但这与我们对他的了解是不相符的。
-line:0b6dad8,Cross_Orym,"Orym: I know you think the... person hit the refinery too,[p/] but it doesn't match with what we know about them.",
-line:0585b6c,Cross_Orym,Orym: The thief who hit the refinery only stole some documents and left the defendant's gold.[p/] This guy never does that.,
-line:0c5cdee,Cross_Orym,Orym: The thief who hit the refinery only stole some documents and left the defendant's gold.[p/] This... person never does that.,
+line:0b6dad8,Cross_Orym,"Orym: I know you think the... person hit the refinery too,[p/] but it doesn't match with what we know about them.",Orym: 我知道你们认为他……那个家伙也盯上了精炼厂，[p/]但这与我们对这个人的了解是不相符的。
+line:0585b6c,Cross_Orym,Orym: The thief who hit the refinery only stole some documents and left the defendant's gold.[p/] This guy never does that.,Orym: 在精炼厂的这家伙只偷窃文档，但放着被告的钱一动不动。[p/]而那个“魅影”从不这么做。
+line:0c5cdee,Cross_Orym,Orym: The thief who hit the refinery only stole some documents and left the defendant's gold.[p/] This... person never does that.,Orym: 在精炼厂的这家伙只偷窃文档，但放着被告的钱一动不动。[p/]而那个“魅影”从不这么做。
 line:095845e,Cross_Orym,Player: Overflow,
-line:04e0818,Cross_Orym,Tyrion: His argument is a little weak.[p/] I doubt the theft at the refinery was just a coincidence.,
-line:079281b,Cross_Orym,Celeste: But he has a point.[p/] The serial robber never leaves any evidence.,
-line:0fcc440,Cross_Orym,Celeste: There's nothing to tie him to theft that morning.,
+line:04e0818,Cross_Orym,Tyrion: His argument is a little weak.[p/] I doubt the theft at the refinery was just a coincidence.,Tyrion: 他的主张不够有力，[p/]我不太认为精炼厂发生的盗窃只是巧合。
+line:079281b,Cross_Orym,Celeste: But he has a point.[p/] The serial robber never leaves any evidence.,Celeste: 但他说的也不无道理。[p/]那个连环盗窃的犯人从不遗留证据。
+line:0fcc440,Cross_Orym,Celeste: There's nothing to tie him to theft that morning.,Celeste: 没有可以将“魅影”与那天的窃贼相关联的证据。
 line:06bd32a,Cross_Orym,Player: Objection,
 line:03e9a9d,Cross_Orym,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
 line:0e2c3ca,Cross_Orym,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
 line:07dc723,Cross_Orym,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
 line:00c7d57,Cross_Orym,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
-line:093feed,Cross_OrymPress1,Tyrion: Are they really having that much trouble identifying the thief?,
-line:06f8f24,Cross_OrymPress1,"Orym: They're good at covering their tracks.[p/] They don't leave any evidence,[p/] and they never trip any alarms.",
-line:065504b,Cross_OrymPress1,"Orym: Half the time,[p/] it's like they're disappearing into thin air.",
-line:05aa2d4,Cross_OrymPress1,"Orym: He's good at covering his tracks.[p/] He doesn't leave any evidence,[p/] and he never trips any alarms.",
-line:07dad3a,Cross_OrymPress1,"Orym: Half the time,[p/] it's like he's disappearing into thin air.",
-line:05aab92,Cross_OrymPress1,Tyrion: ...Could the Phantom be a mage proficient in [b]conjuration[/b] magic?,
-line:0ab7e35,Cross_OrymPress1,Tyrion: They could be teleporting to bypass any security altogether.,
-line:0b9f482,Cross_OrymPress1,"Orym: ...Maybe,[p/] but most security systems are designed to detect and block teleportation inside.",
-line:0197c3f,Cross_OrymPress1,Orym: You can't teleport inside unless you already have some kind of magical beacon already in the place.,
-line:0d79d95,Cross_OrymPress1,Orym: Not to mention that the locks leading inside were obviously picked and unlocked.,
-line:0d5f007,Cross_OrymPress1,"Orym: If anything,[p/] these systems don't prevent teleportation [i]out[/i] of its field.",
-line:09af360,Cross_OrymPress1,Orym: So maybe they're using [b]conjuration[/b] magic to get out.,
-line:0cf6b9e,Cross_OrymPress1,Tyrion: But I doubt a place like the Arcane Refinery would have a system as sophisticated as that.,
-line:0cbf9fd,Cross_OrymPress2,Tyrion: How so?,
-line:0f19c41,Cross_OrymPress2,Orym: The thief has been robbing a lot of merchant ships.[p/] Some of them even belong to Von Sanctus Industries.,
-line:095e229,Cross_OrymPress2,Orym: Places like the Arcane Refinery probably have [i]some[/i] gold.[p/] The owner even mentioned he had some coins in the safe that got broken into.,
-line:0b756f6,Cross_OrymPress2,Orym: But all that is below this Phantom's paygrade.,
-line:0be46e0,Cross_OrymPress2,Orym: Some of the things the Phantom stole were worth ten times the amount of gold in that safe.,
-line:049feab,Cross_OrymPress2,Orym: That's not even mentioning the fact that—,
-line:077ddb9,Cross_OrymPress3,"Tyrion: Sometimes information can be more valuable than gold, Commander.",
-line:0044e06,Cross_OrymPress3,"Orym: Maybe,[p/] but I don't think our guy would risk so much for a couple of business documents.",
-line:087d2dd,Cross_OrymPress3,"Orym: Your client might have some enemies,[p/] but the Phantom's good enough to hit the merchant ships guarded by armed soldiers.",
-line:0d9e0d4,Cross_OrymPress3,"Orym: Every time they hit a place,[p/] they run the risk of getting caught.",
-line:0cbfbbf,Cross_OrymPress3,"Orym: The theft happened this morning when the refinery was already open.[p/] Employees were already on the ground, too.",
-line:00b479c,Cross_OrymPress3,Orym: Anyone could have spotted him.[p/] It just doesn't make sense for the phantom to take a risk like that for so little gain.,
-line:05297de,OrymObj,"Tyrion: Commander,[p/] it's clear you think the Phantom wouldn't have gone to all that trouble to steal a few business records.",
-line:0acd459,OrymObj,"Orym: Yeah,[p/] it doesn't make any sense.",
-line:0b7e0f5,OrymObj,Orym: This person has enough skills to break into heavily guarded buildings.,
-line:0428e92,OrymObj,Orym: Why would they bother with some business records?,
-line:0fb2ec3,OrymObj,Orym: This guy has enough skills to break into heavily guarded buildings.,
-line:076fd0b,OrymObj,Orym: Why would he bother with some business records?,
-line:0d5593d,OrymObj,"Tyrion: That's where you're wrong, Orym.",
-line:0dca07e,OrymObj,"Orym: ...Kid,[p/] why do you always have to do this to me?",
-line:09d73fc,OrymObj,Tyrion: There's another series of thefts where nothing inherently valuable was taken.,
-line:04ab3f9,OrymObj,Tyrion: The Mistweaving Phantom also broke into many of the offices owned by the workers' unions.,
-line:0628821,OrymObj,"AriaC: Again,[p/] you're assuming that the Phantom broke into said offices.",
-line:04fd336,OrymObj,AriaC: It's entirely plausible that a refinery employee who was a part of the union stole from both of these offices.,
-line:02cdb13,OrymObj,"Tyrion: A union member may have been able to access my client's office,[p/] but they wouldn't have such an easy time entering the union offices.",
-line:062cfdf,OrymObj,Tyrion: Many of the unions have anticipated sabotage and have invested in state-of-the-art security systems.,
-line:06cfffa,OrymObj,Tyrion: They've taken precautions to make sure that only high-ranking officials have access to these documents.,
-line:0b5fe55,OrymObj,Tyrion: There's only one person with the skills to break into these locations.,
-line:0d26501,OrymObj,Tyrion: And that's the [i]same[/i] thief who's been robbing those ships in the Aurinax Harbor!,
-line:0b8bbf8,OrymObj2,AriaC: And what possible motive would the Phantom have to steal these documents?,
-line:0df3d42,OrymObj2,Tyrion: That's simple![p/][s/] They wanted detailed information on my client's company and the workers' unions!,
+line:093feed,Cross_OrymPress1,Tyrion: Are they really having that much trouble identifying the thief?,Tyrion: 他们真的那么难以确定窃贼的身份吗？
+line:06f8f24,Cross_OrymPress1,"Orym: They're good at covering their tracks.[p/] They don't leave any evidence,[p/] and they never trip any alarms.",Orym: 那个盗贼非常善于掩盖踪迹。[p/]从不留下证据，[p/]也从不触发警报。
+line:065504b,Cross_OrymPress1,"Orym: Half the time,[p/] it's like they're disappearing into thin air.",Orym: 很多时候，[p/]就好像那个人是凭空消失的。
+line:05aa2d4,Cross_OrymPress1,"Orym: He's good at covering his tracks.[p/] He doesn't leave any evidence,[p/] and he never trips any alarms.",Orym: 他非常善于掩盖踪迹。[p/]从不留下证据，[p/]也从不触发警报。
+line:07dad3a,Cross_OrymPress1,"Orym: Half the time,[p/] it's like he's disappearing into thin air.",Orym: 很多时候，[p/]就好像他是凭空消失的。
+line:05aab92,Cross_OrymPress1,Tyrion: ...Could the Phantom be a mage proficient in [b]conjuration[/b] magic?,Tyrion: ……那个“魅影”是否可能是相当擅长[b]召唤术[/b]的法师呢？
+line:0ab7e35,Cross_OrymPress1,Tyrion: They could be teleporting to bypass any security altogether.,Tyrion: 这样的话就很可能是通过传送越过安保设施的。
+line:0b9f482,Cross_OrymPress1,"Orym: ...Maybe,[p/] but most security systems are designed to detect and block teleportation inside.",Orym: ……是有可能，[p/]但绝大部分的安保设施都有在内侧探测并阻止传送法术的功能。
+line:0197c3f,Cross_OrymPress1,Orym: You can't teleport inside unless you already have some kind of magical beacon already in the place.,Orym: 除非你事先在里面设置了魔法信标，你是无法传送进去的。
+line:0d79d95,Cross_OrymPress1,Orym: Not to mention that the locks leading inside were obviously picked and unlocked.,Orym: 更不要提门锁都明显是被撬开过的。
+line:0d5f007,Cross_OrymPress1,"Orym: If anything,[p/] these systems don't prevent teleportation [i]out[/i] of its field.",Orym: 一定要说有什么可能的话，[p/]这类装置通常不阻止从里面传送[i]出去[/i]。
+line:09af360,Cross_OrymPress1,Orym: So maybe they're using [b]conjuration[/b] magic to get out.,Orym: 所以可能确实是用[b]召唤术[/b]离开的。
+line:0cf6b9e,Cross_OrymPress1,Tyrion: But I doubt a place like the Arcane Refinery would have a system as sophisticated as that.,Tyrion: 但我不认为像精炼厂这种地方会有如此精密的安保系统。
+line:0cbf9fd,Cross_OrymPress2,Tyrion: How so?,Tyrion: 为什么呢？
+line:0f19c41,Cross_OrymPress2,Orym: The thief has been robbing a lot of merchant ships.[p/] Some of them even belong to Von Sanctus Industries.,Orym: “魅影”已经抢劫了许多商船，[p/]有些甚至是冯·桑克图斯实业所属的。
+line:095e229,Cross_OrymPress2,Orym: Places like the Arcane Refinery probably have [i]some[/i] gold.[p/] The owner even mentioned he had some coins in the safe that got broken into.,Orym: 像精炼厂这种地方很可能是有[i]一点[/i]金钱的。[p/]雇主本人也提到过他被撬开的保险箱里有一些金币。
+line:0b756f6,Cross_OrymPress2,Orym: But all that is below this Phantom's paygrade.,Orym: 但对“魅影”来说价值不太够。
+line:0be46e0,Cross_OrymPress2,Orym: Some of the things the Phantom stole were worth ten times the amount of gold in that safe.,Orym: “魅影”偷走的东西价值肯定远胜于保险箱里的金币。
+line:049feab,Cross_OrymPress2,Orym: That's not even mentioning the fact that—,Orym: 更不用提——
+line:077ddb9,Cross_OrymPress3,"Tyrion: Sometimes information can be more valuable than gold, Commander.",Tyrion: 指挥官，有时候信息本身就比黄金更有价值。
+line:0044e06,Cross_OrymPress3,"Orym: Maybe,[p/] but I don't think our guy would risk so much for a couple of business documents.",Orym: 是有可能，[p/]但我觉得没人会为了几份商业档案就冒这么大的险。
+line:087d2dd,Cross_OrymPress3,"Orym: Your client might have some enemies,[p/] but the Phantom's good enough to hit the merchant ships guarded by armed soldiers.",Orym: 你的委托人可能有敌人，[p/]但“魅影”可是能抢劫全副武装的士兵把守的货船。
+line:0d9e0d4,Cross_OrymPress3,"Orym: Every time they hit a place,[p/] they run the risk of getting caught.",Orym: 毕竟那家伙每次作案，[p/]同样都要承受遭到逮捕的风险。
+line:0cbfbbf,Cross_OrymPress3,"Orym: The theft happened this morning when the refinery was already open.[p/] Employees were already on the ground, too.",Orym: 今早盗窃案发生的时候，精炼厂已经开工了。[p/]工人们已都在一楼就位。
+line:00b479c,Cross_OrymPress3,Orym: Anyone could have spotted him.[p/] It just doesn't make sense for the phantom to take a risk like that for so little gain.,Orym: 任何人都可能看到她。[p/]“魅影”没道理冒这么大风险只为一点点的收益。
+line:05297de,OrymObj,"Tyrion: Commander,[p/] it's clear you think the Phantom wouldn't have gone to all that trouble to steal a few business records.",Tyrion: 指挥官，[p/]显然你的观点是“魅影”不会为了几份商业文档给自己惹这么多麻烦。
+line:0acd459,OrymObj,"Orym: Yeah,[p/] it doesn't make any sense.",Orym: 没错，[p/]根本说不通。
+line:0b7e0f5,OrymObj,Orym: This person has enough skills to break into heavily guarded buildings.,Orym: 这个人有足够闯入重兵把守之地的能力。
+line:0428e92,OrymObj,Orym: Why would they bother with some business records?,Orym: 干嘛非得只是要几份商业文件？
+line:0fb2ec3,OrymObj,Orym: This guy has enough skills to break into heavily guarded buildings.,Orym: 他有足够闯入重兵把守之地的能力。
+line:076fd0b,OrymObj,Orym: Why would he bother with some business records?,Orym: 他干嘛非得只是要几份商业文件？
+line:0d5593d,OrymObj,"Tyrion: That's where you're wrong, Orym.",Tyrion: 这就是你犯错的地方了，奥蒙。
+line:0dca07e,OrymObj,"Orym: ...Kid,[p/] why do you always have to do this to me?",Orym: ……小子，[p/]你干嘛老对我这么说？
+line:09d73fc,OrymObj,Tyrion: There's another series of thefts where nothing inherently valuable was taken.,Tyrion: 还有一系列盗窃案，案中并未窃取任何具有直接价值的东西。
+line:04ab3f9,OrymObj,Tyrion: The Mistweaving Phantom also broke into many of the offices owned by the workers' unions.,Tyrion: “织雾魅影”同样也闯入了许多工会的办公室。
+line:0628821,OrymObj,"AriaC: Again,[p/] you're assuming that the Phantom broke into said offices.",AriaC: 又来了，[p/]“魅影”有闯入这些办公室只是你的推测。
+line:04fd336,OrymObj,AriaC: It's entirely plausible that a refinery employee who was a part of the union stole from both of these offices.,AriaC: 发生在工会和德拉科根的办公室的盗窃案实际上都是由一名属于工会成员的精炼厂工人所为，这种说法完全是合理的。
+line:02cdb13,OrymObj,"Tyrion: A union member may have been able to access my client's office,[p/] but they wouldn't have such an easy time entering the union offices.",Tyrion: 工会成员或许是有办法进入我委托人的办公室，[p/]弹药进入工会的办公室就没那么简单了。
+line:062cfdf,OrymObj,Tyrion: Many of the unions have anticipated sabotage and have invested in state-of-the-art security systems.,Tyrion: 许多工会事先预料到有破坏活动，都投资了先进的安保装置。
+line:06cfffa,OrymObj,Tyrion: They've taken precautions to make sure that only high-ranking officials have access to these documents.,Tyrion: 而且也采取了预防制度，确保只有高位成员有权写接触这些文件。
+line:0b5fe55,OrymObj,Tyrion: There's only one person with the skills to break into these locations.,Tyrion: 只有一个人有能力进入这些地方。
+line:0d26501,OrymObj,Tyrion: And that's the [i]same[/i] thief who's been robbing those ships in the Aurinax Harbor!,Tyrion: 而那人与抢劫了欧奥耐克斯港内货船的窃贼就是[i]同一人[/i]！
+line:0b8bbf8,OrymObj2,AriaC: And what possible motive would the Phantom have to steal these documents?,AriaC: 那“魅影”又有什么理由非得去偷窃这些文件呢？
+line:0df3d42,OrymObj2,Tyrion: That's simple![p/][s/] They wanted detailed information on my client's company and the workers' unions!,Tyrion: 很简单！[p/][s/]他们需要我委托人的公司与工会的详细情报！
 line:0826b65,OrymObj2,AriaC: ...,AriaC: ……
-line:02ada8d,OrymObj2,"AriaC: In all of your wild speculation,[p/] I think you haven't considered one possibility, Mr. Cuthbert.",
-line:0c618bf,OrymObj2,Tyrion: ...And what's that?,
-line:0820e1a,OrymObj2,AriaC: That the unions themselves were the ones who robbed your client.,
+line:02ada8d,OrymObj2,"AriaC: In all of your wild speculation,[p/] I think you haven't considered one possibility, Mr. Cuthbert.",AriaC: 我认为你并没有把一种可能性包括在在你的胡猜乱测中，卡斯伯特先生。
+line:0c618bf,OrymObj2,Tyrion: ...And what's that?,Tyrion: ……你说的是什么？
+line:0820e1a,OrymObj2,AriaC: That the unions themselves were the ones who robbed your client.,AriaC: 工会本身就是偷窃你的委托人的元凶。
 line:0878bda,OrymObj2,AriaC: You said it yourself:[p/] only high-ranking executives had access to the union documents that went missing.,
 line:066e217,OrymObj2,AriaC: And none of those executives knew any spells that could rip apart the guardrail.[p/] None of them were even mages.,
 line:0b47c33,OrymObj2,Tyrion: That's ridiculous.[p/] Why would the workers' unions rob themselves?,
