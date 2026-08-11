@@ -6926,55 +6926,55 @@
   {
     "key": "C3 Dialogue.csv::translation::65c4ca7d3dafb46f",
     "original": "AriaC: Commander, as I'm sure you've heard,[p/] Mr. Cuthbert is trying to connect the accident to the robberies of the Mistweaving Phantom.",
-    "translation": "",
+    "translation": "AriaC: 指挥官，你肯定也听到了，[p/]卡斯伯特先生试图将这起事故与“织雾魅影”的盗窃行为联系起来。",
     "context": "{\n  \"id\": \"line:0004ad1\",\n  \"node\": \"OrymTest\",\n  \"text\": \"AriaC: Commander, as I'm sure you've heard,[p/] Mr. Cuthbert is trying to connect the accident to the robberies of the Mistweaving Phantom.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::97843763bd10c51e",
     "original": "AriaC: Please testify about the City Watch's findings regarding the robberies.",
-    "translation": "",
+    "translation": "AriaC: 请就城市安保就这些抢劫盗窃案件的调查结果进行作证。",
     "context": "{\n  \"id\": \"line:089a777\",\n  \"node\": \"OrymTest\",\n  \"text\": \"AriaC: Please testify about the City Watch's findings regarding the robberies.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::065a5cf35ef85714",
     "original": "Orym: Sure...",
-    "translation": "",
+    "translation": "Orym: 当然了……",
     "context": "{\n  \"id\": \"line:02bb85e\",\n  \"node\": \"OrymTest\",\n  \"text\": \"Orym: Sure...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1e50e84068ddf92a",
     "original": "Orym: So this Phantom's been hitting a lot of places—[p/]mostly shipments coming into the harbor.",
-    "translation": "",
+    "translation": "Orym: 结论是，这个所谓的“魅影”在许多地方都有作案——[p/]大多数是来到港口的货船。",
     "context": "{\n  \"id\": \"line:065c977\",\n  \"node\": \"OrymTest\",\n  \"text\": \"Orym: So this Phantom's been hitting a lot of places—[p/]mostly shipments coming into the harbor.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0b1dd22a058f0412",
     "original": "Orym: Doesn't matter what kind of lock or security the place has,[p/] he can get in no problem.",
-    "translation": "",
+    "translation": "Orym: 不论被抢劫的地方使用了什么样的锁或者安全系统，[p/]他都能毫无阻碍地进入。",
     "context": "{\n  \"id\": \"line:0558804\",\n  \"node\": \"OrymTest\",\n  \"text\": \"Orym: Doesn't matter what kind of lock or security the place has,[p/] he can get in no problem.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::edfa83879cdbc706",
     "original": "Orym: He's made off with a bunch of loot,[p/] and the City Watch has been scratching their heads looking for him.",
-    "translation": "",
+    "translation": "Orym: 他带着大量的赃物逃之夭夭，[p/]城市安保这边使尽浑身解数也没抓到他。",
     "context": "{\n  \"id\": \"line:0dc8747\",\n  \"node\": \"OrymTest\",\n  \"text\": \"Orym: He's made off with a bunch of loot,[p/] and the City Watch has been scratching their heads looking for him.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::494e499aed20dcec",
     "original": "Orym: I know you think the guy hit the refinery too,[p/] but it doesn't match with what we know about him.",
-    "translation": "",
+    "translation": "Orym: 我知道你们认为这家伙也盯上了精炼厂，[p/]但这与我们对他的了解是不相符的。",
     "context": "{\n  \"id\": \"line:0f94756\",\n  \"node\": \"OrymTest\",\n  \"text\": \"Orym: I know you think the guy hit the refinery too,[p/] but it doesn't match with what we know about him.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2b8b9cbd67e0ef20",
     "original": "Orym: The guy only stole some documents and left the defendant's gold.[p/] This guy never does that.",
-    "translation": "",
+    "translation": "Orym: 在精炼厂的这家伙只偷窃文档，但放着被告的钱一动不动。[p/]而那个“魅影”从不这么做。",
     "context": "{\n  \"id\": \"line:0807e2e\",\n  \"node\": \"OrymTest\",\n  \"text\": \"Orym: The guy only stole some documents and left the defendant's gold.[p/] This guy never does that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4e28646d1f905b3a",
     "original": "The connection between the Mistweaving Phantom and Justin's death was already difficult to prove.",
-    "translation": "",
+    "translation": "“织雾魅影”与贾斯汀之死的联系已经很难证明了。",
     "context": "{\n  \"id\": \"line:08d353e\",\n  \"node\": \"OrymTest\",\n  \"text\": \"The connection between the Mistweaving Phantom and Justin's death was already difficult to prove.\"\n}"
   },
   {
