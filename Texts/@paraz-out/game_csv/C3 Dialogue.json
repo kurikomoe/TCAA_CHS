@@ -8668,7 +8668,7 @@
   {
     "key": "C3 Dialogue.csv::translation::9b932b5ddc9757ea",
     "original": "Tyrion: They've taken precautions to make sure that only high-ranking officials have access to these documents.",
-    "translation": "Tyrion: 而且也采取了预防制度，确保只有高位成员有权写接触这些文件。",
+    "translation": "Tyrion: 而且也采取了预防制度，确保只有高位成员有权接触这些文件。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:06cfffa\",\n  \"node\": \"OrymObj\",\n  \"text\": \"Tyrion: They've taken precautions to make sure that only high-ranking officials have access to these documents.\"\n}"
   },
@@ -8724,106 +8724,106 @@
   {
     "key": "C3 Dialogue.csv::translation::9ea5740e0ae15597",
     "original": "AriaC: You said it yourself:[p/] only high-ranking executives had access to the union documents that went missing.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 正如你已经说过的，[p/]只有高位成员有权接触工会失窃的文件。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0878bda\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: You said it yourself:[p/] only high-ranking executives had access to the union documents that went missing.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::df74b12435477f6b",
     "original": "AriaC: And none of those executives knew any spells that could rip apart the guardrail.[p/] None of them were even mages.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 而这些人中没有一个知晓撕裂那些护栏的法术。[p/]他们之中甚至一个法师都没有。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:066e217\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: And none of those executives knew any spells that could rip apart the guardrail.[p/] None of them were even mages.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b9727eb748d5ace8",
     "original": "Tyrion: That's ridiculous.[p/] Why would the workers' unions rob themselves?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 这太荒谬了。[p/]工会成员为什么要偷窃自己的东西？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b47c33\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"Tyrion: That's ridiculous.[p/] Why would the workers' unions rob themselves?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::39d69983243e5f8a",
     "original": "AriaC: Simple,[p/] they wanted to cover their tracks and play the victim when [i]they[/i] were the true culprits.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 很简单，[p/]他们想掩盖自己的罪行，明明身为元凶却要扮演受害者。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08053bd\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: Simple,[p/] they wanted to cover their tracks and play the victim when [i]they[/i] were the true culprits.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b9e38cc3319ccea8",
     "original": "AriaC: After all,[p/] we have several reports confirming hostility between your client and the workers' unions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 毕竟，[p/]我们已经收到了多分报告，证实你的委托人与工会间存在敌意。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:098c51e\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: After all,[p/] we have several reports confirming hostility between your client and the workers' unions.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b7bf7910edf367ed",
     "original": "Tyrion: I think you'll find that those reports are exagerrated,[p/] if not entirely false.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我想你会发现那些报告即使不是完全错误，[p/]至少也是夸大其词。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:005e96a\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"Tyrion: I think you'll find that those reports are exagerrated,[p/] if not entirely false.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1cc44b520163ee39",
     "original": "Tyrion: My client and Noah Morrison can testify to that fact.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我的委托人与诺亚·莫里森都能证实这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0082f51\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"Tyrion: My client and Noah Morrison can testify to that fact.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8de88817a1eeb94f",
     "original": "AriaC: They obviously would.[p/] An employee just died due to your client's negligence.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 他们当然会这么做。[p/]一个雇员因为你的委托人的过失死亡。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00c2c10\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: They obviously would.[p/] An employee just died due to your client's negligence.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f401b70bd27921a1",
     "original": "AriaC: Mr. Dracogen has every reason to feign amicability with the unions.[p/] It would avoid further outrage.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 德拉科根先生完全有理由与工会假装和睦，[p/]避免产生进一步的暴乱。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:095ae50\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: Mr. Dracogen has every reason to feign amicability with the unions.[p/] It would avoid further outrage.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0be09b20b57971f1",
     "original": "AriaC: And Noah Morrison has no choice but to do the same—[p/]lest he be incriminated in the thefts himself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 而诺亚·莫里森别无选择，只能保持配合——[p/]除非他想曝光自己的罪行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:099548b\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: And Noah Morrison has no choice but to do the same—[p/]lest he be incriminated in the thefts himself.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::45585187cc13230b",
     "original": "Tyrion: And what proof do you have that they aren't telling the truth?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 那你又有什么证据证明他们说谎呢？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04f5b38\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"Tyrion: And what proof do you have that they aren't telling the truth?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::85387a9b362b52ba",
     "original": "AriaC: As I've said,[p/] I have several reports from many different individuals.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 我已经说过了，[p/]我收到了来自几个线人的系列报告。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02b155b\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: As I've said,[p/] I have several reports from many different individuals.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f3c589e519676791",
     "original": "AriaC: They came from multiple, diverse sources,[p/] and they all paint a very vivid picture of aggression between your client and the unions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 报告来自多个不同领域的信源，[p/]而它们都生动描绘了你的委托人与工会之间激烈冲突的局面。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0add738\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: They came from multiple, diverse sources,[p/] and they all paint a very vivid picture of aggression between your client and the unions.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e7081859aa9179a1",
     "original": "AriaC: Furthermore,[p/] they are far less biased than Stefanic Dracogen or Noah Morrison.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 更进一步地说，[p/]信源的偏向性远低于斯蒂芬尼克·德拉科根和诺亚·莫里森这两个人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f39d40\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: Furthermore,[p/] they are far less biased than Stefanic Dracogen or Noah Morrison.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::83d82158210dd9d6",
     "original": "She had a point,[p/] and I couldn't claim the reports were false without any proof.",
-    "translation": "",
-    "stage": 0,
+    "translation": "她的逻辑是通顺的，[p/]我也不能在没有证据的情况下主张报告结论有误。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07765ef\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"She had a point,[p/] and I couldn't claim the reports were false without any proof.\"\n}"
   },
   {
