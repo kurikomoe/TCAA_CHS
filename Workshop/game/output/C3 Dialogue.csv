@@ -1382,118 +1382,118 @@ line:05b7700,NoahTest,"Tyrion: As you know,[p/] there was a theft that occurred 
 line:0dcfeb0,NoahTest,Tyrion: The prosecution is trying to imply that you may have been involved.,Tyrion: 而检方试图宣称你参与其中。
 line:0c1df64,NoahTest,Noah: Yeah...[p/] I heard.,Noah: 是啊……[p/]我听说了。
 line:031e905,NoahTest,Tyrion: Could you please testify about the thefts that occurred at the union offices?,Tyrion: 能否请你就在工会办公室发生的几起盗窃案进行作证？
-line:0cf16e4,NoahTest,Tyrion: It's clear you also believe they're related to the theft at the refinery.,
-line:0faa391,NoahTest,Tyrion: Any details that might help us prove that would help a lot.,
-line:0499059,NoahTest,Noah: Alright...,
-line:0e06d0e,NoahTest,"Noah: I don't know where all these reports of ""hostile tensions"" came from,[p/] but everything's great between Dracogen and us.",
-line:08c7f1e,NoahTest,"Noah: Whoever this Phantom is,[p/] they've got nothing to do with that nonsense.[p/] They've been hitting everyone.",
-line:02ac63e,NoahTest,"Noah: It's not just our offices and the ships.[p/] They broke into some of the union members' homes, too.",
-line:030551b,NoahTest,Noah: Those poor blokes had everything stolen from them.[p/] They even had to skip town because of it.,
-line:0dbac7b,NoahTest,"Noah: They were good people too—[p/]solid,[p/] law-abiding citizens.",
-line:046b28f,NoahTest,"Tyrion: As you can see,[p/] Mr. Morrison had very little motive to break into my client's office.",
-line:0f6a94e,NoahTest,"Tyrion: The serial thief, meanwhile,[p/] has been robbing people all over the city.",
-line:03c941e,NoahTest,AriaC: ...That's assuming the witness's testimony is true.,
-line:0d6b714,NoahTest,Noah: Take a look at the crime reports!,
-line:09544ab,NoahTest,Noah: You'll see that a lot of the victims were members of the union!,
+line:0cf16e4,NoahTest,Tyrion: It's clear you also believe they're related to the theft at the refinery.,Tyrion: 显然你也相信这些案件与精炼厂内发生的盗窃案有联系。
+line:0faa391,NoahTest,Tyrion: Any details that might help us prove that would help a lot.,Tyrion: 任何能帮助我们证明此事的细节都将造成相当大的帮助。
+line:0499059,NoahTest,Noah: Alright...,Noah: 没问题……
+line:0e06d0e,NoahTest,"Noah: I don't know where all these reports of ""hostile tensions"" came from,[p/] but everything's great between Dracogen and us.",Noah: 我是不知道那些“冲突”的报告是从何而来，[p/]但德拉科根与我之间一直相处良好。
+line:08c7f1e,NoahTest,"Noah: Whoever this Phantom is,[p/] they've got nothing to do with that nonsense.[p/] They've been hitting everyone.",Noah: 无论那个“魅影”是什么人，[p/]他都与那些无稽之谈无关。[p/]谁都有可能成为他的目标。
+line:02ac63e,NoahTest,"Noah: It's not just our offices and the ships.[p/] They broke into some of the union members' homes, too.",Noah: 不只是我们的办公室和货船。[p/]那家伙还闯进了一些工会成员的家里。
+line:030551b,NoahTest,Noah: Those poor blokes had everything stolen from them.[p/] They even had to skip town because of it.,Noah: 那些可怜的兄弟被那家伙洗劫一空。[p/]他们甚至不得不因此逃离了这座城镇。
+line:0dbac7b,NoahTest,"Noah: They were good people too—[p/]solid,[p/] law-abiding citizens.",Noah: 他们明明都是好人——[p/]都是可靠又守法的市民。
+line:046b28f,NoahTest,"Tyrion: As you can see,[p/] Mr. Morrison had very little motive to break into my client's office.",Tyrion: 如你所见，[p/]莫里森先生几乎没有闯入我委托人的办公室的动机。
+line:0f6a94e,NoahTest,"Tyrion: The serial thief, meanwhile,[p/] has been robbing people all over the city.",Tyrion: 与此同时，这个连续盗窃犯，[p/]已经洗劫了整座城市的居民。
+line:03c941e,NoahTest,AriaC: ...That's assuming the witness's testimony is true.,AriaC: ……在假定证人发言都是真话的前提下。
+line:0d6b714,NoahTest,Noah: Take a look at the crime reports!,Noah: 看看之前的犯罪记录吧！
+line:09544ab,NoahTest,Noah: You'll see that a lot of the victims were members of the union!,Noah: 你就会发现大多数的受害者都是工会成员！
 line:03e87e8,NoahTest,AriaC: ...,AriaC: ……
-line:0ccd9d1,NoahTest,AriaC: I unfortunately don't have access to the reports for those.,
-line:0b67eaa,NoahTest,Tyrion: ...What are you talking about?[p/] You're a prosecutor.,
-line:0dd7fdb,NoahTest,Tyrion: Why wouldn't you have access to those reports?,
-line:037ba84,NoahTest,AriaC: ...I'm not certain.,
-line:0bf28c1,NoahTest,AriaC: I imagine it's related to the theft that occurred on the imperial ship this morning.,
-line:0c26114,NoahTest,That was strange...[p/] Who would have the authority to prevent a Steelwind from accessing those records?,
-line:05aff11,NoahTest,"AriaC: In any case,[p/] Aurinax is a large city with an average rate of crime.",
-line:09a6e7c,NoahTest,AriaC: There's nothing to prove that any of [i]those[/i] thefts are related to this either.,
-line:07e9cb8,NoahTest,AriaC: There isn't even anything that proves these thefts are related to [i]each other[/i].,
-line:081d49b,NoahTest,We would see about that...,
-line:06c87ac,Cross_Noah,"Noah: I don't know where all these reports of ""hostile tensions"" came from,[p/] but everything's great between Dracogen and us.",
-line:094211e,Cross_Noah,AriaC: ...So you say.,
-line:000c816,Cross_Noah,"Noah: Look, wherever you're getting these reports,[p/] they're completely wrong!",
-line:0f877ba,Cross_Noah,"AriaC: Witness,[p/] these reports came from multiple sources throughout the course of several months.",
-line:020d324,Cross_Noah,"AriaC: For obvious reasons,[p/] the individuals who made them will remain anonymous.",
-line:02a0050,Cross_Noah,"AriaC: But said reports came from multiple members of the commonfolk,[p/] aristocracy,[p/] [i]and[/i] law enforcement.",
-line:024dcbc,Cross_Noah,AriaC: We also have several crime reports of violent encounters between your union members and the defendant's employees.,
-line:0bbc66d,Cross_Noah,Noah: What?!,
-line:0440a05,Cross_Noah,What was going on here?!,
-line:0d6464b,Cross_Noah,Mr. Morrison seemed just as confused as I was.,
-line:03d152c,Cross_Noah,"Were these reports falsified,[p/] or were these encounters happening without his knowledge?",
-line:09b0abe,Cross_Noah,"Noah: Whoever this Phantom is,[p/] they've got nothing to do with that nonsense.[p/] They've been hitting everyone.",
-line:04fc432,Cross_Noah,AriaC: ...Assuming that these aren't just a string of unrelated thefts.,
-line:06eee29,Cross_Noah,Noah: I'll admit that Aurinax is a large city.[p/] Break-ins weren't exactly non-existent before this.,
-line:09e963c,Cross_Noah,Noah: But all of my colleagues started getting hit [i]after[/i] this Phantom showed up.,
-line:08310fa,Cross_Noah,Noah: That [i]can't[/i] be a coincidence.,
-line:0c34825,Cross_Noah,AriaC: It's entirely possible that availability bias is at work here.,
-line:09bb974,Cross_Noah,AriaC: People will always try to draw trends between genuine coincidences.,
-line:0d79aed,Cross_Noah,"She was being annoyingly obtuse about this,[p/] but I wouldn't get anywhere until I could prove she was wrong.",
-line:069f73b,Cross_Noah,"Noah: It's not just our offices and the ships.[p/] They broke into some of the union members' homes, too.",
-line:0c402ab,Cross_Noah,Tyrion: Were these homes as secure as the union offices?,
-line:0e79bcc,Cross_Noah,Noah: Not at all...[p/] We're all just industry workers at the end of the day.,
-line:09cb2f5,Cross_Noah,Tyrion: How did you get such a sophisticated security system for the union offices then?,
-line:042be1c,Cross_Noah,"Noah: Ah,[p/] it was a generous donation from some friends we have in the city banking house.",
-line:0c23a4d,Cross_Noah,AriaC: ...The banking house?,
-line:08f9049,Cross_Noah,Noah: I guess there are some folks there who believe in what we're doing.,
+line:0ccd9d1,NoahTest,AriaC: I unfortunately don't have access to the reports for those.,AriaC: 不幸的是，我并没有权限接触那些记录。
+line:0b67eaa,NoahTest,Tyrion: ...What are you talking about?[p/] You're a prosecutor.,Tyrion: ……说什么呢？[p/]你可是检察官啊。
+line:0dd7fdb,NoahTest,Tyrion: Why wouldn't you have access to those reports?,Tyrion: 你为什么无权阅读那些记录？
+line:037ba84,NoahTest,AriaC: ...I'm not certain.,AriaC: ……我并不确定。
+line:0bf28c1,NoahTest,AriaC: I imagine it's related to the theft that occurred on the imperial ship this morning.,AriaC: 我想应该是因为这些案件与今早王家船只失窃一事有关联。
+line:0c26114,NoahTest,That was strange...[p/] Who would have the authority to prevent a Steelwind from accessing those records?,这就奇怪了……[p/]谁还能有权力阻止斯蒂尔文德接触那些记录呢？
+line:05aff11,NoahTest,"AriaC: In any case,[p/] Aurinax is a large city with an average rate of crime.",AriaC: 无论如何，[p/]欧奥耐克斯是一座犯罪率处于平均水平的巨大都市。
+line:09a6e7c,NoahTest,AriaC: There's nothing to prove that any of [i]those[/i] thefts are related to this either.,AriaC: 没有什么东西能证明[i]那些[/i]盗窃案与现在这起有关联。
+line:07e9cb8,NoahTest,AriaC: There isn't even anything that proves these thefts are related to [i]each other[/i].,AriaC: 也没有证据证明这些案件里的窃贼间[i]彼此[/i]有关联。
+line:081d49b,NoahTest,We would see about that...,那我们就拭目以待好了……
+line:06c87ac,Cross_Noah,"Noah: I don't know where all these reports of ""hostile tensions"" came from,[p/] but everything's great between Dracogen and us.",Noah: 我是不知道那些“冲突”的报告是从何而来，[p/]但德拉科根与我之间一直相处良好。
+line:094211e,Cross_Noah,AriaC: ...So you say.,AriaC: ……只是你这么说而已。
+line:000c816,Cross_Noah,"Noah: Look, wherever you're getting these reports,[p/] they're completely wrong!",Noah: 听着，不论你从哪里得到的这些报告，[p/]它们都是完全错误的！
+line:0f877ba,Cross_Noah,"AriaC: Witness,[p/] these reports came from multiple sources throughout the course of several months.",AriaC: 证人，[p/]这些报告来自多个信源，并且经过了数月的调查与核实。
+line:020d324,Cross_Noah,"AriaC: For obvious reasons,[p/] the individuals who made them will remain anonymous.",AriaC: 因为显而易见的原因，[p/]撰写这些报告的人都会保持匿名。
+line:02a0050,Cross_Noah,"AriaC: But said reports came from multiple members of the commonfolk,[p/] aristocracy,[p/] [i]and[/i] law enforcement.",AriaC: 但可以确认的是，这些报告的来源包括数位平民、[p/]贵族，[p/][i]还有[/i]执法人员。
+line:024dcbc,Cross_Noah,AriaC: We also have several crime reports of violent encounters between your union members and the defendant's employees.,AriaC: 我们还有一系列关于你的工会成员与被告的雇员产生暴力冲突的犯罪记录。
+line:0bbc66d,Cross_Noah,Noah: What?!,Noah: 啥？！
+line:0440a05,Cross_Noah,What was going on here?!,这是怎么回事？！
+line:0d6464b,Cross_Noah,Mr. Morrison seemed just as confused as I was.,莫里森先生看起来和我一样困惑。
+line:03d152c,Cross_Noah,"Were these reports falsified,[p/] or were these encounters happening without his knowledge?",究竟是报告本身有问题，[p/]还是这些冲突没有让他知晓？
+line:09b0abe,Cross_Noah,"Noah: Whoever this Phantom is,[p/] they've got nothing to do with that nonsense.[p/] They've been hitting everyone.",Noah: 无论那个“魅影”是什么人，[p/]他都与那些无稽之谈无关。[p/]谁都有可能成为他的目标。
+line:04fc432,Cross_Noah,AriaC: ...Assuming that these aren't just a string of unrelated thefts.,AriaC: 如果假设这一系列盗窃案并非没有关联……
+line:06eee29,Cross_Noah,Noah: I'll admit that Aurinax is a large city.[p/] Break-ins weren't exactly non-existent before this.,Noah: 我承认欧奥耐克斯是一座巨大的城市。[p/]在之前入室盗窃的罪行也并非不存在。
+line:09e963c,Cross_Noah,Noah: But all of my colleagues started getting hit [i]after[/i] this Phantom showed up.,Noah: 但我的兄弟们可都是在这个所谓的“魅影”出现[i]后[/i]遭到盗窃的。
+line:08310fa,Cross_Noah,Noah: That [i]can't[/i] be a coincidence.,Noah: 这[i]不可能[/i]是巧合。
+line:0c34825,Cross_Noah,AriaC: It's entirely possible that availability bias is at work here.,AriaC: 这很有可能只是一种可得性偏差。
+line:09bb974,Cross_Noah,AriaC: People will always try to draw trends between genuine coincidences.,AriaC: 人们总是试图在巧合之中强加规律。
+line:0d79aed,Cross_Noah,"She was being annoyingly obtuse about this,[p/] but I wouldn't get anywhere until I could prove she was wrong.",她这种迟钝的态度令人恼火，[p/]但除非能证明她的错误，我无法取得任何进展。
+line:069f73b,Cross_Noah,"Noah: It's not just our offices and the ships.[p/] They broke into some of the union members' homes, too.",Noah: 不只是我们的办公室和货船。[p/]那家伙还闯进了一些工会成员的家里。
+line:0c402ab,Cross_Noah,Tyrion: Were these homes as secure as the union offices?,Tyrion: 遭到盗窃的家庭有设置与工会办公室一样的安保系统吗？
+line:0e79bcc,Cross_Noah,Noah: Not at all...[p/] We're all just industry workers at the end of the day.,Noah: 完全没有……[p/]毕竟离开岗位，我们也都只是普通的工人而已。
+line:09cb2f5,Cross_Noah,Tyrion: How did you get such a sophisticated security system for the union offices then?,Tyrion: 那你们怎么得到用于工会办公室的那些精密的安保装置呢？
+line:042be1c,Cross_Noah,"Noah: Ah,[p/] it was a generous donation from some friends we have in the city banking house.",Noah: 啊，[p/]那是由我们在本地银行业的一些朋友慷慨捐赠的。
+line:0c23a4d,Cross_Noah,AriaC: ...The banking house?,AriaC: ……银行业？
+line:08f9049,Cross_Noah,Noah: I guess there are some folks there who believe in what we're doing.,Noah: 我想那里的一些伙计是支持我们事业的。
 line:0acfc08,Cross_Noah,AriaC: ...,AriaC: ……
-line:023bc7c,Cross_Noah,"AriaC: Regardless,[p/] that means [i]anyone[/i] could have broken into these houses.",
-line:01dd5ee,Cross_Noah,AriaC: It wouldn't require an expert that's as adept at committing robberies as the Phantom is.,
-line:0ff7e4f,Cross_Noah,Noah: Those poor blokes had everything stolen from them.[p/] They even had to skip town because of it.,
-line:0d6e9f3,Cross_Noah,Tyrion: What would motivate them to leave?,
-line:034a868,Cross_Noah,Noah: Aurinax is a hot spot for trade and industry.,
-line:07c06d8,Cross_Noah,"Noah: There are lots of jobs here now,[p/] but housing's gotten expensive.",
-line:0c7bbbd,Cross_Noah,Noah: I'm guessing they had to move somewhere cheaper in the countryside.,
-line:073e561,Cross_Noah,"Tyrion: Wait, you're ""guessing""?[p/] Did they tell you why they were leaving?",
-line:0f85e00,Cross_Noah,"Noah: No,[p/] a lot of them were really down about it.[p/] They didn't seem too eager to say more.",
-line:029fe28,Cross_Noah,"Noah: They were good people too—[p/]solid, law-abiding citizens.",
-line:037dd60,Cross_Noah,Tyrion: I'm sorry that happened.[p/] I'm sure they were great people.,
-line:0bad957,Cross_Noah,"Noah: It's a damned shame.[p/] They were good people,[p/] and they had families to feed.",
-line:01cb23f,Cross_Noah,"Noah: Aurinax has been going in such a good direction, too.[p/] Crime's been down,[p/] and employment's been up.",
-line:0d1cc91,Cross_Noah,Noah: I really wish we could've shared that with them.,
+line:023bc7c,Cross_Noah,"AriaC: Regardless,[p/] that means [i]anyone[/i] could have broken into these houses.",AriaC: 但除去工会这边，[p/]这就意味着[i]任何人[/i]都可以闯进那些人的家里。
+line:01dd5ee,Cross_Noah,AriaC: It wouldn't require an expert that's as adept at committing robberies as the Phantom is.,AriaC: 并不需要像“魅影”那么高超的技术就能实施这些盗窃。
+line:0ff7e4f,Cross_Noah,Noah: Those poor blokes had everything stolen from them.[p/] They even had to skip town because of it.,Noah: 那些可怜的兄弟被那家伙洗劫一空。[p/]他们甚至不得不因此逃离了这座城镇。
+line:0d6e9f3,Cross_Noah,Tyrion: What would motivate them to leave?,Tyrion: 为什么被盗窃的人都搬走了呢？
+line:034a868,Cross_Noah,Noah: Aurinax is a hot spot for trade and industry.,Noah: 欧奥耐克斯的交易与工业都相当繁荣。
+line:07c06d8,Cross_Noah,"Noah: There are lots of jobs here now,[p/] but housing's gotten expensive.",Noah: 这里的工作机会很多，[p/]所以房屋价格也水涨船高。
+line:0c7bbbd,Cross_Noah,Noah: I'm guessing they had to move somewhere cheaper in the countryside.,Noah: 我想他们不得不搬到城郊那些更便宜的地方。
+line:073e561,Cross_Noah,"Tyrion: Wait, you're ""guessing""?[p/] Did they tell you why they were leaving?",Tyrion: 慢着，是你“想”？[p/]他们有亲口告诉你搬离的原因吗？
+line:0f85e00,Cross_Noah,"Noah: No,[p/] a lot of them were really down about it.[p/] They didn't seem too eager to say more.",Noah: 没有。[p/]他们大多因此相当沮丧，[p/]似乎并不愿意多说。
+line:029fe28,Cross_Noah,"Noah: They were good people too—[p/]solid, law-abiding citizens.",Noah: 他们明明都是好人——[p/]都是可靠又守法的市民。
+line:037dd60,Cross_Noah,Tyrion: I'm sorry that happened.[p/] I'm sure they were great people.,Tyrion: 很遗憾会发生这种事情。[p/]我相信他们都是很好的人。
+line:0bad957,Cross_Noah,"Noah: It's a damned shame.[p/] They were good people,[p/] and they had families to feed.",Noah: 真是太遗憾了。[p/]他们都是很好的人，[p/]而且还要养家糊口。
+line:01cb23f,Cross_Noah,"Noah: Aurinax has been going in such a good direction, too.[p/] Crime's been down,[p/] and employment's been up.",Noah: 欧奥耐克斯明明在往好的方向发展。[p/]犯罪变少了，[p/]工作机会增加了。
+line:0d1cc91,Cross_Noah,Noah: I really wish we could've shared that with them.,Noah: 我真希望能分担他们的不幸。
 line:080cdb0,Cross_Noah,AriaC: ...,AriaC: ……
 line:092ad0e,Cross_Noah,Player: Overflow,
-line:0befe60,Cross_Noah,"Celeste: I can understand robbing the nobility and even the merchant ships,[p/] but I can't believe they were robbing commoners too.",
-line:00172bb,Cross_Noah,"Tyrion: It's a little strange, honestly.[p/] If they were after valuables,[p/] why would they bother robbing them at all?",
-line:031cf12,Cross_Noah,Tyrion: The house of an industrial worker wouldn't have that much to steal—[p/]at least not when compared to the merchant ships.,
-line:066ba77,Cross_Noah,Celeste: Maybe it was because it was easy?[p/] They probably wouldn't have any kind of magical security.,
-line:06e91b1,Cross_Noah,"Possibly,[p/] but that still felt strange to me.",
+line:0befe60,Cross_Noah,"Celeste: I can understand robbing the nobility and even the merchant ships,[p/] but I can't believe they were robbing commoners too.",Celeste: 我能理解他们以贵族甚至是商人为目标，[p/]但很难相信他们还对平民下手。
+line:00172bb,Cross_Noah,"Tyrion: It's a little strange, honestly.[p/] If they were after valuables,[p/] why would they bother robbing them at all?",Tyrion: 说实话是有点奇怪。[p/]如果“魅影”的行动是看价值的话，[p/]干嘛要盯上平民呢？
+line:031cf12,Cross_Noah,Tyrion: The house of an industrial worker wouldn't have that much to steal—[p/]at least not when compared to the merchant ships.,Tyrion: 工人们的家里应该没什么可偷的——[p/]至少与商船相比不值一提。
+line:066ba77,Cross_Noah,Celeste: Maybe it was because it was easy?[p/] They probably wouldn't have any kind of magical security.,Celeste: 可能只是因为很简单呢？[p/]他们家里基本上不会有什么魔法的保护装置。
+line:06e91b1,Cross_Noah,"Possibly,[p/] but that still felt strange to me.",是有可能，[p/]但我还是觉得奇怪。
 line:0992448,Cross_Noah,Player: Objection,
 line:03c17c7,Cross_Noah,Tyrion: Your Honor![p/][s/] It's clear that the witness's testimony is contradictory!,Tyrion: 法官阁下！[p/][s/]证人的证言明显存在矛盾！
 line:0ff18ef,Cross_Noah,Tyrion: And this piece of evidence proves it!,Tyrion: 而这件证据证明了这点！
 line:0bf459d,Cross_Noah,"Judge: I fail to see how that proves anything, Mr. Cuthbert...",Judge: 卡斯伯特先生……我没看出来这两者有什么关系。
 line:0c2d38f,Cross_Noah,Tyrion: O-[p/][s/]Oh...[p/] I guess you're right.,Tyrion: 噢、[p/][s/]哦……[p/]我想您说得对。
-line:014a57c,NoahObj,"I really didn't want to contradict Mr. Morrison,[p/] but this was the only piece I had left.",
-line:0bdd1f0,NoahObj,"There was nothing else that tied the robberies together,[p/] and I still didn't have a full idea of what the Phantom's motive was.",
-line:084ebdf,NoahObj,But I had to do this.[p/] It was the only way to find out what was really going on in my city.,
-line:0f76e28,NoahObj,Tyrion: ...Mr. Morrison.[p/] You said that the targets of the thefts were law-abiding citizens.,
-line:0be09f9,NoahObj,"Tyrion: Unfortunately,[p/] that's not entirely true.",
-line:0363d6c,NoahObj,Noah: ...What are you talking about?,
-line:09142db,NoahObj,Noah: I knew most of them.[p/] They were good people.,
-line:07d0447,NoahObj,"Tyrion: That may be,[p/] but there's one unfortunate fact that tied them all together.",
-line:0012040,NoahObj,Tyrion: They were all later arrested for treason against the Crown!,
-line:09df07e,NoahObj,Noah: ...What?!,
-line:0448bb6,NoahObj,AriaC: That's ridiculous!,
-line:0ff5c58,NoahObj,AriaC: There have been [i]no[/i] reports of that sort submitted to the City Watch!,
-line:0086cc4,NoahObj,"Noah: What you're saying is crazy, my boy!",
-line:01f03e6,NoahObj,Noah: I've known these people![p/][s/] Some of them were close friends of mine!,
-line:0880874,NoahObj,Noah: They would have never gotten mixed up in that kind of business!,
-line:0fb08c7,NoahObj,"Tyrion: I'm sorry, Mr. Morrison,[p/] but I've heard otherwise.",
-line:0a6383b,NoahObj,Tyrion: The Mistweaving Phantom hasn't just been stealing valuable items.,
-line:05912d2,NoahObj,Tyrion: They've been specifically targeting citizens who were secretly plotting against the kingdom!,
-line:08b6ac5,NoahObj,Tyrion: They're part of a larger plot that involves everyone in the city of Aurinax!,
-line:0e0e01d,NoahObj2,"AriaC: What are you even basing this off of, anyways?!",
-line:0bae8ad,NoahObj2,Tyrion: This testimony came directly from Lloyd von Sanctus:[p/] the Duke of Commerce and the ruling lord of Aurinax!,
+line:014a57c,NoahObj,"I really didn't want to contradict Mr. Morrison,[p/] but this was the only piece I had left.",我真的不想指出莫里森先生的矛盾，[p/]但我也只有这一条路可走。
+line:0bdd1f0,NoahObj,"There was nothing else that tied the robberies together,[p/] and I still didn't have a full idea of what the Phantom's motive was.",没有其他的东西可以将这一系列盗窃案联系在一起了，[p/]而我仍然对“魅影”的动机没有全面的认知。
+line:084ebdf,NoahObj,But I had to do this.[p/] It was the only way to find out what was really going on in my city.,不过不得不做了。[p/]这是唯一理清我的故乡究竟在发生什么事情的办法。
+line:0f76e28,NoahObj,Tyrion: ...Mr. Morrison.[p/] You said that the targets of the thefts were law-abiding citizens.,Tyrion: ……莫里森先生。[p/]你说过盗窃的目标都是守法的市民。
+line:0be09f9,NoahObj,"Tyrion: Unfortunately,[p/] that's not entirely true.",Tyrion: 不幸的是，[p/]这不完全准确。
+line:0363d6c,NoahObj,Noah: ...What are you talking about?,Noah: ……你是什么意思呢？
+line:09142db,NoahObj,Noah: I knew most of them.[p/] They were good people.,Noah: 他们绝大多数我都认识。[p/]都是好人。
+line:07d0447,NoahObj,"Tyrion: That may be,[p/] but there's one unfortunate fact that tied them all together.",Tyrion: 可能是这样，[p/]但有一个事实很不幸地将他们联系在一起。
+line:0012040,NoahObj,Tyrion: They were all later arrested for treason against the Crown!,Tyrion: 他们近期都因叛国罪遭到逮捕了！
+line:09df07e,NoahObj,Noah: ...What?!,Noah: ……你说什么？！
+line:0448bb6,NoahObj,AriaC: That's ridiculous!,AriaC: 无可理喻！
+line:0ff5c58,NoahObj,AriaC: There have been [i]no[/i] reports of that sort submitted to the City Watch!,AriaC: 城市安保可[i]没有[/i]收到这些报告！
+line:0086cc4,NoahObj,"Noah: What you're saying is crazy, my boy!",Noah: 你说的可太疯狂了，孩子！
+line:01f03e6,NoahObj,Noah: I've known these people![p/][s/] Some of them were close friends of mine!,Noah: 我认识这些人！[p/][s/]其中一些还是我的好友！
+line:0880874,NoahObj,Noah: They would have never gotten mixed up in that kind of business!,Noah: 他们根本不可能搅和这种事情！
+line:0fb08c7,NoahObj,"Tyrion: I'm sorry, Mr. Morrison,[p/] but I've heard otherwise.",Tyrion: 很抱歉，莫里森先生。[p/]但我听说情况并非如此。
+line:0a6383b,NoahObj,Tyrion: The Mistweaving Phantom hasn't just been stealing valuable items.,Tyrion: “织雾魅影”不只是盗窃有价值的货物。
+line:05912d2,NoahObj,Tyrion: They've been specifically targeting citizens who were secretly plotting against the kingdom!,Tyrion: 那个人还特地以密谋反对国王的人为目标！
+line:08b6ac5,NoahObj,Tyrion: They're part of a larger plot that involves everyone in the city of Aurinax!,Tyrion: 他们只是一个大阴谋的一部分，而那个阴谋将影响欧奥耐克斯的每一个人！
+line:0e0e01d,NoahObj2,"AriaC: What are you even basing this off of, anyways?!",AriaC: 归根结底，你这个说法究竟有什么根据？！
+line:0bae8ad,NoahObj2,Tyrion: This testimony came directly from Lloyd von Sanctus:[p/] the Duke of Commerce and the ruling lord of Aurinax!,Tyrion: 这一证言由洛伊德·冯·桑克图斯亲口告知，[p/]也就是商业公爵与欧奥耐克斯的领主本人！
 line:0982aaa,NoahObj2,AriaC: ...,AriaC: ……
-line:04334fa,NoahObj2,AriaC: Lloyd von Sanctus gave you this information.,
-line:054eebe,NoahObj2,"Tyrion: That's right, Steelwind.",
-line:0ddb495,NoahObj2,AriaC: Lloyd von Sanctus:[p/] the plaintiff of this trial.,
+line:04334fa,NoahObj2,AriaC: Lloyd von Sanctus gave you this information.,AriaC: 洛伊德·冯·桑克图斯告诉了你这个信息。
+line:054eebe,NoahObj2,"Tyrion: That's right, Steelwind.",Tyrion: 没错，斯蒂尔文德。
+line:0ddb495,NoahObj2,AriaC: Lloyd von Sanctus:[p/] the plaintiff of this trial.,AriaC: 洛伊德·冯·桑克图斯，[p/]本次案件的原告。
 line:0414b60,NoahObj2,Tyrion: ...,Tyrion: ……
-line:0906b3b,NoahObj2,Tyrion: ...Uh—,
-line:028d5d1,NoahObj2,AriaC: Lloyd von Sanctus:[p/] the man who would have every reason to have you fail.,
-line:03e6a57,NoahObj2,Celeste: ...Tyrion?,
-line:08a9834,NoahObj2,Tyrion: ...I-[p/][s/]I may have miscalculated.,
-line:0e1be27,NoahObj2,AriaC: But you seem to be so confident.,
-line:0006560,NoahObj2,AriaC: Perhaps we should have the plaintiff testify so we can know for sure.,
-line:017a456,NoahObj2,...Did von Sanctus really set me up?![p/] How could I fall for something like that?!,
-line:071d4d8,NoahObj2,"But it made so much sense![p/][s/] The Phantom's targets,[p/][s/] the false reports of hostilities—[p/][s/]all of it seemed to be tied together by some greater plot!",
-line:067615b,NoahObj2,There [i]had[/i] to be a kernel of truth to what he'd told us earlier!,
+line:0906b3b,NoahObj2,Tyrion: ...Uh—,Tyrion: ……呃——
+line:028d5d1,NoahObj2,AriaC: Lloyd von Sanctus:[p/] the man who would have every reason to have you fail.,AriaC: 洛伊德·冯·桑克图斯，[p/]那个完全有动机让你败北的人。
+line:03e6a57,NoahObj2,Celeste: ...Tyrion?,Celeste: ……提利昂？
+line:08a9834,NoahObj2,Tyrion: ...I-[p/][s/]I may have miscalculated.,Tyrion: ……我、[p/][s/]我是可能想错了。
+line:0e1be27,NoahObj2,AriaC: But you seem to be so confident.,AriaC: 但你看起来很自信啊。
+line:0006560,NoahObj2,AriaC: Perhaps we should have the plaintiff testify so we can know for sure.,AriaC: 或许我们应该让原告本人作证，才能确定这一点。
+line:017a456,NoahObj2,...Did von Sanctus really set me up?![p/] How could I fall for something like that?!,……是洛伊德·冯·桑克图斯暗算了我吗？！[p/]我怎么会在这种地方栽跟头？！
+line:071d4d8,NoahObj2,"But it made so much sense![p/][s/] The Phantom's targets,[p/][s/] the false reports of hostilities—[p/][s/]all of it seemed to be tied together by some greater plot!",但这太有道理了！[p/][s/]“魅影”的目标、[p/][s/]关于冲突的错误报告——[p/][s/]无论怎么看都是被一个更大的阴谋联系在一起的！
+line:067615b,NoahObj2,There [i]had[/i] to be a kernel of truth to what he'd told us earlier!,他那时候告诉我的那些事情[i]一定[/i]有其道理！
 line:009e9cc,NoahObj2,Maybe he was telling the truth earlier...[p/] He might testify honestly if we called him.,
 line:0eef982,NoahObj2,No...[p/] These charges against Dracogen were laid by [i]him[/i].,
 line:000efd8,NoahObj2,"Even if he [i]had[/i] told us the truth earlier,[p/] he'd never sabotage his own case by taking the stand now.",
@@ -3351,7 +3351,7 @@ line:0d1647c,Harbor1_Present,Tyrion: ...I hope so.,
 line:023568f,Harbor1_Present,Player: Tyrion,
 line:07f4ea0,Harbor1_Present,Noah: I'm glad you're safe.[p/] We assumed the worst after we heard you went wandering off into the woods.,
 line:015c021,Harbor1_Present,Tyrion: ...I needed to talk to my mother's attorney.[p/] I thought I could [i]walk[/i] to Ratholme to see her.,
-line:06de216,Harbor1_Present,Noah: What?!,
+line:06de216,Harbor1_Present,Noah: What?!,Noah: 啥？！
 line:0d4ee93,Harbor1_Present,"Noah: [i]No one[/i] could make that trip on foot,[p/] much less a small boy!",
 line:0bf5307,Harbor1_Present,"Tyrion: Yeah,[p/] a passing merchant picked me up.[p/] I got really lucky.",
 line:02f113d,Harbor1_Present,Noah: ...I'm just glad you didn't get mauled by a wild animal.,
