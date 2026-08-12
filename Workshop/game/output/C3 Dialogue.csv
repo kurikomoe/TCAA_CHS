@@ -1251,7 +1251,7 @@ line:0dd5e97,RikaObj3,"Tyrion: I know my friend,[p/] and I know she's not a murd
 line:0f46e02,RikaObj3,AriaC: Clearly.[p/] What happened that morning was the result of simple negligence.,AriaC: 当然。[p/]那天早上发生的只是一起事故而已。
 line:0572167,RikaObj3,Tyrion: ...,Tyrion: ……
 line:09d24e1,RikaObj3,"AriaC: Your Honor.[p/] For our next witness,[p/] the prosecution would like to call Orym White to the stand.",AriaC: 法官阁下。[p/]检方申请传唤奥蒙·怀特作为下一位证人。
-line:0ee0a03,RikaObj3,"Judge: Very well.[p/] Bailiff,[p/] please call the Inquisition Commander to the stand.",Judge: 很好。[p/]法警，[p/]请将裁判所指挥官带上证人席。
+line:0ee0a03,RikaObj3,"Judge: Very well.[p/] Bailiff,[p/] please call the Inquisition Commander to the stand.",Judge: 很好。[p/]法警，[p/]请护送裁判所指挥官上证人席。
 line:0004ad1,OrymTest,"AriaC: Commander, as I'm sure you've heard,[p/] Mr. Cuthbert is trying to connect the accident to the robberies of the Mistweaving Phantom.",AriaC: 指挥官，你肯定也听到了，[p/]卡斯伯特先生试图将这起事故与“织雾魅影”的盗窃行为联系起来。
 line:089a777,OrymTest,AriaC: Please testify about the City Watch's findings regarding the robberies.,AriaC: 请就城市安保就这些抢劫盗窃案件的调查结果进行作证。
 line:02bb85e,OrymTest,Orym: Sure...,Orym: 当然了……
@@ -1370,18 +1370,18 @@ line:0add738,OrymObj2,"AriaC: They came from multiple, diverse sources,[p/] and 
 line:0f39d40,OrymObj2,"AriaC: Furthermore,[p/] they are far less biased than Stefanic Dracogen or Noah Morrison.",AriaC: 更进一步地说，[p/]信源的偏向性远低于斯蒂芬尼克·德拉科根和诺亚·莫里森这两个人。
 line:07765ef,OrymObj2,"She had a point,[p/] and I couldn't claim the reports were false without any proof.",她的逻辑是通顺的，[p/]我也不能在没有证据的情况下主张报告结论有误。
 line:01e4d7c,OrymObj2,Tyrion: ...,Tyrion: ……
-line:060a08a,OrymObj2,"Tyrion: If you want to implicate Mr. Morrison,[p/] I think it's only fair that he be allowed to defend himself.",
-line:00096c9,OrymObj2,AriaC: Fine.[p/] Let him testify.,
-line:0be52e1,OrymObj2,AriaC: But it will be his word against dozens.,
-line:031f7a1,OrymObj2,Judge: It appears that both counsels are in agreement.,
-line:0814604,OrymObj2,"Judge: Bailiff,[p/] please escort Mr. Morrison to the stand.",
-line:08f141f,NoahTest,"AriaC: Witness,[p/] please state your name and occupation for the court.",
-line:0460ef3,NoahTest,Noah: Aye...[p/] My name's Noah Morrison.[p/] I'm the harbourmaster of Aurinax Harbor and Union Chief of the Aurinax Industrial Union.,
-line:08a7be3,NoahTest,"Tyrion: Thank you for taking the stand today, Mr. Morrison.",
-line:05b7700,NoahTest,"Tyrion: As you know,[p/] there was a theft that occurred at the refinery this morning.",
-line:0dcfeb0,NoahTest,Tyrion: The prosecution is trying to imply that you may have been involved.,
-line:0c1df64,NoahTest,Noah: Yeah...[p/] I heard.,
-line:031e905,NoahTest,Tyrion: Could you please testify about the thefts that occurred at the union offices?,
+line:060a08a,OrymObj2,"Tyrion: If you want to implicate Mr. Morrison,[p/] I think it's only fair that he be allowed to defend himself.",Tyrion: 如果你认为莫里森先生牵涉其中，[p/]那我认为只有允许他为自己辩解以示公平。
+line:00096c9,OrymObj2,AriaC: Fine.[p/] Let him testify.,AriaC: 没问题，[p/]让他作证吧。
+line:0be52e1,OrymObj2,AriaC: But it will be his word against dozens.,AriaC: 但那也只是他的单方面说辞，而与他相对的可是数十人的报告。
+line:031f7a1,OrymObj2,Judge: It appears that both counsels are in agreement.,Judge: 看起来双方达成了一致。
+line:0814604,OrymObj2,"Judge: Bailiff,[p/] please escort Mr. Morrison to the stand.",Judge: 法警，[p/]请护送莫里森先生上证人席。
+line:08f141f,NoahTest,"AriaC: Witness,[p/] please state your name and occupation for the court.",AriaC: 证人，[p/]请向法庭告知你的姓名与职业。
+line:0460ef3,NoahTest,Noah: Aye...[p/] My name's Noah Morrison.[p/] I'm the harbourmaster of Aurinax Harbor and Union Chief of the Aurinax Industrial Union.,Noah: 哎、好……[p/]我的名字是诺亚·莫里森。[p/]我是欧奥耐克斯港的管理人，也是欧奥耐克斯工会的主席。
+line:08a7be3,NoahTest,"Tyrion: Thank you for taking the stand today, Mr. Morrison.",Tyrion: 感谢你今天出庭作证，莫里森先生。
+line:05b7700,NoahTest,"Tyrion: As you know,[p/] there was a theft that occurred at the refinery this morning.",Tyrion: 如你所知，[p/]今早在精炼厂发生了一起盗窃案。
+line:0dcfeb0,NoahTest,Tyrion: The prosecution is trying to imply that you may have been involved.,Tyrion: 而检方试图宣称你参与其中。
+line:0c1df64,NoahTest,Noah: Yeah...[p/] I heard.,Noah: 是啊……[p/]我听说了。
+line:031e905,NoahTest,Tyrion: Could you please testify about the thefts that occurred at the union offices?,Tyrion: 能否请你就在工会办公室发生的几起盗窃案进行作证？
 line:0cf16e4,NoahTest,Tyrion: It's clear you also believe they're related to the theft at the refinery.,
 line:0faa391,NoahTest,Tyrion: Any details that might help us prove that would help a lot.,
 line:0499059,NoahTest,Noah: Alright...,

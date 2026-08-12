@@ -8073,7 +8073,7 @@
   {
     "key": "C3 Dialogue.csv::translation::af724589c73acc4d",
     "original": "Judge: Very well.[p/] Bailiff,[p/] please call the Inquisition Commander to the stand.",
-    "translation": "Judge: 很好。[p/]法警，[p/]请将裁判所指挥官带上证人席。",
+    "translation": "Judge: 很好。[p/]法警，[p/]请护送裁判所指挥官上证人席。",
     "stage": 1,
     "context": "{\n  \"id\": \"line:0ee0a03\",\n  \"node\": \"RikaObj3\",\n  \"text\": \"Judge: Very well.[p/] Bailiff,[p/] please call the Inquisition Commander to the stand.\"\n}"
   },
@@ -8829,85 +8829,85 @@
   {
     "key": "C3 Dialogue.csv::translation::14485e4f9623ec00",
     "original": "Tyrion: If you want to implicate Mr. Morrison,[p/] I think it's only fair that he be allowed to defend himself.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果你认为莫里森先生牵涉其中，[p/]那我认为只有允许他为自己辩解以示公平。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:060a08a\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"Tyrion: If you want to implicate Mr. Morrison,[p/] I think it's only fair that he be allowed to defend himself.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8f80936a09380f29",
     "original": "AriaC: Fine.[p/] Let him testify.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 没问题，[p/]让他作证吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:00096c9\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: Fine.[p/] Let him testify.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f6f537cfbb18c9da",
     "original": "AriaC: But it will be his word against dozens.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 但那也只是他的单方面说辞，而与他相对的可是数十人的报告。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0be52e1\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"AriaC: But it will be his word against dozens.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::59a62fc21c95d30d",
     "original": "Judge: It appears that both counsels are in agreement.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 看起来双方达成了一致。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:031f7a1\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"Judge: It appears that both counsels are in agreement.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::098b2bdffc9f3721",
     "original": "Judge: Bailiff,[p/] please escort Mr. Morrison to the stand.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 法警，[p/]请护送莫里森先生上证人席。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0814604\",\n  \"node\": \"OrymObj2\",\n  \"text\": \"Judge: Bailiff,[p/] please escort Mr. Morrison to the stand.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::87b341515f93f0f4",
     "original": "AriaC: Witness,[p/] please state your name and occupation for the court.",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 证人，[p/]请向法庭告知你的姓名与职业。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08f141f\",\n  \"node\": \"NoahTest\",\n  \"text\": \"AriaC: Witness,[p/] please state your name and occupation for the court.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::eb130c19ac9d076d",
     "original": "Noah: Aye...[p/] My name's Noah Morrison.[p/] I'm the harbourmaster of Aurinax Harbor and Union Chief of the Aurinax Industrial Union.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Noah: 哎、好……[p/]我的名字是诺亚·莫里森。[p/]我是欧奥耐克斯港的管理人，也是欧奥耐克斯工会的主席。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0460ef3\",\n  \"node\": \"NoahTest\",\n  \"text\": \"Noah: Aye...[p/] My name's Noah Morrison.[p/] I'm the harbourmaster of Aurinax Harbor and Union Chief of the Aurinax Industrial Union.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::469df65e86d3d9ae",
     "original": "Tyrion: Thank you for taking the stand today, Mr. Morrison.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 感谢你今天出庭作证，莫里森先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08a7be3\",\n  \"node\": \"NoahTest\",\n  \"text\": \"Tyrion: Thank you for taking the stand today, Mr. Morrison.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b8aa68ae59a423e3",
     "original": "Tyrion: As you know,[p/] there was a theft that occurred at the refinery this morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如你所知，[p/]今早在精炼厂发生了一起盗窃案。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:05b7700\",\n  \"node\": \"NoahTest\",\n  \"text\": \"Tyrion: As you know,[p/] there was a theft that occurred at the refinery this morning.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::6e392eaabcd27b34",
     "original": "Tyrion: The prosecution is trying to imply that you may have been involved.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 而检方试图宣称你参与其中。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0dcfeb0\",\n  \"node\": \"NoahTest\",\n  \"text\": \"Tyrion: The prosecution is trying to imply that you may have been involved.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d39edb8b9f3c6999",
     "original": "Noah: Yeah...[p/] I heard.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Noah: 是啊……[p/]我听说了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0c1df64\",\n  \"node\": \"NoahTest\",\n  \"text\": \"Noah: Yeah...[p/] I heard.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::180baa44e0a57bd2",
     "original": "Tyrion: Could you please testify about the thefts that occurred at the union offices?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 能否请你就在工会办公室发生的几起盗窃案进行作证？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:031e905\",\n  \"node\": \"NoahTest\",\n  \"text\": \"Tyrion: Could you please testify about the thefts that occurred at the union offices?\"\n}"
   },
   {
