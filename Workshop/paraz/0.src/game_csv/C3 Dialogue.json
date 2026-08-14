@@ -10180,414 +10180,414 @@
   {
     "key": "C3 Dialogue.csv::translation::0746df0bce7cde1e",
     "original": "Judge: Mr. Cuthbert, please refrain from spouting nonsense in the presence of the Grand General and his giant axe!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡斯伯特先生，请不要在大将军和他那大战斧的面前胡言乱语！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:02dfd0f\",\n  \"node\": \"CrossLucio\",\n  \"text\": \"Judge: Mr. Cuthbert, please refrain from spouting nonsense in the presence of the Grand General and his giant axe!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::50cc62955e1c9f39",
     "original": "Tyrion: B-[p/][s/]But,[p/] I—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但、[p/][s/]但是，[p/]我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f6202e\",\n  \"node\": \"CrossLucio\",\n  \"text\": \"Tyrion: B-[p/][s/]But,[p/] I—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::8479dd61ea07f08f",
     "original": "Judge: Enough![p/][s/] I will not ask you again!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 够了！[p/][s/]我不会再说第二遍！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ba26b0\",\n  \"node\": \"CrossLucio\",\n  \"text\": \"Judge: Enough![p/][s/] I will not ask you again!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b4249727eb5e65c5",
     "original": "Judge: M-[p/][s/]Mr. Cuthbert!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡、[p/][s/]卡斯伯特先生！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06d5a16\",\n  \"node\": \"LucioObj\",\n  \"text\": \"Judge: M-[p/][s/]Mr. Cuthbert!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::577f0a13055b9a2c",
     "original": "Judge: I know you have a flair for the dramatic,[p/] but please don't shout such things at the man with the [i]giant axe[/i]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 我知道你总有戏剧性的设想，[p/]但请千万别在这位的巨斧面前这样大吼大叫啊！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:039acee\",\n  \"node\": \"LucioObj\",\n  \"text\": \"Judge: I know you have a flair for the dramatic,[p/] but please don't shout such things at the man with the [i]giant axe[/i]!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::182e19a0f46a2f9d",
     "original": "Tyrion: Your Honor,[p/] I believe the witness knows more about the arrested individuals than he's letting on.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 法官阁下，[p/]我确信证人对那些被捕人士的了解比他披露的还要更多。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fcd262\",\n  \"node\": \"LucioObj\",\n  \"text\": \"Tyrion: Your Honor,[p/] I believe the witness knows more about the arrested individuals than he's letting on.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0c1c9403ae51eabf",
     "original": "Lucio: ...Oh?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: ……哦？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0462887\",\n  \"node\": \"LucioObj\",\n  \"text\": \"Lucio: ...Oh?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5c80b6815b736667",
     "original": "Judge: Mr. Cuthbert.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 卡斯伯特先生。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e5d75c\",\n  \"node\": \"LucioObj\",\n  \"text\": \"Judge: Mr. Cuthbert.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::666bc57c3714c2b5",
     "original": "With the way the judge was looking at me,[p/] I'd have thought I was putting my head between the jaws of a lion.",
-    "translation": "",
-    "stage": 0,
+    "translation": "法官看向我的眼神，[p/]让我觉得自己像是把脖子伸进狮子两排利齿之间。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:022776d\",\n  \"node\": \"LucioObj\",\n  \"text\": \"With the way the judge was looking at me,[p/] I'd have thought I was putting my head between the jaws of a lion.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2f570ee79dc14d5a",
     "original": "...But it didn't matter who stood in my way—[p/]a noble,[p/] the Grand General,[p/] or the King himself!",
-    "translation": "",
-    "stage": 0,
+    "translation": "……但不论是谁挡在我的路上——[p/]不论是贵族、[p/]大将军，[p/]亦或是国王本人！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e99074\",\n  \"node\": \"LucioObj\",\n  \"text\": \"...But it didn't matter who stood in my way—[p/]a noble,[p/] the Grand General,[p/] or the King himself!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::47ca2d8e0794eb67",
     "original": "My mother may have been gone,[p/] but there were still people I cared about in Aurinax!",
-    "translation": "",
-    "stage": 0,
+    "translation": "我的母亲逝世已久，[p/]但在欧奥耐克斯还有我牵挂的人们！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06367ca\",\n  \"node\": \"LucioObj\",\n  \"text\": \"My mother may have been gone,[p/] but there were still people I cared about in Aurinax!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c02710ddc4a791f9",
     "original": "I wouldn't let the city I grew up in become the site of another one of his bloody massacres!",
-    "translation": "",
-    "stage": 0,
+    "translation": "我不会让自己的故乡变成他手下又一处尸山血海的战场！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04a087e\",\n  \"node\": \"LucioObj\",\n  \"text\": \"I wouldn't let the city I grew up in become the site of another one of his bloody massacres!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::89e1d131277f06d7",
     "original": "Tyrion: Lucio Steelwind![p/][s/] I think you know the individuals you arrested aren't what they were reported to be!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 卢西奥·斯蒂尔文德！[p/][s/]我认为你很清楚，你逮捕的那些人和报告情况不一样！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:008d2e2\",\n  \"node\": \"LucioObj\",\n  \"text\": \"Tyrion: Lucio Steelwind![p/][s/] I think you know the individuals you arrested aren't what they were reported to be!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f7f4e55dc15e5415",
     "original": "Tyrion: You [i]know[/i] that they weren't guilty of treason!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 你[i]明明知道[/i]他们并没有犯叛国罪！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a2d3de\",\n  \"node\": \"LucioObj\",\n  \"text\": \"Tyrion: You [i]know[/i] that they weren't guilty of treason!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::279620ac4eaf4465",
     "original": "Lucio: That's correct.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 正是如此。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01222f7\",\n  \"node\": \"LucioObj\",\n  \"text\": \"Lucio: That's correct.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3921acd028c3f3b3",
     "original": "Tyrion: I—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 我——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07d39cc\",\n  \"node\": \"LucioObj\",\n  \"text\": \"Tyrion: I—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4ad6ae14373dc76f",
     "original": "AriaC: What?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 什么？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07507a9\",\n  \"node\": \"LucioObj\",\n  \"text\": \"AriaC: What?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ba9455f9f8a256bb",
     "original": "AriaC: Fa—[p/][s/] [i]Grand General[/i]!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 父——[p/][s/][i]大将军[/i]！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:095cca5\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"AriaC: Fa—[p/][s/] [i]Grand General[/i]!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::67eac35880118ff5",
     "original": "AriaC: Are you [i]admitting[/i] that you arrested these individuals with the knowledge that the charges were false?!",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 你是要[i]承认[/i]自己在明知指控不实的情况下还逮捕了那些人吗？！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0eb8f40\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"AriaC: Are you [i]admitting[/i] that you arrested these individuals with the knowledge that the charges were false?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::719a874e6927939f",
     "original": "Lucio: I never said that I arrested them for treason.[p/] I said that I took them into custody.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 我可从没说过自己是因叛国罪逮捕他们的。[p/]我只说过自己将他们“收监”了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0babc65\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"Lucio: I never said that I arrested them for treason.[p/] I said that I took them into custody.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a8e83b3e0c63a0b2",
     "original": "Judge: B-[p/][s/]But for what reason, Grand General?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 但、[p/][s/]但是为什么呢，将军阁下？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0339b9e\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"Judge: B-[p/][s/]But for what reason, Grand General?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::dec2efd0d43676dc",
     "original": "Lucio: This \"Phantom\" seems to be targeting certain individuals for some unknown reason.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 这个“魅影”看起来是因为某种未明原因把特定的对象作为目标。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0a2e037\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"Lucio: This \\\"Phantom\\\" seems to be targeting certain individuals for some unknown reason.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::39d196559b366704",
     "original": "Lucio: They seem to have targeted both Stefanic Dracogen and the Workers' Unions as well.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 而且窃贼还同时把斯蒂芬尼克·德拉科根同样工会作为目标。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ed5b83\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"Lucio: They seem to have targeted both Stefanic Dracogen and the Workers' Unions as well.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::003221f7cbc9f1f6",
     "original": "AriaC: Grand General,[p/] there's no evidence that—",
-    "translation": "",
-    "stage": 0,
+    "translation": "AriaC: 大将军，[p/]没有证据证明——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:07b485e\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"AriaC: Grand General,[p/] there's no evidence that—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a8aba46152ebeae9",
     "original": "Lucio: It is the truth,[p/] and the evidence must be found.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 这就是事实，[p/]而证据肯定会找得出来。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:06931b6\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"Lucio: It is the truth,[p/] and the evidence must be found.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2781b3cd04ae169a",
     "original": "Lucio: Your Honor,[p/] suspend this trial to give the defense and prosecution time to investigate the crime further.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 法官阁下，[p/]中止庭审，让辩方和检方有时间进一步调查案件。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0528be4\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"Lucio: Your Honor,[p/] suspend this trial to give the defense and prosecution time to investigate the crime further.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::92a4eb59e7614d57",
     "original": "Judge: O-[p/][s/]Of course, Grand General!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 没、[p/][s/]没问题，将军阁下！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:035c018\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"Judge: O-[p/][s/]Of course, Grand General!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5bf28b39198d39ce",
     "original": "Judge: Um...[p/] As per the Grand General's request,[p/] I will be suspending this trial!",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 嗯……[p/]按照大将军的命令，[p/]我宣布庭审中止！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08e6c9f\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"Judge: Um...[p/] As per the Grand General's request,[p/] I will be suspending this trial!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::beb458152a2b565a",
     "original": "JUDGE: Court proceedings for this case will resume tomorrow morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: 此案的庭审程序将在明天一早继续进行。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:071c188\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"JUDGE: Court proceedings for this case will resume tomorrow morning.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3399e7e72ca75d86",
     "original": "Lucio: Make it the next day.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 再多给一天。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01a66bf\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"Lucio: Make it the next day.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1954dfef05c1d787",
     "original": "JUDGE: Court proceedings will resume [i]Wednesday[/i] morning!",
-    "translation": "",
-    "stage": 0,
+    "translation": "JUDGE: JUDGE: 此案的庭审程序将在[i]后天[/i]继续进行！",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:08f918b\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"JUDGE: Court proceedings will resume [i]Wednesday[/i] morning!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cd24a9b68eb23ee9",
     "original": "JUDGE: Court is adjourned.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Judge: 休庭。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f7fd42\",\n  \"node\": \"LucioObj2\",\n  \"text\": \"JUDGE: Court is adjourned.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1f9abd9b19ce2c02",
     "original": "Lucio: So...?[p/] Out with it.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 所以……？[p/]说吧。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:032897a\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Lucio: So...?[p/] Out with it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::829d076156e28f88",
     "original": "Lucio: You look like you want to say something.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 看起来你有话要说。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e0983f\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Lucio: You look like you want to say something.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4109c31b7cc1b494",
     "original": "Tyrion: If I didn't know any better,[p/] I would think that you tried to help us back there.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 如果不是我知道实情，[p/]我会以为你是来帮我们的。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b57e7d\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Tyrion: If I didn't know any better,[p/] I would think that you tried to help us back there.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9dbba06dd1c3e239",
     "original": "Tyrion: I can't imagine you care all that much about workers' rights or my client.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 但我不相信你会那么关心工人的权利和我的委托人。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:04ea1d3\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Tyrion: I can't imagine you care all that much about workers' rights or my client.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d6db9456dd6b09ea",
     "original": "Lucio: ...I have my reasons.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: ……我有自己的原因。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:005bab5\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Lucio: ...I have my reasons.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7c282c6383d57fb9",
     "original": "Lucio: This thief stole something quite important from an imperial ship this morning.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 这个窃贼在今早从王家的船只上偷走了一件非常重要的东西。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:034b8c6\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Lucio: This thief stole something quite important from an imperial ship this morning.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::303fc3340c2b1395",
     "original": "Tyrion: Right...[p/] Your daughter mentioned that it was a threat to national security.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: 没错……[p/]而你的女儿有提到这个东西对国家安全有威胁。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:01050b8\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Tyrion: Right...[p/] Your daughter mentioned that it was a threat to national security.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a07e10969bf7008c",
     "original": "Lucio: It is in my best interests for the item to be found and this \"Mistweaving Phantom\" brought to justice.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 对我来说，这个东西能被找回来，而且“织雾魅影”能被绳之以法，就是最符合我利益的事情。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b4a642\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Lucio: It is in my best interests for the item to be found and this \\\"Mistweaving Phantom\\\" brought to justice.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ea20d8e998a08e47",
     "original": "Lucio: But most importantly...",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 但最重要的……",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0149b3f\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Lucio: But most importantly...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b3f4d4d652c56e3c",
     "original": "Lucio: I want to know who they are working for.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 我要知道他是为谁做事。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:09c5632\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Lucio: I want to know who they are working for.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::372cfa6df3833966",
     "original": "Tyrion: ...Are you trying to insinuate that it isn't you?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……你是想暗示幕后那个人不是你吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0af7426\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Tyrion: ...Are you trying to insinuate that it isn't you?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9be49a560a72b33a",
     "original": "Lucio: Is that what you think?",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 你是这么认为的吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:096d1ef\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Lucio: Is that what you think?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::970183d8aa311c92",
     "original": "Honestly,[p/] I didn't know [i]what[/i] to think at this point.",
-    "translation": "",
-    "stage": 0,
+    "translation": "说实话，[p/]我并不知道现在该怎么[i]思考[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b7463e\",\n  \"node\": \"AfterCourtOne\",\n  \"text\": \"Honestly,[p/] I didn't know [i]what[/i] to think at this point.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cffdbe06dc98baae",
     "original": "Lucio: You always seem to arrive at the truth when no one else will.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 看起来你总是能抵达其他人都无法抵达的真相。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d282dd\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"Lucio: You always seem to arrive at the truth when no one else will.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::20ee2f042dd1572d",
     "original": "Lucio: I've read the court transcripts from your past cases,[p/] so I already had some suspicions.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 我有读你参与过的案件的法庭记录，[p/]所以我已经有所怀疑。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0432ca9\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"Lucio: I've read the court transcripts from your past cases,[p/] so I already had some suspicions.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::812b144509bea4eb",
     "original": "Lucio: And they were all but confirmed when you \"cross-examined\" me today.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 而在你今天对我“交叉询问”的时候，它都得到了证实。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0fa6171\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"Lucio: And they were all but confirmed when you \\\"cross-examined\\\" me today.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::57452bffcdbaf5d4",
     "original": "Lucio: You will figure out what happened this morning,[p/] and you will use your [i]eye[/i] to do so.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 你会理清楚今早发生的事情，[p/]而且你会用自己的[i]眼睛[/i]做到这一点。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0533ff7\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"Lucio: You will figure out what happened this morning,[p/] and you will use your [i]eye[/i] to do so.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ff2333a4535911ad",
     "original": "I tensed for a moment.[p/] Why did he phrase it like that?",
-    "translation": "",
-    "stage": 0,
+    "translation": "我突然紧张了一下。[p/]他为什么要用这个表述？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0f211b8\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"I tensed for a moment.[p/] Why did he phrase it like that?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::936d8e51d20acbd4",
     "original": "His thoughts were so easy to read during his testimony...[p/] Was this some kind of test?",
-    "translation": "",
-    "stage": 0,
+    "translation": "他的想法在作证时非常容易探测到……[p/]这是某种测试吗？",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0d07b37\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"His thoughts were so easy to read during his testimony...[p/] Was this some kind of test?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::86d91afe11a65b18",
     "original": "Tyrion: ...Well,[p/] I'm sure someone like you would have a great use for an eye like mine.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……好吧，,[p/]我想你这样的人总是能好好利用我这样的[i]眼睛[/i]。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0aa467d\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"Tyrion: ...Well,[p/] I'm sure someone like you would have a great use for an eye like mine.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fbe83598d1a91c5a",
     "original": "Tyrion: I am [i]so[/i] sorry...[p/][s/] I did not mean it like—",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: [i]真[/i]不好意思……[p/][s/]我并不是想说——",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0b01744\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"Tyrion: I am [i]so[/i] sorry...[p/][s/] I did not mean it like—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ea3d5769e8acf9c4",
     "original": "Lucio: I understood what you meant.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 我明白你什么意思。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0940acd\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"Lucio: I understood what you meant.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::741a0d276a34fbe3",
     "original": "Lucio: Well?[p/] Get to work then.[p/] I'll be waiting for your results.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 行了？[p/]干活去吧。[p/]我会等着你的结果。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:077ceeb\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"Lucio: Well?[p/] Get to work then.[p/] I'll be waiting for your results.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::348b5d9e349254b9",
     "original": "Tyrion: ...I don't take orders from you, Grand General.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Tyrion: ……我不会听你的命令，大将军。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:049010b\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"Tyrion: ...I don't take orders from you, Grand General.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::322a273ccefd5dd8",
     "original": "Lucio: Yet you will still do what I have asked.[p/] It's in your nature.",
-    "translation": "",
-    "stage": 0,
+    "translation": "Lucio: 但你仍然会按我的要求行事。[p/]这是你的本能。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0ba76f3\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"Lucio: Yet you will still do what I have asked.[p/] It's in your nature.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9554d468eff45d23",
     "original": "I exhaled heavily.[p/] The more this mystery unravelled,[p/] the more uncertain I became of everything.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我大叹一口气。[p/]这个谜团解开得越多，[p/]我就对一切感到愈发不确定。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e6ed96\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"I exhaled heavily.[p/] The more this mystery unravelled,[p/] the more uncertain I became of everything.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ad112f9726934392",
     "original": "I really wished Ms. Tymora was here to help me.[p/] I could feel a migraine coming on.",
-    "translation": "",
-    "stage": 0,
+    "translation": "我真希望泰摩拉女士能在这里帮帮我，[p/]感觉自己的偏头痛似乎要发作了。",
+    "stage": 1,
     "context": "{\n  \"id\": \"line:0e12747\",\n  \"node\": \"AfterCourtOne2\",\n  \"text\": \"I really wished Ms. Tymora was here to help me.[p/] I could feel a migraine coming on.\"\n}"
   },
   {
