@@ -9830,373 +9830,373 @@
   {
     "key": "C3 Dialogue.csv::translation::78b44fd59e7c6ece",
     "original": "Tyrion: Your Honor.[p/] Over the last day,[p/] we've investigated the crime further,[p/] and new facts have come to light.",
-    "translation": "",
+    "translation": "Tyrion: 法官阁下。[p/]昨日，[p/]我们进一步调查了案件情况，[p/]而新的事实得以浮出水面。",
     "context": "{\n  \"id\": \"line:0c98513\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: Your Honor.[p/] Over the last day,[p/] we've investigated the crime further,[p/] and new facts have come to light.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::efc7eebeb2812d89",
     "original": "Tyrion: Nevertheless,[p/] I maintain that my client is not to blame for Justin's death.",
-    "translation": "",
+    "translation": "Tyrion: 不论如何，[p/]我仍然坚持我的委托人不应为贾斯汀的死亡负责。",
     "context": "{\n  \"id\": \"line:0d7e079\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: Nevertheless,[p/] I maintain that my client is not to blame for Justin's death.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::87ba86fc85bec134",
     "original": "Tyrion: Unfortunately,[p/] the blame lies with Justin himself.",
-    "translation": "",
+    "translation": "Tyrion: 不幸的是，[p/]责任在与贾斯汀自身。",
     "context": "{\n  \"id\": \"line:0acfb01\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: Unfortunately,[p/] the blame lies with Justin himself.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::87460703b948a216",
     "original": "Judge: ...Is that so?",
-    "translation": "",
+    "translation": "Judge: ……是这样吗？",
     "context": "{\n  \"id\": \"line:010ddb6\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Judge: ...Is that so?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::86ad6fed021f974f",
     "original": "Tyrion: Your Honor.[p/] The victim was wearing a magical ring that allowed him to cast [b]conjuration[/b] magic.",
-    "translation": "",
+    "translation": "Tyrion: 法官阁下。[p/]受害人当时佩戴有一枚魔法指环，能让他施放[b]召唤术[/b]。",
     "context": "{\n  \"id\": \"line:0c11016\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: Your Honor.[p/] The victim was wearing a magical ring that allowed him to cast [b]conjuration[/b] magic.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5590ed94c3f9d66e",
     "original": "Tyrion: It seems that he entered the refinery in order to steal business documents from my client,[p/] and the ring was meant to aid in that.",
-    "translation": "",
+    "translation": "Tyrion: 看起来他是为了偷窃我委托人的商业文档而进入精炼厂，[p/]而那枚指环是为了协助他达成目的的。",
     "context": "{\n  \"id\": \"line:0d0e33b\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: It seems that he entered the refinery in order to steal business documents from my client,[p/] and the ring was meant to aid in that.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d994b2eb55f05fa5",
     "original": "Tyrion: After he had stolen the documents,[p/] he activated the ring on the refinery catwalk.",
-    "translation": "",
+    "translation": "Tyrion: 在偷到文档后，[p/]他在架空步道上激活了指环。",
     "context": "{\n  \"id\": \"line:094e710\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: After he had stolen the documents,[p/] he activated the ring on the refinery catwalk.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9c6919dfa5c9c9e2",
     "original": "Tyrion: It malfunctioned in some way,[p/] causing an explosion of spatial energy.",
-    "translation": "",
+    "translation": "Tyrion: 而指环出现了某种故障，[p/]致使发生空间中蕴含的能量产生爆炸。",
     "context": "{\n  \"id\": \"line:06b080c\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: It malfunctioned in some way,[p/] causing an explosion of spatial energy.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::816e15e2d6bbe7d3",
     "original": "Tyrion: [i]That[/i] energy is what broke apart the guardrail.",
-    "translation": "",
+    "translation": "Tyrion: [i]那种[/i]能量击毁了护栏。",
     "context": "{\n  \"id\": \"line:0b0b150\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: [i]That[/i] energy is what broke apart the guardrail.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b725b47a158e3319",
     "original": "Judge: ...Are you trying to say that the [i]victim[/i] was the culprit behind the most recent string of robberies?",
-    "translation": "",
+    "translation": "Judge: ……那你是要说，[i]受害人[/i]本人就是近期一系列盗窃案的真凶？",
     "context": "{\n  \"id\": \"line:0295e51\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Judge: ...Are you trying to say that the [i]victim[/i] was the culprit behind the most recent string of robberies?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4bbb308059f2c5c2",
     "original": "Tyrion: Unfortunately, I am, Your Honor.",
-    "translation": "",
+    "translation": "Tyrion: 很不幸，就是这样，法官阁下。",
     "context": "{\n  \"id\": \"line:0bfafa7\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: Unfortunately, I am, Your Honor.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::39576729a6589ea4",
     "original": "AriaC: ...Is that it, Mr. Cuthbert?",
-    "translation": "",
+    "translation": "AriaC: ……真的如此吗，卡斯伯特先生？",
     "context": "{\n  \"id\": \"line:0d05fe2\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"AriaC: ...Is that it, Mr. Cuthbert?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f7e2a86e956fa461",
     "original": "Tyrion: What are you talking about, Steelwind?",
-    "translation": "",
+    "translation": "Tyrion: 你想说什么呢，斯蒂尔文德？",
     "context": "{\n  \"id\": \"line:04245ba\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: What are you talking about, Steelwind?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2d58f14be0173ac6",
     "original": "Tyrion: It's obvious that my client didn't have any hand in Justin's death.",
-    "translation": "",
+    "translation": "Tyrion: 很显然我的委托人与贾斯汀之死并无关联。",
     "context": "{\n  \"id\": \"line:05414ca\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Tyrion: It's obvious that my client didn't have any hand in Justin's death.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::bf040b38bae5acac",
     "original": "AriaC: ...And do you have any evidence of that?",
-    "translation": "",
+    "translation": "AriaC: ……你有任何证据能证明吗？",
     "context": "{\n  \"id\": \"line:0a388e4\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"AriaC: ...And do you have any evidence of that?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::688d700cc3f59309",
     "original": "Tyrion: Mosourika Tudor [i]saw[/i] a magical effect blast the guardrail apart.",
-    "translation": "",
+    "translation": "Tyrion: 莫苏里卡·都铎[i]有看到[/i]一种魔法效应吹飞了护栏。",
     "context": "{\n  \"id\": \"line:0668ce7\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"Tyrion: Mosourika Tudor [i]saw[/i] a magical effect blast the guardrail apart.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::62533ffb5f0cf002",
     "original": "AriaC: We've been over this.[p/] Ms. Tudor had every reason to lie in her testimony last session.",
-    "translation": "",
+    "translation": "AriaC: 我们已经讨论过这点。[p/]都铎女士完全有理由在上次的庭审中说谎。",
     "context": "{\n  \"id\": \"line:00e2272\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"AriaC: We've been over this.[p/] Ms. Tudor had every reason to lie in her testimony last session.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f7630afa3c414bba",
     "original": "Tyrion: She didn't know about Justin's ring![p/][s/] How could she have known to lie about something like that?",
-    "translation": "",
+    "translation": "Tyrion: 她可不知道贾斯汀那枚指环的情况！[p/][s/]她怎么会知道要在这件事上说谎呢？",
     "context": "{\n  \"id\": \"line:0bba6a0\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"Tyrion: She didn't know about Justin's ring![p/][s/] How could she have known to lie about something like that?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9c08104b07dc64d8",
     "original": "AriaC: You're assuming that she [i]didn't[/i] know about it beforehand.",
-    "translation": "",
+    "translation": "AriaC: 你只是假设她[i]不会[/i]之前就知道。",
     "context": "{\n  \"id\": \"line:021cbed\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"AriaC: You're assuming that she [i]didn't[/i] know about it beforehand.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7e52f880eb88c316",
     "original": "AriaC: The two of them were known friends.[p/] It's not implausible that he showed it to her.",
-    "translation": "",
+    "translation": "AriaC: 他们两人是熟识的朋友。[p/]他有给她看过指环并非不可能。",
     "context": "{\n  \"id\": \"line:0bb574e\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"AriaC: The two of them were known friends.[p/] It's not implausible that he showed it to her.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fd17f4db0ca709c0",
     "original": "Tyrion: Well, what about the Crown Prince?",
-    "translation": "",
+    "translation": "Tyrion: 好啊，那王储殿下怎么样？",
     "context": "{\n  \"id\": \"line:0aa0a1c\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"Tyrion: Well, what about the Crown Prince?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::2e6f97f53af760d1",
     "original": "Tyrion: He saw the magical effect as well!",
-    "translation": "",
+    "translation": "Tyrion: 他也有看到那个魔法效应！",
     "context": "{\n  \"id\": \"line:04bafa8\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"Tyrion: He saw the magical effect as well!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::0cdef7a6a571935a",
     "original": "AriaC: For obvious reasons,[p/] the Crown Prince can't be called to testify in a case of this magnitude.",
-    "translation": "",
+    "translation": "AriaC: 因为显而易见的原因，[p/]如此重要的案件，不能请王储殿下出庭作证。",
     "context": "{\n  \"id\": \"line:0460016\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"AriaC: For obvious reasons,[p/] the Crown Prince can't be called to testify in a case of this magnitude.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::40553a926f396df6",
     "original": "AriaC: As far as the courts are concerned,[p/] you can't use his testimony as evidence.",
-    "translation": "",
+    "translation": "AriaC: 就本次庭审而言，[p/]你不能使用他的发言作为证据。",
     "context": "{\n  \"id\": \"line:0d2fb74\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"AriaC: As far as the courts are concerned,[p/] you can't use his testimony as evidence.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5983bad075e79f1a",
     "original": "She was being unreasonably obtuse,[p/] even more so than usual...",
-    "translation": "",
+    "translation": "她有些不可理喻地迟钝，[p/]远胜于往常……",
     "context": "{\n  \"id\": \"line:0045371\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"She was being unreasonably obtuse,[p/] even more so than usual...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d7c10d8d1de0c201",
     "original": "What was she doing?",
-    "translation": "",
+    "translation": "她到底要干什么？",
     "context": "{\n  \"id\": \"line:0a72cce\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"What was she doing?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::dab25b05e0f22c82",
     "original": "AriaC: On the subject of the victim,[p/] we've also discovered new facts regarding his...[p/] [i]actions[/i] that morning.",
-    "translation": "",
+    "translation": "AriaC: 关于受害者，[p/]我们就他在那早上的……[p/][i]行动[/i]发现了新的事实。",
     "context": "{\n  \"id\": \"line:017e949\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"AriaC: On the subject of the victim,[p/] we've also discovered new facts regarding his...[p/] [i]actions[/i] that morning.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7275830e2f79db35",
     "original": "AriaC: ...The prosecution would like to call Lucio Steelwind to the stand.",
-    "translation": "",
+    "translation": "AriaC: ……检方提议传唤卢西奥·斯蒂尔文德作证。",
     "context": "{\n  \"id\": \"line:048a794\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"AriaC: ...The prosecution would like to call Lucio Steelwind to the stand.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::fda5f0174132d84e",
     "original": "Judge: T-[p/][s/]The Grand General?!",
-    "translation": "",
+    "translation": "Judge: 大、[p/][s/]大将军本人？！",
     "context": "{\n  \"id\": \"line:0ec54bd\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"Judge: T-[p/][s/]The Grand General?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7ad24deffe0f62d1",
     "original": "AriaC: As many of you know,[p/] the serial robber stole cargo from an imperial ship on the morning of the accident.",
-    "translation": "",
+    "translation": "AriaC: 正如各位所知，[p/]那个连续盗窃的犯人在案发的那个早上从王家的舰船偷走了货物。",
     "context": "{\n  \"id\": \"line:05f1118\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"AriaC: As many of you know,[p/] the serial robber stole cargo from an imperial ship on the morning of the accident.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::820568bf1ad65afd",
     "original": "AriaC: We've since located the cargo,[p/] and what we found paints quite the picture of the victim's intentions that day.",
-    "translation": "",
+    "translation": "AriaC: 我们已经找到了货物，[p/]而我们的发现清晰地描绘了受害人当天的意图。",
     "context": "{\n  \"id\": \"line:0a453df\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"AriaC: We've since located the cargo,[p/] and what we found paints quite the picture of the victim's intentions that day.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::4763bf6f7b60edc3",
     "original": "Judge: I-[p/][s/]I see...",
-    "translation": "",
+    "translation": "Judge: 我、[p/][s/]我明白了……",
     "context": "{\n  \"id\": \"line:02373d2\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"Judge: I-[p/][s/]I see...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::65188a7c4b9723dd",
     "original": "Judge: Bailiff.[p/] Please escort the Grand General to the stand.",
-    "translation": "",
+    "translation": "Judge: 法警。[p/]请护送大将军到证人席。",
     "context": "{\n  \"id\": \"line:02efbe0\",\n  \"node\": \"Courtroom2c\",\n  \"text\": \"Judge: Bailiff.[p/] Please escort the Grand General to the stand.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::603fe08b43e02399",
     "original": "Tyrion: Okay, I guess [i]I'll[/i] just say it.",
-    "translation": "",
+    "translation": "Tyrion: 行吧，我想这次[i]轮到我了[/i]。",
     "context": "{\n  \"id\": \"line:06d2d5e\",\n  \"node\": \"Courtroom2d\",\n  \"text\": \"Tyrion: Okay, I guess [i]I'll[/i] just say it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ad5ea180bf677a31",
     "original": "Tyrion: Witness,[p/] please state your name and—",
-    "translation": "",
+    "translation": "Tyrion: 证人，,[p/]请向法庭陈述你的姓——",
     "context": "{\n  \"id\": \"line:090d897\",\n  \"node\": \"Courtroom2d\",\n  \"text\": \"Tyrion: Witness,[p/] please state your name and—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f972d30c526e0472",
     "original": "Lucio: Are you really going to waste my time with that?",
-    "translation": "",
+    "translation": "Lucio: 你真要用这一套浪费我的时间？",
     "context": "{\n  \"id\": \"line:07e2d23\",\n  \"node\": \"Courtroom2d\",\n  \"text\": \"Lucio: Are you really going to waste my time with that?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::94e165a01a1460bc",
     "original": "Lucio: We all know who I am.",
-    "translation": "",
+    "translation": "Lucio: 大家都清楚我的身份。",
     "context": "{\n  \"id\": \"line:0e0b10c\",\n  \"node\": \"Courtroom2d\",\n  \"text\": \"Lucio: We all know who I am.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a27cbcb2e2b12f47",
     "original": "Tyrion: Look,[p/] I just—",
-    "translation": "",
+    "translation": "Tyrion: 是这样，[p/]我只是——",
     "context": "{\n  \"id\": \"line:019e3fe\",\n  \"node\": \"Courtroom2d\",\n  \"text\": \"Tyrion: Look,[p/] I just—\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3d8d635ab872e72b",
     "original": "Lucio: Enough.[p/] I'm giving my testimony now.",
-    "translation": "",
+    "translation": "Lucio: 够了。[p/]我现在就作证。",
     "context": "{\n  \"id\": \"line:0b66c59\",\n  \"node\": \"Courtroom2d\",\n  \"text\": \"Lucio: Enough.[p/] I'm giving my testimony now.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::f1c3cf4bbb21ef9d",
     "original": "Lucio: Justin Waye had been committing a string of robberies in Aurinax Harbor,[p/] the last of which included an imperial shipment of high-capacity energy cells.",
-    "translation": "",
+    "translation": "Lucio: 贾斯汀·维耶在欧奥耐克斯港实施了一系列盗窃，[p/]最后一批还包括从王家舰船偷窃的高容量奥术储能单元。",
     "context": "{\n  \"id\": \"line:0238b1a\",\n  \"node\": \"Courtroom2d\",\n  \"text\": \"Lucio: Justin Waye had been committing a string of robberies in Aurinax Harbor,[p/] the last of which included an imperial shipment of high-capacity energy cells.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::d4ef709f3c658b86",
     "original": "Lucio: Waye was working with insurrectionists who provided him with an advanced magical ring.[p/] He used that ring during his robberies.",
-    "translation": "",
+    "translation": "Lucio: 维耶与叛乱分子合作，并从他们那里得到一枚高级的魔法指环。[p/]他利用其功能实施盗窃。",
     "context": "{\n  \"id\": \"line:0bb5676\",\n  \"node\": \"Courtroom2d\",\n  \"text\": \"Lucio: Waye was working with insurrectionists who provided him with an advanced magical ring.[p/] He used that ring during his robberies.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::80b0dda270c8d3f4",
     "original": "Lucio: One of the ring's functions allowed him to teleport himself.[p/] The other allowed him to summon an item to him.",
-    "translation": "",
+    "translation": "Lucio: 指环的一个功能是让他可以传送自身。[p/]另一个是将物体召唤到他身旁。",
     "context": "{\n  \"id\": \"line:005189d\",\n  \"node\": \"Courtroom2d\",\n  \"text\": \"Lucio: One of the ring's functions allowed him to teleport himself.[p/] The other allowed him to summon an item to him.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::40f8790dc8f344cc",
     "original": "Lucio: Waye had taken the stolen energy cells and placed a bomb within them.[p/] He was going to summon it into the refinery and detonate it.",
-    "translation": "",
+    "translation": "Lucio: 维耶带走了那些失窃的储能单元，并且在其中设置了炸弹。[p/]他试图将其召唤到精炼厂并引爆。",
     "context": "{\n  \"id\": \"line:0f63f57\",\n  \"node\": \"Courtroom2d\",\n  \"text\": \"Lucio: Waye had taken the stolen energy cells and placed a bomb within them.[p/] He was going to summon it into the refinery and detonate it.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::ae1e573f04d69aab",
     "original": "Tyrion: What?!",
-    "translation": "",
+    "translation": "Tyrion: 你说什么？！",
     "context": "{\n  \"id\": \"line:0a6b296\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"Tyrion: What?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::493b5eee26ac5d29",
     "original": "Celeste: There was a [i]bomb[/i] inside that thing?!",
-    "translation": "",
+    "translation": "Celeste: 那里面有个[i]炸弹[/i]？！",
     "context": "{\n  \"id\": \"line:065995b\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"Celeste: There was a [i]bomb[/i] inside that thing?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::a66f5713b732eea3",
     "original": "AriaC: F-[p/][s/]Father![p/][s/] By the Scaled Lord,[p/] [i]why[/i] would you say that?!",
-    "translation": "",
+    "translation": "AriaC: 父、[p/][s/]父亲！[p/][s/]看在鳞甲领主的份上，[p/][i]为什么[/i]你要把这个说出来？！",
     "context": "{\n  \"id\": \"line:0a7efa7\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"AriaC: F-[p/][s/]Father![p/][s/] By the Scaled Lord,[p/] [i]why[/i] would you say that?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7cbc3b00369d475b",
     "original": "Lucio: What are you on about?",
-    "translation": "",
+    "translation": "Lucio: 你在说什么？",
     "context": "{\n  \"id\": \"line:005ef20\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"Lucio: What are you on about?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::cc7a9b873633152d",
     "original": "Lucio: I gave the testimony as you asked.",
-    "translation": "",
+    "translation": "Lucio: 我按你要求给出了证词。",
     "context": "{\n  \"id\": \"line:079bdaa\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"Lucio: I gave the testimony as you asked.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1cb7b5a43e75271b",
     "original": "AriaC: Yes,[p/] but I thought you had enough sense to leave [i]certain[/i] details out of it!",
-    "translation": "",
+    "translation": "AriaC: 没错，[p/]但我以为你会有起码的敏感性，略去[i]特定[/i]谢姐的！",
     "context": "{\n  \"id\": \"line:01430c6\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"AriaC: Yes,[p/] but I thought you had enough sense to leave [i]certain[/i] details out of it!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::69b96fb59e0eb5a9",
     "original": "Lucio: What \"details\"?",
-    "translation": "",
+    "translation": "Lucio: 什么“细节”？",
     "context": "{\n  \"id\": \"line:0ef0c38\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"Lucio: What \\\"details\\\"?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1e17a722b06da37c",
     "original": "Gallery: Insurrectionists were planning to [i]bomb[/i] the Industrial District?!",
-    "translation": "",
+    "translation": "Gallery: 叛乱分子要[i]炸毁[/i]整个工业区吗？！",
     "context": "{\n  \"id\": \"line:044d129\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"Gallery: Insurrectionists were planning to [i]bomb[/i] the Industrial District?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::1a07c593500444fa",
     "original": "Gallery: How could a commoner brazenly rob an imperial ship?![p/][s/] Is the kingdom really so powerless?!",
-    "translation": "",
+    "translation": "Gallery: 一个平民怎么能够明目张胆地在王家舰船上行窃？！[p/][s/]我们的王国真的如此脆弱不堪吗？！",
     "context": "{\n  \"id\": \"line:01f7af6\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"Gallery: How could a commoner brazenly rob an imperial ship?![p/][s/] Is the kingdom really so powerless?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::5c7d67f4553b2c95",
     "original": "Gallery: That boy was a thief and a terrorist![p/][s/] He [i]deserved[/i] what happened to him!",
-    "translation": "",
+    "translation": "Gallery: 那小子既是盗贼还是恐怖分子！[p/][s/]他[i]活该[/i]受死！",
     "context": "{\n  \"id\": \"line:08c30d0\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"Gallery: That boy was a thief and a terrorist![p/][s/] He [i]deserved[/i] what happened to him!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b930146efe5aa14f",
     "original": "AriaC: [i]Those[/i] \"details\"!",
-    "translation": "",
+    "translation": "AriaC: [i]就是这些[/i]“细节”！",
     "context": "{\n  \"id\": \"line:066faeb\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"AriaC: [i]Those[/i] \\\"details\\\"!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3d841076f000beaa",
     "original": "So they really [i]were[/i] planning to use those energy cells to make a bomb.",
-    "translation": "",
+    "translation": "也就是说他们[i]确实[/i]曾计划用那些储能单元制造大爆炸。",
     "context": "{\n  \"id\": \"line:03de241\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"So they really [i]were[/i] planning to use those energy cells to make a bomb.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::9572a88ec30c7e90",
     "original": "I can't believe Justin would agree to do something like this...[p/] He [i]worked[/i] with the people there...",
-    "translation": "",
+    "translation": "但我不敢相信贾斯汀会同意这样做……[p/]他可是与那里的人们[i]一同工作[/i]啊……",
     "context": "{\n  \"id\": \"line:0bcbca5\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"I can't believe Justin would agree to do something like this...[p/] He [i]worked[/i] with the people there...\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::7af70bab13e4f307",
     "original": "Who would have anything to gain from doing something like this?",
-    "translation": "",
+    "translation": "谁会因此得到好处呢？",
     "context": "{\n  \"id\": \"line:029b66c\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"Who would have anything to gain from doing something like this?\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::3319d624a8e14605",
     "original": "Was Lucio trying to manufacture a catastrophe so that he could march his soldiers into Aurinax?!",
-    "translation": "",
+    "translation": "难道是卢西奥刻意要制造灾难，好让他指派军队进入欧奥耐克斯？！",
     "context": "{\n  \"id\": \"line:07cfdc6\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"Was Lucio trying to manufacture a catastrophe so that he could march his soldiers into Aurinax?!\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::eb1a4cc8fe0aa736",
     "original": "...No.[p/] I needed to think through this rationally.",
-    "translation": "",
+    "translation": "……不对。[p/]我得更理性地考虑这个问题。",
     "context": "{\n  \"id\": \"line:0226078\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"...No.[p/] I needed to think through this rationally.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::92ae952e4e63fd35",
     "original": "[i]Both[/i] of the Steelwinds have been acting strangely lately.",
-    "translation": "",
+    "translation": "[i]两位[/i]斯蒂尔文德家的人举动都不寻常。",
     "context": "{\n  \"id\": \"line:0c45c92\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"[i]Both[/i] of the Steelwinds have been acting strangely lately.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b5a34513d38f1f9b",
     "original": "There was something else happening here.",
-    "translation": "",
+    "translation": "这里面肯定有名堂。",
     "context": "{\n  \"id\": \"line:0ca4d38\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"There was something else happening here.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::c1a68fcd9acce14f",
     "original": "...I guess it didn't matter.",
-    "translation": "",
+    "translation": "……但我想也没关系。",
     "context": "{\n  \"id\": \"line:01b5bc7\",\n  \"node\": \"LucioTestAfter\",\n  \"text\": \"...I guess it didn't matter.\"\n}"
   },
   {

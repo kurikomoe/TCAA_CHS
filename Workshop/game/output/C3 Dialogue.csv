@@ -1798,73 +1798,73 @@ line:087e01d,Courtroom2a,"No matter what they had in store,[p/] I would acquit D
 line:0cfd767,Courtroom2b,JUDGE: Court is now resumed for the trial of Stefanic Dracogen.,Judge: 法庭现在开庭，继续审理斯蒂芬尼克·德拉科根案。
 line:010d826,Courtroom2b,"Judge: During our last proceedings,[p/] the defense argued that the victim's death was a result of murder,[p/] not simple negligence.",Judge: 在之前的庭审中，[p/]辩方认为受害人的死因是遭到谋杀，[p/]而非单纯的事故。
 line:0002878,Courtroom2b,Judge: This was supported by a witness who claimed to have seen a spell cast on the victim before his death.,Judge: 这一观点受到一位证人支持，证人宣称曾在受害人死前目击到有被施放法术。
-line:0c98513,Courtroom2b,"Tyrion: Your Honor.[p/] Over the last day,[p/] we've investigated the crime further,[p/] and new facts have come to light.",
-line:0d7e079,Courtroom2b,"Tyrion: Nevertheless,[p/] I maintain that my client is not to blame for Justin's death.",
-line:0acfb01,Courtroom2b,"Tyrion: Unfortunately,[p/] the blame lies with Justin himself.",
-line:010ddb6,Courtroom2b,Judge: ...Is that so?,
-line:0c11016,Courtroom2b,Tyrion: Your Honor.[p/] The victim was wearing a magical ring that allowed him to cast [b]conjuration[/b] magic.,
-line:0d0e33b,Courtroom2b,"Tyrion: It seems that he entered the refinery in order to steal business documents from my client,[p/] and the ring was meant to aid in that.",
-line:094e710,Courtroom2b,"Tyrion: After he had stolen the documents,[p/] he activated the ring on the refinery catwalk.",
-line:06b080c,Courtroom2b,"Tyrion: It malfunctioned in some way,[p/] causing an explosion of spatial energy.",
-line:0b0b150,Courtroom2b,Tyrion: [i]That[/i] energy is what broke apart the guardrail.,
-line:0295e51,Courtroom2b,Judge: ...Are you trying to say that the [i]victim[/i] was the culprit behind the most recent string of robberies?,
-line:0bfafa7,Courtroom2b,"Tyrion: Unfortunately, I am, Your Honor.",
+line:0c98513,Courtroom2b,"Tyrion: Your Honor.[p/] Over the last day,[p/] we've investigated the crime further,[p/] and new facts have come to light.",Tyrion: 法官阁下。[p/]昨日，[p/]我们进一步调查了案件情况，[p/]而新的事实得以浮出水面。
+line:0d7e079,Courtroom2b,"Tyrion: Nevertheless,[p/] I maintain that my client is not to blame for Justin's death.",Tyrion: 不论如何，[p/]我仍然坚持我的委托人不应为贾斯汀的死亡负责。
+line:0acfb01,Courtroom2b,"Tyrion: Unfortunately,[p/] the blame lies with Justin himself.",Tyrion: 不幸的是，[p/]责任在与贾斯汀自身。
+line:010ddb6,Courtroom2b,Judge: ...Is that so?,Judge: ……是这样吗？
+line:0c11016,Courtroom2b,Tyrion: Your Honor.[p/] The victim was wearing a magical ring that allowed him to cast [b]conjuration[/b] magic.,Tyrion: 法官阁下。[p/]受害人当时佩戴有一枚魔法指环，能让他施放[b]召唤术[/b]。
+line:0d0e33b,Courtroom2b,"Tyrion: It seems that he entered the refinery in order to steal business documents from my client,[p/] and the ring was meant to aid in that.",Tyrion: 看起来他是为了偷窃我委托人的商业文档而进入精炼厂，[p/]而那枚指环是为了协助他达成目的的。
+line:094e710,Courtroom2b,"Tyrion: After he had stolen the documents,[p/] he activated the ring on the refinery catwalk.",Tyrion: 在偷到文档后，[p/]他在架空步道上激活了指环。
+line:06b080c,Courtroom2b,"Tyrion: It malfunctioned in some way,[p/] causing an explosion of spatial energy.",Tyrion: 而指环出现了某种故障，[p/]致使发生空间中蕴含的能量产生爆炸。
+line:0b0b150,Courtroom2b,Tyrion: [i]That[/i] energy is what broke apart the guardrail.,Tyrion: [i]那种[/i]能量击毁了护栏。
+line:0295e51,Courtroom2b,Judge: ...Are you trying to say that the [i]victim[/i] was the culprit behind the most recent string of robberies?,Judge: ……那你是要说，[i]受害人[/i]本人就是近期一系列盗窃案的真凶？
+line:0bfafa7,Courtroom2b,"Tyrion: Unfortunately, I am, Your Honor.",Tyrion: 很不幸，就是这样，法官阁下。
 line:0a5b94c,Courtroom2b,AriaC: ...,AriaC: ……
-line:0d05fe2,Courtroom2b,"AriaC: ...Is that it, Mr. Cuthbert?",
-line:04245ba,Courtroom2b,"Tyrion: What are you talking about, Steelwind?",
-line:05414ca,Courtroom2b,Tyrion: It's obvious that my client didn't have any hand in Justin's death.,
-line:0a388e4,Courtroom2c,AriaC: ...And do you have any evidence of that?,
-line:0668ce7,Courtroom2c,Tyrion: Mosourika Tudor [i]saw[/i] a magical effect blast the guardrail apart.,
-line:00e2272,Courtroom2c,AriaC: We've been over this.[p/] Ms. Tudor had every reason to lie in her testimony last session.,
-line:0bba6a0,Courtroom2c,Tyrion: She didn't know about Justin's ring![p/][s/] How could she have known to lie about something like that?,
-line:021cbed,Courtroom2c,AriaC: You're assuming that she [i]didn't[/i] know about it beforehand.,
-line:0bb574e,Courtroom2c,AriaC: The two of them were known friends.[p/] It's not implausible that he showed it to her.,
-line:0aa0a1c,Courtroom2c,"Tyrion: Well, what about the Crown Prince?",
-line:04bafa8,Courtroom2c,Tyrion: He saw the magical effect as well!,
-line:0460016,Courtroom2c,"AriaC: For obvious reasons,[p/] the Crown Prince can't be called to testify in a case of this magnitude.",
-line:0d2fb74,Courtroom2c,"AriaC: As far as the courts are concerned,[p/] you can't use his testimony as evidence.",
-line:0045371,Courtroom2c,"She was being unreasonably obtuse,[p/] even more so than usual...",
-line:0a72cce,Courtroom2c,What was she doing?,
-line:017e949,Courtroom2c,"AriaC: On the subject of the victim,[p/] we've also discovered new facts regarding his...[p/] [i]actions[/i] that morning.",
-line:048a794,Courtroom2c,AriaC: ...The prosecution would like to call Lucio Steelwind to the stand.,
-line:0ec54bd,Courtroom2c,Judge: T-[p/][s/]The Grand General?!,
-line:05f1118,Courtroom2c,"AriaC: As many of you know,[p/] the serial robber stole cargo from an imperial ship on the morning of the accident.",
-line:0a453df,Courtroom2c,"AriaC: We've since located the cargo,[p/] and what we found paints quite the picture of the victim's intentions that day.",
-line:02373d2,Courtroom2c,Judge: I-[p/][s/]I see...,
-line:02efbe0,Courtroom2c,Judge: Bailiff.[p/] Please escort the Grand General to the stand.,
+line:0d05fe2,Courtroom2b,"AriaC: ...Is that it, Mr. Cuthbert?",AriaC: ……真的如此吗，卡斯伯特先生？
+line:04245ba,Courtroom2b,"Tyrion: What are you talking about, Steelwind?",Tyrion: 你想说什么呢，斯蒂尔文德？
+line:05414ca,Courtroom2b,Tyrion: It's obvious that my client didn't have any hand in Justin's death.,Tyrion: 很显然我的委托人与贾斯汀之死并无关联。
+line:0a388e4,Courtroom2c,AriaC: ...And do you have any evidence of that?,AriaC: ……你有任何证据能证明吗？
+line:0668ce7,Courtroom2c,Tyrion: Mosourika Tudor [i]saw[/i] a magical effect blast the guardrail apart.,Tyrion: 莫苏里卡·都铎[i]有看到[/i]一种魔法效应吹飞了护栏。
+line:00e2272,Courtroom2c,AriaC: We've been over this.[p/] Ms. Tudor had every reason to lie in her testimony last session.,AriaC: 我们已经讨论过这点。[p/]都铎女士完全有理由在上次的庭审中说谎。
+line:0bba6a0,Courtroom2c,Tyrion: She didn't know about Justin's ring![p/][s/] How could she have known to lie about something like that?,Tyrion: 她可不知道贾斯汀那枚指环的情况！[p/][s/]她怎么会知道要在这件事上说谎呢？
+line:021cbed,Courtroom2c,AriaC: You're assuming that she [i]didn't[/i] know about it beforehand.,AriaC: 你只是假设她[i]不会[/i]之前就知道。
+line:0bb574e,Courtroom2c,AriaC: The two of them were known friends.[p/] It's not implausible that he showed it to her.,AriaC: 他们两人是熟识的朋友。[p/]他有给她看过指环并非不可能。
+line:0aa0a1c,Courtroom2c,"Tyrion: Well, what about the Crown Prince?",Tyrion: 好啊，那王储殿下怎么样？
+line:04bafa8,Courtroom2c,Tyrion: He saw the magical effect as well!,Tyrion: 他也有看到那个魔法效应！
+line:0460016,Courtroom2c,"AriaC: For obvious reasons,[p/] the Crown Prince can't be called to testify in a case of this magnitude.",AriaC: 因为显而易见的原因，[p/]如此重要的案件，不能请王储殿下出庭作证。
+line:0d2fb74,Courtroom2c,"AriaC: As far as the courts are concerned,[p/] you can't use his testimony as evidence.",AriaC: 就本次庭审而言，[p/]你不能使用他的发言作为证据。
+line:0045371,Courtroom2c,"She was being unreasonably obtuse,[p/] even more so than usual...",她有些不可理喻地迟钝，[p/]远胜于往常……
+line:0a72cce,Courtroom2c,What was she doing?,她到底要干什么？
+line:017e949,Courtroom2c,"AriaC: On the subject of the victim,[p/] we've also discovered new facts regarding his...[p/] [i]actions[/i] that morning.",AriaC: 关于受害者，[p/]我们就他在那早上的……[p/][i]行动[/i]发现了新的事实。
+line:048a794,Courtroom2c,AriaC: ...The prosecution would like to call Lucio Steelwind to the stand.,AriaC: ……检方提议传唤卢西奥·斯蒂尔文德作证。
+line:0ec54bd,Courtroom2c,Judge: T-[p/][s/]The Grand General?!,Judge: 大、[p/][s/]大将军本人？！
+line:05f1118,Courtroom2c,"AriaC: As many of you know,[p/] the serial robber stole cargo from an imperial ship on the morning of the accident.",AriaC: 正如各位所知，[p/]那个连续盗窃的犯人在案发的那个早上从王家的舰船偷走了货物。
+line:0a453df,Courtroom2c,"AriaC: We've since located the cargo,[p/] and what we found paints quite the picture of the victim's intentions that day.",AriaC: 我们已经找到了货物，[p/]而我们的发现清晰地描绘了受害人当天的意图。
+line:02373d2,Courtroom2c,Judge: I-[p/][s/]I see...,Judge: 我、[p/][s/]我明白了……
+line:02efbe0,Courtroom2c,Judge: Bailiff.[p/] Please escort the Grand General to the stand.,Judge: 法警。[p/]请护送大将军到证人席。
 line:0ff6a24,Courtroom2d,AriaC: ...,AriaC: ……
 line:0301d98,Courtroom2d,Lucio: ...,Lucio: ……
-line:06d2d5e,Courtroom2d,"Tyrion: Okay, I guess [i]I'll[/i] just say it.",
-line:090d897,Courtroom2d,"Tyrion: Witness,[p/] please state your name and—",
-line:07e2d23,Courtroom2d,Lucio: Are you really going to waste my time with that?,
-line:0e0b10c,Courtroom2d,Lucio: We all know who I am.,
-line:019e3fe,Courtroom2d,"Tyrion: Look,[p/] I just—",
-line:0b66c59,Courtroom2d,Lucio: Enough.[p/] I'm giving my testimony now.,
-line:0238b1a,Courtroom2d,"Lucio: Justin Waye had been committing a string of robberies in Aurinax Harbor,[p/] the last of which included an imperial shipment of high-capacity energy cells.",
-line:0bb5676,Courtroom2d,Lucio: Waye was working with insurrectionists who provided him with an advanced magical ring.[p/] He used that ring during his robberies.,
-line:005189d,Courtroom2d,Lucio: One of the ring's functions allowed him to teleport himself.[p/] The other allowed him to summon an item to him.,
-line:0f63f57,Courtroom2d,Lucio: Waye had taken the stolen energy cells and placed a bomb within them.[p/] He was going to summon it into the refinery and detonate it.,
+line:06d2d5e,Courtroom2d,"Tyrion: Okay, I guess [i]I'll[/i] just say it.",Tyrion: 行吧，我想这次[i]轮到我了[/i]。
+line:090d897,Courtroom2d,"Tyrion: Witness,[p/] please state your name and—","Tyrion: 证人，,[p/]请向法庭陈述你的姓——"
+line:07e2d23,Courtroom2d,Lucio: Are you really going to waste my time with that?,Lucio: 你真要用这一套浪费我的时间？
+line:0e0b10c,Courtroom2d,Lucio: We all know who I am.,Lucio: 大家都清楚我的身份。
+line:019e3fe,Courtroom2d,"Tyrion: Look,[p/] I just—",Tyrion: 是这样，[p/]我只是——
+line:0b66c59,Courtroom2d,Lucio: Enough.[p/] I'm giving my testimony now.,Lucio: 够了。[p/]我现在就作证。
+line:0238b1a,Courtroom2d,"Lucio: Justin Waye had been committing a string of robberies in Aurinax Harbor,[p/] the last of which included an imperial shipment of high-capacity energy cells.",Lucio: 贾斯汀·维耶在欧奥耐克斯港实施了一系列盗窃，[p/]最后一批还包括从王家舰船偷窃的高容量奥术储能单元。
+line:0bb5676,Courtroom2d,Lucio: Waye was working with insurrectionists who provided him with an advanced magical ring.[p/] He used that ring during his robberies.,Lucio: 维耶与叛乱分子合作，并从他们那里得到一枚高级的魔法指环。[p/]他利用其功能实施盗窃。
+line:005189d,Courtroom2d,Lucio: One of the ring's functions allowed him to teleport himself.[p/] The other allowed him to summon an item to him.,Lucio: 指环的一个功能是让他可以传送自身。[p/]另一个是将物体召唤到他身旁。
+line:0f63f57,Courtroom2d,Lucio: Waye had taken the stolen energy cells and placed a bomb within them.[p/] He was going to summon it into the refinery and detonate it.,Lucio: 维耶带走了那些失窃的储能单元，并且在其中设置了炸弹。[p/]他试图将其召唤到精炼厂并引爆。
 line:07a0fcb,LucioTestAfter,Tyrion: ...,Tyrion: ……
-line:0a6b296,LucioTestAfter,Tyrion: What?!,
-line:065995b,LucioTestAfter,Celeste: There was a [i]bomb[/i] inside that thing?!,
-line:0a7efa7,LucioTestAfter,"AriaC: F-[p/][s/]Father![p/][s/] By the Scaled Lord,[p/] [i]why[/i] would you say that?!",
-line:005ef20,LucioTestAfter,Lucio: What are you on about?,
-line:079bdaa,LucioTestAfter,Lucio: I gave the testimony as you asked.,
-line:01430c6,LucioTestAfter,"AriaC: Yes,[p/] but I thought you had enough sense to leave [i]certain[/i] details out of it!",
-line:0ef0c38,LucioTestAfter,"Lucio: What ""details""?",
-line:044d129,LucioTestAfter,Gallery: Insurrectionists were planning to [i]bomb[/i] the Industrial District?!,
-line:01f7af6,LucioTestAfter,Gallery: How could a commoner brazenly rob an imperial ship?![p/][s/] Is the kingdom really so powerless?!,
-line:08c30d0,LucioTestAfter,Gallery: That boy was a thief and a terrorist![p/][s/] He [i]deserved[/i] what happened to him!,
-line:066faeb,LucioTestAfter,"AriaC: [i]Those[/i] ""details""!",
-line:03de241,LucioTestAfter,So they really [i]were[/i] planning to use those energy cells to make a bomb.,
-line:0bcbca5,LucioTestAfter,I can't believe Justin would agree to do something like this...[p/] He [i]worked[/i] with the people there...,
-line:029b66c,LucioTestAfter,Who would have anything to gain from doing something like this?,
-line:07cfdc6,LucioTestAfter,Was Lucio trying to manufacture a catastrophe so that he could march his soldiers into Aurinax?!,
-line:0226078,LucioTestAfter,...No.[p/] I needed to think through this rationally.,
-line:0c45c92,LucioTestAfter,[i]Both[/i] of the Steelwinds have been acting strangely lately.,
-line:0ca4d38,LucioTestAfter,There was something else happening here.,
-line:01b5bc7,LucioTestAfter,...I guess it didn't matter.,
-line:082457a,CrossLucio2,"Lucio: Justin Waye had been committing a string of robberies in Aurinax Harbor,[p/] the last of which included an imperial shipment of high-capacity energy cells.",
+line:0a6b296,LucioTestAfter,Tyrion: What?!,Tyrion: 你说什么？！
+line:065995b,LucioTestAfter,Celeste: There was a [i]bomb[/i] inside that thing?!,Celeste: 那里面有个[i]炸弹[/i]？！
+line:0a7efa7,LucioTestAfter,"AriaC: F-[p/][s/]Father![p/][s/] By the Scaled Lord,[p/] [i]why[/i] would you say that?!",AriaC: 父、[p/][s/]父亲！[p/][s/]看在鳞甲领主的份上，[p/][i]为什么[/i]你要把这个说出来？！
+line:005ef20,LucioTestAfter,Lucio: What are you on about?,Lucio: 你在说什么？
+line:079bdaa,LucioTestAfter,Lucio: I gave the testimony as you asked.,Lucio: 我按你要求给出了证词。
+line:01430c6,LucioTestAfter,"AriaC: Yes,[p/] but I thought you had enough sense to leave [i]certain[/i] details out of it!",AriaC: 没错，[p/]但我以为你会有起码的敏感性，略去[i]特定[/i]谢姐的！
+line:0ef0c38,LucioTestAfter,"Lucio: What ""details""?",Lucio: 什么“细节”？
+line:044d129,LucioTestAfter,Gallery: Insurrectionists were planning to [i]bomb[/i] the Industrial District?!,Gallery: 叛乱分子要[i]炸毁[/i]整个工业区吗？！
+line:01f7af6,LucioTestAfter,Gallery: How could a commoner brazenly rob an imperial ship?![p/][s/] Is the kingdom really so powerless?!,Gallery: 一个平民怎么能够明目张胆地在王家舰船上行窃？！[p/][s/]我们的王国真的如此脆弱不堪吗？！
+line:08c30d0,LucioTestAfter,Gallery: That boy was a thief and a terrorist![p/][s/] He [i]deserved[/i] what happened to him!,Gallery: 那小子既是盗贼还是恐怖分子！[p/][s/]他[i]活该[/i]受死！
+line:066faeb,LucioTestAfter,"AriaC: [i]Those[/i] ""details""!",AriaC: [i]就是这些[/i]“细节”！
+line:03de241,LucioTestAfter,So they really [i]were[/i] planning to use those energy cells to make a bomb.,也就是说他们[i]确实[/i]曾计划用那些储能单元制造大爆炸。
+line:0bcbca5,LucioTestAfter,I can't believe Justin would agree to do something like this...[p/] He [i]worked[/i] with the people there...,但我不敢相信贾斯汀会同意这样做……[p/]他可是与那里的人们[i]一同工作[/i]啊……
+line:029b66c,LucioTestAfter,Who would have anything to gain from doing something like this?,谁会因此得到好处呢？
+line:07cfdc6,LucioTestAfter,Was Lucio trying to manufacture a catastrophe so that he could march his soldiers into Aurinax?!,难道是卢西奥刻意要制造灾难，好让他指派军队进入欧奥耐克斯？！
+line:0226078,LucioTestAfter,...No.[p/] I needed to think through this rationally.,……不对。[p/]我得更理性地考虑这个问题。
+line:0c45c92,LucioTestAfter,[i]Both[/i] of the Steelwinds have been acting strangely lately.,[i]两位[/i]斯蒂尔文德家的人举动都不寻常。
+line:0ca4d38,LucioTestAfter,There was something else happening here.,这里面肯定有名堂。
+line:01b5bc7,LucioTestAfter,...I guess it didn't matter.,……但我想也没关系。
+line:082457a,CrossLucio2,"Lucio: Justin Waye had been committing a string of robberies in Aurinax Harbor,[p/] the last of which included an imperial shipment of high-capacity energy cells.",Lucio: 贾斯汀·维耶在欧奥耐克斯港实施了一系列盗窃，[p/]最后一批还包括从王家舰船偷窃的高容量奥术储能单元。
 line:0a16401,CrossLucio2,Tyrion: I've learned that Justin was quite skilled at breaking into secure places.,
 line:042db96,CrossLucio2,Tyrion: But I never imagined he'd be able to break into an imperial ship without being caught.,
 line:023f732,CrossLucio2,Lucio: ...He shouldn't have.,
@@ -1882,7 +1882,7 @@ line:08a43a5,CrossLucio2,Judge: M-[p/][s/]Mr. Cuthbert!,Judge: 卡、[p/][s/]卡
 line:0007a37,CrossLucio2,AriaC: ...The prosecution does not refute the defense's statement.,
 line:0b24fee,CrossLucio2,AriaC: The prosecution also does not conclude that the victim was a part of [i]any[/i] insurrectionist group.,
 line:0a0b7ed,CrossLucio2,Lucio: ...,Lucio: ……
-line:0e6659d,CrossLucio2,Lucio: One of the ring's functions allowed him to teleport himself.[p/] The other allowed him to summon an item to him.,
+line:0e6659d,CrossLucio2,Lucio: One of the ring's functions allowed him to teleport himself.[p/] The other allowed him to summon an item to him.,Lucio: 指环的一个功能是让他可以传送自身。[p/]另一个是将物体召唤到他身旁。
 line:0e5536d,CrossLucio2,Tyrion: Could he summon [i]any[/i] item he wanted?,
 line:0902319,CrossLucio2,Lucio: He would need to affix a specific kind of energy crystal to the object he wanted to summon.,
 line:0346799,CrossLucio2,Lucio: We found such a crystal attached to the metal chest containing the bomb.,
@@ -1892,7 +1892,7 @@ line:0a3ecc7,CrossLucio2,"AriaC: Luckily,[p/] the crystal attached to the bomb w
 line:0063272,CrossLucio2,"AriaC: We were able to verify its connection to the ring,[p/] however disrupted it was.",
 line:052f655,CrossLucio2,Lucio: It was clear that he meant to summon that chest into the refinery.,
 line:0c1707d,CrossLucio2,Lucio: It was only out of sheer luck that he died before that could happen.,
-line:0b6faa0,CrossLucio2,Lucio: Waye had taken the stolen energy cells and placed a bomb within them.[p/] He was going to summon it into the refinery and detonate it.,
+line:0b6faa0,CrossLucio2,Lucio: Waye had taken the stolen energy cells and placed a bomb within them.[p/] He was going to summon it into the refinery and detonate it.,Lucio: 维耶带走了那些失窃的储能单元，并且在其中设置了炸弹。[p/]他试图将其召唤到精炼厂并引爆。
 line:09ce638,CrossLucio2,Lucio: We're lucky he never got the chance to summon that container.[p/] The results would have been catastrophic.,
 line:0940be0,CrossLucio2,Player: Overflow,
 line:05f2e88,CrossLucio2,Celeste: Was Justin really planning to blow up the refinery?,
@@ -3133,7 +3133,7 @@ line:081611a,Factory1_Check,"Tyrion: I already told Rika this,[p/] but I've neve
 line:0af8823,Factory1_Check,Tyrion: I honestly don't know how much help I'll be.,
 line:012dbf1,Factory1_Check,"Stefanic: Well,[p/] there isn't a single attorney in Aurinax that [i]will[/i] represent me.",
 line:01765d3,Factory1_Check,"Stefanic: So,[p/] I'd appreciate having you as my attorney—[p/]especially with the trial in only a few hours.",
-line:0c9b2c1,Factory1_Check,Tyrion: What?!,
+line:0c9b2c1,Factory1_Check,Tyrion: What?!,Tyrion: 你说什么？！
 line:04bf6a0,Factory1_Check,Stefanic: I thought it was strange too.[p/] The Duke must be pulling some strings.,
 line:0fc114a,Factory1_Check,"The courts usually only rushed cases to trial when they involved magic,[p/] but there was supposedly no magic involved in what happened.",
 line:0b07c3f,Factory1_Check,Did the prosecution know something I didn't?,
