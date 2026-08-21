@@ -9812,19 +9812,19 @@
   {
     "key": "C3 Dialogue.csv::translation::35278b18f792fa7f",
     "original": "JUDGE: Court is now resumed for the trial of Stefanic Dracogen.",
-    "translation": "",
+    "translation": "Judge: 法庭现在开庭，继续审理斯蒂芬尼克·德拉科根案。",
     "context": "{\n  \"id\": \"line:0cfd767\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"JUDGE: Court is now resumed for the trial of Stefanic Dracogen.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::b4521fa4c6b882e5",
     "original": "Judge: During our last proceedings,[p/] the defense argued that the victim's death was a result of murder,[p/] not simple negligence.",
-    "translation": "",
+    "translation": "Judge: 在之前的庭审中，[p/]辩方认为受害人的死因是遭到谋杀，[p/]而非单纯的事故。",
     "context": "{\n  \"id\": \"line:010d826\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Judge: During our last proceedings,[p/] the defense argued that the victim's death was a result of murder,[p/] not simple negligence.\"\n}"
   },
   {
     "key": "C3 Dialogue.csv::translation::e8b4174031e8b19c",
     "original": "Judge: This was supported by a witness who claimed to have seen a spell cast on the victim before his death.",
-    "translation": "",
+    "translation": "Judge: 这一观点受到一位证人支持，证人宣称曾在受害人死前目击到有被施放法术。",
     "context": "{\n  \"id\": \"line:0002878\",\n  \"node\": \"Courtroom2b\",\n  \"text\": \"Judge: This was supported by a witness who claimed to have seen a spell cast on the victim before his death.\"\n}"
   },
   {
